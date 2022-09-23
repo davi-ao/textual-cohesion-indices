@@ -3,10 +3,12 @@
 ###########################################
 if (!require(tidyverse)) {
   install.packages("tidyverse")
+  library(tidyverse)
 }
 
 if (!require(wordnet)) {
   install.packages("wordnet")
+  library(wordnet)
 }
 
 setDict('./wn3.1.dict/dict/')

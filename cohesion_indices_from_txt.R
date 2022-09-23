@@ -292,9 +292,9 @@ indices %>%
            recode('text1' = 'Text 1', 'text2' = 'Text 2'),
          index = index %>%
            as_factor() %>%
-           recode('global' = 'Θ - Global Backward Cohesion',
-                  'local' = 'Ξ - Local Backward Cohesion',
-                  'pairwise' = 'Η - Mean Pairwise Cohesion'),
+           recode('global' = 'θ - Global Backward Cohesion',
+                  'local' = 'λ - Local Backward Cohesion',
+                  'pairwise' = 'ρ - Mean Pairwise Cohesion'),
          type = type %>%
            as_factor() %>%
            recode('e' = 'Edges Cohesion',
