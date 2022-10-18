@@ -22,7 +22,7 @@ library(jtools)
 theme_set(theme_apa())
 
 # Load text
-text_name = 'text2'
+text_name = 'S0167739X17328431'
 text = read_file(paste0(text_name, '.txt'))
 
 # Data cleansing ---------------------------------------------------------------
@@ -255,13 +255,13 @@ for(i in 1:length(q)) {
 }
 
 # Create the indices table if it doesn't exist
-#indices = tibble(
-#  text = character(),
-#  clique = numeric(),
-#  index = character(),
-#  v = numeric(),
-#  e = numeric()
-#)
+indices = tibble(
+  text = character(),
+  clique = numeric(),
+  index = character(),
+  v = numeric(),
+  e = numeric()
+)
 
 # Table with all the indices
 indices = indices %>%
@@ -302,13 +302,14 @@ indices %>%
   ggplot(aes(clique, value, color = index, linetype = index)) +
   facet_grid(rows = vars(type), cols = vars(text), scales = 'free_y') +
   geom_line() +
-  scale_x_continuous(breaks = 1:10) + 
+  geom_line() +
+  #scale_x_continuous(breaks = 1:10) + 
   xlab('Clique') +
   ylab('Value') +
   theme(legend.position = 'bottom', legend.direction = 'vertical') +
   scale_color_brewer(palette = 'Dark2')
 
-ggsave('Figura6.png', 
+ggsave('FiguraX.png', 
        device = 'png', 
        width = 16, 
        height = 16, 
