@@ -4,102 +4,12 @@
 # Date: 22/09/2022                                                  #
 #####################################################################
 
-# Load functions
-# Obs: these lines also install and load the packages tidyverse and wordnet
-source('get_word_synonyms.R')
-source('get_word_hypernyms.R')
-
-# Install packages, if necessary
-#install.packages('udpipe')
-#install.packages('SnowballC')
-
-# Load additional packages
-library(udpipe)
-library(SnowballC)
+# Load packages
+library(tidyverse)
 library(jtools)
 
 # Set APA theme for the plots
 theme_set(theme_apa())
-
-# Load text
-text_name = 'S0167739X17328431'
-text = read_file(paste0(text_name, '.txt'))
-
-# Data cleansing ---------------------------------------------------------------
-clean_text = text %>%
-  # Remove numbered external references (e.g. [1])
-  str_remove_all('\\[\\d+\\]') %>%
-  # Replace numbered internal references (e.g. (1)) with spaces
-  str_replace_all('\\(\\d+\\)', ' ') %>%
-  # Remove html elements
-  str_replace_all('<[^<>]+>.*<\\/[^<>]+>', ' ') %>%
-  # Remove 's
-  str_remove_all('’s') %>%
-  # Remove symbols (except sentence boundaries)
-  str_remove_all('[‘’:%,]') %>%
-  # Replace other symbols with space (e.g. hyphens)
-  str_replace_all('[-–\\(\\)\\/\\n-]', ' ') %>%
-  # Remove section references (e.g. 1.1, 1.1.1)
-  str_remove_all('\\d+(.\\d+)+') %>%
-  # Remove common abbreviations
-  str_remove_all('i\\.e\\.|e\\.g\\.|et al\\.') %>%
-  # Replace numbers with their names
-  str_replace_all('0', 'zero') %>%
-  str_replace_all('1', 'one') %>%
-  str_replace_all('2', 'two') %>%
-  str_replace_all('3', 'three') %>%
-  str_replace_all('4', 'four') %>%
-  str_replace_all('5', 'five') %>%
-  str_replace_all('6', 'six') %>%
-  str_replace_all('7', 'seven') %>%
-  str_replace_all('8', 'eight') %>%
-  str_replace_all('9', 'nine') %>%
-  # Remove points inside expressions
-  str_replace_all('(\\s\\w+)\\.(\\w+\\s?)', '\\1\\2') %>%
-  # Remove 'i' used as numbers (i, ii, iii)
-  str_replace_all('\\si+\\s', ' ') %>%
-  # Replace know abbreviations with their full forms
-  str_replace_all('[Ff]ig\\.', 'figure') %>%
-  str_replace_all('[Ee]q\\.', 'equation') %>%
-  # Remove all non-word character (except .)
-  str_remove_all('[^\\w\\s\\.]') %>%
-  # Replace multiple whitespaces with a single whitespace
-  str_replace_all('\\s+', ' ')
-
-# Annotate text ----------------------------------------------------------------
-# Select the udpipe model
-model = udpipe_load_model('english-ewt-ud-2.5-191206.udpipe')
-
-# List the universal part of speech (upos) that will be removed
-stopupos = c('PUNCT', 'SYM', 'NUM', 'INTJ', 'X',
-             'PRON', 'ADP', 'AUX', 'CCONJ', 'DET', 'PART', 'SCONJ')
-
-annotated_text = clean_text %>%
-  udpipe_annotate(model, .) %>%
-  as_tibble() %>% 
-  select(sentence_id, token, lemma, upos) %>%
-  filter(!upos %in% stopupos & !str_detect(lemma, '\\W')) %>%
-  mutate(lemma = lemma %>% str_to_lower(),
-         token = token %>% str_to_lower()) %>%
-  mutate(stem = wordStem(lemma)) %>%
-  group_by(sentence_id) %>%
-  distinct() %>%
-  ungroup() %>%
-  rename(clique = sentence_id)
-
-synonyms_hypernyms = annotated_text %>%
-  distinct(lemma, upos) %>%
-  mutate(synonyms = mapply(function(l, p){get_word_synonyms(l, p)}, 
-                           lemma, 
-                           upos) %>% 
-           unlist()) %>%
-  mutate(hypernyms = mapply(function(l, p){get_word_hypernyms(l, p)}, 
-                            lemma, 
-                            upos) %>% 
-           unlist())
-
-annotated_text = annotated_text %>%
-  left_join(synonyms_hypernyms, by = c('lemma', 'upos'))
 
 # Global Backward Cohesion Indices ---------------------------------------------
 data = annotated_text %>%
@@ -299,10 +209,10 @@ indices %>%
            as_factor() %>%
            recode('e' = 'Edges Cohesion',
                   'v' = 'Vertices Cohesion')) %>%
-  ggplot(aes(clique, value, color = index, linetype = index)) +
+  ggplot(aes(clique, value, color = index, linetype = index, shape = index)) +
   facet_grid(rows = vars(type), cols = vars(text), scales = 'free_y') +
   geom_line() +
-  geom_line() +
+  geom_point() +
   #scale_x_continuous(breaks = 1:10) + 
   xlab('Clique') +
   ylab('Value') +
