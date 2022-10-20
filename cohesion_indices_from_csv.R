@@ -12,13 +12,13 @@ library(jtools)
 theme_set(theme_apa())
 
 # List csv files
-dir = 'corpus/csv/'
+dir = 'corpus/csv_pseudotexts/'
 files = list.files(dir, pattern='^S')
 
 # Create the indices table
 indices = tibble(
   text = character(),
-  clique = numeric(),
+  clique = character(),
   index = character(),
   v = numeric(),
   e = numeric()
@@ -30,13 +30,13 @@ for (file in files) {
   
   # Global Backward Cohesion Indices ---------------------------------------------
   data = annotated_text %>%
-    group_by(clique) %>%
+    group_by(clique_id) %>%
     distinct(stem, .keep_all = T) %>%
     mutate(synonyms = synonyms %>% str_remove_all('\\(a\\)|\\(p\\)'))
   
   global_backward_cohesion = tibble(
     text = character(),
-    clique = integer(),
+    clique = character(),
     r = integer(),
     m_c = integer(),
     q_n = integer(),
@@ -45,14 +45,14 @@ for (file in files) {
     e = double()
   )
   
-  for(q in (data %>% .$clique %>% unique())) {
-    q_i = data %>% filter(clique == q)
-    G_i = data %>% filter(clique < q)
+  for(q in (data %>% .$clique_id %>% unique())) {
+    q_i = data %>% filter(clique_id == q)
+    G_i = data %>% filter(clique_id < q)
     
     global_backward_cohesion = global_backward_cohesion %>%
       bind_rows(tibble(
         text = text_name,
-        clique = q,
+        clique_id = q,
         r = intersect(q_i %>% .$stem, G_i %>% .$stem) %>% length(),
         m_c = (q_i %>% filter(!stem %in% G_i$stem) %>% .$lemma) %in% 
           (c(G_i %>% .$synonyms %>% str_split('\\|') %>% unlist(),
@@ -77,11 +77,11 @@ for (file in files) {
   }
   
   # Local Backward Cohesion Indices ----------------------------------------------
-  q = data %>% .$clique %>% unique()
+  q = data %>% .$clique_id %>% unique()
   
   local_backward_cohesion = tibble(
     text = character(),
-    clique = integer(),
+    clique_id = character(),
     r = integer(),
     m_c = integer(),
     q_n = integer(),
@@ -91,12 +91,12 @@ for (file in files) {
   )
   
   for(i in 1:length(q)) {
-    q_i = data %>% filter(clique == q[i])
+    q_i = data %>% filter(clique_id == q[i])
     
     if (i > 1) {
-      q_j = data %>% filter(clique == q[i - 1])
+      q_j = data %>% filter(clique_id == q[i - 1])
     } else {
-      q_j = tibble(clique = integer(),
+      q_j = tibble(clique_id = character(),
                    token = character(),
                    lemma = character(),
                    upos = character(),
@@ -109,7 +109,7 @@ for (file in files) {
     local_backward_cohesion = local_backward_cohesion %>%
       bind_rows(tibble(
         text = text_name,
-        clique = q[i],
+        clique_id = q[i],
         r = intersect(q_i %>% .$stem, q_j %>% .$stem) %>% length(),
         m_c = (q_i %>% filter(!stem %in% q_j$stem) %>% .$lemma) %in% 
           (c(q_j %>% .$synonyms %>% str_split('\\|') %>% unlist(),
@@ -136,7 +136,7 @@ for (file in files) {
   # Mean Pairwise Cohesion Indices -----------------------------------------------
   mean_pairwise_cohesion = tibble(
     text = character(),
-    clique = integer(),
+    clique_id = character(),
     v = double(),
     e = double()
   )
@@ -149,13 +149,13 @@ for (file in files) {
   colnames(pairwise_indices_e) = q
   
   for(i in 1:length(q)) {
-    q_i = data %>% filter(clique == q[i])
+    q_i = data %>% filter(clique_id == q[i])
     
     q_n = q_i %>% nrow()
     
     for (j in 1:length(q)) {
       if (j > i) {
-        q_j = data %>% filter(clique == q[j])
+        q_j = data %>% filter(clique_id == q[j])
         r = intersect(q_i %>% .$stem, q_j %>% .$stem) %>% length()
         m_c = (q_i %>% filter(!stem %in% q_j$stem) %>% .$lemma) %in% 
           (c(q_j %>% .$synonyms %>% str_split('\\|') %>% unlist(),
@@ -175,7 +175,7 @@ for (file in files) {
     mean_pairwise_cohesion = mean_pairwise_cohesion %>%
       bind_rows(tibble(
         text = text_name,
-        clique = q[i],
+        clique_id = q[i],
         v = mean(pairwise_indices_v[i,], na.rm = T),
         e = mean(pairwise_indices_e[i,], na.rm = T)
       ))
@@ -185,48 +185,16 @@ for (file in files) {
   indices = indices %>%
     bind_rows(
       global_backward_cohesion %>%
-        select(text, clique, v, e) %>%
+        select(text, clique_id, v, e) %>%
         mutate(index = 'global')) %>%
     bind_rows(
       local_backward_cohesion %>%
-        select(text, clique, v, e) %>%
+        select(text, clique_id, v, e) %>%
         mutate(index = 'local')) %>%
     bind_rows(
       mean_pairwise_cohesion %>%
-        select(text, clique, v, e) %>%
+        select(text, clique_id, v, e) %>%
         mutate(index = 'pairwise'))
   
-  write_csv(indices, paste0('corpus/indices/', file))
+  write_csv(indices, paste0('corpus/indices_pseudotexts/', file))
 }
-
-# Plot of cohesion indices
-indices %>%
-  pivot_longer(c(v, e), names_to = 'type', values_to = 'value') %>%
-  mutate(text = text %>% 
-           as_factor() %>%
-           recode('text1' = 'Text 1', 'text2' = 'Text 2'),
-         index = index %>%
-           as_factor() %>%
-           recode('global' = 'θ - Global Backward Cohesion',
-                  'local' = 'λ - Local Backward Cohesion',
-                  'pairwise' = 'ρ - Mean Pairwise Cohesion'),
-         type = type %>%
-           as_factor() %>%
-           recode('e' = 'Edges Cohesion',
-                  'v' = 'Vertices Cohesion')) %>%
-  ggplot(aes(clique, value, color = index, linetype = index, shape = index)) +
-  facet_grid(rows = vars(type), cols = vars(text), scales = 'free_y') +
-  geom_line() +
-  geom_point() +
-  #scale_x_continuous(breaks = 1:10) + 
-  xlab('Clique') +
-  ylab('Value') +
-  theme(legend.position = 'bottom', legend.direction = 'vertical') +
-  scale_color_brewer(palette = 'Dark2')
-
-ggsave('FiguraX.png', 
-       device = 'png', 
-       width = 16, 
-       height = 16, 
-       units = 'cm', 
-       dpi = 300)
