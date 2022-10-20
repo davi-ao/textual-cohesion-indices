@@ -23,3 +23,4 @@ for (i in 1:length(files)) {
       write_file(paste0('corpus/txt/', str_sub(files[i], 0, -5), 'txt'))
   }
 }
+

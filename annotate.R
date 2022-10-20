@@ -17,8 +17,6 @@ files = list.files(dir, pattern='^S')
 
 for (file in files) {
   text_name = file %>% str_sub(0,-5)
-  
-  text_name = file %>% str_sub(0,-5)
   text = read_file(paste0(dir, file))
   
   # Data cleansing -------------------------------------------------------------
