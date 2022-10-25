@@ -14,15 +14,19 @@ if (!require(wordnet)) {
 setDict('./wn3.1.dict/dict/')
 
 get_word_hypernyms = function(word, POS) {
-  if (POS %in% c('PROPN', 'PRON')) {
+  if (POS %in% c('PROPN', 'PRON', 'CD', 'FW')) {
     return(NA)
   } else {
     pos_f = POS
     
-    if (pos_f == 'ADJ') {
+    if (pos_f %in% c('ADJ', 'JJ', 'JJR', 'JJS')) {
       pos_f = 'ADJECTIVE'
-    } else if (pos_f == 'ADV') {
+    } else if (pos_f %in% c('ADV', 'RB', 'RBR', 'RBS')) {
       pos_f = 'ADVERB'
+    } else if (pos_f %in% c('NN', 'NNS', 'NNP', 'NNPS')) {
+      pos_f = 'NOUN'
+    } else if (pos_f %in% c('VB', 'VBD', 'VBG', 'VBN', 'VBP', 'VBZ')) {
+      pos_f = 'VERB'
     }
     
     tryCatch({

@@ -12,21 +12,25 @@ library(jtools)
 theme_set(theme_apa())
 
 # List csv files
-dir = 'corpus/csv_pseudotexts/'
-files = list.files(dir, pattern='^S')
+dir = 'corpora/oanc_csv/'
+files = list.files(dir)
 
 # Create the indices table
 indices = tibble(
   text = character(),
-  clique = character(),
+  clique_id = character(),
   index = character(),
   v = numeric(),
   e = numeric()
 )
 
+# TODO Search synonyms and hypernyms of each word in the corpus before 
+# processing the texts to avoid repetitive search
+
 for (file in files) {
   text_name = file %>% str_sub(0,-5)
-  annotated_text = read_csv(paste0(dir, file))
+  annotated_text = read_csv(paste0(dir, file)) %>%
+    mutate(clique_id = clique_id %>% as.character())
   
   # Global Backward Cohesion Indices ---------------------------------------------
   data = annotated_text %>%
@@ -36,7 +40,7 @@ for (file in files) {
   
   global_backward_cohesion = tibble(
     text = character(),
-    clique = character(),
+    clique_id = character(),
     r = integer(),
     m_c = integer(),
     q_n = integer(),
@@ -196,5 +200,5 @@ for (file in files) {
         select(text, clique_id, v, e) %>%
         mutate(index = 'pairwise'))
   
-  write_csv(indices, paste0('corpus/indices_pseudotexts/', file))
+  write_csv(indices, paste0('corpora/indices_oanc/', file))
 }
