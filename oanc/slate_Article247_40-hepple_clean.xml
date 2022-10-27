@@ -8,62 +8,6 @@
             <annotationSet name="xces" type="http://www.xces.org/schema/2003"/>
         </annotationSets>
     </header>
-    <region xml:id="penn-r0" anchors="38 41"/>
-    <node xml:id="penn-n0">
-        <link targets="penn-r0"/>
-    </node>
-    <a label="tok" ref="penn-n0" as="xces">
-        <fs>
-            <f name="base" value="all"/>
-            <f name="length" value="3"/>
-            <f name="msd" value="DT"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r1" anchors="42 45"/>
-    <node xml:id="penn-n1">
-        <link targets="penn-r1"/>
-    </node>
-    <a label="tok" ref="penn-n1" as="xces">
-        <fs>
-            <f name="base" value="the"/>
-            <f name="length" value="3"/>
-            <f name="msd" value="DT"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r2" anchors="46 50"/>
-    <node xml:id="penn-n2">
-        <link targets="penn-r2"/>
-    </node>
-    <a label="tok" ref="penn-n2" as="xces">
-        <fs>
-            <f name="base" value="king"/>
-            <f name="length" value="4"/>
-            <f name="msd" value="NNP"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r3" anchors="50 52"/>
-    <node xml:id="penn-n3">
-        <link targets="penn-r3"/>
-    </node>
-    <a label="tok" ref="penn-n3" as="xces">
-        <fs>
-            <f name="length" value="2"/>
-            <f name="msd" value="POS"/>
-            <f name="base" value="'s"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r4" anchors="53 56"/>
-    <node xml:id="penn-n4">
-        <link targets="penn-r4"/>
-    </node>
-    <a label="tok" ref="penn-n4" as="xces">
-        <fs>
-            <f name="msd" value="NN"/>
-            <f name="length" value="3"/>
-            <f name="affix" value="s"/>
-            <f name="base" value="man"/>
-        </fs>
-    </a>
     <region xml:id="penn-r5" anchors="70 72"/>
     <node xml:id="penn-n5">
         <link targets="penn-r5"/>

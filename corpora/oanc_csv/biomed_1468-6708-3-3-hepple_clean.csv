@@ -1,0 +1,1509 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,three,CD,NA,three,NA,NA
+1,publish,VBN,ed,publish,bring out|issue|print|publish|put out|release,produce|make|create|publicize|publicise|air|bare
+1,[,NN,NA,[,,NA
+1,1,CD,NA,1,NA,NA
+1,2,CD,NA,2,NA,NA
+1,3,CD,NA,3,NA,NA
+1,],NN,NA,],,NA
+1,one,CD,NA,on,NA,NA
+1,recently,RB,NA,recent,late|lately|latterly|of late|recently,
+1,present,VBN,ed,present,acquaint|award|confront|deliver|demo|demonstrate|exhibit|face|gift|give|introduce|lay out|portray|pose|present|represent|salute|show|stage|submit,show|state|say|tell|re-create|give|constitute|represent|make up|comprise|be|allocate|apportion|talk|speak|utter|mouth|verbalize|verbalise|inform|interpret|introduce|present|acquaint|greet|recognize|recognise
+1,[,NN,NA,[,,NA
+1,4,CD,NA,4,NA,NA
+1,],NN,NA,],,NA
+1,randomized,JJ,NA,random,randomised|randomized,
+1,placebo-controlled,JJ,NA,placebo-control,,NA
+1,clinical,JJ,NA,clinic,clinical,
+1,trial,NN,NA,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+1,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+1,unequivocally,RB,NA,unequivoc,unambiguously|unequivocally,
+1,demonstrate,VBN,ed,demonstr,attest|certify|demo|demonstrate|establish|evidence|exhibit|manifest|march|present|prove|shew|show,show|confirm|corroborate|sustain|substantiate|support|affirm|testify|bear witness|prove|evidence|protest|resist|dissent
+1,3,CD,NA,3,NA,NA
+2,hydroxy-,NNP,NA,hydroxy-,,NA
+2,3,CD,NA,3,NA,NA
+3,methylgluatryl,NN,NA,methylgluatryl,,NA
+3,coenzyme,NN,NA,coenzym,coenzyme,molecule
+3,hmg,NNP,NA,hmg,,NA
+3,coa,NNP,NA,coa,,NA
+3,reductase,NN,NA,reductas,reductase,enzyme
+3,inhibitor,NNS,s,inhibitor,inhibitor,substance
+3,statin,NNS,s,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+3,reduce,VB,NA,reduc,abbreviate|abridge|boil down|bring down|come down|concentrate|contract|cut|cut back|cut down|decoct|deoxidise|deoxidize|dilute|foreshorten|keep down|melt off|quash|reduce|repress|scale down|shorten|shrink|slenderize|slim|slim down|subdue|subjugate|thin|thin out|tighten|trim|trim back|trim down,decrease|lessen|minify|simplify|demote|bump|relegate|break|kick downstairs|substitute|replace|interchange|exchange|take down|degrade|disgrace|demean|put down|become|turn|impoverish|shrink|reduce|change|restrict|trammel|limit|bound|confine|throttle|oppress|suppress|crush|separate|divide|part|reposition|de-emphasize|de-emphasise|destress|diminish|fall|weaken|change state
+3,morbidity,NN,NA,morbid,morbidity|morbidness|unwholesomeness,incidence|relative incidence|cognitive state|state of mind|quality
+3,mortality,NN,NA,mortal,death rate|deathrate|fatality rate|mortality|mortality rate,impermanence|impermanency|rate
+3,associate,VBN,ed,associ,affiliate|associate|assort|colligate|connect|consociate|consort|link|link up|relate|tie in,think|cogitate|cerebrate|interact|unite|unify
+3,coronary,JJ,NA,coronari,coronary,
+3,disease,NN,NA,diseas,disease,illness|unwellness|malady|sickness
+4,trial,NNS,s,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+4,find,VBD,ed,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+4,compare,VBN,ed,compar,compare|equate|liken,analyze|analyse|study|examine|canvass|be|consider|inflect
+4,placebo,NN,NA,placebo,placebo,medicine|medication|medicament|medicinal drug|vesper
+4,statin,NNS,s,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+4,significantly,RB,NA,significantli,importantly|significantly,
+4,reduce,VBD,ed,reduc,abbreviate|abridge|boil down|bring down|come down|concentrate|contract|cut|cut back|cut down|decoct|deoxidise|deoxidize|dilute|foreshorten|keep down|melt off|quash|reduce|repress|scale down|shorten|shrink|slenderize|slim|slim down|subdue|subjugate|thin|thin out|tighten|trim|trim back|trim down,decrease|lessen|minify|simplify|demote|bump|relegate|break|kick downstairs|substitute|replace|interchange|exchange|take down|degrade|disgrace|demean|put down|become|turn|impoverish|shrink|reduce|change|restrict|trammel|limit|bound|confine|throttle|oppress|suppress|crush|separate|divide|part|reposition|de-emphasize|de-emphasise|destress|diminish|fall|weaken|change state
+4,incidence,NN,NA,incid,incidence|relative incidence,frequency|relative frequency|optical phenomenon
+4,death,NN,NA,death,death|Death|decease|demise|destruction|dying|end|expiry|last,change|alteration|modification|organic phenomenon|state|end|ending|killing|kill|putting to death
+4,myocardial,NN,NA,myocardi,,NA
+4,infarction,NN,NA,infarct,infarct|infarction,pathology
+4,unstable,JJ,NA,unstabl,fluid|mentally ill|precarious|unsound|unstable,
+4,angina,NN,NA,angina,angina|angina pectoris,inflammatory disease|heart disease|cardiopathy
+4,percutaneous,JJ,NA,percutan,percutaneous|transcutaneous|transdermal|transdermic,
+4,surgical,JJ,NA,surgic,operative|surgical,
+4,coronary,JJ,NA,coronari,coronary,
+4,revascularization,NN,NA,revascular,,NA
+4,stroke,NN,NA,stroke,accident|apoplexy|cam stroke|cerebrovascular accident|chance event|CVA|diagonal|fortuity|separatrix|shot|slash|solidus|stroke|stroking|throw|virgule,maneuver|manoeuvre|play|movement|motion|attack|touch|touching|score|oarsman|rower|happening|occurrence|occurrent|natural event|punctuation|punctuation mark|mark|print|locomotion|travel|move|motility
+4,person,NNS,s,person,individual|mortal|person|somebody|someone|soul,organism|being|causal agent|cause|causal agency|human body|physical body|material body|soma|build|figure|physique|anatomy|shape|bod|chassis|frame|form|flesh|grammatical category|syntactic category
+4,stable,JJ,NA,stabl,stable|static|unchanging,
+4,coronary,JJ,NA,coronari,coronary,
+4,disease,NN,NA,diseas,disease,illness|unwellness|malady|sickness
+5,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+5,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+5,experience,VBN,ed,experi,experience|feel|get|go through|have|know|live|receive|see,undergo|experience|see|go through|change
+5,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+5,coronary,JJ,NA,coronari,coronary,
+5,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+5,three,CD,NA,three,NA,NA
+5,six,CD,NA,six,NA,NA
+5,month,NNS,s,month,calendar month|month,time period|period of time|period|time unit|unit of time
+5,enrollment,NN,NA,enrol,enrollment|enrolment|registration,entrance|entering|entry|ingress|incoming|body
+5,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+5,exclude,VBN,ed,exclud,bar|boot out|chuck out|debar|eject|except|exclude|keep out|leave off|leave out|omit|shut|shut out|take out|turf out|turn out,extinguish|eliminate|get rid of|do away with|prevent|keep|miss|lack|forbid|prohibit|interdict|proscribe|veto|disallow|nix|expel|throw out|kick out
+5,trial,NNS,s,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+5,do,VBD,ed,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+5,not,RB,NA,not,non|not,NA
+5,assess,VB,NA,assess,appraise|assess|evaluate|measure|tax|valuate|value,evaluate|pass judgment|judge|charge|bill|determine|set|estimate|gauge|approximate|guess
+5,effect,NN,NA,effect,burden|consequence|core|effect|essence|event|force|gist|impression|issue|outcome|result|upshot,phenomenon|appearance|visual aspect|impression|feeling|belief|notion|opinion|meaning|significance|signification|import|validity|validness|symptom
+5,lipid-lowering,JJ,NA,lipid-low,,NA
+5,therapy,NN,NA,therapi,therapy,medical care|medical aid
+5,adverse,JJ,NA,advers,adverse|contrary|inauspicious|untoward,
+5,cardiovascular,JJ,NA,cardiovascular,cardiovascular,
+5,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+5,recently,RB,NA,recent,late|lately|latterly|of late|recently,
+5,unstable,JJ,NA,unstabl,fluid|mentally ill|precarious|unsound|unstable,
+5,coronary,JJ,NA,coronari,coronary,
+5,disease,NN,NA,diseas,disease,illness|unwellness|malady|sickness
+6,lipid-lowering,JJ,NA,lipid-low,,NA
+6,therapy,NN,NA,therapi,therapy,medical care|medical aid
+6,provide,VB,NA,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+6,incremental,JJ,NA,increment,incremental,
+6,benefit,NN,NA,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+6,initiate,VBN,ed,initi,broach|induct|initiate|lead up|originate|pioneer|start,make|create|cause|do|admit|let in|include|hash out|discuss|talk over|originate|initiate|start
+6,immediately,RB,NA,immedi,at once|directly|forthwith|immediately|instantly|like a shot|now|right away|straight off|straightaway,
+6,follow,VBG,ing,follow,abide by|accompany|adopt|be|come|come after|comply|conform to|espouse|fall out|follow|keep abreast|keep an eye on|keep up|observe|play along|postdate|pursue|stick to|stick with|succeed|surveil|survey|take after|trace|travel along|watch|watch over,travel|go|move|locomote|result|ensue|obey|imitate|copy|simulate|be|choose|take|select|pick out|analyze|analyse|study|examine|canvass|check|check up on|look into|check out|suss out|check over|go over|check into|play|originate|arise|rise|develop|uprise|spring up|grow|act|behave|do|practice|apply|use|understand|persevere|persist|hang in|hang on|hold on
+6,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+6,coronary,JJ,NA,coronari,coronary,
+6,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+6,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+6,important,JJ,NA,import,authoritative|crucial|important|of import|significant,
+6,issue,NN,NA,issu,consequence|effect|egress|emergence|event|exit|government issue|issuance|issue|issuing|matter|military issue|number|offspring|outcome|outlet|payoff|proceeds|progeny|publication|result|return|subject|take|takings|topic|upshot|way out|yield,content|cognitive content|mental object|periodical|provision|supply|supplying|store|stock|fund|income|phenomenon|relative|relation|beginning|opening|printing
+6,risk,NN,NA,risk,danger|endangerment|hazard|jeopardy|peril|risk|risk of exposure|risk of infection,danger|venture|probability|chance
+6,recurrent,JJ,NA,recurr,perennial|recurrent|repeated,
+6,adverse,JJ,NA,advers,adverse|contrary|inauspicious|untoward,
+6,cardiac,JJ,NA,cardiac,cardiac,
+6,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+6,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+6,much,RB,NA,much,a good deal|a great deal|a lot|lots|much|often|practically|very much,NA
+6,greater,JJR,NA,greater,greater,
+6,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+6,unstable,JJ,NA,unstabl,fluid|mentally ill|precarious|unsound|unstable,
+6,coronary,JJ,NA,coronari,coronary,
+6,disease,NN,NA,diseas,disease,illness|unwellness|malady|sickness
+6,stable,JJ,NA,stabl,stable|static|unchanging,
+6,setting,NN,NA,set,background|circumstance|context|mise en scene|mount|place setting|scene|scope|setting|stage setting,environment|environs|surroundings|surround|stage|position|place|service|table service|mounting
+7,myocardial,NNP,NA,myocardi,,NA
+7,ischemium,NNP,s,ischemium,,NA
+7,reduction,NNP,NA,reduct,decrease|diminution|reducing|reduction|simplification|step-down,change of magnitude|chemical reaction|reaction|change
+7,aggressive,NNP,NA,aggress,,NA
+7,cholesterol,NNP,NA,cholesterol,cholesterin|cholesterol,sterol|steroid alcohol
+7,lowering,NNP,NA,lower,letting down|lowering,decrease|diminution|reduction|step-down|movement
+7,miracl,NNP,NA,miracl,,NA
+7,trial,NN,NA,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+7,set,VBN,NA,set,adjust|arrange|coif|coiffe|coiffure|congeal|correct|countersink|define|determine|do|dress|fix|fructify|gear up|go down|go under|jell|lay|lay out|limit|localise|localize|mark|place|plant|pose|position|prepare|put|ready|rig|set|set up|sic|specify|typeset,move|displace|choose|take|select|pick out|lay down|establish|make|change|alter|modify|arrange|set up|adjust|set|correct|stage|present|represent|descend|fall|go down|come down|compose|write|put|place|pose|position|lay|originate|initiate|start|solidify|print|impress|bury|sink|hone|assail|assault|set on|attack|estimate|gauge|approximate|guess|judge|equip|fit|fit out|outfit|fix|prepare|ready|gear up|reproduce|procreate|multiply|groom|neaten
+7,answer,VB,NA,answer,answer|do|reply|resolve|respond|serve|suffice,state|say|tell|react|respond|solve|work out|figure out|puzzle out|lick|work|refute|rebut|be|satisfy|fulfill|fulfil|live up to|match|fit|correspond|check|jibe|gibe|tally|agree|conform to|meet|fill
+7,question,NN,NA,question,doubt|doubtfulness|dubiousness|enquiry|head|inquiry|interrogation|interrogative|interrogative sentence|motion|query|question,questioning|inquiring|subject|topic|theme|sentence|uncertainty|uncertainness|precariousness|proposal|marriage proposal|proposal of marriage|marriage offer
+8,miracl,NNP,NA,miracl,,NA
+8,enroll,VBD,ed,enrol,enrol|enroll|enter|inscribe|recruit,register
+8,3,CD,NA,3,NA,NA
+8,086,CD,NA,086,NA,NA
+8,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+8,24,CD,NA,24,NA,NA
+9,96,CD,NA,96,NA,NA
+9,hour,NNS,s,hour,60 minutes|hour|hr|minute|time of day,time unit|unit of time|clock time|time|time period|period of time|period|distance
+9,mean,VB,NA,mean,entail|have in mind|imply|intend|mean|signify|stand for|think|think of,NA
+9,63,CD,NA,63,NA,NA
+9,hour,NNS,s,hour,60 minutes|hour|hr|minute|time of day,time unit|unit of time|clock time|time|time period|period of time|period|distance
+9,admission,NN,NA,admiss,access|accession|admission|admission charge|admission fee|admission price|admittance|entrance fee|entrance money|entree|price of admission,entrance|entering|entry|ingress|incoming|acknowledgment|acknowledgement|fee|right
+9,unstable,JJ,NA,unstabl,fluid|mentally ill|precarious|unsound|unstable,
+9,angina,NN,NA,angina,angina|angina pectoris,inflammatory disease|heart disease|cardiopathy
+9,non-,NN,NA,non-,,NA
+9,q-,NNP,NA,q-,,NA
+9,wave,NN,NA,wave,moving ridge|undulation|wafture|wave|Wave|waving,movement|motion|move|motility|rise|gesture|hairdo|hairstyle|hair style|coiffure|coif|curve|curved shape|weather|weather condition|conditions|atmospheric condition|reservist|woman|adult female
+9,myocardial,NN,NA,myocardi,,NA
+9,infarction,NN,NA,infarct,infarct|infarction,pathology
+9,randomized,JJ,NA,random,randomised|randomized,
+9,16,CD,NA,16,NA,NA
+9,week,NNS,s,week,calendar week|hebdomad|week|workweek,time period|period of time|period|work time
+9,atorvastatin,NN,NA,atorvastatin,atorvastatin|Lipitor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+9,80,CD,NA,80,NA,NA
+9,mg,NN,NA,mg,atomic number 12|magnesium|mg|Mg|milligram,metric weight unit|weight unit|metallic element|metal
+9,placebo,NN,NA,placebo,placebo,medicine|medication|medicament|medicinal drug|vesper
+9,once,RB,NA,onc,at one time|erst|erstwhile|formerly|in one case|once|one time,NA
+9,daily,JJ,NA,daili,casual|daily|day-after-day|day-by-day|day-to-day|everyday,
+9,[,NN,NA,[,,NA
+9,5,CD,NA,5,NA,NA
+9,],NN,NA,],,NA
+10,major,JJ,NA,major,major|major(ip),
+10,exclusion,NN,NA,exclus,censure|ejection|elision|exception|exclusion|excommunication|expulsion|riddance,situation|state of affairs|rejection|omission|banishment|proscription
+10,criterion,NNS,s,criterion,criterion|measure|standard|touchstone,system of measurement|metric|ideal
+10,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+11,total,JJ,NA,total,entire|full|total,
+11,cholesterol,NN,NA,cholesterol,cholesterin|cholesterol,sterol|steroid alcohol
+11,level,NN,NA,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+11,greater,JJR,NA,greater,greater,
+11,270,CD,NA,270,NA,NA
+11,mg,NN,NA,mg,atomic number 12|magnesium|mg|Mg|milligram,metric weight unit|weight unit|metallic element|metal
+11,/,NN,NA,/,,NA
+11,dl,NN,NA,dl,deciliter|decilitre|dl,metric capacity unit
+12,q-,NNP,NA,q-,,NA
+12,wave,NN,NA,wave,moving ridge|undulation|wafture|wave|Wave|waving,movement|motion|move|motility|rise|gesture|hairdo|hairstyle|hair style|coiffure|coif|curve|curved shape|weather|weather condition|conditions|atmospheric condition|reservist|woman|adult female
+12,myocardial,NN,NA,myocardi,,NA
+12,infarction,NN,NA,infarct,infarct|infarction,pathology
+12,admission,NN,NA,admiss,access|accession|admission|admission charge|admission fee|admission price|admittance|entrance fee|entrance money|entree|price of admission,entrance|entering|entry|ingress|incoming|acknowledgment|acknowledgement|fee|right
+12,previous,JJ,NA,previou,former(a)|late(a)|old|premature|previous(a)|previous(p),
+12,month,NN,NA,month,calendar month|month,time period|period of time|period|time unit|unit of time
+13,coronary,JJ,NA,coronari,coronary,
+13,revascularization,NN,NA,revascular,,NA
+13,month,NNS,s,month,calendar month|month,time period|period of time|period|time unit|unit of time
+13,admission,NN,NA,admiss,access|accession|admission|admission charge|admission fee|admission price|admittance|entrance fee|entrance money|entree|price of admission,entrance|entering|entry|ingress|incoming|acknowledgment|acknowledgement|fee|right
+13,index,NN,NA,index,exponent|forefinger|index|index finger|index number|indicant|indicator|power,scale|scale of measurement|graduated table|ordered series|fact|mathematical notation|list|listing|finger
+13,hospitalization,NN,NA,hospit,hospital care|hospitalisation|hospitalization|hospitalization insurance,time period|period of time|period|condition|status|health insurance|medical care|medical aid
+13,anticipate,VBN,ed,anticip,anticipate|call|counter|expect|forebode|foreknow|foresee|forestall|foretell|look for|look to|predict|previse|prognosticate|promise,evaluate|pass judgment|judge|act|move|know|guess|venture|pretend|hazard|expect|look|await|wait|happen|hap|go on|pass off|occur|pass|fall out|come about|take place
+13,follow,VBG,ing,follow,abide by|accompany|adopt|be|come|come after|comply|conform to|espouse|fall out|follow|keep abreast|keep an eye on|keep up|observe|play along|postdate|pursue|stick to|stick with|succeed|surveil|survey|take after|trace|travel along|watch|watch over,travel|go|move|locomote|result|ensue|obey|imitate|copy|simulate|be|choose|take|select|pick out|analyze|analyse|study|examine|canvass|check|check up on|look into|check out|suss out|check over|go over|check into|play|originate|arise|rise|develop|uprise|spring up|grow|act|behave|do|practice|apply|use|understand|persevere|persist|hang in|hang on|hold on
+13,hospital,NN,NA,hospit,hospital|infirmary,medical building|health facility|healthcare facility|medical institution
+13,discharge,NN,NA,discharg,arc|discharge|dismissal|dismission|electric arc|electric discharge|emission|expelling|firing|firing off|liberation|outpouring|release|run|sack|sacking|spark|venting|waiver,happening|occurrence|occurrent|natural event|emission|emanation|material|stuff|bodily process|body process|bodily function|activity|electrical conduction|flow|flowing|termination|ending|conclusion|relinquishment|relinquishing|shooting|shot
+14,primary,JJ,NA,primari,basal|chief(a)|elemental|elementary|main(a)|master(a)|primary|primary(a)|principal(a),
+14,efficacy,NN,NA,efficaci,efficaciousness|efficacy,effectiveness|effectivity|effectualness|effectuality
+14,endpoint,NN,NA,endpoint,end point|endpoint|termination|terminus,end|terminal
+14,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+14,composite,NN,NA,composit,complex|composite|composite plant,whole|flower
+14,death,NN,NA,death,death|Death|decease|demise|destruction|dying|end|expiry|last,change|alteration|modification|organic phenomenon|state|end|ending|killing|kill|putting to death
+14,non-fatal,JJ,NA,non-fat,,NA
+14,myocardial,NN,NA,myocardi,,NA
+14,infarction,NN,NA,infarct,infarct|infarction,pathology
+14,resuscitated,JJ,NA,resuscit,resuscitated,
+14,sudden,JJ,NA,sudden,sudden,
+14,cardiac,JJ,NA,cardiac,cardiac,
+14,death,NN,NA,death,death|Death|decease|demise|destruction|dying|end|expiry|last,change|alteration|modification|organic phenomenon|state|end|ending|killing|kill|putting to death
+14,emergent,NN,NA,emerg,,NA
+14,rehospitalization,NN,NA,rehospit,,NA
+14,worsen,VBG,ing,worsen,aggravate|decline|exacerbate|exasperate|worsen,change state|turn|change|alter|modify
+14,symptomatic,JJ,NA,symptomat,diagnostic|symptomatic,
+14,myocardial,NN,NA,myocardi,,NA
+14,ischemium,NN,s,ischemium,,NA
+15,secondary,JJ,NA,secondari,junior-grade|lower-ranking|lowly|petty(a)|secondary|subaltern,
+15,endpoint,NNS,s,endpoint,end point|endpoint|termination|terminus,end|terminal
+15,include,VBD,ed,includ,admit|include|let in,see|consider|reckon|view|regard|add|permit|allow|let|countenance
+15,stroke,NN,NA,stroke,accident|apoplexy|cam stroke|cerebrovascular accident|chance event|CVA|diagonal|fortuity|separatrix|shot|slash|solidus|stroke|stroking|throw|virgule,maneuver|manoeuvre|play|movement|motion|attack|touch|touching|score|oarsman|rower|happening|occurrence|occurrent|natural event|punctuation|punctuation mark|mark|print|locomotion|travel|move|motility
+15,worsen,VBG,ing,worsen,aggravate|decline|exacerbate|exasperate|worsen,change state|turn|change|alter|modify
+15,heart,NN,NA,heart,affection|affectionateness|bosom|center|centre|core|essence|eye|fondness|gist|heart|heart and soul|inwardness|kernel|marrow|meat|mettle|middle|nerve|nitty-gritty|nub|philia|pith|pump|spirit|spunk|substance|sum|tenderness|ticker|warmheartedness|warmness,intuition|hunch|suspicion|internal organ|viscus|courage|courageousness|bravery|braveness|area|country|content|cognitive content|mental object|disposition|temperament|plane figure|two-dimensional figure|variety meat|organs|feeling|playing card
+15,failure,NN,NA,failur,bankruptcy|failure|loser|nonstarter|unsuccessful person,nonaccomplishment|nonachievement|happening|occurrence|occurrent|natural event|fortune|destiny|fate|luck|lot|circumstances|portion|unfortunate|unfortunate person|omission|skip|insolvency|disorder|upset
+15,need,NN,NA,need,demand|indigence|motivation|motive|need|pauperism|pauperization|penury|want,condition|status|necessity|essential|requirement|requisite|necessary|psychological feature|poverty|poorness|impoverishment
+15,coronary,JJ,NA,coronari,coronary,
+15,revascularization,NN,NA,revascular,,NA
+15,change,NN,NA,chang,alteration|change|modification|variety,happening|occurrence|occurrent|natural event|relation|action|consequence|effect|outcome|result|event|issue|upshot|cash|hard cash|hard currency|thing|clothing|article of clothing|vesture|wear|wearable|habiliment|coin|difference
+15,lipid,NN,NA,lipid,lipid|lipide|lipoid,macromolecule|supermolecule
+15,level,NNS,s,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+15,study,NN,NA,studi,bailiwick|cogitation|discipline|field|field of study|report|sketch|study|subject|subject area|subject field|survey|work|written report,examination|scrutiny|learning|acquisition|document|written document|papers|concentration|engrossment|absorption|immersion|room|knowledge domain|knowledge base|domain|drawing|contemplation|reflection|reflexion|rumination|musing|thoughtfulness|memorizer|memoriser|musical composition|opus|composition|piece|piece of music
+16,average,JJ,NA,averag,average|fair|intermediate|mean(a)|median(a)|mediocre|medium|middling|modal(a)|ordinary,
+16,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+16,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+16,65,CD,NA,65,NA,NA
+16,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+16,age,NN,NA,ag,age|eld|geezerhood|historic period|long time|old age|years,property|era|epoch|time of life|time period|period of time|period
+16,approximately,RB,NA,approxim,about|approximately|around|close to|just about|more or less|or so|roughly|some,NA
+16,65,CD,NA,65,NA,NA
+16,%,NN,NA,%,,NA
+16,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+16,man,NNS,s,man,adult male|gentleman|gentleman's gentleman|homo|human|human being|human beings|human race|humanity|humankind|humans|Isle of Man|man|Man|mankind|military man|military personnel|piece|serviceman|valet|valet de chambre|world,male|male person|adult|grownup|skilled worker|trained worker|skilled workman|person|individual|someone|somebody|mortal|soul|hominid|subordinate|subsidiary|underling|foot soldier|manservant|body servant|lover|game equipment|homo|man|human being|human|group|grouping
+16,86,CD,NA,86,NA,NA
+16,%,NN,NA,%,,NA
+16,caucasian,NNP,NA,caucasian,Caucasian|Caucasian language|White|White person,person|individual|someone|somebody|mortal|soul|natural language|tongue
+16,mean,JJ,NA,mean,average|base|bastardly|beggarly|hateful|mean|mean(a)|meanspirited|mingy|miserly|tight,
+16,baseline,NN,NA,baselin,baseline|service line,standard|criterion|measure|touchstone|line
+16,low,JJ,NA,low,abject|blue|broken|crushed|depleted|depressed|dispirited|down in the mouth|down(p)|downcast|downhearted|gloomy|grim|humble|humbled|humiliated|low|low-down|low-pitched|low-spirited|low-toned|lowly|miserable|modest|scummy|scurvy|small,
+16,density,NN,NA,densiti,compactness|concentration|denseness|density|tightness,compactness|spacing|spatial arrangement
+16,lipoprotein,NN,NA,lipoprotein,lipoprotein,conjugated protein|compound protein
+16,ldl,NNP,NA,ldl,beta-lipoprotein|LDL|low-density lipoprotein,lipoprotein
+16,cholesterol,NN,NA,cholesterol,cholesterin|cholesterol,sterol|steroid alcohol
+16,level,NN,NA,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+16,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+16,124,CD,NA,124,NA,NA
+16,mg,NN,NA,mg,atomic number 12|magnesium|mg|Mg|milligram,metric weight unit|weight unit|metallic element|metal
+16,/,NN,NA,/,,NA
+16,dl,NN,NA,dl,deciliter|decilitre|dl,metric capacity unit
+17,atorvastatin,NNP,NA,atorvastatin,atorvastatin|Lipitor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+17,treatment,NN,NA,treatment,discourse|discussion|handling|intervention|treatment,care|attention|aid|tending|management|direction|artistic style|idiom|communication|communicating
+17,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+17,associate,VBN,ed,associ,affiliate|associate|assort|colligate|connect|consociate|consort|link|link up|relate|tie in,think|cogitate|cerebrate|interact|unite|unify
+17,2,CD,NA,2,NA,NA
+17,6,CD,NA,6,NA,NA
+17,%,NN,NA,%,,NA
+17,absolute,JJ,NA,absolut,absolute|downright|infrangible|inviolable|out-and-out(a)|rank(a)|right-down|sheer(a),
+17,reduction,NN,NA,reduct,decrease|diminution|reducing|reduction|simplification|step-down,change of magnitude|chemical reaction|reaction|change
+17,risk,NN,NA,risk,danger|endangerment|hazard|jeopardy|peril|risk|risk of exposure|risk of infection,danger|venture|probability|chance
+17,primary,JJ,NA,primari,basal|chief(a)|elemental|elementary|main(a)|master(a)|primary|primary(a)|principal(a),
+17,endpoint,NN,NA,endpoint,end point|endpoint|termination|terminus,end|terminal
+17,14,CD,NA,14,NA,NA
+17,8,CD,NA,8,NA,NA
+17,%,NN,NA,%,,NA
+17,v,NNS,s,v,5|atomic number 23|cinque|fin|five|fivesome|Little Phoebe|pentad|Phoebe|quint|quintet|quintuplet|v|V|vanadium|volt,potential unit|metallic element|metal|digit|figure|letter|letter of the alphabet|alphabetic character
+17,17,CD,NA,17,NA,NA
+17,%,NN,NA,%,,NA
+18,rr,NNP,NA,rr,,NA
+18,relative,JJ,NA,rel,comparative|proportional|relative,
+18,risk,NN,NA,risk,danger|endangerment|hazard|jeopardy|peril|risk|risk of exposure|risk of infection,danger|venture|probability|chance
+18,[,NN,NA,[,,NA
+18,rr,NNP,NA,rr,,NA
+18,],NN,NA,],,NA
+18,0,CD,NA,0,NA,NA
+18,84,CD,NA,84,NA,NA
+18,95,CD,NA,95,NA,NA
+18,%,NN,NA,%,,NA
+18,confidence,NN,NA,confid,assurance|authority|confidence|self-assurance|self-confidence|sureness|trust,certainty|security|hopefulness|friendship|friendly relationship|secret
+18,interval,NN,NA,interv,interval|musical interval|separation|time interval,measure|quantity|amount|set|distance|musical notation
+18,[,NN,NA,[,,NA
+18,cus,NNP,s,cu,,NA
+18,],NN,NA,],,NA
+18,0,CD,NA,0,NA,NA
+18,70,CD,NA,70,NA,NA
+19,1,CD,NA,1,NA,NA
+19,00,CD,NA,00,NA,NA
+19,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+19,0,CD,NA,0,NA,NA
+19,048,CD,NA,048,NA,NA
+20,reduction,NN,NA,reduct,decrease|diminution|reducing|reduction|simplification|step-down,change of magnitude|chemical reaction|reaction|change
+20,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+20,primarily,RB,NA,primarili,chiefly|in the first place|in the main|mainly|primarily|principally,
+20,drive,VBN,en,drive,aim|beat back|drive|force|force back|get|labor|labour|motor|push|push back|ram|repel|repulse|ride|take|tug,operate|control|travel|go|move|locomote|transport|carry|displace|thrust|coerce|hale|squeeze|pressure|force|push|make|propel|impel|throw|fight|struggle|mean|intend|work|do work|drive|traverse|track|cover|cross|pass over|get over|get across|cut through|cut across|hit|excavate|dig|hollow|power|hunt|run|hunt down|track down
+20,2,CD,NA,2,NA,NA
+20,2,CD,NA,2,NA,NA
+20,%,NN,NA,%,,NA
+20,absolute,JJ,NA,absolut,absolute|downright|infrangible|inviolable|out-and-out(a)|rank(a)|right-down|sheer(a),
+20,reduction,NN,NA,reduct,decrease|diminution|reducing|reduction|simplification|step-down,change of magnitude|chemical reaction|reaction|change
+20,incidence,NN,NA,incid,incidence|relative incidence,frequency|relative frequency|optical phenomenon
+20,emergent,NN,NA,emerg,,NA
+20,rehospitalization,NN,NA,rehospit,,NA
+20,symptomatic,JJ,NA,symptomat,diagnostic|symptomatic,
+20,myocardial,NN,NA,myocardi,,NA
+20,ischemium,NN,s,ischemium,,NA
+20,6,CD,NA,6,NA,NA
+20,%,NN,NA,%,,NA
+20,v,NNS,s,v,5|atomic number 23|cinque|fin|five|fivesome|Little Phoebe|pentad|Phoebe|quint|quintet|quintuplet|v|V|vanadium|volt,potential unit|metallic element|metal|digit|figure|letter|letter of the alphabet|alphabetic character
+20,8,CD,NA,8,NA,NA
+20,4,CD,NA,4,NA,NA
+20,%,NN,NA,%,,NA
+21,rr,NNP,NA,rr,,NA
+21,0,CD,NA,0,NA,NA
+21,74,CD,NA,74,NA,NA
+21,95,CD,NA,95,NA,NA
+21,%,NN,NA,%,,NA
+21,cus,NNP,s,cu,,NA
+21,0,CD,NA,0,NA,NA
+21,57,CD,NA,57,NA,NA
+22,0,CD,NA,0,NA,NA
+22,95,CD,NA,95,NA,NA
+22,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+22,0,CD,NA,0,NA,NA
+22,02,CD,NA,02,NA,NA
+23,risk,NN,NA,risk,danger|endangerment|hazard|jeopardy|peril|risk|risk of exposure|risk of infection,danger|venture|probability|chance
+23,death,NN,NA,death,death|Death|decease|demise|destruction|dying|end|expiry|last,change|alteration|modification|organic phenomenon|state|end|ending|killing|kill|putting to death
+23,nonfatal,NN,NA,nonfat,,NA
+23,myocardial,NN,NA,myocardi,,NA
+23,infarction,NN,NA,infarct,infarct|infarction,pathology
+23,resuscitated,JJ,NA,resuscit,resuscitated,
+23,sudden,JJ,NA,sudden,sudden,
+23,cardiac,JJ,NA,cardiac,cardiac,
+23,death,NN,NA,death,death|Death|decease|demise|destruction|dying|end|expiry|last,change|alteration|modification|organic phenomenon|state|end|ending|killing|kill|putting to death
+23,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+23,different,JJ,NA,differ,different,
+23,two,CD,NA,two,NA,NA
+23,group,NNS,s,group,chemical group|group|grouping|mathematical group|radical,abstraction|abstract entity|unit|building block|set
+24,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+24,significant,JJ,NA,signific,important|meaning(a)|pregnant|significant|substantial,
+24,difference,NNS,s,differ,conflict|departure|deviation|difference|difference of opinion|dispute|divergence|remainder,quality|variation|fluctuation|disagreement|change|number
+24,incidence,NN,NA,incid,incidence|relative incidence,frequency|relative frequency|optical phenomenon
+24,worsen,VBG,ing,worsen,aggravate|decline|exacerbate|exasperate|worsen,change state|turn|change|alter|modify
+24,heart,NN,NA,heart,affection|affectionateness|bosom|center|centre|core|essence|eye|fondness|gist|heart|heart and soul|inwardness|kernel|marrow|meat|mettle|middle|nerve|nitty-gritty|nub|philia|pith|pump|spirit|spunk|substance|sum|tenderness|ticker|warmheartedness|warmness,intuition|hunch|suspicion|internal organ|viscus|courage|courageousness|bravery|braveness|area|country|content|cognitive content|mental object|disposition|temperament|plane figure|two-dimensional figure|variety meat|organs|feeling|playing card
+24,failure,NN,NA,failur,bankruptcy|failure|loser|nonstarter|unsuccessful person,nonaccomplishment|nonachievement|happening|occurrence|occurrent|natural event|fortune|destiny|fate|luck|lot|circumstances|portion|unfortunate|unfortunate person|omission|skip|insolvency|disorder|upset
+24,need,NN,NA,need,demand|indigence|motivation|motive|need|pauperism|pauperization|penury|want,condition|status|necessity|essential|requirement|requisite|necessary|psychological feature|poverty|poorness|impoverishment
+24,coronary,JJ,NA,coronari,coronary,
+24,revascularization,NN,NA,revascular,,NA
+24,atorvastatin,NN,NA,atorvastatin,atorvastatin|Lipitor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+24,do,VBD,ed,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+24,reduce,VB,NA,reduc,abbreviate|abridge|boil down|bring down|come down|concentrate|contract|cut|cut back|cut down|decoct|deoxidise|deoxidize|dilute|foreshorten|keep down|melt off|quash|reduce|repress|scale down|shorten|shrink|slenderize|slim|slim down|subdue|subjugate|thin|thin out|tighten|trim|trim back|trim down,decrease|lessen|minify|simplify|demote|bump|relegate|break|kick downstairs|substitute|replace|interchange|exchange|take down|degrade|disgrace|demean|put down|become|turn|impoverish|shrink|reduce|change|restrict|trammel|limit|bound|confine|throttle|oppress|suppress|crush|separate|divide|part|reposition|de-emphasize|de-emphasise|destress|diminish|fall|weaken|change state
+24,incidence,NN,NA,incid,incidence|relative incidence,frequency|relative frequency|optical phenomenon
+24,fatal,JJ,NA,fatal,black|calamitous|disastrous|fatal|fateful,
+24,non-fatal,JJ,NA,non-fat,,NA
+24,stroke,NN,NA,stroke,accident|apoplexy|cam stroke|cerebrovascular accident|chance event|CVA|diagonal|fortuity|separatrix|shot|slash|solidus|stroke|stroking|throw|virgule,maneuver|manoeuvre|play|movement|motion|attack|touch|touching|score|oarsman|rower|happening|occurrence|occurrent|natural event|punctuation|punctuation mark|mark|print|locomotion|travel|move|motility
+24,0,CD,NA,0,NA,NA
+24,8,CD,NA,8,NA,NA
+24,%,NN,NA,%,,NA
+24,0,CD,NA,0,NA,NA
+24,8,CD,NA,8,NA,NA
+24,%,NN,NA,%,,NA
+24,v,NNS,s,v,5|atomic number 23|cinque|fin|five|fivesome|Little Phoebe|pentad|Phoebe|quint|quintet|quintuplet|v|V|vanadium|volt,potential unit|metallic element|metal|digit|figure|letter|letter of the alphabet|alphabetic character
+25,1,CD,NA,1,NA,NA
+25,6,CD,NA,6,NA,NA
+25,%,NN,NA,%,,NA
+26,rr,NNP,NA,rr,,NA
+26,0,CD,NA,0,NA,NA
+26,50,CD,NA,50,NA,NA
+26,95,CD,NA,95,NA,NA
+26,%,NN,NA,%,,NA
+26,cus,NNP,s,cu,,NA
+26,0,CD,NA,0,NA,NA
+26,26,CD,NA,26,NA,NA
+27,0,CD,NA,0,NA,NA
+27,99,CD,NA,99,NA,NA
+27,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+27,0,CD,NA,0,NA,NA
+27,045,CD,NA,045,NA,NA
+28,atorvastatin,NNP,NA,atorvastatin,atorvastatin|Lipitor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+28,also,RB,NA,also,also|as well|besides|likewise|too,NA
+28,significantly,RB,NA,significantli,importantly|significantly,
+28,reduce,VBN,ed,reduc,abbreviate|abridge|boil down|bring down|come down|concentrate|contract|cut|cut back|cut down|decoct|deoxidise|deoxidize|dilute|foreshorten|keep down|melt off|quash|reduce|repress|scale down|shorten|shrink|slenderize|slim|slim down|subdue|subjugate|thin|thin out|tighten|trim|trim back|trim down,decrease|lessen|minify|simplify|demote|bump|relegate|break|kick downstairs|substitute|replace|interchange|exchange|take down|degrade|disgrace|demean|put down|become|turn|impoverish|shrink|reduce|change|restrict|trammel|limit|bound|confine|throttle|oppress|suppress|crush|separate|divide|part|reposition|de-emphasize|de-emphasise|destress|diminish|fall|weaken|change state
+28,total,JJ,NA,total,entire|full|total,
+28,ldl,NNP,NA,ldl,beta-lipoprotein|LDL|low-density lipoprotein,lipoprotein
+28,cholesterol,NN,NA,cholesterol,cholesterin|cholesterol,sterol|steroid alcohol
+28,triglyceride,NN,NA,triglycerid,triglyceride,lipid|lipide|lipoid|glyceride|acylglycerol
+28,level,NNS,s,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+28,do,VBD,ed,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+28,not,RB,NA,not,non|not,NA
+28,significantly,RB,NA,significantli,importantly|significantly,
+28,change,VB,NA,chang,alter|change|commute|convert|deepen|exchange|interchange|modify|shift|switch|transfer|vary,dress|get dressed|replace|transfer|travel|go|move|locomote|change
+28,high,JJ,NA,high,eminent|gamey|gamy|high|high-pitched|in high spirits|mellow,
+28,density,NN,NA,densiti,compactness|concentration|denseness|density|tightness,compactness|spacing|spatial arrangement
+28,lipoprotein,NN,NA,lipoprotein,lipoprotein,conjugated protein|compound protein
+28,hdl,NNP,NA,hdl,alpha-lipoprotein|HDL|high-density lipoprotein,lipoprotein
+28,cholesterol,NN,NA,cholesterol,cholesterin|cholesterol,sterol|steroid alcohol
+28,16,CD,NA,16,NA,NA
+28,week,NNS,s,week,calendar week|hebdomad|week|workweek,time period|period of time|period|work time
+29,16,CD,NA,16,NA,NA
+29,week,NNS,s,week,calendar week|hebdomad|week|workweek,time period|period of time|period|work time
+29,adjust,VBN,ed,adjust,adapt|adjust|align|aline|conform|correct|line up|set,change|alter|modify|reorient|get used to|adapt|accommodate|decide|settle|resolve|adjudicate
+29,mean,NN,NA,mean,mean|mean value,average|norm
+29,ldl,NNP,NA,ldl,beta-lipoprotein|LDL|low-density lipoprotein,lipoprotein
+29,cholesterol,NN,NA,cholesterol,cholesterin|cholesterol,sterol|steroid alcohol
+29,decrease,VBD,ed,decreas,decrease|diminish|fall|lessen|minify,change magnitude|change|alter|modify
+29,72,CD,NA,72,NA,NA
+29,mg,NN,NA,mg,atomic number 12|magnesium|mg|Mg|milligram,metric weight unit|weight unit|metallic element|metal
+29,/,NN,NA,/,,NA
+29,dl,NN,NA,dl,deciliter|decilitre|dl,metric capacity unit
+29,atorvastatin-treated,JJ,NA,atorvastatin-tr,,NA
+29,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+29,increase,VBN,ed,increas,increase,change magnitude|change|alter|modify
+29,135,CD,NA,135,NA,NA
+29,mg,NN,NA,mg,atomic number 12|magnesium|mg|Mg|milligram,metric weight unit|weight unit|metallic element|metal
+29,/,NN,NA,/,,NA
+29,dl,NN,NA,dl,deciliter|decilitre|dl,metric capacity unit
+29,placebo-treated,JJ,NA,placebo-tr,,NA
+29,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+30,serious,JJ,NA,seriou,dangerous|good|grave|grievous|life-threatening|serious|severe|sober|unplayful,
+30,adverse,JJ,NA,advers,adverse|contrary|inauspicious|untoward,
+30,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+30,occur,VBD,ed,occur,come|come about|fall out|go on|hap|happen|occur|pass|pass off|take place,become|appear|come along
+30,result,NN,NA,result,answer|consequence|effect|event|final result|issue|outcome|resolution|result|resultant|resultant role|solution|solvent|termination|upshot,phenomenon|statement|ending|conclusion|finish|semantic role|participant role
+30,treatment,NN,NA,treatment,discourse|discussion|handling|intervention|treatment,care|attention|aid|tending|management|direction|artistic style|idiom|communication|communicating
+30,atorvastatin,NN,NA,atorvastatin,atorvastatin|Lipitor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+30,reversible,JJ,NA,revers,reversible|two-sided,
+30,liver,NN,NA,liver,liver,internal organ|viscus|variety meat|organs|person|individual|someone|somebody|mortal|soul|inhabitant|habitant|dweller|denizen|indweller
+30,transaminase,NN,NA,transaminas,aminopherase|aminotransferase|transaminase,transferase
+30,elevation,NN,NA,elev,acme|aggrandisement|aggrandizement|ALT|altitude|EL|elevation|height|lift|meridian|natural elevation|peak|pinnacle|raising|summit|superlative|tiptop|top,rise|rising|ascent|ascension|degree|level|stage|point|angular position|geological formation|formation|distance|leap|plan|architectural plan|increase|step-up
+30,more,JJR,NA,more,more than|more(a),
+30,three,CD,NA,three,NA,NA
+30,time,NNS,s,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+30,upper,JJ,NA,upper,upper,
+30,limit,NN,NA,limit,bound|boundary|demarcation|demarcation line|limit|limit point|limitation|point of accumulation|terminal point|terminus ad quem,extent|end|ending|extremity|boundary|bound|bounds|indefinite quantity
+30,normal,RB,NA,normal,,NA
+30,occur,VBD,ed,occur,come|come about|fall out|go on|hap|happen|occur|pass|pass off|take place,become|appear|come along
+30,2,CD,NA,2,NA,NA
+30,5,CD,NA,5,NA,NA
+30,%,NN,NA,%,,NA
+30,atorvastatin-treated,JJ,NA,atorvastatin-tr,,NA
+30,0,CD,NA,0,NA,NA
+30,6,CD,NA,6,NA,NA
+30,%,NN,NA,%,,NA
+30,placebo-treated,JJ,NA,placebo-tr,,NA
+30,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+30,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+30,&lt;,NN,NA,&lt;,,NA
+30,0,CD,NA,0,NA,NA
+30,001,CD,NA,001,NA,NA
+31,efficacy,NN,NA,efficaci,efficaciousness|efficacy,effectiveness|effectivity|effectualness|effectuality
+31,safety,NN,NA,safeti,base hit|condom|guard|prophylactic|refuge|rubber|safe|safety|safety device,condition|status|area|country|device|hit|contraceptive|preventive|preventative|contraceptive device|prophylactic device|birth control device|score
+31,finding,NNS,s,find,determination|finding,discovery|find|uncovering|judgment|judgement|judicial decision|object|physical object
+31,miracl,NNP,NA,miracl,,NA
+31,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+31,unique,JJ,NA,uniqu,alone(p)|singular|unequaled|unequalled|unique|unique(p)|unparalleled,
+31,number,NN,NA,number,act|bit|figure|issue|number|numeral|phone number|routine|telephone number|turn,amount|definite quantity|performance|public presentation|signal|signaling|sign|symbol|periodical|company|positive identification|size|item|grammatical category|syntactic category|merchandise|ware|product
+31,reason,NNS,s,reason,cause|ground|grounds|intellect|rationality|reason|reasonableness|understanding,rational motive|explanation|account|faculty|mental faculty|module|sanity|saneness|justification|fact
+32,lipid-lowering,JJ,NA,lipid-low,,NA
+32,therapy,NN,NA,therapi,therapy,medical care|medical aid
+32,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+32,associate,VBN,ed,associ,affiliate|associate|assort|colligate|connect|consociate|consort|link|link up|relate|tie in,think|cogitate|cerebrate|interact|unite|unify
+32,significantly,RB,NA,significantli,importantly|significantly,
+32,lower,JJR,NA,lower,,NA
+32,mortality,NN,NA,mortal,death rate|deathrate|fatality rate|mortality|mortality rate,impermanence|impermanency|rate
+32,initiate,VBN,ed,initi,broach|induct|initiate|lead up|originate|pioneer|start,make|create|cause|do|admit|let in|include|hash out|discuss|talk over|originate|initiate|start
+32,early,RB,NA,earli,ahead of time|betimes|early|early on|too soon,NA
+32,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+32,coronary,JJ,NA,coronari,coronary,
+32,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+32,two,CD,NA,two,NA,NA
+32,large,JJ,NA,larg,big|big(p)|bombastic|declamatory|enceinte|expectant|gravid|great(p)|heavy(p)|large|large(p)|magnanimous|orotund|prominent|tumid|turgid|with child(p),
+32,observational,NN,NA,observ,,NA
+32,study,NNS,s,studi,bailiwick|cogitation|discipline|field|field of study|report|sketch|study|subject|subject area|subject field|survey|work|written report,examination|scrutiny|learning|acquisition|document|written document|papers|concentration|engrossment|absorption|immersion|room|knowledge domain|knowledge base|domain|drawing|contemplation|reflection|reflexion|rumination|musing|thoughtfulness|memorizer|memoriser|musical composition|opus|composition|piece|piece of music
+32,[,NN,NA,[,,NA
+32,6,CD,NA,6,NA,NA
+32,7,CD,NA,7,NA,NA
+32,],NN,NA,],,NA
+32,miracl,NNP,NA,miracl,,NA
+32,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+32,first,JJ,NA,first,1st|beginning(a)|first|foremost|inaugural|initiative|initiatory|maiden|world-class,
+32,randomized,JJ,NA,random,randomised|randomized,
+32,trial,NN,NA,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+32,suggest,VB,NA,suggest,advise|evoke|hint|intimate|paint a picture|propose|suggest,declare|convey|imply|express|show|evince
+32,statin,NNS,s,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+32,confer,VBP,NA,confer,bestow|confab|confabulate|confer|consult,hash out|discuss|talk over|award|present
+32,clinical,JJ,NA,clinic,clinical,
+32,benefit,NNS,s,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+32,set,VBG,ing,set,adjust|arrange|coif|coiffe|coiffure|congeal|correct|countersink|define|determine|do|dress|fix|fructify|gear up|go down|go under|jell|lay|lay out|limit|localise|localize|mark|place|plant|pose|position|prepare|put|ready|rig|set|set up|sic|specify|typeset,move|displace|choose|take|select|pick out|lay down|establish|make|change|alter|modify|arrange|set up|adjust|set|correct|stage|present|represent|descend|fall|go down|come down|compose|write|put|place|pose|position|lay|originate|initiate|start|solidify|print|impress|bury|sink|hone|assail|assault|set on|attack|estimate|gauge|approximate|guess|judge|equip|fit|fit out|outfit|fix|prepare|ready|gear up|reproduce|procreate|multiply|groom|neaten
+33,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+33,also,RB,NA,also,also|as well|besides|likewise|too,NA
+33,first,JJ,NA,first,1st|beginning(a)|first|foremost|inaugural|initiative|initiatory|maiden|world-class,
+33,trial,NN,NA,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+33,identify,VB,NA,identifi,describe|discover|distinguish|identify|key|key out|name|place,determine|set|denote|refer|see|consider|reckon|view|regard|associate|tie in|relate|link|colligate|link up|connect|recognize|recognise
+33,short-term,JJ,NA,short-term,short-run|short-term,
+33,ie,NN,NA,ie,Explorer|IE|Internet Explorer,
+33,16,CD,NA,16,NA,NA
+33,week,NNS,s,week,calendar week|hebdomad|week|workweek,time period|period of time|period|work time
+33,clinical,JJ,NA,clinic,clinical,
+33,benefit,NN,NA,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+33,statin,NN,NA,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+33,therapy,NN,NA,therapi,therapy,medical care|medical aid
+34,previous,JJ,NA,previou,former(a)|late(a)|old|premature|previous(a)|previous(p),
+34,secondary,JJ,NA,secondari,junior-grade|lower-ranking|lowly|petty(a)|secondary|subaltern,
+34,prevention,NN,NA,prevent,bar|prevention,hindrance|hinderance|interference
+34,trial,NNS,s,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+34,benefit,NN,NA,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+34,statin,NN,NA,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+34,therapy,NN,NA,therapi,therapy,medical care|medical aid
+34,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+34,not,RB,NA,not,non|not,NA
+34,evident,JJ,NA,evid,apparent|discernible|evident|manifest|observable|palpable|patent|plain|unmistakable,
+34,one,CD,NA,on,NA,NA
+34,two,CD,NA,two,NA,NA
+34,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+35,clinical,JJ,NA,clinic,clinical,
+35,trial,NN,NA,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+35,safety,NN,NA,safeti,base hit|condom|guard|prophylactic|refuge|rubber|safe|safety|safety device,condition|status|area|country|device|hit|contraceptive|preventive|preventative|contraceptive device|prophylactic device|birth control device|score
+35,endpoint,NNS,s,endpoint,end point|endpoint|termination|terminus,end|terminal
+35,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+35,consider,VBN,ed,consid,believe|conceive|consider|count|deal|debate|deliberate|look at|moot|reckon|regard|see|study|take|think|turn over|view|weigh,think|believe|consider|conceive|chew over|think over|meditate|ponder|excogitate|contemplate|muse|reflect|mull|mull over|ruminate|speculate|think about|hash out|discuss|talk over|evaluate|pass judgment|judge|look|analyze|analyse|study|examine|canvass|see|reckon|view|regard
+35,less,RBR,NA,less,less|to a lesser extent,
+35,glamorous,JJ,NA,glamor,glamorous|glamourous,
+35,miracl,NNP,NA,miracl,,NA
+35,most,RBS,NA,most,about|almost|most|near|nearly|nigh|to the highest degree|virtually|well-nigh,NA
+35,important,JJ,NA,import,authoritative|crucial|important|of import|significant,
+35,contribution,NN,NA,contribut,contribution|donation|part|share,attempt|effort|endeavor|endeavour|try|gift|giving|sum|sum of money|amount|amount of money|publication|publishing
+35,have,VB,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+35,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+35,high-dose,JJ,NA,high-dos,,NA
+35,statin,NN,NA,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+35,therapy,NN,NA,therapi,therapy,medical care|medical aid
+35,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+35,not,RB,NA,not,non|not,NA
+35,associate,VBN,ed,associ,affiliate|associate|assort|colligate|connect|consociate|consort|link|link up|relate|tie in,think|cogitate|cerebrate|interact|unite|unify
+35,serious,JJ,NA,seriou,dangerous|good|grave|grievous|life-threatening|serious|severe|sober|unplayful,
+35,harm,NN,NA,harm,damage|harm|hurt|impairment|injury|scathe|trauma,ill health|unhealthiness|health problem|change|alteration|modification|change of integrity
+35,use,NN,NA,us,consumption|economic consumption|employment|enjoyment|exercise|function|habit|manipulation|purpose|role|usage|usance|use|use of goods and services|utilisation|utilization,activity|utility|usefulness|demand|custom|usage|usance|influence|legal right
+35,unstable,JJ,NA,unstabl,fluid|mentally ill|precarious|unsound|unstable,
+35,setting,NN,NA,set,background|circumstance|context|mise en scene|mount|place setting|scene|scope|setting|stage setting,environment|environs|surroundings|surround|stage|position|place|service|table service|mounting
+36,earlier,RBR,NA,earlier,before|earlier|in the beginning|in the first place|originally|sooner|to begin with,NA
+36,secondary,JJ,NA,secondari,junior-grade|lower-ranking|lowly|petty(a)|secondary|subaltern,
+36,prevention,NN,NA,prevent,bar|prevention,hindrance|hinderance|interference
+36,statin,NN,NA,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+36,trial,NNS,s,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+36,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+36,exclude,VBN,ed,exclud,bar|boot out|chuck out|debar|eject|except|exclude|keep out|leave off|leave out|omit|shut|shut out|take out|turf out|turn out,extinguish|eliminate|get rid of|do away with|prevent|keep|miss|lack|forbid|prohibit|interdict|proscribe|veto|disallow|nix|expel|throw out|kick out
+36,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+36,unstable,JJ,NA,unstabl,fluid|mentally ill|precarious|unsound|unstable,
+36,coronary,JJ,NA,coronari,coronary,
+36,syndrome,NNS,s,syndrom,syndrome,complex|composite|symptom
+36,largely,RB,NA,larg,for the most part|largely|mostly,NA
+36,theoretical,JJ,NA,theoret,theoretic|theoretical,
+36,concern,NN,NA,concern,business|business concern|business organisation|business organization|care|concern|fear|headache|vexation|worry,interest|involvement|anxiety|sympathy|fellow feeling|negative stimulus|enterprise
+36,statin-mediated,JJ,NA,statin-medi,,NA
+36,reduction,NNS,s,reduct,decrease|diminution|reducing|reduction|simplification|step-down,change of magnitude|chemical reaction|reaction|change
+36,vascular,NN,NA,vascular,,NA
+36,smooth,JJ,NA,smooth,bland|fluent|fluid|legato|liquid|placid|politic|quiet|smooth|still|suave|tranquil|unruffled,
+36,muscle,NN,NA,muscl,brawn|brawniness|heftiness|muscle|muscleman|muscular tissue|muscularity|musculus|sinew,contractile organ|contractor|animal tissue|bully|tough|hooligan|ruffian|roughneck|rowdy|yob|yobo|yobbo|authority|authorization|authorisation|potency|dominance|say-so|strength
+36,cell,NN,NA,cell,cadre|cell|cellphone|cellular phone|cellular telephone|cubicle|electric cell|jail cell|mobile phone|prison cell,compartment|living thing|animate thing|electrical device|political unit|political entity|radiotelephone|radiophone|wireless telephone|room
+36,proliferation,NN,NA,prolifer,proliferation,growth|growing|maturation|development|ontogeny|ontogenesis|increase|increment
+36,destabilize,VB,NA,destabil,destabilise|destabilize,change|alter|modify
+36,heal,VBG,ing,heal,bring around|cure|heal|mend,better|improve|ameliorate|meliorate|help|aid
+36,plaque,NN,NA,plaqu,brass|memorial tablet|plaque,spot|speckle|dapple|patch|fleck|maculation|memorial|monument
+37,harm,NN,NA,harm,damage|harm|hurt|impairment|injury|scathe|trauma,ill health|unhealthiness|health problem|change|alteration|modification|change of integrity
+37,result,VBD,ed,result,ensue|lead|leave|result,prove|turn out|turn up|produce|bring about|give rise|happen|hap|go on|pass off|occur|pass|fall out|come about|take place
+37,aggressive,JJ,NA,aggress,aggressive|belligerent|fast-growing(a)|strong-growing,
+37,treatment,NN,NA,treatment,discourse|discussion|handling|intervention|treatment,care|attention|aid|tending|management|direction|artistic style|idiom|communication|communicating
+37,strategy,NN,NA,strategi,scheme|strategy,plan of action|military science
+37,allay,VB,NA,allai,allay|assuage|ease|quench|relieve|slake|still,comfort|soothe|console|solace|fit|conform to|meet|satisfy|fill|fulfill|fulfil
+37,theoretical,JJ,NA,theoret,theoretic|theoretical,
+37,fear,NNS,s,fear,awe|care|concern|fear|fearfulness|fright|reverence|veneration,emotion|anxiety
+37,do,VBG,ing,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+37,so,RB,NA,so,and so|hence|indeed|so|then|thence|therefore|thus|thusly,NA
+37,remove,VB,NA,remov,absent|bump off|dispatch|get rid of|hit|move out|murder|off|polish off|remove|slay|take|take away|take out|transfer|withdraw,transfer|shift|disappear|vanish|go away|kill
+37,major,JJ,NA,major,major|major(ip),
+37,obstacle,NN,NA,obstacl,obstacle|obstruction,hindrance|hinderance|deterrent|impediment|balk|baulk|check|handicap|obstruction|obstructor|obstructer|impedimenta
+37,inpatient,NN,NA,inpati,inmate|inpatient,patient
+37,initiation,NN,NA,initi,creation|foundation|founding|induction|initiation|innovation|installation|instauration|institution|introduction|knowledgeability|knowledgeableness|origination|trigger,ceremony|ceremonial|ceremonial occasion|observance|beginning|start|commencement|wisdom|wiseness|causing|causation
+37,lipid-lowing,JJ,NA,lipid-low,,NA
+37,therapy,NN,NA,therapi,therapy,medical care|medical aid
+37,coronary,JJ,NA,coronari,coronary,
+37,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+38,unique,JJ,NA,uniqu,alone(p)|singular|unequaled|unequalled|unique|unique(p)|unparalleled,
+38,important,JJ,NA,import,authoritative|crucial|important|of import|significant,
+38,finding,NNS,s,find,determination|finding,discovery|find|uncovering|judgment|judgement|judicial decision|object|physical object
+38,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+38,number,NN,NA,number,act|bit|figure|issue|number|numeral|phone number|routine|telephone number|turn,amount|definite quantity|performance|public presentation|signal|signaling|sign|symbol|periodical|company|positive identification|size|item|grammatical category|syntactic category|merchandise|ware|product
+38,inherent,JJ,NA,inher,built-in|constitutional|implicit in(p)|inbuilt|inherent|integral|underlying,
+38,study,NN,NA,studi,bailiwick|cogitation|discipline|field|field of study|report|sketch|study|subject|subject area|subject field|survey|work|written report,examination|scrutiny|learning|acquisition|document|written document|papers|concentration|engrossment|absorption|immersion|room|knowledge domain|knowledge base|domain|drawing|contemplation|reflection|reflexion|rumination|musing|thoughtfulness|memorizer|memoriser|musical composition|opus|composition|piece|piece of music
+38,limitation,NNS,s,limit,limit|limitation|restriction,rule|regulation|disadvantage|indefinite quantity|time limit|regulating
+38,worth,JJ,NA,worth,deserving|worth(p),
+38,note,VBG,ing,note,mark|mention|note|notice|observe|remark|take down|take note,state|say|tell|write down|set down|get down|put down
+39,foremost,RB,NA,foremost,first|first of all|first off|firstly|foremost,NA
+39,possibility,NN,NA,possibl,hypothesis|opening|possibility|possible action|possibleness|theory,expectation|outlook|prospect|being|beingness|existence|face of the earth|concept|conception|construct|option|alternative|choice
+39,null,NN,NA,null,aught|cipher|cypher|goose egg|nada|naught|nil|nix|nothing|null|zero|zilch|zip|zippo,relative quantity
+39,treatment,NN,NA,treatment,discourse|discussion|handling|intervention|treatment,care|attention|aid|tending|management|direction|artistic style|idiom|communication|communicating
+39,effect,NN,NA,effect,burden|consequence|core|effect|essence|event|force|gist|impression|issue|outcome|result|upshot,phenomenon|appearance|visual aspect|impression|feeling|belief|notion|opinion|meaning|significance|signification|import|validity|validness|symptom
+39,cannot,NN,NA,cannot,,NA
+39,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+39,ignore,VBN,ed,ignor,brush aside|brush off|cut|discount|dismiss|disregard|ignore|neglect|push aside|snub,treat|handle|do by|reject
+39,give,VBN,en,give,afford|apply|break|cave in|chip in|collapse|commit|consecrate|contribute|dedicate|devote|ease up|establish|fall in|feed|founder|generate|gift|give|give way|grant|hand|have|hold|impart|kick in|leave|make|move over|open|pass|pass on|pay|present|reach|render|return|sacrifice|throw|turn over|yield,supply|provide|render|furnish|transfer|state|say|tell|communicate|intercommunicate|direct|make|create|think|cogitate|cerebrate|produce|pass|hand|reach|pass on|turn over|give|utter|emit|let out|let loose|release|relinquish|resign|free|give up|use|utilize|utilise|apply|employ|administer|dispense|distribute|mete out|deal|parcel out|lot|shell out|deal out|dish out|allot|dole out|move|ply|cater|change|estimate|gauge|approximate|guess|judge|execute|compensate|recompense|repair|indemnify|show|perform|stretch|toast|drink|pledge|salute|wassail|accord|grant|express|evince|submit|lead|permit|allow|let|countenance|inflict|bring down|visit|impose|happen|hap|go on|pass off|occur|fall out|come about|take place|accept|consent|go for|offer|proffer
+39,wide,JJ,NA,wide,across-the-board|all-embracing|all-encompassing|all-inclusive|blanket(a)|broad|encompassing|extensive|full|panoptic|spacious|wide|wide of the mark|wide-cut|wide-eyed,
+39,confidence,NN,NA,confid,assurance|authority|confidence|self-assurance|self-confidence|sureness|trust,certainty|security|hopefulness|friendship|friendly relationship|secret
+39,interval,NNS,s,interv,interval|musical interval|separation|time interval,measure|quantity|amount|set|distance|musical notation
+39,hence,RB,NA,henc,hence|so|thence|therefore|thus,NA
+39,marginally,RB,NA,margin,marginally,
+39,significant,JJ,NA,signific,important|meaning(a)|pregnant|significant|substantial,
+39,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+39,value,NN,NA,valu,economic value|note value|time value|value,numerical quantity|worth|measure|quantity|amount|color property|duration|continuance|ideal
+39,0,CD,NA,0,NA,NA
+39,048,CD,NA,048,NA,NA
+39,effect,NN,NA,effect,burden|consequence|core|effect|essence|event|force|gist|impression|issue|outcome|result|upshot,phenomenon|appearance|visual aspect|impression|feeling|belief|notion|opinion|meaning|significance|signification|import|validity|validness|symptom
+39,atorvastatin,NN,NA,atorvastatin,atorvastatin|Lipitor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+39,primary,JJ,NA,primari,basal|chief(a)|elemental|elementary|main(a)|master(a)|primary|primary(a)|principal(a),
+39,efficacy,NN,NA,efficaci,efficaciousness|efficacy,effectiveness|effectivity|effectualness|effectuality
+39,endpoint,NN,NA,endpoint,end point|endpoint|termination|terminus,end|terminal
+40,furthermore,RB,NA,furthermor,furthermore|moreover|what is more,NA
+40,number,NN,NA,number,act|bit|figure|issue|number|numeral|phone number|routine|telephone number|turn,amount|definite quantity|performance|public presentation|signal|signaling|sign|symbol|periodical|company|positive identification|size|item|grammatical category|syntactic category|merchandise|ware|product
+40,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+40,lose,VBD,ed,lose,lose|miss|suffer|turn a loss,NA
+40,follow,VB,NA,follow,abide by|accompany|adopt|be|come|come after|comply|conform to|espouse|fall out|follow|keep abreast|keep an eye on|keep up|observe|play along|postdate|pursue|stick to|stick with|succeed|surveil|survey|take after|trace|travel along|watch|watch over,travel|go|move|locomote|result|ensue|obey|imitate|copy|simulate|be|choose|take|select|pick out|analyze|analyse|study|examine|canvass|check|check up on|look into|check out|suss out|check over|go over|check into|play|originate|arise|rise|develop|uprise|spring up|grow|act|behave|do|practice|apply|use|understand|persevere|persist|hang in|hang on|hold on
+40,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+40,small,JJ,NA,small,belittled|diminished|humble|little|low|lowly|minor|minuscule|modest|pocket-size|pocket-sized|small|small-scale|small(a),
+40,adverse,JJ,NA,advers,adverse|contrary|inauspicious|untoward,
+40,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+40,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+40,occur,VBN,ed,occur,come|come about|fall out|go on|hap|happen|occur|pass|pass off|take place,become|appear|come along
+40,treat,VBN,ed,treat,address|care for|cover|deal|do by|handle|plow|process|regale|treat,interact|affect|impact|bear upon|bear on|touch on|touch|broach|initiate|give|gift|present|provide|supply|ply|cater|negociate|react|respond
+40,atorvastatin,NN,NA,atorvastatin,atorvastatin|Lipitor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+40,n,NN,NA,n,atomic number 7|due north|n|N|newton|nitrogen|normality|north|northward,chemical element|element|gas|cardinal compass point|force unit|relative quantity|letter|letter of the alphabet|alphabetic character
+40,not,RB,NA,not,non|not,NA
+40,placebo,NN,NA,placebo,placebo,medicine|medication|medicament|medicinal drug|vesper
+40,n,NN,NA,n,atomic number 7|due north|n|N|newton|nitrogen|normality|north|northward,chemical element|element|gas|cardinal compass point|force unit|relative quantity|letter|letter of the alphabet|alphabetic character
+40,8,CD,NA,8,NA,NA
+40,overall,JJ,NA,overal,overall,
+40,trial,NN,NA,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+40,result,NNS,s,result,answer|consequence|effect|event|final result|issue|outcome|resolution|result|resultant|resultant role|solution|solvent|termination|upshot,phenomenon|statement|ending|conclusion|finish|semantic role|participant role
+40,have,VB,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+40,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+40,neutral,JJ,NA,neutral,achromatic|electroneutral|impersonal|indifferent|inert|neutral,
+40,rather,RB,NA,rather,instead|kind of|kinda|preferably|quite|rather|sooner|sort of,NA
+40,positive,NN,NA,posit,positive|positive degree,adjective|adverb|film|photographic film
+41,type,NNS,s,type,case|character|eccentric|type,kind|sort|form|variety|adult|grownup|taxonomic group|taxonomic category|taxon|character|graph|grapheme|graphic symbol|symbol|block
+41,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+41,prevent,VBN,ed,prevent,forbid|foreclose|forestall|keep|preclude|prevent,
+41,miracl,NNP,NA,miracl,,NA
+41,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+41,also,RB,NA,also,also|as well|besides|likewise|too,NA
+41,worth,JJ,NA,worth,deserving|worth(p),
+41,note,VBG,ing,note,mark|mention|note|notice|observe|remark|take down|take note,state|say|tell|write down|set down|get down|put down
+42,rehospitalization,NN,NA,rehospit,,NA
+42,recurrent,JJ,NA,recurr,perennial|recurrent|repeated,
+42,myocardial,NN,NA,myocardi,,NA
+42,ischemium,NN,s,ischemium,,NA
+42,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+42,important,JJ,NA,import,authoritative|crucial|important|of import|significant,
+42,determinant,NN,NA,determin,antigenic determinant|causal factor|determinant|determinative|determiner|determining factor|epitope,cognitive factor|site|situation|square matrix
+42,quality,NN,NA,qualiti,caliber|calibre|character|lineament|quality|timber|timbre|tone,attribute|degree|grade|level|property|dimension|sound property|social station|social status|social rank|rank
+42,life,NN,NA,life,aliveness|animation|biography|life|life history|life sentence|life story|life-time|lifespan|lifetime|liveliness|living|spirit|sprightliness,being|beingness|existence|face of the earth|experience|time period|period of time|period|person|individual|someone|somebody|mortal|soul|animation|spiritedness|invigoration|brio|vivification|living thing|animate thing|organic phenomenon|history|account|chronicle|story|motivation|motive|need|prison term|sentence|time
+42,health,NN,NA,health,health|wellness,wellbeing|well-being|welfare|upbeat|eudaemonia|eudaimonia|condition|status
+42,care,NN,NA,care,aid|attention|care|caution|charge|concern|fear|forethought|guardianship|maintenance|precaution|tending|tutelage|upkeep,work|judiciousness|anxiety|predicament|quandary|plight|protection|repair|fix|fixing|fixture|mend|mending|reparation
+42,cost,NNS,s,cost,cost|monetary value|price|toll,outgo|spending|expenditure|outlay|value
+42,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+42,important,JJ,NA,import,authoritative|crucial|important|of import|significant,
+42,endpoint,NNS,s,endpoint,end point|endpoint|termination|terminus,end|terminal
+42,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+42,not,RB,NA,not,non|not,NA
+42,significantly,RB,NA,significantli,importantly|significantly,
+42,affect,VBN,ed,affect,affect|bear on|bear upon|dissemble|feign|impact|impress|involve|move|pretend|regard|sham|strike|touch|touch on,change|alter|modify|refer|pertain|relate|concern|come to|bear on|touch|touch on|have to do with|misrepresent|belie
+42,eg,NN,NA,eg,,NA
+42,death,NN,NA,death,death|Death|decease|demise|destruction|dying|end|expiry|last,change|alteration|modification|organic phenomenon|state|end|ending|killing|kill|putting to death
+42,myocardial,NN,NA,myocardi,,NA
+42,infarction,NN,NA,infarct,infarct|infarction,pathology
+42,resuscitated,JJ,NA,resuscit,resuscitated,
+42,sudden,JJ,NA,sudden,sudden,
+42,cardiac,JJ,NA,cardiac,cardiac,
+42,death,NN,NA,death,death|Death|decease|demise|destruction|dying|end|expiry|last,change|alteration|modification|organic phenomenon|state|end|ending|killing|kill|putting to death
+42,worsen,VBG,ing,worsen,aggravate|decline|exacerbate|exasperate|worsen,change state|turn|change|alter|modify
+42,heart,NN,NA,heart,affection|affectionateness|bosom|center|centre|core|essence|eye|fondness|gist|heart|heart and soul|inwardness|kernel|marrow|meat|mettle|middle|nerve|nitty-gritty|nub|philia|pith|pump|spirit|spunk|substance|sum|tenderness|ticker|warmheartedness|warmness,intuition|hunch|suspicion|internal organ|viscus|courage|courageousness|bravery|braveness|area|country|content|cognitive content|mental object|disposition|temperament|plane figure|two-dimensional figure|variety meat|organs|feeling|playing card
+42,failure,NN,NA,failur,bankruptcy|failure|loser|nonstarter|unsuccessful person,nonaccomplishment|nonachievement|happening|occurrence|occurrent|natural event|fortune|destiny|fate|luck|lot|circumstances|portion|unfortunate|unfortunate person|omission|skip|insolvency|disorder|upset
+42,need,NN,NA,need,demand|indigence|motivation|motive|need|pauperism|pauperization|penury|want,condition|status|necessity|essential|requirement|requisite|necessary|psychological feature|poverty|poorness|impoverishment
+42,coronary,JJ,NA,coronari,coronary,
+42,revascularization,NN,NA,revascular,,NA
+42,etc,FW,NA,etc,NA,NA
+43,question,NN,NA,question,doubt|doubtfulness|dubiousness|enquiry|head|inquiry|interrogation|interrogative|interrogative sentence|motion|query|question,questioning|inquiring|subject|topic|theme|sentence|uncertainty|uncertainness|precariousness|proposal|marriage proposal|proposal of marriage|marriage offer
+43,statin,NNS,s,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+43,prevent,VB,NA,prevent,forbid|foreclose|forestall|keep|preclude|prevent,
+43,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+43,adverse,JJ,NA,advers,adverse|contrary|inauspicious|untoward,
+43,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+43,initiate,VBN,ed,initi,broach|induct|initiate|lead up|originate|pioneer|start,make|create|cause|do|admit|let in|include|hash out|discuss|talk over|originate|initiate|start
+43,soon,RB,NA,soon,before long|presently|shortly|soon,NA
+43,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+43,coronary,JJ,NA,coronari,coronary,
+43,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+43,require,VB,NA,requir,ask|call for|command|demand|expect|involve|necessitate|need|postulate|require|take|want,demand|order|tell|enjoin|say|be
+43,further,JJ,NA,further,farther|further,
+43,study,NN,NA,studi,bailiwick|cogitation|discipline|field|field of study|report|sketch|study|subject|subject area|subject field|survey|work|written report,examination|scrutiny|learning|acquisition|document|written document|papers|concentration|engrossment|absorption|immersion|room|knowledge domain|knowledge base|domain|drawing|contemplation|reflection|reflexion|rumination|musing|thoughtfulness|memorizer|memoriser|musical composition|opus|composition|piece|piece of music
+44,short,JJ,NA,short,brusk|brusque|curt|forgetful|inadequate|jejune|light|little|myopic|poor|scant(p)|short|short(p)|shortsighted|unforesightful|unretentive,
+44,duration,NN,NA,durat,continuance|duration|length,time period|period of time|period|time|temporal property
+44,follow-up,JJ,NA,follow-up,,NA
+44,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+44,also,RB,NA,also,also|as well|besides|likewise|too,NA
+44,particularly,RB,NA,particularli,especially|in particular|particularly|peculiarly|specially,
+44,troubling,JJ,NA,troubl,distressful|distressing|disturbing|perturbing|troubling|worrisome|worrying,
+45,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+45,impressive,JJ,NA,impress,impressive|telling,
+45,clinical,JJ,NA,clinic,clinical,
+45,benefit,NN,NA,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+45,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+45,realize,VBN,ed,realiz,actualise|actualize|agnise|agnize|bring in|clear|earn|gain|make|pull in|realise|realize|recognise|recognize|see|substantiate|take in|understand,know|cognize|cognise|make|create|get|acquire|sell|harmonize|harmonise
+45,only,RB,NA,onli,alone|but|entirely|exclusively|just|merely|only|only if|only when|simply|solely,NA
+45,16,CD,NA,16,NA,NA
+45,week,NNS,s,week,calendar week|hebdomad|week|workweek,time period|period of time|period|work time
+45,statin,NN,NA,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+45,therapy,NN,NA,therapi,therapy,medical care|medical aid
+45,increase,VBN,ed,increas,increase,change magnitude|change|alter|modify
+45,risk,NN,NA,risk,danger|endangerment|hazard|jeopardy|peril|risk|risk of exposure|risk of infection,danger|venture|probability|chance
+45,adverse,JJ,NA,advers,adverse|contrary|inauspicious|untoward,
+45,clinical,JJ,NA,clinic,clinical,
+45,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+45,persist,VBZ,s,persist,die hard|endure|hang in|hang on|hold on|persevere|persist|prevail|remain|run|stay,continue|uphold|carry on|bear on|preserve
+45,year,NN,NA,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+45,follow,VBG,ing,follow,abide by|accompany|adopt|be|come|come after|comply|conform to|espouse|fall out|follow|keep abreast|keep an eye on|keep up|observe|play along|postdate|pursue|stick to|stick with|succeed|surveil|survey|take after|trace|travel along|watch|watch over,travel|go|move|locomote|result|ensue|obey|imitate|copy|simulate|be|choose|take|select|pick out|analyze|analyse|study|examine|canvass|check|check up on|look into|check out|suss out|check over|go over|check into|play|originate|arise|rise|develop|uprise|spring up|grow|act|behave|do|practice|apply|use|understand|persevere|persist|hang in|hang on|hold on
+45,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+45,coronary,JJ,NA,coronari,coronary,
+45,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+46,longer,RBR,NA,longer,longer,
+46,clinical,JJ,NA,clinic,clinical,
+46,follow,VB,NA,follow,abide by|accompany|adopt|be|come|come after|comply|conform to|espouse|fall out|follow|keep abreast|keep an eye on|keep up|observe|play along|postdate|pursue|stick to|stick with|succeed|surveil|survey|take after|trace|travel along|watch|watch over,travel|go|move|locomote|result|ensue|obey|imitate|copy|simulate|be|choose|take|select|pick out|analyze|analyse|study|examine|canvass|check|check up on|look into|check out|suss out|check over|go over|check into|play|originate|arise|rise|develop|uprise|spring up|grow|act|behave|do|practice|apply|use|understand|persevere|persist|hang in|hang on|hold on
+46,up,RB,NA,up,up|upward|upwardly|upwards,NA
+46,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+46,not,RB,NA,not,non|not,NA
+46,possible,JJ,NA,possibl,possible|potential,
+46,assess,VB,NA,assess,appraise|assess|evaluate|measure|tax|valuate|value,evaluate|pass judgment|judge|charge|bill|determine|set|estimate|gauge|approximate|guess
+46,intermediate-term,JJ,NA,intermediate-term,,NA
+46,effect,NN,NA,effect,burden|consequence|core|effect|essence|event|force|gist|impression|issue|outcome|result|upshot,phenomenon|appearance|visual aspect|impression|feeling|belief|notion|opinion|meaning|significance|signification|import|validity|validness|symptom
+46,atorvastatin,NN,NA,atorvastatin,atorvastatin|Lipitor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+46,hard,JJ,NA,hard,arduous|backbreaking|concentrated|difficult|grueling|gruelling|hard|heavy|intemperate|knockout|laborious|operose|punishing|severe|strong|surd|toilsome|tough|unvoiced|voiceless,
+46,endpoint,NNS,s,endpoint,end point|endpoint|termination|terminus,end|terminal
+46,such,JJ,NA,such,such(a),
+46,death,NN,NA,death,death|Death|decease|demise|destruction|dying|end|expiry|last,change|alteration|modification|organic phenomenon|state|end|ending|killing|kill|putting to death
+46,myocardial,NN,NA,myocardi,,NA
+46,infarction,NN,NA,infarct,infarct|infarction,pathology
+47,do,VB,NA,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+47,so,RB,NA,so,and so|hence|indeed|so|then|thence|therefore|thus|thusly,NA
+47,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+47,critical,JJ,NA,critic,critical|decisive|vital,
+47,light,NN,NA,light,brightness|brightness level|Christ Within|igniter|ignitor|illumination|Inner Light|light|Light|light source|Light Within|lighter|lighting|lightness|luminance|luminosity|luminousness|spark|sparkle|twinkle|visible light|visible radiation,actinic radiation|actinic ray|source of illumination|position|view|perspective|physical property|scene|condition|status|visual property|friend|illumination|insight|brainstorm|brainwave|vitality|verve|expression|look|aspect|facial expression|face|public knowledge|general knowledge|ethical motive|ethics|morals|morality|visual signal|device
+47,lack,NN,NA,lack,deficiency|lack|want,need|demand
+47,effect,NN,NA,effect,burden|consequence|core|effect|essence|event|force|gist|impression|issue|outcome|result|upshot,phenomenon|appearance|visual aspect|impression|feeling|belief|notion|opinion|meaning|significance|signification|import|validity|validness|symptom
+47,important,JJ,NA,import,authoritative|crucial|important|of import|significant,
+47,endpoint,NNS,s,endpoint,end point|endpoint|termination|terminus,end|terminal
+47,16,CD,NA,16,NA,NA
+47,week,NNS,s,week,calendar week|hebdomad|week|workweek,time period|period of time|period|work time
+48,unfortunately,RB,NA,unfortun,alas|regrettably|unfortunately|unluckily,
+48,late,JJ,NA,late,belated|former(a)|late|late(a)|later(a)|previous(a)|recent|tardy,
+48,clinical,JJ,NA,clinic,clinical,
+48,follow,VB,NA,follow,abide by|accompany|adopt|be|come|come after|comply|conform to|espouse|fall out|follow|keep abreast|keep an eye on|keep up|observe|play along|postdate|pursue|stick to|stick with|succeed|surveil|survey|take after|trace|travel along|watch|watch over,travel|go|move|locomote|result|ensue|obey|imitate|copy|simulate|be|choose|take|select|pick out|analyze|analyse|study|examine|canvass|check|check up on|look into|check out|suss out|check over|go over|check into|play|originate|arise|rise|develop|uprise|spring up|grow|act|behave|do|practice|apply|use|understand|persevere|persist|hang in|hang on|hold on
+48,up,RB,NA,up,up|upward|upwardly|upwards,NA
+48,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+48,plan,VBN,ed,plan,be after|contrive|design|plan|project,intend|mean|think|cogitate|cerebrate|create by mental act|create mentally
+49,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+49,also,RB,NA,also,also|as well|besides|likewise|too,NA
+49,number,NN,NA,number,act|bit|figure|issue|number|numeral|phone number|routine|telephone number|turn,amount|definite quantity|performance|public presentation|signal|signaling|sign|symbol|periodical|company|positive identification|size|item|grammatical category|syntactic category|merchandise|ware|product
+49,limitation,NNS,s,limit,limit|limitation|restriction,rule|regulation|disadvantage|indefinite quantity|time limit|regulating
+49,have,VB,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+49,hamper,VBN,ed,hamper,cramp|halter|hamper|handicap|hinder|strangle,restrict|trammel|limit|bound|confine|throttle|disadvantage|disfavor|disfavour
+49,study,NN,NA,studi,bailiwick|cogitation|discipline|field|field of study|report|sketch|study|subject|subject area|subject field|survey|work|written report,examination|scrutiny|learning|acquisition|document|written document|papers|concentration|engrossment|absorption|immersion|room|knowledge domain|knowledge base|domain|drawing|contemplation|reflection|reflexion|rumination|musing|thoughtfulness|memorizer|memoriser|musical composition|opus|composition|piece|piece of music
+49,generalizability,NN,NA,generaliz,,NA
+50,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+50,undergo,VBD,ed,undergo,undergo,change
+50,recent,JJ,NA,recent,late(a)|recent,
+50,revascularization,NN,NA,revascular,,NA
+50,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+50,plan,VBN,ed,plan,be after|contrive|design|plan|project,intend|mean|think|cogitate|cerebrate|create by mental act|create mentally
+50,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+50,exclude,VBN,ed,exclud,bar|boot out|chuck out|debar|eject|except|exclude|keep out|leave off|leave out|omit|shut|shut out|take out|turf out|turn out,extinguish|eliminate|get rid of|do away with|prevent|keep|miss|lack|forbid|prohibit|interdict|proscribe|veto|disallow|nix|expel|throw out|kick out
+51,specifically,RB,NA,specif,specifically,
+51,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+51,undergo,VBD,ed,undergo,undergo,change
+51,percutaneous,JJ,NA,percutan,percutaneous|transcutaneous|transdermal|transdermic,
+51,transluminal,NN,NA,translumin,,NA
+51,coronary,JJ,NA,coronari,coronary,
+51,angioplasty,NN,NA,angioplasti,angioplasty,operation|surgery|surgical operation|surgical procedure|surgical process
+51,ptca,NNP,NA,ptca,,NA
+51,coronary,JJ,NA,coronari,coronary,
+51,artery,NN,NA,arteri,arteria|arterial blood vessel|artery,blood vessel|thoroughfare
+51,bypass,NN,NA,bypass,beltway|bypass|electrical shunt|ring road|ringway|shunt,highway|main road|shunt|conductor
+51,graft,NN,NA,graft,bribery|graft|grafting|transplant,animal tissue|felony|attachment|affixation
+51,cabg,NNP,NA,cabg,CABG|coronary artery bypass graft|coronary bypass|coronary bypass surgery,open-heart surgery
+51,surgery,NN,NA,surgeri,operating room|operating theater|operating theatre|operation|OR|surgery|surgical operation|surgical procedure|surgical process,medical science|room|hospital room|medical procedure
+51,previous,JJ,NA,previou,former(a)|late(a)|old|premature|previous(a)|previous(p),
+51,three,CD,NA,three,NA,NA
+51,six,CD,NA,six,NA,NA
+51,month,NNS,s,month,calendar month|month,time period|period of time|period|time unit|unit of time
+51,respectively,RB,NA,respect,respectively|severally,
+51,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+51,not,RB,NA,not,non|not,NA
+51,eligible,JJ,NA,elig,eligible,
+51,inclusion,NN,NA,inclus,cellular inclusion|comprehension|inclusion|inclusion body,situation|state of affairs|involvement|body|increase|step-up
+52,investigator,NNS,s,investig,detective|investigator|police detective|research worker|researcher|tec,scientist|expert|policeman|police officer|officer
+52,reason,VBD,ed,reason,argue|conclude|reason|reason out,think|cogitate|cerebrate|present|represent|lay out|think|cogitate|cerebrate
+52,recurrent,JJ,NA,recurr,perennial|recurrent|repeated,
+52,ischemic,JJ,NA,ischem,ischaemic|ischemic,
+52,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+52,population,NN,NA,popul,population|universe,people|group|grouping|collection|aggregation|accumulation|assemblage|integer|whole number|colonization|colonisation|settlement
+52,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+52,likely,JJ,NA,like,likely|potential|probable,
+52,result,VB,NA,result,ensue|lead|leave|result,prove|turn out|turn up|produce|bring about|give rise|happen|hap|go on|pass off|occur|pass|fall out|come about|take place
+52,restenosis,NNS,NA,restenosi,,NA
+52,bypass,VB,NA,bypass,bypass|get around|go around|short-circuit,avoid
+52,graft,NN,NA,graft,bribery|graft|grafting|transplant,animal tissue|felony|attachment|affixation
+52,closure,NN,NA,closur,block|blockage|closedown|closing|closure|cloture|gag law|gag rule|law of closure|occlusion|resolution|settlement|shutdown|stop|stoppage,approach|approaching|coming|order|rules of order|parliamentary law|parliamentary procedure|Gestalt law of organization|Gestalt principle of organization|decision making|deciding|obstruction|obstructor|obstructer|impediment|impedimenta|termination|ending|conclusion
+52,statin,NNS,s,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+52,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+52,less,RBR,NA,less,less|to a lesser extent,
+52,likely,JJ,NA,like,likely|potential|probable,
+52,affect,VB,NA,affect,affect|bear on|bear upon|dissemble|feign|impact|impress|involve|move|pretend|regard|sham|strike|touch|touch on,change|alter|modify|refer|pertain|relate|concern|come to|bear on|touch|touch on|have to do with|misrepresent|belie
+52,process,VBZ,s,process,action|litigate|march|process|serve|sue|swear out|treat|work|work on,affect|impact|bear upon|bear on|touch on|touch|manage|deal|care|handle|calculate|cipher|cypher|compute|work out|reckon|figure|challenge|walk|transform|transmute|transubstantiate|deliver
+52,[,NN,NA,[,,NA
+52,8,CD,NA,8,NA,NA
+52,],NN,NA,],,NA
+53,nevertheless,RB,NA,nevertheless,all the same|at the same time|even so|however|nevertheless|nonetheless|notwithstanding|still|withal|yet,NA
+53,number,NN,NA,number,act|bit|figure|issue|number|numeral|phone number|routine|telephone number|turn,amount|definite quantity|performance|public presentation|signal|signaling|sign|symbol|periodical|company|positive identification|size|item|grammatical category|syntactic category|merchandise|ware|product
+53,trial,NNS,s,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+53,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+53,establish,VBN,ed,establish,base|build|constitute|demonstrate|establish|found|give|ground|instal|install|institute|launch|lay down|make|plant|prove|set up|shew|show,open|open up|initiate|pioneer|confirm|corroborate|sustain|substantiate|support|affirm|make|create
+53,benefit,NNS,s,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+53,statin,NN,NA,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+53,therapy,NN,NA,therapi,therapy,medical care|medical aid
+53,early,RB,NA,earli,ahead of time|betimes|early|early on|too soon,NA
+53,coronary,JJ,NA,coronari,coronary,
+53,revascularization,NN,NA,revascular,,NA
+53,[,NN,NA,[,,NA
+53,9,CD,NA,9,NA,NA
+53,10,CD,NA,10,NA,NA
+53,11,CD,NA,11,NA,NA
+53,],NN,NA,],,NA
+54,furthermore,RB,NA,furthermor,furthermore|moreover|what is more,NA
+54,number,NN,NA,number,act|bit|figure|issue|number|numeral|phone number|routine|telephone number|turn,amount|definite quantity|performance|public presentation|signal|signaling|sign|symbol|periodical|company|positive identification|size|item|grammatical category|syntactic category|merchandise|ware|product
+54,recent,JJ,NA,recent,late(a)|recent,
+54,trial,NNS,s,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+54,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+54,suggest,VBN,ed,suggest,advise|evoke|hint|intimate|paint a picture|propose|suggest,declare|convey|imply|express|show|evince
+54,higher,JJR,NA,higher,higher(a),
+54,risk,NN,NA,risk,danger|endangerment|hazard|jeopardy|peril|risk|risk of exposure|risk of infection,danger|venture|probability|chance
+54,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+54,non-,NN,NA,non-,,NA
+54,st,NNP,NA,st,,NA
+54,elevation,NN,NA,elev,acme|aggrandisement|aggrandizement|ALT|altitude|EL|elevation|height|lift|meridian|natural elevation|peak|pinnacle|raising|summit|superlative|tiptop|top,rise|rising|ascent|ascension|degree|level|stage|point|angular position|geological formation|formation|distance|leap|plan|architectural plan|increase|step-up
+54,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+54,coronary,JJ,NA,coronari,coronary,
+54,syndrome,NNS,s,syndrom,syndrome,complex|composite|symptom
+54,fair,JJ,NA,fair,average|bonnie|bonny|clean|comely|fair|fair(a)|fairish|honest|just|mediocre|middling|reasonable|sightly,
+54,better,JJR,NA,better,best(p)|better|better(p),
+54,early,JJ,NA,earli,early|early(a)|former(a)|other(a),
+54,invasive,JJ,NA,invas,encroaching(a)|incursive|invading|invasive|trespassing(a),
+54,strategy,NN,NA,strategi,scheme|strategy,plan of action|military science
+54,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+54,apply,VBN,ed,appli,apply|employ|enforce|give|go for|hold|implement|lend oneself|practice|put on|use|utilise|utilize,refer|pertain|relate|concern|come to|bear on|touch|touch on|have to do with|request|ask for|bespeak|call for|quest|cover|distribute|administer|mete out|deal|parcel out|lot|dispense|shell out|deal out|dish out|allot|dole out|compel|oblige|obligate|denote|give|dedicate|consecrate|commit|devote
+54,[,NN,NA,[,,NA
+54,12,CD,NA,12,NA,NA
+54,13,CD,NA,13,NA,NA
+54,14,CD,NA,14,NA,NA
+54,],NN,NA,],,NA
+54,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+54,not,RB,NA,not,non|not,NA
+54,uncommon,JJ,NA,uncommon,rare|uncommon,
+54,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+54,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+54,treat,VBN,ed,treat,address|care for|cover|deal|do by|handle|plow|process|regale|treat,interact|affect|impact|bear upon|bear on|touch on|touch|broach|initiate|give|gift|present|provide|supply|ply|cater|negociate|react|respond
+54,fashion,NN,NA,fashion,fashion|manner|mode|style|way,property|practice|pattern|vogue|trend|style|consumer goods
+55,second,JJ,NA,second,2d|2nd|second,
+55,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+55,q-,NNP,NA,q-,,NA
+55,wave,NN,NA,wave,moving ridge|undulation|wafture|wave|Wave|waving,movement|motion|move|motility|rise|gesture|hairdo|hairstyle|hair style|coiffure|coif|curve|curved shape|weather|weather condition|conditions|atmospheric condition|reservist|woman|adult female
+55,myocardial,NN,NA,myocardi,,NA
+55,infarction,NN,NA,infarct,infarct|infarction,pathology
+55,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+55,not,RB,NA,not,non|not,NA
+55,eligible,JJ,NA,elig,eligible,
+55,enrollment,NN,NA,enrol,enrollment|enrolment|registration,entrance|entering|entry|ingress|incoming|body
+55,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+55,feel,VBN,ed,feel,experience|feel|find|finger|palpate|sense,reason|reason out|conclude|perceive|comprehend|be|think|believe|consider|conceive|experience|see|go through|look|appear|seem|search|seek|look for|touch|find|regain
+55,statin,NNS,s,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+55,not,RB,NA,not,non|not,NA
+55,influence,VB,NA,influenc,act upon|charm|determine|influence|mold|regulate|shape|tempt|work,affect|impact|bear upon|bear on|touch on|touch|cause|do|make|persuade
+55,development,NN,NA,develop,developing|development|evolution|exploitation|growing|growth|maturation|ontogenesis|ontogeny,improvement|process|physical process|organic process|biological process|change|alteration|modification|use|usage|utilization|utilisation|employment|exercise|district|territory|territorial dominion|dominion|melioration|processing|section|subdivision
+55,important,JJ,NA,import,authoritative|crucial|important|of import|significant,
+55,prognostic,JJ,NA,prognost,predictive|prognostic|prognosticative,
+55,determinant,NNS,s,determin,antigenic determinant|causal factor|determinant|determinative|determiner|determining factor|epitope,cognitive factor|site|situation|square matrix
+55,such,JJ,NA,such,such(a),
+55,leave,VBN,ed,leav,allow|allow for|bequeath|depart|entrust|exit|forget|get out|give|go away|go forth|go out|impart|lead|leave|leave alone|leave behind|let alone|pass on|provide|pull up stakes|result|will,make|get|refrain|forbear|move|yield|give|afford|produce|bring about|give rise|change|pass|hand|reach|pass on|turn over|gift|present|have|tell|lose
+55,ventricular,NN,NA,ventricular,,NA
+55,systolic,JJ,NA,systol,systolic,
+55,dysfunction,NN,NA,dysfunct,disfunction|dysfunction,pathology
+55,ventricular,NN,NA,ventricular,,NA
+55,arrhythmia,NNS,s,arrhythmia,arrhythmia|cardiac arrhythmia,heart disease|cardiopathy
+55,mechanical,JJ,NA,mechan,mechanical|mechanically skillful|technical,
+55,complication,NNS,s,complic,complicatedness|complication|knottiness|ramification|tortuousness,hindrance|hinderance|interference|situation|state of affairs|disease|development|complexity|complexness
+55,[,NN,NA,[,,NA
+55,5,CD,NA,5,NA,NA
+55,],NN,NA,],,NA
+56,nevertheless,RB,NA,nevertheless,all the same|at the same time|even so|however|nevertheless|nonetheless|notwithstanding|still|withal|yet,NA
+56,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+56,develop,VBP,NA,develop,acquire|arise|break|build up|develop|educate|evolve|explicate|formulate|germinate|get|grow|make grow|modernise|modernize|originate|prepare|produce|recrudesce|rise|spring up|train|uprise,create|create by mental act|create mentally|change|become|better|improve|amend|ameliorate|meliorate|speculate|theorize|theorise|conjecture|hypothesize|hypothesise|hypothecate|suppose|teach|learn|instruct|happen|hap|go on|pass off|occur|pass|fall out|come about|take place|grow|alter|modify|generate|bring forth|superimpose|superpose|lay over|play|complicate|refine|rarify|elaborate|expand
+56,electrocardiographic,JJ,NA,electrocardiograph,electrocardiographic,
+56,q-,NNP,NA,q-,,NA
+56,wave,NNS,s,wave,moving ridge|undulation|wafture|wave|Wave|waving,movement|motion|move|motility|rise|gesture|hairdo|hairstyle|hair style|coiffure|coif|curve|curved shape|weather|weather condition|conditions|atmospheric condition|reservist|woman|adult female
+56,represent,VBP,NA,repres,act|be|comprise|constitute|correspond|defend|exemplify|interpret|lay out|make up|map|play|present|represent|stage|stand for|symbolise|symbolize|typify,equal|be|mean|intend|serve|express|verbalize|verbalise|utter|give tongue to|embody|personify|re-create|describe|depict|draw|remonstrate|point out|state|say|tell|permute|commute|transpose
+56,substantial,JJ,NA,substanti,affluent|flush|hearty|loaded|material|moneyed|real|satisfying|significant|solid|square|strong|substantial|substantive|wealthy,
+56,proportion,NN,NA,proport,balance|dimension|proportion|proportionality|ratio|symmetry,quotient|magnitude|balance|equilibrium|equipoise|counterbalance|magnitude relation|quantitative relation|placement|arrangement
+56,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+56,myocardial,NN,NA,myocardi,,NA
+56,infarction,NN,NA,infarct,infarct|infarction,pathology
+57,short-term,JJ,NA,short-term,short-run|short-term,
+57,risk,NN,NA,risk,danger|endangerment|hazard|jeopardy|peril|risk|risk of exposure|risk of infection,danger|venture|probability|chance
+57,follow,VBG,ing,follow,abide by|accompany|adopt|be|come|come after|comply|conform to|espouse|fall out|follow|keep abreast|keep an eye on|keep up|observe|play along|postdate|pursue|stick to|stick with|succeed|surveil|survey|take after|trace|travel along|watch|watch over,travel|go|move|locomote|result|ensue|obey|imitate|copy|simulate|be|choose|take|select|pick out|analyze|analyse|study|examine|canvass|check|check up on|look into|check out|suss out|check over|go over|check into|play|originate|arise|rise|develop|uprise|spring up|grow|act|behave|do|practice|apply|use|understand|persevere|persist|hang in|hang on|hold on
+57,hospital,NN,NA,hospit,hospital|infirmary,medical building|health facility|healthcare facility|medical institution
+57,discharge,NN,NA,discharg,arc|discharge|dismissal|dismission|electric arc|electric discharge|emission|expelling|firing|firing off|liberation|outpouring|release|run|sack|sacking|spark|venting|waiver,happening|occurrence|occurrent|natural event|emission|emanation|material|stuff|bodily process|body process|bodily function|activity|electrical conduction|flow|flowing|termination|ending|conclusion|relinquishment|relinquishing|shooting|shot
+57,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+57,lower,JJR,NA,lower,,NA
+57,relative,JJ,NA,rel,comparative|proportional|relative,
+57,non-,NN,NA,non-,,NA
+57,q-,NNP,NA,q-,,NA
+57,wave,NN,NA,wave,moving ridge|undulation|wafture|wave|Wave|waving,movement|motion|move|motility|rise|gesture|hairdo|hairstyle|hair style|coiffure|coif|curve|curved shape|weather|weather condition|conditions|atmospheric condition|reservist|woman|adult female
+57,myocardial,NN,NA,myocardi,,NA
+57,infarction,NN,NA,infarct,infarct|infarction,pathology
+57,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+57,still,RB,NA,still,all the same|at the same time|even|even so|however|nevertheless|nonetheless|notwithstanding|still|stock-still|withal|yet,NA
+57,much,RB,NA,much,a good deal|a great deal|a lot|lots|much|often|practically|very much,NA
+57,greater,JJR,NA,greater,greater,
+57,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+57,stable,JJ,NA,stabl,stable|static|unchanging,
+57,coronary,JJ,NA,coronari,coronary,
+57,disease,NN,NA,diseas,disease,illness|unwellness|malady|sickness
+57,need,NN,NA,need,demand|indigence|motivation|motive|need|pauperism|pauperization|penury|want,condition|status|necessity|essential|requirement|requisite|necessary|psychological feature|poverty|poorness|impoverishment
+57,secondary,JJ,NA,secondari,junior-grade|lower-ranking|lowly|petty(a)|secondary|subaltern,
+57,prevention,NN,NA,prevent,bar|prevention,hindrance|hinderance|interference
+57,population,NN,NA,popul,population|universe,people|group|grouping|collection|aggregation|accumulation|assemblage|integer|whole number|colonization|colonisation|settlement
+57,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+57,equally,RB,NA,equal,as|equally|evenly|every bit,
+57,important,JJ,NA,import,authoritative|crucial|important|of import|significant,
+58,third,NNP,NA,third,one-third|third|third base|third gear|tierce,common fraction|simple fraction|position|rank|interval|musical interval|gear|gear mechanism|base|bag
+58,high,JJ,NA,high,eminent|gamey|gamy|high|high-pitched|in high spirits|mellow,
+58,risk,NN,NA,risk,danger|endangerment|hazard|jeopardy|peril|risk|risk of exposure|risk of infection,danger|venture|probability|chance
+58,nature,NN,NA,natur,nature,quality|causal agent|cause|causal agency|universe|existence|creation|world|cosmos|macrocosm|trait|type
+58,enroll,VBD,ed,enrol,enrol|enroll|enter|inscribe|recruit,register
+58,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+58,ie,NN,NA,ie,Explorer|IE|Internet Explorer,
+58,electrocardiogram,NN,NA,electrocardiogram,cardiogram|ECG|EKG|electrocardiogram,graph|graphical record|graphical recording
+58,[,NN,NA,[,,NA
+58,ecg,NNP,NA,ecg,cardiogram|ECG|EKG|electrocardiogram,graph|graphical record|graphical recording
+58,],NN,NA,],,NA
+58,change,NNS,s,chang,alteration|change|modification|variety,happening|occurrence|occurrent|natural event|relation|action|consequence|effect|outcome|result|event|issue|upshot|cash|hard cash|hard currency|thing|clothing|article of clothing|vesture|wear|wearable|habiliment|coin|difference
+58,/,NN,NA,/,,NA
+58,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+58,objective,NN,NA,object,aim|object|object glass|object lens|objective|objective lens|target,goal|end|lens|lense|lens system
+58,evidence,NN,NA,evid,evidence|grounds,information|indication|indicant|info
+58,ischemium,NN,s,ischemium,,NA
+58,rate,NN,NA,rate,charge per unit|pace|rate,magnitude relation|quantitative relation|charge|temporal property|proportion
+58,platelet,NN,NA,platelet,blood platelet|platelet|thrombocyte,protoplasm|living substance
+58,glycoprotein,NN,NA,glycoprotein,glycoprotein,conjugated protein|compound protein
+58,iib,NNP,NA,iib,,NA
+58,/,NN,NA,/,,NA
+58,iium,NNP,s,iium,,NA
+58,inhibitor,NN,NA,inhibitor,inhibitor,substance
+58,utilization,NN,NA,util,employment|exercise|usage|use|utilisation|utilization,activity|state
+58,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+58,quite,RB,NA,quit,quite|quite a|quite an|rather,NA
+58,low,JJ,NA,low,abject|blue|broken|crushed|depleted|depressed|dispirited|down in the mouth|down(p)|downcast|downhearted|gloomy|grim|humble|humbled|humiliated|low|low-down|low-pitched|low-spirited|low-toned|lowly|miserable|modest|scummy|scurvy|small,
+58,1,CD,NA,1,NA,NA
+58,%,NN,NA,%,,NA
+59,such,JJ,NA,such,such(a),
+59,therapy,NN,NA,therapi,therapy,medical care|medical aid
+59,appear,VBZ,s,appear,appear|come along|come out|look|seem,be|happen|materialize|materialise|perform|execute|do
+59,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+59,cost,VBN,NA,cost,be|cost,be|necessitate|ask|postulate|need|require|take|involve|call for|demand
+59,effective,JJ,NA,effect,effective|effectual|efficacious|efficient|good|in effect(p)|in force(p),
+59,[,NN,NA,[,,NA
+59,15,CD,NA,15,NA,NA
+59,16,CD,NA,16,NA,NA
+59,],NN,NA,],,NA
+59,especially,RB,NA,especi,especially|particularly|peculiarly|specially,
+59,high,JJ,NA,high,eminent|gamey|gamy|high|high-pitched|in high spirits|mellow,
+59,risk,NN,NA,risk,danger|endangerment|hazard|jeopardy|peril|risk|risk of exposure|risk of infection,danger|venture|probability|chance
+59,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+59,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+59,recommend,VBN,ed,recommend,advocate|commend|recommend|urge,propose|suggest|advise|praise|change|alter|modify
+59,current,JJ,NA,current,current,
+59,american,NNP,NA,american,American|American English|American language,inhabitant|habitant|dweller|denizen|indweller|English|English language
+59,college,NNP,NA,colleg,college,body|educational institution|building complex|complex
+59,cardiology,NNP,NA,cardiologi,cardiology,medicine|medical specialty
+59,/,NN,NA,/,,NA
+59,american,NNP,NA,american,American|American English|American language,inhabitant|habitant|dweller|denizen|indweller|English|English language
+59,heart,NNP,NA,heart,affection|affectionateness|bosom|center|centre|core|essence|eye|fondness|gist|heart|heart and soul|inwardness|kernel|marrow|meat|mettle|middle|nerve|nitty-gritty|nub|philia|pith|pump|spirit|spunk|substance|sum|tenderness|ticker|warmheartedness|warmness,intuition|hunch|suspicion|internal organ|viscus|courage|courageousness|bravery|braveness|area|country|content|cognitive content|mental object|disposition|temperament|plane figure|two-dimensional figure|variety meat|organs|feeling|playing card
+59,association,NNP,NA,associ,affiliation|association|connection|connexion|tie|tie-up,organization|organisation|social activity|union|unification|memory|remembering|relationship|relation|chemical process|chemical change|chemical action|group|grouping
+59,guideline,NNS,s,guidelin,guideline|guidepost|road map|rule of thumb,line|plan|program|programme|guidance|counsel|counseling|counselling|direction|rule|regulation
+59,[,NN,NA,[,,NA
+59,17,CD,NA,17,NA,NA
+59,],NN,NA,],,NA
+60,fourth,JJ,NA,fourth,4th|fourth|quaternary,
+60,not,RB,NA,not,non|not,NA
+60,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+60,possible,JJ,NA,possibl,possible|potential,
+60,ascertain,VB,NA,ascertain,ascertain|assure|check|control|determine|ensure|find|find out|insure|learn|see|see to it|watch,verify|learn|hear|get word|get wind|pick up|find out|get a line|discover|see
+60,finding,NNS,s,find,determination|finding,discovery|find|uncovering|judgment|judgement|judicial decision|object|physical object
+60,apply,VBP,NA,appli,apply|employ|enforce|give|go for|hold|implement|lend oneself|practice|put on|use|utilise|utilize,refer|pertain|relate|concern|come to|bear on|touch|touch on|have to do with|request|ask for|bespeak|call for|quest|cover|distribute|administer|mete out|deal|parcel out|lot|dispense|shell out|deal out|dish out|allot|dole out|compel|oblige|obligate|denote|give|dedicate|consecrate|commit|devote
+60,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+60,recent,JJ,NA,recent,late(a)|recent,
+60,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+60,coronary,JJ,NA,coronari,coronary,
+60,syndrome,NNS,s,syndrom,syndrome,complex|composite|symptom
+60,regardless,RB,NA,regardless,disregarding|disregardless|irrespective|no matter|regardless,NA
+60,baseline,NN,NA,baselin,baseline|service line,standard|criterion|measure|touchstone|line
+60,lipid,NN,NA,lipid,lipid|lipide|lipoid,macromolecule|supermolecule
+60,level,NNS,s,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+61,small,JJ,NA,small,belittled|diminished|humble|little|low|lowly|minor|minuscule|modest|pocket-size|pocket-sized|small|small-scale|small(a),
+61,difference,NN,NA,differ,conflict|departure|deviation|difference|difference of opinion|dispute|divergence|remainder,quality|variation|fluctuation|disagreement|change|number
+61,number,NN,NA,number,act|bit|figure|issue|number|numeral|phone number|routine|telephone number|turn,amount|definite quantity|performance|public presentation|signal|signaling|sign|symbol|periodical|company|positive identification|size|item|grammatical category|syntactic category|merchandise|ware|product
+61,primary,JJ,NA,primari,basal|chief(a)|elemental|elementary|main(a)|master(a)|primary|primary(a)|principal(a),
+61,endpoint,NN,NA,endpoint,end point|endpoint|termination|terminus,end|terminal
+61,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+61,atorvastatin,NN,NA,atorvastatin,atorvastatin|Lipitor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+61,placebo,NN,NA,placebo,placebo,medicine|medication|medicament|medicinal drug|vesper
+61,group,NNS,s,group,chemical group|group|grouping|mathematical group|radical,abstraction|abstract entity|unit|building block|set
+61,make,VBP,NA,make,arrive at|attain|bring in|build|ca-ca|cause|clear|constitute|construct|cook|crap|create|defecate|do|draw|earn|establish|fix|form|gain|get|get to|give|have|hit|hold|induce|lay down|make|make believe|make up|make water|micturate|name|nominate|pass water|pee|pee-pee|piddle|piss|prepare|pretend|produce|progress to|puddle|pull in|reach|ready|realise|realize|relieve oneself|score|seduce|shit|spend a penny|stimulate|stool|take|take a crap|take a leak|take a shit|take in|throw|urinate|wee|wee-wee|work,change|alter|modify|make|create|create by mental act|create mentally|cause|do|get|acquire|constitute|represent|make up|comprise|be|achieve|accomplish|attain|reach|become|create from raw material|create from raw stuff|perform|execute|act|behave|appoint|charge|score|hit|tally|rack up|perpetrate|commit|pull|assemble|gather|get together|direct|tidy|tidy up|clean up|neaten|straighten|straighten out|square away|head|excrete|egest|eliminate|pass|total|number|add up|come|amount|look|appear|seem|arrive at|gain|persuade|guarantee|ensure|insure|assure|secure|play|see|consider|reckon|view|regard|estimate|gauge|approximate|guess|judge|develop|grow
+61,difficult,JJ,NA,difficult,difficult|hard|unmanageable,
+61,dissect,NN,NA,dissect,,NA
+61,relationship,NN,NA,relationship,family relationship|human relationship|kinship|relationship,relation|state
+61,baseline,NN,NA,baselin,baseline|service line,standard|criterion|measure|touchstone|line
+61,lipid,NN,NA,lipid,lipid|lipide|lipoid,macromolecule|supermolecule
+61,level,NNS,s,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+61,treatment,NN,NA,treatment,discourse|discussion|handling|intervention|treatment,care|attention|aid|tending|management|direction|artistic style|idiom|communication|communicating
+61,effect,NN,NA,effect,burden|consequence|core|effect|essence|event|force|gist|impression|issue|outcome|result|upshot,phenomenon|appearance|visual aspect|impression|feeling|belief|notion|opinion|meaning|significance|signification|import|validity|validness|symptom
+61,further,RB,NA,further,farther|further,NA
+62,consequently,RB,NA,consequ,accordingly|consequently|therefore,
+62,remain,VBZ,s,remain,continue|persist|remain|rest|stay|stay on,be
+62,uncertain,JJ,NA,uncertain,changeable|incertain|uncertain|unsealed|unsettled|unsure,
+62,extrapolate,NN,NA,extrapol,,NA
+62,miracl,NNP,NA,miracl,,NA
+62,trial,NN,NA,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+62,result,NNS,s,result,answer|consequence|effect|event|final result|issue|outcome|resolution|result|resultant|resultant role|solution|solvent|termination|upshot,phenomenon|statement|ending|conclusion|finish|semantic role|participant role
+62,undergo,VBP,NA,undergo,undergo,change
+62,coronary,JJ,NA,coronari,coronary,
+62,revascularization,NN,NA,revascular,,NA
+62,shortly,RB,NA,shortli,before long|briefly|concisely|curtly|in brief|in short|presently|short|shortly|soon,NA
+62,coronary,JJ,NA,coronari,coronary,
+62,event,NN,NA,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+62,present,JJ,NA,present,present|present(a),
+62,q-,NNP,NA,q-,,NA
+62,wave,NN,NA,wave,moving ridge|undulation|wafture|wave|Wave|waving,movement|motion|move|motility|rise|gesture|hairdo|hairstyle|hair style|coiffure|coif|curve|curved shape|weather|weather condition|conditions|atmospheric condition|reservist|woman|adult female
+62,myocardial,NN,NA,myocardi,,NA
+62,infarction,NN,NA,infarct,infarct|infarction,pathology
+62,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+62,treat,VBN,ed,treat,address|care for|cover|deal|do by|handle|plow|process|regale|treat,interact|affect|impact|bear upon|bear on|touch on|touch|broach|initiate|give|gift|present|provide|supply|ply|cater|negociate|react|respond
+62,platelet,NN,NA,platelet,blood platelet|platelet|thrombocyte,protoplasm|living substance
+62,glycoprotein,NN,NA,glycoprotein,glycoprotein,conjugated protein|compound protein
+62,iib,NNP,NA,iib,,NA
+62,/,NN,NA,/,,NA
+62,iium,NNP,s,iium,,NA
+62,inhibitor,NNS,s,inhibitor,inhibitor,substance
+62,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+62,relatively,RB,NA,rel,comparatively|relatively,
+62,low,JJ,NA,low,abject|blue|broken|crushed|depleted|depressed|dispirited|down in the mouth|down(p)|downcast|downhearted|gloomy|grim|humble|humbled|humiliated|low|low-down|low-pitched|low-spirited|low-toned|lowly|miserable|modest|scummy|scurvy|small,
+62,admission,NN,NA,admiss,access|accession|admission|admission charge|admission fee|admission price|admittance|entrance fee|entrance money|entree|price of admission,entrance|entering|entry|ingress|incoming|acknowledgment|acknowledgement|fee|right
+62,ldl,NNP,NA,ldl,beta-lipoprotein|LDL|low-density lipoprotein,lipoprotein
+62,cholesterol,NN,NA,cholesterol,cholesterin|cholesterol,sterol|steroid alcohol
+62,level,NNS,s,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+63,miracl,NNP,NA,miracl,,NA
+63,two,CD,NA,two,NA,NA
+63,aforementioned,JJ,NA,aforement,aforementioned(a)|aforesaid(a)|said(a),
+63,cohort,NN,NA,cohort,age bracket|age group|cohort,company|set|circle|band|lot|people
+63,study,NNS,s,studi,bailiwick|cogitation|discipline|field|field of study|report|sketch|study|subject|subject area|subject field|survey|work|written report,examination|scrutiny|learning|acquisition|document|written document|papers|concentration|engrossment|absorption|immersion|room|knowledge domain|knowledge base|domain|drawing|contemplation|reflection|reflexion|rumination|musing|thoughtfulness|memorizer|memoriser|musical composition|opus|composition|piece|piece of music
+63,suggest,VBP,NA,suggest,advise|evoke|hint|intimate|paint a picture|propose|suggest,declare|convey|imply|express|show|evince
+63,lipid-lowering,JJ,NA,lipid-low,,NA
+63,agent,NNS,s,agent,agent|agentive role|broker|factor|federal agent,causal agent|cause|causal agency|representative|substance|businessperson|bourgeois|official|functionary|semantic role|participant role
+63,exert,VB,NA,exert,exercise|exert|maintain|wield,use|utilize|utilise|apply|employ|have|have got|hold|act|move
+63,short-term,JJ,NA,short-term,short-run|short-term,
+63,clinical,JJ,NA,clinic,clinical,
+63,benefit,NNS,s,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+63,initiate,VBN,ed,initi,broach|induct|initiate|lead up|originate|pioneer|start,make|create|cause|do|admit|let in|include|hash out|discuss|talk over|originate|initiate|start
+63,soon,RB,NA,soon,before long|presently|shortly|soon,NA
+63,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+63,coronary,JJ,NA,coronari,coronary,
+63,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+63,remain,VBZ,s,remain,continue|persist|remain|rest|stay|stay on,be
+63,open,JJ,NA,open,assailable|candid|capable|clear|exposed|heart-to-heart|loose|open|open(a)|opened|overt|receptive|subject|undecided|undefendable|undefended|undetermined|unfastened|unresolved,
+63,question,NN,NA,question,doubt|doubtfulness|dubiousness|enquiry|head|inquiry|interrogation|interrogative|interrogative sentence|motion|query|question,questioning|inquiring|subject|topic|theme|sentence|uncertainty|uncertainness|precariousness|proposal|marriage proposal|proposal of marriage|marriage offer
+64,even,RB,NA,even,even|still|yet,NA
+64,finding,NNS,s,find,determination|finding,discovery|find|uncovering|judgment|judgement|judicial decision|object|physical object
+64,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+64,not,RB,NA,not,non|not,NA
+64,confirm,VBN,ed,confirm,affirm|confirm|corroborate|reassert|substantiate|support|sustain,affirm|strengthen|beef up|fortify|approve|O.K.|okay|sanction|covenant
+64,further,JJ,NA,further,farther|further,
+64,study,NN,NA,studi,bailiwick|cogitation|discipline|field|field of study|report|sketch|study|subject|subject area|subject field|survey|work|written report,examination|scrutiny|learning|acquisition|document|written document|papers|concentration|engrossment|absorption|immersion|room|knowledge domain|knowledge base|domain|drawing|contemplation|reflection|reflexion|rumination|musing|thoughtfulness|memorizer|memoriser|musical composition|opus|composition|piece|piece of music
+64,still,RB,NA,still,all the same|at the same time|even|even so|however|nevertheless|nonetheless|notwithstanding|still|stock-still|withal|yet,NA
+64,make,VB,NA,make,arrive at|attain|bring in|build|ca-ca|cause|clear|constitute|construct|cook|crap|create|defecate|do|draw|earn|establish|fix|form|gain|get|get to|give|have|hit|hold|induce|lay down|make|make believe|make up|make water|micturate|name|nominate|pass water|pee|pee-pee|piddle|piss|prepare|pretend|produce|progress to|puddle|pull in|reach|ready|realise|realize|relieve oneself|score|seduce|shit|spend a penny|stimulate|stool|take|take a crap|take a leak|take a shit|take in|throw|urinate|wee|wee-wee|work,change|alter|modify|make|create|create by mental act|create mentally|cause|do|get|acquire|constitute|represent|make up|comprise|be|achieve|accomplish|attain|reach|become|create from raw material|create from raw stuff|perform|execute|act|behave|appoint|charge|score|hit|tally|rack up|perpetrate|commit|pull|assemble|gather|get together|direct|tidy|tidy up|clean up|neaten|straighten|straighten out|square away|head|excrete|egest|eliminate|pass|total|number|add up|come|amount|look|appear|seem|arrive at|gain|persuade|guarantee|ensure|insure|assure|secure|play|see|consider|reckon|view|regard|estimate|gauge|approximate|guess|judge|develop|grow
+64,compelling,JJ,NA,compel,compelling,
+64,argument,NN,NA,argument,arguing|argument|argumentation|contention|contestation|controversy|debate|disceptation|disputation|line|line of reasoning|literary argument|logical argument|parameter|statement|tilt,evidence|dispute|difference|difference of opinion|conflict|discussion|give-and-take|word|summary|sum-up|address|computer address|reference|value|variable|variable quantity|reasoning|logical thinking|abstract thought
+64,lipid-lowering,JJ,NA,lipid-low,,NA
+64,therapy,NN,NA,therapi,therapy,medical care|medical aid
+64,bar,VBG,ing,bar,banish|bar|barricade|block|block off|block up|blockade|debar|exclude|relegate|stop,forbid|prohibit|interdict|proscribe|veto|disallow|nix|obstruct|obturate|impede|occlude|jam|block|close up|expel|throw out|kick out|fasten|fix|secure
+64,contraindication,NNS,s,contraind,contraindication,reason
+64,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+64,initiate,VBN,ed,initi,broach|induct|initiate|lead up|originate|pioneer|start,make|create|cause|do|admit|let in|include|hash out|discuss|talk over|originate|initiate|start
+64,early,JJ,NA,earli,early|early(a)|former(a)|other(a),
+64,universally,RB,NA,univers,universally,NA
+64,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+64,present,JJ,NA,present,present|present(a),
+64,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+64,coronary,JJ,NA,coronari,coronary,
+64,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+65,first,CD,NA,first,NA,NA
+65,long-term,JJ,NA,long-term,long-run|long-term|semipermanent,
+65,safety,NN,NA,safeti,base hit|condom|guard|prophylactic|refuge|rubber|safe|safety|safety device,condition|status|area|country|device|hit|contraceptive|preventive|preventative|contraceptive device|prophylactic device|birth control device|score
+65,effectiveness,NN,NA,effect,effectiveness|effectivity|effectuality|effectualness|potency|strength,power|powerfulness|power|powerfulness
+65,statin,NNS,s,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+65,secondary,JJ,NA,secondari,junior-grade|lower-ranking|lowly|petty(a)|secondary|subaltern,
+65,prevention,NN,NA,prevent,bar|prevention,hindrance|hinderance|interference
+65,stable,JJ,NA,stabl,stable|static|unchanging,
+65,coronary,JJ,NA,coronari,coronary,
+65,disease,NN,NA,diseas,disease,illness|unwellness|malady|sickness
+65,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+65,well-established,JJ,NA,well-establish,,NA
+65,[,NN,NA,[,,NA
+65,1,CD,NA,1,NA,NA
+65,2,CD,NA,2,NA,NA
+65,3,CD,NA,3,NA,NA
+65,],NN,NA,],,NA
+66,second,JJ,NA,second,2d|2nd|second,
+66,evidence,VBN,ed,evid,attest|bear witness|certify|demonstrate|evidence|manifest|prove|show|tell|testify,testify|bear witness|prove|evidence|show|inform
+66,miracl,NNP,NA,miracl,,NA
+66,agent,NNS,s,agent,agent|agentive role|broker|factor|federal agent,causal agent|cause|causal agency|representative|substance|businessperson|bourgeois|official|functionary|semantic role|participant role
+66,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+66,safe,JJ,NA,safe,dependable|good|safe|safe(p)|secure,
+66,initiate,VBN,ed,initi,broach|induct|initiate|lead up|originate|pioneer|start,make|create|cause|do|admit|let in|include|hash out|discuss|talk over|originate|initiate|start
+66,time,NN,NA,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+66,hospitalization,NN,NA,hospit,hospital care|hospitalisation|hospitalization|hospitalization insurance,time period|period of time|period|condition|status|health insurance|medical care|medical aid
+66,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+66,coronary,JJ,NA,coronari,coronary,
+66,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+67,third,NNP,NA,third,one-third|third|third base|third gear|tierce,common fraction|simple fraction|position|rank|interval|musical interval|gear|gear mechanism|base|bag
+67,in-hospital,JJ,NA,in-hospit,,NA
+67,initiation,NN,NA,initi,creation|foundation|founding|induction|initiation|innovation|installation|instauration|institution|introduction|knowledgeability|knowledgeableness|origination|trigger,ceremony|ceremonial|ceremonial occasion|observance|beginning|start|commencement|wisdom|wiseness|causing|causation
+67,lipid-lowering,JJ,NA,lipid-low,,NA
+67,therapy,NN,NA,therapi,therapy,medical care|medical aid
+67,appear,VBZ,s,appear,appear|come along|come out|look|seem,be|happen|materialize|materialise|perform|execute|do
+67,promote,VB,NA,promot,advance|advertise|advertize|boost|elevate|encourage|further|kick upstairs|promote|push|raise|upgrade,support|back up|delegate|designate|depute|assign|praise|change|play
+67,greater,JJR,NA,greater,greater,
+67,long-term,JJ,NA,long-term,long-run|long-term|semipermanent,
+67,utilization,NN,NA,util,employment|exercise|usage|use|utilisation|utilization,activity|state
+67,agent,NNS,s,agent,agent|agentive role|broker|factor|federal agent,causal agent|cause|causal agency|representative|substance|businessperson|bourgeois|official|functionary|semantic role|participant role
+67,[,NN,NA,[,,NA
+67,18,CD,NA,18,NA,NA
+67,19,CD,NA,19,NA,NA
+67,20,CD,NA,20,NA,NA
+67,21,CD,NA,21,NA,NA
+67,],NN,NA,],,NA
+68,finally,RB,NA,final,at last|at long last|eventually|finally|in conclusion|in the end|last|lastly|ultimately,
+68,lipid,NN,NA,lipid,lipid|lipide|lipoid,macromolecule|supermolecule
+68,level,NNS,s,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+68,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+68,unreliable,JJ,NA,unreli,treacherous|undependable|unreliable,
+68,setting,NN,NA,set,background|circumstance|context|mise en scene|mount|place setting|scene|scope|setting|stage setting,environment|environs|surroundings|surround|stage|position|place|service|table service|mounting
+68,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+68,coronary,JJ,NA,coronari,coronary,
+68,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+68,except,VBG,ing,except,demur|except|exclude|leave off|leave out|omit|take out,object|extinguish|eliminate|get rid of|do away with
+68,total,JJ,NA,total,entire|full|total,
+69,hdl,NNP,NA,hdl,alpha-lipoprotein|HDL|high-density lipoprotein,lipoprotein
+69,ldl,NNP,NA,ldl,beta-lipoprotein|LDL|low-density lipoprotein,lipoprotein
+70,hdl,NNP,NA,hdl,alpha-lipoprotein|HDL|high-density lipoprotein,lipoprotein
+70,cholesterol,NN,NA,cholesterol,cholesterin|cholesterol,sterol|steroid alcohol
+70,ratio,NNS,s,ratio,proportion|ratio,magnitude relation|quantitative relation|magnitude relation|quantitative relation
+70,[,NN,NA,[,,NA
+70,22,CD,NA,22,NA,NA
+70,],NN,NA,],,NA
+70,overwhelming,JJ,NA,overwhelm,consuming|overpowering|overwhelming,
+70,majority,NN,NA,major,absolute majority|bulk|legal age|majority,number|figure|relative quantity|age|eld
+70,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+70,coronary,JJ,NA,coronari,coronary,
+70,disease,NN,NA,diseas,disease,illness|unwellness|malady|sickness
+70,ultimately,RB,NA,ultim,at last|at long last|finally|in the end|ultimately,
+70,require,VB,NA,requir,ask|call for|command|demand|expect|involve|necessitate|need|postulate|require|take|want,demand|order|tell|enjoin|say|be
+70,pharmacologic,JJ,NA,pharmacolog,pharmacologic|pharmacological,
+70,non-pharmacologic,JJ,NA,non-pharmacolog,,NA
+70,lipid-lowering,JJ,NA,lipid-low,,NA
+70,intervention,NNS,s,intervent,intercession|interference|interposition|intervention|treatment,engagement|participation|involvement|involution|foreign policy|placement|location|locating|position|positioning|emplacement|proceeding|legal proceeding|proceedings|care|attention|aid|tending
+70,attain,VB,NA,attain,accomplish|achieve|arrive at|attain|chance on|chance upon|come across|come upon|discover|fall upon|gain|happen upon|hit|light upon|make|reach|strike,succeed|win|come through|bring home the bacon|deliver the goods|arrive|get|come|find|regain
+70,recommend,VBD,ed,recommend,advocate|commend|recommend|urge,propose|suggest|advise|praise|change|alter|modify
+70,cholesterol,NN,NA,cholesterol,cholesterin|cholesterol,sterol|steroid alcohol
+70,target,NNS,s,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+70,[,NN,NA,[,,NA
+70,23,CD,NA,23,NA,NA
+70,24,CD,NA,24,NA,NA
+70,25,CD,NA,25,NA,NA
+70,],NN,NA,],,NA
+71,newer,JJR,NA,newer,,NA
+71,guideline,NNS,s,guidelin,guideline|guidepost|road map|rule of thumb,line|plan|program|programme|guidance|counsel|counseling|counselling|direction|rule|regulation
+71,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+71,even,RB,NA,even,even|still|yet,NA
+71,more,RBR,NA,more,more|to a greater extent,
+71,stringent,JJ,NA,stringent,rigorous|stringent|tight,
+71,[,NN,NA,[,,NA
+71,26,CD,NA,26,NA,NA
+71,],NN,NA,],,NA
+72,furthermore,RB,NA,furthermor,furthermore|moreover|what is more,NA
+72,datum,NNS,s,datum,data point|datum,information
+72,recently,RB,NA,recent,late|lately|latterly|of late|recently,
+72,present,VBN,ed,present,acquaint|award|confront|deliver|demo|demonstrate|exhibit|face|gift|give|introduce|lay out|portray|pose|present|represent|salute|show|stage|submit,show|state|say|tell|re-create|give|constitute|represent|make up|comprise|be|allocate|apportion|talk|speak|utter|mouth|verbalize|verbalise|inform|interpret|introduce|present|acquaint|greet|recognize|recognise
+72,heart,NNP,NA,heart,affection|affectionateness|bosom|center|centre|core|essence|eye|fondness|gist|heart|heart and soul|inwardness|kernel|marrow|meat|mettle|middle|nerve|nitty-gritty|nub|philia|pith|pump|spirit|spunk|substance|sum|tenderness|ticker|warmheartedness|warmness,intuition|hunch|suspicion|internal organ|viscus|courage|courageousness|bravery|braveness|area|country|content|cognitive content|mental object|disposition|temperament|plane figure|two-dimensional figure|variety meat|organs|feeling|playing card
+72,protection,NNP,NA,protect,aegis|auspices|protection|protective cover|protective covering|security|shelter|trade protection|tribute,activity|covering|assets|security|endorsement|indorsement|imposition|infliction|extortion
+72,study,NNP,NA,studi,bailiwick|cogitation|discipline|field|field of study|report|sketch|study|subject|subject area|subject field|survey|work|written report,examination|scrutiny|learning|acquisition|document|written document|papers|concentration|engrossment|absorption|immersion|room|knowledge domain|knowledge base|domain|drawing|contemplation|reflection|reflexion|rumination|musing|thoughtfulness|memorizer|memoriser|musical composition|opus|composition|piece|piece of music
+72,suggest,VBP,NA,suggest,advise|evoke|hint|intimate|paint a picture|propose|suggest,declare|convey|imply|express|show|evince
+72,clinical,JJ,NA,clinic,clinical,
+72,benefit,NNS,s,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+72,accrue,VB,NA,accru,accrue|fall,increase|change hands|change owners
+72,independent,JJ,NA,independ,autonomous|independent|main(a)|self-governing|sovereign,
+72,baseline,NN,NA,baselin,baseline|service line,standard|criterion|measure|touchstone|line
+72,cholesterol,NN,NA,cholesterol,cholesterin|cholesterol,sterol|steroid alcohol
+72,level,NN,NA,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+72,[,NN,NA,[,,NA
+72,4,CD,NA,4,NA,NA
+72,],NN,NA,],,NA
+73,thus,RB,NA,thu,hence|so|thence|therefore|thus|thusly,NA
+73,withhold,VB,NA,withhold,deduct|keep back|recoup|withhold,deny|refuse|keep|hold on
+73,lipid-lowering,JJ,NA,lipid-low,,NA
+73,therapy,NN,NA,therapi,therapy,medical care|medical aid
+73,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+73,present,JJ,NA,present,present|present(a),
+73,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+73,coronary,JJ,NA,coronari,coronary,
+73,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+73,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+73,accept,VB,NA,accept,accept|admit|assume|bear|consent|go for|have|live with|swallow|take|take on|take over,evaluate|pass judgment|judge|get|acquire|react|respond|accept|take|have|digest|endure|stick out|stomach|bear|stand|tolerate|support|brook|abide|suffer|put up|be|receive
+73,status,NN,NA,statu,condition|position|status,state
+73,quo,NN,NA,quo,,NA
+73,date,NN,NA,date,appointment|date|day of the month|engagement|escort,day|twenty-four hours|twenty-four hour period|24-hour interval|solar day|mean solar day|companion|comrade|fellow|familiar|associate|meeting|get together|present|nowadays|calendar day|civil day|calendar month|month|calendar year|civil year|edible fruit
+73,effort,NNS,s,effort,attempt|campaign|cause|crusade|drive|effort|elbow grease|endeavor|endeavour|exertion|exploit|feat|movement|sweat|travail|try,activity|labor|labour|toil|accomplishment|achievement|venture
+73,cholesterol,NN,NA,cholesterol,cholesterin|cholesterol,sterol|steroid alcohol
+73,lower,VBG,ing,lower,bring down|depress|frown|get down|glower|let down|lour|lower|take down|turn down,move|displace|devalue|decrease|lessen|minify|change|alter|modify|grimace|make a face|pull a face
+73,secondary,JJ,NA,secondari,junior-grade|lower-ranking|lowly|petty(a)|secondary|subaltern,
+73,prevention,NN,NA,prevent,bar|prevention,hindrance|hinderance|interference
+73,set,VBG,ing,set,adjust|arrange|coif|coiffe|coiffure|congeal|correct|countersink|define|determine|do|dress|fix|fructify|gear up|go down|go under|jell|lay|lay out|limit|localise|localize|mark|place|plant|pose|position|prepare|put|ready|rig|set|set up|sic|specify|typeset,move|displace|choose|take|select|pick out|lay down|establish|make|change|alter|modify|arrange|set up|adjust|set|correct|stage|present|represent|descend|fall|go down|come down|compose|write|put|place|pose|position|lay|originate|initiate|start|solidify|print|impress|bury|sink|hone|assail|assault|set on|attack|estimate|gauge|approximate|guess|judge|equip|fit|fit out|outfit|fix|prepare|ready|gear up|reproduce|procreate|multiply|groom|neaten
+73,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+73,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+73,dismal,JJ,NA,dismal,blue|dark|dingy|disconsolate|dismal|drab|drear|dreary|gloomy|grim|sorry,
+73,[,NN,NA,[,,NA
+73,27,CD,NA,27,NA,NA
+73,28,CD,NA,28,NA,NA
+73,],NN,NA,],,NA
+74,ascertainment,NN,NA,ascertain,,NA
+74,quantification,NN,NA,quantif,quantification,restriction|limitation|measurement|measuring|measure|mensuration
+74,incremental,JJ,NA,increment,incremental,
+74,benefit,NN,NA,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+74,confer,VBD,ed,confer,bestow|confab|confabulate|confer|consult,hash out|discuss|talk over|award|present
+74,statin,NN,NA,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+74,therapy,NN,NA,therapi,therapy,medical care|medical aid
+74,initiate,VBD,ed,initi,broach|induct|initiate|lead up|originate|pioneer|start,make|create|cause|do|admit|let in|include|hash out|discuss|talk over|originate|initiate|start
+74,early,RB,NA,earli,ahead of time|betimes|early|early on|too soon,NA
+74,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+74,coronary,JJ,NA,coronari,coronary,
+74,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+74,require,VB,NA,requir,ask|call for|command|demand|expect|involve|necessitate|need|postulate|require|take|want,demand|order|tell|enjoin|say|be
+74,confirmation,NN,NA,confirm,check|confirmation|ratification|substantiation|verification,proof|cogent evidence|information|info|agreement|religious ceremony|religious ritual|sacrament
+75,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+75,currently,RB,NA,current,currently|presently,
+75,only,RB,NA,onli,alone|but|entirely|exclusively|just|merely|only|only if|only when|simply|solely,NA
+75,one,CD,NA,on,NA,NA
+75,ongoing,JJ,NA,ongo,on-going|ongoing,
+75,randomized,JJ,NA,random,randomised|randomized,
+75,placebo-controlled,JJ,NA,placebo-control,,NA
+75,trial,NN,NA,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+75,early,JJ,NA,earli,early|early(a)|former(a)|other(a),
+75,delay,VBN,ed,delai,check|delay|detain|hold up|retard|stay,decelerate|slow|slow down|slow up|retard|wait|hold off|hold back|check|delay|change|alter|modify
+75,statin,NN,NA,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+75,therapy,NN,NA,therapi,therapy,medical care|medical aid
+75,setting,NN,NA,set,background|circumstance|context|mise en scene|mount|place setting|scene|scope|setting|stage setting,environment|environs|surroundings|surround|stage|position|place|service|table service|mounting
+75,a-,NNP,NA,a-,,NA
+75,2,CD,NA,2,NA,NA
+76,z,NNP,NA,z,ezed|izzard|omega|z|Z|zed|zee,ending|conclusion|finish|letter|letter of the alphabet|alphabetic character
+76,aggrastat,NNP,NA,aggrastat,,NA
+76,zocor,NNP,NA,zocor,simvastatin|Zocor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+76,merck,NNP,NA,merck,,NA
+76,[,NN,NA,[,,NA
+76,29,CD,NA,29,NA,NA
+76,],NN,NA,],,NA
+77,a-,NNP,NA,a-,,NA
+77,2,CD,NA,2,NA,NA
+78,z,NNP,NA,z,ezed|izzard|omega|z|Z|zed|zee,ending|conclusion|finish|letter|letter of the alphabet|alphabetic character
+78,study,NN,NA,studi,bailiwick|cogitation|discipline|field|field of study|report|sketch|study|subject|subject area|subject field|survey|work|written report,examination|scrutiny|learning|acquisition|document|written document|papers|concentration|engrossment|absorption|immersion|room|knowledge domain|knowledge base|domain|drawing|contemplation|reflection|reflexion|rumination|musing|thoughtfulness|memorizer|memoriser|musical composition|opus|composition|piece|piece of music
+78,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+78,evaluate,VBG,ing,evalu,appraise|assess|evaluate|judge|measure|pass judgment|valuate|value,evaluate|pass judgment|judge|think|cogitate|cerebrate
+78,efficacy,NN,NA,efficaci,efficaciousness|efficacy,effectiveness|effectivity|effectualness|effectuality
+78,early,JJ,NA,earli,early|early(a)|former(a)|other(a),
+78,treatment,NN,NA,treatment,discourse|discussion|handling|intervention|treatment,care|attention|aid|tending|management|direction|artistic style|idiom|communication|communicating
+78,simvastatin,NN,NA,simvastatin,simvastatin|Zocor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+78,4,CD,NA,4,NA,NA
+78,500,CD,NA,500,NA,NA
+78,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+78,follow,VBG,ing,follow,abide by|accompany|adopt|be|come|come after|comply|conform to|espouse|fall out|follow|keep abreast|keep an eye on|keep up|observe|play along|postdate|pursue|stick to|stick with|succeed|surveil|survey|take after|trace|travel along|watch|watch over,travel|go|move|locomote|result|ensue|obey|imitate|copy|simulate|be|choose|take|select|pick out|analyze|analyse|study|examine|canvass|check|check up on|look into|check out|suss out|check over|go over|check into|play|originate|arise|rise|develop|uprise|spring up|grow|act|behave|do|practice|apply|use|understand|persevere|persist|hang in|hang on|hold on
+78,episode,NN,NA,episod,episode|installment|instalment|sequence,happening|occurrence|occurrent|natural event|section|subdivision|broadcast|program|programme|film|photographic film
+78,unstable,JJ,NA,unstabl,fluid|mentally ill|precarious|unsound|unstable,
+78,angina,NN,NA,angina,angina|angina pectoris,inflammatory disease|heart disease|cardiopathy
+78,non-,NN,NA,non-,,NA
+78,q,NNP,NA,q,q|Q,letter|letter of the alphabet|alphabetic character
+78,wave,NN,NA,wave,moving ridge|undulation|wafture|wave|Wave|waving,movement|motion|move|motility|rise|gesture|hairdo|hairstyle|hair style|coiffure|coif|curve|curved shape|weather|weather condition|conditions|atmospheric condition|reservist|woman|adult female
+78,myocardial,NN,NA,myocardi,,NA
+78,infarction,NN,NA,infarct,infarct|infarction,pathology
+79,first,JJ,NA,first,1st|beginning(a)|first|foremost|inaugural|initiative|initiatory|maiden|world-class,
+79,four,CD,NA,four,NA,NA
+79,month,NNS,s,month,calendar month|month,time period|period of time|period|time unit|unit of time
+79,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+79,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+79,randomized,JJ,NA,random,randomised|randomized,
+79,simvastatin,NN,NA,simvastatin,simvastatin|Zocor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+79,40,CD,NA,40,NA,NA
+79,mg,NN,NA,mg,atomic number 12|magnesium|mg|Mg|milligram,metric weight unit|weight unit|metallic element|metal
+79,daily,NN,NA,daili,daily,newspaper|paper
+79,placebo,NN,NA,placebo,placebo,medicine|medication|medicament|medicinal drug|vesper
+80,thereafter,RB,NA,thereaft,thenceforth|thereafter,NA
+80,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+80,treat,VBN,ed,treat,address|care for|cover|deal|do by|handle|plow|process|regale|treat,interact|affect|impact|bear upon|bear on|touch on|touch|broach|initiate|give|gift|present|provide|supply|ply|cater|negociate|react|respond
+80,simvastatin,NN,NA,simvastatin,simvastatin|Zocor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+80,first,JJ,NA,first,1st|beginning(a)|first|foremost|inaugural|initiative|initiatory|maiden|world-class,
+80,phase,NN,NA,phase,form|phase|phase angle|stage,time period|period of time|period|state of matter|state|point|point in time|appearance|visual aspect
+80,receive,VB,NA,receiv,encounter|experience|find|get|have|incur|invite|meet|obtain|pick up|receive|take in|welcome,get|acquire|change|perceive|comprehend|undergo|accept|greet|recognize|recognise|convert|have|experience|celebrate|fete|partake|touch|see|consider|reckon|view|regard
+80,80,CD,NA,80,NA,NA
+80,mg,NN,NA,mg,atomic number 12|magnesium|mg|Mg|milligram,metric weight unit|weight unit|metallic element|metal
+80,simvastatin,NN,NA,simvastatin,simvastatin|Zocor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+80,daily,JJ,NA,daili,casual|daily|day-after-day|day-by-day|day-to-day|everyday,
+80,treat,VBN,ed,treat,address|care for|cover|deal|do by|handle|plow|process|regale|treat,interact|affect|impact|bear upon|bear on|touch on|touch|broach|initiate|give|gift|present|provide|supply|ply|cater|negociate|react|respond
+80,placebo,NN,NA,placebo,placebo,medicine|medication|medicament|medicinal drug|vesper
+80,40,CD,NA,40,NA,NA
+80,mg,NN,NA,mg,atomic number 12|magnesium|mg|Mg|milligram,metric weight unit|weight unit|metallic element|metal
+80,simvastatin,NN,NA,simvastatin,simvastatin|Zocor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+80,daily,RB,NA,daili,daily|day by day,NA
+81,primary,JJ,NA,primari,basal|chief(a)|elemental|elementary|main(a)|master(a)|primary|primary(a)|principal(a),
+81,composite,JJ,NA,composit,composite,
+81,endpoint,NN,NA,endpoint,end point|endpoint|termination|terminus,end|terminal
+81,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+81,occurrence,NN,NA,occurr,happening|natural event|occurrence|occurrent,event|presence
+81,cardiovascular,JJ,NA,cardiovascular,cardiovascular,
+81,death,NN,NA,death,death|Death|decease|demise|destruction|dying|end|expiry|last,change|alteration|modification|organic phenomenon|state|end|ending|killing|kill|putting to death
+81,non-fatal,JJ,NA,non-fat,,NA
+81,myocardial,NN,NA,myocardi,,NA
+81,infarction,NN,NA,infarct,infarct|infarction,pathology
+81,rehospitalization,NN,NA,rehospit,,NA
+81,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+81,coronary,JJ,NA,coronari,coronary,
+81,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+81,ac,NNP,s,ac,Ac|AC|actinium|alternating current|alternating electric current|atomic number 89,chemical element|element|electricity|electrical energy|power
+81,one,CD,NA,on,NA,NA
+81,year,NN,NA,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+82,a-,NNP,NA,a-,,NA
+82,2,CD,NA,2,NA,NA
+83,z,NNP,NA,z,ezed|izzard|omega|z|Z|zed|zee,ending|conclusion|finish|letter|letter of the alphabet|alphabetic character
+83,demonstrate,VBZ,s,demonstr,attest|certify|demo|demonstrate|establish|evidence|exhibit|manifest|march|present|prove|shew|show,show|confirm|corroborate|sustain|substantiate|support|affirm|testify|bear witness|prove|evidence|protest|resist|dissent
+83,significant,JJ,NA,signific,important|meaning(a)|pregnant|significant|substantial,
+83,reduction,NNS,s,reduct,decrease|diminution|reducing|reduction|simplification|step-down,change of magnitude|chemical reaction|reaction|change
+83,incidence,NN,NA,incid,incidence|relative incidence,frequency|relative frequency|optical phenomenon
+83,adverse,JJ,NA,advers,adverse|contrary|inauspicious|untoward,
+83,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+83,first,JJ,NA,first,1st|beginning(a)|first|foremost|inaugural|initiative|initiatory|maiden|world-class,
+83,four,CD,NA,four,NA,NA
+83,month,NNS,s,month,calendar month|month,time period|period of time|period|time unit|unit of time
+83,suggest,VB,NA,suggest,advise|evoke|hint|intimate|paint a picture|propose|suggest,declare|convey|imply|express|show|evince
+83,incremental,JJ,NA,increment,incremental,
+83,clinical,JJ,NA,clinic,clinical,
+83,benefit,NN,NA,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+83,initiate,VBG,ing,initi,broach|induct|initiate|lead up|originate|pioneer|start,make|create|cause|do|admit|let in|include|hash out|discuss|talk over|originate|initiate|start
+83,agent,NNS,s,agent,agent|agentive role|broker|factor|federal agent,causal agent|cause|causal agency|representative|substance|businessperson|bourgeois|official|functionary|semantic role|participant role
+83,early,RB,NA,earli,ahead of time|betimes|early|early on|too soon,NA
+83,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+83,coronary,JJ,NA,coronari,coronary,
+83,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+84,benefit,NNS,s,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+84,accrue,VB,NA,accru,accrue|fall,increase|change hands|change owners
+84,do,VBP,NA,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+84,so,RB,NA,so,and so|hence|indeed|so|then|thence|therefore|thus|thusly,NA
+84,later,RB,NA,later,after|afterward|afterwards|by and by|later|later on|subsequently,NA
+84,follow,VB,NA,follow,abide by|accompany|adopt|be|come|come after|comply|conform to|espouse|fall out|follow|keep abreast|keep an eye on|keep up|observe|play along|postdate|pursue|stick to|stick with|succeed|surveil|survey|take after|trace|travel along|watch|watch over,travel|go|move|locomote|result|ensue|obey|imitate|copy|simulate|be|choose|take|select|pick out|analyze|analyse|study|examine|canvass|check|check up on|look into|check out|suss out|check over|go over|check into|play|originate|arise|rise|develop|uprise|spring up|grow|act|behave|do|practice|apply|use|understand|persevere|persist|hang in|hang on|hold on
+84,up,RB,NA,up,up|upward|upwardly|upwards,NA
+84,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+84,difficult,JJ,NA,difficult,difficult|hard|unmanageable,
+84,discriminate,JJ,NA,discrimin,discriminate,
+84,effect,NNS,s,effect,burden|consequence|core|effect|essence|event|force|gist|impression|issue|outcome|result|upshot,phenomenon|appearance|visual aspect|impression|feeling|belief|notion|opinion|meaning|significance|signification|import|validity|validness|symptom
+84,more,RBR,NA,more,more|to a greater extent,
+84,aggressive,JJ,NA,aggress,aggressive|belligerent|fast-growing(a)|strong-growing,
+84,v,NNS,s,v,5|atomic number 23|cinque|fin|five|fivesome|Little Phoebe|pentad|Phoebe|quint|quintet|quintuplet|v|V|vanadium|volt,potential unit|metallic element|metal|digit|figure|letter|letter of the alphabet|alphabetic character
+84,earlier,JJR,NA,earlier,earlier|earliest,
+84,lipid,NN,NA,lipid,lipid|lipide|lipoid,macromolecule|supermolecule
+84,lower,VBG,ing,lower,bring down|depress|frown|get down|glower|let down|lour|lower|take down|turn down,move|displace|devalue|decrease|lessen|minify|change|alter|modify|grimace|make a face|pull a face
+84,therapy,NN,NA,therapi,therapy,medical care|medical aid
+85,pravastatin,NNP,NA,pravastatin,Pravachol|pravastatin,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+85,atorvastatin,NNP,NA,atorvastatin,atorvastatin|Lipitor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+85,evaluation,NNP,NA,evalu,evaluation|rating|valuation,judgment|judgement|assessment|appraisal
+85,infection,NNP,NA,infect,contagion|infection|transmission,ill health|unhealthiness|health problem|linguistic process|pathologic process|pathological process|incident|communication|corruptness|corruption|illegality
+85,therapy,NNP,NA,therapi,therapy,medical care|medical aid
+85,prove,NNP,NA,prove,,NA
+85,trial,NN,NA,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+85,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+85,look,VBG,ing,look,appear|attend|await|bank|bet|calculate|count|depend|expect|face|front|look|reckon|rely|search|see|seem|swear|take care|wait,be|examine|see|lie|care|give care|convey|match|fit|correspond|check|jibe|gibe|tally|agree|trust
+85,4,CD,NA,4,NA,NA
+85,000,CD,NA,000,NA,NA
+85,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+85,10,CD,NA,10,NA,NA
+85,day,NNS,s,dai,24-hour interval|Clarence Day|Clarence Shepard Day Jr.|day|Day|daylight|daytime|mean solar day|sidereal day|solar day|twenty-four hour period|twenty-four hours,time unit|unit of time|time|calendar day|civil day|time period|period of time|period|work time|era|epoch|sidereal time|opportunity|chance
+85,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+85,coronary,JJ,NA,coronari,coronary,
+85,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+85,randomize,VBG,ing,random,randomise|randomize,disarrange
+85,pravastatin,NN,NA,pravastatin,Pravachol|pravastatin,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+85,40,CD,NA,40,NA,NA
+85,mg,NN,NA,mg,atomic number 12|magnesium|mg|Mg|milligram,metric weight unit|weight unit|metallic element|metal
+85,atorvastatin,NN,NA,atorvastatin,atorvastatin|Lipitor,lipid-lowering medicine|lipid-lowering medication|statin drug|statin
+85,80,CD,NA,80,NA,NA
+85,mg,NN,NA,mg,atomic number 12|magnesium|mg|Mg|milligram,metric weight unit|weight unit|metallic element|metal
+85,daily,JJ,NA,daili,casual|daily|day-after-day|day-by-day|day-to-day|everyday,
+85,[,NN,NA,[,,NA
+85,29,CD,NA,29,NA,NA
+85,],NN,NA,],,NA
+86,patient,NNPS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+86,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+86,observe,VBN,ed,observ,abide by|celebrate|detect|discover|find|follow|honor|honour|keep|keep an eye on|maintain|mention|note|notice|observe|remark|respect|take note|watch|watch over,spy|sight|state|say|tell|watch|accept|check|check up on|look into|check out|suss out|check over|go over|check into
+86,least,JJS,NA,least,least(a),
+86,1,CD,NA,1,NA,NA
+86,5,CD,NA,5,NA,NA
+86,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+86,occurrence,NN,NA,occurr,happening|natural event|occurrence|occurrent,event|presence
+86,myocardial,NN,NA,myocardi,,NA
+86,infarction,NN,NA,infarct,infarct|infarction,pathology
+86,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+86,cardiovascular,JJ,NA,cardiovascular,cardiovascular,
+86,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+87,miracl,NNP,NA,miracl,,NA
+87,a-,NNP,NA,a-,,NA
+87,2,CD,NA,2,NA,NA
+88,z,NNP,NA,z,ezed|izzard|omega|z|Z|zed|zee,ending|conclusion|finish|letter|letter of the alphabet|alphabetic character
+88,trial,NNS,s,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+88,study,NN,NA,studi,bailiwick|cogitation|discipline|field|field of study|report|sketch|study|subject|subject area|subject field|survey|work|written report,examination|scrutiny|learning|acquisition|document|written document|papers|concentration|engrossment|absorption|immersion|room|knowledge domain|knowledge base|domain|drawing|contemplation|reflection|reflexion|rumination|musing|thoughtfulness|memorizer|memoriser|musical composition|opus|composition|piece|piece of music
+88,not,RB,NA,not,non|not,NA
+88,assess,VB,NA,assess,appraise|assess|evaluate|measure|tax|valuate|value,evaluate|pass judgment|judge|charge|bill|determine|set|estimate|gauge|approximate|guess
+88,efficacy,NN,NA,efficaci,efficaciousness|efficacy,effectiveness|effectivity|effectualness|effectuality
+88,early,JJ,NA,earli,early|early(a)|former(a)|other(a),
+88,statin,NN,NA,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+88,therapy,NN,NA,therapi,therapy,medical care|medical aid
+88,acute,JJ,NA,acut,acuate|acute|discriminating|incisive|intense|keen|knifelike|needlelike|penetrating|penetrative|piercing|sharp,
+88,coronary,JJ,NA,coronari,coronary,
+88,syndrome,NN,NA,syndrom,syndrome,complex|composite|symptom
+89,rather,RB,NA,rather,instead|kind of|kinda|preferably|quite|rather|sooner|sort of,NA
+89,examine,VB,NA,examin,analyse|analyze|canvass|essay|examine|probe|prove|see|study|test|try|try out,investigate|look into|question|query|evaluate|pass judgment|judge
+89,role,NN,NA,role,character|function|office|part|persona|purpose|role|theatrical role|use,duty|portrayal|characterization|enactment|personation|utility|usefulness|activity
+89,more,JJR,NA,more,more than|more(a),
+89,v,NNS,s,v,5|atomic number 23|cinque|fin|five|fivesome|Little Phoebe|pentad|Phoebe|quint|quintet|quintuplet|v|V|vanadium|volt,potential unit|metallic element|metal|digit|figure|letter|letter of the alphabet|alphabetic character
+89,less,RBR,NA,less,less|to a lesser extent,
+89,aggressive,JJ,NA,aggress,aggressive|belligerent|fast-growing(a)|strong-growing,
+89,lipid-lowering,JJ,NA,lipid-low,,NA
+89,set,VBG,ing,set,adjust|arrange|coif|coiffe|coiffure|congeal|correct|countersink|define|determine|do|dress|fix|fructify|gear up|go down|go under|jell|lay|lay out|limit|localise|localize|mark|place|plant|pose|position|prepare|put|ready|rig|set|set up|sic|specify|typeset,move|displace|choose|take|select|pick out|lay down|establish|make|change|alter|modify|arrange|set up|adjust|set|correct|stage|present|represent|descend|fall|go down|come down|compose|write|put|place|pose|position|lay|originate|initiate|start|solidify|print|impress|bury|sink|hone|assail|assault|set on|attack|estimate|gauge|approximate|guess|judge|equip|fit|fit out|outfit|fix|prepare|ready|gear up|reproduce|procreate|multiply|groom|neaten
+90,2002,CD,NA,2002,NA,NA
+90,many,JJ,NA,mani,many,
+90,consider,VB,NA,consid,believe|conceive|consider|count|deal|debate|deliberate|look at|moot|reckon|regard|see|study|take|think|turn over|view|weigh,think|believe|consider|conceive|chew over|think over|meditate|ponder|excogitate|contemplate|muse|reflect|mull|mull over|ruminate|speculate|think about|hash out|discuss|talk over|evaluate|pass judgment|judge|look|analyze|analyse|study|examine|canvass|see|reckon|view|regard
+90,unethical,JJ,NA,uneth,unethical,
+90,withhold,VB,NA,withhold,deduct|keep back|recoup|withhold,deny|refuse|keep|hold on
+90,statin,NNS,s,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+90,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+90,establish,VBN,ed,establish,base|build|constitute|demonstrate|establish|found|give|ground|instal|install|institute|launch|lay down|make|plant|prove|set up|shew|show,open|open up|initiate|pioneer|confirm|corroborate|sustain|substantiate|support|affirm|make|create
+90,coronary,JJ,NA,coronari,coronary,
+90,disease,NN,NA,diseas,disease,illness|unwellness|malady|sickness
+91,make,VBZ,s,make,arrive at|attain|bring in|build|ca-ca|cause|clear|constitute|construct|cook|crap|create|defecate|do|draw|earn|establish|fix|form|gain|get|get to|give|have|hit|hold|induce|lay down|make|make believe|make up|make water|micturate|name|nominate|pass water|pee|pee-pee|piddle|piss|prepare|pretend|produce|progress to|puddle|pull in|reach|ready|realise|realize|relieve oneself|score|seduce|shit|spend a penny|stimulate|stool|take|take a crap|take a leak|take a shit|take in|throw|urinate|wee|wee-wee|work,change|alter|modify|make|create|create by mental act|create mentally|cause|do|get|acquire|constitute|represent|make up|comprise|be|achieve|accomplish|attain|reach|become|create from raw material|create from raw stuff|perform|execute|act|behave|appoint|charge|score|hit|tally|rack up|perpetrate|commit|pull|assemble|gather|get together|direct|tidy|tidy up|clean up|neaten|straighten|straighten out|square away|head|excrete|egest|eliminate|pass|total|number|add up|come|amount|look|appear|seem|arrive at|gain|persuade|guarantee|ensure|insure|assure|secure|play|see|consider|reckon|view|regard|estimate|gauge|approximate|guess|judge|develop|grow
+91,unlikely,JJ,NA,unlik,improbable|unbelievable|unconvincing|unlikely,
+91,additional,JJ,NA,addit,additional|extra,
+91,placebo-controlled,JJ,NA,placebo-control,,NA
+91,trial,NNS,s,trial,run|test|trial|trial run|tribulation|tryout|visitation,attempt|effort|endeavor|endeavour|try|experiment|experimentation|proceeding|legal proceeding|proceedings|contest|competition|affliction
+91,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+91,carry,VBN,ed,carri,acquit|bear|behave|carry|channel|comport|conduct|contain|convey|deport|dribble|expect|express|extend|gestate|have a bun in the oven|hold|impart|pack|persuade|post|run|stock|stockpile|sway|take|transmit|transport,move|displace|have|feature|bring|convey|take|communicate|intercommunicate|hold|support|sustain|hold up|include|effect|continue|imply|involve|win|carry|bear|act|have got|circulate|circularize|circularise|distribute|disseminate|propagate|broadcast|spread|diffuse|disperse|pass around|hit|pass on|pass|pass along|put across|range|keep|maintain|influence|act upon|work|compensate|counterbalance|correct|make up|even out|even off|even up|promote|advance|boost|further|encourage|appropriate|capture|seize|conquer|transfer|shift|follow|grow|raise|farm|produce|propel|impel|hit the bottle|drink|booze|fuddle|nourish|nurture|travel|go|locomote|obtain|perform|execute|do|give birth|deliver|birth
+91,area,NN,NA,area,area|arena|country|domain|expanse|field|orbit|region|sphere|surface area,region|topic|subject|issue|matter|body part|environment|structure|construction|extent
+92,future,NNP,NA,futur,future|future tense|futurity|hereafter|time to come,time|tense|commodity|trade good|good
+92,secondary,JJ,NA,secondari,junior-grade|lower-ranking|lowly|petty(a)|secondary|subaltern,
+92,prevention,NN,NA,prevent,bar|prevention,hindrance|hinderance|interference
+92,study,NNS,s,studi,bailiwick|cogitation|discipline|field|field of study|report|sketch|study|subject|subject area|subject field|survey|work|written report,examination|scrutiny|learning|acquisition|document|written document|papers|concentration|engrossment|absorption|immersion|room|knowledge domain|knowledge base|domain|drawing|contemplation|reflection|reflexion|rumination|musing|thoughtfulness|memorizer|memoriser|musical composition|opus|composition|piece|piece of music
+92,look,VB,NA,look,appear|attend|await|bank|bet|calculate|count|depend|expect|face|front|look|reckon|rely|search|see|seem|swear|take care|wait,be|examine|see|lie|care|give care|convey|match|fit|correspond|check|jibe|gibe|tally|agree|trust
+92,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+92,stable,JJ,NA,stabl,stable|static|unchanging,
+92,unstable,JJ,NA,unstabl,fluid|mentally ill|precarious|unsound|unstable,
+92,disease,NN,NA,diseas,disease,illness|unwellness|malady|sickness
+92,need,VB,NA,need,ask|call for|demand|involve|necessitate|need|postulate|require|take|want,NA
+92,address,VB,NA,address,accost|address|call|come up to|cover|deal|direct|handle|plow|speak|treat|turn to,communicate|intercommunicate|label|target|aim|place|direct|point|use|utilize|utilise|apply|employ|address|turn to|access|broach|initiate|come|come up|align|aline|line up|adjust
+92,comparative,JJ,NA,compar,comparative|relative,
+92,efficacy,NN,NA,efficaci,efficaciousness|efficacy,effectiveness|effectivity|effectualness|effectuality
+92,different,JJ,NA,differ,different,
+92,statin,NNS,s,statin,lipid-lowering medication|lipid-lowering medicine|statin|statin drug,medicine|medication|medicament|medicinal drug
+92,newer,JJR,NA,newer,,NA
+92,agent,NNS,s,agent,agent|agentive role|broker|factor|federal agent,causal agent|cause|causal agency|representative|substance|businessperson|bourgeois|official|functionary|semantic role|participant role
+92,assess,VBP,NA,assess,appraise|assess|evaluate|measure|tax|valuate|value,evaluate|pass judgment|judge|charge|bill|determine|set|estimate|gauge|approximate|guess
+92,incremental,JJ,NA,increment,incremental,
+92,benefit,NN,NA,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+92,combination,NN,NA,combin,combination|combining|compounding,collection|aggregation|accumulation|assemblage|sequence|unit|social unit|alliance|coalition|alignment|alinement|mathematical process|mathematical operation|operation|change of integrity
+92,therapy,NN,NA,therapi,therapy,medical care|medical aid
+92,[,NN,NA,[,,NA
+92,30,CD,NA,30,NA,NA
+92,],NN,NA,],,NA
+92,determine,VB,NA,determin,ascertain|check|decide|define|determine|find|find out|fix|influence|learn|limit|make up one's mind|mold|regulate|see|set|settle|shape|specify|square off|square up|watch,cause|do|make|choose|take|select|pick out|specify|define|delineate|delimit|delimitate|conclude|resolve
+92,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+92,serum,NN,NA,serum,blood serum|serum,liquid body substance|bodily fluid|body fluid|humor|humour
+92,cholesterol,NN,NA,cholesterol,cholesterin|cholesterol,sterol|steroid alcohol
+92,floor,NN,NA,floor,base|floor|flooring|level|storey|story|trading floor,horizontal surface|level|structure|construction|control|land|dry land|earth|ground|solid ground|terra firma|surface|Earth's surface|gathering|assemblage|right|hall|room
+92,reduction,NNS,s,reduct,decrease|diminution|reducing|reduction|simplification|step-down,change of magnitude|chemical reaction|reaction|change
+92,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+92,unlikely,JJ,NA,unlik,improbable|unbelievable|unconvincing|unlikely,
+92,provide,VB,NA,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+92,further,JJ,NA,further,farther|further,
+92,clinical,JJ,NA,clinic,clinical,
+92,benefit,NN,NA,benefit,benefit|welfare,payment|good|goodness|performance|public presentation

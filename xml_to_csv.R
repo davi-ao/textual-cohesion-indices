@@ -5,6 +5,7 @@ source('get_word_hypernyms.R')
 
 library(SnowballC)
 
+# Convert xml files to csv------------------------------------------------------
 dir = 'oanc/'
 files = list.files(dir, '*_clean.xml')
 
@@ -49,19 +50,43 @@ for (f in files) {
     mutate(stem = wordStem(lemma)) %>%
     filter(upos %in% msd_keep)
   
-  synonyms_hypernyms = text_tibble %>%
-    distinct(lemma, upos) %>%
-    mutate(synonyms = mapply(function(l, p){get_word_synonyms(l, p)}, 
-                             lemma, 
-                             upos) %>% 
-             unlist()) %>%
-    mutate(hypernyms = mapply(function(l, p){get_word_hypernyms(l, p)}, 
-                              lemma, 
-                              upos) %>% 
-             unlist())
-  
-  text_tibble = text_tibble %>%
-    left_join(synonyms_hypernyms, by = c('lemma', 'upos'))
-  
   write_csv(text_tibble, paste0('corpora/oanc_csv/', text_name, '.csv'))
+}
+
+# Add synonyms and hypernyms to csv---------------------------------------------
+dir = 'corpora/oanc_csv/'
+files = list.files(dir)
+
+lemmas_tibble = tibble(
+  clique_id = double(),
+  lemma = character(),
+  upos = character(),
+  affix = character(),
+  stem = character()
+)
+
+for (f in files) {
+  lemmas_tibble = lemmas_tibble %>%
+    bind_rows(read_csv(paste0(dir, f)))
+}
+
+lemmas_tibble = lemmas_tibble %>%
+  distinct(lemma, upos)
+  
+synonyms_hypernyms = lemmas_tibble %>%
+  mutate(synonyms = mapply(function(l, p){get_word_synonyms(l, p)}, 
+                           lemma, 
+                           upos) %>% 
+           unlist()) %>%
+  mutate(hypernyms = mapply(function(l, p){get_word_hypernyms(l, p)}, 
+                            lemma, 
+                            upos) %>% 
+           unlist())
+
+write_csv(synonyms_hypernyms, 'synonyms_hypernyms.csv')  
+
+for (f in files) {
+  read_csv(paste0(dir, f)) %>%
+    left_join(synonyms_hypernyms, by = c('lemma', 'upos')) %>%
+    write_csv(paste0(dir, f))
 }

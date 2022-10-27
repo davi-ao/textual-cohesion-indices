@@ -24,9 +24,6 @@ indices = tibble(
   e = numeric()
 )
 
-# TODO Search synonyms and hypernyms of each word in the corpus before 
-# processing the texts to avoid repetitive search
-
 for (file in files) {
   text_name = file %>% str_sub(0,-5)
   annotated_text = read_csv(paste0(dir, file)) %>%

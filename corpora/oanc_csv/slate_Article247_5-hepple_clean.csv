@@ -1,0 +1,265 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,think,VBP,NA,think,believe|call back|call up|cerebrate|cogitate|conceive|consider|guess|imagine|intend|mean|opine|recall|reckon|recollect|remember|retrieve|suppose|think,evaluate|pass judgment|judge|expect|anticipate|imagine|conceive of|ideate|envisage|concentrate|focus|center|centre|pore|rivet|think|cogitate|cerebrate|believe|consider|conceive|change|alter|modify
+1,analysis,NN,NA,analysi,analysis|analytic thinking|depth psychology|psychoanalysis,investigation|investigating|reasoning|logical thinking|abstract thought|criticism|literary criticism|expressive style|style|calculus|infinitesimal calculus|psychotherapy
+1,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+1,spot-on,JJ,NA,spot-on,,NA
+1,ellen,NNP,NA,ellen,,NA
+2,disincentive,JJ,NA,disincent,,NA
+2,keep,VB,NA,keep,celebrate|continue|go along|go on|hold|hold back|hold on|hold open|keep|keep back|keep on|keep open|maintain|observe|preserve|prevent|proceed|restrain|retain|save|stay fresh|sustain,act|move|have|have got|hold|record|enter|put down|lodge|accommodate|prolong|sustain|keep up|stay|remain|rest|protect|grow|raise|farm|produce|reserve|book|store|confine|detain|cook|fix|ready|make|prepare
+2,reading,NN,NA,read,indication|interpretation|meter reading|reading|Reading|reading material|recital|recitation|version,linguistic process|language|interpretation|datum|data point|written communication|written language|black and white|representation|mental representation|internal representation|public speaking|speechmaking|speaking|oral presentation|measurement|measuring|measure|mensuration
+3,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,coincidence,NN,NA,coincid,co-occurrence|coincidence|concurrence|conjunction|happenstance,accident|stroke|fortuity|chance event|position|spatial relation|simultaneity|simultaneousness
+3,golin,NNP,NA,golin,,NA
+3,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+3,apprenticeship,NNS,s,apprenticeship,apprenticeship,position|post|berth|office|spot|billet|place|situation
+3,man,NN,s,man,adult male|gentleman|gentleman's gentleman|homo|human|human being|human beings|human race|humanity|humankind|humans|Isle of Man|man|Man|mankind|military man|military personnel|piece|serviceman|valet|valet de chambre|world,male|male person|adult|grownup|skilled worker|trained worker|skilled workman|person|individual|someone|somebody|mortal|soul|hominid|subordinate|subsidiary|underling|foot soldier|manservant|body servant|lover|game equipment|homo|man|human being|human|group|grouping
+3,health,NNP,NA,health,health|wellness,wellbeing|well-being|welfare|upbeat|eudaemonia|eudaimonia|condition|status
+3,cosmo,NNP,NA,cosmo,,NA
+3,two,CD,NA,two,NA,NA
+3,magazine,NNS,s,magazin,cartridge|cartridge clip|cartridge holder|clip|mag|magazine|magazine publisher|powder magazine|powder store,press|public press|publication|product|production|publisher|publishing house|publishing firm|publishing company|supply chamber|storehouse|depot|entrepot|storage|store
+3,unlikely,JJ,NA,unlik,improbable|unbelievable|unconvincing|unlikely,
+3,ever,RB,NA,ever,always|e'er|ever|ever so|of all time,NA
+3,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,accuse,VBN,ed,accus,accuse|charge|criminate|impeach|incriminate,charge|accuse
+3,sentimentality,NN,NA,sentiment,drippiness|mawkishness|mushiness|sentimentality|sloppiness|soupiness,emotionality|emotionalism|sentiment
+3,pretension,NN,NA,pretens,largeness|pretence|pretense|pretension|pretentiousness,artificiality|claim|unnaturalness
+4,crucial,JJ,NA,crucial,all important(p)|all-important(a)|crucial|essential|important|of the essence(p),
+4,lesson,NN,NA,lesson,deterrent example|example|lesson|moral|object lesson,teaching|instruction|pedagogy|admonition|monition|warning|word of advice|meaning|significance|signification|import|school assignment|schoolwork
+4,teach,VBN,ed,teach,instruct|learn|teach,inform|habituate|accustom
+4,two,CD,NA,two,NA,NA
+4,publication,NNS,s,public,issue|publication|publishing,work|piece of work|printing|communication|commercial enterprise|business enterprise|business
+4,successful,JJ,NA,success,successful,
+4,mass-market,JJ,NA,mass-market,,NA
+4,mag,NNS,s,mag,mag|magazine,press|public press|publication
+4,general,JJ,NA,gener,cosmopolitan|ecumenical|general|oecumenical|universal|world-wide|worldwide,
+4,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+4,rigorous,JJ,NA,rigor,rigorous|strict|stringent|tight,
+4,anti-elitism,JJ,NA,anti-elit,,NA
+5,esquire,NNP,NA,esquir,Esq|esquire|Esquire,attendant|attender|tender|man|adult male
+5,gq,NNP,NA,gq,,NA
+5,posit,NN,NA,posit,posit|postulate,proposition
+5,explicitly,RB,NA,explicitli,explicitly,
+5,inference,NN,NA,infer,illation|inference,reasoning|logical thinking|abstract thought
+5,only,JJ,NA,onli,alone(p)|lone(a)|lonesome(a)|only|only(a)|sole(a)|solitary(a),
+5,winner,NNS,s,winner,achiever|succeeder|success|victor|winner,contestant|gambler|person|individual|someone|somebody|mortal|soul
+5,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+5,let,VBN,NA,let,allow|countenance|get|have|lease|let|permit|rent,induce|stimulate|cause|have|get|make|accept|consent|go for|leave|leave alone|leave behind|let alone|give
+5,club,NN,NA,club,ball club|baseball club|cabaret|club|clubhouse|gild|golf club|golf-club|golfclub|guild|lodge|night club|nightclub|nightspot|nine|order|social club|society,baseball team|association|stick|building|edifice|golf equipment|playing card|spot
+6,week,NN,NA,week,calendar week|hebdomad|week|workweek,time period|period of time|period|work time
+6,advertising,NNP,NA,advertis,ad|advert|advertisement|advertising|advertizement|advertizing|publicizing,promotion|promo|publicity|promotional material|packaging|commercial enterprise|business enterprise|business
+6,age,NNP,NA,ag,age|eld|geezerhood|historic period|long time|old age|years,property|era|epoch|time of life|time period|period of time|period
+6,gq,NNP,NA,gq,,NA
+6,editor,NN,NA,editor,editor|editor in chief|editor program,skilled worker|trained worker|skilled workman|application|application program|applications programme
+6,art,NNP,NA,art,art|artistic creation|artistic production|artistry|artwork|fine art|graphics|nontextual matter|prowess,creation|creative activity|superior skill|visual communication
+6,cooper,NNP,NA,cooper,barrel maker|cooper|Cooper|Frank Cooper|Gary Cooper|James Fenimore Cooper|Peter Cooper,craftsman|artisan|journeyman|artificer
+6,ask,VBZ,s,ask,ask|ask out|call for|demand|enquire|expect|inquire|invite out|involve|necessitate|need|postulate|require|take|take out,request|ask for|bespeak|call for|quest|give voice|formulate|word|phrase|articulate|demand|communicate|intercommunicate
+6,condom,NN,NA,condom,condom|prophylactic|rubber|safe|safety,contraceptive|preventive|preventative|contraceptive device|prophylactic device|birth control device
+6,advertiser,NNS,s,advertis,adman|advertiser|advertizer,publicist|publicizer|publiciser
+6,bother,VBP,NA,bother,annoy|bother|chafe|devil|discommode|disoblige|get at|get to|gravel|incommode|inconvenience|inconvenience oneself|irritate|nark|nettle|put out|rag|rile|trouble|trouble oneself|vex,strive|reach|strain|displease|affect|impact|bear upon|bear on|touch on|touch|intrude|irrupt|agitate|rouse|turn on|charge|commove|excite|charge up|confuse|flurry|disconcert|put off
+6,take,VB,NA,take,accept|acquire|admit|adopt|aim|ask|assume|bring|call for|carry|charter|choose|claim|conduct|consider|consume|contain|contract|convey|deal|demand|direct|drive|engage|exact|fill|film|get|get hold of|guide|have|hire|hold|ingest|involve|lead|learn|lease|look at|make|necessitate|need|occupy|pack|pick out|postulate|read|remove|rent|require|select|shoot|strike|study|submit|subscribe|subscribe to|take|take aim|take away|take in|take on|take up|train|use up|withdraw,NA
+6,page,NNS,s,page,page|Page|pageboy|Sir Frederick Handley Page|Thomas Nelson Page|varlet,leaf|folio|messenger boy|errand boy|attendant|attender|tender
+6,maxim,NNP,NA,maxim,axiom|maxim|Maxim|Sir Hiram Stevens Maxim,saying|expression|locution
+6,readership,NN,NA,readership,readership,audience
+6,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+6,compose,VBN,ed,compos,compile|compose|draw up|frame|indite|pen|write,constitute|represent|make up|comprise|be|make|create|create verbally|calm|calm down|quiet|tranquilize|tranquillize|tranquillise|quieten|lull|still|plan
+6,entirely,RB,NA,entir,all|alone|altogether|completely|entirely|exclusively|only|right|solely|totally|whole|wholly,
+6,masturbator,NNS,s,masturb,masturbator|onanist,person|individual|someone|somebody|mortal|soul
+7,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+7,pretty,RB,NA,pretti,fairly|jolly|middling|moderately|passably|pretty|reasonably|somewhat,
+7,sure,JJ,NA,sure,certain|certain(p)|indisputable|sure|trusted,
+7,cooper,NNP,NA,cooper,barrel maker|cooper|Cooper|Frank Cooper|Gary Cooper|James Fenimore Cooper|Peter Cooper,craftsman|artisan|journeyman|artificer
+7,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+7,joke,VBG,ing,joke,jest|joke,communicate|intercommunicate|act|behave|do
+7,di,NNS,s,di,,NA
+7,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+7,clear,JJ,NA,clear,absolved|clean|clean-cut|clear|clear-cut|clear(p)|cleared|decipherable|exculpated|exonerated|light|open|percipient|readable|unclouded|unmortgaged|vindicated|well-defined,
+8,gq,NNP,NA,gq,,NA
+8,classy,JJ,NA,classi,classy|posh|swish,
+9,maxim,NNP,NA,maxim,axiom|maxim|Maxim|Sir Hiram Stevens Maxim,saying|expression|locution
+9,hopelessly,RB,NA,hopelessli,dispiritedly|hopelessly,
+9,déclassé,NN,NA,déclassé,,NA
+10,want,VBZ,s,want,desire|need|require|want,be|search|seek|look for|demand|miss|lack
+10,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+10,classy,JJ,NA,classi,classy|posh|swish,
+10,anymore,RB,NA,anymor,any longer|anymore,NA
+11,recent,JJ,NA,recent,late(a)|recent,
+11,vogue,NNS,s,vogu,style|trend|vogue,taste|appreciation|discernment|perceptiveness|acceptance
+11,cigar,NNS,s,cigar,cigar,roll of tobacco|smoke
+11,cocktail,NNS,s,cocktail,cocktail,mixed drink|appetizer|appetiser|starter
+11,rat,NNP,NA,rat,betrayer|blabber|blackleg|bum|crumb|dirty dog|git|informer|lowlife|puke|rat|rotter|scab|scum bag|skunk|so-and-so|squealer|stinker|stinkpot|strikebreaker,rodent|gnawer|worker|unpleasant person|disagreeable person|informant|source|pad
+11,pack,NNP,NA,pack,battalion|camp|clique|coterie|face pack|gang|ingroup|inner circle|large number|mob|multitude|pack|plurality|ring,large indefinite quantity|large indefinite amount|collection|aggregation|accumulation|assemblage|package|parcel|association|set|circle|band|lot|animal group|corrective|restorative|bundle|sheaf
+11,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+11,not,RB,NA,not,non|not,NA
+11,wistful,JJ,NA,wist,pensive|wistful,
+11,evocation,NNS,s,evoc,elicitation|evocation|induction|summoning,imagination|imaging|imagery|mental imagery|conjuring|conjuration|conjury|invocation|stimulation|stimulus|stimulant|input
+11,more,RBR,NA,more,more|to a greater extent,
+11,civilized,JJ,NA,civil,civilised|civilized|cultivated|cultured|genteel|polite,
+11,time,NN,NA,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+12,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+12,wistful,JJ,NA,wist,pensive|wistful,
+12,evocation,NNS,s,evoc,elicitation|evocation|induction|summoning,imagination|imaging|imagery|mental imagery|conjuring|conjuration|conjury|invocation|stimulation|stimulus|stimulant|input
+12,last,JJ,NA,last,concluding|final|last|last-place|last(a)|lowest|net|terminal|utmost,
+12,great,JJ,NA,great,bang-up|big(p)|bully|capital|corking|cracking|dandy|enceinte|expectant|gravid|great|great(p)|groovy|heavy(p)|keen|large(p)|majuscule|neat|nifty|not bad(p)|old(a)|outstanding|peachy|slap-up|smashing|swell|with child(p),
+12,period,NN,NA,period,catamenia|flow|full point|full stop|geological period|menses|menstruation|menstruum|period|period of time|point|stop|time period,fundamental quantity|fundamental measure|time interval|interval|part|section|division|geological time|geologic time|end|ending|discharge|emission|expelling|punctuation|punctuation mark
+12,big,JJ,NA,big,adult|bad|big|big(a)|big(p)|bighearted|boastful|bounteous|bountiful|braggart(a)|bragging(a)|braggy|cock-a-hoop|crowing|enceinte|expectant|freehanded|full-grown|fully grown|giving|gravid|great(p)|grown|grownup|handsome|heavy(a)|heavy(p)|large|large(p)|liberal|magnanimous|openhanded|prominent|self-aggrandising|self-aggrandizing|swelled|vainglorious|with child(p),
+12,straight,NNP,NA,straight,heterosexual|heterosexual person|straight|straight person|straightaway,person|individual|someone|somebody|mortal|soul|poker hand|section|segment
+12,white,NNP,NA,white,albumen|Andrew D. White|Andrew Dickson White|Caucasian|E. B. White|Edward D. White|Edward Douglas White Jr.|Edward White|egg white|Elwyn Brooks White|flannel|gabardine|ovalbumin|Patrick Victor Martindale White|Patrick White|Stanford White|T. H. White|Theodore Harold White|tweed|white|White|White person|White River|whiteness,person|individual|someone|somebody|mortal|soul|achromatic color|achromatic colour|ingredient|fixings|man|piece|trousers|pair of trousers|pant
+12,guy,NNP,NA,gui,bozo|cat|guy|Guy|guy cable|guy rope|guy wire|hombre|sod,man|adult male|effigy|image|simulacrum|brace|bracing
+12,fun,NN,NA,fun,fun|merriment|play|playfulness|sport,diversion|recreation|wit|humor|humour|witticism|wittiness|activity|frivolity|frivolousness
+12,broad,NNS,s,broad,broad,woman|adult female
+12,fag,NNS,s,fag,butt|cigaret|cigarette|coffin nail|fag|faggot|fagot|fairy|nance|pansy|poof|poove|pouf|queen|queer,homosexual|homophile|homo|gay|roll of tobacco|smoke
+12,come,VBD,ed,come,add up|amount|arrive|come|come in|come up|derive|descend|do|fall|fare|follow|get|get along|hail|issue forth|make out|number|occur|total,NA
+12,ruin,VB,NA,ruin,bankrupt|break|deflower|destroy|ruin|smash,thwart|queer|spoil|scotch|foil|cross|frustrate|baffle|bilk|impoverish|lay waste to|waste|devastate|desolate|ravage|scourge|copulate|mate|pair|couple|decay|crumble|dilapidate
+13,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+13,sinatra,NNP,NA,sinatra,Francis Albert Sinatra|Frank Sinatra|Sinatra,
+13,pack,NNP,NA,pack,battalion|camp|clique|coterie|face pack|gang|ingroup|inner circle|large number|mob|multitude|pack|plurality|ring,large indefinite quantity|large indefinite amount|collection|aggregation|accumulation|assemblage|package|parcel|association|set|circle|band|lot|animal group|corrective|restorative|bundle|sheaf
+13,bad-boy,JJ,NA,bad-boi,,NA
+13,behavior,NN,NA,behavior,behavior|behaviour|conduct|demeanor|demeanour|deportment|doings,activity|action|activeness|trait
+13,late-,NN,NA,late-,,NA
+13,90,CD,NA,90,NA,NA
+13,s,VBZ,NA,NA,,NA
+13,ersatz,JJ,NA,ersatz,ersatz|substitute,
+13,swell,NNS,s,swell,beau|clotheshorse|crestless wave|dandy|dude|fashion plate|fop|gallant|sheik|swell,wave|moving ridge|natural elevation|elevation|crescendo|man|adult male
+13,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+13,celebrate,VBG,ing,celebr,celebrate|fete|keep|lionise|lionize|observe,meet|get together|respect|honor|honour|abide by|observe
+13,not,RB,NA,not,non|not,NA
+13,fine,NN,NA,fine,amercement|fine|mulct,penalty
+13,tailor,VBG,ing,tailor,cut|orient|sew|tailor|tailor-make,adapt|accommodate|design|fashion|forge
+13,three-button,JJ,NA,three-button,,NA
+13,suit,NNS,s,suit,case|causa|cause|courting|courtship|lawsuit|suit|suit of clothes|wooing,garment|proceeding|legal proceeding|proceedings|businessman|man of affairs|entreaty|prayer|appeal|playing card
+14,tit,NNS,s,tit,boob|bosom|breast|knocker|mamilla|mammilla|nipple|pap|teat|tit|titmouse|titty,mammary gland|mamma|reproductive organ|sex organ|oscine|oscine bird
+14,magazine,NNS,s,magazin,cartridge|cartridge clip|cartridge holder|clip|mag|magazine|magazine publisher|powder magazine|powder store,press|public press|publication|product|production|publisher|publishing house|publishing firm|publishing company|supply chamber|storehouse|depot|entrepot|storage|store
+14,likewise,RB,NA,likewis,alike|also|as well|besides|likewise|similarly|too,NA
+14,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+14,not,RB,NA,not,non|not,NA
+14,there,RB,NA,there,there|thither,NA
+14,purpose,NN,NA,purpos,aim|design|determination|function|intent|intention|purpose|role|use,goal|end|utility|usefulness|resoluteness|firmness|firmness of purpose|resolve|resolution
+14,trouser-rousing,JJ,NA,trouser-r,,NA
+14,detail,NNS,s,detail,contingent|detail|item|particular|point,fact|part|portion|component part|component|constituent|discussion|treatment|discourse|gang|crew|work party|military unit|military force|military group|force
+14,so,RB,NA,so,and so|hence|indeed|so|then|thence|therefore|thus|thusly,NA
+14,delicately,RB,NA,delic,delicately|exquisitely|fine|finely,
+14,put,VB,NA,put,arrange|assign|cast|commit|couch|frame|invest|lay|order|place|pose|position|put|redact|set|set up,move|displace|change|alter|modify|give voice|formulate|word|phrase|articulate|use|utilize|utilise|apply|employ|spend|expend|drop|estimate|gauge|approximate|guess|judge|subject|arrange|set|organize|organise
+14,current,JJ,NA,current,current,
+14,issue,NN,NA,issu,consequence|effect|egress|emergence|event|exit|government issue|issuance|issue|issuing|matter|military issue|number|offspring|outcome|outlet|payoff|proceeds|progeny|publication|result|return|subject|take|takings|topic|upshot|way out|yield,content|cognitive content|mental object|periodical|provision|supply|supplying|store|stock|fund|income|phenomenon|relative|relation|beginning|opening|printing
+15,photo,NNS,s,photo,exposure|photo|photograph|pic|picture,representation
+15,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+15,rarely,RB,NA,rare,rarely|seldom,
+15,hot,JJ,NA,hot,blistering|hot|live|raging|red-hot|spicy,
+15,manner,NN,NA,manner,fashion|manner|mode|personal manner|style|way,property|demeanor|demeanour|behavior|behaviour|conduct|deportment|kind|sort|form|variety
+15,pornography,NN,NA,pornographi,erotica|porn|porno|pornography|smut,creation|creative activity
+15,even,RB,NA,even,even|still|yet,NA
+15,manner,NN,NA,manner,fashion|manner|mode|personal manner|style|way,property|demeanor|demeanour|behavior|behaviour|conduct|deportment|kind|sort|form|variety
+15,sport,NNP,s,sport,athletics|fun|mutant|mutation|play|sport|sportsman|sportswoman|summercater|variation,diversion|recreation|occupation|business|job|line of work|line|vacationer|vacationist|person|individual|someone|somebody|mortal|soul|athlete|jock|organism|being|wit|humor|humour|witticism|wittiness
+15,illustrated,NNP,NA,illustr,,NA
+15,tanned-fleshy,JJ,NA,tanned-fleshi,,NA
+15,swimsuit,NN,NA,swimsuit,bathing costume|bathing suit|swimming costume|swimsuit|swimwear,garment
+15,number,NNS,s,number,act|bit|figure|issue|number|numeral|phone number|routine|telephone number|turn,amount|definite quantity|performance|public presentation|signal|signaling|sign|symbol|periodical|company|positive identification|size|item|grammatical category|syntactic category|merchandise|ware|product
+16,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+16,more,RBR,NA,more,more|to a greater extent,
+16,90,CD,NA,90,NA,NA
+16,s,VBZ,NA,NA,,NA
+16,answer,NNS,s,answer,answer|reply|resolution|response|result|solution|solvent,statement|reply|response|pleading|reaction
+16,calender,NN,NA,calend,calender,machine
+16,girl,NNS,s,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+16,pinup,NNS,s,pinup,,NA
+16,mid-century,JJ,NA,mid-centuri,,NA
+16,suggestive,JJ,NA,suggest,implicative|indicative|indicatory|revelatory|significative|suggestive,
+16,more,JJR,NA,more,more than|more(a),
+16,titillate,VBG,ing,titil,tickle|titillate|vellicate,itch|stimulate|shake|shake up|excite|stir
+16,festive,JJ,NA,festiv,festal|festive|gay|merry,
+16,more,JJR,NA,more,more than|more(a),
+16,funky,JJ,NA,funki,fetid|foetid|foul|foul-smelling|funky|ill-scented|low-down|noisome|smelly|stinking,
+17,man,NNS,s,man,adult male|gentleman|gentleman's gentleman|homo|human|human being|human beings|human race|humanity|humankind|humans|Isle of Man|man|Man|mankind|military man|military personnel|piece|serviceman|valet|valet de chambre|world,male|male person|adult|grownup|skilled worker|trained worker|skilled workman|person|individual|someone|somebody|mortal|soul|hominid|subordinate|subsidiary|underling|foot soldier|manservant|body servant|lover|game equipment|homo|man|human being|human|group|grouping
+17,s-mag,JJ,NA,s-mag,,NA
+17,t,NN,NA,t,deoxythymidine monophosphate|liothyronine|metric ton|MT|t|T|tetraiodothyronine|thymine|thyroxin|thyroxine|tonne|triiodothyronine,pyrimidine|nucleotide|base|metric weight unit|weight unit|letter|letter of the alphabet|alphabetic character|thyroid hormone
+17,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+17,really,RB,NA,realli,actually|genuinely|in truth|rattling|real|really|truly|very,NA
+17,provide,VBG,ing,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+17,kind,NN,NA,kind,form|kind|sort|variety,category
+17,boys-only,JJ,NA,boys-onli,,NA
+17,atmosphere,NN,NA,atmospher,air|ambiance|ambience|atm|atmosphere|atmospheric state|aura|standard atmosphere|standard pressure,condition|status|pressure unit|region|part|weather|weather condition|conditions|atmospheric condition|gas|quality
+17,complicate,VBN,ed,complic,complicate|elaborate|perplex|rarify|refine,change|alter|modify|change|alter|modify
+17,tradeoff,NNS,s,tradeoff,trade-off|tradeoff,exchange|interchange
+17,involve,VBN,ed,involv,affect|ask|call for|demand|imply|involve|necessitate|need|postulate|regard|require|take,refer|pertain|relate|concern|come to|bear on|touch|touch on|have to do with|admit|let in|include|have|feature|absorb|engross|engage|occupy|complicate|refine|rarify|elaborate
+17,three,CD,NA,three,NA,NA
+17,decade,NNS,s,decad,10|decade|decennary|decennium|ten|tenner|X,time period|period of time|period|large integer
+17,negotiate,VBG,ing,negoti,negociate|negotiate|talk terms,hash out|discuss|talk over|pass
+17,woman,NNS,s,woman,adult female|char|charwoman|cleaning lady|cleaning woman|fair sex|woman|womanhood,female|female person|adult|grownup|cleaner|class|stratum|social class|socio-economic class
+17,lib,NN,NA,lib,,NA
+17,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+17,neatly,RB,NA,neatli,neatly,
+17,tun,VBN,ed,tun,,NA
+18,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+18,not,RB,NA,not,non|not,NA
+18,really,RB,NA,realli,actually|genuinely|in truth|rattling|real|really|truly|very,NA
+18,anti-feminist,JJ,NA,anti-feminist,,NA
+18,much,JJ,NA,much,much(a),
+18,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+18,laddism,NN,NA,laddism,,NA
+18,seem,VBZ,s,seem,appear|look|seem,be|appear|seem
+18,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+18,come,VBG,ing,come,add up|amount|arrive|come|come in|come up|derive|descend|do|fall|fare|follow|get|get along|hail|issue forth|make out|number|occur|total,NA
+18,behest,NN,NA,behest,behest,command|bid|bidding|dictation
+18,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+18,generation,NN,NA,gener,coevals|contemporaries|generation|genesis|multiplication|propagation,people|biological group|time period|period of time|period|phase|stage|beginning|production|reproduction|procreation|breeding|facts of life
+18,cosmo-trained,NNP,NA,cosmo-train,,NA
+18,sex-addled,JJ,NA,sex-addl,,NA
+18,fembot,NNS,s,fembot,,NA
+19,terrifying,JJ,NA,terrifi,terrific|terrifying,
+19,monica,NNP,NA,monica,,NA
+19,lewinsky,NNP,NA,lewinski,,NA
+19,blithe,NN,NA,blith,,NA
+19,attitude,NN,NA,attitud,attitude|mental attitude|position|posture,cognition|knowledge|noesis|bodily property|affectation|mannerism|pose|affectedness|orientation
+19,phone,NN,NA,phone,earphone|earpiece|headphone|phone|sound|speech sound|telephone|telephone set,electronic equipment|language unit|linguistic unit|electro-acoustic transducer
+19,sex,NN,NA,sex,gender|sex|sex activity|sexual activity|sexual practice|sexual urge|sexuality,bodily process|body process|bodily function|activity|class|category|family|feeling|physiological property
+19,have,VB,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+19,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+19,baby,NN,NA,babi,babe|baby|child|infant,child|kid|offspring|progeny|issue|person|individual|someone|somebody|mortal|soul|fetus|foetus|young mammal|undertaking|project|task|labor
+19,boomer,NNS,s,boomer,baby boomer|boomer,person|individual|someone|somebody|mortal|soul
+20,hey,NNP,NA,hei,,NA
+20,talk,VBG,ing,talk,babble|babble out|blab|blab out|lecture|let the cat out of the bag|mouth|peach|sing|speak|spill|spill the beans|talk|tattle|utter|verbalise|verbalize,communicate|intercommunicate|tell|unwrap|disclose|let on|bring out|reveal|discover|expose|divulge|break|give away|let out|uncover|teach|learn|instruct
+20,nasty,JJ,NA,nasti,awful|cruddy|filthy|foul|nasty|smutty|tight,
+20,president,NN,NA,presid,chair|chairman|chairperson|chairwoman|Chief Executive|president|President|President of the United States|prexy|United States President,corporate executive|business executive|head of state|chief of state|presiding officer|academic administrator|presidency|presidentship
+20,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+20,just,RB,NA,just,barely|but|exactly|hardly|just|just now|merely|only|precisely|properly|scarce|scarcely|simply,NA
+20,fun,NN,NA,fun,fun|merriment|play|playfulness|sport,diversion|recreation|wit|humor|humour|witticism|wittiness|activity|frivolity|frivolousness
+21,irrelevant,JJ,NA,irrelev,irrelevant,
+21,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+21,capital-,NN,NA,capital-,,NA
+21,f,NNP,NA,f,atomic number 9|degree Fahrenheit|f|F|farad|fluorine,degree|chemical element|element|gas|halogen|capacitance unit|letter|letter of the alphabet|alphabetic character
+21,feminism,NNP,NA,femin,feminism|feminist movement|women's lib|women's liberation movement,doctrine|philosophy|philosophical system|school of thought|ism|campaign|cause|crusade|drive|movement|effort
+21,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+21,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+21,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+22,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+22,give,VBN,en,give,afford|apply|break|cave in|chip in|collapse|commit|consecrate|contribute|dedicate|devote|ease up|establish|fall in|feed|founder|generate|gift|give|give way|grant|hand|have|hold|impart|kick in|leave|make|move over|open|pass|pass on|pay|present|reach|render|return|sacrifice|throw|turn over|yield,supply|provide|render|furnish|transfer|state|say|tell|communicate|intercommunicate|direct|make|create|think|cogitate|cerebrate|produce|pass|hand|reach|pass on|turn over|give|utter|emit|let out|let loose|release|relinquish|resign|free|give up|use|utilize|utilise|apply|employ|administer|dispense|distribute|mete out|deal|parcel out|lot|shell out|deal out|dish out|allot|dole out|move|ply|cater|change|estimate|gauge|approximate|guess|judge|execute|compensate|recompense|repair|indemnify|show|perform|stretch|toast|drink|pledge|salute|wassail|accord|grant|express|evince|submit|lead|permit|allow|let|countenance|inflict|bring down|visit|impose|happen|hap|go on|pass off|occur|fall out|come about|take place|accept|consent|go for|offer|proffer
+22,tacit,JJ,NA,tacit,silent|tacit|understood,
+22,thumb,NNS,s,thumb,ovolo|pollex|quarter round|thumb,finger|covering|molding|moulding
+22,president,NN,NA,presid,chair|chairman|chairperson|chairwoman|Chief Executive|president|President|President of the United States|prexy|United States President,corporate executive|business executive|head of state|chief of state|presiding officer|academic administrator|presidency|presidentship
+22,sexual,JJ,NA,sexual,intimate|sexual,
+22,harassment,NN,NA,harass,harassment|molestation|torment,annoyance|chafe|vexation|mistreatment
+22,intern,NN,NA,intern,houseman|intern|interne|medical intern,doctor|doc|physician|MD|Dr.|medico
+22,issue,NN,NA,issu,consequence|effect|egress|emergence|event|exit|government issue|issuance|issue|issuing|matter|military issue|number|offspring|outcome|outlet|payoff|proceeds|progeny|publication|result|return|subject|take|takings|topic|upshot|way out|yield,content|cognitive content|mental object|periodical|provision|supply|supplying|store|stock|fund|income|phenomenon|relative|relation|beginning|opening|printing
+22,even,RB,NA,even,even|still|yet,NA
+22,three,CD,NA,three,NA,NA
+22,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+22,ago,RB,NA,ago,ago,NA
+22,have,VB,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+22,provoke,VBN,ed,provok,arouse|beset|call forth|chevvy|chevy|chivvy|chivy|elicit|enkindle|evoke|fire|harass|harry|hassle|kick up|kindle|molest|plague|provoke|raise|stimulate,make|create|cause|do|challenge|annoy|rag|get to|bother|get at|irritate|rile|nark|nettle|gravel|vex|chafe|devil
+22,mau-mauing,JJ,NA,mau-mau,,NA
+22,highest,JJS,NA,highest,,NA
+22,order,NN,NA,order,club|decree|edict|fiat|gild|guild|Holy Order|lodge|monastic order|order|Order|order of magnitude|ordering|orderliness|ordination|parliamentary law|parliamentary procedure|purchase order|rescript|rules of order|social club|society,command|bid|bidding|dictation|magnitude|state|arrangement|condition|status|act|enactment|commercial document|commercial instrument|association|rule|prescript|position|sect|religious sect|religious order|taxonomic group|taxonomic category|taxon|request|asking|artistic style|idiom|organization|organisation
+23,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+23,come,VBN,NA,come,add up|amount|arrive|come|come in|come up|derive|descend|do|fall|fare|follow|get|get along|hail|issue forth|make out|number|occur|total,NA
+23,long,JJ,NA,long,farseeing|farsighted|foresighted|foresightful|long|longsighted|prospicient|recollective|retentive|tenacious,
+23,way,NN,NA,wai,agency|direction|elbow room|fashion|manner|means|mode|path|room|style|way|way of life,property|implementation|effectuation|path|route|itinerary|condition|status|course|course of action|artifact|artefact|journey|journeying|position|spatial relation|distance|choice|pick|selection|category|share|portion|part|percentage
+23,clarence,NNP,NA,clarenc,clarence,carriage|equipage|rig
+23,thoma,NNP,s,thoma,,NA
+24,indeed,RB,NA,inde,indeed|so,NA
+24,feminism,NN,NA,femin,feminism|feminist movement|women's lib|women's liberation movement,doctrine|philosophy|philosophical system|school of thought|ism|campaign|cause|crusade|drive|movement|effort
+24,feel,VBZ,s,feel,experience|feel|find|finger|palpate|sense,reason|reason out|conclude|perceive|comprehend|be|think|believe|consider|conceive|experience|see|go through|look|appear|seem|search|seek|look for|touch|find|regain
+24,dead,JJ,NA,dead,all in(p)|beat(p)|bushed(p)|dead|dead(a)|dead(p)|deadened|drained|idle|numb(p)|stagnant,
+24,letter,NN,NA,letter,alphabetic character|letter|letter of the alphabet|missive|varsity letter,text|textual matter|document|character|graph|grapheme|graphic symbol|owner|proprietor|literal interpretation|award|accolade|honor|honour|laurels
+24,magazine,NNS,s,magazin,cartridge|cartridge clip|cartridge holder|clip|mag|magazine|magazine publisher|powder magazine|powder store,press|public press|publication|product|production|publisher|publishing house|publishing firm|publishing company|supply chamber|storehouse|depot|entrepot|storage|store
+24,culture,NN,NA,cultur,acculturation|civilisation|civilization|cultivation|culture|finish|polish|refinement,society|taste|appreciation|discernment|perceptiveness|content|cognitive content|mental object|growth|growing|maturation|development|ontogeny|ontogenesis|perfection|flawlessness|ne plus ultra|attitude|mental attitude|cultivation
+24,large,JJ,NA,larg,big|big(p)|bombastic|declamatory|enceinte|expectant|gravid|great(p)|heavy(p)|large|large(p)|magnanimous|orotund|prominent|tumid|turgid|with child(p),

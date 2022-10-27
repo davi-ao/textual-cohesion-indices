@@ -8,29 +8,6 @@
             <annotationSet name="xces" type="http://www.xces.org/schema/2003"/>
         </annotationSets>
     </header>
-    <region xml:id="penn-r0" anchors="38 45"/>
-    <node xml:id="penn-n0">
-        <link targets="penn-r0"/>
-    </node>
-    <a label="tok" ref="penn-n0" as="xces">
-        <fs>
-            <f name="base" value="picture"/>
-            <f name="length" value="7"/>
-            <f name="msd" value="NNP"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r1" anchors="46 50"/>
-    <node xml:id="penn-n1">
-        <link targets="penn-r1"/>
-    </node>
-    <a label="tok" ref="penn-n1" as="xces">
-        <fs>
-            <f name="msd" value="DT"/>
-            <f name="length" value="4"/>
-            <f name="affix" value=" "/>
-            <f name="base" value="this"/>
-        </fs>
-    </a>
     <region xml:id="penn-r2" anchors="64 68"/>
     <node xml:id="penn-n2">
         <link targets="penn-r2"/>

@@ -1,0 +1,158 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,summer,NN,NA,summer,summer|summertime,season|time of year|time of life
+1,more,JJR,NA,more,more than|more(a),
+1,300,CD,NA,300,NA,NA
+1,child,NNS,s,child,baby|child|fry|kid|minor|nestling|nipper|shaver|small fry|tiddler|tike|tyke|youngster,juvenile|juvenile person|offspring|progeny|issue|person|individual|someone|somebody|mortal|soul|descendant|descendent
+1,age,NNS,s,ag,age|eld|geezerhood|historic period|long time|old age|years,property|era|epoch|time of life|time period|period of time|period
+1,4,CD,NA,4,NA,NA
+1,14,CD,NA,14,NA,NA
+1,attend,VB,NA,attend,advert|assist|attend|attend to|give ear|go to|hang|look|pay heed|see|serve|take care|wait on,be|care|give care|attach to|accompany|come with|go with|help|assist|aid|listen
+1,ywca,NNP,NA,ywca,,NA
+1,indianapoli,NNP,s,indianapoli,,NA
+1,everyone,NN,NA,everyon,,NA
+1,belong,VBZ,s,belong,belong|belong to|go,be
+1,summer,NNPS,NA,summer,summer|summertime,season|time of year|time of life
+1,day,NNP,NA,dai,24-hour interval|Clarence Day|Clarence Shepard Day Jr.|day|Day|daylight|daytime|mean solar day|sidereal day|solar day|twenty-four hour period|twenty-four hours,time unit|unit of time|time|calendar day|civil day|time period|period of time|period|work time|era|epoch|sidereal time|opportunity|chance
+1,camp,NNP,NA,camp,bivouac|camp|cantonment|clique|coterie|encampment|ingroup|inner circle|pack|refugee camp|summer camp,military quarters|gathering|assemblage|housing|lodging|living accommodations|set|circle|band|lot|penal institution|penal facility|triteness|staleness|shelter|site|land site
+2,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+2,go,VBG,ing,go,become|belong|blend|blend in|break|break down|buy the farm|cash in one's chips|choke|conk|conk out|croak|decease|depart|die|drop dead|endure|exit|expire|extend|fail|fit|function|get|get going|give out|give way|give-up the ghost|go|go away|go bad|hold out|hold up|kick the bucket|last|lead|live|live on|locomote|move|operate|pass|pass away|perish|plump|pop off|proceed|rifle|run|run low|run short|snuff it|sound|start|survive|travel|work,NA
+2,have,VB,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+2,fun,NN,NA,fun,fun|merriment|play|playfulness|sport,diversion|recreation|wit|humor|humour|witticism|wittiness|activity|frivolity|frivolousness
+3,camp,NN,NA,camp,bivouac|camp|cantonment|clique|coterie|encampment|ingroup|inner circle|pack|refugee camp|summer camp,military quarters|gathering|assemblage|housing|lodging|living accommodations|set|circle|band|lot|penal institution|penal facility|triteness|staleness|shelter|site|land site
+3,staff,NN,NA,staff,faculty|staff|stave,force|personnel|stick|body|building material|symbol|musical notation
+3,work,VBD,ed,work,act|act upon|bring|crop|cultivate|do work|exercise|exploit|ferment|figure out|forge|form|function|go|influence|knead|lick|make|make for|mold|mould|operate|play|process|put to work|puzzle out|run|shape|solve|sour|turn|work|work on|work out|wreak,succeed|win|come through|bring home the bacon|deliver the goods|transform|transmute|transubstantiate|work|put to work|pass|go|proceed|move|displace|make|create|use|utilize|utilise|apply|employ|fix|prepare|set up|ready|gear up|set|be|affect|impact|bear upon|bear on|touch on|touch|operate|run|manage|deal|care|handle|stimulate|excite|stir|capture|enamour|trance|catch|becharm|enamor|captivate|beguile|charm|fascinate|bewitch|entrance|enchant|create from raw material|create from raw stuff|manipulate|understand|convert|change state|turn|become|get
+3,winter,NN,NA,winter,winter|wintertime,season|time of year
+3,long,JJ,NA,long,farseeing|farsighted|foresighted|foresightful|long|longsighted|prospicient|recollective|retentive|tenacious,
+3,plan,VBG,ing,plan,be after|contrive|design|plan|project,intend|mean|think|cogitate|cerebrate|create by mental act|create mentally
+3,great,JJ,NA,great,bang-up|big(p)|bully|capital|corking|cracking|dandy|enceinte|expectant|gravid|great|great(p)|groovy|heavy(p)|keen|large(p)|majuscule|neat|nifty|not bad(p)|old(a)|outstanding|peachy|slap-up|smashing|swell|with child(p),
+3,activity,NNS,s,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+3,keep,VB,NA,keep,celebrate|continue|go along|go on|hold|hold back|hold on|hold open|keep|keep back|keep on|keep open|maintain|observe|preserve|prevent|proceed|restrain|retain|save|stay fresh|sustain,act|move|have|have got|hold|record|enter|put down|lodge|accommodate|prolong|sustain|keep up|stay|remain|rest|protect|grow|raise|farm|produce|reserve|book|store|confine|detain|cook|fix|ready|make|prepare
+3,everyone,NN,NA,everyon,,NA
+3,safe,JJ,NA,safe,dependable|good|safe|safe(p)|secure,
+3,active,JJ,NA,activ,active|alive(p)|combat-ready|dynamic|fighting(a)|participating,
+3,summer,NN,NA,summer,summer|summertime,season|time of year|time of life
+4,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+4,swim,VBG,ing,swim,drown|float|swim,travel|go|move|locomote|be
+4,planning,NN,NA,plan,planning|preparation|provision,preparation|readying|design|designing|thinking|thought|thought process|cerebration|intellection|mentation
+4,sport,NNS,s,sport,athletics|fun|mutant|mutation|play|sport|sportsman|sportswoman|summercater|variation,diversion|recreation|occupation|business|job|line of work|line|vacationer|vacationist|person|individual|someone|somebody|mortal|soul|athlete|jock|organism|being|wit|humor|humour|witticism|wittiness
+4,go,VBG,ing,go,become|belong|blend|blend in|break|break down|buy the farm|cash in one's chips|choke|conk|conk out|croak|decease|depart|die|drop dead|endure|exit|expire|extend|fail|fit|function|get|get going|give out|give way|give-up the ghost|go|go away|go bad|hold out|hold up|kick the bucket|last|lead|live|live on|locomote|move|operate|pass|pass away|perish|plump|pop off|proceed|rifle|run|run low|run short|snuff it|sound|start|survive|travel|work,NA
+4,exciting,JJ,NA,excit,exciting,
+4,field,NN,NA,field,airfield|area|arena|athletic field|bailiwick|battlefield|battleground|champaign|discipline|domain|field|field of battle|field of force|field of honor|field of operation|field of operations|field of study|field of view|flying field|force field|landing field|line of business|orbit|plain|playing area|playing field|sphere|study|subject|subject area|subject field|theater|theater of operations|theatre|theatre of operations,tract|piece of land|piece of ground|parcel of land|parcel|region|knowledge domain|knowledge base|domain|physical phenomenon|commercial enterprise|business enterprise|business|environment|land|dry land|earth|ground|solid ground|terra firma|set|geographical area|geographic area|geographical region|geographic region|visual percept|visual image|facility|installation
+4,trip,NNS,s,trip,head trip|misstep|slip|stumble|trip|trip-up|tripper,journey|journeying|hallucination|mishap|misadventure|mischance|experience|catch|stop|step|blunder|blooper|bloomer|bungle|pratfall|foul-up|fuckup|flub|botch|boner|boo-boo
+4,help,VBG,ing,help,aid|assist|avail|facilitate|help|help oneself|serve,support|back up|better|improve|amend|ameliorate|meliorate|serve|refrain|forbear|provide|supply|ply|cater|promote|advance|boost|further|encourage|exploit|work
+4,other,NNS,s,other,,NA
+4,community,NN,NA,commun,biotic community|community|community of interests|residential area|residential district,gathering|assemblage|people|ownership|world organization|world organisation|international organization|international organisation|global organization|agreement|accord|district|territory|territorial dominion|dominion|group|grouping
+4,service,NN,NA,servic,armed service|avail|divine service|help|inspection and repair|military service|overhaul|religious service|Robert William Service|serve|service|Service|service of process|servicing|serving|table service,work|aid|assist|assistance|help|religious ceremony|religious ritual|company|employment|force|personnel|helpfulness|tableware|coupling|mating|pairing|conjugation|union|sexual union|activity|tennis stroke|tennis shot|delivery|bringing|care|maintenance|upkeep|accommodation
+4,project,NNS,s,project,labor|project|projection|task|undertaking,work|plan|program|programme
+4,plan,VBG,ing,plan,be after|contrive|design|plan|project,intend|mean|think|cogitate|cerebrate|create by mental act|create mentally
+4,own,JJ,NA,own,ain|own(a),
+4,camp,NN,NA,camp,bivouac|camp|cantonment|clique|coterie|encampment|ingroup|inner circle|pack|refugee camp|summer camp,military quarters|gathering|assemblage|housing|lodging|living accommodations|set|circle|band|lot|penal institution|penal facility|triteness|staleness|shelter|site|land site
+4,carnival,NN,NA,carniv,carnival|circus|fair|funfair,festival|fete|disturbance|show
+4,join,VBG,ing,join,conjoin|connect|fall in|get together|join|link|link up|unite,NA
+4,great,JJ,NA,great,bang-up|big(p)|bully|capital|corking|cracking|dandy|enceinte|expectant|gravid|great|great(p)|groovy|heavy(p)|keen|large(p)|majuscule|neat|nifty|not bad(p)|old(a)|outstanding|peachy|slap-up|smashing|swell|with child(p),
+4,club,NNS,s,club,ball club|baseball club|cabaret|club|clubhouse|gild|golf club|golf-club|golfclub|guild|lodge|night club|nightclub|nightspot|nine|order|social club|society,baseball team|association|stick|building|edifice|golf equipment|playing card|spot
+4,jewelry,NN,NA,jewelri,jewellery|jewelry,adornment
+4,making,NN,NA,make,devising|fashioning|making|qualification,production|fitness|fittingness|component|constituent|element
+4,juggling,NN,NA,juggl,juggle|juggling,rearrangement|performance
+4,snack,NN,NA,snack,bite|collation|snack,meal|repast
+4,cooking,NN,NA,cook,cookery|cooking|preparation,change of state
+4,nature,NN,NA,natur,nature,quality|causal agent|cause|causal agency|universe|existence|creation|world|cosmos|macrocosm|trait|type
+4,craft,NNS,s,craft,craft|craftiness|craftsmanship|cunning|foxiness|guile|slyness|trade|wiliness|workmanship,occupation|business|job|line of work|line|vehicle|class|stratum|social class|socio-economic class|skill|accomplishment|acquirement|acquisition|attainment|shrewdness|astuteness|perspicacity|perspicaciousness
+5,imagine,VB,NA,imagin,conceive of|envisage|guess|ideate|imagine|opine|reckon|suppose|think,create by mental act|create mentally|expect|anticipate
+5,summer,NN,NA,summer,summer|summertime,season|time of year|time of life
+5,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+5,expensive,JJ,NA,expens,expensive,
+5,provide,VB,NA,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+6,more,JJR,NA,more,more than|more(a),
+6,30,CD,NA,30,NA,NA
+6,%,NN,NA,%,,NA
+6,kid,NNS,s,kid,child|fry|kid|Kid|kidskin|Kyd|minor|nestling|nipper|shaver|small fry|Thomas Kid|Thomas Kyd|tiddler|tike|tyke|youngster,juvenile|juvenile person|leather|offspring|progeny|issue|goat|caprine animal
+6,serve,VBP,NA,serv,answer|assist|attend|attend to|dish|dish out|dish up|do|function|help|process|serve|serve up|serve well|service|suffice|swear out|wait on,suffice|do|answer|serve|work|do work|effect|effectuate|set up|function|operate|go|run|provide|supply|ply|cater|foster|nurture|spend|pass|help|assist|aid|deliver|satisfy|fulfill|fulfil|live up to|copulate|mate|pair|couple|move
+6,cannot,NN,NA,cannot,,NA
+6,afford,VBP,NA,afford,afford|give|open|yield,spend|expend|drop|supply|provide|render|furnish
+6,camp,NN,NA,camp,bivouac|camp|cantonment|clique|coterie|encampment|ingroup|inner circle|pack|refugee camp|summer camp,military quarters|gathering|assemblage|housing|lodging|living accommodations|set|circle|band|lot|penal institution|penal facility|triteness|staleness|shelter|site|land site
+6,fee,NN,NA,fee,fee,fixed charge|fixed cost|fixed costs|interest|stake
+7,wo,NNP,NA,wo,,NA
+7,n't,RB,NA,n't,,NA
+7,help,VBP,NA,help,aid|assist|avail|facilitate|help|help oneself|serve,support|back up|better|improve|amend|ameliorate|meliorate|serve|refrain|forbear|provide|supply|ply|cater|promote|advance|boost|further|encourage|exploit|work
+7,wyca,NNP,NA,wyca,,NA
+7,provide,VB,NA,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+7,great,JJ,NA,great,bang-up|big(p)|bully|capital|corking|cracking|dandy|enceinte|expectant|gravid|great|great(p)|groovy|heavy(p)|keen|large(p)|majuscule|neat|nifty|not bad(p)|old(a)|outstanding|peachy|slap-up|smashing|swell|with child(p),
+7,summer,NN,NA,summer,summer|summertime,season|time of year|time of life
+7,kid,NNS,s,kid,child|fry|kid|Kid|kidskin|Kyd|minor|nestling|nipper|shaver|small fry|Thomas Kid|Thomas Kyd|tiddler|tike|tyke|youngster,juvenile|juvenile person|leather|offspring|progeny|issue|goat|caprine animal
+8,please,VB,NA,pleas,delight|please,satisfy|gratify|wish|care|like
+8,contribute,VB,NA,contribut,add|bestow|bring|chip in|conduce|contribute|give|impart|kick in|lead|lend|put up,change|alter|modify|give|promote|advance|boost|further|encourage|pay
+8,campership,NN,NA,campership,,NA
+8,fund,NN,NA,fund,fund|investment company|investment firm|investment trust|monetary fund|stock|store,money|accumulation|nondepository financial institution
+8,today,NN,NA,todai,today,present|nowadays|day|twenty-four hours|twenty-four hour period|24-hour interval|solar day|mean solar day
+9,provide,VB,NA,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+9,indianapoli,NNP,s,indianapoli,,NA
+9,child,NN,NA,child,baby|child|fry|kid|minor|nestling|nipper|shaver|small fry|tiddler|tike|tyke|youngster,juvenile|juvenile person|offspring|progeny|issue|person|individual|someone|somebody|mortal|soul|descendant|descendent
+9,summer,NN,NA,summer,summer|summertime,season|time of year|time of life
+9,full,JJ,NA,full,broad(a)|entire|full|full(a)|good|replete(p)|total|wide|wide-cut,
+9,fun,NN,NA,fun,fun|merriment|play|playfulness|sport,diversion|recreation|wit|humor|humour|witticism|wittiness|activity|frivolity|frivolousness
+10,100,CD,NA,100,NA,NA
+10,%,NN,NA,%,,NA
+10,campership,NN,NA,campership,,NA
+10,contribution,NNS,s,contribut,contribution|donation|part|share,attempt|effort|endeavor|endeavour|try|gift|giving|sum|sum of money|amount|amount of money|publication|publishing
+10,directly,RB,NA,directli,at once|direct|directly|flat|forthwith|immediately|instantly|like a shot|now|right away|straight|straight off|straightaway,
+10,support,VBP,NA,support,abide|affirm|back|back up|bear|bear out|brook|confirm|corroborate|defend|digest|endorse|endure|fend for|hold|hold up|indorse|keep going|patronage|patronise|patronize|plump for|plunk for|put up|stand|stick out|stomach|subscribe|substantiate|suffer|support|sustain|tolerate|underpin,give|approve|O.K.|okay|sanction|agree|hold|concur|concord|match|fit|correspond|check|jibe|gibe|tally|argue|reason|act|play|represent|foster|nurture|permit|allow|let|countenance
+10,camp,NN,NA,camp,bivouac|camp|cantonment|clique|coterie|encampment|ingroup|inner circle|pack|refugee camp|summer camp,military quarters|gathering|assemblage|housing|lodging|living accommodations|set|circle|band|lot|penal institution|penal facility|triteness|staleness|shelter|site|land site
+10,scholarship,NNS,s,scholarship,encyclopaedism|encyclopedism|eruditeness|erudition|learnedness|learning|scholarship,aid|economic aid|financial aid|assistance|financial assistance|economic assistance|prize|award|education
+11,give,VBG,ing,give,afford|apply|break|cave in|chip in|collapse|commit|consecrate|contribute|dedicate|devote|ease up|establish|fall in|feed|founder|generate|gift|give|give way|grant|hand|have|hold|impart|kick in|leave|make|move over|open|pass|pass on|pay|present|reach|render|return|sacrifice|throw|turn over|yield,supply|provide|render|furnish|transfer|state|say|tell|communicate|intercommunicate|direct|make|create|think|cogitate|cerebrate|produce|pass|hand|reach|pass on|turn over|give|utter|emit|let out|let loose|release|relinquish|resign|free|give up|use|utilize|utilise|apply|employ|administer|dispense|distribute|mete out|deal|parcel out|lot|shell out|deal out|dish out|allot|dole out|move|ply|cater|change|estimate|gauge|approximate|guess|judge|execute|compensate|recompense|repair|indemnify|show|perform|stretch|toast|drink|pledge|salute|wassail|accord|grant|express|evince|submit|lead|permit|allow|let|countenance|inflict|bring down|visit|impose|happen|hap|go on|pass off|occur|fall out|come about|take place|accept|consent|go for|offer|proffer
+11,level,NNS,s,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+12,50,CD,NA,50,NA,NA
+12,club,NN,NA,club,ball club|baseball club|cabaret|club|clubhouse|gild|golf club|golf-club|golfclub|guild|lodge|night club|nightclub|nightspot|nine|order|social club|society,baseball team|association|stick|building|edifice|golf equipment|playing card|spot
+12,sponsor,NN,NA,sponsor,patron|presenter|sponsor|supporter,benefactor|helper|advocate|advocator|proponent|exponent
+12,provide,VBZ,s,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+12,supplies,NNS,NA,suppli,,NA
+12,need,VBN,ed,need,ask|call for|demand|involve|necessitate|need|postulate|require|take|want,NA
+12,one,CD,NA,on,NA,NA
+12,club,NN,NA,club,ball club|baseball club|cabaret|club|clubhouse|gild|golf club|golf-club|golfclub|guild|lodge|night club|nightclub|nightspot|nine|order|social club|society,baseball team|association|stick|building|edifice|golf equipment|playing card|spot
+12,100,CD,NA,100,NA,NA
+12,camper,NN,NA,camper,camper|camping bus|motor home,vacationer|vacationist|recreational vehicle|RV|R.V.
+12,sponsor,NN,NA,sponsor,patron|presenter|sponsor|supporter,benefactor|helper|advocate|advocator|proponent|exponent
+12,provide,VBZ,s,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+12,one,CD,NA,on,NA,NA
+12,child,NN,NA,child,baby|child|fry|kid|minor|nestling|nipper|shaver|small fry|tiddler|tike|tyke|youngster,juvenile|juvenile person|offspring|progeny|issue|person|individual|someone|somebody|mortal|soul|descendant|descendent
+12,whole,JJ,NA,whole,hale|solid|unanimous|unharmed|unhurt|unscathed|whole,
+12,week,NN,NA,week,calendar week|hebdomad|week|workweek,time period|period of time|period|work time
+12,fun,NN,NA,fun,fun|merriment|play|playfulness|sport,diversion|recreation|wit|humor|humour|witticism|wittiness|activity|frivolity|frivolousness
+12,camp,NN,NA,camp,bivouac|camp|cantonment|clique|coterie|encampment|ingroup|inner circle|pack|refugee camp|summer camp,military quarters|gathering|assemblage|housing|lodging|living accommodations|set|circle|band|lot|penal institution|penal facility|triteness|staleness|shelter|site|land site
+13,500,CD,NA,500,NA,NA
+13,summer,NN,NA,summer,summer|summertime,season|time of year|time of life
+13,sponsor,NN,NA,sponsor,patron|presenter|sponsor|supporter,benefactor|helper|advocate|advocator|proponent|exponent
+13,pay,VBZ,s,pai,ante up|bear|compensate|devote|give|make up|pay|pay off|pay up|yield,give|communicate|intercommunicate|pay|gain|take in|clear|make|earn|realize|realise|pull in|bring in|settle|think|cogitate|cerebrate|be|digest|endure|stick out|stomach|bear|stand|tolerate|support|brook|abide|suffer|put up|requite|repay
+13,visit,NN,NA,visit,sojourn|visit,meeting|coming together|congress|get together|stay
+13,professional,JJ,NA,profession,professional,
+13,artist,NN,NA,artist,artist|creative person,creator
+13,magician,NN,NA,magician,conjurer|conjuror|illusionist|magician|necromancer|prestidigitator|sorcerer|thaumaturge|thaumaturgist|wizard,performer|performing artist|occultist
+13,zookeeper,NN,NA,zookeep,,NA
+14,1000,CD,NA,1000,NA,NA
+14,summer,NN,NA,summer,summer|summertime,season|time of year|time of life
+14,sponsor,NN,NA,sponsor,patron|presenter|sponsor|supporter,benefactor|helper|advocate|advocator|proponent|exponent
+14,provide,VBZ,s,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+14,one,CD,NA,on,NA,NA
+14,child,NN,NA,child,baby|child|fry|kid|minor|nestling|nipper|shaver|small fry|tiddler|tike|tyke|youngster,juvenile|juvenile person|offspring|progeny|issue|person|individual|someone|somebody|mortal|soul|descendant|descendent
+14,whole,JJ,NA,whole,hale|solid|unanimous|unharmed|unhurt|unscathed|whole,
+14,summer,NN,NA,summer,summer|summertime,season|time of year|time of life
+14,camp,NN,NA,camp,bivouac|camp|cantonment|clique|coterie|encampment|ingroup|inner circle|pack|refugee camp|summer camp,military quarters|gathering|assemblage|housing|lodging|living accommodations|set|circle|band|lot|penal institution|penal facility|triteness|staleness|shelter|site|land site
+14,2500,CD,NA,2500,NA,NA
+14,field,NN,NA,field,airfield|area|arena|athletic field|bailiwick|battlefield|battleground|champaign|discipline|domain|field|field of battle|field of force|field of honor|field of operation|field of operations|field of study|field of view|flying field|force field|landing field|line of business|orbit|plain|playing area|playing field|sphere|study|subject|subject area|subject field|theater|theater of operations|theatre|theatre of operations,tract|piece of land|piece of ground|parcel of land|parcel|region|knowledge domain|knowledge base|domain|physical phenomenon|commercial enterprise|business enterprise|business|environment|land|dry land|earth|ground|solid ground|terra firma|set|geographical area|geographic area|geographical region|geographic region|visual percept|visual image|facility|installation
+14,trip,NN,NA,trip,head trip|misstep|slip|stumble|trip|trip-up|tripper,journey|journeying|hallucination|mishap|misadventure|mischance|experience|catch|stop|step|blunder|blooper|bloomer|bungle|pratfall|foul-up|fuckup|flub|botch|boner|boo-boo
+14,sponsor,NN,NA,sponsor,patron|presenter|sponsor|supporter,benefactor|helper|advocate|advocator|proponent|exponent
+14,send,VBZ,s,send,air|beam|broadcast|charge|commit|direct|get off|institutionalise|institutionalize|mail|place|post|send|send off|send out|ship|station|transmit|transport,move|displace|transmit|transfer|transport|channel|channelize|channelise|publicize|publicise|air|bare
+14,whole,JJ,NA,whole,hale|solid|unanimous|unharmed|unhurt|unscathed|whole,
+14,crew,NN,NA,crew,bunch|crew|crowd|gang|work party,unit|social unit|unit|social unit|gathering|assemblage|team|squad
+14,educational,JJ,NA,educ,educational,
+14,field,NN,NA,field,airfield|area|arena|athletic field|bailiwick|battlefield|battleground|champaign|discipline|domain|field|field of battle|field of force|field of honor|field of operation|field of operations|field of study|field of view|flying field|force field|landing field|line of business|orbit|plain|playing area|playing field|sphere|study|subject|subject area|subject field|theater|theater of operations|theatre|theatre of operations,tract|piece of land|piece of ground|parcel of land|parcel|region|knowledge domain|knowledge base|domain|physical phenomenon|commercial enterprise|business enterprise|business|environment|land|dry land|earth|ground|solid ground|terra firma|set|geographical area|geographic area|geographical region|geographic region|visual percept|visual image|facility|installation
+14,trip,NN,NA,trip,head trip|misstep|slip|stumble|trip|trip-up|tripper,journey|journeying|hallucination|mishap|misadventure|mischance|experience|catch|stop|step|blunder|blooper|bloomer|bungle|pratfall|foul-up|fuckup|flub|botch|boner|boo-boo
+15,response,NN,NA,respons,answer|reaction|reception|reply|response,consequence|effect|outcome|result|event|issue|upshot|bodily process|body process|bodily function|activity|statement|greeting|salutation|phrase|speech act|manner|mode|style|way|fashion
+15,card,NN,NA,card,add-in|batting order|bill|bill of fare|board|calling card|card|carte|carte du jour|circuit board|circuit card|identity card|lineup|menu|notice|placard|plug-in|poster|posting|scorecard|visiting card|wag|wit,paper|positive identification|correspondence|cardboard|composition board|humorist|humourist|sign|greeting|salutation|record|record book|book|bill|roll|roster|printed circuit
+15,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+15,enclose,VBN,ed,enclos,close in|confine|enclose|enfold|envelop|enwrap|hold in|inclose|insert|introduce|put in|shut in|stick in|wrap,cover|hold|bear|carry|contain|surround|environ|ring|skirt|border|put|set|place|pose|position|lay
+15,convenience,NN,NA,conveni,appliance|comfort station|contraption|contrivance|convenience|gadget|gismo|gizmo|public convenience|public lavatory|public toilet|restroom|toilet facility|wash room|widget,comfort|comfortableness|suitability|suitableness|toilet|lavatory|lav|can|john|privy|bathroom|facility|device
+16,contribution,NN,NA,contribut,contribution|donation|part|share,attempt|effort|endeavor|endeavour|try|gift|giving|sum|sum of money|amount|amount of money|publication|publishing
+16,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+16,tax,NN,NA,tax,revenue enhancement|tax|taxation,levy
+16,deductible,JJ,NA,deduct,deductible,

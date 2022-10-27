@@ -465,16 +465,6 @@
             <f name="msd" value="NNP"/>
         </fs>
     </a>
-    <region xml:id="penn-r66" anchors="391 392"/>
-    <node xml:id="penn-n66">
-        <link targets="penn-r66"/>
-    </node>
-    <a label="tok" ref="penn-n66" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
-        </fs>
-    </a>
     <region xml:id="penn-r67" anchors="393 396"/>
     <node xml:id="penn-n67">
         <link targets="penn-r67"/>

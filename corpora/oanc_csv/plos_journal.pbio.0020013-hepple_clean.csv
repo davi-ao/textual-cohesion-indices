@@ -1,0 +1,1069 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,eukaryotic,JJ,NA,eukaryot,eucaryotic|eukaryotic,
+1,cell,NNS,s,cell,cadre|cell|cellphone|cellular phone|cellular telephone|cubicle|electric cell|jail cell|mobile phone|prison cell,compartment|living thing|animate thing|electrical device|political unit|political entity|radiotelephone|radiophone|wireless telephone|room
+1,there,RB,NA,there,there|thither,NA
+1,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+1,massive,JJ,NA,massiv,massive|monolithic|monumental,
+1,protein,NN,NA,protein,protein,macromolecule|supermolecule
+1,complex,JJ,NA,complex,complex|complicated,
+1,call,VBD,ed,call,address|anticipate|be known as|bid|call|call in|call off|call up|cry|forebode|foretell|holler|hollo|know as|name|phone|predict|prognosticate|promise|ring|scream|send for|shout|shout out|squall|telephone|visit|yell,label|telecommunicate|utter|emit|let out|let loose|order|tell|enjoin|say|meet|get together|request|ask for|bespeak|call for|quest|read|postpone|prorogue|hold over|put over|table|shelve|set back|defer|remit|put off|address|turn to|stop|stop over|demand|exact|play|indicate|guess|venture|pretend|hazard|ask|require|expect|challenge|dispute|gainsay|declare|adjudge|hold|entice|lure|tempt|see|consider|reckon|view|regard|awaken|wake|waken|rouse|wake up|arouse
+1,proteasome,NN,NA,proteasom,,NA
+1,raison,FW,NA,raison,NA,NA
+1,être,NN,NA,être,,NA
+1,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+1,remove,VB,NA,remov,absent|bump off|dispatch|get rid of|hit|move out|murder|off|polish off|remove|slay|take|take away|take out|transfer|withdraw,transfer|shift|disappear|vanish|go away|kill
+1,unnecessary,JJ,NA,unnecessari,unnecessary|unneeded,
+1,protein,NNS,s,protein,protein,macromolecule|supermolecule
+1,break,VBG,ing,break,bankrupt|better|breach|break|break away|break dance|break down|break in|break off|break out|break up|break-dance|bring out|bump|burst|bust|cave in|check|collapse|come apart|conk out|crack|damp|dampen|demote|develop|die|disclose|discontinue|discover|divulge|erupt|expose|fail|fall apart|fall in|founder|fracture|get around|get out|give|give away|give out|give way|go|go against|go bad|infract|intermit|interrupt|kick downstairs|let on|let out|offend|part|pause|recrudesce|relegate|reveal|ruin|separate|smash|snap off|soften|split|split up|stop|transgress|uncover|unwrap|violate|weaken|wear|wear out,end|terminate|change integrity|damage|destroy|ruin|separate|divide|disrespect|escape|get away|break loose|disperse|dissipate|scatter|spread out|express emotion|express feelings|trespass|intrude|domesticate|domesticize|domesticise|reclaim|tame|surpass|outstrip|outmatch|outgo|exceed|outdo|surmount|outperform|tell|become|go|get|change|part|split up|split|break|break up|flee|fly|take flight|collapse|fall in|cave in|give|give way|founder|deaden|blunt|stop|finish|cease|alter|vary|discontinue|give up|quit|lay off|come forth|emerge|happen|hap|go on|pass off|occur|pass|fall out|come about|take place|invalidate|annul|quash|void|avoid|nullify|delegate|designate|depute|assign|impoverish|switch|shift|appear|dance|trip the light fantastic|trip the light fantastic toe|exchange|commute|convert|modify|shoot|disunite|decay|crumble|dilapidate|detach|penetrate|perforate|interrupt|disrupt|cut off|diphthongize|diphthongise|solve|work out|figure out|puzzle out|lick|work|change state|turn|decrease|diminish|lessen|fall|injure|wound|weaken
+1,down,RB,NA,down,down|downward|downwardly|downwards,NA
+1,short,JJ,NA,short,brusk|brusque|curt|forgetful|inadequate|jejune|light|little|myopic|poor|scant(p)|short|short(p)|shortsighted|unforesightful|unretentive,
+1,peptide,NNS,s,peptid,peptide,amide
+2,proteasome,NN,NA,proteasom,,NA
+2,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+2,thus,RB,NA,thu,hence|so|thence|therefore|thus|thusly,NA
+2,responsible,JJ,NA,respons,creditworthy|responsible|responsible for(p),
+2,important,JJ,NA,import,authoritative|crucial|important|of import|significant,
+2,aspect,NN,NA,aspect,aspect|expression|face|facet|facial expression|look|panorama|prospect|scene|view|vista,feature|characteristic|visual percept|visual image|grammatical relation|countenance|visage
+2,cellular,JJ,NA,cellular,cellular,
+2,regulation,NN,NA,regul,ordinance|regularisation|regularization|regulating|regulation|rule,rule|prescript|concept|conception|construct|dominance|ascendance|ascendence|ascendancy|ascendency|control|organic process|biological process
+2,timely,JJ,NA,time,seasonable|timely|well timed(p)|well-timed(a),
+2,controll,VBN,ed,control,,NA
+2,proteolysis,NNS,NA,proteolysi,proteolysis,chemical process|chemical change|chemical action
+2,key,JJ,NA,kei,cardinal|central|fundamental|key|primal,
+2,cellular,JJ,NA,cellular,cellular,
+2,factor,NNS,s,factor,agent|broker|cistron|component|constituent|divisor|element|factor|gene|ingredient,cause|part|section|division|integer|whole number|businessperson|bourgeois|number|independent variable|experimental variable|sequence
+2,regulate,VBZ,s,regul,baffle|determine|govern|influence|modulate|mold|order|regularise|regularize|regulate|shape,adjust|set|correct|decide|make up one's mind|determine|cause|do|make|restrain|keep|keep back|hold back
+2,numerous,JJ,NA,numer,legion(p)|numerous,
+2,biological,JJ,NA,biolog,biologic|biological|natural,
+2,process,VBZ,s,process,action|litigate|march|process|serve|sue|swear out|treat|work|work on,affect|impact|bear upon|bear on|touch on|touch|manage|deal|care|handle|calculate|cipher|cypher|compute|work out|reckon|figure|challenge|walk|transform|transmute|transubstantiate|deliver
+2,such,JJ,NA,such,such(a),
+2,cell,NN,NA,cell,cadre|cell|cellphone|cellular phone|cellular telephone|cubicle|electric cell|jail cell|mobile phone|prison cell,compartment|living thing|animate thing|electrical device|political unit|political entity|radiotelephone|radiophone|wireless telephone|room
+2,cycle,NN,NA,cycl,bicycle|bike|cps|cycle|cycle per second|cycles/second|hertz|Hz|oscillation|rhythm|round|wheel,time interval|interval|series|repeat|repetition|rate|periodic event|recurrent event|wheeled vehicle
+2,differentiation,NN,NA,differenti,differentiation|distinction|specialisation|specialization,discrimination|secernment|mathematical process|mathematical operation|operation|adaptation|adaption|adjustment
+2,stress,NN,NA,stress,accent|emphasis|focus|strain|stress|tenseness|tension,prosody|inflection|strain|mental strain|nervous strain|emphasis|accent|difficulty|force
+2,response,NN,NA,respons,answer|reaction|reception|reply|response,consequence|effect|outcome|result|event|issue|upshot|bodily process|body process|bodily function|activity|statement|greeting|salutation|phrase|speech act|manner|mode|style|way|fashion
+2,neuronal,NN,NA,neuron,,NA
+2,morphogenesis,NNS,NA,morphogenesi,morphogenesis,growth|growing|maturation|development|ontogeny|ontogenesis
+2,cell,NN,NA,cell,cadre|cell|cellphone|cellular phone|cellular telephone|cubicle|electric cell|jail cell|mobile phone|prison cell,compartment|living thing|animate thing|electrical device|political unit|political entity|radiotelephone|radiophone|wireless telephone|room
+2,surface,NN,NA,surfac,aerofoil|airfoil|control surface|Earth's surface|open|surface,artifact|artefact|boundary|bound|bounds|layer|aspect|facet|public knowledge|general knowledge|device
+2,receptor,NN,NA,receptor,receptor|sense organ|sensory receptor,structure|anatomical structure|complex body part|bodily structure|body structure|organ
+2,modulation,NN,NA,modul,inflection|intonation|modulation|pitch contour|transition,passage|musical passage|transmission|prosody|inflection|manner of speaking|speech|delivery|revision|alteration
+2,secretion,NN,NA,secret,secernment|secretion,organic process|biological process|liquid body substance|bodily fluid|body fluid|humor|humour
+2,dna,NNP,NA,dna,deoxyribonucleic acid|desoxyribonucleic acid|DNA,polymer
+2,repair,NN,NA,repair,fix|fixing|fixture|hangout|haunt|mend|mending|repair|reparation|resort|stamping ground,improvement|condition|status|area|country
+2,transcriptional,NN,NA,transcript,,NA
+2,regulation,NN,NA,regul,ordinance|regularisation|regularization|regulating|regulation|rule,rule|prescript|concept|conception|construct|dominance|ascendance|ascendence|ascendancy|ascendency|control|organic process|biological process
+2,long-term,JJ,NA,long-term,long-run|long-term|semipermanent,
+2,memory,NN,NA,memori,computer memory|computer storage|memory|memory board|remembering|retention|retentiveness|retentivity|storage|store,representation|mental representation|internal representation|basic cognitive process|faculty|mental faculty|module|memory device|storage device|hardware|computer hardware|cognitive psychology
+2,circadian,NN,NA,circadian,,NA
+2,rhythm,NNS,s,rhythm,beat|calendar method|calendar method of birth control|cycle|musical rhythm|regular recurrence|rhythm|rhythm method|rhythm method of birth control|round|speech rhythm,musical time|cyclicity|periodicity|time interval|interval|prosody|inflection|template|templet|guide|natural family planning
+2,immune,JJ,NA,immun,immune|resistant,
+2,response,NN,NA,respons,answer|reaction|reception|reply|response,consequence|effect|outcome|result|event|issue|upshot|bodily process|body process|bodily function|activity|statement|greeting|salutation|phrase|speech act|manner|mode|style|way|fashion
+2,biogenesis,NNS,NA,biogenesi,biogenesis|biogeny|biosynthesis,synthesis|generation|multiplication|propagation
+2,organelle,NNS,s,organel,cell organ|cell organelle|organelle,organ
+2,glickman,NNP,NA,glickman,,NA
+2,ciechanover,NNP,NA,ciechanov,,NA
+2,2002,CD,NA,2002,NA,NA
+3,multitude,NN,NA,multitud,battalion|concourse|hoi polloi|large number|mass|masses|multitude|pack|people|plurality|the great unwashed|throng,large indefinite quantity|large indefinite amount|gathering|assemblage|group|grouping
+3,substrate,NNS,s,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+3,target,VBN,ed,target,aim|direct|place|point|target,aim|take|train|take aim|direct
+3,myriad,JJ,NA,myriad,countless|infinite|innumerable|innumerous|multitudinous|myriad|numberless|uncounted|unnumberable|unnumbered|unnumerable,
+3,process,VBZ,s,process,action|litigate|march|process|serve|sue|swear out|treat|work|work on,affect|impact|bear upon|bear on|touch on|touch|manage|deal|care|handle|calculate|cipher|cypher|compute|work out|reckon|figure|challenge|walk|transform|transmute|transubstantiate|deliver
+3,involve,VBN,ed,involv,affect|ask|call for|demand|imply|involve|necessitate|need|postulate|regard|require|take,refer|pertain|relate|concern|come to|bear on|touch|touch on|have to do with|admit|let in|include|have|feature|absorb|engross|engage|occupy|complicate|refine|rarify|elaborate
+3,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,not,RB,NA,not,non|not,NA
+3,surprising,JJ,NA,surpris,surprising,
+3,aberration,NNS,s,aberr,aberrance|aberrancy|aberration|deviance|distortion|optical aberration,abnormality|abnormalcy|mental disorder|mental disturbance|disturbance|psychological disorder|folie|optical phenomenon
+3,pathway,NN,NA,pathwai,footpath|nerve pathway|nerve tract|pathway|tract,white matter|substantia alba|path
+3,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,implicate,VBN,ed,implic,entail|implicate,involve|affect|regard|lead
+3,pathogenesis,NNS,NA,pathogenesi,pathogenesis,pathologic process|pathological process
+3,many,JJ,NA,mani,many,
+3,disease,NNS,s,diseas,disease,illness|unwellness|malady|sickness
+3,include,VBG,ing,includ,admit|include|let in,see|consider|reckon|view|regard|add|permit|allow|let|countenance
+3,cancer,NN,NA,cancer,cancer|Cancer|Cancer the Crab|Crab|genus Cancer|malignant neoplastic disease,malignant tumor|malignant neoplasm|metastatic tumor|person|individual|someone|somebody|mortal|soul|arthropod genus
+4,so,RB,NA,so,and so|hence|indeed|so|then|thence|therefore|thus|thusly,NA
+4,many,JJ,NA,mani,many,
+4,protein,NNS,s,protein,protein,macromolecule|supermolecule
+4,target,VB,NA,target,aim|direct|place|point|target,aim|take|train|take aim|direct
+4,degradation,NN,NA,degrad,abasement|abjection|debasement|degradation,change of state|humiliation
+4,activity,NN,NA,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+4,proteasome,NN,NA,proteasom,,NA
+4,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+4,subject,JJ,NA,subject,capable|dependent|open|subject,
+4,multiple,JJ,NA,multipl,multiple,
+4,level,NNS,s,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+4,regulation,NN,NA,regul,ordinance|regularisation|regularization|regulating|regulation|rule,rule|prescript|concept|conception|construct|dominance|ascendance|ascendence|ascendancy|ascendency|control|organic process|biological process
+5,overwhelming,JJ,NA,overwhelm,consuming|overpowering|overwhelming,
+5,majority,NN,NA,major,absolute majority|bulk|legal age|majority,number|figure|relative quantity|age|eld
+5,case,NNS,s,case,case|caseful|casing|causa|cause|character|compositor's case|display case|eccentric|event|example|face|font|fount|grammatical case|guinea pig|instance|lawsuit|pillow slip|pillowcase|sheath|shell|showcase|slip|subject|suit|type|typeface|typesetter's case|vitrine,happening|occurrence|occurrent|natural event|circumstance|proceeding|legal proceeding|proceedings|fact|container|person|individual|someone|somebody|mortal|soul|problem|argument|statement|containerful|grammatical category|syntactic category|state of mind|frame of mind|adult|grownup|type|covering|natural covering|cover|housing|framework|frame|receptacle|bed linen
+5,select,VBN,ed,select,choose|pick out|select|take,decide|make up one's mind|determine
+5,protein,NNS,s,protein,protein,macromolecule|supermolecule
+5,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+5,first,RB,NA,first,first|first of all|first off|firstly|foremost,NA
+5,label,VBN,ed,label,judge|label|mark|pronounce|tag,designate|denominate|attach|declare|adjudge|hold|distinguish|separate|differentiate|secern|secernate|severalize|severalise|tell|tell apart
+5,addition,NN,NA,addit,accession|add-on|addition|gain|improver|increase|plus|summation,component|constituent|element|increase|step-up|indefinite quantity|acquisition|suburb|suburbia|suburban area|arithmetic operation
+5,several,JJ,NA,sever,respective(a)|several(a)|several(p)|various(a),
+5,copy,NNS,s,copi,copy|transcript|written matter,written record|written account|representation|text|textual matter|material
+5,small,JJ,NA,small,belittled|diminished|humble|little|low|lowly|minor|minuscule|modest|pocket-size|pocket-sized|small|small-scale|small(a),
+5,protein,NN,NA,protein,protein,macromolecule|supermolecule
+5,tag,NN,NA,tag,rag|shred|tag|tag end|tatter|ticket,label|piece of cloth|piece of material|child's game|touch|touching
+5,call,VBD,ed,call,address|anticipate|be known as|bid|call|call in|call off|call up|cry|forebode|foretell|holler|hollo|know as|name|phone|predict|prognosticate|promise|ring|scream|send for|shout|shout out|squall|telephone|visit|yell,label|telecommunicate|utter|emit|let out|let loose|order|tell|enjoin|say|meet|get together|request|ask for|bespeak|call for|quest|read|postpone|prorogue|hold over|put over|table|shelve|set back|defer|remit|put off|address|turn to|stop|stop over|demand|exact|play|indicate|guess|venture|pretend|hazard|ask|require|expect|challenge|dispute|gainsay|declare|adjudge|hold|entice|lure|tempt|see|consider|reckon|view|regard|awaken|wake|waken|rouse|wake up|arouse
+5,ubiquitin,NN,NA,ubiquitin,,NA
+5,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+5,thus,RB,NA,thu,hence|so|thence|therefore|thus|thusly,NA
+5,target,VBN,ed,target,aim|direct|place|point|target,aim|take|train|take aim|direct
+5,degradation,NN,NA,degrad,abasement|abjection|debasement|degradation,change of state|humiliation
+5,proteasome,NN,NA,proteasom,,NA
+5,figure,NN,NA,figur,anatomy|bod|build|chassis|design|digit|fig|figure|figure of speech|flesh|form|frame|human body|image|material body|name|number|pattern|physical body|physique|public figure|shape|soma|trope,illustration|body|organic structure|integer|whole number|model|simulation|important person|influential person|personage|shape|form|sum|sum of money|amount|amount of money|impression|effect|rhetorical device|percept|perception|perceptual experience|decoration|ornament|ornamentation|maneuver|manoeuvre|play
+6,ubiquitination,NN,NA,ubiquitin,,NA
+6,protein,NNS,s,protein,protein,macromolecule|supermolecule
+6,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+6,regulate,VBN,ed,regul,baffle|determine|govern|influence|modulate|mold|order|regularise|regularize|regulate|shape,adjust|set|correct|decide|make up one's mind|determine|cause|do|make|restrain|keep|keep back|hold back
+6,precise,JJ,NA,precis,accurate|exact|precise,
+6,selection,NN,NA,select,choice|excerpt|excerption|extract|natural selection|option|pick|selection|survival|survival of the fittest,action|assortment|mixture|mixed bag|miscellany|miscellanea|variety|salmagundi|smorgasbord|potpourri|motley|decision making|deciding|natural process|natural action|activity|passage
+6,protein,NN,NA,protein,protein,macromolecule|supermolecule
+6,substrate,NNS,s,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+6,specific,JJ,NA,specif,specific,
+6,e,NNP,NA,e,atomic number 99|due east|e|E|east|eastward|einsteinium|Es|tocopherol|vitamin E,fat-soluble vitamin|antioxidant|metallic element|metal|cardinal compass point|transcendental number|letter|letter of the alphabet|alphabetic character
+6,3,CD,NA,3,NA,NA
+6,ubiquitin,NN,NA,ubiquitin,,NA
+6,ligase,NNS,s,ligas,,NA
+6,pickart,NNP,NA,pickart,,NA
+6,2001,CD,NA,2001,NA,NA
+7,enzyme,NN,NA,enzym,enzyme,protein|catalyst|accelerator
+7,complex,NNS,s,complex,building complex|complex|composite|coordination compound,whole|compound|chemical compound|feeling|structure|construction
+7,recognize,VB,NA,recogn,accredit|acknowledge|agnise|agnize|discern|distinguish|greet|know|make out|pick out|realise|realize|recognise|recognize|spot|tell apart,accept|know|cognize|cognise|remember|retrieve|recall|call back|call up|recollect|think|license|licence|certify|address|accost|come up to|thank|give thanks|be|prize|value|treasure|appreciate
+7,subset,NN,NA,subset,subset,set
+7,substrate,NNS,s,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+7,tag,VB,NA,tag,chase|chase after|dog|give chase|go after|label|mark|tag|tail|track|trail,attach|touch|name|call|know as|be known as|pursue|follow|rhyme|rime
+7,link,VBG,ing,link,associate|colligate|connect|join|link|link up|relate|tie|tie in|unite|yoke,think|cogitate|cerebrate|attach
+7,carboxyl,NN,NA,carboxyl,carboxyl|carboxyl group,group|radical|chemical group
+7,terminus,JJ,NA,terminu,,NA
+7,ubiquitin,NN,NA,ubiquitin,,NA
+7,amino,JJ,NA,amino,aminic|amino,
+7,group,NN,NA,group,chemical group|group|grouping|mathematical group|radical,abstraction|abstract entity|unit|building block|set
+7,target,NN,NA,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+7,protein,NN,NA,protein,protein,macromolecule|supermolecule
+7,amide,NN,NA,amid,amide,organic compound
+7,bond,NN,NA,bond,adherence|adhesion|adhesiveness|alliance|attachment|bail|bail bond|bond|Bond|bond certificate|bond paper|chemical bond|hamper|James Bond|Julian Bond|shackle|trammel,attraction|attractive force|debt instrument|obligation|certificate of indebtedness|security|certificate|connection|connexion|connectedness|recognizance|recognisance|restraint|constraint|connector|connecter|connective|writing paper|stickiness
+7,figure,NN,NA,figur,anatomy|bod|build|chassis|design|digit|fig|figure|figure of speech|flesh|form|frame|human body|image|material body|name|number|pattern|physical body|physique|public figure|shape|soma|trope,illustration|body|organic structure|integer|whole number|model|simulation|important person|influential person|personage|shape|form|sum|sum of money|amount|amount of money|impression|effect|rhetorical device|percept|perception|perceptual experience|decoration|ornament|ornamentation|maneuver|manoeuvre|play
+8,interestingly,RB,NA,interestingli,interestingly,
+8,ubiquitination,NN,NA,ubiquitin,,NA
+8,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+8,reversible,JJ,NA,revers,reversible|two-sided,
+8,process,NN,NA,process,appendage|cognitive operation|cognitive process|mental process|operation|outgrowth|physical process|procedure|process|summons|unconscious process,activity|cognition|knowledge|noesis|writ|judicial writ|body part|physical entity
+9,even,RB,NA,even,even|still|yet,NA
+9,protein,NN,NA,protein,protein,macromolecule|supermolecule
+9,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+9,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+9,tag,VBN,ed,tag,chase|chase after|dog|give chase|go after|label|mark|tag|tail|track|trail,attach|touch|name|call|know as|be known as|pursue|follow|rhyme|rime
+9,ubiquitin,NN,NA,ubiquitin,,NA
+9,fate,NN,NA,fate,circumstances|destiny|fate|fortune|lot|luck|portion,happening|occurrence|occurrent|natural event|causal agent|cause|causal agency|condition
+9,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+9,not,RB,NA,not,non|not,NA
+9,sealed—specific,JJ,NA,sealed—specif,,NA
+9,hydrolytic,JJ,NA,hydrolyt,,NA
+9,enzyme,NNS,s,enzym,enzyme,protein|catalyst|accelerator
+9,call,VBD,ed,call,address|anticipate|be known as|bid|call|call in|call off|call up|cry|forebode|foretell|holler|hollo|know as|name|phone|predict|prognosticate|promise|ring|scream|send for|shout|shout out|squall|telephone|visit|yell,label|telecommunicate|utter|emit|let out|let loose|order|tell|enjoin|say|meet|get together|request|ask for|bespeak|call for|quest|read|postpone|prorogue|hold over|put over|table|shelve|set back|defer|remit|put off|address|turn to|stop|stop over|demand|exact|play|indicate|guess|venture|pretend|hazard|ask|require|expect|challenge|dispute|gainsay|declare|adjudge|hold|entice|lure|tempt|see|consider|reckon|view|regard|awaken|wake|waken|rouse|wake up|arouse
+9,deubiquitinase,NNS,s,deubiquitinas,,NA
+9,remove,VB,NA,remov,absent|bump off|dispatch|get rid of|hit|move out|murder|off|polish off|remove|slay|take|take away|take out|transfer|withdraw,transfer|shift|disappear|vanish|go away|kill
+9,ubiquitin,NN,NA,ubiquitin,,NA
+9,label,NN,NA,label,label|recording label,description|trade name|brand name|brand|marque|radioisotope|marker|marking|mark
+9,intact,JJ,NA,intact,entire|intact|integral|inviolate,
+9,figure,NN,NA,figur,anatomy|bod|build|chassis|design|digit|fig|figure|figure of speech|flesh|form|frame|human body|image|material body|name|number|pattern|physical body|physique|public figure|shape|soma|trope,illustration|body|organic structure|integer|whole number|model|simulation|important person|influential person|personage|shape|form|sum|sum of money|amount|amount of money|impression|effect|rhetorical device|percept|perception|perceptual experience|decoration|ornament|ornamentation|maneuver|manoeuvre|play
+10,deubiquitinate,VBG,ing,deubiquitin,,NA
+10,substrate,NNS,s,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+10,enzyme,NNS,s,enzym,enzyme,protein|catalyst|accelerator
+10,compete,VBP,NA,compet,compete|contend|vie,
+10,proteasome,NN,NA,proteasom,,NA
+10,act,VBZ,s,act,act|act as|behave|dissemble|do|move|play|playact|pretend|represent|roleplay|work,re-create|serve|act|behave|do|be|succeed|win|come through|bring home the bacon|deliver the goods|perform
+10,polyubiquitined,JJ,NA,polyubiquitin,,NA
+10,form,NN,NA,form,anatomy|bod|build|cast|chassis|class|configuration|conformation|contour|course|descriptor|figure|flesh|form|frame|grade|human body|kind|manakin|manikin|mannequin|mannikin|material body|pattern|phase|physical body|physique|shape|signifier|soma|sort|strain|var.|variant|variety|word form,word|category|structure|spatial property|spatiality|body|organic structure|attribute|appearance|visual aspect|document|written document|papers|taxonomic group|taxonomic category|taxon|writing style|literary genre|genre|manner|mode|style|way|fashion|state of matter|state|gathering|assemblage|ability|dummy|mold|mould|cast
+11,competition,NN,NA,competit,challenger|competition|competitor|contender|contention|contest|rival|rivalry,business relation|social event|group action|contestant
+11,proteolysis,NNS,NA,proteolysi,proteolysis,chemical process|chemical change|chemical action
+11,deubiquitination,NN,NA,deubiquitin,,NA
+11,polyubiquitinated,JJ,NA,polyubiquitin,,NA
+11,protein,NNS,s,protein,protein,macromolecule|supermolecule
+11,rarely,RB,NA,rare,rarely|seldom,
+11,accumulate,VBP,NA,accumul,accumulate|amass|collect|compile|conglomerate|cumulate|gather|hoard|pile up|roll up,store|hive away|lay in|put in|salt away|stack away|stash away|increase
+11,cytoplasm,NN,NA,cytoplasm,cytol|cytoplasm,protoplasm|living substance
+11,healthy,JJ,NA,healthi,good for you(p)|goodish|goodly|healthy|hefty|intelligent|level-headed|levelheaded|respectable|salubrious|sizable|sizeable|sound|tidy,
+11,cell,NNS,s,cell,cadre|cell|cellphone|cellular phone|cellular telephone|cubicle|electric cell|jail cell|mobile phone|prison cell,compartment|living thing|animate thing|electrical device|political unit|political entity|radiotelephone|radiophone|wireless telephone|room
+11,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+11,irreversibly,RB,NA,irreversibli,irreversibly,
+11,degraded,JJ,NA,degrad,debased|debauched|degenerate|degraded|devalued|dissipated|dissolute|fast|libertine|profligate|riotous,
+11,deubiquitinated,JJ,NA,deubiquitin,,NA
+11,rescue,VBD,ed,rescu,deliver|rescue,save|carry through|pull through|bring through|take
+12,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+12,think,VBN,ed,think,believe|call back|call up|cerebrate|cogitate|conceive|consider|guess|imagine|intend|mean|opine|recall|reckon|recollect|remember|retrieve|suppose|think,evaluate|pass judgment|judge|expect|anticipate|imagine|conceive of|ideate|envisage|concentrate|focus|center|centre|pore|rivet|think|cogitate|cerebrate|believe|consider|conceive|change|alter|modify
+12,competition,NN,NA,competit,challenger|competition|competitor|contender|contention|contest|rival|rivalry,business relation|social event|group action|contestant
+12,provide,VBZ,s,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+12,certain,JJ,NA,certain,certain|certain(a)|certain(p)|sealed|sure,
+12,level,NN,NA,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+12,stringency,NN,NA,stringenc,strictness|stringency|tightness,lack|deficiency|want|conscientiousness|painstakingness
+12,quality,NN,NA,qualiti,caliber|calibre|character|lineament|quality|timber|timbre|tone,attribute|degree|grade|level|property|dimension|sound property|social station|social status|social rank|rank
+12,control,NN,NA,control,ascendance|ascendancy|ascendence|ascendency|command|control|control condition|controller|dominance|mastery|restraint,power|powerfulness|relation|bodily process|body process|bodily function|activity|criterion|standard|condition|status|discipline|skillfulness|mechanism|spirit|disembodied spirit|economic policy
+12,system,NN,NA,system,arrangement|organisation|organization|scheme|system|system of rules,instrumentality|instrumentation|group|grouping|matter|method|structure|body part|plan of action|live body|orderliness|methodicalness
+13,base,VBN,ed,base,base|establish|found|free-base|ground,situate|locate|drug|do drugs
+13,sequence,NN,NA,sequenc,chronological sequence|chronological succession|episode|sequence|succession|successiveness,series|temporal arrangement|temporal order|film|photographic film|order|ordering|repeat|repetition
+13,homology,NN,NA,homologi,homology,similarity
+13,deubiquitinate,VBG,ing,deubiquitin,,NA
+13,enzyme,NNS,s,enzym,enzyme,protein|catalyst|accelerator
+13,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+13,traditionally,RB,NA,tradition,traditionally,
+13,classify,VBN,ed,classifi,assort|class|classify|relegate|separate|sort|sort out,categorize|categorise|restrict|control|assign|attribute
+13,two,CD,NA,two,NA,NA
+13,family,NNS,s,famili,category|class|crime syndicate|family|family line|family unit|fellowship|folk|home|house|household|kin|kinfolk|kinsfolk|kinsperson|menage|mob|phratry|sept|syndicate,unit|social unit|kin|kin group|kinship group|kindred|clan|tribe|collection|aggregation|accumulation|assemblage|lineage|line|line of descent|descent|bloodline|blood line|blood|pedigree|ancestry|origin|parentage|stemma|stock|relative|relation|taxonomic group|taxonomic category|taxon|organized crime|gangland|gangdom|association
+14,ubiquitin-specific,JJ,NA,ubiquitin-specif,,NA
+14,protease,NNS,s,proteas,peptidase|protease|proteinase|proteolytic enzyme,enzyme
+14,ubp,NNP,s,ubp,,NA
+14,usp,NNP,s,usp,,NA
+14,ubiquitin,NN,NA,ubiquitin,,NA
+14,carboxy-terminal,JJ,NA,carboxy-termin,,NA
+14,hydrolase,NNS,s,hydrolas,,NA
+14,uch,NNP,s,uch,,NA
+15,enzyme,NN,NA,enzym,enzyme,protein|catalyst|accelerator
+15,family,NNS,s,famili,category|class|crime syndicate|family|family line|family unit|fellowship|folk|home|house|household|kin|kinfolk|kinsfolk|kinsperson|menage|mob|phratry|sept|syndicate,unit|social unit|kin|kin group|kinship group|kindred|clan|tribe|collection|aggregation|accumulation|assemblage|lineage|line|line of descent|descent|bloodline|blood line|blood|pedigree|ancestry|origin|parentage|stemma|stock|relative|relation|taxonomic group|taxonomic category|taxon|organized crime|gangland|gangdom|association
+15,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+15,classify,VBN,ed,classifi,assort|class|classify|relegate|separate|sort|sort out,categorize|categorise|restrict|control|assign|attribute
+15,cysteine,NN,NA,cystein,cysteine,amino acid|aminoalkanoic acid
+15,protease,NNS,s,proteas,peptidase|protease|proteinase|proteolytic enzyme,enzyme
+15,employ,VBP,NA,emploi,apply|employ|engage|hire|use|utilise|utilize,
+15,active,JJ,NA,activ,active|alive(p)|combat-ready|dynamic|fighting(a)|participating,
+15,site,NN,NA,site,internet site|land site|site|situation|web site|website,tract|piece of land|piece of ground|parcel of land|parcel|position|place|computer|computing machine|computing device|data processor|electronic computer|information processing system
+15,thiol,NN,NA,thiol,,NA
+15,cleave,NN,NA,cleav,,NA
+15,ubiquitin,NN,NA,ubiquitin,,NA
+15,target,NN,NA,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+15,kim,NNP,NA,kim,,NA
+15,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+15,2003,CD,NA,2003,NA,NA
+16,wing,NNP,NA,wing,annex|annexe|backstage|extension|fender|flank|offstage|wing,organ|airfoil|aerofoil|control surface|surface|stage|air unit|formation|hockey player|ice-hockey player|position|place|social group|helping|portion|serving|barrier|addition|add-on|improver
+16,2003,CD,NA,2003,NA,NA
+17,proteasome,NN,NA,proteasom,,NA
+17,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+17,make,VBN,ed,make,arrive at|attain|bring in|build|ca-ca|cause|clear|constitute|construct|cook|crap|create|defecate|do|draw|earn|establish|fix|form|gain|get|get to|give|have|hit|hold|induce|lay down|make|make believe|make up|make water|micturate|name|nominate|pass water|pee|pee-pee|piddle|piss|prepare|pretend|produce|progress to|puddle|pull in|reach|ready|realise|realize|relieve oneself|score|seduce|shit|spend a penny|stimulate|stool|take|take a crap|take a leak|take a shit|take in|throw|urinate|wee|wee-wee|work,change|alter|modify|make|create|create by mental act|create mentally|cause|do|get|acquire|constitute|represent|make up|comprise|be|achieve|accomplish|attain|reach|become|create from raw material|create from raw stuff|perform|execute|act|behave|appoint|charge|score|hit|tally|rack up|perpetrate|commit|pull|assemble|gather|get together|direct|tidy|tidy up|clean up|neaten|straighten|straighten out|square away|head|excrete|egest|eliminate|pass|total|number|add up|come|amount|look|appear|seem|arrive at|gain|persuade|guarantee|ensure|insure|assure|secure|play|see|consider|reckon|view|regard|estimate|gauge|approximate|guess|judge|develop|grow
+17,multiprotein,NN,NA,multiprotein,,NA
+17,core,NN,NA,core,burden|center|centre|Congress of Racial Equality|core|CORE|core group|effect|essence|gist|heart|heart and soul|inwardness|kernel|magnetic core|marrow|meat|nitty-gritty|nub|nucleus|pith|substance|sum,set|center|centre|midpoint|content|cognitive content|mental object|sample|nongovernmental organization|NGO|meaning|significance|signification|import|torus|toroid|chamber|bar
+17,particle,NN,NA,particl,atom|corpuscle|molecule|mote|particle|speck|subatomic particle,material|stuff|body|function word|closed-class word
+17,cp,NNP,NA,cp,,NA
+17,proteolysis,NNS,NA,proteolysi,proteolysis,chemical process|chemical change|chemical action
+17,occur,VBZ,s,occur,come|come about|fall out|go on|hap|happen|occur|pass|pass off|take place,become|appear|come along
+17,separate,JJ,NA,separ,disjoined|freestanding|separate,
+17,multiprotein,NN,NA,multiprotein,,NA
+17,regulatory,JJ,NA,regulatori,regulative|regulatory,
+17,particle,NN,NA,particl,atom|corpuscle|molecule|mote|particle|speck|subatomic particle,material|stuff|body|function word|closed-class word
+17,rp,NNP,NA,rp,,NA
+17,recognize,VBZ,s,recogn,accredit|acknowledge|agnise|agnize|discern|distinguish|greet|know|make out|pick out|realise|realize|recognise|recognize|spot|tell apart,accept|know|cognize|cognise|remember|retrieve|recall|call back|call up|recollect|think|license|licence|certify|address|accost|come up to|thank|give thanks|be|prize|value|treasure|appreciate
+17,prepare,VBZ,s,prepar,cook|develop|devise|educate|fix|gear up|get up|groom|machinate|make|organise|organize|prepare|ready|set|set up|train,change|alter|modify|create from raw material|create from raw stuff|make|create|initiate|pioneer|educate|teach|learn|instruct|sound|study|read|take
+17,substrate,NNS,s,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+17,degradation,NN,NA,degrad,abasement|abjection|debasement|degradation,change of state|humiliation
+17,cp,NNP,NA,cp,,NA
+18,base,NN,NA,base,al Qaeda|al Qaida|al-Qa'ida|al-Qaeda|al-Qaida|alkali|bag|base|Base|base of operations|basis|cornerstone|floor|foot|foundation|fundament|groundwork|home|infrastructure|nucleotide|pedestal|Qaeda|radical|radix|root|root word|stand|stem|substructure|theme|understructure,military installation|support|baseball equipment|part|piece|bottom|control|assumption|supposition|supposal|ester|compound|chemical compound|flank|portion|component part|component|constituent|number|location|form|word form|signifier|descriptor|store|stock|fund|ingredient|underside|undersurface|electrode
+18,subcomplex,NN,NA,subcomplex,,NA
+18,rp,NNP,NA,rp,,NA
+18,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+18,pivotal,JJ,NA,pivot,pivotal|polar,
+18,anchor,VBG,ing,anchor,anchor|cast anchor|drop anchor|ground,fasten|fix|secure|fasten|fix|secure
+18,polyubiquitin,NN,NA,polyubiquitin,,NA
+18,chain,NNS,s,chain,chain|Chain|chain of mountains|chemical chain|concatenation|Ernst Boris Chain|mountain chain|mountain range|range|range of mountains|Sir Ernst Boris Chain|strand|string,series|unit|building block|ligament|business|concern|business concern|business organization|business organisation|restraint|constraint|linear unit|linear measure|geological formation|formation|necklace
+18,process,NN,NA,process,appendage|cognitive operation|cognitive process|mental process|operation|outgrowth|physical process|procedure|process|summons|unconscious process,activity|cognition|knowledge|noesis|writ|judicial writ|body part|physical entity
+18,directly,RB,NA,directli,at once|direct|directly|flat|forthwith|immediately|instantly|like a shot|now|right away|straight|straight off|straightaway,
+18,auxiliary,JJ,NA,auxiliari,accessory|adjunct|adjuvant|ancillary|appurtenant|auxiliary|subsidiary|supplemental|supplementary,
+18,ubiquitin-binding,JJ,NA,ubiquitin-bind,,NA
+18,protein,NNS,s,protein,protein,macromolecule|supermolecule
+18,lam,NNP,NA,lam,getaway|lam,escape|flight
+18,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+18,2002,CD,NA,2002,NA,NA
+19,hartmann-,NNP,NA,hartmann-,,NA
+19,petersen,NNP,NA,petersen,,NA
+19,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+19,2003,CD,NA,2003,NA,NA
+20,base,NN,NA,base,al Qaeda|al Qaida|al-Qa'ida|al-Qaeda|al-Qaida|alkali|bag|base|Base|base of operations|basis|cornerstone|floor|foot|foundation|fundament|groundwork|home|infrastructure|nucleotide|pedestal|Qaeda|radical|radix|root|root word|stand|stem|substructure|theme|understructure,military installation|support|baseball equipment|part|piece|bottom|control|assumption|supposition|supposal|ester|compound|chemical compound|flank|portion|component part|component|constituent|number|location|form|word form|signifier|descriptor|store|stock|fund|ingredient|underside|undersurface|electrode
+20,attach,VBZ,s,attach,attach|bind|bond|confiscate|impound|seize|sequester|tie,connect|link|tie|link up|touch|adjoin|meet|contact|join|conjoin|relate|take
+20,outer,JJ,NA,outer,outer|outer(a),
+20,surface,NN,NA,surfac,aerofoil|airfoil|control surface|Earth's surface|open|surface,artifact|artefact|boundary|bound|bounds|layer|aspect|facet|public knowledge|general knowledge|device
+20,cp,NNP,NA,cp,,NA
+20,usee,VBZ,s,use,,NA
+20,energy,NN,NA,energi,Department of Energy|DOE|energy|Energy|Energy Department|free energy|get-up-and-go|muscularity|push|vigor|vigour|vim|vitality|zip,physical phenomenon|force|forcefulness|strength|drive|liveliness|life|spirit|sprightliness|good health|healthiness|executive department
+20,unravel,VB,NA,unravel,ravel|ravel out|run|unknot|unpick|unravel|unscramble|untangle,undo|disentangle|unsnarl|straighten out|disintegrate
+20,substrate,NN,NA,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+20,simultaneously,RB,NA,simultan,at the same time|simultaneously,
+20,prepare,VBG,ing,prepar,cook|develop|devise|educate|fix|gear up|get up|groom|machinate|make|organise|organize|prepare|ready|set|set up|train,change|alter|modify|create from raw material|create from raw stuff|make|create|initiate|pioneer|educate|teach|learn|instruct|sound|study|read|take
+20,channel,NN,NA,channel,canal|channel|communication channel|distribution channel|duct|epithelial duct|groove|line|television channel|transmission channel|TV channel,transmission|passage|depression|impression|imprint|body of water|water|communication|communicating|passageway|television station|TV station|marketing
+20,lead,VBZ,s,lead,chair|conduce|conduct|contribute|direct|extend|go|guide|head|lead|leave|moderate|pass|precede|result|run|take|top,produce|bring about|give rise|leave|result|lead|precede|induce|stimulate|cause|have|get|make|be|direct|promote|advance|boost|further|encourage|perform|execute|do|travel|go|move|locomote|pass|make pass|hash out|discuss|talk over
+20,proteolytic,JJ,NA,proteolyt,proteolytic,
+20,chamber,NN,NA,chamber,bedchamber|bedroom|chamber|sleeping accommodation|sleeping room,enclosure|cavity|bodily cavity|cavum|room|assembly
+20,cp,NNP,NA,cp,,NA
+20,forster,NNP,NA,forster,,NA
+20,hill,NNP,NA,hill,Alfred Hawthorne|Benny Hill|hill|Hill|J. J. Hill|James Jerome Hill|mound|pitcher's mound,natural elevation|elevation|structure|construction|baseball equipment
+20,2003,CD,NA,2003,NA,NA
+21,lid,NN,NA,lid,chapeau|eyelid|hat|lid|palpebra,protective fold|top|cover|headdress|headgear
+21,subcomplex,NN,NA,subcomplex,,NA
+21,rp,NNP,NA,rp,,NA
+21,attach,VBZ,s,attach,attach|bind|bond|confiscate|impound|seize|sequester|tie,connect|link|tie|link up|touch|adjoin|meet|contact|join|conjoin|relate|take
+21,base,NN,NA,base,al Qaeda|al Qaida|al-Qa'ida|al-Qaeda|al-Qaida|alkali|bag|base|Base|base of operations|basis|cornerstone|floor|foot|foundation|fundament|groundwork|home|infrastructure|nucleotide|pedestal|Qaeda|radical|radix|root|root word|stand|stem|substructure|theme|understructure,military installation|support|baseball equipment|part|piece|bottom|control|assumption|supposition|supposal|ester|compound|chemical compound|flank|portion|component part|component|constituent|number|location|form|word form|signifier|descriptor|store|stock|fund|ingredient|underside|undersurface|electrode
+21,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+21,require,VBN,ed,requir,ask|call for|command|demand|expect|involve|necessitate|need|postulate|require|take|want,demand|order|tell|enjoin|say|be
+21,proteolysis,NNS,NA,proteolysi,proteolysis,chemical process|chemical change|chemical action
+21,ubiquitin–protein,NN,NA,ubiquitin–protein,,NA
+21,conjugate,NNS,s,conjug,conjugate|conjugate solution,solution
+21,not,RB,NA,not,non|not,NA
+21,unstructured,JJ,NA,unstructur,amorphous|unstructured,
+21,polypeptide,NNS,s,polypeptid,polypeptide,peptide
+21,glickman,NNP,NA,glickman,,NA
+21,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+21,1998,CD,NA,1998,NA,NA
+22,guterman,NNP,NA,guterman,,NA
+22,glickman,NNP,NA,glickman,,NA
+22,2003,CD,NA,2003,NA,NA
+23,size,NN,NA,size,size|size of it|sizing,magnitude|property|filler|situation|state of affairs
+23,complexity,NN,NA,complex,complexity|complexness,quality
+23,protein-eating,JJ,NA,protein-,,NA
+23,machine,NN,NA,machin,auto|automobile|car|machine|motorcar|political machine|simple machine,device|person|individual|someone|somebody|mortal|soul|organization|organisation|mechanical device|motor vehicle|automotive vehicle
+23,hint,NNS,s,hint,breath|clue|confidential information|hint|intimation|jot|lead|mite|pinch|soupcon|speck|steer|suggestion|tinge|tint|tip|touch|trace|wind,suggestion|proposition|proffer|indication|indicant|small indefinite quantity|small indefinite amount|guidance|counsel|counseling|counselling|direction
+23,exquisite,JJ,NA,exquisit,dainty|exquisite|keen|recherche,
+23,control,NNS,s,control,ascendance|ascendancy|ascendence|ascendency|command|control|control condition|controller|dominance|mastery|restraint,power|powerfulness|relation|bodily process|body process|bodily function|activity|criterion|standard|condition|status|discipline|skillfulness|mechanism|spirit|disembodied spirit|economic policy
+23,rgulate,NN,NA,rgulat,,NA
+23,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+24,intriguing,JJ,NA,intrigu,challenging|intriguing,
+24,evolutionary,JJ,NA,evolutionari,evolutionary,
+24,structural,JJ,NA,structur,geomorphologic|geomorphological|morphologic|morphological|structural,
+24,relationship,NN,NA,relationship,family relationship|human relationship|kinship|relationship,relation|state
+24,proteasome,NN,NA,proteasom,,NA
+24,lid,NN,NA,lid,chapeau|eyelid|hat|lid|palpebra,protective fold|top|cover|headdress|headgear
+24,independent,JJ,NA,independ,autonomous|independent|main(a)|self-governing|sovereign,
+24,complex,NN,NA,complex,building complex|complex|composite|coordination compound,whole|compound|chemical compound|feeling|structure|construction
+24,cop,NNP,NA,cop,bull|cop|copper|fuzz|pig,policeman|police officer|officer
+24,9,CD,NA,9,NA,NA
+24,signalosome,NN,NA,signalosom,,NA
+24,csn,NNP,NA,csn,,NA
+24,shed,VB,ed,shed,cast|cast off|disgorge|drop|exuviate|molt|moult|pour forth|shake off|shed|slough|spill|throw|throw away|throw off,remove|take|take away|withdraw|pour|move|displace|shed|cast|cast off|shake off|throw|throw off|throw away|drop
+24,light,JJ,NA,light,abstemious|calorie-free|clean|clear|easy|faint|idle|light|light-colored|light-headed|light(a)|lightheaded|lightsome|lite|loose|low-cal|promiscuous|scant(p)|short|sluttish|swooning|tripping|unaccented|unclouded|wakeful|wanton|weak,
+24,respective,JJ,NA,respect,respective(a)|several(a)|various(a),
+24,role,NNS,s,role,character|function|office|part|persona|purpose|role|theatrical role|use,duty|portrayal|characterization|enactment|personation|utility|usefulness|activity
+24,regulate,VBN,ed,regul,baffle|determine|govern|influence|modulate|mold|order|regularise|regularize|regulate|shape,adjust|set|correct|decide|make up one's mind|determine|cause|do|make|restrain|keep|keep back|hold back
+24,protein,NN,NA,protein,protein,macromolecule|supermolecule
+24,degradation,NN,NA,degrad,abasement|abjection|debasement|degradation,change of state|humiliation
+25,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+25,make,VBN,ed,make,arrive at|attain|bring in|build|ca-ca|cause|clear|constitute|construct|cook|crap|create|defecate|do|draw|earn|establish|fix|form|gain|get|get to|give|have|hit|hold|induce|lay down|make|make believe|make up|make water|micturate|name|nominate|pass water|pee|pee-pee|piddle|piss|prepare|pretend|produce|progress to|puddle|pull in|reach|ready|realise|realize|relieve oneself|score|seduce|shit|spend a penny|stimulate|stool|take|take a crap|take a leak|take a shit|take in|throw|urinate|wee|wee-wee|work,change|alter|modify|make|create|create by mental act|create mentally|cause|do|get|acquire|constitute|represent|make up|comprise|be|achieve|accomplish|attain|reach|become|create from raw material|create from raw stuff|perform|execute|act|behave|appoint|charge|score|hit|tally|rack up|perpetrate|commit|pull|assemble|gather|get together|direct|tidy|tidy up|clean up|neaten|straighten|straighten out|square away|head|excrete|egest|eliminate|pass|total|number|add up|come|amount|look|appear|seem|arrive at|gain|persuade|guarantee|ensure|insure|assure|secure|play|see|consider|reckon|view|regard|estimate|gauge|approximate|guess|judge|develop|grow
+25,eight,CD,NA,eight,NA,NA
+25,homologous,RB,NA,homolog,,NA
+25,protein,NN,NA,protein,protein,macromolecule|supermolecule
+25,subunit,NNS,s,subunit,fractional monetary unit|subunit,monetary unit
+25,contain,VBP,NA,contain,arrest|bear|carry|check|comprise|contain|control|curb|hold|hold back|hold in|incorporate|moderate|stop|take|turn back,include|restrain|keep|keep back|hold back|be|defend
+25,similar,JJ,NA,similar,alike(p)|exchangeable|interchangeable|like|similar|standardised|standardized,
+25,structural,JJ,NA,structur,geomorphologic|geomorphological|morphologic|morphological|structural,
+25,functional,JJ,NA,function,functional|operable|operational|operative|running(a)|usable|useable|working(a),
+25,motif,NNS,s,motif,motif|motive|theme,design|pattern|figure|theme|melodic theme|musical theme|idea|thought
+26,lot,NN,NA,lot,band|batch|bunch|caboodle|circle|circumstances|deal|destiny|draw|fate|flock|fortune|good deal|great deal|hatful|heap|lot|Lot|luck|mass|mess|mickle|mint|mountain|muckle|passel|peck|pile|plenty|portion|pot|quite a little|raft|set|sight|slew|spate|stack|tidy sum|wad,large indefinite quantity|large indefinite amount|tract|piece of land|piece of ground|parcel of land|parcel|social group|condition|object|physical object|collection|aggregation|accumulation|assemblage
+26,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+26,still,RB,NA,still,all the same|at the same time|even|even so|however|nevertheless|nonetheless|notwithstanding|still|stock-still|withal|yet,NA
+26,unknown,JJ,NA,unknown,nameless|obscure|strange|unidentified|unknown|unnamed|unsung,
+26,csn,NNP,NA,csn,,NA
+26,appear,VBZ,s,appear,appear|come along|come out|look|seem,be|happen|materialize|materialise|perform|execute|do
+26,mediate,VB,NA,mediat,arbitrate|intercede|intermediate|liaise|mediate,negociate|negotiate|talk terms|lie
+26,response,NNS,s,respons,answer|reaction|reception|reply|response,consequence|effect|outcome|result|event|issue|upshot|bodily process|body process|bodily function|activity|statement|greeting|salutation|phrase|speech act|manner|mode|style|way|fashion
+26,signal,NNS,s,signal,sign|signal|signaling,communication|incitement|incitation|provocation|electricity|electrical energy|power
+26,light,JJ,NA,light,abstemious|calorie-free|clean|clear|easy|faint|idle|light|light-colored|light-headed|light(a)|lightheaded|lightsome|lite|loose|low-cal|promiscuous|scant(p)|short|sluttish|swooning|tripping|unaccented|unclouded|wakeful|wanton|weak,
+26,hormone,NNS,s,hormon,endocrine|hormone|internal secretion,secretion
+26,adhesion,NN,NA,adhes,adherence|adhesion|adhesiveness|attachment|bond,pathology|scar tissue|stickiness|support
+26,nutrient,NNS,s,nutrient,food|nutrient,substance
+26,dna,NNP,NA,dna,deoxyribonucleic acid|desoxyribonucleic acid|DNA,polymer
+26,damage,NN,NA,damag,damage|equipment casualty|harm|hurt|impairment|legal injury|price|scathe|terms|wrong,change|alteration|modification|casualty|change of integrity|cost|injury
+26,manner,NN,NA,manner,fashion|manner|mode|personal manner|style|way,property|demeanor|demeanour|behavior|behaviour|conduct|deportment|kind|sort|form|variety
+26,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+26,intimately,RB,NA,intim,closely|intimately|nearly|well,
+26,link,VBN,ed,link,associate|colligate|connect|join|link|link up|relate|tie|tie in|unite|yoke,think|cogitate|cerebrate|attach
+26,ubiquitin–proteasome,NN,NA,ubiquitin–proteasom,,NA
+26,system,NN,NA,system,arrangement|organisation|organization|scheme|system|system of rules,instrumentality|instrumentation|group|grouping|matter|method|structure|body part|plan of action|live body|orderliness|methodicalness
+27,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+27,accomplish,VBN,ed,accomplish,accomplish|achieve|action|attain|carry out|carry through|execute|fulfil|fulfill|reach,complete|finish|effect|effectuate|set up|succeed|win|come through|bring home the bacon|deliver the goods
+27,instance,NN,NA,instanc,case|example|illustration|instance|representative,happening|occurrence|occurrent|natural event|information
+27,suppress,VBG,ing,suppress,bottle up|conquer|crush|inhibit|oppress|repress|stamp down|subdue|suppress,control|hold in|hold|contain|check|curb|moderate|forget|bury|decrease|lessen|minify
+27,ubiquitin,NN,NA,ubiquitin,,NA
+27,e,NNP,NA,e,atomic number 99|due east|e|E|east|eastward|einsteinium|Es|tocopherol|vitamin E,fat-soluble vitamin|antioxidant|metallic element|metal|cardinal compass point|transcendental number|letter|letter of the alphabet|alphabetic character
+27,3,CD,NA,3,NA,NA
+27,ligase,NN,NA,ligas,,NA
+27,activity,NN,NA,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+27,interact,VBG,ing,interact,interact,act|move
+27,various,JJ,NA,variou,assorted|diverse|respective(a)|several(a)|various|various(a)|versatile,
+27,component,NNS,s,compon,component|component part|constituent|element|factor|ingredient|part|portion,part|section|division|relation|portion
+27,pathway,NN,NA,pathwai,footpath|nerve pathway|nerve tract|pathway|tract,white matter|substantia alba|path
+27,bech-,NNP,NA,bech-,,NA
+27,otschir,NNP,NA,otschir,,NA
+27,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+27,2002,CD,NA,2002,NA,NA
+28,cope,NNP,NA,cope,cope|coping|header,brick|cloak
+28,deshai,NNP,s,deshai,,NA
+28,2003,CD,NA,2003,NA,NA
+29,lus,NNP,s,lu,,NA
+29,deng,NNP,NA,deng,,NA
+29,2003,CD,NA,2003,NA,NA
+30,particular,JJ,NA,particular,especial(a)|exceptional|finical|finicky|fussy|particular|particular(a)|peculiar(a)|picky|special|special(a),
+30,one,CD,NA,on,NA,NA
+30,subunit—,NN,NA,subunit—,,NA
+30,csn,NNP,NA,csn,,NA
+30,5,CD,NA,5,NA,NA
+30,—,NN,NA,—,,NA
+30,moderate,NNS,s,moder,centrist|middle of the roader|moderate|moderationist,adult|grownup
+30,scf,NNP,NA,scf,,NA
+30,skp,NNP,NA,skp,,NA
+30,1,CD,NA,1,NA,NA
+30,–,NN,NA,–,,NA
+30,cullin–,NN,NA,cullin–,,NA
+30,f,NN,NA,f,atomic number 9|degree Fahrenheit|f|F|farad|fluorine,degree|chemical element|element|gas|halogen|capacitance unit|letter|letter of the alphabet|alphabetic character
+30,box,NN,NA,box,box|box seat|boxful|boxwood|corner|loge,container|compartment|containerful|predicament|quandary|plight|rectangle|shrub|bush|area|seat|blow
+30,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+30,cullin-based,JJ,NA,cullin-bas,,NA
+30,e,NNP,NA,e,atomic number 99|due east|e|E|east|eastward|einsteinium|Es|tocopherol|vitamin E,fat-soluble vitamin|antioxidant|metallic element|metal|cardinal compass point|transcendental number|letter|letter of the alphabet|alphabetic character
+30,3,CD,NA,3,NA,NA
+30,ubiquitin,NN,NA,ubiquitin,,NA
+30,ligase,NNS,s,ligas,,NA
+30,removal,NN,NA,remov,remotion|removal,separation|dismissal|dismission|discharge|firing|liberation|release|sack|sacking
+30,ubiquitin-like,JJ,NA,ubiquitin-lik,,NA
+30,rub,NNP,NA,rub,hang-up|hitch|rub|snag|wipe,obstacle|obstruction|contact|physical contact
+30,1,CD,NA,1,NA,NA
+30,/,NN,NA,/,,NA
+30,nedd,NNP,NA,nedd,,NA
+30,8,CD,NA,8,NA,NA
+30,molecule,NN,NA,molecul,atom|corpuscle|molecule|mote|particle|speck,unit|building block|material|stuff
+30,cullin,NN,NA,cullin,,NA
+30,subunit,NN,NA,subunit,fractional monetary unit|subunit,monetary unit
+30,ligase,NN,NA,ligas,,NA
+30,complex,JJ,NA,complex,complex|complicated,
+31,further,RB,NA,further,farther|further,NA
+31,analysis,NN,NA,analysi,analysis|analytic thinking|depth psychology|psychoanalysis,investigation|investigating|reasoning|logical thinking|abstract thought|criticism|literary criticism|expressive style|style|calculus|infinitesimal calculus|psychotherapy
+31,csn,NNP,NA,csn,,NA
+31,doubt,VB,NA,doubt,doubt,disbelieve|discredit|distrust|mistrust|suspect
+31,uncover,VB,NA,uncov,break|bring out|disclose|discover|divulge|expose|give away|let on|let out|reveal|uncover|unwrap,bring out|unveil|reveal|tell
+31,additional,JJ,NA,addit,additional|extra,
+31,mechanism,NNS,s,mechan,chemical mechanism|mechanics|mechanism,chemical process|chemical change|chemical action|performance|execution|carrying out|carrying into action|natural object|philosophical doctrine|philosophical theory|device
+31,ubiquitin-mediated,JJ,NA,ubiquitin-medi,,NA
+31,protein,NN,NA,protein,protein,macromolecule|supermolecule
+31,degradation,NN,NA,degrad,abasement|abjection|debasement|degradation,change of state|humiliation
+31,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+31,controll,VBN,ed,control,,NA
+32,surprisingly,RB,NA,surprisingli,amazingly|astonishingly|surprisingly,
+32,proteasome,NN,NA,proteasom,,NA
+32,harbor,VBZ,s,harbor,entertain|harbor|harbour|hold|nurse|shield,feel|experience|shelter|keep|hold on|hide|conceal
+32,intrinsic,JJ,NA,intrins,intrinsic|intrinsical,
+32,deubiquitination,NN,NA,deubiquitin,,NA
+32,activity,NN,NA,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+32,eytan,NNP,NA,eytan,,NA
+32,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+32,1993,CD,NA,1993,NA,NA
+33,moreover,RB,NA,moreov,furthermore|moreover|what is more,NA
+33,lid,NN,NA,lid,chapeau|eyelid|hat|lid|palpebra,protective fold|top|cover|headdress|headgear
+33,base,NN,NA,base,al Qaeda|al Qaida|al-Qa'ida|al-Qaeda|al-Qaida|alkali|bag|base|Base|base of operations|basis|cornerstone|floor|foot|foundation|fundament|groundwork|home|infrastructure|nucleotide|pedestal|Qaeda|radical|radix|root|root word|stand|stem|substructure|theme|understructure,military installation|support|baseball equipment|part|piece|bottom|control|assumption|supposition|supposal|ester|compound|chemical compound|flank|portion|component part|component|constituent|number|location|form|word form|signifier|descriptor|store|stock|fund|ingredient|underside|undersurface|electrode
+33,contribute,VB,NA,contribut,add|bestow|bring|chip in|conduce|contribute|give|impart|kick in|lead|lend|put up,change|alter|modify|give|promote|advance|boost|further|encourage|pay
+33,independently,RB,NA,independ,independently|severally,NA
+33,rp,NNP,NA,rp,,NA
+33,deubiquitination,NN,NA,deubiquitin,,NA
+33,activity,NN,NA,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+34,source,NN,NA,sourc,author|beginning|generator|germ|informant|origin|reference|reservoir|root|rootage|seed|source,point|document|written document|papers|inspiration|facility|installation|communicator|maker|shaper|natural process|natural action|action|activity|thing|publication
+34,activity,NN,NA,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+34,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+34,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+34,attribute,VBN,ed,attribut,ascribe|assign|attribute|impute,evaluate|pass judgment|judge|evaluate|pass judgment|judge
+34,number,NN,NA,number,act|bit|figure|issue|number|numeral|phone number|routine|telephone number|turn,amount|definite quantity|performance|public presentation|signal|signaling|sign|symbol|periodical|company|positive identification|size|item|grammatical category|syntactic category|merchandise|ware|product
+34,different,JJ,NA,differ,different,
+34,subunit,NNS,s,subunit,fractional monetary unit|subunit,monetary unit
+35,include,VBP,NA,includ,admit|include|let in,see|consider|reckon|view|regard|add|permit|allow|let|countenance
+35,associate,VBN,ed,associ,affiliate|associate|assort|colligate|connect|consociate|consort|link|link up|relate|tie in,think|cogitate|cerebrate|interact|unite|unify
+35,cysteine,NN,NA,cystein,cysteine,amino acid|aminoalkanoic acid
+35,protease,NNS,s,proteas,peptidase|protease|proteinase|proteolytic enzyme,enzyme
+35,ubp,NNP,NA,ubp,,NA
+35,6,CD,NA,6,NA,NA
+35,/,NN,NA,/,,NA
+35,usp,NNP,NA,usp,,NA
+35,14,CD,NA,14,NA,NA
+35,borodovsky,NNP,NA,borodovski,,NA
+35,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+35,2001,CD,NA,2001,NA,NA
+36,legget,NNP,NA,legget,,NA
+36,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+36,2002,CD,NA,2002,NA,NA
+36,uch,NNP,NA,uch,,NA
+36,37,CD,NA,37,NA,NA
+36,/,NN,NA,/,,NA
+36,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+36,37,CD,NA,37,NA,NA
+36,lam,NNP,NA,lam,getaway|lam,escape|flight
+36,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+36,1997,CD,NA,1997,NA,NA
+37,hoelzl,NNP,NA,hoelzl,,NA
+37,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+37,2000,CD,NA,2000,NA,NA
+37,doa,NNP,NA,doa,,NA
+37,4,CD,NA,4,NA,NA
+37,/,NN,NA,/,,NA
+37,ubp,NNP,NA,ubp,,NA
+37,4,CD,NA,4,NA,NA
+37,papa,NN,NA,papa,dad|dada|daddy|pa|papa|pappa|pop,father|male parent|begetter
+37,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+37,1999,CD,NA,1999,NA,NA
+37,as,RB,NA,a,as|equally|every bit,
+37,well,RB,NA,well,advantageously|comfortably|considerably|easily|good|intimately|substantially|well,NA
+37,intrinsic,JJ,NA,intrins,intrinsic|intrinsical,
+37,proteasome,NN,NA,proteasom,,NA
+37,subunit,NN,NA,subunit,fractional monetary unit|subunit,monetary unit
+37,rpn,NNP,NA,rpn,,NA
+37,11,CD,NA,11,NA,NA
+37,/,NN,NA,/,,NA
+37,poh,NNP,NA,poh,,NA
+37,1,CD,NA,1,NA,NA
+37,verma,NNP,NA,verma,,NA
+37,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+37,2002,CD,NA,2002,NA,NA
+38,yao,NNP,NA,yao,,NA
+38,cohen,NNP,NA,cohen,,NA
+38,2002,CD,NA,2002,NA,NA
+39,importance,NN,NA,import,grandness|importance,value|standing
+39,component,NNS,s,compon,component|component part|constituent|element|factor|ingredient|part|portion,part|section|division|relation|portion
+39,proteasome,NN,NA,proteasom,,NA
+39,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+39,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+39,apparent,JJ,NA,appar,apparent|apparent(a)|evident|manifest|ostensible|palpable|patent|plain|seeming(a)|unmistakable,
+39,partially,RB,NA,partial,in part|part|partially|partly,
+39,overlap,VBG,ing,overlap,overlap,coincide|co-occur|cooccur|cover|continue|extend
+39,property,NNS,s,properti,attribute|belongings|dimension|holding|place|prop|property,possession|attribute|geographical area|geographic area|geographical region|geographic region|concept|conception|construct|object|physical object
+40,groundbreak,VBG,ing,groundbreak,,NA
+40,work,NN,NA,work,body of work|employment|oeuvre|piece of work|study|work|workplace,activity|product|production|occupation|business|job|line of work|line|learning|acquisition|energy|free energy|geographic point|geographical point|end product|output
+40,intrinsic,JJ,NA,intrins,intrinsic|intrinsical,
+40,cryptic,JJ,NA,cryptic,cabalistic|cryptic|cryptical|deep|inscrutable|kabbalistic|mysterious|mystifying|qabalistic|sibylline,
+40,deubiquitinate,VBG,ing,deubiquitin,,NA
+40,activity,NN,NA,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+40,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+40,sensitive,JJ,NA,sensit,raw|sensible|sensitive|sore|tender,
+40,metal,NN,NA,metal,alloy|metal|metallic element,chemical element|element|mixture
+40,chelator,NNS,s,chelat,,NA
+40,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+40,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+40,report,VBN,ed,report,account|cover|describe|report,inform|announce|denote|complain|kick|plain|sound off|quetch|kvetch
+40,proteasome,NN,NA,proteasom,,NA
+40,addition,NN,NA,addit,accession|add-on|addition|gain|improver|increase|plus|summation,component|constituent|element|increase|step-up|indefinite quantity|acquisition|suburb|suburbia|suburban area|arithmetic operation
+40,classic,JJ,NA,classic,classic|classical,
+40,cysteine,NN,NA,cystein,cysteine,amino acid|aminoalkanoic acid
+40,protease,NN,NA,proteas,peptidase|protease|proteinase|proteolytic enzyme,enzyme
+40,behavior,NN,NA,behavior,behavior|behaviour|conduct|demeanor|demeanour|deportment|doings,activity|action|activeness|trait
+40,verma,NNP,NA,verma,,NA
+40,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+40,2002,CD,NA,2002,NA,NA
+41,yao,NNP,NA,yao,,NA
+41,cohen,NNP,NA,cohen,,NA
+41,2002,CD,NA,2002,NA,NA
+42,metalloprotease-like,JJ,NA,metalloprotease-lik,,NA
+42,activity,NN,NA,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+42,map,NNS,s,map,function|map|mapping|mathematical function|single-valued function,representation|mathematical relation
+42,putative,JJ,NA,put,putative(a),
+42,catalytic,JJ,NA,catalyt,catalytic,
+42,mpn,NNP,NA,mpn,,NA
+42,+,NN,NA,+,,NA
+42,/,NN,NA,/,,NA
+42,jamm,NNP,NA,jamm,,NA
+42,motif,NN,NA,motif,motif|motive|theme,design|pattern|figure|theme|melodic theme|musical theme|idea|thought
+42,lid,NN,NA,lid,chapeau|eyelid|hat|lid|palpebra,protective fold|top|cover|headdress|headgear
+42,subunit,NN,NA,subunit,fractional monetary unit|subunit,monetary unit
+42,rpn,NNP,NA,rpn,,NA
+42,11,CD,NA,11,NA,NA
+42,lie,VBZ,s,lie,consist|dwell|lie|lie down|lie in|rest,be|exist|misinform|mislead|change posture
+42,heart,NN,NA,heart,affection|affectionateness|bosom|center|centre|core|essence|eye|fondness|gist|heart|heart and soul|inwardness|kernel|marrow|meat|mettle|middle|nerve|nitty-gritty|nub|philia|pith|pump|spirit|spunk|substance|sum|tenderness|ticker|warmheartedness|warmness,intuition|hunch|suspicion|internal organ|viscus|courage|courageousness|bravery|braveness|area|country|content|cognitive content|mental object|disposition|temperament|plane figure|two-dimensional figure|variety meat|organs|feeling|playing card
+42,proteasome,NN,NA,proteasom,,NA
+42,mechanism,NN,NA,mechan,chemical mechanism|mechanics|mechanism,chemical process|chemical change|chemical action|performance|execution|carrying out|carrying into action|natural object|philosophical doctrine|philosophical theory|device
+42,link,VBG,ing,link,associate|colligate|connect|join|link|link up|relate|tie|tie in|unite|yoke,think|cogitate|cerebrate|attach
+42,deubiquitination,NN,NA,deubiquitin,,NA
+42,protein,NN,NA,protein,protein,macromolecule|supermolecule
+42,degradation,NN,NA,degrad,abasement|abjection|debasement|degradation,change of state|humiliation
+43,notably,RB,NA,notabl,notably|remarkably|unco|unusually,NA
+43,rpn,NNP,NA,rpn,,NA
+43,11,CD,NA,11,NA,NA
+43,shares,NNS,NA,share,,NA
+43,close,JJ,NA,close,airless|cheeseparing|close|close-fitting|closelipped|closemouthed|confining|faithful|near|nigh|penny-pinching|secretive|skinny|snug|stuffy|tight|tightlipped|unaired,
+43,homology,NN,NA,homologi,homology,similarity
+43,csn,NNP,NA,csn,,NA
+43,5,CD,NA,5,NA,NA
+43,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+43,also,RB,NA,also,also|as well|besides|likewise|too,NA
+43,responsible,JJ,NA,respons,creditworthy|responsible|responsible for(p),
+43,proteolytic,JJ,NA,proteolyt,proteolytic,
+43,activity,NNS,s,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+43,respective,JJ,NA,respect,respective(a)|several(a)|various(a),
+43,complex,NN,NA,complex,building complex|complex|composite|coordination compound,whole|compound|chemical compound|feeling|structure|construction
+44,define,VBG,ing,defin,define|delimit|delimitate|delineate|determine|fix|limit|set|specify,be|specify|set|determine|define|fix|limit|characterize|characterise|show|choose|take|select|pick out
+44,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+44,family,NN,NA,famili,category|class|crime syndicate|family|family line|family unit|fellowship|folk|home|house|household|kin|kinfolk|kinsfolk|kinsperson|menage|mob|phratry|sept|syndicate,unit|social unit|kin|kin group|kinship group|kindred|clan|tribe|collection|aggregation|accumulation|assemblage|lineage|line|line of descent|descent|bloodline|blood line|blood|pedigree|ancestry|origin|parentage|stemma|stock|relative|relation|taxonomic group|taxonomic category|taxon|organized crime|gangland|gangdom|association
+44,putative,JJ,NA,put,putative(a),
+44,metalloprotease,NNS,s,metalloproteas,,NA
+44,include,VBZ,s,includ,admit|include|let in,see|consider|reckon|view|regard|add|permit|allow|let|countenance
+44,proteasomal,NN,NA,proteasom,,NA
+44,subunit,NN,NA,subunit,fractional monetary unit|subunit,monetary unit
+44,csn,NNP,NA,csn,,NA
+44,subunit,NN,NA,subunit,fractional monetary unit|subunit,monetary unit
+44,additional,JJ,NA,addit,additional|extra,
+44,protein,NNS,s,protein,protein,macromolecule|supermolecule
+44,domain,NNS,s,domain,area|arena|demesne|domain|domain of a function|field|knowledge base|knowledge domain|land|orbit|sphere|world,environment|region|set|class|stratum|social class|socio-economic class|content|cognitive content|mental object
+44,life,NN,NA,life,aliveness|animation|biography|life|life history|life sentence|life story|life-time|lifespan|lifetime|liveliness|living|spirit|sprightliness,being|beingness|existence|face of the earth|experience|time period|period of time|period|person|individual|someone|somebody|mortal|soul|animation|spiritedness|invigoration|brio|vivification|living thing|animate thing|organic phenomenon|history|account|chronicle|story|motivation|motive|need|prison term|sentence|time
+44,mpn,NNP,NA,mpn,,NA
+44,+,NN,NA,+,,NA
+44,/,NN,NA,/,,NA
+44,jamm,NNP,NA,jamm,,NA
+44,motif,NN,NA,motif,motif|motive|theme,design|pattern|figure|theme|melodic theme|musical theme|idea|thought
+44,garner,VBD,ed,garner,collect|earn|garner|gather|pull together|win,get|acquire|store
+44,great,JJ,NA,great,bang-up|big(p)|bully|capital|corking|cracking|dandy|enceinte|expectant|gravid|great|great(p)|groovy|heavy(p)|keen|large(p)|majuscule|neat|nifty|not bad(p)|old(a)|outstanding|peachy|slap-up|smashing|swell|with child(p),
+44,attention,NN,NA,attent,aid|attending|attention|care|tending,basic cognitive process|work|attraction|attractor|attracter|attractive feature|magnet|courtesy|faculty|mental faculty|module|stance
+45,trademark,NN,NA,trademark,earmark|hallmark|stylemark|trademark,characteristic|marker|marking|mark
+45,mpn,NNP,NA,mpn,,NA
+45,+,NN,NA,+,,NA
+45,/,NN,NA,/,,NA
+45,jamm,NNP,NA,jamm,,NA
+45,motif,NN,NA,motif,motif|motive|theme,design|pattern|figure|theme|melodic theme|musical theme|idea|thought
+45,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+45,consensus,NN,NA,consensu,consensus,agreement|accord
+45,sequence,NN,NA,sequenc,chronological sequence|chronological succession|episode|sequence|succession|successiveness,series|temporal arrangement|temporal order|film|photographic film|order|ordering|repeat|repetition
+45,e—h,NNP,NA,e—h,,NA
+45,xhx,NN,NA,xhx,,NA
+45,7,CD,NA,7,NA,NA
+45,sx,NNP,NA,sx,,NA
+45,d,NNP,NA,d,500|calciferol|cholecalciferol|d|D|ergocalciferol|five hundred|viosterol|vitamin D,fat-soluble vitamin|large integer|letter|letter of the alphabet|alphabetic character
+45,bear,VBZ,s,bear,abide|accept|acquit|assume|bear|behave|birth|brook|carry|comport|conduct|contain|deliver|deport|digest|endure|expect|gestate|give birth|have|have a bun in the oven|hold|pay|put up|stand|stick out|stomach|suffer|support|take over|tolerate|turn out|wear|yield,have|feature|produce|bring forth|permit|allow|let|countenance|transport|carry|make|create|take|include|gain|take in|clear|earn|realize|realise|pull in|bring in|hold|bear|act|move|have got|give birth|deliver|birth
+45,resemblance,NN,NA,resembl,resemblance,likeness|alikeness|similitude
+45,active,JJ,NA,activ,active|alive(p)|combat-ready|dynamic|fighting(a)|participating,
+45,site,NN,NA,site,internet site|land site|site|situation|web site|website,tract|piece of land|piece of ground|parcel of land|parcel|position|place|computer|computing machine|computing device|data processor|electronic computer|information processing system
+45,zinc,NN,NA,zinc,atomic number 30|zinc|Zn,metallic element|metal
+45,metalloprotease,NNS,s,metalloproteas,,NA
+46,member,NNS,s,member,appendage|extremity|fellow member|member|penis|phallus,associate|part|portion|component part|component|constituent|external body part|unit|social unit|erectile organ
+46,family,NN,NA,famili,category|class|crime syndicate|family|family line|family unit|fellowship|folk|home|house|household|kin|kinfolk|kinsfolk|kinsperson|menage|mob|phratry|sept|syndicate,unit|social unit|kin|kin group|kinship group|kindred|clan|tribe|collection|aggregation|accumulation|assemblage|lineage|line|line of descent|descent|bloodline|blood line|blood|pedigree|ancestry|origin|parentage|stemma|stock|relative|relation|taxonomic group|taxonomic category|taxon|organized crime|gangland|gangdom|association
+46,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+46,predict,VBN,ed,predict,anticipate|augur|auspicate|betoken|bode|call|forebode|forecast|foreshadow|foretell|omen|portend|predict|prefigure|presage|prognosticate|promise,guess|venture|pretend|hazard|bespeak|betoken|indicate|point|signal
+46,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+46,hydrolytic,JJ,NA,hydrolyt,,NA
+46,enzyme,NNS,s,enzym,enzyme,protein|catalyst|accelerator
+46,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+46,specific,JJ,NA,specif,specific,
+46,removal,NN,NA,remov,remotion|removal,separation|dismissal|dismission|discharge|firing|liberation|release|sack|sacking
+46,ubiquitin,NN,NA,ubiquitin,,NA
+46,ubiquitin-like,JJ,NA,ubiquitin-lik,,NA
+46,domain,NNS,s,domain,area|arena|demesne|domain|domain of a function|field|knowledge base|knowledge domain|land|orbit|sphere|world,environment|region|set|class|stratum|social class|socio-economic class|content|cognitive content|mental object
+46,target,NNS,s,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+46,maytal-,NNP,NA,maytal-,,NA
+46,kivity,NNP,NA,kiviti,,NA
+46,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+46,2002,CD,NA,2002,NA,NA
+47,verma,NNP,NA,verma,,NA
+47,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+47,2002,CD,NA,2002,NA,NA
+48,yao,NNP,NA,yao,,NA
+48,cohen,NNP,NA,cohen,,NA
+48,2002,CD,NA,2002,NA,NA
+49,further,JJ,NA,further,farther|further,
+49,development,NN,NA,develop,developing|development|evolution|exploitation|growing|growth|maturation|ontogenesis|ontogeny,improvement|process|physical process|organic process|biological process|change|alteration|modification|use|usage|utilization|utilisation|employment|exercise|district|territory|territorial dominion|dominion|melioration|processing|section|subdivision
+49,two,CD,NA,two,NA,NA
+49,independent,JJ,NA,independ,autonomous|independent|main(a)|self-governing|sovereign,
+49,group,NNS,s,group,chemical group|group|grouping|mathematical group|radical,abstraction|abstract entity|unit|building block|set
+49,determine,VBD,ed,determin,ascertain|check|decide|define|determine|find|find out|fix|influence|learn|limit|make up one's mind|mold|regulate|see|set|settle|shape|specify|square off|square up|watch,cause|do|make|choose|take|select|pick out|specify|define|delineate|delimit|delimitate|conclude|resolve
+49,molecular,JJ,NA,molecular,molecular|molecular(a),
+49,structure,NN,NA,structur,anatomical structure|bodily structure|body structure|complex body part|construction|social organisation|social organization|social structure|social system|structure,artifact|artefact|constitution|composition|physical composition|makeup|make-up|cognition|knowledge|noesis|body part|system|scheme
+49,mpn,NNP,NA,mpn,,NA
+49,+,NN,NA,+,,NA
+49,/,NN,NA,/,,NA
+49,jamm,NNP,NA,jamm,,NA
+49,protein,NN,NA,protein,protein,macromolecule|supermolecule
+49,archaebacterium,NN,NA,archaebacterium,archaebacteria|archaebacterium|archaeobacteria|archeobacteria,moneran|moneron
+49,ambroggio,NNP,NA,ambroggio,,NA
+49,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+49,2003,CD,NA,2003,NA,NA
+50,tran,NNP,NA,tran,,NA
+50,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+50,2003,CD,NA,2003,NA,NA
+51,structure,NNS,s,structur,anatomical structure|bodily structure|body structure|complex body part|construction|social organisation|social organization|social structure|social system|structure,artifact|artefact|constitution|composition|physical composition|makeup|make-up|cognition|knowledge|noesis|body part|system|scheme
+51,identify,VBP,NA,identifi,describe|discover|distinguish|identify|key|key out|name|place,determine|set|denote|refer|see|consider|reckon|view|regard|associate|tie in|relate|link|colligate|link up|connect|recognize|recognise
+51,zinc,NN,NA,zinc,atomic number 30|zinc|Zn,metallic element|metal
+51,ion,NN,NA,ion,ion,particle|subatomic particle
+51,chelated,JJ,NA,chelat,chelate|chelated,
+51,two,CD,NA,two,NA,NA
+51,histidine,NNS,s,histidin,histidine,essential amino acid
+51,aspartic,JJ,NA,aspart,,NA
+51,residue,NN,NA,residu,balance|remainder|residual|residue|residuum|rest,matter|part|portion|component part|component|constituent
+51,mpn,NNP,NA,mpn,,NA
+51,+,NN,NA,+,,NA
+51,/,NN,NA,/,,NA
+51,jamm,NNP,NA,jamm,,NA
+51,sequence,NN,NA,sequenc,chronological sequence|chronological succession|episode|sequence|succession|successiveness,series|temporal arrangement|temporal order|film|photographic film|order|ordering|repeat|repetition
+52,fourth,JJ,NA,fourth,4th|fourth|quaternary,
+52,ligand,NN,NA,ligand,ligand,substance
+52,appear,VBZ,s,appear,appear|come along|come out|look|seem,be|happen|materialize|materialise|perform|execute|do
+52,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+52,water,NN,NA,water,body of water|H2O|pee|piddle|piss|urine|water|water supply|water system|weewee,binary compound|liquid|thing|element|facility|installation|body waste|excretion|excreta|excrement|excretory product|food|nutrient
+52,molecule,NN,NA,molecul,atom|corpuscle|molecule|mote|particle|speck,unit|building block|material|stuff
+52,activate,VBN,ed,activ,activate|actuate|aerate|set off|spark|spark off|touch off|trigger|trigger off|trip,initiate|pioneer|change|alter|modify
+52,interaction,NNS,s,interact,fundamental interaction|interaction,action|physical phenomenon
+52,conserved,JJ,NA,conserv,conserved,
+52,glutamate,NN,NA,glutam,glutamate,salt
+52,serve,VB,NA,serv,answer|assist|attend|attend to|dish|dish out|dish up|do|function|help|process|serve|serve up|serve well|service|suffice|swear out|wait on,suffice|do|answer|serve|work|do work|effect|effectuate|set up|function|operate|go|run|provide|supply|ply|cater|foster|nurture|spend|pass|help|assist|aid|deliver|satisfy|fulfill|fulfil|live up to|copulate|mate|pair|couple|move
+52,active,JJ,NA,activ,active|alive(p)|combat-ready|dynamic|fighting(a)|participating,
+52,site,NN,NA,site,internet site|land site|site|situation|web site|website,tract|piece of land|piece of ground|parcel of land|parcel|position|place|computer|computing machine|computing device|data processor|electronic computer|information processing system
+52,nucleophile,NN,NA,nucleophil,,NA
+53,overall,RB,NA,overal,,NA
+53,protein,NN,NA,protein,protein,macromolecule|supermolecule
+53,certainly,RB,NA,certainli,certainly|for certain|for sure|sure|sure as shooting|sure enough|surely,
+53,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+53,property,NNS,s,properti,attribute|belongings|dimension|holding|place|prop|property,possession|attribute|geographical area|geographic area|geographical region|geographic region|concept|conception|construct|object|physical object
+53,consistent,JJ,NA,consist,coherent|consistent|logical|ordered|reproducible|uniform,
+53,metallohydrolase,NN,NA,metallohydrolas,,NA
+53,serve,VB,NA,serv,answer|assist|attend|attend to|dish|dish out|dish up|do|function|help|process|serve|serve up|serve well|service|suffice|swear out|wait on,suffice|do|answer|serve|work|do work|effect|effectuate|set up|function|operate|go|run|provide|supply|ply|cater|foster|nurture|spend|pass|help|assist|aid|deliver|satisfy|fulfill|fulfil|live up to|copulate|mate|pair|couple|move
+53,prototype,NN,NA,prototyp,epitome|image|paradigm|prototype,model|example
+53,deubiquitinate,VBG,ing,deubiquitin,,NA
+53,enzyme,NNS,s,enzym,enzyme,protein|catalyst|accelerator
+53,class,NN,NA,class,category|class|course|course of instruction|course of study|division|family|form|grade|social class|socio-economic class|stratum|year,collection|aggregation|accumulation|assemblage|gathering|people|education|instruction|teaching|pedagogy|didactics|educational activity|league|conference|taxonomic group|taxonomic category|taxon|elegance
+54,revelation,NN,NA,revel,Apocalypse|Book of Revelation|disclosure|divine revelation|revealing|revelation|Revelation|Revelation of Saint John the Divine,speech act|insight|brainstorm|brainwave|informing|making known
+54,add,VBZ,s,add,add|add together|add up|append|bestow|bring|contribute|impart|lend|sum|sum up|summate|supply|tally|tot|tot up|total|tote up,increase|state|say|tell|change|alter|modify|calculate|cipher|cypher|compute|work out|reckon|figure|count|number|enumerate|numerate|form|constitute|make
+54,all-new,JJ,NA,all-new,,NA
+54,enzymatic,JJ,NA,enzymat,enzymatic,
+54,activity,NN,NA,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+54,additional,JJ,NA,addit,additional|extra,
+54,layer,NN,NA,layer,bed|layer|level|stratum,artifact|artefact|region|part|place|hen|biddy|structure|anatomical structure|complex body part|bodily structure|body structure
+54,regulation,NN,NA,regul,ordinance|regularisation|regularization|regulating|regulation|rule,rule|prescript|concept|conception|construct|dominance|ascendance|ascendence|ascendancy|ascendency|control|organic process|biological process
+54,ubiquitin–proteasome,NN,NA,ubiquitin–proteasom,,NA
+54,system,NN,NA,system,arrangement|organisation|organization|scheme|system|system of rules,instrumentality|instrumentation|group|grouping|matter|method|structure|body part|plan of action|live body|orderliness|methodicalness
+55,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+55,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+55,evident,JJ,NA,evid,apparent|discernible|evident|manifest|observable|palpable|patent|plain|unmistakable,
+55,proteasome,NN,NA,proteasom,,NA
+55,contain,VBZ,s,contain,arrest|bear|carry|check|comprise|contain|control|curb|hold|hold back|hold in|incorporate|moderate|stop|take|turn back,include|restrain|keep|keep back|hold back|be|defend
+55,member,NN,NA,member,appendage|extremity|fellow member|member|penis|phallus,associate|part|portion|component part|component|constituent|external body part|unit|social unit|erectile organ
+55,novel,NN,NA,novel,novel,fiction|book|volume
+55,metalloprotease,NN,NA,metalloproteas,,NA
+55,family,NN,NA,famili,category|class|crime syndicate|family|family line|family unit|fellowship|folk|home|house|household|kin|kinfolk|kinsfolk|kinsperson|menage|mob|phratry|sept|syndicate,unit|social unit|kin|kin group|kinship group|kindred|clan|tribe|collection|aggregation|accumulation|assemblage|lineage|line|line of descent|descent|bloodline|blood line|blood|pedigree|ancestry|origin|parentage|stemma|stock|relative|relation|taxonomic group|taxonomic category|taxon|organized crime|gangland|gangdom|association
+55,fundamental,JJ,NA,fundament,cardinal|central|fundamental|key|primal|profound|rudimentary|underlying,
+55,question,NN,NA,question,doubt|doubtfulness|dubiousness|enquiry|head|inquiry|interrogation|interrogative|interrogative sentence|motion|query|question,questioning|inquiring|subject|topic|theme|sentence|uncertainty|uncertainness|precariousness|proposal|marriage proposal|proposal of marriage|marriage offer
+55,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+55,raise,VBN,ed,rais,advance|arouse|bring up|call down|call forth|conjure|conjure up|elevate|elicit|enhance|enkindle|erect|evoke|farm|fire|get up|grow|heighten|invoke|kick upstairs|kindle|leaven|levy|lift|nurture|parent|produce|promote|prove|provoke|put forward|put up|raise|rear|recruit|resurrect|set up|stir|upgrade|upraise,increase|move|displace|express|verbalize|verbalise|utter|give tongue to|collect|take in|cultivate|call up|summon|construct|build|make|create|change|alter|modify|intensify|compound|heighten|deepen|delegate|designate|depute|assign|raise|lift|elevate|get up|bring up|bid|call|bet|wager|play|enlist|draft|muster in|mention|advert|cite|name|refer|pronounce|articulate|enounce|sound out|enunciate|say|incite|instigate|set off|stir up|reach|get through|get hold of|contact|multiply|bring out|better|improve|amend|ameliorate|meliorate|end|terminate|resuscitate|revive
+56,do,VBZ,s,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+56,proteolytic,JJ,NA,proteolyt,proteolytic,
+56,enzyme,NN,NA,enzym,enzyme,protein|catalyst|accelerator
+56,proteasome,NN,NA,proteasom,,NA
+56,need,VBP,NA,need,ask|call for|demand|involve|necessitate|need|postulate|require|take|want,NA
+56,auxiliary,JJ,NA,auxiliari,accessory|adjunct|adjuvant|ancillary|appurtenant|auxiliary|subsidiary|supplemental|supplementary,
+56,protease,NNS,s,proteas,peptidase|protease|proteinase|proteolytic enzyme,enzyme
+56,hydrolysis,NNS,NA,hydrolysi,hydrolysis,chemical reaction|reaction
+56,ubiquitin,NN,NA,ubiquitin,,NA
+56,domain,NNS,s,domain,area|arena|demesne|domain|domain of a function|field|knowledge base|knowledge domain|land|orbit|sphere|world,environment|region|set|class|stratum|social class|socio-economic class|content|cognitive content|mental object
+57,first,JJ,NA,first,1st|beginning(a)|first|foremost|inaugural|initiative|initiatory|maiden|world-class,
+57,glance,NN,NA,glanc,coup d'oeil|glance|glimpse,look|looking|looking at
+57,delegation,NN,NA,deleg,commission|delegacy|delegating|delegation|deputation|mission|relegating|relegation,organization|organisation|authorization|authorisation|empowerment
+57,task,NNS,s,task,chore|job|labor|project|task|undertaking,work|duty
+57,proteolytic,JJ,NA,proteolyt,proteolytic,
+57,subunit,NNS,s,subunit,fractional monetary unit|subunit,monetary unit
+57,proteasome,NN,NA,proteasom,,NA
+57,situate,VBN,ed,situat,deposit|fix|locate|posit|situate,determine|find|find out|ascertain|put|set|place|pose|position|lay
+57,proteolytic,JJ,NA,proteolyt,proteolytic,
+57,core,NN,NA,core,burden|center|centre|Congress of Racial Equality|core|CORE|core group|effect|essence|gist|heart|heart and soul|inwardness|kernel|magnetic core|marrow|meat|nitty-gritty|nub|nucleus|pith|substance|sum,set|center|centre|midpoint|content|cognitive content|mental object|sample|nongovernmental organization|NGO|meaning|significance|signification|import|torus|toroid|chamber|bar
+57,particle,NN,NA,particl,atom|corpuscle|molecule|mote|particle|speck|subatomic particle,material|stuff|body|function word|closed-class word
+57,auxiliary,JJ,NA,auxiliari,accessory|adjunct|adjuvant|ancillary|appurtenant|auxiliary|subsidiary|supplemental|supplementary,
+57,deubiquitinate,VBG,ing,deubiquitin,,NA
+57,enzyme,NNS,s,enzym,enzyme,protein|catalyst|accelerator
+57,situate,VBN,ed,situat,deposit|fix|locate|posit|situate,determine|find|find out|ascertain|put|set|place|pose|position|lay
+57,regulatory,JJ,NA,regulatori,regulative|regulatory,
+57,particle,NN,NA,particl,atom|corpuscle|molecule|mote|particle|speck|subatomic particle,material|stuff|body|function word|closed-class word
+57,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+57,clear-cut,JJ,NA,clear-cut,clean-cut|clear|clear-cut|distinct|trenchant,
+58,latter,JJ,NA,latter,latter(a),
+58,cleave,NN,NA,cleav,,NA
+58,ubiquitin,NN,NA,ubiquitin,,NA
+58,domain,NNS,s,domain,area|arena|demesne|domain|domain of a function|field|knowledge base|knowledge domain|land|orbit|sphere|world,environment|region|set|class|stratum|social class|socio-economic class|content|cognitive content|mental object
+58,core,NN,NA,core,burden|center|centre|Congress of Racial Equality|core|CORE|core group|effect|essence|gist|heart|heart and soul|inwardness|kernel|magnetic core|marrow|meat|nitty-gritty|nub|nucleus|pith|substance|sum,set|center|centre|midpoint|content|cognitive content|mental object|sample|nongovernmental organization|NGO|meaning|significance|signification|import|torus|toroid|chamber|bar
+58,proteolytic,JJ,NA,proteolyt,proteolytic,
+58,subunit,NNS,s,subunit,fractional monetary unit|subunit,monetary unit
+58,process,VBP,NA,process,action|litigate|march|process|serve|sue|swear out|treat|work|work on,affect|impact|bear upon|bear on|touch on|touch|manage|deal|care|handle|calculate|cipher|cypher|compute|work out|reckon|figure|challenge|walk|transform|transmute|transubstantiate|deliver
+58,target,NN,NA,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+58,protein,NN,NA,protein,protein,macromolecule|supermolecule
+58,figure,NN,NA,figur,anatomy|bod|build|chassis|design|digit|fig|figure|figure of speech|flesh|form|frame|human body|image|material body|name|number|pattern|physical body|physique|public figure|shape|soma|trope,illustration|body|organic structure|integer|whole number|model|simulation|important person|influential person|personage|shape|form|sum|sum of money|amount|amount of money|impression|effect|rhetorical device|percept|perception|perceptual experience|decoration|ornament|ornamentation|maneuver|manoeuvre|play
+59,however,RB,NA,howev,all the same|at the same time|even so|however|nevertheless|nonetheless|notwithstanding|still|withal|yet,NA
+59,still,RB,NA,still,all the same|at the same time|even|even so|however|nevertheless|nonetheless|notwithstanding|still|stock-still|withal|yet,NA
+59,do,VBZ,s,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+59,not,RB,NA,not,non|not,NA
+59,explain,VB,NA,explain,excuse|explain|explicate,inform|state|say|tell|justify|vindicate
+59,mechanistic,JJ,NA,mechanist,mechanistic,
+59,rational,JJ,NA,ration,intellectual|noetic|rational,
+59,find,VBG,ing,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+59,deubiquitination,NN,NA,deubiquitin,,NA
+59,proteasome,NN,NA,proteasom,,NA
+60,principle,NN,NA,principl,precept|principle|rationale|rule,generalization|generalisation|generality|value|law|natural law|law of nature|rule|prescript|explanation
+60,deubiquitination,NN,NA,deubiquitin,,NA
+60,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+60,use,VBN,ed,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+60,recycling,NN,NA,recycl,recycling,material|stuff|use|usage|utilization|utilisation|employment|exercise
+60,ubiquitin,NN,NA,ubiquitin,,NA
+60,abet,VBG,ing,abet,abet,assist
+60,degradation,NN,NA,degrad,abasement|abjection|debasement|degradation,change of state|humiliation
+60,removal,NN,NA,remov,remotion|removal,separation|dismissal|dismission|discharge|firing|liberation|release|sack|sacking
+60,tightly,RB,NA,tightli,tightly,
+60,fold,VBN,ed,fold,close|close down|close up|fold|fold up|pen up|shut down|turn up,change surface|integrate|incorporate|restrain|confine|hold|constrain|change
+60,highly,RB,NA,highli,extremely|highly,NA
+60,stable,JJ,NA,stabl,stable|static|unchanging,
+60,globular,NN,NA,globular,,NA
+60,ubiquitin,NN,NA,ubiquitin,,NA
+60,domain,NN,NA,domain,area|arena|demesne|domain|domain of a function|field|knowledge base|knowledge domain|land|orbit|sphere|world,environment|region|set|class|stratum|social class|socio-economic class|content|cognitive content|mental object
+60,mitigating,JJ,NA,mitig,,NA
+60,degradation,NN,NA,degrad,abasement|abjection|debasement|degradation,change of state|humiliation
+60,removal,NN,NA,remov,remotion|removal,separation|dismissal|dismission|discharge|firing|liberation|release|sack|sacking
+60,ubiquitin,NN,NA,ubiquitin,,NA
+60,anchor,NN,NA,anchor,anchor|anchorman|anchorperson|backbone|ground tackle|keystone|linchpin|lynchpin|mainstay,hook|claw|support|television reporter|television newscaster|TV reporter|TV newsman
+60,substrate,NN,NA,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+60,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+60,easily,RB,NA,easili,easily|easy|well,NA
+60,release,VBN,ed,releas,bring out|discharge|eject|exhaust|expel|free|give up|issue|let go|let go of|liberate|loose|publish|put out|release|relinquish|resign|secrete|turn|unblock|unfreeze|unloose|unloosen,transmit|transfer|transport|channel|channelize|channelise|publicize|publicise|air|bare|exude|exudate|transude|ooze out|ooze|issue|supply|pass|hand|reach|pass on|turn over|give|generate|bring forth
+60,rescue,VBD,ed,rescu,deliver|rescue,save|carry through|pull through|bring through|take
+61,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+61,evidence,NN,NA,evid,evidence|grounds,information|indication|indicant|info
+61,recycling,NN,NA,recycl,recycling,material|stuff|use|usage|utilization|utilisation|employment|exercise
+61,ubiquitin,NN,NA,ubiquitin,,NA
+61,proteasome,NN,NA,proteasom,,NA
+61,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+61,indeed,RB,NA,inde,indeed|so,NA
+61,crucial,JJ,NA,crucial,all important(p)|all-important(a)|crucial|essential|important|of the essence(p),
+61,feature,NN,NA,featur,characteristic|feature|feature article|feature film|feature of speech|lineament,property|attribute|dimension|body part|movie|film|picture|moving picture|moving-picture show|motion picture|motion-picture show|picture show|pic|flick|article|merchandise|ware|product
+61,deubiquitination,NN,NA,deubiquitin,,NA
+61,proper,JJ,NA,proper,proper|proper(a)|proper(ip)|right,
+61,cellular,JJ,NA,cellular,cellular,
+61,maintenance,NN,NA,mainten,alimony|care|criminal maintenance|maintenance|sustainment|sustenance|sustentation|upkeep,repair|fix|fixing|fixture|mend|mending|reparation|support|keep|livelihood|living|bread and butter|sustenance|support payment|wrongdoing|wrongful conduct|misconduct|actus reus
+61,legget,NNP,NA,legget,,NA
+61,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+61,2002,CD,NA,2002,NA,NA
+62,distinguishing,NNP,NA,distinguish,,NA
+62,option,NNS,s,option,alternative|choice|option|pick|selection,derivative instrument|derivative|decision making|deciding|action
+62,2,CD,NA,2,NA,NA
+62,3,CD,NA,3,NA,NA
+62,however,RB,NA,howev,all the same|at the same time|even so|however|nevertheless|nonetheless|notwithstanding|still|withal|yet,NA
+62,depend,VBZ,s,depend,bank|bet|calculate|count|depend|look|reckon|rely|swear,be|trust
+62,large,JJ,NA,larg,big|big(p)|bombastic|declamatory|enceinte|expectant|gravid|great(p)|heavy(p)|large|large(p)|magnanimous|orotund|prominent|tumid|turgid|with child(p),
+62,extent,NN,NA,extent,extent,degree|level|stage|point|magnitude
+62,delicate,JJ,NA,delic,delicate|finespun|fragile|frail|soft|ticklish|touchy,
+62,balance,NN,NA,balanc,balance|Balance|balance wheel|correspondence|counterbalance|counterpoise|counterweight|equaliser|equalizer|equilibrium|equipoise|Libra|Libra the Balance|Libra the Scales|proportion|proportionality|remainder|residual|residue|residuum|rest|symmetricalness|symmetry,equilibrium|equality|placement|arrangement|structure|construction|part|portion|component part|component|constituent|remainder|difference|person|individual|someone|somebody|mortal|soul|spatial property|spatiality|weight|wheel|scale|weighing machine
+62,two,CD,NA,two,NA,NA
+62,proteolytic,JJ,NA,proteolyt,proteolytic,
+62,activity,NNS,s,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+62,associate,VBN,ed,associ,affiliate|associate|assort|colligate|connect|consociate|consort|link|link up|relate|tie in,think|cogitate|cerebrate|interact|unite|unify
+62,proteasome,NN,NA,proteasom,,NA
+63,proteolysis,NNS,NA,proteolysi,proteolysis,chemical process|chemical change|chemical action
+63,deubiquitination,NN,NA,deubiquitin,,NA
+63,figure,NN,NA,figur,anatomy|bod|build|chassis|design|digit|fig|figure|figure of speech|flesh|form|frame|human body|image|material body|name|number|pattern|physical body|physique|public figure|shape|soma|trope,illustration|body|organic structure|integer|whole number|model|simulation|important person|influential person|personage|shape|form|sum|sum of money|amount|amount of money|impression|effect|rhetorical device|percept|perception|perceptual experience|decoration|ornament|ornamentation|maneuver|manoeuvre|play
+64,once,RB,NA,onc,at one time|erst|erstwhile|formerly|in one case|once|one time,NA
+64,bind,VBN,ed,bind,adhere|attach|bandage|bind|bond|constipate|hold|hold fast|obligate|oblige|stick|stick to|tie|tie down|tie up|truss,attach|relate|fasten|fix|secure|restrain|confine|hold|constrain|cover|adhere|hold fast|bond|bind|stick|stick to|indispose
+64,proteasome,NN,NA,proteasom,,NA
+64,polyubiquitinated,JJ,NA,polyubiquitin,,NA
+64,substrate,NN,NA,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+64,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+64,unfold,VBD,ed,unfold,blossom|blossom forth|blossom out|extend|open|spread|spread out|stretch|stretch out|unfold,develop|bring out|unveil|reveal|change shape|change form|deform|undo
+64,rp,NNP,NA,rp,,NA
+64,irreversibly,RB,NA,irreversibli,irreversibly,
+64,translocated,JJ,NA,transloc,,NA
+64,cp,NNP,NA,cp,,NA
+65,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+65,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+65,propose,VBN,ed,propos,advise|aim|declare oneself|nominate|offer|pop the question|project|propose|purport|purpose|suggest,declare|plan|intend|mean|think|choose|take|select|pick out|request
+65,long,JJ,NA,long,farseeing|farsighted|foresighted|foresightful|long|longsighted|prospicient|recollective|retentive|tenacious,
+65,polyubiquitin,NN,NA,polyubiquitin,,NA
+65,chain,NNS,s,chain,chain|Chain|chain of mountains|chemical chain|concatenation|Ernst Boris Chain|mountain chain|mountain range|range|range of mountains|Sir Ernst Boris Chain|strand|string,series|unit|building block|ligament|business|concern|business concern|business organization|business organisation|restraint|constraint|linear unit|linear measure|geological formation|formation|necklace
+65,commit,VBP,NA,commit,charge|commit|confide|consecrate|dedicate|devote|entrust|give|institutionalise|institutionalize|intrust|invest|perpetrate|place|practice|pull|put|send|trust,act|move|use|utilize|utilise|apply|employ|transfer|pass|hand|reach|pass on|turn over|give|spend|expend|drop|prosecute|engage|pursue
+65,substrate,NN,NA,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+65,unfold,VBG,ing,unfold,blossom|blossom forth|blossom out|extend|open|spread|spread out|stretch|stretch out|unfold,develop|bring out|unveil|reveal|change shape|change form|deform|undo
+65,degradation,NN,NA,degrad,abasement|abjection|debasement|degradation,change of state|humiliation
+65,proteasome,NN,NA,proteasom,,NA
+65,short,JJ,NA,short,brusk|brusque|curt|forgetful|inadequate|jejune|light|little|myopic|poor|scant(p)|short|short(p)|shortsighted|unforesightful|unretentive,
+65,chain,NNS,s,chain,chain|Chain|chain of mountains|chemical chain|concatenation|Ernst Boris Chain|mountain chain|mountain range|range|range of mountains|Sir Ernst Boris Chain|strand|string,series|unit|building block|ligament|business|concern|business concern|business organization|business organisation|restraint|constraint|linear unit|linear measure|geological formation|formation|necklace
+65,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+65,poor,JJ,NA,poor,hapless|inadequate|jejune|miserable|misfortunate|pathetic|piteous|pitiable|pitiful|poor|short|wretched,
+65,substrate,NNS,s,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+65,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+65,edited,JJ,NA,edit,edited|emended,
+65,deubiquitinate,VBG,ing,deubiquitin,,NA
+65,enzyme,NNS,s,enzym,enzyme,protein|catalyst|accelerator
+65,result,VBG,ing,result,ensue|lead|leave|result,prove|turn out|turn up|produce|bring about|give rise|happen|hap|go on|pass off|occur|pass|fall out|come about|take place
+65,premature,JJ,NA,prematur,premature|previous(p)|untimely,
+65,substrate,NN,NA,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+65,release,NN,NA,releas,acquittance|button|departure|discharge|dismissal|dismission|exit|expiration|firing|freeing|going|handout|liberation|loss|outlet|passing|press release|release|sack|sacking|spill|spillage|tone ending|vent|waiver,merchandise|ware|product|accomplishment|achievement|natural process|natural action|action|activity|announcement|promulgation|termination|ending|conclusion|death|decease|expiry|legal document|legal instrument|official document|instrument|device|flow|stream|relinquishment|relinquishing
+65,eytan,NNP,NA,eytan,,NA
+65,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+65,1993,CD,NA,1993,NA,NA
+66,lam,NNP,NA,lam,getaway|lam,escape|flight
+66,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+66,1997,CD,NA,1997,NA,NA
+67,thrower,NNP,NA,thrower,ceramicist|ceramist|potter|thrower|throwster,worker|person|individual|someone|somebody|mortal|soul|craftsman|artisan|journeyman|artificer
+67,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+67,2000,CD,NA,2000,NA,NA
+68,guterman,NNP,NA,guterman,,NA
+68,glickman,NNP,NA,glickman,,NA
+68,2003,CD,NA,2003,NA,NA
+69,extended,NNP,NA,extend,,NA
+69,polyubiquitin,NN,NA,polyubiquitin,,NA
+69,chain,NNS,s,chain,chain|Chain|chain of mountains|chemical chain|concatenation|Ernst Boris Chain|mountain chain|mountain range|range|range of mountains|Sir Ernst Boris Chain|strand|string,series|unit|building block|ligament|business|concern|business concern|business organization|business organisation|restraint|constraint|linear unit|linear measure|geological formation|formation|necklace
+69,slow,VB,NA,slow,decelerate|retard|slack|slacken|slow|slow down|slow up,decrease|diminish|lessen|fall|weaken|decelerate|slow|slow down|slow up|retard
+69,down,RB,NA,down,down|downward|downwardly|downwards,NA
+69,chain,NN,NA,chain,chain|Chain|chain of mountains|chemical chain|concatenation|Ernst Boris Chain|mountain chain|mountain range|range|range of mountains|Sir Ernst Boris Chain|strand|string,series|unit|building block|ligament|business|concern|business concern|business organization|business organisation|restraint|constraint|linear unit|linear measure|geological formation|formation|necklace
+69,disassembly,RB,NA,disassembli,,NA
+69,thereby,RB,NA,therebi,thereby,NA
+69,allow,VBG,ing,allow,admit|allow|allow for|appropriate|countenance|earmark|give up|grant|leave|let|permit|provide|reserve|set aside|take into account|tolerate,NA
+69,ample,JJ,NA,ampl,ample|copious|plenteous|plentiful|rich|sizable|sizeable,
+69,time,NN,NA,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+69,unfold,VBG,ing,unfold,blossom|blossom forth|blossom out|extend|open|spread|spread out|stretch|stretch out|unfold,develop|bring out|unveil|reveal|change shape|change form|deform|undo
+69,proteolysis,NNS,NA,proteolysi,proteolysis,chemical process|chemical change|chemical action
+69,substrate,NN,NA,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+69,figure,NN,NA,figur,anatomy|bod|build|chassis|design|digit|fig|figure|figure of speech|flesh|form|frame|human body|image|material body|name|number|pattern|physical body|physique|public figure|shape|soma|trope,illustration|body|organic structure|integer|whole number|model|simulation|important person|influential person|personage|shape|form|sum|sum of money|amount|amount of money|impression|effect|rhetorical device|percept|perception|perceptual experience|decoration|ornament|ornamentation|maneuver|manoeuvre|play
+70,interestingly,RB,NA,interestingli,interestingly,
+70,trim,VBG,ing,trim,bring down|clip|crop|cut|cut back|cut down|dress|garnish|lop|pare|prune|reduce|shave|snip|trim|trim back|trim down,cut|decorate|adorn|grace|ornament|embellish|beautify|decrease|lessen|minify|balance|equilibrate|equilibrize|equilibrise|be|thin out|adjust|set|correct
+70,shaving,NN,NA,shave,grazing|paring|shave|shaving|skimming|sliver,depilation|epilation|fragment|touch|touching
+70,deubiquitinate,VBG,ing,deubiquitin,,NA
+70,activity,NNS,s,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+70,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+70,associate,VBN,ed,associ,affiliate|associate|assort|colligate|connect|consociate|consort|link|link up|relate|tie in,think|cogitate|cerebrate|interact|unite|unify
+70,proteasome,NN,NA,proteasom,,NA
+70,exact,JJ,NA,exact,accurate|exact|precise,
+70,contribution,NN,NA,contribut,contribution|donation|part|share,attempt|effort|endeavor|endeavour|try|gift|giving|sum|sum of money|amount|amount of money|publication|publishing
+70,various,JJ,NA,variou,assorted|diverse|respective(a)|several(a)|various|various(a)|versatile,
+70,proteasome-associated,JJ,NA,proteasome-associ,,NA
+70,deubiquitinate,VBG,ing,deubiquitin,,NA
+70,enzyme,NNS,s,enzym,enzyme,protein|catalyst|accelerator
+70,distinct,JJ,NA,distinct,clear-cut|decided|discrete|distinct|distinguishable|trenchant,
+70,activity,NNS,s,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+70,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+70,yet,RB,NA,yet,all the same|as yet|at the same time|even|even so|heretofore|hitherto|however|in time|nevertheless|nonetheless|notwithstanding|so far|still|thus far|til now|until now|up to now|withal|yet,NA
+70,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+70,elucidated,JJ,NA,elucid,,NA
+71,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+71,expect,VBN,ed,expect,anticipate|ask|await|bear|carry|expect|gestate|have a bun in the oven|look|require|wait,evaluate|pass judgment|judge|demand|see|consider|reckon|view|regard|expect|look|await|wait|give birth|deliver|bear|birth|have
+71,order,NN,NA,order,club|decree|edict|fiat|gild|guild|Holy Order|lodge|monastic order|order|Order|order of magnitude|ordering|orderliness|ordination|parliamentary law|parliamentary procedure|purchase order|rescript|rules of order|social club|society,command|bid|bidding|dictation|magnitude|state|arrangement|condition|status|act|enactment|commercial document|commercial instrument|association|rule|prescript|position|sect|religious sect|religious order|taxonomic group|taxonomic category|taxon|request|asking|artistic style|idiom|organization|organisation
+71,obtain,VB,NA,obtain,find|get|hold|incur|obtain|prevail|receive,get|acquire|change|exist|be
+71,efficient,JJ,NA,effici,effective|efficient,
+71,proteolysis,NNS,NA,proteolysi,proteolysis,chemical process|chemical change|chemical action
+71,target,NN,NA,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+71,shaving,NN,NA,shave,grazing|paring|shave|shaving|skimming|sliver,depilation|epilation|fragment|touch|touching
+71,chain,NNS,s,chain,chain|Chain|chain of mountains|chemical chain|concatenation|Ernst Boris Chain|mountain chain|mountain range|range|range of mountains|Sir Ernst Boris Chain|strand|string,series|unit|building block|ligament|business|concern|business concern|business organization|business organisation|restraint|constraint|linear unit|linear measure|geological formation|formation|necklace
+71,proximal,NN,NA,proxim,,NA
+71,ubiquitin,NN,NA,ubiquitin,,NA
+71,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+71,slower,JJR,NA,slower,,NA
+71,rate,NN,NA,rate,charge per unit|pace|rate,magnitude relation|quantitative relation|charge|temporal property|proportion
+71,trim,VBG,ing,trim,bring down|clip|crop|cut|cut back|cut down|dress|garnish|lop|pare|prune|reduce|shave|snip|trim|trim back|trim down,cut|decorate|adorn|grace|ornament|embellish|beautify|decrease|lessen|minify|balance|equilibrate|equilibrize|equilibrise|be|thin out|adjust|set|correct
+71,distal,NN,NA,distal,,NA
+71,moiety,NN,NA,moieti,mediety|moiety,one-half|half|social group
+72,outcome,NN,NA,outcom,consequence|effect|event|final result|issue|outcome|result|resultant|termination|upshot,ending|conclusion|finish|phenomenon
+72,requirement,NN,NA,requir,demand|essential|necessary|necessity|prerequisite|requirement|requisite,duty|responsibility|obligation|thing
+72,longer,JJR,NA,longer,,NA
+72,polyubiquitin,NN,NA,polyubiquitin,,NA
+72,tag,NNS,s,tag,rag|shred|tag|tag end|tatter|ticket,label|piece of cloth|piece of material|child's game|touch|touching
+72,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+72,preferential,JJ,NA,preferenti,discriminatory|preferential,
+72,substrate,NNS,s,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+72,degradation,NN,NA,degrad,abasement|abjection|debasement|degradation,change of state|humiliation
+72,proteasome,NN,NA,proteasom,,NA
+73,thus,RB,NA,thu,hence|so|thence|therefore|thus|thusly,NA
+73,uniqueness,NNS,NA,uniqu,singularity|uniqueness,individuality|individualism|individuation
+73,ubiquitin,NN,NA,ubiquitin,,NA
+73,label,NN,NA,label,label|recording label,description|trade name|brand name|brand|marque|radioisotope|marker|marking|mark
+73,degradation,NN,NA,degrad,abasement|abjection|debasement|degradation,change of state|humiliation
+73,lie,VB,NA,lie,consist|dwell|lie|lie down|lie in|rest,be|exist|misinform|mislead|change posture
+73,be,VBG,ing,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+73,reversible,JJ,NA,revers,reversible|two-sided,
+73,tag,NN,NA,tag,rag|shred|tag|tag end|tatter|ticket,label|piece of cloth|piece of material|child's game|touch|touching
+74,deubiquitinase,NNP,s,deubiquitinas,,NA
+74,such,JJ,NA,such,such(a),
+74,rpn,NNP,NA,rpn,,NA
+74,11,CD,NA,11,NA,NA
+74,serve,VBP,NA,serv,answer|assist|attend|attend to|dish|dish out|dish up|do|function|help|process|serve|serve up|serve well|service|suffice|swear out|wait on,suffice|do|answer|serve|work|do work|effect|effectuate|set up|function|operate|go|run|provide|supply|ply|cater|foster|nurture|spend|pass|help|assist|aid|deliver|satisfy|fulfill|fulfil|live up to|copulate|mate|pair|couple|move
+74,proofread,VBG,ing,proofread,proof|proofread,see|check|insure|see to it|ensure|control|ascertain|assure
+74,device,NNS,s,devic,device|gimmick|twist,instrumentality|instrumentation|expressive style|style|maneuver|manoeuvre|tactical maneuver|tactical manoeuvre|design|pattern|figure|emblem
+74,reversal,NN,NA,revers,about-face|black eye|blow|change of mind|flip-flop|policy change|reversal|reverse|reversion|setback|transposition|turn around|turnabout|turnaround|volte-face,change of state|happening|occurrence|occurrent|natural event|turning|turn|decision making|deciding|judgment|judgement|judicial decision|change of direction|reorientation|reordering|change
+74,fortune,NN,NA,fortun,chance|circumstances|destiny|fate|fortune|hazard|lot|luck|portion,phenomenon|treasure|hoarded wealth|condition
+74,various,JJ,NA,variou,assorted|diverse|respective(a)|several(a)|various|various(a)|versatile,
+74,stage,NNS,s,stage,degree|leg|level|microscope stage|phase|point|stage|stagecoach,time period|period of time|period|state|platform|dramaturgy|dramatic art|dramatics|theater|theatre|coach|four-in-hand|coach-and-four|travel|traveling|travelling|scene
+74,process,NN,NA,process,appendage|cognitive operation|cognitive process|mental process|operation|outgrowth|physical process|procedure|process|summons|unconscious process,activity|cognition|knowledge|noesis|writ|judicial writ|body part|physical entity
+74,right,RB,NA,right,all|altogether|aright|completely|correctly|decent|decently|entirely|flop|justly|mightily|mighty|powerful|properly|right|right on|totally|whole|wholly,NA
+74,final,JJ,NA,final,concluding|final|last|net|terminal,
+74,step,NN,NA,step,dance step|footfall|footmark|footprint|footstep|gradation|measure|pace|stair|step|stone's throw|stride|tone|whole step|whole tone,maneuver|manoeuvre|tactical maneuver|tactical manoeuvre|indefinite quantity|locomotion|travel|support|rank|small indefinite quantity|small indefinite amount|sound|interval|musical interval|mark|print|block
+74,irreversible,JJ,NA,irrevers,irreversible,
+74,degradation,NN,NA,degrad,abasement|abjection|debasement|degradation,change of state|humiliation
+74,proteasome,NN,NA,proteasom,,NA
+75,identifying,NNP,NA,identifi,,NA
+75,rpn,NNP,NA,rpn,,NA
+75,11,CD,NA,11,NA,NA
+75,csn,NNP,NA,csn,,NA
+75,5,CD,NA,5,NA,NA
+75,member,NNS,s,member,appendage|extremity|fellow member|member|penis|phallus,associate|part|portion|component part|component|constituent|external body part|unit|social unit|erectile organ
+75,novel,NN,NA,novel,novel,fiction|book|volume
+75,class,NN,NA,class,category|class|course|course of instruction|course of study|division|family|form|grade|social class|socio-economic class|stratum|year,collection|aggregation|accumulation|assemblage|gathering|people|education|instruction|teaching|pedagogy|didactics|educational activity|league|conference|taxonomic group|taxonomic category|taxon|elegance
+75,metallohydrolase,NNS,s,metallohydrolas,,NA
+75,immediately,RB,NA,immedi,at once|directly|forthwith|immediately|instantly|like a shot|now|right away|straight off|straightaway,
+75,elevate,VBZ,s,elev,advance|bring up|elevate|get up|kick upstairs|lift|promote|raise|upgrade,delegate|designate|depute|assign|move|displace|change|alter|modify
+75,promising,JJ,NA,promis,bright|hopeful|promising,
+75,drugable,JJ,NA,drugabl,,NA
+75,candidate,NNS,s,candid,campaigner|candidate|nominee|prospect,politician|politico|pol|political leader|person|individual|someone|somebody|mortal|soul
+76,undoubtedly,NNP,NA,undoubtedli,,NA
+76,molecular,JJ,NA,molecular,molecular|molecular(a),
+76,structure,NNS,s,structur,anatomical structure|bodily structure|body structure|complex body part|construction|social organisation|social organization|social structure|social system|structure,artifact|artefact|constitution|composition|physical composition|makeup|make-up|cognition|knowledge|noesis|body part|system|scheme
+76,deciphered,JJ,NA,deciph,deciphered,
+76,group,NNS,s,group,chemical group|group|grouping|mathematical group|radical,abstraction|abstract entity|unit|building block|set
+76,deshai,NNP,s,deshai,,NA
+76,ambroggio,NNP,NA,ambroggio,,NA
+76,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+76,2003,CD,NA,2003,NA,NA
+76,bycroft,NNP,NA,bycroft,,NA
+76,tran,NNP,NA,tran,,NA
+76,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+76,2003,CD,NA,2003,NA,NA
+76,focus,VB,NA,focu,center|centre|concenter|concentrate|concentre|focalise|focalize|focus|pore|rivet|sharpen,think|cogitate|cerebrate|sharpen|align|aline|line up|adjust|conform|adapt|set|correct
+76,effort,NNS,s,effort,attempt|campaign|cause|crusade|drive|effort|elbow grease|endeavor|endeavour|exertion|exploit|feat|movement|sweat|travail|try,activity|labor|labour|toil|accomplishment|achievement|venture
+76,design,VB,NA,design,contrive|design|plan|project,create by mental act|create mentally|intend|destine|designate|specify|create|make|gestate|conceive|conceptualize|conceptualise|mean|think
+76,novel,NN,NA,novel,novel,fiction|book|volume
+76,site-specific,JJ,NA,site-specif,,NA
+76,inhibitor,NNS,s,inhibitor,inhibitor,substance
+76,ubiquitin–proteasome,NN,NA,ubiquitin–proteasom,,NA
+76,pathway,NN,NA,pathwai,footpath|nerve pathway|nerve tract|pathway|tract,white matter|substantia alba|path
+77,csn,NNP,NA,csn,,NA
+77,5,CD,NA,5,NA,NA
+77,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+77,think,VBN,ed,think,believe|call back|call up|cerebrate|cogitate|conceive|consider|guess|imagine|intend|mean|opine|recall|reckon|recollect|remember|retrieve|suppose|think,evaluate|pass judgment|judge|expect|anticipate|imagine|conceive of|ideate|envisage|concentrate|focus|center|centre|pore|rivet|think|cogitate|cerebrate|believe|consider|conceive|change|alter|modify
+77,impede,VB,NA,imped,block|close up|hinder|impede|jam|obstruct|obturate|occlude,prevent|keep|impede|hinder
+77,action,NN,NA,action,action|action at law|action mechanism|activeness|activity|legal action|military action|natural action|natural process,act|deed|human action|human activity|state|group action|process|physical process|plot|drive|mechanism|proceeding|legal proceeding|proceedings|work
+77,ubiquitin,NN,NA,ubiquitin,,NA
+77,ligase,NNS,s,ligas,,NA
+77,shaving,NN,NA,shave,grazing|paring|shave|shaving|skimming|sliver,depilation|epilation|fragment|touch|touching
+77,cullin,NNS,s,cullin,,NA
+77,rub,NNP,NA,rub,hang-up|hitch|rub|snag|wipe,obstacle|obstruction|contact|physical contact
+77,1,CD,NA,1,NA,NA
+77,/,NN,NA,/,,NA
+77,nedd,NNP,NA,nedd,,NA
+77,8,CD,NA,8,NA,NA
+77,modification,NN,NA,modif,adjustment|alteration|change|limiting|modification|qualifying,change|copy|grammatical relation|happening|occurrence|occurrent|natural event
+77,possibly,RB,NA,possibli,maybe|mayhap|peradventure|perchance|perhaps|possibly,NA
+77,also,RB,NA,also,also|as well|besides|likewise|too,NA
+77,deubiquitinate,VBG,ing,deubiquitin,,NA
+77,substrate,NNS,s,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+77,bind,VBN,ed,bind,adhere|attach|bandage|bind|bond|constipate|hold|hold fast|obligate|oblige|stick|stick to|tie|tie down|tie up|truss,attach|relate|fasten|fix|secure|restrain|confine|hold|constrain|cover|adhere|hold fast|bond|bind|stick|stick to|indispose
+77,cullin,NNS,s,cullin,,NA
+77,outcome,NN,NA,outcom,consequence|effect|event|final result|issue|outcome|result|resultant|termination|upshot,ending|conclusion|finish|phenomenon
+77,rpn,NNP,NA,rpn,,NA
+77,11,CD,NA,11,NA,NA
+77,inhibition,NN,NA,inhibit,forbiddance|inhibition|prohibition|suppression,abstinence|restraint|control|organic process|biological process|action
+77,depend,VB,NA,depend,bank|bet|calculate|count|depend|look|reckon|rely|swear,be|trust
+77,largely,RB,NA,larg,for the most part|largely|mostly,NA
+77,rpn,NNP,NA,rpn,,NA
+77,11,CD,NA,11,NA,NA
+77,participate,VBZ,s,particip,enter|participate|take part,act|move
+77,primarily,RB,NA,primarili,chiefly|in the first place|in the main|mainly|primarily|principally,
+77,shaving,NN,NA,shave,grazing|paring|shave|shaving|skimming|sliver,depilation|epilation|fragment|touch|touching
+77,substrate,NNS,s,substrat,substrate|substratum,substance|surface|stratum|indigenous language
+77,chain,NNS,s,chain,chain|Chain|chain of mountains|chemical chain|concatenation|Ernst Boris Chain|mountain chain|mountain range|range|range of mountains|Sir Ernst Boris Chain|strand|string,series|unit|building block|ligament|business|concern|business concern|business organization|business organisation|restraint|constraint|linear unit|linear measure|geological formation|formation|necklace
+77,promote,VBG,ing,promot,advance|advertise|advertize|boost|elevate|encourage|further|kick upstairs|promote|push|raise|upgrade,support|back up|delegate|designate|depute|assign|praise|change|play
+77,release,NN,NA,releas,acquittance|button|departure|discharge|dismissal|dismission|exit|expiration|firing|freeing|going|handout|liberation|loss|outlet|passing|press release|release|sack|sacking|spill|spillage|tone ending|vent|waiver,merchandise|ware|product|accomplishment|achievement|natural process|natural action|action|activity|announcement|promulgation|termination|ending|conclusion|death|decease|expiry|legal document|legal instrument|official document|instrument|device|flow|stream|relinquishment|relinquishing
+77,rescue,NN,NA,rescu,deliverance|delivery|rescue|saving,recovery|retrieval
+77,trim,VBG,ing,trim,bring down|clip|crop|cut|cut back|cut down|dress|garnish|lop|pare|prune|reduce|shave|snip|trim|trim back|trim down,cut|decorate|adorn|grace|ornament|embellish|beautify|decrease|lessen|minify|balance|equilibrate|equilibrize|equilibrise|be|thin out|adjust|set|correct
+77,polyubiquitin,NN,NA,polyubiquitin,,NA
+77,tag,NN,NA,tag,rag|shred|tag|tag end|tatter|ticket,label|piece of cloth|piece of material|child's game|touch|touching
+77,allow,VBG,ing,allow,admit|allow|allow for|appropriate|countenance|earmark|give up|grant|leave|let|permit|provide|reserve|set aside|take into account|tolerate,NA
+77,proteolysis,NNS,NA,proteolysi,proteolysis,chemical process|chemical change|chemical action
+77,quality,NN,NA,qualiti,caliber|calibre|character|lineament|quality|timber|timbre|tone,attribute|degree|grade|level|property|dimension|sound property|social station|social status|social rank|rank
+77,control,NN,NA,control,ascendance|ascendancy|ascendence|ascendency|command|control|control condition|controller|dominance|mastery|restraint,power|powerfulness|relation|bodily process|body process|bodily function|activity|criterion|standard|condition|status|discipline|skillfulness|mechanism|spirit|disembodied spirit|economic policy
+77,figure,NN,NA,figur,anatomy|bod|build|chassis|design|digit|fig|figure|figure of speech|flesh|form|frame|human body|image|material body|name|number|pattern|physical body|physique|public figure|shape|soma|trope,illustration|body|organic structure|integer|whole number|model|simulation|important person|influential person|personage|shape|form|sum|sum of money|amount|amount of money|impression|effect|rhetorical device|percept|perception|perceptual experience|decoration|ornament|ornamentation|maneuver|manoeuvre|play

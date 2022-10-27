@@ -1,0 +1,143 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,september,NNP,NA,septemb,Sep|Sept|September,Gregorian calendar month
+1,vanity,NNP,NA,vaniti,amour propre|conceit|conceitedness|dresser|dressing table|emptiness|self-love|toilet table|vanity,pride|pridefulness|worthlessness|ineptitude|trait|table
+1,fair,NNP,NA,fair,bazaar|carnival|fair|funfair,show|gathering|assemblage|exhibition|exposition|expo|sale|cut-rate sale|sales event
+1,profiler,NN,NA,profil,,NA
+1,marjorie,NNP,NA,marjori,,NA
+1,william,NNP,s,william,,NA
+1,offer,VBZ,s,offer,bid|declare oneself|extend|offer|offer up|pop the question|proffer|propose|provide|put up|tender|volunteer,supply|provide|render|furnish|give|act|move|project|propose|pay|market|produce|bring on|bring out|worship|engage|wage|request|threaten
+1,tasty,JJ,NA,tasti,tasty,
+1,larry,NNP,NA,larri,,NA
+1,king,NNP,NA,king,B. B. King|baron|big businessman|Billie Jean King|Billie Jean Moffitt King|business leader|king|King|magnate|male monarch|Martin Luther King|Martin Luther King Jr.|mogul|power|queen|Rex|Riley B King|top executive|tycoon|world-beater,sovereign|crowned head|monarch|rival|challenger|competitor|competition|contender|businessman|man of affairs|eminence|distinction|preeminence|note|checker|chequer|face card|picture card|court card|chessman|chess piece
+1,anecdote,NN,NA,anecdot,anecdote,report|account
+2,one,CD,NA,on,NA,NA
+2,most,JJS,NA,most,most(a),
+2,oft,NN,NA,oft,,NA
+2,tell,VBD,ed,tell,assure|differentiate|distinguish|enjoin|evidence|narrate|order|recite|recount|say|secern|secernate|separate|severalise|severalize|state|tell|tell apart,express|verbalize|verbalise|utter|give tongue to|inform|request|guess|infer|affirm|verify|assert|avow|aver|swan|swear|identify|place
+2,larry,NNP,NA,larri,,NA
+2,story,NNP,s,stori,account|chronicle|fib|floor|history|level|narration|narrative|news report|report|storey|story|tale|taradiddle|tarradiddle|write up,message|content|subject matter|substance|fiction|structure|construction|record|news|lie|prevarication
+2,circulate,VBP,NA,circul,broadcast|circularise|circularize|circulate|diffuse|disperse|disseminate|distribute|go around|pass around|pass on|propagate|spread,travel|go|move|locomote|publicize|publicise|air|bare|displace|run|flow|feed|course
+2,cnn,NNP,NA,cnn,,NA
+2,concern,VBZ,s,concern,bear on|come to|concern|have to do with|interest|occupy|pertain|refer|relate|touch|touch on|worry,
+2,take-out,NN,NA,take-out,,NA
+2,order,NN,NA,order,club|decree|edict|fiat|gild|guild|Holy Order|lodge|monastic order|order|Order|order of magnitude|ordering|orderliness|ordination|parliamentary law|parliamentary procedure|purchase order|rescript|rules of order|social club|society,command|bid|bidding|dictation|magnitude|state|arrangement|condition|status|act|enactment|commercial document|commercial instrument|association|rule|prescript|position|sect|religious sect|religious order|taxonomic group|taxonomic category|taxon|request|asking|artistic style|idiom|organization|organisation
+2,eat,VBZ,s,eat,consume|corrode|deplete|eat|eat on|eat up|exhaust|feed|run through|rust|use up|wipe out,eat|consume|ingest|take in|take|have|worry|vex|spend|expend|drop|damage
+2,dinner,NN,NA,dinner,dinner|dinner party,meal|repast|party
+2,desk,NN,NA,desk,desk,table
+2,show,NN,NA,show,appearance|display|show,entertainment|amusement|demonstration|demo|social event|pretense|pretence|pretending|simulation|feigning
+3,favorite,JJ,NA,favorit,best-loved|favored|favorite|favorite(a)|favourite|favourite(a)|pet|preferent|preferred,
+3,dish,NN,NA,dish,bag|beauty|cup of tea|dish|dish aerial|dish antenna|dishful|knockout|looker|lulu|mantrap|peach|ravisher|saucer|smasher|stunner|sweetheart,crockery|dishware|container|nutriment|nourishment|nutrition|sustenance|aliment|alimentation|victuals|containerful|woman|adult female|directional antenna|activity
+3,local,JJ,NA,local,local,
+3,chinese,JJ,NA,chines,Chinese|Formosan|Taiwanese,
+3,restaurant,NN,NA,restaur,eatery|eating house|eating place|restaurant,building|edifice
+3,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,chicken,NN,NA,chicken,chicken|crybaby|Gallus gallus|poulet|volaille|wimp,poultry|domestic fowl|fowl|weakling|doormat|wuss|contest|competition
+3,cashews--without,JJ,NA,cashews--without,,NA
+3,fat-laden,JJ,NA,fat-laden,,NA
+3,cashew,NNS,s,cashew,Anacardium occidentale|cashew|cashew nut|cashew tree,nut tree|edible nut
+4,food,NN,NA,food,food|food for thought|intellectual nourishment|nutrient|solid food,substance|solid|content|cognitive content|mental object
+4,arrive,VBZ,s,arriv,arrive|come|get|get in|go far|make it,succeed|win|come through|bring home the bacon|deliver the goods
+4,young,JJ,NA,young,immature|new|unseasoned|untested|untried|vernal|young|youthful,
+4,intern,NN,NA,intern,houseman|intern|interne|medical intern,doctor|doc|physician|MD|Dr.|medico
+4,production,NN,NA,product,output|product|production|yield,act|deed|human action|human activity|presentation|creation|exhibition|indefinite quantity|display|industry|manufacture|creative activity
+4,assistant,NN,NA,assist,assistant|help|helper|supporter,worker
+4,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+4,charge,VBN,ed,charg,accuse|agitate|appoint|bear down|bill|blame|buck|burden|charge|charge up|commit|commove|consign|excite|file|institutionalise|institutionalize|level|load|lodge|point|rouse|saddle|send|shoot|shoot down|tear|turn on,rush|account|calculate|hotfoot|hasten|hie|speed|race|pelt along|rush along|cannonball along|bucket along|belt along|step on it|accuse|impeach|incriminate|criminate|claim|change|alter|modify|debit|transfer|entrust|intrust|trust|confide|commit|pay|lie down|lie|disturb|upset|trouble|paint|fill|fill up|make full|aim|take|train|take aim|direct|command|require|instruct|impute|ascribe|assign|attribute|determine|set|supply|provide|render|furnish|impregnate|saturate
+4,comb,VBG,ing,comb,comb|comb out|disentangle|ransack,straighten|straighten out|search|groom|neaten
+4,remove,VB,NA,remov,absent|bump off|dispatch|get rid of|hit|move out|murder|off|polish off|remove|slay|take|take away|take out|transfer|withdraw,transfer|shift|disappear|vanish|go away|kill
+4,errant,NN,NA,errant,,NA
+4,nut,NNS,s,nut,addict|ball|ballock|bollock|crackpot|crank|egg|en|freak|fruitcake|junkie|junky|nut|Nut|nut case|orchis|screwball|testicle|testis,seed|block|linear unit|linear measure|eccentric|eccentric person|flake|oddball|geek|enthusiast|partisan|partizan|male reproductive gland|gonad|sex gland
+5,then,RB,NA,then,and so|so|then,NA
+5,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+5,swaddle,NN,NA,swaddl,,NA
+5,chicken,NN,NA,chicken,chicken|crybaby|Gallus gallus|poulet|volaille|wimp,poultry|domestic fowl|fowl|weakling|doormat|wuss|contest|competition
+5,paper,NN,NA,paper,composition|newspaper|newspaper publisher|paper|report|theme,material|stuff|essay|press|public press|medium|article|publisher|publishing house|publishing firm|publishing company|product|production
+5,towel,NNS,s,towel,towel,piece of cloth|piece of material
+5,squeeze,NN,NA,squeez,clinch|credit crunch|hug|liquidity crisis|power play|squeeze|squeeze play|squeezing|wring,compression|compressing|financial condition|loss|red ink|red|lover|movement|motion|attempt|effort|endeavor|endeavour|try|embrace|embracing|embracement|constriction
+5,excess,JJ,NA,excess,excess|extra|redundant|spare|supererogatory|superfluous|supernumerary|surplus,
+5,oil,NN,NA,oil,crude|crude oil|fossil oil|oil|oil color|oil colour|petroleum|rock oil|vegetable oil,lipid|lipide|lipoid|oil paint|oil|fossil fuel|edible fat
+6,friend,NN,NA,friend,acquaintance|admirer|ally|booster|champion|friend|Friend|protagonist|Quaker|supporter,person|individual|someone|somebody|mortal|soul|associate|advocate|advocator|proponent|exponent|Christian
+6,chatterbox,NNP,NA,chatterbox,babbler|chatterbox|chatterer|Epipactis gigantea|giant helleborine|magpie|prater|spouter|stream orchid,helleborine|speaker|talker|utterer|verbalizer|verbaliser
+6,recall,VBZ,s,recal,call back|call in|call up|come back|echo|hark back|recall|recollect|remember|retrieve|return|think|withdraw,denote|refer|resemble|call|send for|concentrate|focus|center|centre|pore|rivet|cancel|strike down|take
+6,two-year,JJ,NA,two-year,biennial|two-year,
+6,tenure,NN,NA,tenur,incumbency|land tenure|tenure|term of office,term|legal right
+6,king,NNP,NA,king,B. B. King|baron|big businessman|Billie Jean King|Billie Jean Moffitt King|business leader|king|King|magnate|male monarch|Martin Luther King|Martin Luther King Jr.|mogul|power|queen|Rex|Riley B King|top executive|tycoon|world-beater,sovereign|crowned head|monarch|rival|challenger|competitor|competition|contender|businessman|man of affairs|eminence|distinction|preeminence|note|checker|chequer|face card|picture card|court card|chessman|chess piece
+6,grease,NN,NA,greas,dirt|filth|grease|grime|grunge|lubricating oil|soil|stain,oil|dirtiness|uncleanness
+6,monkey,NNP,NA,monkei,imp|monkey|rapscallion|rascal|scalawag|scallywag|scamp,primate|child|kid|youngster|minor|shaver|nipper|small fry|tiddler|tike|tyke|fry|nestling
+6,say,VBZ,s,sai,allege|articulate|aver|enjoin|enounce|enunciate|order|pronounce|read|say|sound out|state|suppose|tell,express|verbalize|verbalise|utter|give tongue to|assert|asseverate|maintain|speculate|have|feature|request|convey|recite|read|register|show|record
+6,william,NNP,s,william,,NA
+6,get,VBD,ed,get,acquire|aim|amaze|arrest|arrive|baffle|beat|become|beget|begin|bewilder|bring|bring forth|bugger off|buzz off|capture|catch|cause|come|commence|contract|convey|develop|draw|drive|dumbfound|engender|experience|father|fetch|find|fix|flummox|fuck off|generate|get|get down|get under one's skin|go|gravel|grow|have|incur|induce|let|make|mother|mystify|nonplus|obtain|pay back|pay off|perplex|pose|produce|puzzle|receive|scram|set about|set out|sire|start|start out|stick|stimulate|stupefy|suffer|sustain|take|vex,change state|turn|make|get|change|transmit|transfer|transport|channel|channelize|channelise|undergo|get even|get back|score|hit|tally|rack up|seize|prehend|clutch|sicken|come down|communicate|intercommunicate|alter|modify|mean|intend|understand|attract|pull|pull in|draw|draw in|acquire|buy|purchase|hear|hurt|ache|suffer|leave|go forth|go away|catch|annoy|rag|get to|bother|get at|irritate|rile|nark|nettle|gravel|vex|chafe|devil|touch|stir|reproduce|effect|effectuate|set up|destroy|ruin|confuse|throw|fox|befuddle|fuddle|bedevil|confound|discombobulate|experience|receive|have|create
+6,story,NN,NA,stori,account|chronicle|fib|floor|history|level|narration|narrative|news report|report|storey|story|tale|taradiddle|tarradiddle|write up,message|content|subject matter|substance|fiction|structure|construction|record|news|lie|prevarication
+6,right,NN,NA,right,right|right field|right hand|right wing|rightfield|rightfulness,abstraction|abstract|position|place|tract|piece of land|piece of ground|parcel of land|parcel|faction|sect|hand|manus|mitt|paw|turn|turning|justice|justness|interest|stake
+6,underplay,NNS,s,underplai,,NA
+6,loopy,NN,NA,loopi,,NA
+6,talk-show,NN,NA,talk-show,,NA
+6,host,NN,NA,host,boniface|emcee|horde|host|Host|innkeeper|legion|master of ceremonies|server,adult|grownup|multitude|throng|concourse|organism|being|entertainer|army|regular army|ground forces|organization|organisation|recipient|receiver|patron|bread|breadstuff|staff of life|computer|computing machine|computing device|data processor|electronic computer|information processing system
+6,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+6,vittle,NNS,s,vittl,,NA
+7,drain,VBN,ed,drain,debilitate|drain|enfeeble|run out,run|flow|feed|course|consume|eat up|use up|eat|deplete|exhaust|run through|wipe out|empty|weaken
+7,larry,NNP,NA,larri,,NA
+7,meat,NN,NA,meat,center|centre|core|essence|gist|heart|heart and soul|inwardness|kernel|marrow|meat|nitty-gritty|nub|pith|substance|sum,food|solid food|plant part|plant structure|content|cognitive content|mental object
+7,almost,RB,NA,almost,about|almost|most|near|nearly|nigh|virtually|well-nigh,NA
+7,two,CD,NA,two,NA,NA
+7,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+7,work,VBG,ing,work,act|act upon|bring|crop|cultivate|do work|exercise|exploit|ferment|figure out|forge|form|function|go|influence|knead|lick|make|make for|mold|mould|operate|play|process|put to work|puzzle out|run|shape|solve|sour|turn|work|work on|work out|wreak,succeed|win|come through|bring home the bacon|deliver the goods|transform|transmute|transubstantiate|work|put to work|pass|go|proceed|move|displace|make|create|use|utilize|utilise|apply|employ|fix|prepare|set up|ready|gear up|set|be|affect|impact|bear upon|bear on|touch on|touch|operate|run|manage|deal|care|handle|stimulate|excite|stir|capture|enamour|trance|catch|becharm|enamor|captivate|beguile|charm|fascinate|bewitch|entrance|enchant|create from raw material|create from raw stuff|manipulate|understand|convert|change state|turn|become|get
+7,show,NN,NA,show,appearance|display|show,entertainment|amusement|demonstration|demo|social event|pretense|pretence|pretending|simulation|feigning
+8,intern,NN,NA,intern,houseman|intern|interne|medical intern,doctor|doc|physician|MD|Dr.|medico
+8,/,NN,NA,/,,NA
+8,production,NN,NA,product,output|product|production|yield,act|deed|human action|human activity|presentation|creation|exhibition|indefinite quantity|display|industry|manufacture|creative activity
+8,assistant,NN,NA,assist,assistant|help|helper|supporter,worker
+8,open,VB,NA,open,afford|give|open|open up|spread|spread out|unfold,change state|turn|start|start up|embark on|commence|undo|yield|give|afford|arise|come up|move|go|expose|exhibit|display
+8,cranberry,NN,NA,cranberri,cranberry,shrub|bush|berry|berry
+8,juice,NN,NA,juic,juice|succus,foodstuff|food product|energy|vim|vitality|current|electric current|liquid body substance|bodily fluid|body fluid|humor|humour
+8,pour,VB,NA,pour,decant|pelt|pour|pour out|pullulate|rain buckets|rain cats and dogs|stream|swarm|teem,move|displace|crowd|crowd together|pour|run|flow|feed|course|supply|provide|render|furnish|rain|rain down
+8,ice,NN,NA,ic,chalk|chicken feed|crank|deoxyephedrine|frappe|frosting|glass|ice|ICE|ice rink|ice-skating rink|icing|internal-combustion engine|meth|methamphetamine|methamphetamine hydrochloride|Methedrine|shabu|sparkler|trash|water ice,crystal|object|physical object|diamond|topping|frozen dessert|amphetamine|pep pill|upper|speed|controlled substance|heat engine|rink|skating rink
+8,just,RB,NA,just,barely|but|exactly|hardly|just|just now|merely|only|precisely|properly|scarce|scarcely|simply,NA
+8,so,RB,NA,so,and so|hence|indeed|so|then|thence|therefore|thus|thusly,NA
+9,also,RB,NA,also,also|as well|besides|likewise|too,NA
+9,want,VBZ,s,want,desire|need|require|want,be|search|seek|look for|demand|miss|lack
+9,packet,NNS,s,packet,bundle|mail boat|mailboat|package|packet|packet boat|parcel,collection|aggregation|accumulation|assemblage|message|package|parcel|boat
+9,hot,JJ,NA,hot,blistering|hot|live|raging|red-hot|spicy,
+9,mustard,NN,NA,mustard,Indian mustard|leaf mustard|mustard|mustard greens|table mustard,crucifer|cruciferous plant|condiment|cruciferous vegetable
+9,open,VBD,ed,open,afford|give|open|open up|spread|spread out|unfold,change state|turn|start|start up|embark on|commence|undo|yield|give|afford|arise|come up|move|go|expose|exhibit|display
+9,spread,NN,NA,spread,banquet|bed cover|bed covering|bedcover|bedspread|cattle farm|cattle ranch|counterpane|facing pages|feast|gap|paste|ranch|scatter|spread|spread head|spreadhead|spreading,change of location|travel|disparity|farm|distribution|dispersion|condiment|meal|repast|page|girth|bedclothes|bed clothing|bedding|extension
+9,chicken,NN,NA,chicken,chicken|crybaby|Gallus gallus|poulet|volaille|wimp,poultry|domestic fowl|fowl|weakling|doormat|wuss|contest|competition
+10,spot,VBZ,s,spot,blemish|blob|blot|descry|discern|distinguish|espy|fleck|make out|pick out|recognise|recognize|spot|spy|tell apart,spy|sight|dirty|soil|begrime|grime|colly|bemire|change surface|change|mark
+10,nut,NNS,s,nut,addict|ball|ballock|bollock|crackpot|crank|egg|en|freak|fruitcake|junkie|junky|nut|Nut|nut case|orchis|screwball|testicle|testis,seed|block|linear unit|linear measure|eccentric|eccentric person|flake|oddball|geek|enthusiast|partisan|partizan|male reproductive gland|gonad|sex gland
+10,excess,JJ,NA,excess,excess|extra|redundant|spare|supererogatory|superfluous|supernumerary|surplus,
+10,grease,NN,NA,greas,dirt|filth|grease|grime|grunge|lubricating oil|soil|stain,oil|dirtiness|uncleanness
+10,grub,NN,NA,grub,chow|chuck|eats|grub,fare|larva
+10,show,NN,NA,show,appearance|display|show,entertainment|amusement|demonstration|demo|social event|pretense|pretence|pretending|simulation|feigning
+10,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+10,ruin,VBN,ed,ruin,bankrupt|break|deflower|destroy|ruin|smash,thwart|queer|spoil|scotch|foil|cross|frustrate|baffle|bilk|impoverish|lay waste to|waste|devastate|desolate|ravage|scourge|copulate|mate|pair|couple|decay|crumble|dilapidate
+11,commercial,JJ,NA,commerci,commercial|commercial-grade,
+11,break,NNS,s,break,breach|break|break of serve|breakage|breaking|breakout|disruption|falling out|fault|faulting|fracture|gaolbreak|gap|geological fault|good luck|happy chance|intermission|interruption|jailbreak|open frame|pause|prison-breaking|prisonbreak|recess|respite|rift|rupture|severance|shift|suspension|time out,happening|occurrence|occurrent|natural event|accident|stroke|fortuity|chance event|crack|cleft|crevice|fissure|scissure|separation|breakup|detachment|pause|change of integrity|time interval|interval|injury|hurt|harm|trauma|change|alteration|modification|shot|score|delay|holdup|dash|sprint|escape|flight
+11,harp,VB,NA,harp,dwell|harp,repeat|reiterate|ingeminate|iterate|restate|retell|play
+11,botch,VBN,ed,botch,ball up|blow|bobble|bodge|bollix|bollix up|bollocks|bollocks up|botch|botch up|bumble|bungle|flub|fluff|foul up|fuck up|fumble|louse up|mess up|mishandle|muck up|muff|screw up|spoil,fail|go wrong|miscarry
+11,meal,NN,NA,meal,meal|repast,nutriment|nourishment|nutrition|sustenance|aliment|alimentation|victuals|occasion|foodstuff|food product
+11,unsettling,JJ,NA,unsettl,,NA
+11,king,NNP,NA,king,B. B. King|baron|big businessman|Billie Jean King|Billie Jean Moffitt King|business leader|king|King|magnate|male monarch|Martin Luther King|Martin Luther King Jr.|mogul|power|queen|Rex|Riley B King|top executive|tycoon|world-beater,sovereign|crowned head|monarch|rival|challenger|competitor|competition|contender|businessman|man of affairs|eminence|distinction|preeminence|note|checker|chequer|face card|picture card|court card|chessman|chess piece
+11,crew,NN,NA,crew,bunch|crew|crowd|gang|work party,unit|social unit|unit|social unit|gathering|assemblage|team|squad
+11,guest,NN,NA,guest,client|Edgar Albert Guest|Edgar Guest|guest|Guest|invitee|node,visitor|visitant|customer|client|computer|computing machine|computing device|data processor|electronic computer|information processing system
+11,alike,RB,NA,alik,alike|likewise,NA
+12,intern,NN,NA,intern,houseman|intern|interne|medical intern,doctor|doc|physician|MD|Dr.|medico
+12,/,NN,NA,/,,NA
+12,production,NN,NA,product,output|product|production|yield,act|deed|human action|human activity|presentation|creation|exhibition|indefinite quantity|display|industry|manufacture|creative activity
+12,assistant,NN,NA,assist,assistant|help|helper|supporter,worker
+12,only,RB,NA,onli,alone|but|entirely|exclusively|just|merely|only|only if|only when|simply|solely,NA
+12,dive,VB,NA,dive,dive|plunge|plunk,descend|fall|go down|come down|submerge|submerse|swim
+12,cover,NN,NA,cover,back|binding|blanket|book binding|concealment|cover|cover charge|cover song|cover version|covering|covering fire|covert|masking|natural covering|screen|screening|top,covering|bedclothes|bed clothing|bedding|concealment|concealing|hiding|protective covering|protective cover|protection|natural object|fire|firing|fixed charge|fixed cost|fixed costs|recording
+13,retire,VBN,ed,retir,adjourn|bed|crawl in|draw back|go to bed|go to sleep|hit the hay|hit the sack|kip down|move back|pull away|pull back|put out|recede|retire|retreat|sack out|strike out|turn in|withdraw,leave office|quit|step down|resign|discontinue|stop|cease|give up|lay off|travel|go|move|locomote|recall|close up|close|fold|shut down|close down|displace|fire|give notice|can|dismiss|give the axe|send away|sack|force out|give the sack|terminate|discard|fling|toss|toss out|toss away|chuck out|cast aside|dispose|throw out|cast out|throw away|cast away|put away|tire|pall|weary|fatigue|jade|toy|fiddle|diddle|play
+13,grease,NN,NA,greas,dirt|filth|grease|grime|grunge|lubricating oil|soil|stain,oil|dirtiness|uncleanness
+13,monkey,NNP,NA,monkei,imp|monkey|rapscallion|rascal|scalawag|scallywag|scamp,primate|child|kid|youngster|minor|shaver|nipper|small fry|tiddler|tike|tyke|fry|nestling
+13,say,VBZ,s,sai,allege|articulate|aver|enjoin|enounce|enunciate|order|pronounce|read|say|sound out|state|suppose|tell,express|verbalize|verbalise|utter|give tongue to|assert|asseverate|maintain|speculate|have|feature|request|convey|recite|read|register|show|record
+13,only,JJ,NA,onli,alone(p)|lone(a)|lonesome(a)|only|only(a)|sole(a)|solitary(a),
+13,time,NN,NA,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+13,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+13,absolute,JJ,NA,absolut,absolute|downright|infrangible|inviolable|out-and-out(a)|rank(a)|right-down|sheer(a),
+13,calm,NN,NA,calm,calm|calm air|calmness|composure|equanimity,disposition|temperament|wind|air current|current of air
+13,set,VBN,NA,set,adjust|arrange|coif|coiffe|coiffure|congeal|correct|countersink|define|determine|do|dress|fix|fructify|gear up|go down|go under|jell|lay|lay out|limit|localise|localize|mark|place|plant|pose|position|prepare|put|ready|rig|set|set up|sic|specify|typeset,move|displace|choose|take|select|pick out|lay down|establish|make|change|alter|modify|arrange|set up|adjust|set|correct|stage|present|represent|descend|fall|go down|come down|compose|write|put|place|pose|position|lay|originate|initiate|start|solidify|print|impress|bury|sink|hone|assail|assault|set on|attack|estimate|gauge|approximate|guess|judge|equip|fit|fit out|outfit|fix|prepare|ready|gear up|reproduce|procreate|multiply|groom|neaten
+13,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+13,king,NNP,NA,king,B. B. King|baron|big businessman|Billie Jean King|Billie Jean Moffitt King|business leader|king|King|magnate|male monarch|Martin Luther King|Martin Luther King Jr.|mogul|power|queen|Rex|Riley B King|top executive|tycoon|world-beater,sovereign|crowned head|monarch|rival|challenger|competitor|competition|contender|businessman|man of affairs|eminence|distinction|preeminence|note|checker|chequer|face card|picture card|court card|chessman|chess piece
+13,go,VBD,ed,go,become|belong|blend|blend in|break|break down|buy the farm|cash in one's chips|choke|conk|conk out|croak|decease|depart|die|drop dead|endure|exit|expire|extend|fail|fit|function|get|get going|give out|give way|give-up the ghost|go|go away|go bad|hold out|hold up|kick the bucket|last|lead|live|live on|locomote|move|operate|pass|pass away|perish|plump|pop off|proceed|rifle|run|run low|run short|snuff it|sound|start|survive|travel|work,NA
+13,dinner,NN,NA,dinner,dinner|dinner party,meal|repast|party
