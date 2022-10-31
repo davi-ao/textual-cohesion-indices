@@ -33,8 +33,11 @@ for (f in files_indices_pseudo) {
                 select(-clique))
 }
 
-# Plot of cohesion indices (distribution)
-indices_oanc %>%
+# Prepare tibble for plotting
+indices = indices_oanc %>%
+  mutate(genre = text %>% 
+           str_match('([a-z]+)_') %>% 
+           .[,2]) %>%
   mutate(clique_id = clique_id %>% as.character(),
          corpus = 'oanc') %>%
   bind_rows(indices_pseudotext %>%
@@ -48,16 +51,19 @@ indices_oanc %>%
          type = type %>%
            as_factor() %>%
            recode('e' = 'Edge Cohesion',
-                  'v' = 'Vertex Cohesion')) %>%
-  ggplot(aes(value, ..scaled.., fill = corpus)) +
+                  'v' = 'Vertex Cohesion'))
+
+# Plot probability distribution of cohesion indices
+indices %>%
+  ggplot(aes(value, ..scaled.., fill = corpus, group = text)) +
   facet_wrap(type ~ index, scales = 'free') +
   geom_density(alpha = .5) +
-  theme(legend.position = 'bottom', legend.direction = 'vertical') +
+  theme(legend.position = 'bottom', legend.direction = 'horizontal') +
   scale_color_brewer(palette = 'Dark2')
 
-#ggsave('FiguraX.png', 
-#       device = 'png', 
-#       width = 16, 
-#       height = 16, 
-#       units = 'cm', 
-#       dpi = 300)
+ggsave('oanc_pseudo.png', 
+       device = 'png', 
+       width = 24.7, 
+       height = 16, 
+       units = 'cm', 
+       dpi = 300)

@@ -6,25 +6,21 @@
 
 # Load packages
 library(tidyverse)
-library(jtools)
-
-# Set APA theme for the plots
-theme_set(theme_apa())
 
 # List csv files
 dir = 'corpora/oanc_csv/'
 files = list.files(dir)
 
-# Create the indices table
-indices = tibble(
-  text = character(),
-  clique_id = character(),
-  index = character(),
-  v = numeric(),
-  e = numeric()
-)
-
 for (file in files) {
+  # Create the indices table
+  indices = tibble(
+    text = character(),
+    clique_id = character(),
+    index = character(),
+    v = numeric(),
+    e = numeric()
+  )
+  
   text_name = file %>% str_sub(0,-5)
   annotated_text = read_csv(paste0(dir, file)) %>%
     mutate(clique_id = clique_id %>% as.character())
