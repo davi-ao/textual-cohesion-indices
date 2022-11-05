@@ -28,7 +28,7 @@ for (file in files) {
   # Global Backward Cohesion Indices ---------------------------------------------
   data = annotated_text %>%
     group_by(clique_id) %>%
-    distinct(stem, .keep_all = T) %>%
+    distinct(lemma, .keep_all = T) %>%
     mutate(synonyms = synonyms %>% str_remove_all('\\(a\\)|\\(p\\)'))
   
   global_backward_cohesion = tibble(
@@ -50,8 +50,8 @@ for (file in files) {
       bind_rows(tibble(
         text = text_name,
         clique_id = q,
-        r = intersect(q_i %>% .$stem, G_i %>% .$stem) %>% length(),
-        m_c = (q_i %>% filter(!stem %in% G_i$stem) %>% .$lemma) %in% 
+        r = intersect(q_i %>% .$lemma, G_i %>% .$lemma) %>% length(),
+        m_c = (q_i %>% filter(!lemma %in% G_i$lemma) %>% .$lemma) %in% 
           (c(G_i %>% .$synonyms %>% str_split('\\|') %>% unlist(),
              G_i %>% .$hypernyms %>% str_split('\\|') %>% unlist()) %>% 
              unique()) %>%
@@ -107,8 +107,8 @@ for (file in files) {
       bind_rows(tibble(
         text = text_name,
         clique_id = q[i],
-        r = intersect(q_i %>% .$stem, q_j %>% .$stem) %>% length(),
-        m_c = (q_i %>% filter(!stem %in% q_j$stem) %>% .$lemma) %in% 
+        r = intersect(q_i %>% .$lemma, q_j %>% .$lemma) %>% length(),
+        m_c = (q_i %>% filter(!lemma %in% q_j$lemma) %>% .$lemma) %in% 
           (c(q_j %>% .$synonyms %>% str_split('\\|') %>% unlist(),
              q_j %>% .$hypernyms %>% str_split('\\|') %>% unlist()) %>% 
              unique()) %>%
@@ -153,8 +153,8 @@ for (file in files) {
     for (j in 1:length(q)) {
       if (j > i) {
         q_j = data %>% filter(clique_id == q[j])
-        r = intersect(q_i %>% .$stem, q_j %>% .$stem) %>% length()
-        m_c = (q_i %>% filter(!stem %in% q_j$stem) %>% .$lemma) %in% 
+        r = intersect(q_i %>% .$lemma, q_j %>% .$lemma) %>% length()
+        m_c = (q_i %>% filter(!lemma %in% q_j$lemma) %>% .$lemma) %in% 
           (c(q_j %>% .$synonyms %>% str_split('\\|') %>% unlist(),
              q_j %>% .$hypernyms %>% str_split('\\|') %>% unlist()) %>% 
              unique()) %>%
@@ -193,5 +193,5 @@ for (file in files) {
         select(text, clique_id, v, e) %>%
         mutate(index = 'pairwise'))
   
-  write_csv(indices, paste0('corpora/indices_oanc/', file))
+  write_csv(indices, paste0('corpora/indices_oanc/lemma_', file))
 }
