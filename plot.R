@@ -1,4 +1,7 @@
 library(tidyverse)
+library(jtools)
+
+theme_set(theme_apa())
 
 indices_oanc = tibble(
   text = character(),
@@ -19,14 +22,6 @@ for (f in files_indices_oanc_root) {
 
 indices_oanc = indices_oanc %>%
   mutate(vertices_type = 'root')
-
-for (f in files_indices_oanc_lemma) {
-  indices_oanc = indices_oanc %>%
-    bind_rows(
-      read_csv(paste0(dir, f)) %>%
-        mutate(vertices_type = 'lemma')
-    )
-}
 
 indices_pseudotext = tibble(
   text = character(),
@@ -67,20 +62,11 @@ indices = indices_oanc %>%
 
 # Plot probability distribution of cohesion indices
 indices %>%
-  ggplot(aes(value, ..scaled.., fill = corpus, group = text)) +
+  ggplot(aes(value, ..scaled.., fill = corpus, group = corpus)) +
   facet_wrap(type ~ index, scales = 'free') +
   geom_density(alpha = .5) +
   theme(legend.position = 'bottom', legend.direction = 'horizontal') +
-  scale_color_brewer(palette = 'Dark2')
-
-# Plot probability distribution of cohesion indices by vertices type
-indices %>%
-  filter(!is.na(vertices_type)) %>%
-  ggplot(aes(value, ..scaled.., fill = vertices_type, group = vertices_type)) +
-  facet_wrap(type ~ index, scales = 'free') +
-  geom_density(alpha = .5) +
-  theme(legend.position = 'bottom', legend.direction = 'horizontal') +
-  scale_color_brewer(palette = 'Dark2')
+  scale_fill_brewer(palette = 'Dark2')
 
 ggsave('oanc_vertices_type.png', 
        device = 'png', 
