@@ -2295,16 +2295,6 @@
             <f name="msd" value="NN"/>
         </fs>
     </a>
-    <region xml:id="penn-r225" anchors="1578 1579"/>
-    <node xml:id="penn-n225">
-        <link targets="penn-r225"/>
-    </node>
-    <a label="tok" ref="penn-n225" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
-        </fs>
-    </a>
     <region xml:id="penn-r226" anchors="1580 1584"/>
     <node xml:id="penn-n226">
         <link targets="penn-r226"/>
@@ -3362,38 +3352,8 @@
     </node>
     <a label="tok" ref="penn-n329" as="xces">
         <fs>
-            <f name="base" value="e"/>
+            <f name="base" value="eg"/>
             <f name="msd" value="SYM"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r330" anchors="2217 2218"/>
-    <node xml:id="penn-n330">
-        <link targets="penn-r330"/>
-    </node>
-    <a label="tok" ref="penn-n330" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
-        </fs>
-    </a>
-    <region xml:id="penn-r331" anchors="2218 2219"/>
-    <node xml:id="penn-n331">
-        <link targets="penn-r331"/>
-    </node>
-    <a label="tok" ref="penn-n331" as="xces">
-        <fs>
-            <f name="base" value="g"/>
-            <f name="msd" value="SYM"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r332" anchors="2219 2220"/>
-    <node xml:id="penn-n332">
-        <link targets="penn-r332"/>
-    </node>
-    <a label="tok" ref="penn-n332" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
         </fs>
     </a>
     <region xml:id="penn-r333" anchors="2220 2221"/>
@@ -3434,47 +3394,6 @@
         <fs>
             <f name="base" value="."/>
             <f name="msd" value="."/>
-        </fs>
-    </a>
-    <region xml:id="penn-r337" anchors="2256 2260"/>
-    <node xml:id="penn-n337">
-        <link targets="penn-r337"/>
-    </node>
-    <a label="tok" ref="penn-n337" as="xces">
-        <fs>
-            <f name="base" value="gene"/>
-            <f name="msd" value="NNP"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r338" anchors="2261 2269"/>
-    <node xml:id="penn-n338">
-        <link targets="penn-r338"/>
-    </node>
-    <a label="tok" ref="penn-n338" as="xces">
-        <fs>
-            <f name="msd" value="NNP"/>
-            <f name="base" value="network"/>
-            <f name="affix" value="s"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r339" anchors="2270 2278"/>
-    <node xml:id="penn-n339">
-        <link targets="penn-r339"/>
-    </node>
-    <a label="tok" ref="penn-n339" as="xces">
-        <fs>
-            <f name="base" value="generate"/>
-            <f name="msd" value="NNP"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r340" anchors="2279 2291"/>
-    <node xml:id="penn-n340">
-        <link targets="penn-r340"/>
-    </node>
-    <a label="tok" ref="penn-n340" as="xces">
-        <fs>
-            <f name="base" value="canalization"/>
-            <f name="msd" value="NNP"/>
         </fs>
     </a>
     <region xml:id="penn-r341" anchors="2300 2303"/>
@@ -6732,38 +6651,8 @@
     </node>
     <a label="tok" ref="penn-n659" as="xces">
         <fs>
-            <f name="base" value="i"/>
+            <f name="base" value="ie"/>
             <f name="msd" value="NNP"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r660" anchors="4283 4284"/>
-    <node xml:id="penn-n660">
-        <link targets="penn-r660"/>
-    </node>
-    <a label="tok" ref="penn-n660" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
-        </fs>
-    </a>
-    <region xml:id="penn-r661" anchors="4284 4285"/>
-    <node xml:id="penn-n661">
-        <link targets="penn-r661"/>
-    </node>
-    <a label="tok" ref="penn-n661" as="xces">
-        <fs>
-            <f name="base" value="e"/>
-            <f name="msd" value="SYM"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r662" anchors="4285 4286"/>
-    <node xml:id="penn-n662">
-        <link targets="penn-r662"/>
-    </node>
-    <a label="tok" ref="penn-n662" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
         </fs>
     </a>
     <region xml:id="penn-r663" anchors="4286 4287"/>
@@ -7220,38 +7109,8 @@
     </node>
     <a label="tok" ref="penn-n707" as="xces">
         <fs>
-            <f name="base" value="i"/>
+            <f name="base" value="ie"/>
             <f name="msd" value="NNP"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r708" anchors="4545 4546"/>
-    <node xml:id="penn-n708">
-        <link targets="penn-r708"/>
-    </node>
-    <a label="tok" ref="penn-n708" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
-        </fs>
-    </a>
-    <region xml:id="penn-r709" anchors="4546 4547"/>
-    <node xml:id="penn-n709">
-        <link targets="penn-r709"/>
-    </node>
-    <a label="tok" ref="penn-n709" as="xces">
-        <fs>
-            <f name="base" value="e"/>
-            <f name="msd" value="SYM"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r710" anchors="4547 4548"/>
-    <node xml:id="penn-n710">
-        <link targets="penn-r710"/>
-    </node>
-    <a label="tok" ref="penn-n710" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
         </fs>
     </a>
     <region xml:id="penn-r711" anchors="4548 4549"/>
@@ -10425,59 +10284,6 @@
             <f name="msd" value="."/>
         </fs>
     </a>
-    <region xml:id="penn-r1022" anchors="6572 6575"/>
-    <node xml:id="penn-n1022">
-        <link targets="penn-r1022"/>
-    </node>
-    <a label="tok" ref="penn-n1022" as="xces">
-        <fs>
-            <f name="base" value="ion"/>
-            <f name="msd" value="NNP"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r1023" anchors="6576 6584"/>
-    <node xml:id="penn-n1023">
-        <link targets="penn-r1023"/>
-    </node>
-    <a label="tok" ref="penn-n1023" as="xces">
-        <fs>
-            <f name="msd" value="NNP"/>
-            <f name="base" value="channel"/>
-            <f name="affix" value="s"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r1024" anchors="6585 6587"/>
-    <node xml:id="penn-n1024">
-        <link targets="penn-r1024"/>
-    </node>
-    <a label="tok" ref="penn-n1024" as="xces">
-        <fs>
-            <f name="msd" value="IN"/>
-            <f name="base" value="as"/>
-            <f name="affix" value=" "/>
-        </fs>
-    </a>
-    <region xml:id="penn-r1025" anchors="6588 6600"/>
-    <node xml:id="penn-n1025">
-        <link targets="penn-r1025"/>
-    </node>
-    <a label="tok" ref="penn-n1025" as="xces">
-        <fs>
-            <f name="base" value="evolutionary"/>
-            <f name="msd" value="NNP"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r1026" anchors="6601 6608"/>
-    <node xml:id="penn-n1026">
-        <link targets="penn-r1026"/>
-    </node>
-    <a label="tok" ref="penn-n1026" as="xces">
-        <fs>
-            <f name="msd" value="NNP"/>
-            <f name="base" value="buffer"/>
-            <f name="affix" value="s"/>
-        </fs>
-    </a>
     <region xml:id="penn-r1027" anchors="6617 6622"/>
     <node xml:id="penn-n1027">
         <link targets="penn-r1027"/>
@@ -12673,16 +12479,6 @@
             <f name="msd" value="NN"/>
         </fs>
     </a>
-    <region xml:id="penn-r1242" anchors="8002 8003"/>
-    <node xml:id="penn-n1242">
-        <link targets="penn-r1242"/>
-    </node>
-    <a label="tok" ref="penn-n1242" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
-        </fs>
-    </a>
     <region xml:id="penn-r1243" anchors="8004 8008"/>
     <node xml:id="penn-n1243">
         <link targets="penn-r1243"/>
@@ -12731,16 +12527,6 @@
         <fs>
             <f name="base" value="al"/>
             <f name="msd" value="NN"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r1248" anchors="8024 8025"/>
-    <node xml:id="penn-n1248">
-        <link targets="penn-r1248"/>
-    </node>
-    <a label="tok" ref="penn-n1248" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
         </fs>
     </a>
     <region xml:id="penn-r1249" anchors="8026 8030"/>
@@ -12793,16 +12579,6 @@
             <f name="msd" value="NN"/>
         </fs>
     </a>
-    <region xml:id="penn-r1254" anchors="8045 8046"/>
-    <node xml:id="penn-n1254">
-        <link targets="penn-r1254"/>
-    </node>
-    <a label="tok" ref="penn-n1254" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
-        </fs>
-    </a>
     <region xml:id="penn-r1255" anchors="8047 8051"/>
     <node xml:id="penn-n1255">
         <link targets="penn-r1255"/>
@@ -12851,16 +12627,6 @@
         <fs>
             <f name="base" value="al"/>
             <f name="msd" value="NN"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r1260" anchors="8064 8065"/>
-    <node xml:id="penn-n1260">
-        <link targets="penn-r1260"/>
-    </node>
-    <a label="tok" ref="penn-n1260" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
         </fs>
     </a>
     <region xml:id="penn-r1261" anchors="8066 8070"/>
@@ -14152,16 +13918,6 @@
         <fs>
             <f name="base" value="al"/>
             <f name="msd" value="NN"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r1388" anchors="8846 8847"/>
-    <node xml:id="penn-n1388">
-        <link targets="penn-r1388"/>
-    </node>
-    <a label="tok" ref="penn-n1388" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
         </fs>
     </a>
     <region xml:id="penn-r1389" anchors="8856 8860"/>
@@ -15574,16 +15330,6 @@
         <fs>
             <f name="base" value="al"/>
             <f name="msd" value="NN"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r1528" anchors="9679 9680"/>
-    <node xml:id="penn-n1528">
-        <link targets="penn-r1528"/>
-    </node>
-    <a label="tok" ref="penn-n1528" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
         </fs>
     </a>
     <region xml:id="penn-r1529" anchors="9689 9693"/>
@@ -18848,16 +18594,6 @@
         <fs>
             <f name="base" value="al"/>
             <f name="msd" value="NN"/>
-        </fs>
-    </a>
-    <region xml:id="penn-r1850" anchors="11866 11867"/>
-    <node xml:id="penn-n1850">
-        <link targets="penn-r1850"/>
-    </node>
-    <a label="tok" ref="penn-n1850" as="xces">
-        <fs>
-            <f name="base" value="."/>
-            <f name="msd" value="."/>
         </fs>
     </a>
     <region xml:id="penn-r1851" anchors="11868 11872"/>

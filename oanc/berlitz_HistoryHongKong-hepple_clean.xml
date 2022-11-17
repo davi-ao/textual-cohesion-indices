@@ -1872,23 +1872,13 @@
             <f name="msd" value="IN"/>
         </fs>
     </a>
-    <region xml:id="penn-r187" anchors="1067 1068"/>
-    <node xml:id="penn-n187">
-        <link targets="penn-r187"/>
-    </node>
-    <a label="tok" ref="penn-n187" as="xces">
-        <fs>
-            <f name="base" value="a"/>
-            <f name="msd" value="DT"/>
-        </fs>
-    </a>
     <region xml:id="penn-r189" anchors="1069 1070"/>
     <node xml:id="penn-n189">
         <link targets="penn-r189"/>
     </node>
     <a label="tok" ref="penn-n189" as="xces">
         <fs>
-            <f name="base" value="d"/>
+            <f name="base" value="ad"/>
             <f name="msd" value="SYM"/>
         </fs>
     </a>
