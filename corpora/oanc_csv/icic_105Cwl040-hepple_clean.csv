@@ -1,0 +1,109 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,november,NNP,NA,novemb,Nov|November,Gregorian calendar month
+1,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+1,more,RBR,NA,more,more|to a greater extent,
+1,ever,RB,NA,ever,always|e'er|ever|ever so|of all time,NA
+1,girl,NNS,s,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+1,need,VBP,NA,need,ask|call for|demand|involve|necessitate|need|postulate|require|take|want,NA
+1,support,NN,NA,support,accompaniment|backing|backup|bread and butter|documentation|financial backing|financial support|funding|keep|livelihood|living|musical accompaniment|reenforcement|reinforcement|support|supporting|sustenance,activity|aid|assist|assistance|help|influence|operation|military operation|validation|proof|substantiation|resource|supporting structure|part|voice|device
+1,help,VB,NA,help,aid|assist|avail|facilitate|help|help oneself|serve,support|back up|better|improve|amend|ameliorate|meliorate|serve|refrain|forbear|provide|supply|ply|cater|promote|advance|boost|further|encourage|exploit|work
+1,dream,NNS,s,dream,ambition|aspiration|dream|dreaming|pipe dream,imagination|imaging|imagery|mental imagery|imaginativeness|vision|desire|fantasy|phantasy|reverie|revery|perfection|flawlessness|ne plus ultra
+1,become,VBP,NA,becom,become|get|go|suit|turn,change state|turn|transform|transmute|metamorphose|fancify|beautify|embellish|prettify
+1,reality,NN,NA,realiti,realism|reality|realness|world,experience|actuality|materiality|physicalness|corporeality|corporality
+2,generation,NN,NA,gener,coevals|contemporaries|generation|genesis|multiplication|propagation,people|biological group|time period|period of time|period|phase|stage|beginning|production|reproduction|procreation|breeding|facts of life
+2,girl,NNS,s,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+2,face,VBZ,s,face,confront|face|face up|front|look|present,set about|go about|approach|meet|encounter|play|take on|lie|be|turn|disclose|expose|uncover|line|cover
+2,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+2,challenge,NNS,s,challeng,challenge,situation|state of affairs|speech act|questioning|inquiring|objection|demand
+3,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+3,technology,NN,NA,technologi,applied science|engineering|engineering science|technology,application|practical application|discipline|subject|subject area|subject field|field|field of study|study|bailiwick|machinery|equipment
+3,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+3,moral,JJ,NA,moral,moral,
+3,issue,NNS,s,issu,consequence|effect|egress|emergence|event|exit|government issue|issuance|issue|issuing|matter|military issue|number|offspring|outcome|outlet|payoff|proceeds|progeny|publication|result|return|subject|take|takings|topic|upshot|way out|yield,content|cognitive content|mental object|periodical|provision|supply|supplying|store|stock|fund|income|phenomenon|relative|relation|beginning|opening|printing
+3,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+3,opportunity,NNS,s,opportun,chance|opportunity,possibility|possibleness
+4,girl,NNP,NA,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+4,scout,NNP,s,scout,guide|lookout|lookout man|pathfinder|picket|scout|Scout|sentinel|sentry|spotter|talent scout|watch,watchman|watcher|security guard|male child|boy|female child|girl|little girl|recruiter|expert
+4,experience,NN,NA,experi,experience,education|content|cognitive content|mental object|happening|occurrence|occurrent|natural event
+4,wide,JJ,NA,wide,across-the-board|all-embracing|all-encompassing|all-inclusive|blanket(a)|broad|encompassing|extensive|full|panoptic|spacious|wide|wide of the mark|wide-cut|wide-eyed,
+4,range,NN,NA,rang,ambit|chain|chain of mountains|compass|cooking stove|grasp|image|kitchen range|kitchen stove|mountain chain|mountain range|orbit|range|range of a function|range of mountains|reach|scope|stove,extent|limit|tract|piece of land|piece of ground|parcel of land|parcel|geological formation|formation|facility|installation|assortment|mixture|mixed bag|miscellany|miscellanea|variety|salmagundi|smorgasbord|potpourri|motley|set|capability|capableness|potentiality|kitchen appliance
+4,real,JJ,NA,real,actual|existent|genuine|literal|material|real|real(a)|substantial|tangible|veridical,
+4,life,NN,NA,life,aliveness|animation|biography|life|life history|life sentence|life story|life-time|lifespan|lifetime|liveliness|living|spirit|sprightliness,being|beingness|existence|face of the earth|experience|time period|period of time|period|person|individual|someone|somebody|mortal|soul|animation|spiritedness|invigoration|brio|vivification|living thing|animate thing|organic phenomenon|history|account|chronicle|story|motivation|motive|need|prison term|sentence|time
+4,skills--first,JJ,NA,skills--first,,NA
+4,aid,NN,NA,aid,aid|assist|assistance|attention|care|economic aid|economic assistance|financial aid|financial assistance|help|tending,resource|activity|gift|work
+4,resume,VB,NA,resum,re-start|restart|resume|sum up|summarise|summarize|take up,continue|uphold|carry on|bear on|preserve|change|assume|adopt|take on|take over|repeat|reiterate|ingeminate|iterate|restate|retell
+4,write,VBG,ing,write,compose|drop a line|indite|pen|save|spell|write,create verbally|communicate|intercommunicate|correspond|make|create|trace|draw|line|describe|delineate|record|tape|create by mental act|create mentally
+4,manage,VBG,ing,manag,bring off|care|carry off|contend|cope|deal|do|finagle|get by|grapple|handle|make do|make out|manage|negociate|oversee|pull off|superintend|supervise|wangle|wield,NA
+4,money,NN,NA,monei,money,medium of exchange|monetary system|wealth|currency
+5,also,RB,NA,also,also|as well|besides|likewise|too,NA
+5,reap,VB,NA,reap,draw|glean|harvest|reap,gather|garner|collect|pull together|derive|gain
+5,benefit,NNS,s,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+5,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+5,difficult,JJ,NA,difficult,difficult|hard|unmanageable,
+5,measure,VB,NA,measur,appraise|assess|evaluate|measure|measure out|mensurate|quantify|valuate|value,decide|make up one's mind|determine|carry|convey|express|be|evaluate|pass judgment|judge
+5,include,VBG,ing,includ,admit|include|let in,see|consider|reckon|view|regard|add|permit|allow|let|countenance
+5,enhanced,JJ,NA,enhanc,enhanced,
+5,self-esteem,NN,NA,self-esteem,self-esteem|self-pride,pride|pridefulness
+5,greater,JJR,NA,greater,greater,
+5,confidence,NN,NA,confid,assurance|authority|confidence|self-assurance|self-confidence|sureness|trust,certainty|security|hopefulness|friendship|friendly relationship|secret
+5,ability,NNS,s,abil,ability|power,quality|cognition|knowledge|noesis
+5,strength,NN,NA,strength,durability|effectiveness|enduringness|force|forcefulness|forte|intensity|intensity level|lastingness|long suit|metier|military capability|military posture|military strength|persuasiveness|posture|potency|speciality|specialty|strength|strong point|strong suit,property|capability|capableness|intensity|intensiveness|asset|plus|power|powerfulness|magnitude|prosperity|successfulness|permanence|permanency
+5,conviction,NN,NA,convict,article of faith|condemnation|conviction|judgment of conviction|sentence|strong belief,belief|final judgment|final decision
+5,take,VB,NA,take,accept|acquire|admit|adopt|aim|ask|assume|bring|call for|carry|charter|choose|claim|conduct|consider|consume|contain|contract|convey|deal|demand|direct|drive|engage|exact|fill|film|get|get hold of|guide|have|hire|hold|ingest|involve|lead|learn|lease|look at|make|necessitate|need|occupy|pack|pick out|postulate|read|remove|rent|require|select|shoot|strike|study|submit|subscribe|subscribe to|take|take aim|take away|take in|take on|take up|train|use up|withdraw,NA
+5,lead,NN,NA,lead,atomic number 82|booster cable|confidential information|hint|jumper cable|jumper lead|lead|lead story|lead-in|leading|leash|lede|Pb|pencil lead|principal|spark advance|star|steer|tether|tip|track|trail|wind,advantage|vantage|metallic element|metal|evidence|grounds|leadership|leading|angle|section|subdivision|score|actor|histrion|player|thespian|role player|position|place|guidance|counsel|counseling|counselling|direction|news article|news story|newspaper article|timing|restraint|constraint|strip|slip|graphite|black lead|plumbago|jumper|wire|conducting wire|turn|play
+5,excel,VBP,NA,excel,excel|stand out|surpass,
+5,endeavor,NNS,s,endeavor,attempt|effort|endeavor|endeavour|enterprise|try,undertaking|project|task|labor|activity
+6,start,VBP,NA,start,begin|bug out|bulge|bulge out|come out|commence|depart|embark on|get|get down|get going|go|initiate|jump|lead off|originate|part|pop|pop out|protrude|set about|set forth|set off|set out|start|start out|start up|startle|take off|take up,leave|go forth|go away|make|create|begin|lead off|start|commence|move|play|be|act|change shape|change form|deform
+6,early,JJ,NA,earli,early|early(a)|former(a)|other(a),
+7,preventive,JJ,NA,prevent,preventative|preventive|prophylactic,
+7,informal,JJ,NA,inform,cozy|informal|intimate|loose,
+7,education,NN,NA,educ,breeding|Department of Education|didactics|education|Education|Education Department|educational activity|instruction|pedagogy|teaching|training,activity|content|cognitive content|mental object|learning|acquisition|profession|upbringing|executive department
+7,program,NN,NA,program,broadcast|computer program|computer programme|course of study|curriculum|plan|platform|political platform|political program|program|programme|syllabus,idea|thought|system|system of rules|show|document|written document|papers|announcement|promulgation|information|info|software|software program|computer software|software system|software package|package|performance
+7,girl,NNP,NA,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+7,scouting,NNP,NA,scout,exploratory survey|reconnoitering|reconnoitring|scouting,reconnaissance|reconnaissance mission
+7,help,VBZ,s,help,aid|assist|avail|facilitate|help|help oneself|serve,support|back up|better|improve|amend|ameliorate|meliorate|serve|refrain|forbear|provide|supply|ply|cater|promote|advance|boost|further|encourage|exploit|work
+7,girl,NNS,s,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+7,relate,VBP,NA,relat,associate|bear on|colligate|come to|concern|connect|have to do with|interrelate|link|link up|pertain|refer|relate|tie in|touch|touch on,think|cogitate|cerebrate|tell|narrate|recount|recite|be|interact
+7,other,NNS,s,other,,NA
+7,develop,VB,NA,develop,acquire|arise|break|build up|develop|educate|evolve|explicate|formulate|germinate|get|grow|make grow|modernise|modernize|originate|prepare|produce|recrudesce|rise|spring up|train|uprise,create|create by mental act|create mentally|change|become|better|improve|amend|ameliorate|meliorate|speculate|theorize|theorise|conjecture|hypothesize|hypothesise|hypothecate|suppose|teach|learn|instruct|happen|hap|go on|pass off|occur|pass|fall out|come about|take place|grow|alter|modify|generate|bring forth|superimpose|superpose|lay over|play|complicate|refine|rarify|elaborate|expand
+7,value,NNS,s,valu,economic value|note value|time value|value,numerical quantity|worth|measure|quantity|amount|color property|duration|continuance|ideal
+7,contribute,VB,NA,contribut,add|bestow|bring|chip in|conduce|contribute|give|impart|kick in|lead|lend|put up,change|alter|modify|give|promote|advance|boost|further|encourage|pay
+7,society,NN,NA,societi,beau monde|bon ton|club|companionship|company|fellowship|gild|guild|high society|lodge|order|smart set|social club|society,social group|association|friendship|friendly relationship|elite|elite group
+7,develop,VB,NA,develop,acquire|arise|break|build up|develop|educate|evolve|explicate|formulate|germinate|get|grow|make grow|modernise|modernize|originate|prepare|produce|recrudesce|rise|spring up|train|uprise,create|create by mental act|create mentally|change|become|better|improve|amend|ameliorate|meliorate|speculate|theorize|theorise|conjecture|hypothesize|hypothesise|hypothecate|suppose|teach|learn|instruct|happen|hap|go on|pass off|occur|pass|fall out|come about|take place|grow|alter|modify|generate|bring forth|superimpose|superpose|lay over|play|complicate|refine|rarify|elaborate|expand
+7,own,JJ,NA,own,ain|own(a),
+7,potential,NN,NA,potenti,electric potential|potency|potential|potential difference|potential drop|potentiality|voltage,possibility|possibleness|electrical phenomenon
+8,resulting,NNP,NA,result,,NA
+8,reduce,VBN,ed,reduc,abbreviate|abridge|boil down|bring down|come down|concentrate|contract|cut|cut back|cut down|decoct|deoxidise|deoxidize|dilute|foreshorten|keep down|melt off|quash|reduce|repress|scale down|shorten|shrink|slenderize|slim|slim down|subdue|subjugate|thin|thin out|tighten|trim|trim back|trim down,decrease|lessen|minify|simplify|demote|bump|relegate|break|kick downstairs|substitute|replace|interchange|exchange|take down|degrade|disgrace|demean|put down|become|turn|impoverish|shrink|reduce|change|restrict|trammel|limit|bound|confine|throttle|oppress|suppress|crush|separate|divide|part|reposition|de-emphasize|de-emphasise|destress|diminish|fall|weaken|change state
+8,risk,NN,NA,risk,danger|endangerment|hazard|jeopardy|peril|risk|risk of exposure|risk of infection,danger|venture|probability|chance
+8,teen,JJ,NA,teen,adolescent|teen|teenage|teenaged,
+8,pregnancy,NN,NA,pregnanc,gestation|maternity|pregnancy,physical condition|physiological state|physiological condition
+8,suicide,NN,NA,suicid,felo-de-se|self-annihilation|self-destruction|suicide,killing|kill|putting to death|killer|slayer
+8,truancy,NN,NA,truanci,hooky|truancy,nonattendance
+8,substance,NN,NA,substanc,body|center|centre|consistence|consistency|content|core|essence|gist|heart|heart and soul|inwardness|kernel|marrow|meaning|means|meat|message|nitty-gritty|nub|pith|subject matter|substance|sum,matter|part|portion|component part|component|constituent|content|cognitive content|mental object|idea|thought|physical entity|capital|communication|property
+8,abuse,NN,NA,abus,abuse|contumely|ill-treatment|ill-usage|insult|maltreatment|misuse|revilement|vilification,mistreatment|disrespect|discourtesy|use|usage|utilization|utilisation|employment|exercise
+8,so,RB,NA,so,and so|hence|indeed|so|then|thence|therefore|thus|thusly,NA
+8,many,JJ,NA,mani,many,
+8,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+8,crisis,NNS,s,crisi,crisis,situation|juncture|occasion
+9,gift,NN,NA,gift,endowment|gift|giving|natural endowment|talent,acquisition|natural ability|sharing|share-out
+9,1997,CD,NA,1997,NA,NA
+9,girl,NNP,NA,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+9,scout,NNP,NA,scout,guide|lookout|lookout man|pathfinder|picket|scout|Scout|sentinel|sentry|spotter|talent scout|watch,watchman|watcher|security guard|male child|boy|female child|girl|little girl|recruiter|expert
+9,annual,NNP,NA,annual,annual|yearbook|yearly,plant|flora|plant life|reference book|reference|reference work|book of facts
+9,campaign,NNP,NA,campaign,campaign|cause|crusade|drive|effort|hunting expedition|military campaign|movement|political campaign|run|safari,race|venture|operation|military operation|expedition
+9,help,VBZ,s,help,aid|assist|avail|facilitate|help|help oneself|serve,support|back up|better|improve|amend|ameliorate|meliorate|serve|refrain|forbear|provide|supply|ply|cater|promote|advance|boost|further|encourage|exploit|work
+9,ensure,VB,NA,ensur,ascertain|assure|check|control|ensure|guarantee|insure|secure|see|see to it,verify
+9,girl,NNS,s,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+9,continue,VB,NA,continu,bear on|carry on|continue|cover|extend|go along|go forward|go on|keep|keep on|persist in|preserve|proceed|remain|retain|stay|stay on|uphold,act|move|talk|speak|keep|maintain|hold|travel|go|locomote|prolong|sustain|keep up|be
+9,receive,VB,NA,receiv,encounter|experience|find|get|have|incur|invite|meet|obtain|pick up|receive|take in|welcome,get|acquire|change|perceive|comprehend|undergo|accept|greet|recognize|recognise|convert|have|experience|celebrate|fete|partake|touch|see|consider|reckon|view|regard
+9,benefit,NNS,s,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+9,girl,NNP,NA,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+9,scouting,NNP,NA,scout,exploratory survey|reconnoitering|reconnoitring|scouting,reconnaissance|reconnaissance mission
+9,offer,VBZ,s,offer,bid|declare oneself|extend|offer|offer up|pop the question|proffer|propose|provide|put up|tender|volunteer,supply|provide|render|furnish|give|act|move|project|propose|pay|market|produce|bring on|bring out|worship|engage|wage|request|threaten
+10,today,NN,NA,todai,today,present|nowadays|day|twenty-four hours|twenty-four hour period|24-hour interval|solar day|mean solar day
+10,girl,NNS,s,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+10,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+10,tomorrow,NN,NA,tomorrow,tomorrow,day|twenty-four hours|twenty-four hour period|24-hour interval|solar day|mean solar day|future|hereafter|futurity|time to come
+10,leaders--and,JJ,NA,leaders--and,,NA
+10,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+10,count,VBG,ing,count,bank|bet|calculate|consider|count|depend|enumerate|look|matter|number|numerate|reckon|rely|swear|weigh,determine|find|find out|ascertain|be|recite|classify|class|sort|assort|sort out|separate|include|trust|estimate|gauge|approximate|guess|judge

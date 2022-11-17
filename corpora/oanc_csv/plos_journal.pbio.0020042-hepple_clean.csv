@@ -1,0 +1,834 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,last,JJ,NA,last,concluding|final|last|last-place|last(a)|lowest|net|terminal|utmost,
+1,few,JJ,NA,few,few,
+1,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+1,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+1,see,VBN,en,see,ascertain|assure|attend|catch|check|come across|consider|construe|control|date|determine|discover|encounter|ensure|envision|escort|examine|experience|fancy|figure|find|find out|get a line|get wind|get word|go out|go steady|go through|hear|image|insure|interpret|learn|look|meet|pick up|picture|project|realise|realize|reckon|regard|run across|run into|see|see to it|take care|take in|understand|view|visit|visualise|visualize|watch|witness,perceive|comprehend|experience|see|go through|imagine|conceive of|ideate|envisage|think|believe|consider|conceive|watch|verify|visit|call in|call|tour|care|give care|receive|take in|invite|consort|associate|affiliate|assort|debate|moot|turn over|deliberate|detect|observe|find|discover|notice|undergo|accompany|bet|wager|play|understand
+1,enormous,JJ,NA,enorm,enormous|tremendous,
+1,stride,NNS,s,stride,footstep|pace|step|stride|tread,step|indefinite quantity|advancement|progress
+1,ability,NNS,s,abil,ability|power,quality|cognition|knowledge|noesis
+1,sequence,NN,NA,sequenc,chronological sequence|chronological succession|episode|sequence|succession|successiveness,series|temporal arrangement|temporal order|film|photographic film|order|ordering|repeat|repetition
+1,genome,NNS,s,genom,genome,ordering|order|ordination
+1,information,NN,NA,inform,data|entropy|info|information|selective information,message|content|subject matter|substance|cognition|knowledge|noesis|accusation|accusal|collection|aggregation|accumulation|assemblage|information measure
+1,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+1,pour,VBN,ed,pour,decant|pelt|pour|pour out|pullulate|rain buckets|rain cats and dogs|stream|swarm|teem,move|displace|crowd|crowd together|pour|run|flow|feed|course|supply|provide|render|furnish|rain|rain down
+1,sequence,NNS,s,sequenc,chronological sequence|chronological succession|episode|sequence|succession|successiveness,series|temporal arrangement|temporal order|film|photographic film|order|ordering|repeat|repetition
+1,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+1,quite,RB,NA,quit,quite|quite a|quite an|rather,NA
+1,astonishing,JJ,NA,astonish,amazing|astonishing|astounding|staggering|stupefying,
+2,more,JJR,NA,more,more than|more(a),
+2,150,CD,NA,150,NA,NA
+2,complete,JJ,NA,complet,accomplished|all over|arrant(a)|complete|complete(a)|concluded|consummate|consummate(a)|double-dyed(a)|ended|everlasting(a)|gross(a)|over(p)|perfect(a)|pure(a)|sodding(a)|staring(a)|stark(a)|terminated|thorough(a)|thoroughgoing(a)|unadulterated|utter(a),
+2,genome,NN,NA,genom,genome,ordering|order|ordination
+2,sequence,NNS,s,sequenc,chronological sequence|chronological succession|episode|sequence|succession|successiveness,series|temporal arrangement|temporal order|film|photographic film|order|ordering|repeat|repetition
+2,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+2,available,JJ,NA,avail,available|uncommitted|usable|useable,
+2,many,JJ,NA,mani,many,
+2,laboratory,NNS,s,laboratori,lab|laboratory|research lab|research laboratory|science lab|science laboratory|testing ground,workplace|work|region
+2,rush,VBG,ing,rush,belt along|bucket along|cannonball along|festinate|hasten|hie|hotfoot|hurry|induce|look sharp|pelt along|race|rush|rush along|speed|step on it|stimulate,travel|go|move|locomote|assail|assault|set on|attack|urge|urge on|press|exhort|act|run|displace|effect|effectuate|set up
+2,microarray,NN,NA,microarrai,,NA
+2,analysis,NN,NA,analysi,analysis|analytic thinking|depth psychology|psychoanalysis,investigation|investigating|reasoning|logical thinking|abstract thought|criticism|literary criticism|expressive style|style|calculus|infinitesimal calculus|psychotherapy
+2,proteomic,JJ,NA,proteom,,NA
+2,initiative,NNS,s,initi,enterprise|enterprisingness|first step|go-ahead|initiative|opening|opening move,drive|beginning|start|commencement
+2,even,RB,NA,even,even|still|yet,NA
+2,system,NNS,s,system,arrangement|organisation|organization|scheme|system|system of rules,instrumentality|instrumentation|group|grouping|matter|method|structure|body part|plan of action|live body|orderliness|methodicalness
+2,biology,NN,NA,biologi,biological science|biology|biota,life science|bioscience|life|collection|aggregation|accumulation|assemblage
+2,seem,VBZ,s,seem,appear|look|seem,be|appear|seem
+2,appropriate,JJ,NA,appropri,appropriate,
+2,time,NN,NA,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+2,consider,VB,NA,consid,believe|conceive|consider|count|deal|debate|deliberate|look at|moot|reckon|regard|see|study|take|think|turn over|view|weigh,think|believe|consider|conceive|chew over|think over|meditate|ponder|excogitate|contemplate|muse|reflect|mull|mull over|ruminate|speculate|think about|hash out|discuss|talk over|evaluate|pass judgment|judge|look|analyze|analyse|study|examine|canvass|see|reckon|view|regard
+2,not,RB,NA,not,non|not,NA
+2,just,RB,NA,just,barely|but|exactly|hardly|just|just now|merely|only|precisely|properly|scarce|scarcely|simply,NA
+2,opportunity,NNS,s,opportun,chance|opportunity,possibility|possibleness
+2,sequence,NNS,s,sequenc,chronological sequence|chronological succession|episode|sequence|succession|successiveness,series|temporal arrangement|temporal order|film|photographic film|order|ordering|repeat|repetition
+2,present,JJ,NA,present,present|present(a),
+2,also,RB,NA,also,also|as well|besides|likewise|too,NA
+2,shortcoming,NNS,s,shortcom,defect|shortcoming,disadvantage
+3,far,RB,NA,far,far,NA
+3,most,RBS,NA,most,about|almost|most|near|nearly|nigh|to the highest degree|virtually|well-nigh,NA
+3,serious,JJ,NA,seriou,dangerous|good|grave|grievous|life-threatening|serious|severe|sober|unplayful,
+3,problem,NN,NA,problem,job|problem|trouble,difficulty|question|head
+3,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,quality,NN,NA,qualiti,caliber|calibre|character|lineament|quality|timber|timbre|tone,attribute|degree|grade|level|property|dimension|sound property|social station|social status|social rank|rank
+3,degree,NN,NA,degre,academic degree|arcdegree|degree|grade|level|point|stage,property|state|award|accolade|honor|honour|laurels|angular unit|exponent|power|index|temperature unit|magnitude
+3,completeness,NN,NA,complet,completeness,integrity|unity|wholeness|logicality|logicalness
+3,annotation,NN,NA,annot,annotating|annotation|notation|note,comment|commentary|expansion|expanding upon
+3,genome,NNS,s,genom,genome,ordering|order|ordination
+4,most,JJS,NA,most,most(a),
+4,troublesome,JJ,NA,troublesom,troublesome,
+4,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+4,large,JJ,NA,larg,big|big(p)|bombastic|declamatory|enceinte|expectant|gravid|great(p)|heavy(p)|large|large(p)|magnanimous|orotund|prominent|tumid|turgid|with child(p),
+4,number,NNS,s,number,act|bit|figure|issue|number|numeral|phone number|routine|telephone number|turn,amount|definite quantity|performance|public presentation|signal|signaling|sign|symbol|periodical|company|positive identification|size|item|grammatical category|syntactic category|merchandise|ware|product
+4,open,JJ,NA,open,assailable|candid|capable|clear|exposed|heart-to-heart|loose|open|open(a)|opened|overt|receptive|subject|undecided|undefendable|undefended|undetermined|unfastened|unresolved,
+4,reading,NN,NA,read,indication|interpretation|meter reading|reading|Reading|reading material|recital|recitation|version,linguistic process|language|interpretation|datum|data point|written communication|written language|black and white|representation|mental representation|internal representation|public speaking|speechmaking|speaking|oral presentation|measurement|measuring|measure|mensuration
+4,frame,NNS,s,frame,anatomy|bod|build|chassis|figure|flesh|form|frame|frame of reference|framework|framing|human body|inning|material body|physical body|physique|shape|skeletal frame|skeletal system|skeleton|soma|systema skeletale|underframe,framework|frame|photograph|photo|exposure|picture|pic|body|organic structure|part|section|division|drawing|application|application program|applications programme|system|system of rules|supporting structure
+4,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+4,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+4,identify,VBN,ed,identifi,describe|discover|distinguish|identify|key|key out|name|place,determine|set|denote|refer|see|consider|reckon|view|regard|associate|tie in|relate|link|colligate|link up|connect|recognize|recognise
+4,computer,NN,NA,comput,calculator|computer|computing device|computing machine|data processor|electronic computer|estimator|figurer|information processing system|reckoner,machine|expert
+4,program,NNS,s,program,broadcast|computer program|computer programme|course of study|curriculum|plan|platform|political platform|political program|program|programme|syllabus,idea|thought|system|system of rules|show|document|written document|papers|announcement|promulgation|information|info|software|software program|computer software|software system|software package|package|performance
+4,remain,VB,NA,remain,continue|persist|remain|rest|stay|stay on,be
+4,label,VBN,ed,label,judge|label|mark|pronounce|tag,designate|denominate|attach|declare|adjudge|hold|distinguish|separate|differentiate|secern|secernate|severalize|severalise|tell|tell apart
+4,conserved,JJ,NA,conserv,conserved,
+4,hypothetical,JJ,NA,hypothet,conjectural|divinatory|hypothetic|hypothetical|supposed|suppositional|suppositious|supposititious,
+4,protein,NN,NA,protein,protein,macromolecule|supermolecule
+4,occur,VBP,NA,occur,come|come about|fall out|go on|hap|happen|occur|pass|pass off|take place,become|appear|come along
+4,more,JJR,NA,more,more than|more(a),
+4,one,CD,NA,on,NA,NA
+4,genome,NN,NA,genom,genome,ordering|order|ordination
+4,simply,RB,NA,simpli,but|just|merely|only|plainly|simply,NA
+4,hypothetical,JJ,NA,hypothet,conjectural|divinatory|hypothetic|hypothetical|supposed|suppositional|suppositious|supposititious,
+4,protein,NN,NA,protein,protein,macromolecule|supermolecule
+4,appear,VBP,NA,appear,appear|come along|come out|look|seem,be|happen|materialize|materialise|perform|execute|do
+4,unique,JJ,NA,uniqu,alone(p)|singular|unequaled|unequalled|unique|unique(p)|unparalleled,
+4,genome,NN,NA,genom,genome,ordering|order|ordination
+4,question,NN,NA,question,doubt|doubtfulness|dubiousness|enquiry|head|inquiry|interrogation|interrogative|interrogative sentence|motion|query|question,questioning|inquiring|subject|topic|theme|sentence|uncertainty|uncertainness|precariousness|proposal|marriage proposal|proposal of marriage|marriage offer
+5,two,CD,NA,two,NA,NA
+5,category,NNS,s,categori,category|class|family,collection|aggregation|accumulation|assemblage|concept|conception|construct
+5,annotated,JJ,NA,annot,,NA
+5,open,JJ,NA,open,assailable|candid|capable|clear|exposed|heart-to-heart|loose|open|open(a)|opened|overt|receptive|subject|undecided|undefendable|undefended|undetermined|unfastened|unresolved,
+5,reading,NN,NA,read,indication|interpretation|meter reading|reading|Reading|reading material|recital|recitation|version,linguistic process|language|interpretation|datum|data point|written communication|written language|black and white|representation|mental representation|internal representation|public speaking|speechmaking|speaking|oral presentation|measurement|measuring|measure|mensuration
+5,frame,NNS,s,frame,anatomy|bod|build|chassis|figure|flesh|form|frame|frame of reference|framework|framing|human body|inning|material body|physical body|physique|shape|skeletal frame|skeletal system|skeleton|soma|systema skeletale|underframe,framework|frame|photograph|photo|exposure|picture|pic|body|organic structure|part|section|division|drawing|application|application program|applications programme|system|system of rules|supporting structure
+5,often,RB,NA,often,a great deal|frequently|much|oft|often|oftentimes|ofttimes,NA
+5,represent,VBP,NA,repres,act|be|comprise|constitute|correspond|defend|exemplify|interpret|lay out|make up|map|play|present|represent|stage|stand for|symbolise|symbolize|typify,equal|be|mean|intend|serve|express|verbalize|verbalise|utter|give tongue to|embody|personify|re-create|describe|depict|draw|remonstrate|point out|state|say|tell|permute|commute|transpose
+5,more,JJR,NA,more,more than|more(a),
+5,half,NN,NA,half,half|one-half,common fraction|simple fraction|part|section|division
+5,potential,JJ,NA,potenti,likely|possible|potential,
+5,protein-coding,JJ,NA,protein-cod,,NA
+5,region,NNS,s,region,area|neighborhood|part|realm|region,location|body part|indefinite quantity|knowledge domain|knowledge base|domain
+5,genome,NN,NA,genom,genome,ordering|order|ordination
+6,annotation,NNS,s,annot,annotating|annotation|notation|note,comment|commentary|expansion|expanding upon
+6,highlight,NN,NA,highlight,high spot|highlight|highlighting,detail|particular|item|light|lightness
+6,just,RB,NA,just,barely|but|exactly|hardly|just|just now|merely|only|precisely|properly|scarce|scarcely|simply,NA
+6,one,CD,NA,on,NA,NA
+6,portion,NN,NA,portion,circumstances|component|component part|constituent|destiny|dower|dowery|dowry|fate|fortune|helping|lot|luck|parcel|part|percentage|portion|serving|share,relation|object|physical object|allotment|apportionment|apportioning|allocation|parceling|parcelling|assignation|assets|condition|gift|small indefinite quantity|small indefinite amount
+6,ignorance,NN,NA,ignor,ignorance,content|cognitive content|mental object
+6,information,NN,NA,inform,data|entropy|info|information|selective information,message|content|subject matter|substance|cognition|knowledge|noesis|accusation|accusal|collection|aggregation|accumulation|assemblage|information measure
+6,content,NN,NA,content,capacity|cognitive content|content|contentedness|contents|depicted object|mental object|message|subject|subject matter|substance,collection|aggregation|accumulation|assemblage|communication|proportion|volume|cognition|knowledge|noesis|acceptance|thing
+6,genome,NNS,s,genom,genome,ordering|order|ordination
+6,lack,NN,NA,lack,deficiency|lack|want,need|demand
+6,fundamental,JJ,NA,fundament,cardinal|central|fundamental|key|primal|profound|rudimentary|underlying,
+6,knowledge,NN,NA,knowledg,cognition|knowledge|noesis,psychological feature
+6,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+6,so,RB,NA,so,and so|hence|indeed|so|then|thence|therefore|thus|thusly,NA
+6,many,JJ,NA,mani,many,
+6,building,NN,NA,build,building|construction|edifice,structure|construction|creating from raw materials|commercial enterprise|business enterprise|business|gathering|assemblage
+6,block,NNS,s,block,auction block|block|blockage|blocking|city block|closure|cube|cylinder block|engine block|mental block|occlusion|pulley|pulley block|pulley-block|stop|stoppage,artifact|artefact|area|country|solid|collection|aggregation|accumulation|assemblage|housing|lodging|living accommodations|computer memory unit|inability|machine|simple machine|cast|casting|obstruction|obstructor|obstructer|impediment|impedimenta|platform
+6,cell,NNS,s,cell,cadre|cell|cellphone|cellular phone|cellular telephone|cubicle|electric cell|jail cell|mobile phone|prison cell,compartment|living thing|animate thing|electrical device|political unit|political entity|radiotelephone|radiophone|wireless telephone|room
+7,rectify,NN,NA,rectifi,,NA
+7,situation,NN,NA,situat,berth|billet|office|place|position|post|site|situation|spot|state of affairs,state|condition|status|difficulty|position|place|occupation|business|job|line of work|line
+7,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+7,likely,JJ,NA,like,likely|potential|probable,
+7,undermine,VB,NA,undermin,cave|counteract|countermine|sabotage|subvert|undermine|weaken,disobey|hollow|hollow out|core out
+7,many,JJ,NA,mani,many,
+7,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+8,omic,JJ,NA,omic,,NA
+8,effort,NNS,s,effort,attempt|campaign|cause|crusade|drive|effort|elbow grease|endeavor|endeavour|exertion|exploit|feat|movement|sweat|travail|try,activity|labor|labour|toil|accomplishment|achievement|venture
+8,currently,RB,NA,current,currently|presently,
+8,underway,NN,NA,underwai,,NA
+9,here,RB,NA,here,here|hither,NA
+9,advocate,VBP,NA,advoc,advocate|preach|recommend|urge,propose|suggest|advise|urge|urge on|press|exhort
+9,rather,RB,NA,rather,instead|kind of|kinda|preferably|quite|rather|sooner|sort of,NA
+9,straightforward,JJ,NA,straightforward,aboveboard|square(a)|straight|straightforward,
+9,approach,NN,NA,approach,access|advance|approach|approach path|approach shot|approaching|attack|coming|feeler|glide path|glide slope|overture|plan of attack,conceptualization|conceptualisation|formulation|motion|movement|move|way|air lane|flight path|airway|skyway|suggestion|proposition|proffer|timing|similarity|golf stroke|golf shot|swing
+9,address,VB,NA,address,accost|address|call|come up to|cover|deal|direct|handle|plow|speak|treat|turn to,communicate|intercommunicate|label|target|aim|place|direct|point|use|utilize|utilise|apply|employ|address|turn to|access|broach|initiate|come|come up|align|aline|line up|adjust
+9,problem—focused,JJ,NA,problem—focus,,NA
+9,initially,RB,NA,initi,ab initio|initially,
+9,bacterial,JJ,NA,bacteri,bacterial,
+9,genome,NNS,s,genom,genome,ordering|order|ordination
+10,contrast,NN,NA,contrast,contrast|demarcation|direct contrast|dividing line|line,opposition|oppositeness|comparison|comparing|differentiation|distinction|visual perception|beholding|seeing|scope|range|reach|orbit|compass|ambit
+10,numerous,JJ,NA,numer,legion(p)|numerous,
+10,proposal,NNS,s,propos,marriage offer|marriage proposal|proposal|proposal of marriage|proposition,message|content|subject matter|substance|offer|offering|speech act
+10,big,JJ,NA,big,adult|bad|big|big(a)|big(p)|bighearted|boastful|bounteous|bountiful|braggart(a)|bragging(a)|braggy|cock-a-hoop|crowing|enceinte|expectant|freehanded|full-grown|fully grown|giving|gravid|great(p)|grown|grownup|handsome|heavy(a)|heavy(p)|large|large(p)|liberal|magnanimous|openhanded|prominent|self-aggrandising|self-aggrandizing|swelled|vainglorious|with child(p),
+10,science,NN,NA,scienc,science|scientific discipline|skill,discipline|subject|subject area|subject field|field|field of study|study|bailiwick|ability|power
+10,initiative,NNS,s,initi,enterprise|enterprisingness|first step|go-ahead|initiative|opening|opening move,drive|beginning|start|commencement
+10,understand,VB,NA,understand,empathise|empathize|infer|interpret|read|realise|realize|see|sympathise|sympathize|translate|understand,understand|believe
+10,fundamental,JJ,NA,fundament,cardinal|central|fundamental|key|primal|profound|rudimentary|underlying,
+10,workings,NNS,NA,work,working|workings|works,mechanism|excavation
+10,biological,JJ,NA,biolog,biologic|biological|natural,
+10,organism,NNS,s,organ,being|organism,living thing|animate thing|system|scheme
+10,propose,VBP,NA,propos,advise|aim|declare oneself|nominate|offer|pop the question|project|propose|purport|purpose|suggest,declare|plan|intend|mean|think|choose|take|select|pick out|request
+10,small,JJ,NA,small,belittled|diminished|humble|little|low|lowly|minor|minuscule|modest|pocket-size|pocket-sized|small|small-scale|small(a),
+10,science,NN,NA,scienc,science|scientific discipline|skill,discipline|subject|subject area|subject field|field|field of study|study|bailiwick|ability|power
+10,relatively,RB,NA,rel,comparatively|relatively,
+10,low-tech,JJ,NA,low-tech,low-tech,
+10,approach,NN,NA,approach,access|advance|approach|approach path|approach shot|approaching|attack|coming|feeler|glide path|glide slope|overture|plan of attack,conceptualization|conceptualisation|formulation|motion|movement|move|way|air lane|flight path|airway|skyway|suggestion|proposition|proffer|timing|similarity|golf stroke|golf shot|swing
+10,have,VB,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+10,dramatic,JJ,NA,dramat,dramatic|spectacular|striking,
+10,pay,NN,NA,pai,earnings|pay|remuneration|salary|wage,regular payment
+11,relatively,RB,NA,rel,comparatively|relatively,
+11,small,JJ,NA,small,belittled|diminished|humble|little|low|lowly|minor|minuscule|modest|pocket-size|pocket-sized|small|small-scale|small(a),
+11,investment,NN,NA,invest,investing|investiture|investment|investment funds,finance|assets|committedness|commitment|skin|tegument|cutis|dressing|grooming|promotion
+11,yield,VB,NA,yield,afford|bear|buckle under|cede|concede|ease up|generate|give|give in|give way|grant|knuckle under|move over|pay|relent|render|return|soften|succumb|yield,supply|provide|render|furnish|change|produce|make|create|give|move|agree|hold|concur|concord|die|decease|perish|go|exit|pass away|expire|pass|kick the bucket|cash in one's chips|buy the farm|conk|give-up the ghost|drop dead|pop off|choke|croak|snuff it|gain|take in|clear|earn|realize|realise|pull in|bring in|stretch|accept|consent|go for
+11,massive,JJ,NA,massiv,massive|monolithic|monumental,
+11,amount,NN,NA,amount,amount|amount of money|measure|quantity|sum|sum of money|total,assets|magnitude|abstraction|abstract entity|quantity
+11,information,NN,NA,inform,data|entropy|info|information|selective information,message|content|subject matter|substance|cognition|knowledge|noesis|accusation|accusal|collection|aggregation|accumulation|assemblage|information measure
+11,greatly,RB,NA,greatli,greatly,
+11,enhance,VB,NA,enhanc,enhance|heighten|raise,intensify|compound|heighten|deepen|better|improve|amend|ameliorate|meliorate
+11,current,JJ,NA,current,current,
+11,effort,NNS,s,effort,attempt|campaign|cause|crusade|drive|effort|elbow grease|endeavor|endeavour|exertion|exploit|feat|movement|sweat|travail|try,activity|labor|labour|toil|accomplishment|achievement|venture
+11,use,VB,NA,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+11,genomic,JJ,NA,genom,,NA
+11,approach,NNS,s,approach,access|advance|approach|approach path|approach shot|approaching|attack|coming|feeler|glide path|glide slope|overture|plan of attack,conceptualization|conceptualisation|formulation|motion|movement|move|way|air lane|flight path|airway|skyway|suggestion|proposition|proffer|timing|similarity|golf stroke|golf shot|swing
+11,study,VB,NA,studi,analyse|analyze|canvass|consider|contemplate|examine|hit the books|learn|meditate|read|study|take,chew over|think over|meditate|ponder|excogitate|contemplate|muse|reflect|mull|mull over|ruminate|speculate|learn|larn|acquire|think|cogitate|cerebrate
+11,life,NN,NA,life,aliveness|animation|biography|life|life history|life sentence|life story|life-time|lifespan|lifetime|liveliness|living|spirit|sprightliness,being|beingness|existence|face of the earth|experience|time period|period of time|period|person|individual|someone|somebody|mortal|soul|animation|spiritedness|invigoration|brio|vivification|living thing|animate thing|organic phenomenon|history|account|chronicle|story|motivation|motive|need|prison term|sentence|time
+12,initial,JJ,NA,initi,initial,
+12,proposal,NN,NA,propos,marriage offer|marriage proposal|proposal|proposal of marriage|proposition,message|content|subject matter|substance|offer|offering|speech act
+12,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+12,direct,VBN,ed,direct,address|aim|calculate|channelise|channelize|conduct|direct|engineer|guide|head|lead|maneuver|manoeuver|manoeuvre|mastermind|orchestrate|organise|organize|place|point|send|steer|take|take aim|target|train,order|tell|enjoin|say|aim|take|train|take aim|direct|make|create|manage|deal|care|handle|move|displace|position|perform|execute|do|instruct|apprise|apprize|intend|destine|designate|specify|control|command|label|plan
+12,decipher,VBG,ing,deciph,decipher|decode|decrypt|trace,rewrite|read
+12,role,NN,NA,role,character|function|office|part|persona|purpose|role|theatrical role|use,duty|portrayal|characterization|enactment|personation|utility|usefulness|activity
+12,hypothetical,JJ,NA,hypothet,conjectural|divinatory|hypothetic|hypothetical|supposed|suppositional|suppositious|supposititious,
+12,protein,NNS,s,protein,protein,macromolecule|supermolecule
+12,encoded,JJ,NA,encod,,NA
+12,microbial,NN,NA,microbi,,NA
+12,genome,NNS,s,genom,genome,ordering|order|ordination
+12,involve,VB,NA,involv,affect|ask|call for|demand|imply|involve|necessitate|need|postulate|regard|require|take,refer|pertain|relate|concern|come to|bear on|touch|touch on|have to do with|admit|let in|include|have|feature|absorb|engross|engage|occupy|complicate|refine|rarify|elaborate
+12,community-wide,JJ,NA,community-wid,,NA
+12,approach,NN,NA,approach,access|advance|approach|approach path|approach shot|approaching|attack|coming|feeler|glide path|glide slope|overture|plan of attack,conceptualization|conceptualisation|formulation|motion|movement|move|way|air lane|flight path|airway|skyway|suggestion|proposition|proffer|timing|similarity|golf stroke|golf shot|swing
+12,determine,VB,NA,determin,ascertain|check|decide|define|determine|find|find out|fix|influence|learn|limit|make up one's mind|mold|regulate|see|set|settle|shape|specify|square off|square up|watch,cause|do|make|choose|take|select|pick out|specify|define|delineate|delimit|delimitate|conclude|resolve
+12,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+12,hypothetical,NNS,s,hypothet,hypothetical,hypothesis|possibility|theory
+12,base,VBN,ed,base,base|establish|found|free-base|ground,situate|locate|drug|do drugs
+12,solid,JJ,NA,solid,firm|hearty|satisfying|self-colored|self-coloured|solid|square|strong|substantial|unanimous|upstanding|whole,
+12,old-fashioned,JJ,NA,old-fashion,antique|demode|ex|old-fashioned|old-hat(p)|outmoded|passe|passee,
+12,biochemistry,NN,NA,biochemistri,biochemistry,organic chemistry
+13,essence,NN,NA,essenc,burden|center|centre|core|effect|essence|gist|heart|heart and soul|inwardness|kernel|marrow|meat|nitty-gritty|nub|perfume|pith|substance|sum,content|cognitive content|mental object|substance|meaning|significance|signification|import|toiletry|toilet articles
+13,idea,NN,NA,idea,approximation|estimate|estimation|idea|melodic theme|mind|musical theme|theme|thought,content|cognitive content|mental object|purpose|intent|intention|aim|design|opinion|sentiment|persuasion|view|thought|calculation|computation|figuring|reckoning|tune|melody|air|strain|melodic line|line|melodic phrase
+13,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+13,undertake,VB,NA,undertak,attempt|contract|guarantee|set about|tackle|take in charge|take on|undertake,initiate|pioneer|confront|face up|face|promise|assure|accept|consent|go for
+13,interdisciplinary,JJ,NA,interdisciplinari,interdisciplinary,
+13,effort,NN,NA,effort,attempt|campaign|cause|crusade|drive|effort|elbow grease|endeavor|endeavour|exertion|exploit|feat|movement|sweat|travail|try,activity|labor|labour|toil|accomplishment|achievement|venture
+13,couple,NNS,s,coupl,brace|couple|couplet|distich|duad|duet|duo|dyad|match|mates|pair|span|twain|twosome|yoke,pair|family|family unit|small indefinite quantity|small indefinite amount|two|2|II|deuce|unit|building block
+13,current,JJ,NA,current,current,
+13,bioinformatic,NNS,s,bioinformat,,NA
+13,capability,NNS,s,capabl,capability|capableness|capacity|potentiality,ability|susceptibility|susceptibleness|aptitude
+13,predict,VB,NA,predict,anticipate|augur|auspicate|betoken|bode|call|forebode|forecast|foreshadow|foretell|omen|portend|predict|prefigure|presage|prognosticate|promise,guess|venture|pretend|hazard|bespeak|betoken|indicate|point|signal
+13,protein,NN,NA,protein,protein,macromolecule|supermolecule
+13,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+13,direct,VBN,ed,direct,address|aim|calculate|channelise|channelize|conduct|direct|engineer|guide|head|lead|maneuver|manoeuver|manoeuvre|mastermind|orchestrate|organise|organize|place|point|send|steer|take|take aim|target|train,order|tell|enjoin|say|aim|take|train|take aim|direct|make|create|manage|deal|care|handle|move|displace|position|perform|execute|do|instruct|apprise|apprize|intend|destine|designate|specify|control|command|label|plan
+13,exploration,NN,NA,explor,exploration|geographic expedition,expedition|search|hunt|hunting|consideration
+13,experimental,JJ,NA,experiment,data-based|experimental|observational,
+13,laboratory,NNS,s,laboratori,lab|laboratory|research lab|research laboratory|science lab|science laboratory|testing ground,workplace|work|region
+13,test,VB,NA,test,essay|examine|prove|quiz|screen|test|try|try out,evaluate|pass judgment|judge|check|examine|be|score|determine|find out|see|ascertain|watch|learn|take|submit
+13,prediction,NNS,s,predict,anticipation|forecasting|foretelling|prediction|prevision|prognostication,reasoning|logical thinking|abstract thought|statement
+14,encourage,VB,NA,encourag,advance|boost|encourage|further|promote,support|back up|inspire|animate|invigorate|enliven|exalt|induce|stimulate|cause|have|get|make
+14,consortium,NN,NA,consortium,consortium|pool|syndicate,association
+14,bioinformatician,NNS,s,bioinformatician,,NA
+14,produce,VB,NA,produc,acquire|bring about|bring forth|bring on|bring out|create|develop|farm|get|give rise|grow|make|produce|raise,make|create|expose|exhibit|display|cultivate|change
+14,list,NN,NA,list,inclination|lean|leaning|list|listing|tilt,database|position|spatial relation
+14,conserved,JJ,NA,conserv,conserved,
+14,hypothetical,JJ,NA,hypothet,conjectural|divinatory|hypothetic|hypothetical|supposed|suppositional|suppositious|supposititious,
+14,protein,NNS,s,protein,protein,macromolecule|supermolecule
+14,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+14,find,VBN,ed,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+14,multiple,JJ,NA,multipl,multiple,
+14,genome,NNS,s,genom,genome,ordering|order|ordination
+14,carry,VB,NA,carri,acquit|bear|behave|carry|channel|comport|conduct|contain|convey|deport|dribble|expect|express|extend|gestate|have a bun in the oven|hold|impart|pack|persuade|post|run|stock|stockpile|sway|take|transmit|transport,move|displace|have|feature|bring|convey|take|communicate|intercommunicate|hold|support|sustain|hold up|include|effect|continue|imply|involve|win|carry|bear|act|have got|circulate|circularize|circularise|distribute|disseminate|propagate|broadcast|spread|diffuse|disperse|pass around|hit|pass on|pass|pass along|put across|range|keep|maintain|influence|act upon|work|compensate|counterbalance|correct|make up|even out|even off|even up|promote|advance|boost|further|encourage|appropriate|capture|seize|conquer|transfer|shift|follow|grow|raise|farm|produce|propel|impel|hit the bottle|drink|booze|fuddle|nourish|nurture|travel|go|locomote|obtain|perform|execute|do|give birth|deliver|birth
+14,best,JJS,NA,best,best|best(p)|better(p),
+14,possible,JJ,NA,possibl,possible|potential,
+14,bioinformatic,NNS,s,bioinformat,,NA
+14,analysis,NN,NA,analysi,analysis|analytic thinking|depth psychology|psychoanalysis,investigation|investigating|reasoning|logical thinking|abstract thought|criticism|literary criticism|expressive style|style|calculus|infinitesimal calculus|psychotherapy
+14,then,RB,NA,then,and so|so|then,NA
+14,offer,VB,NA,offer,bid|declare oneself|extend|offer|offer up|pop the question|proffer|propose|provide|put up|tender|volunteer,supply|provide|render|furnish|give|act|move|project|propose|pay|market|produce|bring on|bring out|worship|engage|wage|request|threaten
+14,protein,NNS,s,protein,protein,macromolecule|supermolecule
+14,biochemical,JJ,NA,biochem,biochemical,
+14,community,NN,NA,commun,biotic community|community|community of interests|residential area|residential district,gathering|assemblage|people|ownership|world organization|world organisation|international organization|international organisation|global organization|agreement|accord|district|territory|territorial dominion|dominion|group|grouping
+14,potential,JJ,NA,potenti,likely|possible|potential,
+14,target,NNS,s,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+14,research,NN,NA,research,enquiry|inquiry|research,investigation|investigating|problem solving
+14,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+15,energize,NN,NA,energ,,NA
+15,laboratory,NNS,s,laboratori,lab|laboratory|research lab|research laboratory|science lab|science laboratory|testing ground,workplace|work|region
+15,appropriate,JJ,NA,appropri,appropriate,
+15,expertise,NN,NA,expertis,expertise|expertness,skillfulness
+15,participate,VB,NA,particip,enter|participate|take part,act|move
+15,community-wide,JJ,NA,community-wid,,NA
+15,effort,NN,NA,effort,attempt|campaign|cause|crusade|drive|effort|elbow grease|endeavor|endeavour|exertion|exploit|feat|movement|sweat|travail|try,activity|labor|labour|toil|accomplishment|achievement|venture
+15,suggest,VBP,NA,suggest,advise|evoke|hint|intimate|paint a picture|propose|suggest,declare|convey|imply|express|show|evince
+15,special,JJ,NA,special,especial(a)|exceptional|extra|limited|particular|particular(a)|peculiar(a)|special|special(a),
+15,program,NN,NA,program,broadcast|computer program|computer programme|course of study|curriculum|plan|platform|political platform|political program|program|programme|syllabus,idea|thought|system|system of rules|show|document|written document|papers|announcement|promulgation|information|info|software|software program|computer software|software system|software package|package|performance
+15,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+15,set,VBN,NA,set,adjust|arrange|coif|coiffe|coiffure|congeal|correct|countersink|define|determine|do|dress|fix|fructify|gear up|go down|go under|jell|lay|lay out|limit|localise|localize|mark|place|plant|pose|position|prepare|put|ready|rig|set|set up|sic|specify|typeset,move|displace|choose|take|select|pick out|lay down|establish|make|change|alter|modify|arrange|set up|adjust|set|correct|stage|present|represent|descend|fall|go down|come down|compose|write|put|place|pose|position|lay|originate|initiate|start|solidify|print|impress|bury|sink|hone|assail|assault|set on|attack|estimate|gauge|approximate|guess|judge|equip|fit|fit out|outfit|fix|prepare|ready|gear up|reproduce|procreate|multiply|groom|neaten
+15,one,CD,NA,on,NA,NA
+15,more,JJR,NA,more,more than|more(a),
+15,funding,NN,NA,fund,backing|financial backing|financial support|financing|funding|support,resource|finance
+15,agency,NNS,s,agenc,agency|authority|bureau|delegacy|federal agency|government agency|means|office|representation|way,administrative unit|administrative body|business|concern|business concern|business organization|business organisation|action|activity|activeness|state|implementation|effectuation
+15,laboratory,NNS,s,laboratori,lab|laboratory|research lab|research laboratory|science lab|science laboratory|testing ground,workplace|work|region
+15,undertake,VBG,ing,undertak,attempt|contract|guarantee|set about|tackle|take in charge|take on|undertake,initiate|pioneer|confront|face up|face|promise|assure|accept|consent|go for
+15,investigation,NN,NA,investig,investigating|investigation|probe,inquiry|enquiry|research|work
+15,particular,JJ,NA,particular,especial(a)|exceptional|finical|finicky|fussy|particular|particular(a)|peculiar(a)|picky|special|special(a),
+15,protein,NN,NA,protein,protein,macromolecule|supermolecule
+15,receive,VBP,NA,receiv,encounter|experience|find|get|have|incur|invite|meet|obtain|pick up|receive|take in|welcome,get|acquire|change|perceive|comprehend|undergo|accept|greet|recognize|recognise|convert|have|experience|celebrate|fete|partake|touch|see|consider|reckon|view|regard
+15,small,JJ,NA,small,belittled|diminished|humble|little|low|lowly|minor|minuscule|modest|pocket-size|pocket-sized|small|small-scale|small(a),
+15,grant,NN,NA,grant,assignment|Cary Grant|concession|Duncan Grant|Duncan James Corrow Grant|grant|Grant|Hiram Ulysses Grant|President Grant|subsidisation|subsidization|Ulysses Grant|Ulysses S. Grant|Ulysses Simpson Grant,aid|economic aid|financial aid|assistance|financial assistance|economic assistance|allotment|apportionment|apportioning|allocation|parceling|parcelling|assignation|transferred property|transferred possession|contract|right
+15,upfront,NN,NA,upfront,,NA
+15,supplement,NN,NA,supplement,accessory|add-on|addendum|appurtenance|postscript|supplement|supplementation,matter|increase|increment|component|constituent|element
+15,exist,VBG,ing,exist,be|exist|live|subsist|survive,
+15,grant,NN,NA,grant,assignment|Cary Grant|concession|Duncan Grant|Duncan James Corrow Grant|grant|Grant|Hiram Ulysses Grant|President Grant|subsidisation|subsidization|Ulysses Grant|Ulysses S. Grant|Ulysses Simpson Grant,aid|economic aid|financial aid|assistance|financial assistance|economic assistance|allotment|apportionment|apportioning|allocation|parceling|parcelling|assignation|transferred property|transferred possession|contract|right
+16,completion,NN,NA,complet,closing|completion|culmination|mop up|pass completion|windup,maneuver|manoeuvre|play|termination|ending|conclusion
+16,project,NN,NA,project,labor|project|projection|task|undertaking,work|plan|program|programme
+16,identification,NN,NA,identif,designation|identification|recognition,determination|finding|evidence|condition|status|memory|remembering|identity|personal identity|individuality
+16,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+16,receive,VB,NA,receiv,encounter|experience|find|get|have|incur|invite|meet|obtain|pick up|receive|take in|welcome,get|acquire|change|perceive|comprehend|undergo|accept|greet|recognize|recognise|convert|have|experience|celebrate|fete|partake|touch|see|consider|reckon|view|regard
+16,further,JJ,NA,further,farther|further,
+16,supplement,NN,NA,supplement,accessory|add-on|addendum|appurtenance|postscript|supplement|supplementation,matter|increase|increment|component|constituent|element
+16,grant,VBP,NA,grant,accord|allot|allow|award|cede|concede|deed over|give|grant|yield,give|agree|hold|concur|concord|gift|present
+16,reward,NN,NA,reward,advantage|payoff|reinforcement|reward|wages,consequence|aftermath|payment|blessing|approval|approving|offer|offering|benefit|welfare
+17,way,NN,NA,wai,agency|direction|elbow room|fashion|manner|means|mode|path|room|style|way|way of life,property|implementation|effectuation|path|route|itinerary|condition|status|course|course of action|artifact|artefact|journey|journeying|position|spatial relation|distance|choice|pick|selection|category|share|portion|part|percentage
+17,hope,VB,NA,hope,desire|go for|hope|trust,wish|desire|want|plan|be after
+17,rally,VB,NA,ralli,bait|beat up|call up|cod|come up|drum up|mobilise|mobilize|muster|muster up|rag|rally|razz|rebound|ride|summon|tantalise|tantalize|taunt|tease|twit,collect|pull in|call|send for|gather|garner|pull together|recover|go back|recuperate|mock|bemock
+17,best,JJS,NA,best,best|best(p)|better(p),
+17,biochemical,JJ,NA,biochem,biochemical,
+17,talent,NN,NA,talent,endowment|gift|natural endowment|talent,natural ability|expert
+17,apply,VB,NA,appli,apply|employ|enforce|give|go for|hold|implement|lend oneself|practice|put on|use|utilise|utilize,refer|pertain|relate|concern|come to|bear on|touch|touch on|have to do with|request|ask for|bespeak|call for|quest|cover|distribute|administer|mete out|deal|parcel out|lot|dispense|shell out|deal out|dish out|allot|dole out|compel|oblige|obligate|denote|give|dedicate|consecrate|commit|devote
+17,problem,NN,NA,problem,job|problem|trouble,difficulty|question|head
+17,determine,VBG,ing,determin,ascertain|check|decide|define|determine|find|find out|fix|influence|learn|limit|make up one's mind|mold|regulate|see|set|settle|shape|specify|square off|square up|watch,cause|do|make|choose|take|select|pick out|specify|define|delineate|delimit|delimitate|conclude|resolve
+17,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+17,wide,JJ,NA,wide,across-the-board|all-embracing|all-encompassing|all-inclusive|blanket(a)|broad|encompassing|extensive|full|panoptic|spacious|wide|wide of the mark|wide-cut|wide-eyed,
+17,range,NN,NA,rang,ambit|chain|chain of mountains|compass|cooking stove|grasp|image|kitchen range|kitchen stove|mountain chain|mountain range|orbit|range|range of a function|range of mountains|reach|scope|stove,extent|limit|tract|piece of land|piece of ground|parcel of land|parcel|geological formation|formation|facility|installation|assortment|mixture|mixed bag|miscellany|miscellanea|variety|salmagundi|smorgasbord|potpourri|motley|set|capability|capableness|potentiality|kitchen appliance
+17,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+17,protein,NNS,s,protein,protein,macromolecule|supermolecule
+18,cost,NN,NA,cost,cost|monetary value|price|toll,outgo|spending|expenditure|outlay|value
+18,such,JJ,NA,such,such(a),
+18,operation,NN,NA,oper,cognitive operation|cognitive process|functioning|mathematical operation|mathematical process|mental process|military operation|operation|performance|procedure|process|surgery|surgical operation|surgical procedure|surgical process,action|activity|activeness|business activity|commercial activity|data processing|medical procedure|work|process|physical process|cognition|knowledge|noesis|calculation|computation|computing
+18,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+18,quite,RB,NA,quit,quite|quite a|quite an|rather,NA
+18,minimal,JJ,NA,minim,minimal|minimum,
+18,bureaucracy,NN,NA,bureaucraci,bureaucracy|bureaucratism,government officials|officialdom|government|authorities|regime|organization|organisation
+18,review,NN,NA,review,brushup|critical review|critique|follow-up|followup|inspection|limited review|reappraisal|reassessment|recap|recapitulation|reexamination|revaluation|review|review article|revue,appraisal|assessment|criticism|literary criticism|examination|scrutiny|accounting|accounting system|method of accounting|variety show|variety|periodical|capitulation|proceeding|legal proceeding|proceedings|exercise|practice|drill|practice session|recitation
+18,process,NN,NA,process,appendage|cognitive operation|cognitive process|mental process|operation|outgrowth|physical process|procedure|process|summons|unconscious process,activity|cognition|knowledge|noesis|writ|judicial writ|body part|physical entity
+18,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+18,equally,RB,NA,equal,as|equally|evenly|every bit,
+18,simple,JJ,NA,simpl,bare(a)|childlike|dewy-eyed|dim-witted|elementary|mere(a)|round-eyed|simple|simple-minded|simple(a)|uncomplicated|unproblematic|unsubdivided|wide-eyed,
+19,here,RB,NA,here,here|hither,NA
+19,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+19,case,NN,NA,case,case|caseful|casing|causa|cause|character|compositor's case|display case|eccentric|event|example|face|font|fount|grammatical case|guinea pig|instance|lawsuit|pillow slip|pillowcase|sheath|shell|showcase|slip|subject|suit|type|typeface|typesetter's case|vitrine,happening|occurrence|occurrent|natural event|circumstance|proceeding|legal proceeding|proceedings|fact|container|person|individual|someone|somebody|mortal|soul|problem|argument|statement|containerful|grammatical category|syntactic category|state of mind|frame of mind|adult|grownup|type|covering|natural covering|cover|housing|framework|frame|receptacle|bed linen
+19,modest,JJ,NA,modest,humble|low|lowly|meek|mild|minor|modest|pocket-size|pocket-sized|small|small-scale,
+19,infusion,NN,NA,infus,extract|infusion,solution|extraction|instillation|instillment|instilment|change of state
+19,fund,NNS,s,fund,fund|investment company|investment firm|investment trust|monetary fund|stock|store,money|accumulation|nondepository financial institution
+19,greatly,RB,NA,greatli,greatly,
+19,enhance,VB,NA,enhanc,enhance|heighten|raise,intensify|compound|heighten|deepen|better|improve|amend|ameliorate|meliorate
+19,ability,NN,NA,abil,ability|power,quality|cognition|knowledge|noesis
+19,annotate,NN,NA,annot,,NA
+19,exist,VBG,ing,exist,be|exist|live|subsist|survive,
+19,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+19,genome,NN,NA,genom,genome,ordering|order|ordination
+19,sequence,NNS,s,sequenc,chronological sequence|chronological succession|episode|sequence|succession|successiveness,series|temporal arrangement|temporal order|film|photographic film|order|ordering|repeat|repetition
+19,ensure,VB,NA,ensur,ascertain|assure|check|control|ensure|guarantee|insure|secure|see|see to it,verify
+19,current,JJ,NA,current,current,
+19,investment,NNS,s,invest,investing|investiture|investment|investment funds,finance|assets|committedness|commitment|skin|tegument|cutis|dressing|grooming|promotion
+19,genomic,JJ,NA,genom,,NA
+19,sequence,NNS,s,sequenc,chronological sequence|chronological succession|episode|sequence|succession|successiveness,series|temporal arrangement|temporal order|film|photographic film|order|ordering|repeat|repetition
+19,yield,VBP,NA,yield,afford|bear|buckle under|cede|concede|ease up|generate|give|give in|give way|grant|knuckle under|move over|pay|relent|render|return|soften|succumb|yield,supply|provide|render|furnish|change|produce|make|create|give|move|agree|hold|concur|concord|die|decease|perish|go|exit|pass away|expire|pass|kick the bucket|cash in one's chips|buy the farm|conk|give-up the ghost|drop dead|pop off|choke|croak|snuff it|gain|take in|clear|earn|realize|realise|pull in|bring in|stretch|accept|consent|go for
+19,richest,JJS,NA,richest,,NA
+19,biological,JJ,NA,biolog,biologic|biological|natural,
+19,harvest,NN,NA,harvest,crop|harvest|harvest home|harvest time|harvesting,output|yield|consequence|effect|outcome|result|event|issue|upshot|gather|gathering|season|time of year
+19,possible,JJ,NA,possibl,possible|potential,
+20,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+20,two,CD,NA,two,NA,NA
+20,key,JJ,NA,kei,cardinal|central|fundamental|key|primal,
+20,step,NNS,s,step,dance step|footfall|footmark|footprint|footstep|gradation|measure|pace|stair|step|stone's throw|stride|tone|whole step|whole tone,maneuver|manoeuvre|tactical maneuver|tactical manoeuvre|indefinite quantity|locomotion|travel|support|rank|small indefinite quantity|small indefinite amount|sound|interval|musical interval|mark|print|block
+20,propose,VBN,ed,propos,advise|aim|declare oneself|nominate|offer|pop the question|project|propose|purport|purpose|suggest,declare|plan|intend|mean|think|choose|take|select|pick out|request
+20,plan,NN,NA,plan,architectural plan|design|plan|program|programme,idea|thought|arrangement|organization|organisation|system|drawing
+21,first,JJ,NA,first,1st|beginning(a)|first|foremost|inaugural|initiative|initiatory|maiden|world-class,
+21,step,NN,NA,step,dance step|footfall|footmark|footprint|footstep|gradation|measure|pace|stair|step|stone's throw|stride|tone|whole step|whole tone,maneuver|manoeuvre|tactical maneuver|tactical manoeuvre|indefinite quantity|locomotion|travel|support|rank|small indefinite quantity|small indefinite amount|sound|interval|musical interval|mark|print|block
+21,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+21,encourage,VB,NA,encourag,advance|boost|encourage|further|promote,support|back up|inspire|animate|invigorate|enliven|exalt|induce|stimulate|cause|have|get|make
+21,bioinformatician,NNS,s,bioinformatician,,NA
+21,appropriate,JJ,NA,appropri,appropriate,
+21,expertise,NN,NA,expertis,expertise|expertness,skillfulness
+21,functional,JJ,NA,function,functional|operable|operational|operative|running(a)|usable|useable|working(a),
+21,annotation,NN,NA,annot,annotating|annotation|notation|note,comment|commentary|expansion|expanding upon
+21,genome,NNS,s,genom,genome,ordering|order|ordination
+21,form,VB,NA,form,constitute|forge|form|imprint|make|mold|mould|organise|organize|shape|spring|take form|take shape|work,make|create|constitute|represent|make up|comprise|be|become|change|alter|modify|create from raw material|create from raw stuff|influence|act upon|work
+21,consortium,NN,NA,consortium,consortium|pool|syndicate,association
+21,undertake,VB,NA,undertak,attempt|contract|guarantee|set about|tackle|take in charge|take on|undertake,initiate|pioneer|confront|face up|face|promise|assure|accept|consent|go for
+21,assembly,NN,NA,assembli,assemblage|assembly|fabrication|forum|gathering|meeting place,machine|construction|building|facility|installation|gathering|assemblage|whole|unit|group action
+21,list,NN,NA,list,inclination|lean|leaning|list|listing|tilt,database|position|spatial relation
+21,prime,JJ,NA,prime,choice|meridian|premier(a)|prime|prime(a)|prize|quality|select,
+21,target,NNS,s,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+21,experimental,JJ,NA,experiment,data-based|experimental|observational,
+21,demonstration,NN,NA,demonstr,demo|demonstration|manifestation|monstrance|presentation|presentment,show|protest|objection|dissent|proof|visual communication
+21,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+21,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+21,most,RBS,NA,most,about|almost|most|near|nearly|nigh|to the highest degree|virtually|well-nigh,NA
+21,valuable,JJ,NA,valuabl,valuable|worthful,
+22,three,CD,NA,three,NA,NA
+22,general,JJ,NA,gener,cosmopolitan|ecumenical|general|oecumenical|universal|world-wide|worldwide,
+22,class,NNS,s,class,category|class|course|course of instruction|course of study|division|family|form|grade|social class|socio-economic class|stratum|year,collection|aggregation|accumulation|assemblage|gathering|people|education|instruction|teaching|pedagogy|didactics|educational activity|league|conference|taxonomic group|taxonomic category|taxon|elegance
+22,such,JJ,NA,such,such(a),
+22,gene,NNS,s,gene,cistron|factor|gene,sequence
+22,come,VBP,NA,come,add up|amount|arrive|come|come in|come up|derive|descend|do|fall|fare|follow|get|get along|hail|issue forth|make out|number|occur|total,NA
+22,mind,VB,NA,mind,bear in mind|beware|heed|listen|mind|take care,object|think about|manage|deal|care|handle|obey|watch|look out|watch out|remember|think of
+23,conserved,JJ,NA,conserv,conserved,
+23,hypothetical,JJ,NA,hypothet,conjectural|divinatory|hypothetic|hypothetical|supposed|suppositional|suppositious|supposititious,
+23,gene,NNS,s,gene,cistron|factor|gene,sequence
+24,belong,VB,NA,belong,belong|belong to|go,be
+24,set,NN,NA,set,band|bent|circle|curing|exercise set|hardening|lot|readiness|set|Set|Seth|solidification|solidifying|stage set,collection|aggregation|accumulation|assemblage|abstraction|abstract entity|exercise|exercising|physical exercise|physical exertion|workout|representation|social group|inclination|disposition|tendency|placement|location|locating|position|positioning|emplacement|playing period|period of play|play|natural process|natural action|action|activity|descent|cognitive state|state of mind|electronic equipment
+24,gene,NNS,s,gene,cistron|factor|gene,sequence
+24,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+24,ortholog,NNS,s,ortholog,,NA
+24,many,JJ,NA,mani,many,
+24,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+24,genome,NNS,s,genom,genome,ordering|order|ordination
+24,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+24,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+24,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+24,experimentally,RB,NA,experiment,by experimentation|experimentally|through an experiment,
+24,determine,VBN,ed,determin,ascertain|check|decide|define|determine|find|find out|fix|influence|learn|limit|make up one's mind|mold|regulate|see|set|settle|shape|specify|square off|square up|watch,cause|do|make|choose|take|select|pick out|specify|define|delineate|delimit|delimitate|conclude|resolve
+24,case,NN,NA,case,case|caseful|casing|causa|cause|character|compositor's case|display case|eccentric|event|example|face|font|fount|grammatical case|guinea pig|instance|lawsuit|pillow slip|pillowcase|sheath|shell|showcase|slip|subject|suit|type|typeface|typesetter's case|vitrine,happening|occurrence|occurrent|natural event|circumstance|proceeding|legal proceeding|proceedings|fact|container|person|individual|someone|somebody|mortal|soul|problem|argument|statement|containerful|grammatical category|syntactic category|state of mind|frame of mind|adult|grownup|type|covering|natural covering|cover|housing|framework|frame|receptacle|bed linen
+25,recent,JJ,NA,recent,late(a)|recent,
+25,success,NN,NA,success,achiever|succeeder|success|winner,happening|occurrence|occurrent|natural event|attainment|prosperity|successfulness|person|individual|someone|somebody|mortal|soul
+25,such,JJ,NA,such,such(a),
+25,gene,NNS,s,gene,cistron|factor|gene,sequence
+25,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+25,illustrate,VBN,ed,illustr,exemplify|illustrate|instance,elaborate|lucubrate|expatiate|exposit|enlarge|flesh out|expand|expound|dilate|picture|depict|render|show|decorate|adorn|grace|ornament|embellish|beautify
+25,box,NNP,NA,box,box|box seat|boxful|boxwood|corner|loge,container|compartment|containerful|predicament|quandary|plight|rectangle|shrub|bush|area|seat|blow
+25,1,CD,NA,1,NA,NA
+26,hypothetical,JJ,NA,hypothet,conjectural|divinatory|hypothetic|hypothetical|supposed|suppositional|suppositious|supposititious,
+26,gene,NNS,s,gene,cistron|factor|gene,sequence
+27,form,NN,NA,form,anatomy|bod|build|cast|chassis|class|configuration|conformation|contour|course|descriptor|figure|flesh|form|frame|grade|human body|kind|manakin|manikin|mannequin|mannikin|material body|pattern|phase|physical body|physique|shape|signifier|soma|sort|strain|var.|variant|variety|word form,word|category|structure|spatial property|spatiality|body|organic structure|attribute|appearance|visual aspect|document|written document|papers|taxonomic group|taxonomic category|taxon|writing style|literary genre|genre|manner|mode|style|way|fashion|state of matter|state|gathering|assemblage|ability|dummy|mold|mould|cast
+27,set,NN,NA,set,band|bent|circle|curing|exercise set|hardening|lot|readiness|set|Set|Seth|solidification|solidifying|stage set,collection|aggregation|accumulation|assemblage|abstraction|abstract entity|exercise|exercising|physical exercise|physical exertion|workout|representation|social group|inclination|disposition|tendency|placement|location|locating|position|positioning|emplacement|playing period|period of play|play|natural process|natural action|action|activity|descent|cognitive state|state of mind|electronic equipment
+27,gene,NNS,s,gene,cistron|factor|gene,sequence
+27,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+27,predict,VBN,ed,predict,anticipate|augur|auspicate|betoken|bode|call|forebode|forecast|foreshadow|foretell|omen|portend|predict|prefigure|presage|prognosticate|promise,guess|venture|pretend|hazard|bespeak|betoken|indicate|point|signal
+27,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+27,protein,NN,NA,protein,protein,macromolecule|supermolecule
+27,code,VBG,ing,code,cipher|code|cypher|encipher|encrypt|inscribe|write in code,tag|label|mark|encode
+27,lack,NN,NA,lack,deficiency|lack|want,need|demand
+27,similar,JJ,NA,similar,alike(p)|exchangeable|interchangeable|like|similar|standardised|standardized,
+27,gene,NNS,s,gene,cistron|factor|gene,sequence
+27,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+27,organism,NN,NA,organ,being|organism,living thing|animate thing|system|scheme
+27,genbank,NNP,NA,genbank,,NA
+28,too,RB,NA,too,also|as well|besides|excessively|likewise|overly|to a fault|too,NA
+28,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+28,assign,VBN,ed,assign,allot|arrogate|ascribe|assign|attribute|delegate|depute|designate|impute|portion|put|set apart|specify,appoint|charge|distribute|administer|mete out|deal|parcel out|lot|dispense|shell out|deal out|dish out|allot|dole out|evaluate|pass judgment|judge|choose|take|select|pick out|use|utilize|utilise|apply|employ|claim|lay claim|arrogate|transfer
+28,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+29,misannotated,JJ,NA,misannot,,NA
+29,gene,NNS,s,gene,cistron|factor|gene,sequence
+30,gene,NNS,s,gene,cistron|factor|gene,sequence
+30,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+30,one,NNS,s,on,1|ace|I|one|single|unity,digit|figure|unit
+30,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+30,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+30,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+30,assign,VBN,ed,assign,allot|arrogate|ascribe|assign|attribute|delegate|depute|designate|impute|portion|put|set apart|specify,appoint|charge|distribute|administer|mete out|deal|parcel out|lot|dispense|shell out|deal out|dish out|allot|dole out|evaluate|pass judgment|judge|choose|take|select|pick out|use|utilize|utilise|apply|employ|claim|lay claim|arrogate|transfer
+30,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+30,good,JJ,NA,good,adept|beneficial|dear|dependable|effective|estimable|expert|full|good|honest|honorable|in effect(p)|in force(p)|just|near|practiced|proficient|respectable|right|ripe|safe|salutary|secure|serious|skilful|skillful|sound|unspoiled|unspoilt|upright|well(p),
+30,reason,NN,NA,reason,cause|ground|grounds|intellect|rationality|reason|reasonableness|understanding,rational motive|explanation|account|faculty|mental faculty|module|sanity|saneness|justification|fact
+30,believe,VB,NA,believ,believe|conceive|consider|think|trust,accept|evaluate|pass judgment|judge|expect|anticipate|believe|credit
+30,annotation,NN,NA,annot,annotating|annotation|notation|note,comment|commentary|expansion|expanding upon
+30,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+30,incorrect,JJ,NA,incorrect,faulty|incorrect|wrong,
+31,set,NNS,s,set,band|bent|circle|curing|exercise set|hardening|lot|readiness|set|Set|Seth|solidification|solidifying|stage set,collection|aggregation|accumulation|assemblage|abstraction|abstract entity|exercise|exercising|physical exercise|physical exertion|workout|representation|social group|inclination|disposition|tendency|placement|location|locating|position|positioning|emplacement|playing period|period of play|play|natural process|natural action|action|activity|descent|cognitive state|state of mind|electronic equipment
+31,target,NNS,s,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+31,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+31,combine,VBN,ed,combin,aggregate|blend|coalesce|combine|commingle|compound|conflate|flux|fuse|immix|meld|merge|mix|unite,have|feature|add|mix|mingle|commix|unify|amalgamate|contribute|give|chip in|kick in|interact|change integrity
+31,arrange,VBN,ed,arrang,arrange|coif|coiffe|coiffure|do|dress|fix up|format|order|put|set|set up|stage,put|set|place|pose|position|lay|agree|hold|concur|concord|initiate|pioneer|change|groom|neaten|compose|write|organize|organise
+31,prioritized,JJ,NA,priorit,,NA
+31,list,NN,NA,list,inclination|lean|leaning|list|listing|tilt,database|position|spatial relation
+31,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+31,accompany,VBN,ed,accompani,accompany|attach to|come with|companion|company|follow|go with|keep company|play along,travel|go|move|locomote|play|consort|associate|affiliate|assort
+31,best,JJS,NA,best,best|best(p)|better(p),
+31,assessment,NN,NA,assess,appraisal|assessment|judgement|judgment,classification|categorization|categorisation|sorting|charge|monetary value|price|cost|act|deed|human action|human activity
+31,potential,JJ,NA,potenti,likely|possible|potential,
+31,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+32,priority,NNS,s,prioriti,antecedence|antecedency|anteriority|precedence|precedency|priority,high status|earliness
+32,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+32,base,VBN,ed,base,base|establish|found|free-base|ground,situate|locate|drug|do drugs
+32,gene,NNS,s,gene,cistron|factor|gene,sequence
+32,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+32,most,RBS,NA,most,about|almost|most|near|nearly|nigh|to the highest degree|virtually|well-nigh,NA
+32,likely,JJ,NA,like,likely|potential|probable,
+32,prove,VB,NA,prove,bear witness|demonstrate|essay|establish|evidence|examine|leaven|prove|raise|rise|shew|show|test|testify|try|try out|turn out|turn up,be|confirm|corroborate|sustain|substantiate|support|affirm|inform|prove|demonstrate|establish|show|shew|evaluate|pass judgment|judge|grow|raise|lift|elevate|get up|bring up|print|impress|authenticate
+32,broadly,RB,NA,broadli,broadly|broadly speaking|generally|loosely,
+32,informative,JJ,NA,inform,enlightening|illuminating|informative|informatory|instructive,
+33,instance,NN,NA,instanc,case|example|illustration|instance|representative,happening|occurrence|occurrent|natural event|information
+33,conserved,JJ,NA,conserv,conserved,
+33,hypothetical,JJ,NA,hypothet,conjectural|divinatory|hypothetic|hypothetical|supposed|suppositional|suppositious|supposititious,
+33,gene,NN,NA,gene,cistron|factor|gene,sequence
+33,occur,VBD,ed,occur,come|come about|fall out|go on|hap|happen|occur|pass|pass off|take place,become|appear|come along
+33,most,JJS,NA,most,most(a),
+33,genome,NNS,s,genom,genome,ordering|order|ordination
+33,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+33,higher,JJR,NA,higher,higher(a),
+33,priority,NN,NA,prioriti,antecedence|antecedency|anteriority|precedence|precedency|priority,high status|earliness
+33,one,CD,NA,on,NA,NA
+33,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+33,only,RB,NA,onli,alone|but|entirely|exclusively|just|merely|only|only if|only when|simply|solely,NA
+33,two,CD,NA,two,NA,NA
+33,ortholog,NNS,s,ortholog,,NA
+34,list,NN,NA,list,inclination|lean|leaning|list|listing|tilt,database|position|spatial relation
+34,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+34,public,JJ,NA,public,public,
+34,web,NNP,NA,web,entanglement|network|vane|web|World Wide Web|WWW,object|physical object|trap|blade|system|scheme|computer network|fabric|cloth|material|textile|membrane|tissue layer
+34,site,NN,NA,site,internet site|land site|site|situation|web site|website,tract|piece of land|piece of ground|parcel of land|parcel|position|place|computer|computing machine|computing device|data processor|electronic computer|information processing system
+34,target,NNS,s,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+34,predict,VBD,ed,predict,anticipate|augur|auspicate|betoken|bode|call|forebode|forecast|foreshadow|foretell|omen|portend|predict|prefigure|presage|prognosticate|promise,guess|venture|pretend|hazard|bespeak|betoken|indicate|point|signal
+34,function,NNS,s,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+34,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+34,examine,VBN,ed,examin,analyse|analyze|canvass|essay|examine|probe|prove|see|study|test|try|try out,investigate|look into|question|query|evaluate|pass judgment|judge
+34,modify,VBN,ed,modifi,alter|change|modify|qualify,change|add
+34,alternative,NN,NA,altern,alternative|choice|option,decision making|deciding
+34,additional,JJ,NA,addit,additional|extra,
+34,prediction,NNS,s,predict,anticipation|forecasting|foretelling|prediction|prevision|prognostication,reasoning|logical thinking|abstract thought|statement
+34,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+34,group,NNS,s,group,chemical group|group|grouping|mathematical group|radical,abstraction|abstract entity|unit|building block|set
+34,guide,VB,NA,guid,channelise|channelize|conduct|direct|draw|guide|guide on|head|lead|maneuver|manoeuver|manoeuvre|pass|point|run|steer|take,control|command|direct|orient|orientate
+34,future,JJ,NA,futur,future|future(a)|next|succeeding(a),
+34,experimentation,NN,NA,experiment,experiment|experimentation,inquiry|enquiry|research|scientific research|research project
+35,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+35,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+35,derive,VBN,ed,deriv,come|deduce|deduct|derive|descend|educe|gain|infer,reason|reason out|conclude|obtain|evolve|make|create
+35,information,NN,NA,inform,data|entropy|info|information|selective information,message|content|subject matter|substance|cognition|knowledge|noesis|accusation|accusal|collection|aggregation|accumulation|assemblage|information measure
+35,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+35,present,VBN,ed,present,acquaint|award|confront|deliver|demo|demonstrate|exhibit|face|gift|give|introduce|lay out|portray|pose|present|represent|salute|show|stage|submit,show|state|say|tell|re-create|give|constitute|represent|make up|comprise|be|allocate|apportion|talk|speak|utter|mouth|verbalize|verbalise|inform|interpret|introduce|present|acquaint|greet|recognize|recognise
+35,target,NN,NA,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+35,remove,VBN,ed,remov,absent|bump off|dispatch|get rid of|hit|move out|murder|off|polish off|remove|slay|take|take away|take out|transfer|withdraw,transfer|shift|disappear|vanish|go away|kill
+35,main,JJ,NA,main,chief(a)|independent|main(a)|master(a)|primary(a)|principal(a),
+35,list,NN,NA,list,inclination|lean|leaning|list|listing|tilt,database|position|spatial relation
+36,second,JJ,NA,second,2d|2nd|second,
+36,step,NN,NA,step,dance step|footfall|footmark|footprint|footstep|gradation|measure|pace|stair|step|stone's throw|stride|tone|whole step|whole tone,maneuver|manoeuvre|tactical maneuver|tactical manoeuvre|indefinite quantity|locomotion|travel|support|rank|small indefinite quantity|small indefinite amount|sound|interval|musical interval|mark|print|block
+36,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+36,invite,VB,NA,invit,ask for|ask in|ask over|ask round|bid|call for|invite|pay for|receive|take in|tempt,arouse|elicit|enkindle|kindle|evoke|fire|raise|provoke|request|ask for|bespeak|call for|quest|stimulate|shake|shake up|excite|stir|interact
+36,experimentalist,NNS,s,experimentalist,,NA
+36,peruse,VB,NA,perus,peruse,examine|see
+36,list,NN,NA,list,inclination|lean|leaning|list|listing|tilt,database|position|spatial relation
+36,find,VB,NA,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+36,potential,JJ,NA,potenti,likely|possible|potential,
+36,gene,NNS,s,gene,cistron|factor|gene,sequence
+36,protein,NN,NA,protein,protein,macromolecule|supermolecule
+36,product,NNS,s,product,Cartesian product|intersection|mathematical product|merchandise|product|production|ware,commodity|trade good|good|creation|quantity|chemical|chemical substance|consequence|effect|outcome|result|event|issue|upshot|set
+36,lie,VB,NA,lie,consist|dwell|lie|lie down|lie in|rest,be|exist|misinform|mislead|change posture
+36,realm,NN,NA,realm,kingdom|land|realm|region,sphere|domain|area|orbit|field|arena|demesne|land|knowledge domain|knowledge base
+36,expertise,NN,NA,expertis,expertise|expertness,skillfulness
+36,use,VB,NA,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+36,experimental,JJ,NA,experiment,data-based|experimental|observational,
+36,knowledge,NN,NA,knowledg,cognition|knowledge|noesis,psychological feature
+36,reagent,NNS,s,reagent,reagent,chemical agent
+36,quickly,RB,NA,quickli,apace|chop-chop|cursorily|in short order|promptly|quick|quickly|rapidly|speedily,
+36,test,VB,NA,test,essay|examine|prove|quiz|screen|test|try|try out,evaluate|pass judgment|judge|check|examine|be|score|determine|find out|see|ascertain|watch|learn|take|submit
+36,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+37,initially,RB,NA,initi,ab initio|initially,
+37,advocate,VB,NA,advoc,advocate|preach|recommend|urge,propose|suggest|advise|urge|urge on|press|exhort
+37,allow,VBG,ing,allow,admit|allow|allow for|appropriate|countenance|earmark|give up|grant|leave|let|permit|provide|reserve|set aside|take into account|tolerate,NA
+37,laboratory,NN,NA,laboratori,lab|laboratory|research lab|research laboratory|science lab|science laboratory|testing ground,workplace|work|region
+37,team,NNS,s,team,squad|team,unit|social unit|animal group
+37,pick,VB,NA,pick,beak|blame|break up|clean|cull|find fault|foot|nibble|peck|pick|piece|pluck|plunk,choose|take|select|pick out|gather|garner|collect|pull together|knock|criticize|criticise|pick apart|provoke|evoke|call forth|kick up|remove|take away|withdraw|rob|pay|pull|draw|pierce|strike|eat
+37,choose,VB,NA,choos,choose|opt|pick out|prefer|select|take,decide|make up one's mind|determine|evaluate|pass judgment|judge
+37,list,NN,NA,list,inclination|lean|leaning|list|listing|tilt,database|position|spatial relation
+37,sign,NN,NA,sign,augury|foretoken|house|mansion|mark|planetary house|polarity|preindication|sign|sign of the zodiac|signal|signaling|signboard|star sign,clue|clew|cue|communication|structure|construction|region|part|evidence|grounds|opposition|oppositeness|experience|gesture|motion|language unit|linguistic unit|mathematical notation
+37,study,VB,NA,studi,analyse|analyze|canvass|consider|contemplate|examine|hit the books|learn|meditate|read|study|take,chew over|think over|meditate|ponder|excogitate|contemplate|muse|reflect|mull|mull over|ruminate|speculate|learn|larn|acquire|think|cogitate|cerebrate
+37,just,RB,NA,just,barely|but|exactly|hardly|just|just now|merely|only|precisely|properly|scarce|scarcely|simply,NA
+37,one,CD,NA,on,NA,NA
+37,open,JJ,NA,open,assailable|candid|capable|clear|exposed|heart-to-heart|loose|open|open(a)|opened|overt|receptive|subject|undecided|undefendable|undefended|undetermined|unfastened|unresolved,
+37,reading,NN,NA,read,indication|interpretation|meter reading|reading|Reading|reading material|recital|recitation|version,linguistic process|language|interpretation|datum|data point|written communication|written language|black and white|representation|mental representation|internal representation|public speaking|speechmaking|speaking|oral presentation|measurement|measuring|measure|mensuration
+37,frame,NNS,s,frame,anatomy|bod|build|chassis|figure|flesh|form|frame|frame of reference|framework|framing|human body|inning|material body|physical body|physique|shape|skeletal frame|skeletal system|skeleton|soma|systema skeletale|underframe,framework|frame|photograph|photo|exposure|picture|pic|body|organic structure|part|section|division|drawing|application|application program|applications programme|system|system of rules|supporting structure
+38,recommend,VB,NA,recommend,advocate|commend|recommend|urge,propose|suggest|advise|praise|change|alter|modify
+38,allow,VBG,ing,allow,admit|allow|allow for|appropriate|countenance|earmark|give up|grant|leave|let|permit|provide|reserve|set aside|take into account|tolerate,NA
+38,one,CD,NA,on,NA,NA
+38,laboratory,NN,NA,laboratori,lab|laboratory|research lab|research laboratory|science lab|science laboratory|testing ground,workplace|work|region
+38,open,JJ,NA,open,assailable|candid|capable|clear|exposed|heart-to-heart|loose|open|open(a)|opened|overt|receptive|subject|undecided|undefendable|undefended|undetermined|unfastened|unresolved,
+38,reading,NN,NA,read,indication|interpretation|meter reading|reading|Reading|reading material|recital|recitation|version,linguistic process|language|interpretation|datum|data point|written communication|written language|black and white|representation|mental representation|internal representation|public speaking|speechmaking|speaking|oral presentation|measurement|measuring|measure|mensuration
+38,frame,NN,NA,frame,anatomy|bod|build|chassis|figure|flesh|form|frame|frame of reference|framework|framing|human body|inning|material body|physical body|physique|shape|skeletal frame|skeletal system|skeleton|soma|systema skeletale|underframe,framework|frame|photograph|photo|exposure|picture|pic|body|organic structure|part|section|division|drawing|application|application program|applications programme|system|system of rules|supporting structure
+38,initial,JJ,NA,initi,initial,
+38,stage,NNS,s,stage,degree|leg|level|microscope stage|phase|point|stage|stagecoach,time period|period of time|period|state|platform|dramaturgy|dramatic art|dramatics|theater|theatre|coach|four-in-hand|coach-and-four|travel|traveling|travelling|scene
+39,laboratory,NN,NA,laboratori,lab|laboratory|research lab|research laboratory|science lab|science laboratory|testing ground,workplace|work|region
+39,wish,VBG,ing,wish,bid|care|like|wish|wish well,desire|want|express|verbalize|verbalise|utter|give tongue to|order|greet|recognize|recognise
+39,sign,VB,NA,sign,bless|contract|ratify|sign|sign on|sign up|signal|signalise|signalize|subscribe,write|validate|formalize|formalise|contract|undertake|hire|engage|employ|communicate|intercommunicate|put|set|place|pose|position|lay|gesticulate|gesture|motion
+39,generate,VB,NA,gener,beget|bring forth|engender|father|generate|get|give|mother|render|return|sire|yield,make|create|produce
+39,short,JJ,NA,short,brusk|brusque|curt|forgetful|inadequate|jejune|light|little|myopic|poor|scant(p)|short|short(p)|shortsighted|unforesightful|unretentive,
+39,document,NN,NA,document,document|papers|text file|written document,writing|written material|piece of writing|representation|communication|computer file
+39,highlight,VBG,ing,highlight,foreground|highlight|play up|spotlight,bring out|set off|make up
+39,expertise,NN,NA,expertis,expertise|expertness,skillfulness
+39,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+39,suitable,JJ,NA,suitabl,desirable|suitable|suited|worthy,
+39,particular,JJ,NA,particular,especial(a)|exceptional|finical|finicky|fussy|particular|particular(a)|peculiar(a)|picky|special|special(a),
+39,protein,NN,NA,protein,protein,macromolecule|supermolecule
+40,one-page,JJ,NA,one-pag,,NA
+40,proposal,NN,NA,propos,marriage offer|marriage proposal|proposal|proposal of marriage|proposition,message|content|subject matter|substance|offer|offering|speech act
+40,suffice,VB,NA,suffic,answer|do|serve|suffice,satisfy|fulfill|fulfil|live up to
+40,experimental,JJ,NA,experiment,data-based|experimental|observational,
+40,plan,NN,NA,plan,architectural plan|design|plan|program|programme,idea|thought|arrangement|organization|organisation|system|drawing
+40,demand,VBD,ed,demand,ask|call for|demand|exact|involve|necessitate|need|postulate|require|take,request|ask for|bespeak|call for|quest|claim|summon|summons|cite
+41,point,NN,NA,point,breaker point|compass point|decimal point|degree|detail|distributor point|dot|full point|full stop|gunpoint|head|item|level|peak|percentage point|period|point|point in time|pointedness|power point|spot|stage|stop|tip,component|constituent|element|factor|ingredient|location|meaning|significance|signification|import|fact|state|measure|quantity|amount|aim|object|objective|target|convex shape|convexity|disk|disc|saucer|unit of measurement|unit|promontory|headland|head|foreland|part|portion|component part|relevance|relevancy|characteristic|end|terminal|direction|linear unit|linear measure|loan|punctuation|punctuation mark|mark|mathematical notation|taper|gun muzzle|muzzle|wall socket|wall plug|electric outlet|electrical outlet|outlet|electric receptacle|contact|tangency
+41,small,JJ,NA,small,belittled|diminished|humble|little|low|lowly|minor|minuscule|modest|pocket-size|pocket-sized|small|small-scale|small(a),
+41,panel,NN,NA,panel,board|control board|control panel|dialog box|gore|instrument panel|jury|panel|venire,sheet|flat solid|committee|commission|body|pad|piece of cloth|piece of material|window|electrical device
+41,choose,VB,NA,choos,choose|opt|pick out|prefer|select|take,decide|make up one's mind|determine|evaluate|pass judgment|judge
+41,compete,VBG,ing,compet,compete|contend|vie,
+41,effort,NNS,s,effort,attempt|campaign|cause|crusade|drive|effort|elbow grease|endeavor|endeavour|exertion|exploit|feat|movement|sweat|travail|try,activity|labor|labour|toil|accomplishment|achievement|venture
+41,laboratory,NN,NA,laboratori,lab|laboratory|research lab|research laboratory|science lab|science laboratory|testing ground,workplace|work|region
+41,choose,VBN,en,choos,choose|opt|pick out|prefer|select|take,decide|make up one's mind|determine|evaluate|pass judgment|judge
+41,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+41,give,VBN,en,give,afford|apply|break|cave in|chip in|collapse|commit|consecrate|contribute|dedicate|devote|ease up|establish|fall in|feed|founder|generate|gift|give|give way|grant|hand|have|hold|impart|kick in|leave|make|move over|open|pass|pass on|pay|present|reach|render|return|sacrifice|throw|turn over|yield,supply|provide|render|furnish|transfer|state|say|tell|communicate|intercommunicate|direct|make|create|think|cogitate|cerebrate|produce|pass|hand|reach|pass on|turn over|give|utter|emit|let out|let loose|release|relinquish|resign|free|give up|use|utilize|utilise|apply|employ|administer|dispense|distribute|mete out|deal|parcel out|lot|shell out|deal out|dish out|allot|dole out|move|ply|cater|change|estimate|gauge|approximate|guess|judge|execute|compensate|recompense|repair|indemnify|show|perform|stretch|toast|drink|pledge|salute|wassail|accord|grant|express|evince|submit|lead|permit|allow|let|countenance|inflict|bring down|visit|impose|happen|hap|go on|pass off|occur|fall out|come about|take place|accept|consent|go for|offer|proffer
+41,small,JJ,NA,small,belittled|diminished|humble|little|low|lowly|minor|minuscule|modest|pocket-size|pocket-sized|small|small-scale|small(a),
+41,grant,NN,NA,grant,assignment|Cary Grant|concession|Duncan Grant|Duncan James Corrow Grant|grant|Grant|Hiram Ulysses Grant|President Grant|subsidisation|subsidization|Ulysses Grant|Ulysses S. Grant|Ulysses Simpson Grant,aid|economic aid|financial aid|assistance|financial assistance|economic assistance|allotment|apportionment|apportioning|allocation|parceling|parcelling|assignation|transferred property|transferred possession|contract|right
+41,six,CD,NA,six,NA,NA
+41,month,NNS,s,month,calendar month|month,time period|period of time|period|time unit|unit of time
+41,carry,VB,NA,carri,acquit|bear|behave|carry|channel|comport|conduct|contain|convey|deport|dribble|expect|express|extend|gestate|have a bun in the oven|hold|impart|pack|persuade|post|run|stock|stockpile|sway|take|transmit|transport,move|displace|have|feature|bring|convey|take|communicate|intercommunicate|hold|support|sustain|hold up|include|effect|continue|imply|involve|win|carry|bear|act|have got|circulate|circularize|circularise|distribute|disseminate|propagate|broadcast|spread|diffuse|disperse|pass around|hit|pass on|pass|pass along|put across|range|keep|maintain|influence|act upon|work|compensate|counterbalance|correct|make up|even out|even off|even up|promote|advance|boost|further|encourage|appropriate|capture|seize|conquer|transfer|shift|follow|grow|raise|farm|produce|propel|impel|hit the bottle|drink|booze|fuddle|nourish|nurture|travel|go|locomote|obtain|perform|execute|do|give birth|deliver|birth
+41,analysis,NN,NA,analysi,analysis|analytic thinking|depth psychology|psychoanalysis,investigation|investigating|reasoning|logical thinking|abstract thought|criticism|literary criticism|expressive style|style|calculus|infinitesimal calculus|psychotherapy
+42,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+42,successful,JJ,NA,success,successful,
+42,delineate,VBG,ing,delin,define|delimit|delimitate|delineate|describe|draw|limn|line|outline|specify|trace,show|be|draw|mark|describe|depict
+42,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+42,target,NN,NA,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+42,protein,NN,NA,protein,protein,macromolecule|supermolecule
+42,paper,NN,NA,paper,composition|newspaper|newspaper publisher|paper|report|theme,material|stuff|essay|press|public press|medium|article|publisher|publishing house|publishing firm|publishing company|product|production
+42,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+42,write,VBN,en,write,compose|drop a line|indite|pen|save|spell|write,create verbally|communicate|intercommunicate|correspond|make|create|trace|draw|line|describe|delineate|record|tape|create by mental act|create mentally
+42,submit,VBN,ed,submit,accede|bow|defer|give in|pass on|posit|present|put forward|put in|reconcile|relegate|render|resign|state|submit|take,refer|propose|suggest|advise|give|submit|yield|give in|succumb|knuckle under|buckle under|undergo|apply|gift|present|accept
+42,peer,VBP,NA,peer,peer,look
+42,review,NN,NA,review,brushup|critical review|critique|follow-up|followup|inspection|limited review|reappraisal|reassessment|recap|recapitulation|reexamination|revaluation|review|review article|revue,appraisal|assessment|criticism|literary criticism|examination|scrutiny|accounting|accounting system|method of accounting|variety show|variety|periodical|capitulation|proceeding|legal proceeding|proceedings|exercise|practice|drill|practice session|recitation
+43,paper,NN,NA,paper,composition|newspaper|newspaper publisher|paper|report|theme,material|stuff|essay|press|public press|medium|article|publisher|publishing house|publishing firm|publishing company|product|production
+43,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+43,accept,VBN,ed,accept,accept|admit|assume|bear|consent|go for|have|live with|swallow|take|take on|take over,evaluate|pass judgment|judge|get|acquire|react|respond|accept|take|have|digest|endure|stick out|stomach|bear|stand|tolerate|support|brook|abide|suffer|put up|be|receive
+43,publication,NN,NA,public,issue|publication|publishing,work|piece of work|printing|communication|commercial enterprise|business enterprise|business
+43,then,RB,NA,then,and so|so|then,NA
+43,additional,JJ,NA,addit,additional|extra,
+43,sum,NN,NA,sum,aggregate|amount|amount of money|center|centre|core|essence|gist|heart|heart and soul|inwardness|join|kernel|marrow|meat|nitty-gritty|nub|pith|substance|sum|sum of money|sum total|summation|total|totality|union,assets|quantity|collection|aggregation|accumulation|assemblage|content|cognitive content|mental object|whole|unit|set
+43,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+43,allocate,VBN,ed,alloc,allocate|apportion,assign|allot|portion
+43,supplement,NN,NA,supplement,accessory|add-on|addendum|appurtenance|postscript|supplement|supplementation,matter|increase|increment|component|constituent|element
+43,laboratory,NN,NA,laboratori,lab|laboratory|research lab|research laboratory|science lab|science laboratory|testing ground,workplace|work|region
+43,exist,VBG,ing,exist,be|exist|live|subsist|survive,
+43,grant,NN,NA,grant,assignment|Cary Grant|concession|Duncan Grant|Duncan James Corrow Grant|grant|Grant|Hiram Ulysses Grant|President Grant|subsidisation|subsidization|Ulysses Grant|Ulysses S. Grant|Ulysses Simpson Grant,aid|economic aid|financial aid|assistance|financial assistance|economic assistance|allotment|apportionment|apportioning|allocation|parceling|parcelling|assignation|transferred property|transferred possession|contract|right
+44,six,CD,NA,six,NA,NA
+44,month,NNS,s,month,calendar month|month,time period|period of time|period|time unit|unit of time
+44,laboratory,NN,NA,laboratori,lab|laboratory|research lab|research laboratory|science lab|science laboratory|testing ground,workplace|work|region
+44,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+44,not,RB,NA,not,non|not,NA
+44,manage,VBN,ed,manag,bring off|care|carry off|contend|cope|deal|do|finagle|get by|grapple|handle|make do|make out|manage|negociate|oversee|pull off|superintend|supervise|wangle|wield,NA
+44,delineate,NN,NA,delin,,NA
+44,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+44,submit,VB,NA,submit,accede|bow|defer|give in|pass on|posit|present|put forward|put in|reconcile|relegate|render|resign|state|submit|take,refer|propose|suggest|advise|give|submit|yield|give in|succumb|knuckle under|buckle under|undergo|apply|gift|present|accept
+44,short,JJ,NA,short,brusk|brusque|curt|forgetful|inadequate|jejune|light|little|myopic|poor|scant(p)|short|short(p)|shortsighted|unforesightful|unretentive,
+44,report,NN,NA,report,account|composition|news report|paper|report|report card|reputation|story|study|theme|write up|written report,document|written document|papers|informing|making known|news|noise|information|info|essay|estimate|estimation
+44,describe,VBG,ing,describ,account|delineate|depict|describe|discover|distinguish|draw|identify|key|key out|line|name|report|trace,set forth|expound|exposit|inform|mark
+44,approach,NNS,s,approach,access|advance|approach|approach path|approach shot|approaching|attack|coming|feeler|glide path|glide slope|overture|plan of attack,conceptualization|conceptualisation|formulation|motion|movement|move|way|air lane|flight path|airway|skyway|suggestion|proposition|proffer|timing|similarity|golf stroke|golf shot|swing
+44,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+44,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+44,try,VBN,ed,try,adjudicate|assay|attempt|essay|examine|hear|judge|prove|render|sample|seek|strain|stress|taste|test|try|try on|try out,act|move|evaluate|pass judgment|judge|decide|make up one's mind|determine|consume|ingest|take in|take|have|probe|examine|pain|anguish|hurt|afflict|melt|run|melt down|wear|put on|get into|don|assume
+44,result,NNS,s,result,answer|consequence|effect|event|final result|issue|outcome|resolution|result|resultant|resultant role|solution|solvent|termination|upshot,phenomenon|statement|ending|conclusion|finish|semantic role|participant role
+44,analysis,NNS,s,analysi,analysis|analytic thinking|depth psychology|psychoanalysis,investigation|investigating|reasoning|logical thinking|abstract thought|criticism|literary criticism|expressive style|style|calculus|infinitesimal calculus|psychotherapy
+45,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+45,post,VBN,ed,post,brand|carry|mail|place|post|put up|send|stake|station,affix|stick on|announce|denote|delegate|designate|depute|assign|move|displace|record|enter|put down|list|transfer|ride horseback|mark|install|instal|put in|set up|call
+45,public,JJ,NA,public,public,
+45,web,NNP,NA,web,entanglement|network|vane|web|World Wide Web|WWW,object|physical object|trap|blade|system|scheme|computer network|fabric|cloth|material|textile|membrane|tissue layer
+45,site,NN,NA,site,internet site|land site|site|situation|web site|website,tract|piece of land|piece of ground|parcel of land|parcel|position|place|computer|computing machine|computing device|data processor|electronic computer|information processing system
+45,target,NN,NA,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+45,then,RB,NA,then,and so|so|then,NA
+45,become,VB,NA,becom,become|get|go|suit|turn,change state|turn|transform|transmute|metamorphose|fancify|beautify|embellish|prettify
+45,open,JJ,NA,open,assailable|candid|capable|clear|exposed|heart-to-heart|loose|open|open(a)|opened|overt|receptive|subject|undecided|undefendable|undefended|undetermined|unfastened|unresolved,
+45,analysis,NN,NA,analysi,analysis|analytic thinking|depth psychology|psychoanalysis,investigation|investigating|reasoning|logical thinking|abstract thought|criticism|literary criticism|expressive style|style|calculus|infinitesimal calculus|psychotherapy
+45,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+45,laboratory,NNS,s,laboratori,lab|laboratory|research lab|research laboratory|science lab|science laboratory|testing ground,workplace|work|region
+45,same,JJ,NA,same,like|same|same(p),
+45,condition,NNS,s,condit,circumstance|condition|consideration|experimental condition|precondition|shape|status|stipulation|strings|term,state|premise|premiss|assumption|information|good health|healthiness|illness|unwellness|malady|sickness|statement|procedure|process
+45,before,RB,NA,befor,ahead|before|earlier|in front,NA
+46,initial,JJ,NA,initi,initial,
+46,list,NN,NA,list,inclination|lean|leaning|list|listing|tilt,database|position|spatial relation
+46,target,NN,NA,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+46,gene,NNS,s,gene,cistron|factor|gene,sequence
+46,probably,RB,NA,probabl,believably|belike|credibly|in all likelihood|in all probability|likely|plausibly|probably,
+46,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+46,base,VBN,ed,base,base|establish|found|free-base|ground,situate|locate|drug|do drugs
+46,well-studied,JJ,NA,well-studi,,NA
+46,experimentally,RB,NA,experiment,by experimentation|experimentally|through an experiment,
+46,tractable,JJ,NA,tractabl,amenable|manipulable|tractable,
+46,organism,NN,NA,organ,being|organism,living thing|animate thing|system|scheme
+46,such,JJ,NA,such,such(a),
+46,escherichium,NNP,s,escherichium,,NA
+46,coli,NNS,NA,coli,,NA
+46,not,RB,NA,not,non|not,NA
+46,demand,VB,NA,demand,ask|call for|demand|exact|involve|necessitate|need|postulate|require|take,request|ask for|bespeak|call for|quest|claim|summon|summons|cite
+46,biochemical,JJ,NA,biochem,biochemical,
+46,experiment,NNS,s,experi,experiment|experimentation,scientific research|research project|inquiry|enquiry|research|venture
+46,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+46,do,VBN,en,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+46,e,NNP,NA,e,atomic number 99|due east|e|E|east|eastward|einsteinium|Es|tocopherol|vitamin E,fat-soluble vitamin|antioxidant|metallic element|metal|cardinal compass point|transcendental number|letter|letter of the alphabet|alphabetic character
+46,coli,NNS,NA,coli,,NA
+46,gene,NN,NA,gene,cistron|factor|gene,sequence
+47,ortholog,NNS,s,ortholog,,NA
+47,do,VB,NA,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+47,so,RB,NA,so,and so|hence|indeed|so|then|thence|therefore|thus|thusly,NA
+47,long,RB,NA,long,long,NA
+47,similarity,NN,NA,similar,law of similarity|similarity,sameness|Gestalt law of organization|Gestalt principle of organization
+47,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+47,sufficiently,RB,NA,suffici,sufficiently,
+47,strong,JJ,NA,strong,firm|hard|impregnable|inviolable|potent|secure|solid|stiff|strong|substantial|unassailable|unattackable|warm,
+47,give,VB,NA,give,afford|apply|break|cave in|chip in|collapse|commit|consecrate|contribute|dedicate|devote|ease up|establish|fall in|feed|founder|generate|gift|give|give way|grant|hand|have|hold|impart|kick in|leave|make|move over|open|pass|pass on|pay|present|reach|render|return|sacrifice|throw|turn over|yield,supply|provide|render|furnish|transfer|state|say|tell|communicate|intercommunicate|direct|make|create|think|cogitate|cerebrate|produce|pass|hand|reach|pass on|turn over|give|utter|emit|let out|let loose|release|relinquish|resign|free|give up|use|utilize|utilise|apply|employ|administer|dispense|distribute|mete out|deal|parcel out|lot|shell out|deal out|dish out|allot|dole out|move|ply|cater|change|estimate|gauge|approximate|guess|judge|execute|compensate|recompense|repair|indemnify|show|perform|stretch|toast|drink|pledge|salute|wassail|accord|grant|express|evince|submit|lead|permit|allow|let|countenance|inflict|bring down|visit|impose|happen|hap|go on|pass off|occur|fall out|come about|take place|accept|consent|go for|offer|proffer
+47,high,JJ,NA,high,eminent|gamey|gamy|high|high-pitched|in high spirits|mellow,
+47,expectation,NNS,s,expect,anticipation|arithmetic mean|expectation|expected value|first moment|outlook|prospect,belief|hopefulness|feeling|mean|mean value
+47,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+47,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+47,conserved,JJ,NA,conserv,conserved,
+48,fact,NN,NA,fact,fact,information|info|reality|realness|realism|concept|conception|construct
+48,laboratory,NN,NA,laboratori,lab|laboratory|research lab|research laboratory|science lab|science laboratory|testing ground,workplace|work|region
+48,happen,VBD,ed,happen,bechance|befall|bump|chance|come about|encounter|fall out|find|go on|hap|happen|materialise|materialize|occur|pass|pass off|take place,happen|hap|go on|pass off|occur|pass|fall out|come about|take place|chance
+48,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+48,already,RB,NA,alreadi,already,NA
+48,work,VBG,ing,work,act|act upon|bring|crop|cultivate|do work|exercise|exploit|ferment|figure out|forge|form|function|go|influence|knead|lick|make|make for|mold|mould|operate|play|process|put to work|puzzle out|run|shape|solve|sour|turn|work|work on|work out|wreak,succeed|win|come through|bring home the bacon|deliver the goods|transform|transmute|transubstantiate|work|put to work|pass|go|proceed|move|displace|make|create|use|utilize|utilise|apply|employ|fix|prepare|set up|ready|gear up|set|be|affect|impact|bear upon|bear on|touch on|touch|operate|run|manage|deal|care|handle|stimulate|excite|stir|capture|enamour|trance|catch|becharm|enamor|captivate|beguile|charm|fascinate|bewitch|entrance|enchant|create from raw material|create from raw stuff|manipulate|understand|convert|change state|turn|become|get
+48,one,CD,NA,on,NA,NA
+48,homolog,NNS,s,homolog,,NA
+48,program,NN,NA,program,broadcast|computer program|computer programme|course of study|curriculum|plan|platform|political platform|political program|program|programme|syllabus,idea|thought|system|system of rules|show|document|written document|papers|announcement|promulgation|information|info|software|software program|computer software|software system|software package|package|performance
+48,provide,VB,NA,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+48,add,VBN,ed,add,add|add together|add up|append|bestow|bring|contribute|impart|lend|sum|sum up|summate|supply|tally|tot|tot up|total|tote up,increase|state|say|tell|change|alter|modify|calculate|cipher|cypher|compute|work out|reckon|figure|count|number|enumerate|numerate|form|constitute|make
+48,bonus,NN,NA,bonu,bonus|fillip|incentive,positive stimulus|payment
+48,greatly,RB,NA,greatli,greatly,
+48,speed,VB,NA,speed,accelerate|belt along|bucket along|cannonball along|hasten|hie|hotfoot|hurry|pelt along|quicken|race|rush|rush along|speed|speed up|step on it|travel rapidly|zip,travel|go|move|locomote|intensify|deepen|change|alter|modify
+48,work,NN,NA,work,body of work|employment|oeuvre|piece of work|study|work|workplace,activity|product|production|occupation|business|job|line of work|line|learning|acquisition|energy|free energy|geographic point|geographical point|end product|output
+49,also,RB,NA,also,also|as well|besides|likewise|too,NA
+49,encourage,VB,NA,encourag,advance|boost|encourage|further|promote,support|back up|inspire|animate|invigorate|enliven|exalt|induce|stimulate|cause|have|get|make
+49,biochemical,JJ,NA,biochem,biochemical,
+49,genetic,JJ,NA,genet,familial|genetic|genetical|genic|hereditary|inherited|transmissible|transmitted,
+49,approach,NNS,s,approach,access|advance|approach|approach path|approach shot|approaching|attack|coming|feeler|glide path|glide slope|overture|plan of attack,conceptualization|conceptualisation|formulation|motion|movement|move|way|air lane|flight path|airway|skyway|suggestion|proposition|proffer|timing|similarity|golf stroke|golf shot|swing
+49,never,RB,NA,never,ne'er|never,NA
+49,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+49,certain,JJ,NA,certain,certain|certain(a)|certain(p)|sealed|sure,
+49,one,CD,NA,on,NA,NA
+49,method,NN,NA,method,method|method acting,know-how|acting|playing|playacting|performing
+49,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+49,better,JJR,NA,better,best(p)|better|better(p),
+50,list,NN,NA,list,inclination|lean|leaning|list|listing|tilt,database|position|spatial relation
+50,course,NN,NA,cours,class|course|course of action|course of instruction|course of study|form|grade|line|path|row|track|trend,education|instruction|teaching|pedagogy|didactics|educational activity|series|direction|way|action|line|gathering|assemblage|nutriment|nourishment|nutrition|sustenance|aliment|alimentation|victuals|layer|bed|facility|installation
+50,also,RB,NA,also,also|as well|besides|likewise|too,NA
+50,include,VBP,NA,includ,admit|include|let in,see|consider|reckon|view|regard|add|permit|allow|let|countenance
+50,conserved,JJ,NA,conserv,conserved,
+50,gene,NNS,s,gene,cistron|factor|gene,sequence
+50,not,RB,NA,not,non|not,NA
+50,find,VBD,ed,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+50,e,NNP,NA,e,atomic number 99|due east|e|E|east|eastward|einsteinium|Es|tocopherol|vitamin E,fat-soluble vitamin|antioxidant|metallic element|metal|cardinal compass point|transcendental number|letter|letter of the alphabet|alphabetic character
+50,coli,NNS,NA,coli,,NA
+50,commonly,RB,NA,commonli,commonly|normally|ordinarily|unremarkably|usually,
+50,distribute,VBN,ed,distribut,administer|allot|broadcast|circularise|circularize|circulate|deal|deal out|diffuse|dish out|dispense|disperse|disseminate|distribute|dole out|give out|hand out|lot|mete out|parcel out|pass around|pass on|pass out|propagate|shell out|spread|stagger,give|transfer|gift|present|move|displace|publicize|publicise|air|bare|spread|scatter|spread out|exist|be|arrange|set up
+50,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+50,genome,NNS,s,genom,genome,ordering|order|ordination
+51,particular,JJ,NA,particular,especial(a)|exceptional|finical|finicky|fussy|particular|particular(a)|peculiar(a)|picky|special|special(a),
+51,make,VB,NA,make,arrive at|attain|bring in|build|ca-ca|cause|clear|constitute|construct|cook|crap|create|defecate|do|draw|earn|establish|fix|form|gain|get|get to|give|have|hit|hold|induce|lay down|make|make believe|make up|make water|micturate|name|nominate|pass water|pee|pee-pee|piddle|piss|prepare|pretend|produce|progress to|puddle|pull in|reach|ready|realise|realize|relieve oneself|score|seduce|shit|spend a penny|stimulate|stool|take|take a crap|take a leak|take a shit|take in|throw|urinate|wee|wee-wee|work,change|alter|modify|make|create|create by mental act|create mentally|cause|do|get|acquire|constitute|represent|make up|comprise|be|achieve|accomplish|attain|reach|become|create from raw material|create from raw stuff|perform|execute|act|behave|appoint|charge|score|hit|tally|rack up|perpetrate|commit|pull|assemble|gather|get together|direct|tidy|tidy up|clean up|neaten|straighten|straighten out|square away|head|excrete|egest|eliminate|pass|total|number|add up|come|amount|look|appear|seem|arrive at|gain|persuade|guarantee|ensure|insure|assure|secure|play|see|consider|reckon|view|regard|estimate|gauge|approximate|guess|judge|develop|grow
+51,pitch,NN,NA,pitch,auction pitch|delivery|lurch|pitch|pitch shot|pitching|rake|sales pitch|sales talk|slant|soccer field|tar,sound property|throw|position|place|promotion|promo|publicity|promotional material|packaging|gradient|slope|bitumen|playing field|athletic field|playing area|field|approach|approach shot|all fours|high-low-jack|motion|movement|move|motility
+51,include,VBG,ing,includ,admit|include|let in,see|consider|reckon|view|regard|add|permit|allow|let|countenance
+51,gene,NNS,s,gene,cistron|factor|gene,sequence
+51,mycoplasma,NNP,NA,mycoplasma,mycoplasma,eubacteria|eubacterium|true bacteria
+51,genitalium,NN,NA,genitalium,,NA
+51,free-living,JJ,NA,free-liv,free-living|nonparasitic|nonsymbiotic,
+51,organism,NN,NA,organ,being|organism,living thing|animate thing|system|scheme
+51,fewest,JJS,NA,fewest,fewest(a),
+51,gene,NNS,s,gene,cistron|factor|gene,sequence
+51,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+51,most,RBS,NA,most,about|almost|most|near|nearly|nigh|to the highest degree|virtually|well-nigh,NA
+51,suitable,JJ,NA,suitabl,desirable|suitable|suited|worthy,
+51,model,NN,NA,model,example|exemplar|fashion model|framework|good example|manakin|manikin|mannequin|mannikin|model|modeling|modelling|poser|role model|simulation|theoretical account,hypothesis|possibility|theory|kind|sort|form|variety|assistant|helper|help|supporter|representation|ideal|leader|mental representation|internal representation
+51,system,NN,NA,system,arrangement|organisation|organization|scheme|system|system of rules,instrumentality|instrumentation|group|grouping|matter|method|structure|body part|plan of action|live body|orderliness|methodicalness
+51,in-depth,JJ,NA,in-depth,,NA
+51,understanding,NN,NA,understand,agreement|apprehension|discernment|intellect|reason|savvy|sympathy|understanding,knowing|statement|inclination|disposition|tendency|faculty|mental faculty|module
+51,biology,NN,NA,biologi,biological science|biology|biota,life science|bioscience|life|collection|aggregation|accumulation|assemblage
+52,proposal,NN,NA,propos,marriage offer|marriage proposal|proposal|proposal of marriage|proposition,message|content|subject matter|substance|offer|offering|speech act
+52,experimental,JJ,NA,experiment,data-based|experimental|observational,
+52,attack,NN,NA,attack,approach|attack|attempt|blast|fire|flack|flak|onrush|onset|onslaught|plan of attack|tone-beginning,operation|military operation|turn|play|criticism|unfavorable judgment|conceptualization|conceptualisation|formulation|crime|criminal offense|criminal offence|law-breaking|beginning|start|commencement|affliction|degeneration|devolution
+52,hypothetical,JJ,NA,hypothet,conjectural|divinatory|hypothetic|hypothetical|supposed|suppositional|suppositious|supposititious,
+52,gene,NNS,s,gene,cistron|factor|gene,sequence
+52,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+52,really,RB,NA,realli,actually|genuinely|in truth|rattling|real|really|truly|very,NA
+52,very,RB,NA,veri,rattling|real|really|very,NA
+52,traditional,JJ,NA,tradit,traditional,
+52,approach,NN,NA,approach,access|advance|approach|approach path|approach shot|approaching|attack|coming|feeler|glide path|glide slope|overture|plan of attack,conceptualization|conceptualisation|formulation|motion|movement|move|way|air lane|flight path|airway|skyway|suggestion|proposition|proffer|timing|similarity|golf stroke|golf shot|swing
+52,become,VBZ,s,becom,become|get|go|suit|turn,change state|turn|transform|transmute|metamorphose|fancify|beautify|embellish|prettify
+52,large-scale,JJ,NA,large-scal,large-scale,
+52,simply,RB,NA,simpli,but|just|merely|only|plainly|simply,NA
+52,parallel,JJ,NA,parallel,parallel,
+52,nature,NN,NA,natur,nature,quality|causal agent|cause|causal agency|universe|existence|creation|world|cosmos|macrocosm|trait|type
+52,implementation,NN,NA,implement,carrying out|effectuation|execution|implementation,enforcement|act|deed|human action|human activity
+53,resemble,VBZ,s,resembl,resemble,match|fit|correspond|check|jibe|gibe|tally|agree
+53,successful,JJ,NA,success,successful,
+53,approach,NN,NA,approach,access|advance|approach|approach path|approach shot|approaching|attack|coming|feeler|glide path|glide slope|overture|plan of attack,conceptualization|conceptualisation|formulation|motion|movement|move|way|air lane|flight path|airway|skyway|suggestion|proposition|proffer|timing|similarity|golf stroke|golf shot|swing
+53,use,VBN,ed,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+53,european,NNPS,s,european,European,inhabitant|habitant|dweller|denizen|indweller
+53,achieve,VB,NA,achiev,accomplish|achieve|attain|reach,succeed|win|come through|bring home the bacon|deliver the goods
+53,complete,JJ,NA,complet,accomplished|all over|arrant(a)|complete|complete(a)|concluded|consummate|consummate(a)|double-dyed(a)|ended|everlasting(a)|gross(a)|over(p)|perfect(a)|pure(a)|sodding(a)|staring(a)|stark(a)|terminated|thorough(a)|thoroughgoing(a)|unadulterated|utter(a),
+53,sequence,NN,NA,sequenc,chronological sequence|chronological succession|episode|sequence|succession|successiveness,series|temporal arrangement|temporal order|film|photographic film|order|ordering|repeat|repetition
+53,saccharomyce,NNP,s,saccharomyc,,NA
+53,cerevisia,NN,s,cerevisia,,NA
+53,genome,NN,NA,genom,genome,ordering|order|ordination
+53,goffeau,NNP,NA,goffeau,,NA
+53,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+53,1996,CD,NA,1996,NA,NA
+54,result,NNS,s,result,answer|consequence|effect|event|final result|issue|outcome|resolution|result|resultant|resultant role|solution|solvent|termination|upshot,phenomenon|statement|ending|conclusion|finish|semantic role|participant role
+54,significantly,RB,NA,significantli,importantly|significantly,
+54,increase,VB,NA,increas,increase,change magnitude|change|alter|modify
+54,functional,JJ,NA,function,functional|operable|operational|operative|running(a)|usable|useable|working(a),
+54,knowledge,NN,NA,knowledg,cognition|knowledge|noesis,psychological feature
+54,gene,NNS,s,gene,cistron|factor|gene,sequence
+54,microbial,NN,NA,microbi,,NA
+54,genome,NNS,s,genom,genome,ordering|order|ordination
+54,thus,RB,NA,thu,hence|so|thence|therefore|thus|thusly,NA
+54,far,RB,NA,far,far,NA
+54,sequenced,JJ,NA,sequenc,,NA
+55,such,JJ,NA,such,such(a),
+55,annotation,NN,NA,annot,annotating|annotation|notation|note,comment|commentary|expansion|expanding upon
+55,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+55,immediately,RB,NA,immedi,at once|directly|forthwith|immediately|instantly|like a shot|now|right away|straight off|straightaway,
+55,applicable,JJ,NA,applic,applicable,
+55,ortholog,NNS,s,ortholog,,NA
+55,dramatically,RB,NA,dramat,dramatically,
+55,improve,VB,NA,improv,ameliorate|amend|better|improve|meliorate,change|alter|modify|change state|turn
+55,value,NN,NA,valu,economic value|note value|time value|value,numerical quantity|worth|measure|quantity|amount|color property|duration|continuance|ideal
+55,sequenced,JJ,NA,sequenc,,NA
+55,genome,NNS,s,genom,genome,ordering|order|ordination
+56,turn,NN,NA,turn,act|bend|bit|bout|crook|go|good turn|number|play|round|routine|spell|tour|turn|turn of events|turning|twist,curve|curved shape|change of course|activity|development|movement|motion|change of direction|reorientation|rotation|rotary motion|shift|work shift|duty period|part|section|division|performance|public presentation|favor|favour|walk
+56,facilitate,VB,NA,facilit,alleviate|ease|facilitate|help,help|assist|aid|serve|cause|do|make
+56,ability,NN,NA,abil,ability|power,quality|cognition|knowledge|noesis
+56,annotate,NN,NA,annot,,NA
+56,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+56,genome,NNS,s,genom,genome,ordering|order|ordination
+56,appear,VBP,NA,appear,appear|come along|come out|look|seem,be|happen|materialize|materialise|perform|execute|do
+57,proposal,NN,NA,propos,marriage offer|marriage proposal|proposal|proposal of marriage|proposition,message|content|subject matter|substance|offer|offering|speech act
+57,also,RB,NA,also,also|as well|besides|likewise|too,NA
+57,reinforce,VBZ,s,reinforc,reenforce|reinforce|reward,strengthen|beef up|fortify|teach|learn|instruct
+57,notion,NN,NA,notion,belief|feeling|impression|notion|opinion|whim|whimsey|whimsy,idea|thought|concept|conception|construct|article
+57,overwhelming,JJ,NA,overwhelm,consuming|overpowering|overwhelming,
+57,value,NN,NA,valu,economic value|note value|time value|value,numerical quantity|worth|measure|quantity|amount|color property|duration|continuance|ideal
+57,bioinformatic,NNS,s,bioinformat,,NA
+57,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+57,generate,VB,NA,gener,beget|bring forth|engender|father|generate|get|give|mother|render|return|sire|yield,make|create|produce
+57,hypothesis,NNS,s,hypothesi,conjecture|guess|hypothesis|possibility|speculation|supposition|surmisal|surmise|theory,proposal|concept|conception|construct|opinion|view
+57,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+57,test,VBN,ed,test,essay|examine|prove|quiz|screen|test|try|try out,evaluate|pass judgment|judge|check|examine|be|score|determine|find out|see|ascertain|watch|learn|take|submit
+57,experimentally,RB,NA,experiment,by experimentation|experimentally|through an experiment,
+58,enable,VBG,ing,enabl,enable,change|alter|modify
+58,community,NN,NA,commun,biotic community|community|community of interests|residential area|residential district,gathering|assemblage|people|ownership|world organization|world organisation|international organization|international organisation|global organization|agreement|accord|district|territory|territorial dominion|dominion|group|grouping
+58,join,VB,NA,join,conjoin|connect|fall in|get together|join|link|link up|unite,NA
+58,effort,NN,NA,effort,attempt|campaign|cause|crusade|drive|effort|elbow grease|endeavor|endeavour|exertion|exploit|feat|movement|sweat|travail|try,activity|labor|labour|toil|accomplishment|achievement|venture
+58,also,RB,NA,also,also|as well|besides|likewise|too,NA
+58,demonstrate,VB,NA,demonstr,attest|certify|demo|demonstrate|establish|evidence|exhibit|manifest|march|present|prove|shew|show,show|confirm|corroborate|sustain|substantiate|support|affirm|testify|bear witness|prove|evidence|protest|resist|dissent
+58,science,NN,NA,scienc,science|scientific discipline|skill,discipline|subject|subject area|subject field|field|field of study|study|bailiwick|ability|power
+58,really,RB,NA,realli,actually|genuinely|in truth|rattling|real|really|truly|very,NA
+58,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+58,collaborative,JJ,NA,collabor,collaborative,
+58,enterprise,NN,NA,enterpris,endeavor|endeavour|enterprise|enterprisingness|go-ahead|initiative,undertaking|project|task|labor|organization|organisation|drive
+58,require,VBZ,s,requir,ask|call for|command|demand|expect|involve|necessitate|need|postulate|require|take|want,demand|order|tell|enjoin|say|be
+58,contribution,NNS,s,contribut,contribution|donation|part|share,attempt|effort|endeavor|endeavour|try|gift|giving|sum|sum of money|amount|amount of money|publication|publishing
+58,not,RB,NA,not,non|not,NA
+58,just,RB,NA,just,barely|but|exactly|hardly|just|just now|merely|only|precisely|properly|scarce|scarcely|simply,NA
+58,select,JJ,NA,select,blue-ribbon(a)|choice|prime(a)|prize|quality|select,
+58,few,JJ,NA,few,few,
+59,finally,RB,NA,final,at last|at long last|eventually|finally|in conclusion|in the end|last|lastly|ultimately,
+59,initiative,NN,NA,initi,enterprise|enterprisingness|first step|go-ahead|initiative|opening|opening move,drive|beginning|start|commencement
+59,succeed,VBZ,s,succe,bring home the bacon|come after|come through|deliver the goods|follow|succeed|win,
+59,serve,VB,NA,serv,answer|assist|attend|attend to|dish|dish out|dish up|do|function|help|process|serve|serve up|serve well|service|suffice|swear out|wait on,suffice|do|answer|serve|work|do work|effect|effectuate|set up|function|operate|go|run|provide|supply|ply|cater|foster|nurture|spend|pass|help|assist|aid|deliver|satisfy|fulfill|fulfil|live up to|copulate|mate|pair|couple|move
+59,suitable,JJ,NA,suitabl,desirable|suitable|suited|worthy,
+59,model,NN,NA,model,example|exemplar|fashion model|framework|good example|manakin|manikin|mannequin|mannikin|model|modeling|modelling|poser|role model|simulation|theoretical account,hypothesis|possibility|theory|kind|sort|form|variety|assistant|helper|help|supporter|representation|ideal|leader|mental representation|internal representation
+59,begin,VB,NA,begin,begin|commence|get|get down|lead off|set about|set out|start|start out,talk|speak|utter|mouth|verbalize|verbalise|be|act|move|achieve|accomplish|attain|reach
+59,more,RBR,NA,more,more|to a greater extent,
+59,daunting,JJ,NA,daunt,daunting|intimidating,
+59,task,NN,NA,task,chore|job|labor|project|task|undertaking,work|duty
+59,try,VBG,ing,try,adjudicate|assay|attempt|essay|examine|hear|judge|prove|render|sample|seek|strain|stress|taste|test|try|try on|try out,act|move|evaluate|pass judgment|judge|decide|make up one's mind|determine|consume|ingest|take in|take|have|probe|examine|pain|anguish|hurt|afflict|melt|run|melt down|wear|put on|get into|don|assume
+59,annotate,NN,NA,annot,,NA
+59,function,NNS,s,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+59,complex,JJ,NA,complex,complex|complicated,
+59,eukaryotic,JJ,NA,eukaryot,eucaryotic|eukaryotic,
+59,genome,NNS,s,genom,genome,ordering|order|ordination
+59,such,JJ,NA,such,such(a),
+59,human,JJ,NA,human,human,
+59,genome,NN,NA,genom,genome,ordering|order|ordination

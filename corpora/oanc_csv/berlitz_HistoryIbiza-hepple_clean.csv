@@ -1,0 +1,1109 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,handful,NN,NA,hand,fistful|handful|smattering,small indefinite quantity|small indefinite amount|containerful
+1,bronze,NNP,NA,bronz,bronze,copper-base alloy|sculpture
+1,age,NNP,NA,ag,age|eld|geezerhood|historic period|long time|old age|years,property|era|epoch|time of life|time period|period of time|period
+1,relic,NNS,s,relic,keepsake|relic|souvenir|token,antiquity|object|physical object
+1,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+1,foster,VBN,ed,foster,foster|further|nurture,promote|advance|boost|further|encourage|rear|raise|bring up|nurture|parent
+1,assumption,NN,NA,assumpt,assumption|Assumption|Assumption of Mary|August 15|effrontery|laying claim|premise|premiss|presumption|presumptuousness|supposal|supposition,postulate|posit|hypothesis|possibility|theory|acquisition|holy day of obligation|miracle|audacity|audaciousness|act|deed|human action|human activity
+1,prehistoric,JJ,NA,prehistor,prehistoric|prehistorical,
+1,settler,NNS,s,settler,colonist|settler,migrant|migrator|negotiator|negotiant|treater|clerk
+1,inhabit,VBN,ed,inhabit,dwell|inhabit|live|populate,be|exist
+1,ibiza,NNP,NA,ibiza,,NA
+1,thousand,NNS,s,thousand,1000|chiliad|G|grand|K|M|one thousand|thou|thousand|yard,large integer
+1,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+1,ago,RB,NA,ago,ago,NA
+2,greater,NNP,NA,greater,,NA
+2,evidence,NN,NA,evid,evidence|grounds,information|indication|indicant|info
+2,such,JJ,NA,such,such(a),
+2,people,NNS,NA,peopl,citizenry|hoi polloi|mass|masses|multitude|people|the great unwashed,group|grouping|family|family line|folk|kinfolk|kinsfolk|sept|phratry
+2,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+2,find,VBN,ed,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+2,mallorca,NNP,NA,mallorca,,NA
+2,menorca,NNP,NA,menorca,,NA
+2,ibiza,NNP,NA,ibiza,,NA
+2,one,CD,NA,on,NA,NA
+2,balearic,NNP,s,balear,,NA
+2,most,RBS,NA,most,about|almost|most|near|nearly|nigh|to the highest degree|virtually|well-nigh,NA
+2,important,JJ,NA,import,authoritative|crucial|important|of import|significant,
+2,site,NNS,s,site,internet site|land site|site|situation|web site|website,tract|piece of land|piece of ground|parcel of land|parcel|position|place|computer|computing machine|computing device|data processor|electronic computer|information processing system
+2,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+2,actually,RB,NA,actual,actually|in reality|really,NA
+2,island,NN,NA,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+2,formentera,NNP,NA,formentera,,NA
+2,megalithic,JJ,NA,megalith,megalithic,
+2,monument,NN,NA,monument,memorial|monument|repository,structure|construction|site|land site|burial chamber|sepulcher|sepulchre|sepulture
+2,/,NN,NA,/,,NA
+2,tomb,NN,NA,tomb,grave|tomb,topographic point|place|spot
+2,na,NNP,NA,na,atomic number 11|Na|sodium,metallic element|metal
+2,costa,NNP,NA,costa,costa|rib,structure|anatomical structure|complex body part|bodily structure|body structure|bone|os
+2,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+2,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+2,date,VBN,ed,date,date|date stamp|go out|go steady|see,go out|date|stamp|determine|set|consort|associate|affiliate|assort|supply|provide|render|furnish
+2,2000,CD,NA,2000,NA,NA
+2,ibiza,NNP,NA,ibiza,,NA
+2,s,VBZ,NA,NA,,NA
+2,key,JJ,NA,kei,cardinal|central|fundamental|key|primal,
+2,location,NN,NA,locat,emplacement|fix|localisation|localization|locating|location|placement|position|positioning,object|physical object|activity|determination|finding|workplace|work
+2,africa,NNP,NA,africa,Africa,
+2,ancient,JJ,NA,ancient,ancient,
+2,iberium,NNP,s,iberium,,NA
+2,make,VBD,ed,make,arrive at|attain|bring in|build|ca-ca|cause|clear|constitute|construct|cook|crap|create|defecate|do|draw|earn|establish|fix|form|gain|get|get to|give|have|hit|hold|induce|lay down|make|make believe|make up|make water|micturate|name|nominate|pass water|pee|pee-pee|piddle|piss|prepare|pretend|produce|progress to|puddle|pull in|reach|ready|realise|realize|relieve oneself|score|seduce|shit|spend a penny|stimulate|stool|take|take a crap|take a leak|take a shit|take in|throw|urinate|wee|wee-wee|work,change|alter|modify|make|create|create by mental act|create mentally|cause|do|get|acquire|constitute|represent|make up|comprise|be|achieve|accomplish|attain|reach|become|create from raw material|create from raw stuff|perform|execute|act|behave|appoint|charge|score|hit|tally|rack up|perpetrate|commit|pull|assemble|gather|get together|direct|tidy|tidy up|clean up|neaten|straighten|straighten out|square away|head|excrete|egest|eliminate|pass|total|number|add up|come|amount|look|appear|seem|arrive at|gain|persuade|guarantee|ensure|insure|assure|secure|play|see|consider|reckon|view|regard|estimate|gauge|approximate|guess|judge|develop|grow
+2,convenient,JJ,NA,conveni,commodious|convenient,
+2,stopover,NN,NA,stopov,layover|stop|stopover|way station,stop|stay
+2,mediterranean,NNP,NA,mediterranean,Mediterranean|Mediterranean Sea,
+2,seafarer,NNS,s,seafar,gob|Jack|Jack-tar|mariner|old salt|sea dog|seafarer|seaman|tar,sailor|crewman
+2,such,JJ,NA,such,such(a),
+2,phoenician,NNP,NA,phoenician,Phoenician,Semite|Canaanitic|Canaanitic language
+2,trader,NNS,s,trader,bargainer|dealer|monger|trader,merchant|merchandiser
+2,call,VBD,ed,call,address|anticipate|be known as|bid|call|call in|call off|call up|cry|forebode|foretell|holler|hollo|know as|name|phone|predict|prognosticate|promise|ring|scream|send for|shout|shout out|squall|telephone|visit|yell,label|telecommunicate|utter|emit|let out|let loose|order|tell|enjoin|say|meet|get together|request|ask for|bespeak|call for|quest|read|postpone|prorogue|hold over|put over|table|shelve|set back|defer|remit|put off|address|turn to|stop|stop over|demand|exact|play|indicate|guess|venture|pretend|hazard|ask|require|expect|challenge|dispute|gainsay|declare|adjudge|hold|entice|lure|tempt|see|consider|reckon|view|regard|awaken|wake|waken|rouse|wake up|arouse
+2,island,NN,NA,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+2,ibosim,NNP,NA,ibosim,,NA
+3,greek,NNPS,s,greek,Greek|Hellene|Hellenic|Hellenic language,Indo-European|Indo-European language|Indo-Hittite|European
+3,dub,VBD,ed,dub,dub|knight|nickname,name|call|know as|be known as|synchronize|synchronise|ennoble|gentle|entitle
+3,ebyso,NNP,s,ebyso,,NA
+3,roman,NNP,s,roman,roman|Roman|roman letters|roman print|roman type,Italian|European|proportional font
+3,call,VBD,ed,call,address|anticipate|be known as|bid|call|call in|call off|call up|cry|forebode|foretell|holler|hollo|know as|name|phone|predict|prognosticate|promise|ring|scream|send for|shout|shout out|squall|telephone|visit|yell,label|telecommunicate|utter|emit|let out|let loose|order|tell|enjoin|say|meet|get together|request|ask for|bespeak|call for|quest|read|postpone|prorogue|hold over|put over|table|shelve|set back|defer|remit|put off|address|turn to|stop|stop over|demand|exact|play|indicate|guess|venture|pretend|hazard|ask|require|expect|challenge|dispute|gainsay|declare|adjudge|hold|entice|lure|tempt|see|consider|reckon|view|regard|awaken|wake|waken|rouse|wake up|arouse
+3,ebusus,NNP,NA,ebusu,,NA
+3,moor,NNP,s,moor,moor|Moor|moorland,Muslim|Moslem|plain|field|champaign
+3,yebisah,NNP,NA,yebisah,,NA
+4,detail,VBN,ed,detail,detail,elaborate|lucubrate|expatiate|exposit|enlarge|flesh out|expand|expound|dilate|assign|specify|set apart
+4,history,NN,NA,histori,account|chronicle|history|story,past|past times|yesteryear|record|humanistic discipline|humanities|liberal arts|arts|continuum|cognition|knowledge|noesis
+4,island,NN,NA,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+4,doesn,NN,NA,doesn,,NA
+4,t,NN,NA,t,deoxythymidine monophosphate|liothyronine|metric ton|MT|t|T|tetraiodothyronine|thymine|thyroxin|thyroxine|tonne|triiodothyronine,pyrimidine|nucleotide|base|metric weight unit|weight unit|letter|letter of the alphabet|alphabetic character|thyroid hormone
+4,begin,VB,NA,begin,begin|commence|get|get down|lead off|set about|set out|start|start out,talk|speak|utter|mouth|verbalize|verbalise|be|act|move|achieve|accomplish|attain|reach
+4,become,VBD,ed,becom,become|get|go|suit|turn,change state|turn|transform|transmute|metamorphose|fancify|beautify|embellish|prettify
+4,colony,NN,NA,coloni,colony|Colony|dependency|settlement,body|biological group|geographical area|geographic area|geographical region|geographic region|place|property|animal group
+4,carthage,NNP,NA,carthag,Carthage,
+4,7,CD,NA,7,NA,NA
+4,th,NN,NA,th,atomic number 90|Th|thorium|Thursday,weekday|metallic element|metal
+4,century,NN,NA,centuri,100|C|century|hundred|one C,time period|period of time|period|large integer
+4,see,VB,NA,see,ascertain|assure|attend|catch|check|come across|consider|construe|control|date|determine|discover|encounter|ensure|envision|escort|examine|experience|fancy|figure|find|find out|get a line|get wind|get word|go out|go steady|go through|hear|image|insure|interpret|learn|look|meet|pick up|picture|project|realise|realize|reckon|regard|run across|run into|see|see to it|take care|take in|understand|view|visit|visualise|visualize|watch|witness,perceive|comprehend|experience|see|go through|imagine|conceive of|ideate|envisage|think|believe|consider|conceive|watch|verify|visit|call in|call|tour|care|give care|receive|take in|invite|consort|associate|affiliate|assort|debate|moot|turn over|deliberate|detect|observe|find|discover|notice|undergo|accompany|bet|wager|play|understand
+4,also,RB,NA,also,also|as well|besides|likewise|too,NA
+4,page,NNS,s,page,page|Page|pageboy|Sir Frederick Handley Page|Thomas Nelson Page|varlet,leaf|folio|messenger boy|errand boy|attendant|attender|tender
+4,14,CD,NA,14,NA,NA
+5,15,CD,NA,15,NA,NA
+6,carthaginian,NNP,s,carthaginian,Carthaginian,African
+6,originally,RB,NA,origin,earlier|in the beginning|in the first place|originally|primitively|to begin with,NA
+6,come,VBD,ed,come,add up|amount|arrive|come|come in|come up|derive|descend|do|fall|fare|follow|get|get along|hail|issue forth|make out|number|occur|total,NA
+6,area,NN,NA,area,area|arena|country|domain|expanse|field|orbit|region|sphere|surface area,region|topic|subject|issue|matter|body part|environment|structure|construction|extent
+6,comprise,VBG,ing,compris,be|comprise|consist|constitute|contain|incorporate|make up|represent,be|include
+6,present-day,JJ,NA,present-dai,contemporary|present-day(a),
+6,lebanon,NNP,NA,lebanon,Lebanese Republic|Lebanon,
+6,base,NNS,s,base,al Qaeda|al Qaida|al-Qa'ida|al-Qaeda|al-Qaida|alkali|bag|base|Base|base of operations|basis|cornerstone|floor|foot|foundation|fundament|groundwork|home|infrastructure|nucleotide|pedestal|Qaeda|radical|radix|root|root word|stand|stem|substructure|theme|understructure,military installation|support|baseball equipment|part|piece|bottom|control|assumption|supposition|supposal|ester|compound|chemical compound|flank|portion|component part|component|constituent|number|location|form|word form|signifier|descriptor|store|stock|fund|ingredient|underside|undersurface|electrode
+6,north,NNP,NA,north,compass north|due north|Frederick North|magnetic north|N|north|North|northward|Second Earl of Guilford|Union,cardinal compass point|location|direction
+6,africa,NNP,NA,africa,Africa,
+6,s,VBZ,NA,NA,,NA
+6,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+6,spain,NNP,NA,spain,Espana|Kingdom of Spain|Spain,
+6,challenge,VBD,ed,challeng,challenge|dispute|gainsay|take exception,contest|contend|repugn|invite|bid|request|ask for|bespeak|call for|quest|object
+6,roman,NNP,NA,roman,roman|Roman|roman letters|roman print|roman type,Italian|European|proportional font
+6,empire,NNP,NA,empir,conglomerate|empire|Empire|imperium,domain|demesne|land|government|authorities|regime|monarchy|corporation|corp|eating apple|dessert apple
+6,domination,NN,NA,domin,domination|mastery|supremacy,social control|dominance|ascendance|ascendence|ascendancy|ascendency|control
+6,mediterranean,NNP,NA,mediterranean,Mediterranean|Mediterranean Sea,
+6,region,NN,NA,region,area|neighborhood|part|realm|region,location|body part|indefinite quantity|knowledge domain|knowledge base|domain
+7,interest,NN,NA,interest,interest|interest group|interestingness|involvement|pastime|pursuit|sake|stake,curiosity|wonder|benefit|welfare|power|powerfulness|fixed charge|fixed cost|fixed costs|share|portion|part|percentage|social group|diversion|recreation
+7,ibiza,NNP,NA,ibiza,,NA
+7,lie,VBD,ed,lie,consist|dwell|lie|lie down|lie in|rest,be|exist|misinform|mislead|change posture
+7,partly,RB,NA,partli,in part|part|partially|partly,
+7,vast,JJ,NA,vast,Brobdingnagian|huge|immense|vast,
+7,salt,NN,NA,salt,common salt|salinity|salt|SALT|saltiness|Strategic Arms Limitation Talks|table salt,compound|chemical compound|flavorer|flavourer|flavoring|flavouring|seasoner|seasoning|taste|taste sensation|gustatory sensation|taste perception|gustatory perception
+7,flat,NNS,s,flat,apartment|flat|flat tire|flatbed|flatcar,plain|field|champaign|box|musical notation|freight car|pneumatic tire|pneumatic tyre|scenery|scene|housing|lodging|living accommodations
+7,day,NN,NA,dai,24-hour interval|Clarence Day|Clarence Shepard Day Jr.|day|Day|daylight|daytime|mean solar day|sidereal day|solar day|twenty-four hour period|twenty-four hours,time unit|unit of time|time|calendar day|civil day|time period|period of time|period|work time|era|epoch|sidereal time|opportunity|chance
+7,remain,VBP,NA,remain,continue|persist|remain|rest|stay|stay on,be
+7,source,NN,NA,sourc,author|beginning|generator|germ|informant|origin|reference|reservoir|root|rootage|seed|source,point|document|written document|papers|inspiration|facility|installation|communicator|maker|shaper|natural process|natural action|action|activity|thing|publication
+7,profitable,JJ,NA,profit,profitable,
+7,industry,NN,NA,industri,diligence|industriousness|industry|manufacture,commercial enterprise|business enterprise|business|determination|purpose
+8,capitalize,VBD,ed,capit,capitalise|capitalize|take advantage,profit|gain|benefit|supply|provide|render|furnish|write|calculate|cipher|cypher|compute|work out|reckon|figure|see|consider|view|regard|change|exchange|commute|convert
+8,natural,JJ,NA,natur,biological|born(p)|innate(p)|instinctive|lifelike|natural|raw(a)|rude(a),
+8,resource,NNS,s,resourc,imagination|resource|resourcefulness,assets|asset|plus|inventiveness|ingeniousness|ingenuity|cleverness
+8,use,VBG,ing,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+8,salt,NN,NA,salt,common salt|salinity|salt|SALT|saltiness|Strategic Arms Limitation Talks|table salt,compound|chemical compound|flavorer|flavourer|flavoring|flavouring|seasoner|seasoning|taste|taste sensation|gustatory sensation|taste perception|gustatory perception
+8,cure,VB,NA,cure,bring around|cure|heal,help|aid|preserve|keep|harden|indurate|change
+8,fish,NN,NA,fish,fish|Fish|Pisces|Pisces the Fishes,aquatic vertebrate|food|solid food|person|individual|someone|somebody|mortal|soul
+8,export,VBD,ed,export,export,trade|merchandise|transfer|spread|distribute
+8,home,NN,NA,home,abode|base|domicile|dwelling|dwelling house|family|habitation|home|home base|home plate|house|household|menage|nursing home|place|plate|rest home,residence|abode|housing|lodging|living accommodations|location|base|bag|beginning|origin|root|rootage|source|environment|unit|social unit|institution
+8,country,NN,NA,countri,area|body politic|commonwealth|country|land|nation|res publica|rural area|state,political unit|political entity|administrative district|administrative division|territorial division|people|geographical area|geographic area|geographical region|geographic region|region
+9,carthaginian,NNP,s,carthaginian,Carthaginian,African
+9,also,RB,NA,also,also|as well|besides|likewise|too,NA
+9,carry,VBD,ed,carri,acquit|bear|behave|carry|channel|comport|conduct|contain|convey|deport|dribble|expect|express|extend|gestate|have a bun in the oven|hold|impart|pack|persuade|post|run|stock|stockpile|sway|take|transmit|transport,move|displace|have|feature|bring|convey|take|communicate|intercommunicate|hold|support|sustain|hold up|include|effect|continue|imply|involve|win|carry|bear|act|have got|circulate|circularize|circularise|distribute|disseminate|propagate|broadcast|spread|diffuse|disperse|pass around|hit|pass on|pass|pass along|put across|range|keep|maintain|influence|act upon|work|compensate|counterbalance|correct|make up|even out|even off|even up|promote|advance|boost|further|encourage|appropriate|capture|seize|conquer|transfer|shift|follow|grow|raise|farm|produce|propel|impel|hit the bottle|drink|booze|fuddle|nourish|nurture|travel|go|locomote|obtain|perform|execute|do|give birth|deliver|birth
+9,lead,NN,NA,lead,atomic number 82|booster cable|confidential information|hint|jumper cable|jumper lead|lead|lead story|lead-in|leading|leash|lede|Pb|pencil lead|principal|spark advance|star|steer|tether|tip|track|trail|wind,advantage|vantage|metallic element|metal|evidence|grounds|leadership|leading|angle|section|subdivision|score|actor|histrion|player|thespian|role player|position|place|guidance|counsel|counseling|counselling|direction|news article|news story|newspaper article|timing|restraint|constraint|strip|slip|graphite|black lead|plumbago|jumper|wire|conducting wire|turn|play
+9,mining,NN,NA,mine,excavation|minelaying|mining,production|defense|defence|defensive measure
+9,continue,VBD,ed,continu,bear on|carry on|continue|cover|extend|go along|go forward|go on|keep|keep on|persist in|preserve|proceed|remain|retain|stay|stay on|uphold,act|move|talk|speak|keep|maintain|hold|travel|go|locomote|prolong|sustain|keep up|be
+9,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+9,significance,NN,NA,signific,implication|import|meaning|significance|signification,importance|meaning|substance|message|content|subject matter
+9,up,RB,NA,up,up|upward|upwardly|upwards,NA
+9,century,NN,NA,centuri,100|C|century|hundred|one C,time period|period of time|period|large integer
+10,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+10,believe,VBN,ed,believ,believe|conceive|consider|think|trust,accept|evaluate|pass judgment|judge|expect|anticipate|believe|credit
+10,lead,NN,NA,lead,atomic number 82|booster cable|confidential information|hint|jumper cable|jumper lead|lead|lead story|lead-in|leading|leash|lede|Pb|pencil lead|principal|spark advance|star|steer|tether|tip|track|trail|wind,advantage|vantage|metallic element|metal|evidence|grounds|leadership|leading|angle|section|subdivision|score|actor|histrion|player|thespian|role player|position|place|guidance|counsel|counseling|counselling|direction|news article|news story|newspaper article|timing|restraint|constraint|strip|slip|graphite|black lead|plumbago|jumper|wire|conducting wire|turn|play
+10,pellet,NNS,s,pellet,pellet|shot,ball|globe|orb|projectile|missile
+10,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+10,use,VBN,ed,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+10,carthaginian,NNP,NA,carthaginian,Carthaginian,African
+10,general,JJ,NA,gener,cosmopolitan|ecumenical|general|oecumenical|universal|world-wide|worldwide,
+10,hannibal,NNP,NA,hannib,Hannibal,
+10,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+10,make,VBN,ed,make,arrive at|attain|bring in|build|ca-ca|cause|clear|constitute|construct|cook|crap|create|defecate|do|draw|earn|establish|fix|form|gain|get|get to|give|have|hit|hold|induce|lay down|make|make believe|make up|make water|micturate|name|nominate|pass water|pee|pee-pee|piddle|piss|prepare|pretend|produce|progress to|puddle|pull in|reach|ready|realise|realize|relieve oneself|score|seduce|shit|spend a penny|stimulate|stool|take|take a crap|take a leak|take a shit|take in|throw|urinate|wee|wee-wee|work,change|alter|modify|make|create|create by mental act|create mentally|cause|do|get|acquire|constitute|represent|make up|comprise|be|achieve|accomplish|attain|reach|become|create from raw material|create from raw stuff|perform|execute|act|behave|appoint|charge|score|hit|tally|rack up|perpetrate|commit|pull|assemble|gather|get together|direct|tidy|tidy up|clean up|neaten|straighten|straighten out|square away|head|excrete|egest|eliminate|pass|total|number|add up|come|amount|look|appear|seem|arrive at|gain|persuade|guarantee|ensure|insure|assure|secure|play|see|consider|reckon|view|regard|estimate|gauge|approximate|guess|judge|develop|grow
+10,ibiza,NNP,NA,ibiza,,NA
+11,carthaginian,NNP,s,carthaginian,Carthaginian,African
+11,also,RB,NA,also,also|as well|besides|likewise|too,NA
+11,consider,VBD,ed,consid,believe|conceive|consider|count|deal|debate|deliberate|look at|moot|reckon|regard|see|study|take|think|turn over|view|weigh,think|believe|consider|conceive|chew over|think over|meditate|ponder|excogitate|contemplate|muse|reflect|mull|mull over|ruminate|speculate|think about|hash out|discuss|talk over|evaluate|pass judgment|judge|look|analyze|analyse|study|examine|canvass|see|reckon|view|regard
+11,island,NN,NA,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+11,holy,JJ,NA,holi,holy,
+11,place,NN,NA,place,berth|billet|blank space|home|lieu|office|piazza|place|plaza|position|post|property|seat|shoes|situation|space|spot|station|stead|topographic point,point|geographical area|geographic area|geographical region|geographic region|cognition|knowledge|noesis|vicinity|locality|neighborhood|neighbourhood|neck of the woods|function|office|part|role|situation|position|residence|abode|occupation|business|job|line of work|line|social station|social status|social rank|rank|space|passage|condition|status|public square|square|item|area|expanse|surface area
+11,here,RB,NA,here,here|hither,NA
+11,great,JJ,NA,great,bang-up|big(p)|bully|capital|corking|cracking|dandy|enceinte|expectant|gravid|great|great(p)|groovy|heavy(p)|keen|large(p)|majuscule|neat|nifty|not bad(p)|old(a)|outstanding|peachy|slap-up|smashing|swell|with child(p),
+11,splendour,NN,NA,splendour,brilliance|brilliancy|grandeur|grandness|luster|lustre|magnificence|splendor|splendour,brightness|elegance
+11,bury,VBD,ed,buri,bury|eat up|entomb|forget|immerse|inhume|inter|lay to rest|sink|swallow|swallow up,hide|conceal|lay|put down|repose|situate|fix|posit|deposit|enclose|close in|inclose|shut in|implant|engraft|embed|imbed|plant
+11,thousand,NNS,s,thousand,1000|chiliad|G|grand|K|M|one thousand|thou|thousand|yard,large integer
+11,citizen,NNS,s,citizen,citizen,national|subject
+11,huge,JJ,NA,huge,Brobdingnagian|huge|immense|vast,
+11,necropolis,NNS,NA,necropoli,burial ground|burial site|burying ground|cemetery|graveyard|memorial park|necropolis,site|land site
+11,puig,NNP,NA,puig,,NA
+11,de,NNP,s,de,DE|Del.|Delaware|Diamond State|First State,
+11,molin,NNP,s,molin,,NA
+11,hill,NNP,NA,hill,Alfred Hawthorne|Benny Hill|hill|Hill|J. J. Hill|James Jerome Hill|mound|pitcher's mound,natural elevation|elevation|structure|construction|baseball equipment
+11,windmill,NNP,s,windmil,aerogenerator|wind generator|windmill,mill|grinder|milling machinery|generator
+11,dalt,NNP,NA,dalt,,NA
+11,vilum,NNP,s,vilum,,NA
+11,old,NNP,NA,old,old,past|past times|yesteryear
+11,town,NNP,NA,town,Ithiel Town|town|Town|townsfolk|township|townspeople,municipality|administrative district|administrative division|territorial division|architect|designer
+11,ibiza,NNP,NA,ibiza,,NA
+12,gnarled,JJ,NA,gnarl,gnarled|gnarly|knobbed|knotted|knotty,
+12,olive,NN,NA,oliv,European olive tree|Olea europaea|olive,fruit|olive tree|wood|relish|drupe|stone fruit|chromatic color|chromatic colour|spectral color|spectral colour
+12,tree,NNS,s,tree,Sir Herbert Beerbohm Tree|tree|Tree|tree diagram,woody plant|ligneous plant|plane figure|two-dimensional figure
+12,archaeologist,NNS,s,archaeologist,archaeologist|archeologist,anthropologist
+12,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+12,uncover,VBN,ed,uncov,break|bring out|disclose|discover|divulge|expose|give away|let on|let out|reveal|uncover|unwrap,bring out|unveil|reveal|tell
+12,treasure,NN,NA,treasur,gem|hoarded wealth|treasure,wealth|riches|art|fine art|possession|collection|aggregation|accumulation|assemblage
+12,trove,NN,NA,trove,treasure trove|trove,treasure|hoarded wealth
+12,statue,NNS,s,statu,statue,sculpture
+12,jewellery,NN,NA,jewelleri,jewellery|jewelry,adornment
+12,pitcher,NNS,s,pitcher,ewer|hurler|mound|pitcher|pitcherful|twirler,thrower|ballplayer|baseball player|vessel|containerful|leaf|leafage|foliage|position
+12,tool,NNS,s,tool,cock|creature|dick|instrument|pecker|prick|puppet|putz|shaft|tool,implement|means|agency|way|slave|penis|phallus|member
+12,coin,NNS,s,coin,coin,coinage|mintage|specie|metal money
+12,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+12,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+12,display,VBN,ed,displai,display|exhibit|expose,show|woo|court|romance|solicit
+12,town,NN,NA,town,Ithiel Town|town|Town|townsfolk|township|townspeople,municipality|administrative district|administrative division|territorial division|architect|designer
+12,s,VBZ,NA,NA,,NA
+12,two,CD,NA,two,NA,NA
+12,archaeological,JJ,NA,archaeolog,archaeologic|archaeological|archeologic|archeological,
+12,museum,NNS,s,museum,museum,depository|deposit|depositary|repository
+13,roman,NNP,s,roman,roman|Roman|roman letters|roman print|roman type,Italian|European|proportional font
+13,never,RB,NA,never,ne'er|never,NA
+13,really,RB,NA,realli,actually|genuinely|in truth|rattling|real|really|truly|very,NA
+13,infiltrate,VBN,ed,infiltr,infiltrate|pass through|penetrate,percolate|sink in|permeate|filter|join|fall in|get together|pass
+13,ibiza,NNP,NA,ibiza,,NA
+13,even,RB,NA,even,even|still|yet,NA
+13,defeat,NN,NA,defeat,defeat|frustration|licking,ending|conclusion|finish|failure|disappointment|letdown
+13,hannibal,NNP,NA,hannib,Hannibal,
+13,202,CD,NA,202,NA,NA
+13,second,NNP,NA,second,arcsecond|bit|endorsement|indorsement|instant|irregular|minute|mo|moment|s|sec|second|second base|second gear|secondment,time unit|unit of time|time|position|point|point in time|rank|angular unit|attendant|attender|tender|agreement|gear|gear mechanism|merchandise|ware|product
+13,punic,NNP,NA,punic,Punic,Phoenician
+13,war,NNP,NA,war,state of war|war|warfare,military action|action|hostility|enmity|antagonism|conflict|struggle|battle|campaign|cause|crusade|drive|movement|effort
+13,influence,NN,NA,influenc,influence,power|powerfulness|causing|causation|determinant|determiner|determinative|determining factor|causal factor|consequence|effect|outcome|result|event|issue|upshot|force
+13,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+13,restrained,JJ,NA,restrain,guarded|moderate|quiet|restrained|reticent|unemotional,
+14,only,RB,NA,onli,alone|but|entirely|exclusively|just|merely|only|only if|only when|simply|solely,NA
+14,fall,NN,NA,fall,autumn|capitulation|crepuscle|crepuscule|declension|declination|decline|declivity|descent|dip|downfall|downslope|drop|dusk|evenfall|fall|Fall|free fall|gloam|gloaming|nightfall|pin|spill|surrender|tumble|twilight,season|time of year|slip|trip|slope|incline|side|sin|sinning|weakening|change of location|travel|loss|hour|time of day|victory|triumph|descent|gravitation|decrease|decrement
+14,carthage,NNP,NA,carthag,Carthage,
+14,146,CD,NA,146,NA,NA
+14,do,VBD,ed,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+14,manage,VBP,NA,manag,bring off|care|carry off|contend|cope|deal|do|finagle|get by|grapple|handle|make do|make out|manage|negociate|oversee|pull off|superintend|supervise|wangle|wield,NA
+14,make,VB,NA,make,arrive at|attain|bring in|build|ca-ca|cause|clear|constitute|construct|cook|crap|create|defecate|do|draw|earn|establish|fix|form|gain|get|get to|give|have|hit|hold|induce|lay down|make|make believe|make up|make water|micturate|name|nominate|pass water|pee|pee-pee|piddle|piss|prepare|pretend|produce|progress to|puddle|pull in|reach|ready|realise|realize|relieve oneself|score|seduce|shit|spend a penny|stimulate|stool|take|take a crap|take a leak|take a shit|take in|throw|urinate|wee|wee-wee|work,change|alter|modify|make|create|create by mental act|create mentally|cause|do|get|acquire|constitute|represent|make up|comprise|be|achieve|accomplish|attain|reach|become|create from raw material|create from raw stuff|perform|execute|act|behave|appoint|charge|score|hit|tally|rack up|perpetrate|commit|pull|assemble|gather|get together|direct|tidy|tidy up|clean up|neaten|straighten|straighten out|square away|head|excrete|egest|eliminate|pass|total|number|add up|come|amount|look|appear|seem|arrive at|gain|persuade|guarantee|ensure|insure|assure|secure|play|see|consider|reckon|view|regard|estimate|gauge|approximate|guess|judge|develop|grow
+14,inroad,NNS,s,inroad,inroad,trespass|encroachment|violation|intrusion|usurpation|invasion
+14,local,JJ,NA,local,local,
+14,historian,NNS,s,historian,historian|historiographer,scholar|scholarly person|bookman|student
+14,stress,NN,NA,stress,accent|emphasis|focus|strain|stress|tenseness|tension,prosody|inflection|strain|mental strain|nervous strain|emphasis|accent|difficulty|force
+14,ibiza,NNP,NA,ibiza,,NA
+14,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+14,conquered,JJ,NA,conquer,,NA
+14,annexed,JJ,NA,annex,,NA
+14,rome,NNP,NA,rome,capital of Italy|Eternal City|Italian capital|Roma|Rome,leadership|leaders
+14,confederated,JJ,NA,confeder,,NA
+14,retain,VBG,ing,retain,continue|hold|hold back|keep|keep back|keep on|retain,hold|bear|carry|contain|prolong|sustain|keep up|keep|hold on|remember|think of
+14,remarkable,JJ,NA,remark,notable|noteworthy|remarkable|singular,
+14,autonomy,NN,NA,autonomi,autonomy|liberty|self-direction|self-reliance|self-sufficiency,independence|independency|independence|independency
+15,century,NNS,s,centuri,100|C|century|hundred|one C,time period|period of time|period|large integer
+15,come,VB,NA,come,add up|amount|arrive|come|come in|come up|derive|descend|do|fall|fare|follow|get|get along|hail|issue forth|make out|number|occur|total,NA
+15,old,JJ,NA,old,bang-up|bully|corking|cracking|dandy|erstwhile(a)|former(a)|great|groovy|keen|neat|nifty|not bad(p)|old|Old|old(a)|older|one-time(a)|onetime(a)|peachy|previous(a)|quondam(a)|slap-up|smashing|sometime(a)|swell,
+15,carthaginian,NNP,NA,carthaginian,Carthaginian,African
+15,tradition,NNS,s,tradit,custom|tradition,content|cognitive content|mental object|practice
+15,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+15,allow,VBN,ed,allow,admit|allow|allow for|appropriate|countenance|earmark|give up|grant|leave|let|permit|provide|reserve|set aside|take into account|tolerate,NA
+15,continue,VB,NA,continu,bear on|carry on|continue|cover|extend|go along|go forward|go on|keep|keep on|persist in|preserve|proceed|remain|retain|stay|stay on|uphold,act|move|talk|speak|keep|maintain|hold|travel|go|locomote|prolong|sustain|keep up|be
+15,ibiza,NNP,NA,ibiza,,NA
+15,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+15,roman,NNP,NA,roman,roman|Roman|roman letters|roman print|roman type,Italian|European|proportional font
+15,way,NN,NA,wai,agency|direction|elbow room|fashion|manner|means|mode|path|room|style|way|way of life,property|implementation|effectuation|path|route|itinerary|condition|status|course|course of action|artifact|artefact|journey|journeying|position|spatial relation|distance|choice|pick|selection|category|share|portion|part|percentage
+15,life,NN,NA,life,aliveness|animation|biography|life|life history|life sentence|life story|life-time|lifespan|lifetime|liveliness|living|spirit|sprightliness,being|beingness|existence|face of the earth|experience|time period|period of time|period|person|individual|someone|somebody|mortal|soul|animation|spiritedness|invigoration|brio|vivification|living thing|animate thing|organic phenomenon|history|account|chronicle|story|motivation|motive|need|prison term|sentence|time
+16,meanwhile,RB,NA,meanwhil,in the meantime|meantime|meanwhile,NA
+16,iberian,NNP,NA,iberian,Iberian,Asian|Asiatic|European
+16,peninsula,NN,NA,peninsula,peninsula,land|dry land|earth|ground|solid ground|terra firma
+16,rome,NNP,NA,rome,capital of Italy|Eternal City|Italian capital|Roma|Rome,leadership|leaders
+16,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+16,leave,VBG,ing,leav,allow|allow for|bequeath|depart|entrust|exit|forget|get out|give|go away|go forth|go out|impart|lead|leave|leave alone|leave behind|let alone|pass on|provide|pull up stakes|result|will,make|get|refrain|forbear|move|yield|give|afford|produce|bring about|give rise|change|pass|hand|reach|pass on|turn over|gift|present|have|tell|lose
+16,decisive,JJ,NA,decis,critical|decisive,
+16,imprint,NN,NA,imprint,depression|embossment|impression|imprint,influence|concave shape|concavity|incurvation|incurvature|identification|stamp|impression|device
+16,area,NN,NA,area,area|arena|country|domain|expanse|field|orbit|region|sphere|surface area,region|topic|subject|issue|matter|body part|environment|structure|construction|extent
+16,s,VBZ,NA,NA,,NA
+16,language,NN,NA,languag,language|linguistic communication|linguistic process|lyric|nomenclature|oral communication|speech|speech communication|spoken communication|spoken language|terminology|voice communication|words,communication|auditory communication|text|textual matter|higher cognitive process|faculty|mental faculty|module|word
+16,culture,NN,NA,cultur,acculturation|civilisation|civilization|cultivation|culture|finish|polish|refinement,society|taste|appreciation|discernment|perceptiveness|content|cognitive content|mental object|growth|growing|maturation|development|ontogeny|ontogenesis|perfection|flawlessness|ne plus ultra|attitude|mental attitude|cultivation
+16,government,NN,NA,govern,administration|authorities|governance|governing|government|government activity|political science|politics|regime,polity|social control|system|system of rules|social science
+16,particularly,RB,NA,particularli,especially|in particular|particularly|peculiarly|specially,
+16,engineering,NN,NA,engin,applied science|engine room|engineering|engineering science|technology,technology|profession|discipline|subject|subject area|subject field|field|field of study|study|bailiwick|room
+16,genius,NN,NA,geniu,ace|adept|brain|brainiac|brilliance|champion|Einstein|flair|genius|hotshot|mastermind|maven|mavin|sensation|star|superstar|virtuoso|whiz|whizz|wiz|wizard|wizardry,intellectual|intellect|intelligence|expert|creativity|creativeness|creative thinking|endowment|gift|talent|natural endowment
+16,construction,NN,NA,construct,building|construction|expression|grammatical construction|mental synthesis|structure|twist,creating from raw materials|constituent|grammatical constituent|thinking|thought|thought process|cerebration|intellection|mentation|artifact|artefact|mathematical process|mathematical operation|operation|interpretation|commercial enterprise|business enterprise|business
+16,road,NNS,s,road,road|route,way|means|agency
+16,aqueduct,NNS,s,aqueduct,aqueduct,conduit
+16,monument,NNS,s,monument,memorial|monument|repository,structure|construction|site|land site|burial chamber|sepulcher|sepulchre|sepulture
+17,roman,NNP,s,roman,roman|Roman|roman letters|roman print|roman type,Italian|European|proportional font
+17,also,RB,NA,also,also|as well|besides|likewise|too,NA
+17,exploit,VBN,ed,exploit,exploit|overwork|tap|work,use|utilize|utilise|apply|employ|work|put to work
+17,ibiza,NNP,NA,ibiza,,NA
+17,s,VBZ,NA,NA,,NA
+17,natural,JJ,NA,natur,biological|born(p)|innate(p)|instinctive|lifelike|natural|raw(a)|rude(a),
+17,resource,NNS,s,resourc,imagination|resource|resourcefulness,assets|asset|plus|inventiveness|ingeniousness|ingenuity|cleverness
+18,export,VBD,ed,export,export,trade|merchandise|transfer|spread|distribute
+18,salt,NN,NA,salt,common salt|salinity|salt|SALT|saltiness|Strategic Arms Limitation Talks|table salt,compound|chemical compound|flavorer|flavourer|flavoring|flavouring|seasoner|seasoning|taste|taste sensation|gustatory sensation|taste perception|gustatory perception
+18,southern,JJ,NA,southern,southerly|southern,
+18,end,NN,NA,end,close|closing|conclusion|death|destruction|end|ending|goal|last|oddment|remainder|remnant|terminal,extremity|point|point in time|ending|conclusion|finish|content|cognitive content|mental object|part|section|division|state|surface|lineman|boundary|bound|bounds|topographic point|place|spot|contribution|share|subdivision|piece of cloth|piece of material
+18,island,NN,NA,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+18,lead,VB,NA,lead,chair|conduce|conduct|contribute|direct|extend|go|guide|head|lead|leave|moderate|pass|precede|result|run|take|top,produce|bring about|give rise|leave|result|lead|precede|induce|stimulate|cause|have|get|make|be|direct|promote|advance|boost|further|encourage|perform|execute|do|travel|go|move|locomote|pass|make pass|hash out|discuss|talk over
+18,mine,NNS,s,mine,mine,excavation|explosive device
+18,sant,NNP,NA,sant,,NA
+18,carle,NNP,s,carl,,NA
+18,same,JJ,NA,same,like|same|same(p),
+18,time,NN,NA,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+18,extract,VBD,ed,extract,distil|distill|draw out|educe|elicit|evoke|excerpt|express|extract|press out|pull|pull out|pull up|rip out|take out|tear out,remove|take|take away|withdraw|obtain|interpret|construe|see|make|create|separate|get|acquire|choose|select|pick out|calculate|cipher|cypher|compute|work out|reckon|figure
+18,purple,JJ,NA,purpl,empurpled|imperial|majestic|over-embellished|purple|purplish|regal|royal|violet,
+18,dye,NN,NA,dye,dye|dyestuff,coloring material|colouring material|color|colour
+18,shellfish,NN,NA,shellfish,mollusc|mollusk|shellfish,seafood|invertebrate
+18,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+18,use,VBN,ed,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+18,imperial,JJ,NA,imperi,imperial|majestic|purple|regal|royal,
+18,cloak,NNS,s,cloak,cloak,covering|overgarment|outer garment
+19,addition,NN,NA,addit,accession|add-on|addition|gain|improver|increase|plus|summation,component|constituent|element|increase|step-up|indefinite quantity|acquisition|suburb|suburbia|suburban area|arithmetic operation
+19,find,VBD,ed,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+19,moneymaker,NN,NA,moneymak,cash cow|money-spinner|moneymaker,capitalist|project|projection
+19,exotic,JJ,NA,exot,alien|exotic,
+19,aromatic,JJ,NA,aromat,aromatic|redolent,
+19,sauce,NN,NA,sauc,sauce,condiment
+19,decomposed,JJ,NA,decompos,,NA
+19,fish,NN,NA,fish,fish|Fish|Pisces|Pisces the Fishes,aquatic vertebrate|food|solid food|person|individual|someone|somebody|mortal|soul
+19,innards,NNS,NA,innard,entrails|innards|viscera,internal organ|viscus
+20,call,VBN,ed,call,address|anticipate|be known as|bid|call|call in|call off|call up|cry|forebode|foretell|holler|hollo|know as|name|phone|predict|prognosticate|promise|ring|scream|send for|shout|shout out|squall|telephone|visit|yell,label|telecommunicate|utter|emit|let out|let loose|order|tell|enjoin|say|meet|get together|request|ask for|bespeak|call for|quest|read|postpone|prorogue|hold over|put over|table|shelve|set back|defer|remit|put off|address|turn to|stop|stop over|demand|exact|play|indicate|guess|venture|pretend|hazard|ask|require|expect|challenge|dispute|gainsay|declare|adjudge|hold|entice|lure|tempt|see|consider|reckon|view|regard|awaken|wake|waken|rouse|wake up|arouse
+20,garum,NN,NA,garum,,NA
+20,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+20,consider,VBN,ed,consid,believe|conceive|consider|count|deal|debate|deliberate|look at|moot|reckon|regard|see|study|take|think|turn over|view|weigh,think|believe|consider|conceive|chew over|think over|meditate|ponder|excogitate|contemplate|muse|reflect|mull|mull over|ruminate|speculate|think about|hash out|discuss|talk over|evaluate|pass judgment|judge|look|analyze|analyse|study|examine|canvass|see|reckon|view|regard
+20,great,JJ,NA,great,bang-up|big(p)|bully|capital|corking|cracking|dandy|enceinte|expectant|gravid|great|great(p)|groovy|heavy(p)|keen|large(p)|majuscule|neat|nifty|not bad(p)|old(a)|outstanding|peachy|slap-up|smashing|swell|with child(p),
+20,delicacy,NN,NA,delicaci,airiness|daintiness|dainty|delicacy|diplomacy|discreetness|discretion|fineness|finesse|fragility|goody|kickshaw|slightness|treat,elegance|nutriment|nourishment|nutrition|sustenance|aliment|alimentation|victuals|taste|appreciation|discernment|perceptiveness|smallness|littleness|weakness|tact|tactfulness|liveliness|life|spirit|sprightliness
+20,roman,NNP,s,roman,roman|Roman|roman letters|roman print|roman type,Italian|European|proportional font
+20,greek,NNPS,s,greek,Greek|Hellene|Hellenic|Hellenic language,Indo-European|Indo-European language|Indo-Hittite|European
+20,alike,RB,NA,alik,alike|likewise,NA
+21,today,NN,NA,todai,today,present|nowadays|day|twenty-four hours|twenty-four hour period|24-hour interval|solar day|mean solar day
+21,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+21,historical,JJ,NA,histor,diachronic|historic|historical,
+21,footnote,NN,NA,footnot,footer|footnote,note|annotation|notation
+22,local,JJ,NA,local,local,
+22,cook,NNS,s,cook,Captain Cook|Captain James Cook|cook|Cook|James Cook,skilled worker|trained worker|skilled workman
+22,use,VBP,NA,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+22,nothing,NN,NA,noth,aught|cipher|cypher|goose egg|nada|naught|nil|nix|nothing|null|zero|zilch|zip|zippo,relative quantity
+22,more,RBR,NA,more,more|to a greater extent,
+22,pungent,JJ,NA,pungent,acrid|barbed|biting|mordacious|nipping|pungent,
+22,hint,NN,NA,hint,breath|clue|confidential information|hint|intimation|jot|lead|mite|pinch|soupcon|speck|steer|suggestion|tinge|tint|tip|touch|trace|wind,suggestion|proposition|proffer|indication|indicant|small indefinite quantity|small indefinite amount|guidance|counsel|counseling|counselling|direction
+22,garlic,JJ,NA,garlic,,NA
+23,century,NNS,s,centuri,100|C|century|hundred|one C,time period|period of time|period|large integer
+23,peace,NN,NA,peac,ataraxis|heartsease|pacification|peace|peace of mind|peace treaty|peacefulness|public security|repose|serenity,order|harmony|concord|concordance|tranquillity|tranquility|quietness|quietude|security|treaty|pact|accord
+23,productivity,NN,NA,product,productiveness|productivity,fruitfulness|fecundity|ratio
+23,year,NN,NA,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+23,426,CD,NA,426,NA,NA
+23,mark,VBD,ed,mark,brand|check|check off|commemorate|cross off|cross out|denounce|differentiate|distinguish|grade|label|mark|mark off|nock|note|notice|pit|pock|punctuate|scar|score|set|stigmatise|stigmatize|strike off|strike out|tag|tick|tick off,attach|bespeak|betoken|indicate|point|signal|qualify|characterize|characterise|observe|celebrate|keep|change|alter|modify|label|deface|disfigure|blemish|notch|lay down|establish|make|record|enter|put down|take away|take out|verify|measure|evaluate|valuate|assess|appraise|value|add
+23,beginning,NN,NA,begin,beginning|commencement|first|get-go|kickoff|offset|origin|outset|root|rootage|showtime|source|start|starting time,happening|occurrence|occurrent|natural event|point|point in time|part|section|division|change of state
+23,era,NN,NA,era,earned run average|epoch|era|ERA|geological era,time period|period of time|period|geological time|geologic time|standard|criterion|measure|touchstone
+23,strife,NN,NA,strife,discord|strife,disorder|conflict|struggle|battle
+23,violence,NN,NA,violenc,ferocity|fierceness|force|furiousness|fury|vehemence|violence|wildness,aggression|hostility|intensity|intensiveness|turbulence|upheaval|Sturm und Drang
+23,destruction,NN,NA,destruct,death|demolition|destruction|devastation|end|wipeout,termination|ending|conclusion|finish|state
+24,ibiza,NNP,NA,ibiza,,NA
+24,rest,NN,NA,rest,balance|ease|eternal rest|eternal sleep|quietus|relaxation|relief|remainder|repose|residual|residue|residuum|respite|rest|rest period|sleep,part|portion|component part|component|constituent|inactivity|pause|intermission|break|interruption|suspension|inaction|inactiveness|death|support|musical notation
+24,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+24,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+24,spain,NNP,NA,spain,Espana|Kingdom of Spain|Spain,
+24,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+24,invade,VBD,ed,invad,encroach upon|infest|intrude on|invade|obtrude upon|occupy|overrun,attack|assail|enter|come in|get into|get in|go into|go in|move into|inhabit|interpenetrate|permeate
+24,sack,VBD,ed,sack,can|clear|dismiss|displace|fire|force out|give notice|give the axe|give the sack|net|plunder|sack|sack up|send away|terminate,take|remove|profit|gain|benefit|encase|incase|case
+24,germanic,NNP,NA,german,Germanic|Germanic language,Indo-European|Indo-European language|Indo-Hittite
+24,tribe,NN,NA,tribe,clan|federation of tribes|folk|kin|kin group|kindred|kinship group|tribe,social group|nation|taxonomic group|taxonomic category|taxon
+24,vandal,NNP,s,vandal,vandal|Vandal,destroyer|ruiner|undoer|waster|uprooter|savage|barbarian
+24,occupy,VBD,ed,occupi,absorb|busy|concern|engage|engross|fill|interest|invade|lodge in|occupy|reside|take|use up|worry,work|populate|dwell|live|inhabit|be|attack|assail|use|expend|interest|do work
+24,island,NN,NA,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+24,quickly,RB,NA,quickli,apace|chop-chop|cursorily|in short order|promptly|quick|quickly|rapidly|speedily,
+24,impose,VBN,ed,impos,bring down|constrain|enforce|impose|inflict|levy|visit,compel|oblige|obligate|communicate|intercommunicate|charge|bill
+24,culture,NN,NA,cultur,acculturation|civilisation|civilization|cultivation|culture|finish|polish|refinement,society|taste|appreciation|discernment|perceptiveness|content|cognitive content|mental object|growth|growing|maturation|development|ontogeny|ontogenesis|perfection|flawlessness|ne plus ultra|attitude|mental attitude|cultivation
+25,century,NNP,s,centuri,100|C|century|hundred|one C,time period|period of time|period|large integer
+25,almost,RB,NA,almost,about|almost|most|near|nearly|nigh|virtually|well-nigh,NA
+25,constant,JJ,NA,constant,ceaseless|changeless|constant|incessant|invariant|never-ending|perpetual|unceasing|unremitting|unvarying,
+25,repressive,JJ,NA,repress,inhibitory|repressing|repressive,
+25,foreign,JJ,NA,foreign,alien|extraneous|foreign|strange,
+25,rule,NN,NA,rule,convention|dominion|formula|linguistic rule|normal|pattern|prescript|principle|regulation|rule|ruler,concept|conception|construct|practice|direction|instruction|generalization|generalisation|generality|duration|continuance|dominance|ascendance|ascendence|ascendancy|ascendency|control|law|law of nature|procedure|process|measuring stick|measure|measuring rod
+25,follow,VBD,ed,follow,abide by|accompany|adopt|be|come|come after|comply|conform to|espouse|fall out|follow|keep abreast|keep an eye on|keep up|observe|play along|postdate|pursue|stick to|stick with|succeed|surveil|survey|take after|trace|travel along|watch|watch over,travel|go|move|locomote|result|ensue|obey|imitate|copy|simulate|be|choose|take|select|pick out|analyze|analyse|study|examine|canvass|check|check up on|look into|check out|suss out|check over|go over|check into|play|originate|arise|rise|develop|uprise|spring up|grow|act|behave|do|practice|apply|use|understand|persevere|persist|hang in|hang on|hold on
+25,vandal,NNP,s,vandal,vandal|Vandal,destroyer|ruiner|undoer|waster|uprooter|savage|barbarian
+25,be,VBG,ing,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+25,succeed,VBN,ed,succe,bring home the bacon|come after|come through|deliver the goods|follow|succeed|win,
+25,byzantine,NNP,s,byzantin,Byzantine,Asian|Asiatic
+25,saracen,NNP,s,saracen,Saracen,nomad|Arab|Arabian|Muslim|Moslem
+25,moor,NNP,s,moor,moor|Moor|moorland,Muslim|Moslem|plain|field|champaign
+26,moorish,NNP,NA,moorish,Moorish|Moorish architecture,architectural style|style of architecture|type of architecture
+26,conquest,NN,NA,conquest,conquering|conquest|seduction|subjection|subjugation,capture|gaining control|seizure|success
+26,balearic,NNP,s,balear,,NA
+26,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+26,complete,JJ,NA,complet,accomplished|all over|arrant(a)|complete|complete(a)|concluded|consummate|consummate(a)|double-dyed(a)|ended|everlasting(a)|gross(a)|over(p)|perfect(a)|pure(a)|sodding(a)|staring(a)|stark(a)|terminated|thorough(a)|thoroughgoing(a)|unadulterated|utter(a),
+26,903,CD,NA,903,NA,NA
+26,periodic,JJ,NA,period,occasional|periodic|periodical,
+26,outbreak,NNS,s,outbreak,eruption|irruption|outbreak,happening|occurrence|occurrent|natural event
+26,violence,NN,NA,violenc,ferocity|fierceness|force|furiousness|fury|vehemence|violence|wildness,aggression|hostility|intensity|intensiveness|turbulence|upheaval|Sturm und Drang
+26,typical,JJ,NA,typic,distinctive|typical,
+26,time,NN,NA,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+26,moor,NNP,s,moor,moor|Moor|moorland,Muslim|Moslem|plain|field|champaign
+26,devote,VBD,ed,devot,commit|consecrate|dedicate|devote|give|pay,use|utilize|utilise|apply|employ|think|cogitate|cerebrate|reserve
+26,develop,VBG,ing,develop,acquire|arise|break|build up|develop|educate|evolve|explicate|formulate|germinate|get|grow|make grow|modernise|modernize|originate|prepare|produce|recrudesce|rise|spring up|train|uprise,create|create by mental act|create mentally|change|become|better|improve|amend|ameliorate|meliorate|speculate|theorize|theorise|conjecture|hypothesize|hypothesise|hypothecate|suppose|teach|learn|instruct|happen|hap|go on|pass off|occur|pass|fall out|come about|take place|grow|alter|modify|generate|bring forth|superimpose|superpose|lay over|play|complicate|refine|rarify|elaborate|expand
+26,island,NN,NA,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+26,economy,NN,NA,economi,economic system|economy|saving|thriftiness,system|scheme|efficiency|frugality|frugalness|action
+26,agri­culture,NN,NA,agri­cultur,,NA
+27,however,RB,NA,howev,all the same|at the same time|even so|however|nevertheless|nonetheless|notwithstanding|still|withal|yet,NA
+27,little,JJ,NA,littl,fiddling|footling|lilliputian|little|little(a)|minuscule|niggling|petty|picayune|piddling|piffling|short|slight|small|trivial,
+27,evidence,NN,NA,evid,evidence|grounds,information|indication|indicant|info
+27,remains,NNS,NA,remain,archeological remains|cadaver|clay|corpse|remains|stiff,object|physical object|remains|relic|body|dead body
+27,era,NN,NA,era,earned run average|epoch|era|ERA|geological era,time period|period of time|period|geological time|geologic time|standard|criterion|measure|touchstone
+27,—,NN,NA,—,,NA
+27,ceramic,NNS,s,ceram,ceramic,instrumentality|instrumentation
+27,museum,NN,NA,museum,museum,depository|deposit|depositary|repository
+27,few,JJ,NA,few,few,
+27,fortification,NNS,s,fortif,fortification|munition,defensive structure|defense|defence|art|artistry|prowess|enrichment
+27,network,NN,NA,network,electronic network|mesh|meshing|meshwork|net|network|web,system|scheme|communication system|communication equipment|fabric|cloth|material|textile
+27,irrigation,NN,NA,irrig,irrigation,provision|supply|supplying|medical care|medical aid
+27,ditch,NNS,s,ditch,ditch,excavation|waterway
+28,most,JJS,NA,most,most(a),
+28,part,NN,NA,part,character|component|component part|constituent|contribution|division|function|office|part|parting|percentage|persona|piece|portion|region|role|section|share|theatrical role|voice,relation|object|physical object|thing|concern|location|duty|portrayal|characterization|enactment|personation|assets|concept|conception|construct|line|tune|melody|air|strain|melodic line|melodic phrase|attempt|effort|endeavor|endeavour|try|item
+28,moorish,NNP,NA,moorish,Moorish|Moorish architecture,architectural style|style of architecture|type of architecture
+28,legacy,NN,NA,legaci,bequest|legacy,gift|inheritance|heritage
+28,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+28,manifested,JJ,NA,manifest,,NA
+28,few,JJ,NA,few,few,
+28,local,JJ,NA,local,local,
+28,place,NN,NA,place,berth|billet|blank space|home|lieu|office|piazza|place|plaza|position|post|property|seat|shoes|situation|space|spot|station|stead|topographic point,point|geographical area|geographic area|geographical region|geographic region|cognition|knowledge|noesis|vicinity|locality|neighborhood|neighbourhood|neck of the woods|function|office|part|role|situation|position|residence|abode|occupation|business|job|line of work|line|social station|social status|social rank|rank|space|passage|condition|status|public square|square|item|area|expanse|surface area
+28,name,NNS,s,name,epithet|figure|gens|name|public figure,language unit|linguistic unit|repute|reputation|family|family line|folk|kinfolk|kinsfolk|sept|phratry|important person|influential person|personage|sanction|defamation|calumny|calumniation|obloquy|traducement|hatchet job
+28,word,NNS,s,word,Bible|Book|Christian Bible|countersign|discussion|give-and-take|Good Book|Holy Scripture|Holy Writ|intelligence|Logos|news|parole|password|Scripture|Son|tidings|watchword|word|Word|Word of God|word of honor,language unit|linguistic unit|statement|information|info|order|speech|speech communication|spoken communication|spoken language|language|voice communication|oral communication|promise|computer memory unit|positive identification|secret|arcanum|sacred text|sacred writing|religious writing|religious text
+28,ibicenco,NNP,NA,ibicenco,,NA
+28,dialect,NN,NA,dialect,accent|dialect|idiom,non-standard speech
+28,indelible,JJ,NA,indel,indelible|unerasable,
+28,influence,NN,NA,influenc,influence,power|powerfulness|causing|causation|determinant|determiner|determinative|determining factor|causal factor|consequence|effect|outcome|result|event|issue|upshot|force
+28,island,NN,NA,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+28,s,VBZ,NA,NA,,NA
+28,folk,NN,NA,folk,common people|ethnic music|family|family line|folk|folk music|folks|kinfolk|kinsfolk|phratry|sept|tribe,people|social group|lineage|line|line of descent|descent|bloodline|blood line|blood|pedigree|ancestry|origin|parentage|stemma|stock|popular music|popular music genre
+28,music,NN,NA,music,euphony|medicine|music,auditory communication|sound|auditory sensation|activity|punishment|penalty|penalization|penalisation
+29,indeed,RB,NA,inde,indeed|so,NA
+29,perhap,RB,s,perhap,,NA
+29,most,RBS,NA,most,about|almost|most|near|nearly|nigh|to the highest degree|virtually|well-nigh,NA
+29,vivid,JJ,NA,vivid,bright|brilliant|graphic|intense|lifelike|pictorial|vivid,
+29,reminder,NN,NA,remind,admonisher|monitor|reminder,message|content|subject matter|substance|experience|defender|guardian|protector|shielder
+29,moor,NNP,s,moor,moor|Moor|moorland,Muslim|Moslem|plain|field|champaign
+29,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+29,dark,NN,NA,dark,dark|darkness|night|nighttime|shadow|wickedness,illumination|condition|status|scene|time period|period of time|period|unenlightenment
+29,brood,VBG,ing,brood,brood|bulk large|cover|dwell|grizzle|hatch|hover|incubate|loom|pout|stew|sulk,worry|care|hang|sulk|pout|brood|reproduce|procreate|multiply
+29,eye,NNS,s,ey,center|centre|eye|heart|middle|oculus|optic,sense organ|sensory receptor|receptor|sagacity|sagaciousness|judgment|judgement|discernment|attention|attending|area|country|hole
+29,so,RB,NA,so,and so|hence|indeed|so|then|thence|therefore|thus|thusly,NA
+29,many,JJ,NA,mani,many,
+29,islander,NNS,s,island,island-dweller|islander,inhabitant|habitant|dweller|denizen|indweller
+29,today,NN,NA,todai,today,present|nowadays|day|twenty-four hours|twenty-four hour period|24-hour interval|solar day|mean solar day
+30,moor,NNP,s,moor,moor|Moor|moorland,Muslim|Moslem|plain|field|champaign
+30,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+30,determine,VBN,ed,determin,ascertain|check|decide|define|determine|find|find out|fix|influence|learn|limit|make up one's mind|mold|regulate|see|set|settle|shape|specify|square off|square up|watch,cause|do|make|choose|take|select|pick out|specify|define|delineate|delimit|delimitate|conclude|resolve
+30,carry,VB,NA,carri,acquit|bear|behave|carry|channel|comport|conduct|contain|convey|deport|dribble|expect|express|extend|gestate|have a bun in the oven|hold|impart|pack|persuade|post|run|stock|stockpile|sway|take|transmit|transport,move|displace|have|feature|bring|convey|take|communicate|intercommunicate|hold|support|sustain|hold up|include|effect|continue|imply|involve|win|carry|bear|act|have got|circulate|circularize|circularise|distribute|disseminate|propagate|broadcast|spread|diffuse|disperse|pass around|hit|pass on|pass|pass along|put across|range|keep|maintain|influence|act upon|work|compensate|counterbalance|correct|make up|even out|even off|even up|promote|advance|boost|further|encourage|appropriate|capture|seize|conquer|transfer|shift|follow|grow|raise|farm|produce|propel|impel|hit the bottle|drink|booze|fuddle|nourish|nurture|travel|go|locomote|obtain|perform|execute|do|give birth|deliver|birth
+30,islam,NNP,NA,islam,Islam|Islamism|Mohammedanism|Muhammadanism|Muslimism,civilization|civilisation|monotheism
+30,europe,NNP,NA,europ,Common Market|EC|EEC|EU|Europe|European Community|European Economic Community|European Union,world organization|world organisation|international organization|international organisation|global organization|collection|aggregation|accumulation|assemblage
+31,end,NN,NA,end,close|closing|conclusion|death|destruction|end|ending|goal|last|oddment|remainder|remnant|terminal,extremity|point|point in time|ending|conclusion|finish|content|cognitive content|mental object|part|section|division|state|surface|lineman|boundary|bound|bounds|topographic point|place|spot|contribution|share|subdivision|piece of cloth|piece of material
+31,invade,VBD,ed,invad,encroach upon|infest|intrude on|invade|obtrude upon|occupy|overrun,attack|assail|enter|come in|get into|get in|go into|go in|move into|inhabit|interpenetrate|permeate
+31,spain,NNP,NA,spain,Espana|Kingdom of Spain|Spain,
+31,even,RB,NA,even,even|still|yet,NA
+31,reach,VBN,ed,reach,accomplish|achieve|arrive at|attain|contact|extend to|gain|get hold of|get through|get to|give|hand|hit|make|pass|pass on|progress to|reach|reach out|strain|strive|touch|turn over,arrive|get|come|move|communicate|intercommunicate|succeed|win|come through|bring home the bacon|deliver the goods|be|achieve|accomplish|attain|reach|transfer|tug|labor|labour|push|drive
+31,france,NNP,NA,franc,Anatole France|France|French Republic|Jacques Anatole Francois Thibault,
+31,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+31,beat,VBN,en,beat,amaze|baffle|beat|beat out|beat up|bewilder|bunk|circumvent|crush|drum|dumbfound|exhaust|flap|flummox|get|gravel|mystify|nonplus|outfox|outsmart|outwit|overreach|perplex|pose|pound|pulsate|puzzle|quiver|scramble|shell|stick|stupefy|thrum|thump|tick|ticktack|ticktock|trounce|tucker|tucker out|vanquish|vex|wash up|work over,get the better of|overcome|defeat|strike|move|shape|form|work|mold|mould|forge|sound|go|glare|displace|sail|agitate|vex|disturb|commove|shake up|stir up|raise up|be|cheat|rip off|chisel|make|create|play|beat|surpass|outstrip|outmatch|outgo|exceed|outdo|surmount|outperform|confuse|throw|fox|befuddle|fuddle|bedevil|confound|discombobulate|tire|wear upon|tire out|wear|weary|jade|wear out|outwear|wear down|fag out|fag|fatigue
+31,frankish,NNP,NA,frankish,,NA
+31,ruler,NN,NA,ruler,rule|ruler|swayer,person|individual|someone|somebody|mortal|soul|measuring stick|measure|measuring rod
+31,charle,NNP,s,charl,,NA
+31,martel,NNP,NA,martel,,NA
+31,732,CD,NA,732,NA,NA
+32,crusade,NN,NA,crusad,campaign|cause|crusade|Crusade|drive|effort|movement,venture|expedition|military expedition|hostile expedition
+32,pisa,NNP,NA,pisa,Pisa,
+32,see,VB,NA,see,ascertain|assure|attend|catch|check|come across|consider|construe|control|date|determine|discover|encounter|ensure|envision|escort|examine|experience|fancy|figure|find|find out|get a line|get wind|get word|go out|go steady|go through|hear|image|insure|interpret|learn|look|meet|pick up|picture|project|realise|realize|reckon|regard|run across|run into|see|see to it|take care|take in|understand|view|visit|visualise|visualize|watch|witness,perceive|comprehend|experience|see|go through|imagine|conceive of|ideate|envisage|think|believe|consider|conceive|watch|verify|visit|call in|call|tour|care|give care|receive|take in|invite|consort|associate|affiliate|assort|debate|moot|turn over|deliberate|detect|observe|find|discover|notice|undergo|accompany|bet|wager|play|understand
+32,page,NN,NA,page,page|Page|pageboy|Sir Frederick Handley Page|Thomas Nelson Page|varlet,leaf|folio|messenger boy|errand boy|attendant|attender|tender
+32,19,CD,NA,19,NA,NA
+32,islamic,NNP,NA,islam,,NA
+32,power,NN,NA,power,ability|baron|big businessman|business leader|electrical energy|electricity|exponent|force|great power|index|king|magnate|major power|might|mightiness|mogul|office|power|powerfulness|superpower|top executive|tycoon|world power,quality|physical phenomenon|cognition|knowledge|noesis|state|causal agent|cause|causal agency|mathematical notation|strength|nation|country|land|commonwealth|res publica|body politic|energy|free energy|businessman|man of affairs
+32,wan,VBD,ed,wan,wan,sicken|come down
+32,early,JJ,NA,earli,early|early(a)|former(a)|other(a),
+32,13,CD,NA,13,NA,NA
+32,th,NN,NA,th,atomic number 90|Th|thorium|Thursday,weekday|metallic element|metal
+32,century,NN,NA,centuri,100|C|century|hundred|one C,time period|period of time|period|large integer
+32,ibiza,NNP,NA,ibiza,,NA
+32,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+32,embrace,VBN,ed,embrac,adopt|bosom|comprehend|cover|embrace|encompass|espouse|hug|squeeze|sweep up,include|clasp|accept
+32,christian,NNP,NA,christian,Christian,religious person
+32,reconquest,NNP,NA,reconquest,,NA
+33,king,NNP,NA,king,B. B. King|baron|big businessman|Billie Jean King|Billie Jean Moffitt King|business leader|king|King|magnate|male monarch|Martin Luther King|Martin Luther King Jr.|mogul|power|queen|Rex|Riley B King|top executive|tycoon|world-beater,sovereign|crowned head|monarch|rival|challenger|competitor|competition|contender|businessman|man of affairs|eminence|distinction|preeminence|note|checker|chequer|face card|picture card|court card|chessman|chess piece
+33,jame,NNP,s,jame,,NA
+33,aragon,NNP,NA,aragon,Aragon|Louis Aragon,
+33,authorize,VBD,ed,author,authorise|authorize|clear|empower|pass,permit|allow|let|countenance|appoint|charge
+33,occupation,NN,NA,occup,business|job|line|line of work|military control|moving in|occupancy|occupation,activity|social control|acquiring|getting|time period|period of time|period
+33,island,NNS,s,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+33,force,NNS,s,forc,effect|force|force out|force play|force-out|forcefulness|military force|military group|military unit|personnel|power|strength|violence,influence|physical phenomenon|intensity|intensiveness|organization|organisation|unit|social unit|aggression|hostility|causal agent|cause|causal agency|social group|validity|validness|putout
+33,command,VBN,ed,command,command|control|dominate|overlook|overtop|require,dominate|master|order|tell|enjoin|say|demand|exact|lie
+33,guillermo,NNP,NA,guillermo,,NA
+33,montgrus,NNP,s,montgru,,NA
+33,solid,JJ,NA,solid,firm|hearty|satisfying|self-colored|self-coloured|solid|square|strong|substantial|unanimous|upstanding|whole,
+33,catalonian,NNP,NA,catalonian,,NA
+33,citizen,NN,NA,citizen,citizen,national|subject
+33,titular,NN,NA,titular,,NA
+33,ecclesiastical,JJ,NA,ecclesiast,ecclesiastic|ecclesiastical,
+33,rank,NN,NA,rank,membership|rank|rank and file|social rank|social station|social status,line|status|position|force|personnel|body
+34,few,JJ,NA,few,few,
+34,skirmish,NNS,s,skirmish,brush|clash|encounter|skirmish,fight|fighting|combat|scrap
+34,catalonian,NNP,NA,catalonian,,NA
+34,troops,NNS,NA,troop,military personnel|soldiery|troops,force|personnel
+34,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+34,ready,JJ,NA,readi,quick|ready|ready(a),
+34,deal,VB,NA,deal,address|administer|allot|apportion|care|carry on|conduct|consider|contend|cope|cover|deal|deal out|dish out|dispense|distribute|divvy up|dole out|get by|grapple|handle|look at|lot|make do|make out|manage|mete out|parcel out|plow|portion out|sell|share|shell out|take|trade|treat,broach|initiate|think about|act|move|give|transact|control|command|behave|acquit|bear|deport|conduct|comport|carry|distribute|administer|mete out|deal|parcel out|lot|dispense|shell out|deal out|dish out|allot|dole out|manage|care|handle|give out|hand out|pass out|pass|hand|reach|pass on|turn over|sell|trade
+34,death,NN,NA,death,death|Death|decease|demise|destruction|dying|end|expiry|last,change|alteration|modification|organic phenomenon|state|end|ending|killing|kill|putting to death
+34,blow,NN,NA,blow,black eye|blast|blow|bump|C|coke|gust|nose candy|puff|reversal|reverse|setback|shock|snow,stroke|impact|happening|occurrence|occurrent|natural event|surprise|wind|air current|current of air|cocaine|cocain|exhalation|expiration|breathing out
+35,one,CD,NA,on,NA,NA
+35,pincer,NN,NA,pincer,chela|claw|nipper|pair of pincers|pair of tweezers|pincer|tweezer,hand tool|extremity|appendage|member
+35,batter,VBD,ed,batter,baste|batter|buffet|clobber|dinge|knock about,strike|beat|beat up|work over|change shape|change form|deform
+35,way,NN,NA,wai,agency|direction|elbow room|fashion|manner|means|mode|path|room|style|way|way of life,property|implementation|effectuation|path|route|itinerary|condition|status|course|course of action|artifact|artefact|journey|journeying|position|spatial relation|distance|choice|pick|selection|category|share|portion|part|percentage
+35,rebuild,VBN,ed,rebuild,rebuild|reconstruct,construct|build|make
+35,city,NN,NA,citi,city|metropolis|urban center,municipality|administrative district|administrative division|territorial division
+35,wall,NN,NA,wall,bulwark|paries|rampart|wall,partition|divider|object|physical object|stratum|difficulty|geological formation|formation|layer|bed|fence|fencing|embankment
+35,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+35,—,NN,NA,—,,NA
+35,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+35,say,VBN,ed,sai,allege|articulate|aver|enjoin|enounce|enunciate|order|pronounce|read|say|sound out|state|suppose|tell,express|verbalize|verbalise|utter|give tongue to|assert|asseverate|maintain|speculate|have|feature|request|convey|recite|read|register|show|record
+35,—,NN,NA,—,,NA
+35,infiltrate,VBN,ed,infiltr,infiltrate|pass through|penetrate,percolate|sink in|permeate|filter|join|fall in|get together|pass
+35,secret,JJ,NA,secret,clandestine|cloak-and-dagger|confidential|hidden|hole-and-corner(a)|hugger-mugger|hush-hush|mysterious|mystic|mystical|occult|orphic|private|privy|secluded|secret|surreptitious|unavowed|undercover|underground,
+35,passage,NN,NA,passag,enactment|handing over|musical passage|passage|passageway|passing|transit|transition,change of state|section|subdivision|way|legislation|legislating|lawmaking|journey|journeying|musical composition|opus|composition|piece|piece of music|structure|anatomical structure|complex body part|bodily structure|body structure|reaction|response|movement|motion|delivery|bringing
+35,reveal,VBD,ed,reveal,break|bring out|disclose|discover|divulge|expose|give away|let on|let out|reveal|uncover|unveil|unwrap,show|tell|unwrap|disclose|let on|bring out|reveal|discover|expose|divulge|break|give away|let out|uncover
+35,invader,NNS,s,invad,encroacher|invader,intruder|interloper|trespasser
+35,brother,NN,NA,brother,blood brother|brother|Brother|buddy|chum|comrade|crony|pal|sidekick,male sibling|member|fellow member|friend|monk|monastic
+35,sheik,NN,NA,sheik,Arab chief|beau|clotheshorse|dandy|dude|fashion plate|fop|gallant|sheik|sheikh|swell|tribal sheik|tribal sheikh,ruler|swayer|man|adult male
+36,accord,VBG,ing,accord,accord|agree|allot|concord|consort|fit in|grant|harmonise|harmonize,match|fit|correspond|check|jibe|gibe|tally|agree|give
+36,legend,NN,NA,legend,caption|fable|legend,story|title
+36,embittered,JJ,NA,embitt,,NA
+36,traitor,NN,NA,traitor,betrayer|double-crosser|double-dealer|traitor|treasonist|two-timer,criminal|felon|crook|outlaw|malefactor|deceiver|cheat|cheater|trickster|beguiler|slicker
+36,give,VBD,ed,give,afford|apply|break|cave in|chip in|collapse|commit|consecrate|contribute|dedicate|devote|ease up|establish|fall in|feed|founder|generate|gift|give|give way|grant|hand|have|hold|impart|kick in|leave|make|move over|open|pass|pass on|pay|present|reach|render|return|sacrifice|throw|turn over|yield,supply|provide|render|furnish|transfer|state|say|tell|communicate|intercommunicate|direct|make|create|think|cogitate|cerebrate|produce|pass|hand|reach|pass on|turn over|give|utter|emit|let out|let loose|release|relinquish|resign|free|give up|use|utilize|utilise|apply|employ|administer|dispense|distribute|mete out|deal|parcel out|lot|shell out|deal out|dish out|allot|dole out|move|ply|cater|change|estimate|gauge|approximate|guess|judge|execute|compensate|recompense|repair|indemnify|show|perform|stretch|toast|drink|pledge|salute|wassail|accord|grant|express|evince|submit|lead|permit|allow|let|countenance|inflict|bring down|visit|impose|happen|hap|go on|pass off|occur|fall out|come about|take place|accept|consent|go for|offer|proffer
+36,game,NN,NA,game,biz|game|plot|secret plan,activity|contest|competition|diversion|recreation|animal|animate being|beast|brute|creature|fauna|part|section|division|score|meat|scheme|strategy|game equipment|occupation|business|job|line of work|line|play|frolic|romp|gambol|caper
+36,away,RB,NA,awai,aside|away|by|forth|off|out,NA
+36,passionate,JJ,NA,passion,passionate,
+36,sheik,NN,NA,sheik,Arab chief|beau|clotheshorse|dandy|dude|fashion plate|fop|gallant|sheik|sheikh|swell|tribal sheik|tribal sheikh,ruler|swayer|man|adult male
+36,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+36,seduced,JJ,NA,seduc,,NA
+36,wife,NN,NA,wife,married woman|wife,woman|adult female|spouse|partner|married person|mate|better half
+37,thus,RB,NA,thu,hence|so|thence|therefore|thus|thusly,NA
+37,violently,RB,NA,violent,violently,
+37,august,NNP,NA,august,Aug|August,Gregorian calendar month
+37,1235,CD,NA,1235,NA,NA
+37,christianity,NNP,NA,christian,Christendom|Christian religion|Christianity,religion|faith|religious belief|body
+37,catalonian,NNP,NA,catalonian,,NA
+37,language,NN,NA,languag,language|linguistic communication|linguistic process|lyric|nomenclature|oral communication|speech|speech communication|spoken communication|spoken language|terminology|voice communication|words,communication|auditory communication|text|textual matter|higher cognitive process|faculty|mental faculty|module|word
+37,come,VBD,ed,come,add up|amount|arrive|come|come in|come up|derive|descend|do|fall|fare|follow|get|get along|hail|issue forth|make out|number|occur|total,NA
+37,ibiza,NNP,NA,ibiza,,NA
+37,stay,VB,NA,stai,abide|appease|bide|continue|delay|detain|last out|outride|persist|quell|remain|rest|ride out|stay|stay on|stay put|stick|stick around,be|stay in place|stay|stay on|continue|remain|check|retard|delay|stop|halt|block|kibosh|fasten|fix|secure|fit|conform to|meet|satisfy|fill|fulfill|fulfil
+38,mainland,NN,NA,mainland,mainland,land|dry land|earth|ground|solid ground|terra firma
+38,reconquista,NNP,NA,reconquista,,NA
+38,reconquest,NNP,NA,reconquest,,NA
+38,continue,VBD,ed,continu,bear on|carry on|continue|cover|extend|go along|go forward|go on|keep|keep on|persist in|preserve|proceed|remain|retain|stay|stay on|uphold,act|move|talk|speak|keep|maintain|hold|travel|go|locomote|prolong|sustain|keep up|be
+38,two,CD,NA,two,NA,NA
+38,one-half,JJ,NA,one-half,,NA
+38,century,NNS,s,centuri,100|C|century|hundred|one C,time period|period of time|period|large integer
+39,moor,NNP,s,moor,moor|Moor|moorland,Muslim|Moslem|plain|field|champaign
+39,suffer,VBD,ed,suffer,abide|ache|bear|brook|digest|endure|get|have|hurt|lose|meet|put up|stand|stick out|stomach|suffer|support|sustain|tolerate,experience|see|go through|receive|have|get|feel|permit|allow|let|countenance|worsen|decline|be|perceive|comprehend|tend|be given|lean|incline|run
+39,major,JJ,NA,major,major|major(ip),
+39,setback,NN,NA,setback,black eye|blow|reversal|reverse|setback,happening|occurrence|occurrent|natural event
+39,1212,CD,NA,1212,NA,NA
+39,battle,NN,NA,battl,battle|conflict|engagement|fight|struggle,military action|action|attempt|effort|endeavor|endeavour|try|group action
+39,nava,NNP,s,nava,,NA
+39,tolosa,NNP,NA,tolosa,,NA
+39,northern,JJ,NA,northern,northerly|northern,
+39,andalusium,NNP,s,andalusium,,NA
+39,still,RB,NA,still,all the same|at the same time|even|even so|however|nevertheless|nonetheless|notwithstanding|still|stock-still|withal|yet,NA
+39,clung,NN,NA,clung,,NA
+39,kingdom,NN,NA,kingdom,kingdom|land|realm,sphere|domain|area|orbit|field|arena|country|state|land|demesne|monarchy|taxonomic group|taxonomic category|taxon|group|grouping
+39,granada,NNP,NA,granada,Granada,
+39,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+39,only,RB,NA,onli,alone|but|entirely|exclusively|just|merely|only|only if|only when|simply|solely,NA
+39,finally,RB,NA,final,at last|at long last|eventually|finally|in conclusion|in the end|last|lastly|ultimately,
+39,evicted,JJ,NA,evict,,NA
+39,there,RB,NA,there,there|thither,NA
+39,1492,CD,NA,1492,NA,NA
+40,elsewhere,RB,NA,elsewher,elsewhere,NA
+40,great,JJ,NA,great,bang-up|big(p)|bully|capital|corking|cracking|dandy|enceinte|expectant|gravid|great|great(p)|groovy|heavy(p)|keen|large(p)|majuscule|neat|nifty|not bad(p)|old(a)|outstanding|peachy|slap-up|smashing|swell|with child(p),
+40,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+40,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+40,change,VBG,ing,chang,alter|change|commute|convert|deepen|exchange|interchange|modify|shift|switch|transfer|vary,dress|get dressed|replace|transfer|travel|go|move|locomote|change
+40,shape,NN,NA,shape,anatomy|bod|build|cast|chassis|condition|configuration|conformation|contour|embodiment|figure|flesh|form|frame|human body|material body|pattern|physical body|physique|shape|SHAPE|soma|Supreme Headquarters Allied Powers Europe,spatial property|spatiality|attribute|body|organic structure|concretism|concrete representation|appearance|visual aspect|good health|healthiness|high command|supreme headquarters|structure
+40,world,NN,NA,world,cosmos|creation|domain|earth|Earth|earthly concern|existence|globe|human beings|human race|humanity|humankind|humans|macrocosm|man|mankind|populace|public|reality|universe|world|worldly concern,natural object|class|stratum|social class|socio-economic class|experience|people|part|piece|concern|homo|man|human being|human|group|grouping
+41,ferdinand,NNP,NA,ferdinand,Ferdinand|Ferdinand of Aragon|Ferdinand the Catholic|Ferdinand V|King Ferdinand,
+41,isabellum,NNP,s,isabellum,,NA
+41,unity,NN,NA,uniti,1|ace|I|integrity|one|oneness|single|unity|wholeness,state|digit|figure|identity|identicalness|indistinguishability
+41,spain,NNP,NA,spain,Espana|Kingdom of Spain|Spain,
+41,country,NN,NA,countri,area|body politic|commonwealth|country|land|nation|res publica|rural area|state,political unit|political entity|administrative district|administrative division|territorial division|people|geographical area|geographic area|geographical region|geographic region|region
+41,know,VBP,NA,know,acknowledge|bang|be intimate|bed|bonk|cognise|cognize|do it|eff|experience|fuck|get it on|get laid|have a go at it|have intercourse|have it away|have it off|have sex|hump|jazz|know|lie with|live|love|make love|make out|recognise|recognize|roll in the hay|screw|sleep together|sleep with,experience|see|go through|accept|copulate|mate|pair|couple|recognize|recognise|realize|realise|agnize|agnise|distinguish|separate|differentiate|secern|secernate|severalize|severalise|tell|tell apart|remember|retrieve|recall|call back|call up|recollect|think
+41,today,NN,NA,todai,today,present|nowadays|day|twenty-four hours|twenty-four hour period|24-hour interval|solar day|mean solar day
+41,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+41,finally,RB,NA,final,at last|at long last|eventually|finally|in conclusion|in the end|last|lastly|ultimately,
+41,achieve,VBN,ed,achiev,accomplish|achieve|attain|reach,succeed|win|come through|bring home the bacon|deliver the goods
+41,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+41,carry,VBG,ing,carri,acquit|bear|behave|carry|channel|comport|conduct|contain|convey|deport|dribble|expect|express|extend|gestate|have a bun in the oven|hold|impart|pack|persuade|post|run|stock|stockpile|sway|take|transmit|transport,move|displace|have|feature|bring|convey|take|communicate|intercommunicate|hold|support|sustain|hold up|include|effect|continue|imply|involve|win|carry|bear|act|have got|circulate|circularize|circularise|distribute|disseminate|propagate|broadcast|spread|diffuse|disperse|pass around|hit|pass on|pass|pass along|put across|range|keep|maintain|influence|act upon|work|compensate|counterbalance|correct|make up|even out|even off|even up|promote|advance|boost|further|encourage|appropriate|capture|seize|conquer|transfer|shift|follow|grow|raise|farm|produce|propel|impel|hit the bottle|drink|booze|fuddle|nourish|nurture|travel|go|locomote|obtain|perform|execute|do|give birth|deliver|birth
+41,flag,NN,NA,flag,flag|flagstone|fleur-de-lis|iris|masthead|pin|signal flag|sword lily,emblem|list|listing|iridaceous plant|visual signal|golf equipment|paving stone|tail
+41,1492,CD,NA,1492,NA,NA
+41,christopher,NNP,NA,christoph,Christopher|Saint Christopher|St. Christopher,
+41,columbus,NNP,NA,columbu,capital of Ohio|Christopher Columbus|Columbus|Cristobal Colon|Cristoforo Colombo,
+41,sail,VBD,ed,sail,navigate|sail|sweep|voyage,travel|journey|move|boat
+41,westward,NNS,s,westward,due west|W|west|westward,cardinal compass point
+41,discover,VBN,ed,discov,attain|break|bring out|chance on|chance upon|come across|come upon|describe|detect|disclose|discover|distinguish|divulge|expose|fall upon|find|find out|get a line|get wind|get word|give away|happen upon|hear|identify|key|key out|learn|let on|let out|light upon|name|notice|observe|pick up|reveal|see|strike|uncover|unwrap,spy|sight|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|see|find|regain|tell
+41,america,NNP,NA,america,America|the States|U.S.|U.S.A.|United States|United States of America|US|USA,
+42,soon,RB,NA,soon,before long|presently|shortly|soon,NA
+42,spain,NNP,NA,spain,Espana|Kingdom of Spain|Spain,
+42,find,VBD,ed,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+42,recipient,NN,NA,recipi,receiver|recipient|recipient role,acquirer|semantic role|participant role
+42,immense,JJ,NA,immens,Brobdingnagian|huge|immense|vast,
+42,wealth,NN,NA,wealth,riches|wealth|wealthiness,financial condition|abundance|copiousness|teemingness|material resource|property|belongings|holding
+42,form,NN,NA,form,anatomy|bod|build|cast|chassis|class|configuration|conformation|contour|course|descriptor|figure|flesh|form|frame|grade|human body|kind|manakin|manikin|mannequin|mannikin|material body|pattern|phase|physical body|physique|shape|signifier|soma|sort|strain|var.|variant|variety|word form,word|category|structure|spatial property|spatiality|body|organic structure|attribute|appearance|visual aspect|document|written document|papers|taxonomic group|taxonomic category|taxon|writing style|literary genre|genre|manner|mode|style|way|fashion|state of matter|state|gathering|assemblage|ability|dummy|mold|mould|cast
+42,gold,NN,NA,gold,amber|atomic number 79|Au|gold,precious metal|yellow|yellowness|noble metal|wealth|riches|invaluableness|preciousness|pricelessness|valuableness
+42,silver,NN,NA,silver,Ag|ash gray|ash grey|atomic number 47|flatware|silver|silver gray|silver grey|silver medal,noble metal|conductor|precious metal|gray|grayness|grey|greyness|silverware|trophy|prize
+42,spanish,JJ,NA,spanish,Spanish,
+42,ruler,NNS,s,ruler,rule|ruler|swayer,person|individual|someone|somebody|mortal|soul|measuring stick|measure|measuring rod
+42,eager,JJ,NA,eager,eager,
+42,more,JJR,NA,more,more than|more(a),
+42,turn,VBD,ed,turn,become|bend|call on|change by reversal|change state|deform|ferment|flex|grow|move around|plough|plow|release|reverse|rick|sour|sprain|turn|turn over|twist|work|wrench|wrick,move|change|transform|transmute|metamorphose|displace|travel|go|locomote|transmit|transfer|transport|channel|channelize|channelise|send|direct|till|shape|form|turn|grow|discolor|discolour|colour|color|injure|wound|alter|modify|do|perform|get|acquire|change shape|change form|deform|operate|control|aim|take|train|take aim|appeal|invoke|change state|senesce|age|get on|mature|maturate
+42,attention,NN,NA,attent,aid|attending|attention|care|tending,basic cognitive process|work|attraction|attractor|attracter|attractive feature|magnet|courtesy|faculty|mental faculty|module|stance
+42,away,RB,NA,awai,aside|away|by|forth|off|out,NA
+42,mediterranean,NNP,NA,mediterranean,Mediterranean|Mediterranean Sea,
+42,ibiza,NNP,NA,ibiza,,NA
+42,new,NNP,NA,new,,NA
+42,world,NNP,NA,world,cosmos|creation|domain|earth|Earth|earthly concern|existence|globe|human beings|human race|humanity|humankind|humans|macrocosm|man|mankind|populace|public|reality|universe|world|worldly concern,natural object|class|stratum|social class|socio-economic class|experience|people|part|piece|concern|homo|man|human being|human|group|grouping
+42,heart,NN,NA,heart,affection|affectionateness|bosom|center|centre|core|essence|eye|fondness|gist|heart|heart and soul|inwardness|kernel|marrow|meat|mettle|middle|nerve|nitty-gritty|nub|philia|pith|pump|spirit|spunk|substance|sum|tenderness|ticker|warmheartedness|warmness,intuition|hunch|suspicion|internal organ|viscus|courage|courageousness|bravery|braveness|area|country|content|cognitive content|mental object|disposition|temperament|plane figure|two-dimensional figure|variety meat|organs|feeling|playing card
+42,europe,NNP,NA,europ,Common Market|EC|EEC|EU|Europe|European Community|European Economic Community|European Union,world organization|world organisation|international organization|international organisation|global organization|collection|aggregation|accumulation|assemblage
+42,spanish,JJ,NA,spanish,Spanish,
+42,ambition,NNS,s,ambit,ambition|ambitiousness|aspiration|dream,desire|drive
+42,rapidly,RB,NA,rapidli,apace|chop-chop|in short order|quickly|rapidly|speedily,
+42,expand,VBN,ed,expand,amplify|blow up|boom|dilate|elaborate|enlarge|expand|expatiate|exposit|expound|extend|flesh out|flourish|inflate|lucubrate|spread out|thrive,grow|enlarge|increase|clarify|clear up|elucidate|change|alter|modify
+43,ibiza,NNP,NA,ibiza,,NA
+43,become,VBD,ed,becom,become|get|go|suit|turn,change state|turn|transform|transmute|metamorphose|fancify|beautify|embellish|prettify
+43,mere,JJ,NA,mere,bare(a)|mere(a)|simple(a),
+43,backwater,NN,NA,backwat,backwater,body of water|water|region
+43,largely,RB,NA,larg,for the most part|largely|mostly,NA
+43,forget,VBN,en,forget,blank out|block|bury|draw a blank|forget|leave,neglect|pretermit|omit|drop|miss|leave out|overlook|overleap|lose
+43,shipwreck,NN,NA,shipwreck,shipwreck|wreck,ship|ruin|ruination|accident
+43,plague,VB,NA,plagu,beset|blight|chevvy|chevy|chivvy|chivy|harass|harry|hassle|molest|plague|provoke,afflict|smite|annoy|rag|get to|bother|get at|irritate|rile|nark|nettle|gravel|vex|chafe|devil
+44,moment,NN,NA,moment,bit|consequence|here and now|import|instant|minute|mo|moment|present moment|second,point|point in time|time|present|nowadays|significance|force|statistic
+44,spanish,JJ,NA,spanish,Spanish,
+44,monarch,NNS,s,monarch,crowned head|Danaus plexippus|milkweed butterfly|monarch|monarch butterfly|sovereign,ruler|swayer|head of state|chief of state|danaid|danaid butterfly
+44,look,VBD,ed,look,appear|attend|await|bank|bet|calculate|count|depend|expect|face|front|look|reckon|rely|search|see|seem|swear|take care|wait,be|examine|see|lie|care|give care|convey|match|fit|correspond|check|jibe|gibe|tally|agree|trust
+44,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+44,way,NN,NA,wai,agency|direction|elbow room|fashion|manner|means|mode|path|room|style|way|way of life,property|implementation|effectuation|path|route|itinerary|condition|status|course|course of action|artifact|artefact|journey|journeying|position|spatial relation|distance|choice|pick|selection|category|share|portion|part|percentage
+44,daring,JJ,NA,dare,audacious|avant-garde|daring|venturesome|venturous,
+44,pirate,NNS,s,pirat,buccaneer|literary pirate|pirate|pirate ship|plagiariser|plagiarist|plagiarizer|sea robber|sea rover,thief|stealer|plunderer|pillager|looter|spoiler|despoiler|raider|freebooter|ship
+44,north,NNP,NA,north,compass north|due north|Frederick North|magnetic north|N|north|North|northward|Second Earl of Guilford|Union,cardinal compass point|location|direction
+44,african,NNP,NA,african,African,person|individual|someone|somebody|mortal|soul
+44,barbary,NNP,NA,barbari,Barbary,
+44,coast,NNP,NA,coast,coast|glide|sea-coast|seacoast|seashore|slide,shore|slope|incline|side|view|aspect|prospect|scene|vista|panorama|motion|movement|move
+44,—,NN,NA,—,,NA
+44,elsewhere,RB,NA,elsewher,elsewhere,NA
+44,—,NN,NA,—,,NA
+44,move,VBD,ed,move,act|actuate|affect|be active|displace|go|impress|incite|locomote|make a motion|motivate|move|proceed|prompt|propel|run|strike|travel,act|move|change|alter|vary|cause|do|make|affect|impress|strike|sell|live|propose|suggest|advise
+45,ibicenco,NNP,s,ibicenco,,NA
+45,fortify,VBN,ed,fortifi,arm|beef up|build up|fort|fortify|gird|lace|spike|strengthen,change|alter|modify|enclose|close in|inclose|shut in|add
+45,bulwark,NNS,s,bulwark,breakwater|bulwark|groin|groyne|jetty|mole|rampart|seawall|wall,embankment|barrier
+45,build,VBN,ed,build,build|build up|construct|establish|make|progress|ramp up|work up,make|create|develop|better|improve|amend|ameliorate|meliorate|oversee|supervise|superintend|manage|establish|base|ground|found|increase|intensify|deepen
+45,additional,JJ,NA,addit,additional|extra,
+45,tower,NNS,s,tower,column|pillar|towboat|tower|tug|tugboat,structure|construction|shape|form|boat
+45,fortress,NNS,s,fortress,fort|fortress,defensive structure|defense|defence
+45,help,VB,NA,help,aid|assist|avail|facilitate|help|help oneself|serve,support|back up|better|improve|amend|ameliorate|meliorate|serve|refrain|forbear|provide|supply|ply|cater|promote|advance|boost|further|encourage|exploit|work
+45,shield,VB,NA,shield,harbor|harbour|screen|shield,protect|hide|conceal
+45,enemy,NN,NA,enemi,enemy|foe|foeman|opposition,military unit|military force|military group|force|adversary|antagonist|opponent|opposer|resister|people|rival|challenger|competitor|competition|contender
+45,incursion,NNS,s,incurs,incursion|penetration,entrance|entering|entry|ingress|incoming|attack|onslaught|onset|onrush|mistake|error|fault
+46,effort,NNS,s,effort,attempt|campaign|cause|crusade|drive|effort|elbow grease|endeavor|endeavour|exertion|exploit|feat|movement|sweat|travail|try,activity|labor|labour|toil|accomplishment|achievement|venture
+46,however,RB,NA,howev,all the same|at the same time|even so|however|nevertheless|nonetheless|notwithstanding|still|withal|yet,NA
+46,ibiza,NNP,NA,ibiza,,NA
+46,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+46,menaced,JJ,NA,menac,,NA
+46,so,RB,NA,so,and so|hence|indeed|so|then|thence|therefore|thus|thusly,NA
+46,many,JJ,NA,mani,many,
+46,hostile,JJ,NA,hostil,hostile|uncongenial|unfriendly,
+46,flotilla,NNS,s,flotilla,flotilla,fleet
+46,local,NNS,s,local,local|local anaesthetic|local anesthetic|topical anaesthetic|topical anesthetic,public transport|anesthetic|anaesthetic|anesthetic agent|anaesthetic agent
+46,take,VBD,ed,take,accept|acquire|admit|adopt|aim|ask|assume|bring|call for|carry|charter|choose|claim|conduct|consider|consume|contain|contract|convey|deal|demand|direct|drive|engage|exact|fill|film|get|get hold of|guide|have|hire|hold|ingest|involve|lead|learn|lease|look at|make|necessitate|need|occupy|pack|pick out|postulate|read|remove|rent|require|select|shoot|strike|study|submit|subscribe|subscribe to|take|take aim|take away|take in|take on|take up|train|use up|withdraw,NA
+46,unprecedented,JJ,NA,unpreced,unprecedented,
+46,step,NN,NA,step,dance step|footfall|footmark|footprint|footstep|gradation|measure|pace|stair|step|stone's throw|stride|tone|whole step|whole tone,maneuver|manoeuvre|tactical maneuver|tactical manoeuvre|indefinite quantity|locomotion|travel|support|rank|small indefinite quantity|small indefinite amount|sound|interval|musical interval|mark|print|block
+46,form,VBG,ing,form,constitute|forge|form|imprint|make|mold|mould|organise|organize|shape|spring|take form|take shape|work,make|create|constitute|represent|make up|comprise|be|become|change|alter|modify|create from raw material|create from raw stuff|influence|act upon|work
+46,own,JJ,NA,own,ain|own(a),
+46,band,NN,NA,band,band|banding|circle|dance band|dance orchestra|isthmus|lot|ring|set|stria|striation|stripe,social group|musical organization|musical organisation|musical group|stripe|streak|bar|adornment|range|strip|slip|tissue|jewelry|jewellery|belt|loop|restraint|constraint
+46,privateer,NNS,s,privat,privateer|privateersman,officer|ship's officer|crewman|crew member|warship|war vessel|combat ship
+47,berber,NNP,s,berber,Berber,African|Afroasiatic|Afro-Asiatic|Afroasiatic language|Afrasian|Afrasian language|Hamito-Semitic
+47,amazement,NN,NA,amaz,amazement|astonishment,feeling
+47,table,NNS,s,tabl,board|mesa|table|tabular array,array|furniture|piece of furniture|article of furniture|tableland|plateau|gathering|assemblage|fare
+47,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+47,turn,VBN,ed,turn,become|bend|call on|change by reversal|change state|deform|ferment|flex|grow|move around|plough|plow|release|reverse|rick|sour|sprain|turn|turn over|twist|work|wrench|wrick,move|change|transform|transmute|metamorphose|displace|travel|go|locomote|transmit|transfer|transport|channel|channelize|channelise|send|direct|till|shape|form|turn|grow|discolor|discolour|colour|color|injure|wound|alter|modify|do|perform|get|acquire|change shape|change form|deform|operate|control|aim|take|train|take aim|appeal|invoke|change state|senesce|age|get on|mature|maturate
+47,wasn,NN,NA,wasn,,NA
+47,t,NN,NA,t,deoxythymidine monophosphate|liothyronine|metric ton|MT|t|T|tetraiodothyronine|thymine|thyroxin|thyroxine|tonne|triiodothyronine,pyrimidine|nucleotide|base|metric weight unit|weight unit|letter|letter of the alphabet|alphabetic character|thyroid hormone
+47,long,RB,NA,long,long,NA
+47,ibicenco,NNP,s,ibicenco,,NA
+47,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+47,board,VBG,ing,board,board|get on|room,enter|come in|get into|get in|go into|go in|move into|populate|dwell|live|inhabit|provide|supply|ply|cater
+47,enemy,NN,NA,enemi,enemy|foe|foeman|opposition,military unit|military force|military group|force|adversary|antagonist|opponent|opposer|resister|people|rival|challenger|competitor|competition|contender
+47,s,VBZ,NA,NA,,NA
+47,brigantine,NNS,s,brigantin,brigantine|hermaphrodite brig,sailing vessel|sailing ship
+47,open,JJ,NA,open,assailable|candid|capable|clear|exposed|heart-to-heart|loose|open|open(a)|opened|overt|receptive|subject|undecided|undefendable|undefended|undetermined|unfastened|unresolved,
+47,sea,NNS,s,sea,ocean|sea,body of water|water|large indefinite quantity|large indefinite amount|turbulent flow
+47,liberating,JJ,NA,liber,,NA
+47,pirate,NNS,s,pirat,buccaneer|literary pirate|pirate|pirate ship|plagiariser|plagiarist|plagiarizer|sea robber|sea rover,thief|stealer|plunderer|pillager|looter|spoiler|despoiler|raider|freebooter|ship
+47,booty,NN,NA,booti,booty|dirty money|loot|pillage|plunder|prize|swag,stolen property
+47,—,NN,NA,—,,NA
+47,even,RB,NA,even,even|still|yet,NA
+47,greatly,RB,NA,greatli,greatly,
+47,fear,VBN,ed,fear,dread|fear|revere|reverence|venerate,worry|regret|respect|esteem|value|prize|prise
+47,pope,NNP,NA,pope,Alexander Pope|Bishop of Rome|Catholic Pope|Holy Father|pontiff|pope|Pope|Roman Catholic Pope|Vicar of Christ,spiritual leader|Catholic
+47,see,VB,NA,see,ascertain|assure|attend|catch|check|come across|consider|construe|control|date|determine|discover|encounter|ensure|envision|escort|examine|experience|fancy|figure|find|find out|get a line|get wind|get word|go out|go steady|go through|hear|image|insure|interpret|learn|look|meet|pick up|picture|project|realise|realize|reckon|regard|run across|run into|see|see to it|take care|take in|understand|view|visit|visualise|visualize|watch|witness,perceive|comprehend|experience|see|go through|imagine|conceive of|ideate|envisage|think|believe|consider|conceive|watch|verify|visit|call in|call|tour|care|give care|receive|take in|invite|consort|associate|affiliate|assort|debate|moot|turn over|deliberate|detect|observe|find|discover|notice|undergo|accompany|bet|wager|play|understand
+47,box,NN,NA,box,box|box seat|boxful|boxwood|corner|loge,container|compartment|containerful|predicament|quandary|plight|rectangle|shrub|bush|area|seat|blow
+48,today,NN,NA,todai,today,present|nowadays|day|twenty-four hours|twenty-four hour period|24-hour interval|solar day|mean solar day
+48,obelisk,NN,NA,obelisk,dagger|obelisk,column|pillar|character|graph|grapheme|graphic symbol
+48,ibiza,NNP,NA,ibiza,,NA
+48,s,VBZ,NA,NA,,NA
+48,port,NN,NA,port,embrasure|interface|larboard|port|port wine|porthole,geographic point|geographical point|fortified wine|opening|side|computer circuit
+48,honour,NNS,s,honour,accolade|award|honor|honour|laurels|pureness|purity,standing|symbol|righteousness|virtue|chastity|sexual morality
+48,daring,JJ,NA,dare,audacious|avant-garde|daring|venturesome|venturous,
+48,corsair,NNP,s,corsair,Barbary pirate|corsair,pirate|buccaneer|sea robber|sea rover|pirate ship
+49,reminder,NNP,s,remind,admonisher|monitor|reminder,message|content|subject matter|substance|experience|defender|guardian|protector|shielder
+49,permanent,JJ,NA,perman,lasting|permanent,
+49,threat,NN,NA,threat,menace|scourge|terror|threat,danger|warning|declaration|person|individual|someone|somebody|mortal|soul
+49,pose,VBN,ed,pose,amaze|baffle|beat|bewilder|dumbfound|flummox|get|gravel|impersonate|lay|model|mystify|nonplus|perplex|personate|place|pose|position|posture|present|put|puzzle|set|sit|stick|stupefy|vex,constitute|represent|make up|comprise|be|expose|exhibit|display|deceive|betray|lead astray|behave|acquit|bear|deport|conduct|comport|carry|move|displace|confuse|throw|fox|befuddle|fuddle|bedevil|confound|discombobulate
+49,pirate,NNS,s,pirat,buccaneer|literary pirate|pirate|pirate ship|plagiariser|plagiarist|plagiarizer|sea robber|sea rover,thief|stealer|plunderer|pillager|looter|spoiler|despoiler|raider|freebooter|ship
+49,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+49,find,VBN,ed,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+49,everywhere,RB,NA,everywher,all over|everyplace|everywhere,
+49,ibiza,NNP,NA,ibiza,,NA
+50,town,NNS,s,town,Ithiel Town|town|Town|townsfolk|township|townspeople,municipality|administrative district|administrative division|territorial division|architect|designer
+50,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+50,notable,JJ,NA,notabl,celebrated|famed|famous|far-famed|illustrious|notable|noted|noteworthy|remarkable|renowned,
+50,church,NNS,s,church,Christian church|church|church building|church service,religion|faith|organized religion|place of worship|house of prayer|house of God|house of worship|service|religious service|divine service|body
+50,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+50,focal,JJ,NA,focal,focal,
+50,point,NNS,s,point,breaker point|compass point|decimal point|degree|detail|distributor point|dot|full point|full stop|gunpoint|head|item|level|peak|percentage point|period|point|point in time|pointedness|power point|spot|stage|stop|tip,component|constituent|element|factor|ingredient|location|meaning|significance|signification|import|fact|state|measure|quantity|amount|aim|object|objective|target|convex shape|convexity|disk|disc|saucer|unit of measurement|unit|promontory|headland|head|foreland|part|portion|component part|relevance|relevancy|characteristic|end|terminal|direction|linear unit|linear measure|loan|punctuation|punctuation mark|mark|mathematical notation|taper|gun muzzle|muzzle|wall socket|wall plug|electric outlet|electrical outlet|outlet|electric receptacle|contact|tangency
+50,period,NN,NA,period,catamenia|flow|full point|full stop|geological period|menses|menstruation|menstruum|period|period of time|point|stop|time period,fundamental quantity|fundamental measure|time interval|interval|part|section|division|geological time|geologic time|end|ending|discharge|emission|expelling|punctuation|punctuation mark
+50,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+50,build,VBN,ed,build,build|build up|construct|establish|make|progress|ramp up|work up,make|create|develop|better|improve|amend|ameliorate|meliorate|oversee|supervise|superintend|manage|establish|base|ground|found|increase|intensify|deepen
+50,elevate,VBD,ed,elev,advance|bring up|elevate|get up|kick upstairs|lift|promote|raise|upgrade,delegate|designate|depute|assign|move|displace|change|alter|modify
+50,site,NN,NA,site,internet site|land site|site|situation|web site|website,tract|piece of land|piece of ground|parcel of land|parcel|position|place|computer|computing machine|computing device|data processor|electronic computer|information processing system
+50,provide,VB,NA,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+50,lookout,NN,NA,lookout,lookout|lookout man|lookout station|observation post|observation tower|observatory|outlook|picket|scout|sentinel|sentry|spotter|watch,watchman|watcher|security guard|post|station|structure|construction|look|looking|looking at
+50,post,NNS,s,post,berth|billet|C. W. Post|Charles William Post|Emily Post|Emily Price Post|mail|mail service|military post|office|place|position|post|Post|postal service|situation|spot|stake|station|Wiley Post,position|place|military installation|occupation|business|job|line of work|line|upright|vertical|collection|aggregation|accumulation|assemblage|visual signal|communication|communicating|delivery|bringing
+50,early,JJ,NA,earli,early|early(a)|former(a)|other(a),
+50,warning,NN,NA,warn,admonition|monition|warning|word of advice,informing|making known|advice|telling|apprisal|notification
+50,system,NNS,s,system,arrangement|organisation|organization|scheme|system|system of rules,instrumentality|instrumentation|group|grouping|matter|method|structure|body part|plan of action|live body|orderliness|methodicalness
+51,many,JJ,NA,mani,many,
+51,isolate,VBN,ed,isol,insulate|isolate|keep apart|sequester|sequestrate|set apart,discriminate|separate|single out|get|acquire|disunite|divide|part|classify|class|sort|assort|sort out
+51,region,NNS,s,region,area|neighborhood|part|realm|region,location|body part|indefinite quantity|knowledge domain|knowledge base|domain
+51,meanwhile,RB,NA,meanwhil,in the meantime|meantime|meanwhile,NA
+51,last-ditch,JJ,NA,last-ditch,last-ditch,
+51,defence,NNS,s,defenc,defence|defence force|defence mechanism|defence reaction|defending team|defense|defense force|defense lawyers|defense mechanism|defense reaction|defense team|defensive measure|defensive structure|demurrer|denial|refutation|vindication,psychoanalytic process|process|unconscious process|team|squad|collection|aggregation|accumulation|assemblage|organization|organisation|answer|justification|structure|construction|due process|due process of law|military action|action|protection
+51,form,NN,NA,form,anatomy|bod|build|cast|chassis|class|configuration|conformation|contour|course|descriptor|figure|flesh|form|frame|grade|human body|kind|manakin|manikin|mannequin|mannikin|material body|pattern|phase|physical body|physique|shape|signifier|soma|sort|strain|var.|variant|variety|word form,word|category|structure|spatial property|spatiality|body|organic structure|attribute|appearance|visual aspect|document|written document|papers|taxonomic group|taxonomic category|taxon|writing style|literary genre|genre|manner|mode|style|way|fashion|state of matter|state|gathering|assemblage|ability|dummy|mold|mould|cast
+51,round,NN,NA,round,beat|bout|circle|cycle|daily round|one shot|rhythm|round|round of drinks|round of golf|rung|stave|troll|turn|unit of ammunition,ammunition|ammo|time interval|interval|path|route|itinerary|call|golf|golf game|habitude|part|section|division|track|course|helping|portion|serving|cut of beef|partsong|applause|hand clapping|clapping|crosspiece|rotating mechanism
+51,stone,NN,NA,stone,Edward Durell Stone|endocarp|gem|gemstone|Harlan F. Stone|Harlan Fisk Stone|Harlan Fiske Stone|Harlan Stone|I. F. Stone|Isidor Feinstein Stone|Lucy Stone|Oliver Stone|pit|rock|stone|Stone,natural object|building material|material|stuff|crystal|avoirdupois unit|pericarp|seed vessel|coldness|coolness|frigidity|frigidness|iciness|chilliness
+51,tower,NNS,s,tower,column|pillar|towboat|tower|tug|tugboat,structure|construction|shape|form|boat
+51,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+51,build,VBN,ed,build,build|build up|construct|establish|make|progress|ramp up|work up,make|create|develop|better|improve|amend|ameliorate|meliorate|oversee|supervise|superintend|manage|establish|base|ground|found|increase|intensify|deepen
+51,few,JJ,NA,few,few,
+51,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+51,still,RB,NA,still,all the same|at the same time|even|even so|however|nevertheless|nonetheless|notwithstanding|still|stock-still|withal|yet,NA
+51,inhabit,VBN,ed,inhabit,dwell|inhabit|live|populate,be|exist
+51,today,NN,NA,todai,today,present|nowadays|day|twenty-four hours|twenty-four hour period|24-hour interval|solar day|mean solar day
+52,unusual,JJ,NA,unusu,strange|unusual,
+52,collection,NN,NA,collect,accumulation|aggregation|appeal|assemblage|assembling|collecting|collection|compendium|ingathering|solicitation,group|grouping|publication|request|petition|postulation
+52,such,JJ,NA,such,such(a),
+52,tower,NNS,s,tower,column|pillar|towboat|tower|tug|tugboat,structure|construction|shape|form|boat
+52,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+52,see,VBN,en,see,ascertain|assure|attend|catch|check|come across|consider|construe|control|date|determine|discover|encounter|ensure|envision|escort|examine|experience|fancy|figure|find|find out|get a line|get wind|get word|go out|go steady|go through|hear|image|insure|interpret|learn|look|meet|pick up|picture|project|realise|realize|reckon|regard|run across|run into|see|see to it|take care|take in|understand|view|visit|visualise|visualize|watch|witness,perceive|comprehend|experience|see|go through|imagine|conceive of|ideate|envisage|think|believe|consider|conceive|watch|verify|visit|call in|call|tour|care|give care|receive|take in|invite|consort|associate|affiliate|assort|debate|moot|turn over|deliberate|detect|observe|find|discover|notice|undergo|accompany|bet|wager|play|understand
+52,sant,NNP,NA,sant,,NA
+52,joan,NNP,NA,joan,,NA
+52,road,NN,NA,road,road|route,way|means|agency
+52,hamlet,NN,NA,hamlet,crossroads|hamlet|Hamlet|village,community|settlement
+52,moorish,NNP,NA,moorish,Moorish|Moorish architecture,architectural style|style of architecture|type of architecture
+52,name,NN,NA,name,epithet|figure|gens|name|public figure,language unit|linguistic unit|repute|reputation|family|family line|folk|kinfolk|kinsfolk|sept|phratry|important person|influential person|personage|sanction|defamation|calumny|calumniation|obloquy|traducement|hatchet job
+52,balafus,NNP,s,balafu,,NA
+52,village,NN,NA,villag,Greenwich Village|hamlet|settlement|small town|village|Village,community|settlement
+52,sant,NNP,NA,sant,,NA
+52,lorenç,NNP,NA,lorenç,,NA
+53,19,CD,NA,19,NA,NA
+53,th,NN,NA,th,atomic number 90|Th|thorium|Thursday,weekday|metallic element|metal
+53,early,JJ,NA,earli,early|early(a)|former(a)|other(a),
+53,20,CD,NA,20,NA,NA
+53,th,NN,NA,th,atomic number 90|Th|thorium|Thursday,weekday|metallic element|metal
+53,century,NNS,s,centuri,100|C|century|hundred|one C,time period|period of time|period|large integer
+53,spain,NNP,NA,spain,Espana|Kingdom of Spain|Spain,
+53,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+53,economically,RB,NA,econom,economically,
+53,weak,JJ,NA,weak,debile|decrepit|faint|fallible|feeble|frail|imperfect|infirm|light|rickety|sapless|unaccented|washy|watery|weak|weakly,
+53,politically,RB,NA,polit,politically,
+53,unstable,JJ,NA,unstabl,fluid|mentally ill|precarious|unsound|unstable,
+54,lose,VBD,ed,lose,lose|miss|suffer|turn a loss,NA
+54,empire,NN,NA,empir,conglomerate|empire|Empire|imperium,domain|demesne|land|government|authorities|regime|monarchy|corporation|corp|eating apple|dessert apple
+54,america,NNP,NA,america,America|the States|U.S.|U.S.A.|United States|United States of America|US|USA,
+54,pacific,NNP,NA,pacif,Pacific|Pacific Ocean,
+54,then,RB,NA,then,and so|so|then,NA
+54,1923,CD,NA,1923,NA,NA
+54,suffer,VBD,ed,suffer,abide|ache|bear|brook|digest|endure|get|have|hurt|lose|meet|put up|stand|stick out|stomach|suffer|support|sustain|tolerate,experience|see|go through|receive|have|get|feel|permit|allow|let|countenance|worsen|decline|be|perceive|comprehend|tend|be given|lean|incline|run
+54,humiliating,JJ,NA,humili,demeaning|humbling|humiliating|mortifying,
+54,defeat,NN,NA,defeat,defeat|frustration|licking,ending|conclusion|finish|failure|disappointment|letdown
+54,morocco,NNP,NA,morocco,Al-Magrib|Kingdom of Morocco|Maroc|Marruecos|morocco|Morocco,leather
+54,hand,NNS,s,hand,bridge player|deal|hand|handwriting|helping hand|hired hand|hired man|manus|mitt|paw|script,extremity|laborer|manual laborer|labourer|jack|writing|ability|power|side|collection|aggregation|accumulation|assemblage|pointer|handbreadth|handsbreadth|sailor|crewman|card player|applause|hand clapping|clapping|forepaw|aid|assist|assistance|help
+54,local,JJ,NA,local,local,
+54,rebel,NNS,s,rebel,freedom fighter|greyback|insurgent|insurrectionist|Johnny|Johnny Reb|maverick|Reb|rebel|Rebel,Confederate soldier|revolutionist|revolutionary|subversive|subverter|reformer|reformist|crusader|social reformer|meliorist|nonconformist|recusant
+55,king,NNP,NA,king,B. B. King|baron|big businessman|Billie Jean King|Billie Jean Moffitt King|business leader|king|King|magnate|male monarch|Martin Luther King|Martin Luther King Jr.|mogul|power|queen|Rex|Riley B King|top executive|tycoon|world-beater,sovereign|crowned head|monarch|rival|challenger|competitor|competition|contender|businessman|man of affairs|eminence|distinction|preeminence|note|checker|chequer|face card|picture card|court card|chessman|chess piece
+55,alfonso,NNP,NA,alfonso,,NA
+55,xiius,NNP,s,xiiu,,NA
+55,dictatorship,NN,NA,dictatorship,absolutism|authoritarianism|Caesarism|despotism|dictatorship|monocracy|one-man rule|shogunate|Stalinism|totalitarianism|tyranny,autocracy|autarchy
+55,constitutional,JJ,NA,constitut,built-in|constituent(a)|constitutional|constitutive(a)|inbuilt|inherent|integral|organic,
+55,government,NN,NA,govern,administration|authorities|governance|governing|government|government activity|political science|politics|regime,polity|social control|system|system of rules|social science
+55,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+55,able,JJ,NA,abl,able|able-bodied|capable,
+55,create,VB,NA,creat,create|make|produce,act|move|appoint|charge|make|create
+55,sustain,VB,NA,sustain,affirm|confirm|corroborate|get|have|hold|hold up|keep|keep up|maintain|nourish|nurture|prolong|substantiate|suffer|support|sustain,continue|uphold|carry on|bear on|preserve|experience|receive|have|get|provide|supply|ply|cater|have got|hold|admit|acknowledge
+55,domestic,JJ,NA,domest,domestic|domesticated,
+55,tranquillity,NN,NA,tranquil,placidity|quiet|quietness|quietude|repose|serenity|tranquility|tranquillity,order|calmness|composure|calm|equanimity
+55,result,NN,NA,result,answer|consequence|effect|event|final result|issue|outcome|resolution|result|resultant|resultant role|solution|solvent|termination|upshot,phenomenon|statement|ending|conclusion|finish|semantic role|participant role
+55,follow,VBG,ing,follow,abide by|accompany|adopt|be|come|come after|comply|conform to|espouse|fall out|follow|keep abreast|keep an eye on|keep up|observe|play along|postdate|pursue|stick to|stick with|succeed|surveil|survey|take after|trace|travel along|watch|watch over,travel|go|move|locomote|result|ensue|obey|imitate|copy|simulate|be|choose|take|select|pick out|analyze|analyse|study|examine|canvass|check|check up on|look into|check out|suss out|check over|go over|check into|play|originate|arise|rise|develop|uprise|spring up|grow|act|behave|do|practice|apply|use|understand|persevere|persist|hang in|hang on|hold on
+55,anti-royalist,JJ,NA,anti-royalist,,NA
+55,election,NN,NA,elect,election,vote|choice|selection|option|pick|status|position|predestination|foreordination|preordination|predetermination
+55,result,NNS,s,result,answer|consequence|effect|event|final result|issue|outcome|resolution|result|resultant|resultant role|solution|solvent|termination|upshot,phenomenon|statement|ending|conclusion|finish|semantic role|participant role
+55,1931,CD,NA,1931,NA,NA
+55,king,NN,NA,king,B. B. King|baron|big businessman|Billie Jean King|Billie Jean Moffitt King|business leader|king|King|magnate|male monarch|Martin Luther King|Martin Luther King Jr.|mogul|power|queen|Rex|Riley B King|top executive|tycoon|world-beater,sovereign|crowned head|monarch|rival|challenger|competitor|competition|contender|businessman|man of affairs|eminence|distinction|preeminence|note|checker|chequer|face card|picture card|court card|chessman|chess piece
+55,go,VBD,ed,go,become|belong|blend|blend in|break|break down|buy the farm|cash in one's chips|choke|conk|conk out|croak|decease|depart|die|drop dead|endure|exit|expire|extend|fail|fit|function|get|get going|give out|give way|give-up the ghost|go|go away|go bad|hold out|hold up|kick the bucket|last|lead|live|live on|locomote|move|operate|pass|pass away|perish|plump|pop off|proceed|rifle|run|run low|run short|snuff it|sound|start|survive|travel|work,NA
+55,exile,NN,NA,exil,deportation|deportee|exile|expat|expatriate|expatriation|transportation,absentee|foreigner|alien|noncitizen|outlander|banishment|proscription
+56,turbulence,NN,NA,turbul,Sturm und Drang|turbulence|turbulency|upheaval,physical phenomenon|bad weather|inclemency|inclementness|disorder
+56,continue,VBD,ed,continu,bear on|carry on|continue|cover|extend|go along|go forward|go on|keep|keep on|persist in|preserve|proceed|remain|retain|stay|stay on|uphold,act|move|talk|speak|keep|maintain|hold|travel|go|locomote|prolong|sustain|keep up|be
+56,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+56,republic,NN,NA,republ,commonwealth|democracy|republic,political system|form of government|political system|form of government
+56,continue,VBD,ed,continu,bear on|carry on|continue|cover|extend|go along|go forward|go on|keep|keep on|persist in|preserve|proceed|remain|retain|stay|stay on|uphold,act|move|talk|speak|keep|maintain|hold|travel|go|locomote|prolong|sustain|keep up|be
+56,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+56,turbulent,JJ,NA,turbul,churning|disruptive|riotous|roiled|roiling|roily|troubled|tumultuous|turbulent,
+56,however,RB,NA,howev,all the same|at the same time|even so|however|nevertheless|nonetheless|notwithstanding|still|withal|yet,NA
+56,bitter,JJ,NA,bitter,acerb|acerbic|acid|acrid|acrimonious|biting|bitter|blistering|caustic|sulfurous|sulphurous|virulent|vitriolic,
+56,ideological,JJ,NA,ideolog,ideologic|ideological,
+56,division,NNS,s,divis,air division|class|division|naval division|part|partition|partitioning|section|sectionalisation|sectionalization|segmentation|variance,army unit|concept|conception|construct|separation|administrative unit|administrative body|discord|dissension|league|conference|biological group|phylum|air unit|naval unit|arithmetic operation
+56,party,NNS,s,parti,company|party|political party,organization|organisation|social gathering|social affair|set|circle|band|lot|affair|occasion|social occasion|function|social function|person|individual|someone|somebody|mortal|soul
+56,faction,NNS,s,faction,cabal|camarilla|faction|junto|sect,clique|coterie|ingroup|inner circle|pack|camp|clique|coterie|ingroup|inner circle|pack|camp
+56,involve,VBG,ing,involv,affect|ask|call for|demand|imply|involve|necessitate|need|postulate|regard|require|take,refer|pertain|relate|concern|come to|bear on|touch|touch on|have to do with|admit|let in|include|have|feature|absorb|engross|engage|occupy|complicate|refine|rarify|elaborate
+56,church,NN,NA,church,Christian church|church|church building|church service,religion|faith|organized religion|place of worship|house of prayer|house of God|house of worship|service|religious service|divine service|body
+56,as,RB,NA,a,as|equally|every bit,
+56,well,RB,NA,well,advantageously|comfortably|considerably|easily|good|intimately|substantially|well,NA
+57,finally,RB,NA,final,at last|at long last|eventually|finally|in conclusion|in the end|last|lastly|ultimately,
+57,1936,CD,NA,1936,NA,NA
+57,large,JJ,NA,larg,big|big(p)|bombastic|declamatory|enceinte|expectant|gravid|great(p)|heavy(p)|large|large(p)|magnanimous|orotund|prominent|tumid|turgid|with child(p),
+57,section,NN,NA,section,department|discussion section|division|incision|part|plane section|section|segment|subdivision|surgical incision,writing|written material|piece of writing|music|slice|area|country|part|portion|team|squad|concept|conception|construct|square mile|expanse|surface area|class|form|grade|course|musical organization|musical organisation|musical group|army unit|division|segment|cut|cutting
+57,army,NN,NA,armi,army|Army|ground forces|regular army|U. S. Army|United States Army|US Army|USA,military service|armed service|service|crowd|agency|federal agency|government agency|bureau|office|authority
+57,general,NNP,NA,gener,full general|general|superior general,general officer|head|chief|top dog|fact
+57,francisco,NNP,NA,francisco,,NA
+57,franco,NNP,NA,franco,El Caudillo|Francisco Franco|Franco|General Franco,
+57,rise,VBD,ed,rise,arise|ascend|climb|climb up|come up|develop|get up|go up|grow|heighten|jump|lift|mount|move up|originate|prove|rear|rebel|resurrect|rise|rise up|spring up|stand up|surface|turn out|uprise|wax,NA
+57,revolt,NN,NA,revolt,insurrection|rebellion|revolt|rising|uprising,conflict|struggle|battle
+57,claim,VBG,ing,claim,arrogate|claim|exact|lay claim|take,affirm|request|ask for|bespeak|call for|quest|verify|assert|avow|aver|swan|swear|necessitate|ask|postulate|need|require|take|involve|demand
+57,support,NN,NA,support,accompaniment|backing|backup|bread and butter|documentation|financial backing|financial support|funding|keep|livelihood|living|musical accompaniment|reenforcement|reinforcement|support|supporting|sustenance,activity|aid|assist|assistance|help|influence|operation|military operation|validation|proof|substantiation|resource|supporting structure|part|voice|device
+57,monarchist,NNS,s,monarchist,monarchist|royalist,rightist|right-winger
+57,conservative,NNS,s,conserv,conservative|Conservative|conservativist,adult|grownup|member|fellow member
+57,church,NNP,NA,church,Christian church|church|church building|church service,religion|faith|organized religion|place of worship|house of prayer|house of God|house of worship|service|religious service|divine service|body
+57,right-wing,JJ,NA,right-w,right-wing|rightist,
+57,falange,NNP,NA,falang,Falange,Nazism|Naziism|national socialism
+57,par­ty,NN,NA,par­ti,,NA
+57,fascist,JJ,NA,fascist,fascist|fascistic,
+57,movement,NN,NA,movement,apparent motion|apparent movement|bm|bowel movement|campaign|cause|crusade|drift|drive|effort|front|motility|motion|move|movement|social movement|trend,change|happening|occurrence|occurrent|natural event|social group|musical composition|opus|composition|piece|piece of music|venture|optical illusion|defecation|laxation|shitting|inclination|disposition|tendency|action|action mechanism
+57,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+57,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+57,found,VBN,ed,found,base|constitute|establish|found|ground|institute|launch|plant|set up,open|open up|initiate|pioneer
+57,1933,CD,NA,1933,NA,NA
+57,franco,NNP,NA,franco,El Caudillo|Francisco Franco|Franco|General Franco,
+57,subsequently,RB,NA,subsequ,after|afterward|afterwards|later|later on|subsequently,
+57,declare,VBD,ed,declar,adjudge|announce|declare|hold,state|say|tell|affirm|verify|assert|avow|aver|swan|swear|evaluate|pass judgment|judge|authorize|authorise|pass|clear|play|proclaim|exclaim|promulgate
+57,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+57,only,RB,NA,onli,alone|but|entirely|exclusively|just|merely|only|only if|only when|simply|solely,NA
+57,legal,JJ,NA,legal,effectual|legal|sound,
+57,party,NN,NA,parti,company|party|political party,organization|organisation|social gathering|social affair|set|circle|band|lot|affair|occasion|social occasion|function|social function|person|individual|someone|somebody|mortal|soul
+57,spain,NNP,NA,spain,Espana|Kingdom of Spain|Spain,
+58,opposing,NNP,NA,oppos,,NA
+58,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+58,collection,NN,NA,collect,accumulation|aggregation|appeal|assemblage|assembling|collecting|collection|compendium|ingathering|solicitation,group|grouping|publication|request|petition|postulation
+58,republican,NNS,s,republican,republican|Republican|Republican River,politician|politico|pol|political leader|advocate|advocator|proponent|exponent
+58,liberal,NNS,s,liber,liberal|liberalist|progressive,adult|grownup|adult|grownup
+58,socialist,NNS,s,socialist,socialist,politician|politico|pol|political leader
+58,communist,NNS,s,communist,commie|communist|Communist,politician|politico|pol|political leader|socialist
+58,anarchist,NNS,s,anarchist,anarchist|nihilist|syndicalist,radical
+59,spanish,NNP,NA,spanish,Spanish|Spanish people,Romance|Romance language|Latinian language|nation|land|country
+59,civil,NNP,NA,civil,,NA
+59,war,NNP,NA,war,state of war|war|warfare,military action|action|hostility|enmity|antagonism|conflict|struggle|battle|campaign|cause|crusade|drive|movement|effort
+59,become,VBD,ed,becom,become|get|go|suit|turn,change state|turn|transform|transmute|metamorphose|fancify|beautify|embellish|prettify
+59,one,CD,NA,on,NA,NA
+59,cause,NNS,s,caus,campaign|case|causa|causal agency|causal agent|cause|crusade|drive|effort|grounds|lawsuit|movement|reason|suit,origin|origination|inception|justification|venture|physical entity|proceeding|legal proceeding|proceedings
+59,célèbres,NNS,NA,célèbre,,NA
+59,20,CD,NA,20,NA,NA
+59,th,NN,NA,th,atomic number 90|Th|thorium|Thursday,weekday|metallic element|metal
+59,century,NN,NA,centuri,100|C|century|hundred|one C,time period|period of time|period|large integer
+59,support,NN,NA,support,accompaniment|backing|backup|bread and butter|documentation|financial backing|financial support|funding|keep|livelihood|living|musical accompaniment|reenforcement|reinforcement|support|supporting|sustenance,activity|aid|assist|assistance|help|influence|operation|military operation|validation|proof|substantiation|resource|supporting structure|part|voice|device
+59,side,NNS,s,side,English|face|incline|position|side|side of meat|slope,region|part|unit|social unit|area|surface|aspect|facet|line|lineage|line of descent|descent|bloodline|blood line|blood|pedigree|ancestry|origin|parentage|stemma|stock|cut|cut of meat|opinion|view|geological formation|formation|spin
+59,be,VBG,ing,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+59,rally,VBN,ed,ralli,bait|beat up|call up|cod|come up|drum up|mobilise|mobilize|muster|muster up|rag|rally|razz|rebound|ride|summon|tantalise|tantalize|taunt|tease|twit,collect|pull in|call|send for|gather|garner|pull together|recover|go back|recuperate|mock|bemock
+59,many,JJ,NA,mani,many,
+59,country,NNS,s,countri,area|body politic|commonwealth|country|land|nation|res publica|rural area|state,political unit|political entity|administrative district|administrative division|territorial division|people|geographical area|geographic area|geographical region|geographic region|region
+59,spain,NNP,NA,spain,Espana|Kingdom of Spain|Spain,
+60,ibiza,NNP,NA,ibiza,,NA
+60,several,JJ,NA,sever,respective(a)|several(a)|several(p)|various(a),
+60,family,NNS,s,famili,category|class|crime syndicate|family|family line|family unit|fellowship|folk|home|house|household|kin|kinfolk|kinsfolk|kinsperson|menage|mob|phratry|sept|syndicate,unit|social unit|kin|kin group|kinship group|kindred|clan|tribe|collection|aggregation|accumulation|assemblage|lineage|line|line of descent|descent|bloodline|blood line|blood|pedigree|ancestry|origin|parentage|stemma|stock|relative|relation|taxonomic group|taxonomic category|taxon|organized crime|gangland|gangdom|association
+60,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+60,tear,VBN,en,tear,buck|bust|charge|deplumate|deplume|displume|pluck|pull|rupture|shoot|shoot down|snap|tear,separate|disunite|divide|part|rush|hotfoot|hasten|hie|speed|race|pelt along|rush along|cannonball along|bucket along|belt along|step on it|strip|cry|weep
+60,loyalty,NNS,s,loyalti,allegiance|commitment|dedication|loyalty|trueness,fidelity|faithfulness|love|cooperation
+60,republican,NNP,NA,republican,republican|Republican|Republican River,politician|politico|pol|political leader|advocate|advocator|proponent|exponent
+60,nationalist,JJ,NA,nationalist,nationalist|nationalistic,
+60,cause,NNS,s,caus,campaign|case|causa|causal agency|causal agent|cause|crusade|drive|effort|grounds|lawsuit|movement|reason|suit,origin|origination|inception|justification|venture|physical entity|proceeding|legal proceeding|proceedings
+61,bloodshed,JJ,NA,bloodsh,,NA
+61,last,VBD,ed,last,endure|go|hold out|hold up|last|live|live on|survive,measure
+61,three,CD,NA,three,NA,NA
+61,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+61,cost,NN,NA,cost,cost|monetary value|price|toll,outgo|spending|expenditure|outlay|value
+61,hundred,NNS,s,hundr,100|C|century|hundred|one C,large integer
+61,thousand,NNS,s,thousand,1000|chiliad|G|grand|K|M|one thousand|thou|thousand|yard,large integer
+61,life,NNS,s,life,aliveness|animation|biography|life|life history|life sentence|life story|life-time|lifespan|lifetime|liveliness|living|spirit|sprightliness,being|beingness|existence|face of the earth|experience|time period|period of time|period|person|individual|someone|somebody|mortal|soul|animation|spiritedness|invigoration|brio|vivification|living thing|animate thing|organic phenomenon|history|account|chronicle|story|motivation|motive|need|prison term|sentence|time
+61,almost,RB,NA,almost,about|almost|most|near|nearly|nigh|virtually|well-nigh,NA
+61,family,NN,NA,famili,category|class|crime syndicate|family|family line|family unit|fellowship|folk|home|house|household|kin|kinfolk|kinsfolk|kinsperson|menage|mob|phratry|sept|syndicate,unit|social unit|kin|kin group|kinship group|kindred|clan|tribe|collection|aggregation|accumulation|assemblage|lineage|line|line of descent|descent|bloodline|blood line|blood|pedigree|ancestry|origin|parentage|stemma|stock|relative|relation|taxonomic group|taxonomic category|taxon|organized crime|gangland|gangdom|association
+61,ibiza,NNP,NA,ibiza,,NA
+61,—,NN,NA,—,,NA
+61,not,RB,NA,not,non|not,NA
+61,mention,VB,NA,mention,advert|bring up|cite|mention|name|note|observe|refer|remark,think of|have in mind|mean|state|say|tell|notice|acknowledge
+61,mainland,NN,NA,mainland,mainland,land|dry land|earth|ground|solid ground|terra firma
+61,—,NN,NA,—,,NA
+61,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+61,touch,VBN,ed,touch,adjoin|advert|affect|allude|bear on|bear upon|come to|concern|contact|disturb|equal|extend to|have to do with|impact|match|meet|partake|pertain|reach|refer|relate|rival|stir|tinct|tinge|tint|touch|touch on,perceive|comprehend|affect|impress|move|strike|change|alter|modify|manage|deal|care|handle|touch|be|compete|vie|contend|hint|suggest|understand|consume|ingest|take in|take|have|color|colorize|colorise|colourise|colourize|colour|color in|colour in
+61,tragedy,NN,NA,tragedi,calamity|cataclysm|catastrophe|disaster|tragedy,misfortune|bad luck|drama
+62,ibiza,NNP,NA,ibiza,,NA
+62,formentera,NNP,NA,formentera,,NA
+62,menorca,NNP,NA,menorca,,NA
+62,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+62,capture,VBN,ed,captur,appropriate|becharm|beguile|bewitch|captivate|capture|catch|charm|conquer|enamor|enamour|enchant|entrance|fascinate|get|seize|trance,represent|interpret|attract|appeal|seize|prehend|clutch|change|alter|modify|assume|usurp|take over|arrogate|get|acquire
+62,loyalist,NN,NA,loyalist,loyalist|stalwart,supporter|protagonist|champion|admirer|booster|friend
+62,force,NNS,s,forc,effect|force|force out|force play|force-out|forcefulness|military force|military group|military unit|personnel|power|strength|violence,influence|physical phenomenon|intensity|intensiveness|organization|organisation|unit|social unit|aggression|hostility|causal agent|cause|causal agency|social group|validity|validness|putout
+62,use,VBD,ed,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+62,island,NNS,s,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+62,base,NN,NA,base,al Qaeda|al Qaida|al-Qa'ida|al-Qaeda|al-Qaida|alkali|bag|base|Base|base of operations|basis|cornerstone|floor|foot|foundation|fundament|groundwork|home|infrastructure|nucleotide|pedestal|Qaeda|radical|radix|root|root word|stand|stem|substructure|theme|understructure,military installation|support|baseball equipment|part|piece|bottom|control|assumption|supposition|supposal|ester|compound|chemical compound|flank|portion|component part|component|constituent|number|location|form|word form|signifier|descriptor|store|stock|fund|ingredient|underside|undersurface|electrode
+62,naval,JJ,NA,naval,naval,
+62,operation,NNS,s,oper,cognitive operation|cognitive process|functioning|mathematical operation|mathematical process|mental process|military operation|operation|performance|procedure|process|surgery|surgical operation|surgical procedure|surgical process,action|activity|activeness|business activity|commercial activity|data processing|medical procedure|work|process|physical process|cognition|knowledge|noesis|calculation|computation|computing
+63,hardship,NNP,NA,hardship,adversity|asperity|grimness|hard knocks|hardship|rigor|rigorousness|rigour|rigourousness|severeness|severity,misfortune|bad luck|tough luck|ill luck|difficulty|difficultness
+63,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+63,compound,VBN,ed,compound,combine|compound|deepen|heighten|intensify,increase|add|account|calculate|assemble|piece|put together|set up|tack|tack together|mix|mingle|commix|unify|amalgamate
+63,advent,NN,NA,advent,advent|Advent|coming|Parousia|Second Advent|Second Coming|Second Coming of Christ,arrival|reaching|season
+63,world,NNP,NA,world,cosmos|creation|domain|earth|Earth|earthly concern|existence|globe|human beings|human race|humanity|humankind|humans|macrocosm|man|mankind|populace|public|reality|universe|world|worldly concern,natural object|class|stratum|social class|socio-economic class|experience|people|part|piece|concern|homo|man|human being|human|group|grouping
+63,war,NNP,NA,war,state of war|war|warfare,military action|action|hostility|enmity|antagonism|conflict|struggle|battle|campaign|cause|crusade|drive|movement|effort
+63,ius,NNP,s,iu,,NA
+63,even,RB,NA,even,even|still|yet,NA
+63,spain,NNP,NA,spain,Espana|Kingdom of Spain|Spain,
+63,stay,VBD,ed,stai,abide|appease|bide|continue|delay|detain|last out|outride|persist|quell|remain|rest|ride out|stay|stay on|stay put|stick|stick around,be|stay in place|stay|stay on|continue|remain|check|retard|delay|stop|halt|block|kibosh|fasten|fix|secure|fit|conform to|meet|satisfy|fill|fulfill|fulfil
+63,neutral,JJ,NA,neutral,achromatic|electroneutral|impersonal|indifferent|inert|neutral,
+63,war,NN,NA,war,state of war|war|warfare,military action|action|hostility|enmity|antagonism|conflict|struggle|battle|campaign|cause|crusade|drive|movement|effort
+64,shatter,VBD,ed,shatter,shatter,burst|bust|damage|break
+64,spanish,JJ,NA,spanish,Spanish,
+64,economy,NN,NA,economi,economic system|economy|saving|thriftiness,system|scheme|efficiency|frugality|frugalness|action
+64,inch,VBD,ed,inch,edge|inch,advance|progress|pass on|move on|march on|go on
+64,forward,RB,NA,forward,ahead|fore|forrad|forrader|forrard|forth|forward|forwards|frontward|frontwards|onward|onwards,NA
+64,post-war,JJ,NA,post-war,,NA
+64,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+65,ibiza,NNP,NA,ibiza,,NA
+65,breakthrough,NN,NA,breakthrough,breakthrough|discovery|find,insight|brainstorm|brainwave|discovery|find|uncovering|penetration|incursion
+65,come,VBD,ed,come,add up|amount|arrive|come|come in|come up|derive|descend|do|fall|fare|follow|get|get along|hail|issue forth|make out|number|occur|total,NA
+65,1960,CD,NA,1960,NA,NA
+65,s,VBZ,NA,NA,,NA
+65,introduction,NN,NA,introduct,creation|debut|entry|first appearance|foundation|founding|initiation|innovation|insertion|instauration|institution|intro|introduction|intromission|launching|origination|presentation|unveiling,beginning|start|commencement|section|subdivision|informing|making known|textbook|text|text edition|schoolbook|school text|proposal|movement
+65,wide-bodied,JJ,NA,wide-bodi,,NA
+65,jet,NNS,s,jet,blue jet|cat valium|fountain|green|honey oil|jet|jet plane|jet-propelled plane|K|reverse lightning|special K|spirt|spurt|squirt|super acid|super C,airplane|aeroplane|plane|discharge|outpouring|run|lignite|brown coal|wood coal|atmospheric electricity|ketamine|ketamine hydrochloride|Ketalar|flow|flowing
+65,significant,JJ,NA,signific,important|meaning(a)|pregnant|significant|substantial,
+65,surge,NN,NA,surg,billow|rush|spate|surge|upsurge,flow|flowing|increase|step-up|wave|moving ridge
+65,tourism,NN,NA,tourism,tourism|touristry,commercial enterprise|business enterprise|business
+66,follow,VBG,ing,follow,abide by|accompany|adopt|be|come|come after|comply|conform to|espouse|fall out|follow|keep abreast|keep an eye on|keep up|observe|play along|postdate|pursue|stick to|stick with|succeed|surveil|survey|take after|trace|travel along|watch|watch over,travel|go|move|locomote|result|ensue|obey|imitate|copy|simulate|be|choose|take|select|pick out|analyze|analyse|study|examine|canvass|check|check up on|look into|check out|suss out|check over|go over|check into|play|originate|arise|rise|develop|uprise|spring up|grow|act|behave|do|practice|apply|use|understand|persevere|persist|hang in|hang on|hold on
+66,expansion,NN,NA,expans,elaboration|enlargement|expanding upon|expansion,increase|step-up|function|mathematical function|single-valued function|map|mapping|discussion|treatment|discourse
+66,airport,NN,NA,airport,aerodrome|airdrome|airport|drome,airfield|landing field|flying field|field
+66,island,NN,NA,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+66,enter,VBD,ed,enter,accede|come in|embark|enrol|enroll|enter|figure|get in|get into|go in|go into|infix|inscribe|insert|introduce|move into|participate|put down|record|recruit,register|be|save|preserve|succeed|come after|follow|take office|attach|get down|begin|get|start out|start|set about|set out|commence
+66,big,JJ,NA,big,adult|bad|big|big(a)|big(p)|bighearted|boastful|bounteous|bountiful|braggart(a)|bragging(a)|braggy|cock-a-hoop|crowing|enceinte|expectant|freehanded|full-grown|fully grown|giving|gravid|great(p)|grown|grownup|handsome|heavy(a)|heavy(p)|large|large(p)|liberal|magnanimous|openhanded|prominent|self-aggrandising|self-aggrandizing|swelled|vainglorious|with child(p),
+66,league,NN,NA,leagu,conference|league,association|union|linear unit|linear measure
+66,international,JJ,NA,intern,external|international|outside(a),
+66,holiday,NN,NA,holidai,holiday|vacation,leisure|leisure time|day
+66,resort,NNS,s,resort,hangout|haunt|holiday resort|recourse|refuge|repair|resort|resort hotel|stamping ground,hotel|area|country|resource|aid|assist|assistance|help
+67,death,NN,NA,death,death|Death|decease|demise|destruction|dying|end|expiry|last,change|alteration|modification|organic phenomenon|state|end|ending|killing|kill|putting to death
+67,franco,NNP,NA,franco,El Caudillo|Francisco Franco|Franco|General Franco,
+67,1975,CD,NA,1975,NA,NA
+67,king,NNP,NA,king,B. B. King|baron|big businessman|Billie Jean King|Billie Jean Moffitt King|business leader|king|King|magnate|male monarch|Martin Luther King|Martin Luther King Jr.|mogul|power|queen|Rex|Riley B King|top executive|tycoon|world-beater,sovereign|crowned head|monarch|rival|challenger|competitor|competition|contender|businessman|man of affairs|eminence|distinction|preeminence|note|checker|chequer|face card|picture card|court card|chessman|chess piece
+67,juan,NNP,NA,juan,,NA
+67,carlo,NNP,s,carlo,,NA
+67,restore,VBD,ed,restor,bushel|doctor|fix|furbish up|mend|reconstruct|reestablish|regenerate|reinstate|rejuvenate|repair|restitute|restore|touch on,regenerate|renew|refund|return|repay|give back|better|improve|amend|ameliorate|meliorate|change|alter|modify
+67,democracy,NN,NA,democraci,commonwealth|democracy|majority rule|republic,political orientation|ideology|political theory|political system|form of government|doctrine|philosophy|philosophical system|school of thought|ism
+67,spain,NNP,NA,spain,Espana|Kingdom of Spain|Spain,
+68,free,JJ,NA,free,barren|complimentary|costless|destitute|detached|devoid|free|gratis(p)|gratuitous|innocent|liberal|loose|spare,
+68,election,NNS,s,elect,election,vote|choice|selection|option|pick|status|position|predestination|foreordination|preordination|predetermination
+68,june,NNP,NA,june,June,Gregorian calendar month
+68,1977,CD,NA,1977,NA,NA
+68,moderate,NNS,s,moder,centrist|middle of the roader|moderate|moderationist,adult|grownup
+68,democratic,JJ,NA,democrat,democratic|Democratic|popular,
+68,socialist,NNS,s,socialist,socialist,politician|politico|pol|political leader
+68,emerge,VBD,ed,emerg,come forth|come out|egress|emerge|go forth|issue,appear|surface|come up|rise up|rise|originate|arise|develop|uprise|spring up|grow
+68,largest,JJS,NA,largest,,NA
+68,party,NNS,s,parti,company|party|political party,organization|organisation|social gathering|social affair|set|circle|band|lot|affair|occasion|social occasion|function|social function|person|individual|someone|somebody|mortal|soul
+69,ibiza,NNP,NA,ibiza,,NA
+69,s,VBZ,NA,NA,,NA
+69,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+69,freedom,NN,NA,freedom,exemption|freedom,state|unsusceptibility|immunity
+69,mean,VBD,ed,mean,entail|have in mind|imply|intend|mean|signify|stand for|think|think of,NA
+69,renaissance,NN,NA,renaiss,rebirth|Renaissance|Renascence,revival|resurgence|revitalization|revitalisation|revivification
+69,ibicenco,NNP,NA,ibicenco,,NA
+69,language,NN,NA,languag,language|linguistic communication|linguistic process|lyric|nomenclature|oral communication|speech|speech communication|spoken communication|spoken language|terminology|voice communication|words,communication|auditory communication|text|textual matter|higher cognitive process|faculty|mental faculty|module|word
+69,culture,NN,NA,cultur,acculturation|civilisation|civilization|cultivation|culture|finish|polish|refinement,society|taste|appreciation|discernment|perceptiveness|content|cognitive content|mental object|growth|growing|maturation|development|ontogeny|ontogenesis|perfection|flawlessness|ne plus ultra|attitude|mental attitude|cultivation
+69,decade,NNS,s,decad,10|decade|decennary|decennium|ten|tenner|X,time period|period of time|period|large integer
+69,suppression,NN,NA,suppress,crushing|curtailment|inhibition|quelling|stifling|suppression,growth|growing|maturation|development|ontogeny|ontogenesis|restraint|prevention|bar|abstinence
+69,participation,NN,NA,particip,engagement|involution|involvement|participation,group action|condition|status
+69,catalonium,NNP,s,catalonium,,NA
+69,s,VBZ,NA,NA,,NA
+69,newly,RB,NA,newli,fresh|freshly|new|newly,NA
+69,win,VBN,ed,win,acquire|advance|bring home the bacon|come through|deliver the goods|earn|gain|gain ground|garner|get ahead|make headway|pull ahead|succeed|win,get|acquire
+69,autonomy,NN,NA,autonomi,autonomy|liberty|self-direction|self-reliance|self-sufficiency,independence|independency|independence|independency
+70,free,JJ,NA,free,barren|complimentary|costless|destitute|detached|devoid|free|gratis(p)|gratuitous|innocent|liberal|loose|spare,
+70,speech,NN,NA,speech,actor's line|address|delivery|language|lecture|manner of speaking|oral communication|speech|speech communication|spoken communication|spoken language|talking to|voice communication|words,speech act|auditory communication|utterance|vocalization|speaking|speech production|expressive style|style|rebuke|reproof|reproval|reprehension|reprimand|line|faculty|mental faculty|module
+70,free,JJ,NA,free,barren|complimentary|costless|destitute|detached|devoid|free|gratis(p)|gratuitous|innocent|liberal|loose|spare,
+70,election,NNS,s,elect,election,vote|choice|selection|option|pick|status|position|predestination|foreordination|preordination|predetermination
+70,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+70,not,RB,NA,not,non|not,NA
+70,only,JJ,NA,onli,alone(p)|lone(a)|lonesome(a)|only|only(a)|sole(a)|solitary(a),
+70,innovation,NNS,s,innov,conception|creation|design|excogitation|foundation|founding|initiation|innovation|instauration|institution|introduction|invention|origination,creation|creativity|creativeness|creative thinking|beginning|start|commencement
+71,gambling,NN,NA,gambl,gambling|gaming|play,diversion|recreation|vice
+71,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+71,legalized,JJ,NA,legal,,NA
+71,nude,JJ,NA,nude,au naturel(p)|bare|naked|nude,
+71,bathing,NN,NA,bath,bathing|washup,diversion|recreation|wash|washing|lavation|cleaning|cleansing|cleanup
+71,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+71,sanction,VBN,ed,sanction,approve|O.K.|okay|sanction,authorize|authorise|pass|clear|empower|approve|O.K.|okay|sanction
+72,change,NNP,NA,chang,alteration|change|modification|variety,happening|occurrence|occurrent|natural event|relation|action|consequence|effect|outcome|result|event|issue|upshot|cash|hard cash|hard currency|thing|clothing|article of clothing|vesture|wear|wearable|habiliment|coin|difference
+72,sweep,VBD,ed,sweep,broom|brush|cross|drag|drag in|embroil|sail|span|sweep|sweep up|swing|swing out|tangle|traverse,move|wipe|pass over|involve|cover|continue|extend|clean|make clean|win|wield|handle|manage
+72,ibiza,NNP,NA,ibiza,,NA
+72,dramatically,RB,NA,dramat,dramatically,
+72,irrevocably,RB,NA,irrevoc,irrevocably,
+72,almost,RB,NA,almost,about|almost|most|near|nearly|nigh|virtually|well-nigh,NA
+72,overnight,JJ,NA,overnight,all-night|nightlong|overnight,
+73,then,RB,NA,then,and so|so|then,NA
+73,development,NN,NA,develop,developing|development|evolution|exploitation|growing|growth|maturation|ontogenesis|ontogeny,improvement|process|physical process|organic process|biological process|change|alteration|modification|use|usage|utilization|utilisation|employment|exercise|district|territory|territorial dominion|dominion|melioration|processing|section|subdivision
+73,ibiza,NNP,NA,ibiza,,NA
+73,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+73,continue,VBN,ed,continu,bear on|carry on|continue|cover|extend|go along|go forward|go on|keep|keep on|persist in|preserve|proceed|remain|retain|stay|stay on|uphold,act|move|talk|speak|keep|maintain|hold|travel|go|locomote|prolong|sustain|keep up|be
+73,island,NN,NA,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+73,s,VBZ,NA,NA,,NA
+73,fortune,NNS,s,fortun,chance|circumstances|destiny|fate|fortune|hazard|lot|luck|portion,phenomenon|treasure|hoarded wealth|condition
+73,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+73,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+73,almost,RB,NA,almost,about|almost|most|near|nearly|nigh|virtually|well-nigh,NA
+73,completely,RB,NA,complet,all|altogether|completely|entirely|right|totally|whole|wholly,
+73,derive,VBN,ed,deriv,come|deduce|deduct|derive|descend|educe|gain|infer,reason|reason out|conclude|obtain|evolve|make|create
+73,tourism,NN,NA,tourism,tourism|touristry,commercial enterprise|business enterprise|business
+74,change,NNS,s,chang,alteration|change|modification|variety,happening|occurrence|occurrent|natural event|relation|action|consequence|effect|outcome|result|event|issue|upshot|cash|hard cash|hard currency|thing|clothing|article of clothing|vesture|wear|wearable|habiliment|coin|difference
+74,mainland,NN,NA,mainland,mainland,land|dry land|earth|ground|solid ground|terra firma
+74,spain,NNP,NA,spain,Espana|Kingdom of Spain|Spain,
+74,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+74,inevitably,RB,NA,inevit,ineluctably|inescapably|inevitably|necessarily|needs|of necessity|unavoidably,
+74,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+74,feel,VBN,ed,feel,experience|feel|find|finger|palpate|sense,reason|reason out|conclude|perceive|comprehend|be|think|believe|consider|conceive|experience|see|go through|look|appear|seem|search|seek|look for|touch|find|regain
+74,ibiza,NNP,NA,ibiza,,NA
+74,also,RB,NA,also,also|as well|besides|likewise|too,NA
+74,effect,NN,NA,effect,burden|consequence|core|effect|essence|event|force|gist|impression|issue|outcome|result|upshot,phenomenon|appearance|visual aspect|impression|feeling|belief|notion|opinion|meaning|significance|signification|import|validity|validness|symptom
+74,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+74,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+74,largely,RB,NA,larg,for the most part|largely|mostly,NA
+74,beneficial,JJ,NA,benefici,beneficial|good,
+75,socialist,NNP,NA,socialist,socialist,politician|politico|pol|political leader
+75,worker,NNP,s,worker,actor|doer|prole|proletarian|worker,person|individual|someone|somebody|mortal|soul|commoner|common man|common person|insect
+75,party,NNP,NA,parti,company|party|political party,organization|organisation|social gathering|social affair|set|circle|band|lot|affair|occasion|social occasion|function|social function|person|individual|someone|somebody|mortal|soul
+75,felipe,NNP,NA,felip,,NA
+75,gonzález,NNP,NA,gonzález,,NA
+75,márquez,NNP,NA,márquez,,NA
+75,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+75,elect,VBN,ed,elect,elect,choose|take|select|pick out|choose|take|select|pick out
+75,1982,CD,NA,1982,NA,NA
+75,government,NN,NA,govern,administration|authorities|governance|governing|government|government activity|political science|politics|regime,polity|social control|system|system of rules|social science
+75,commit,VBD,ed,commit,charge|commit|confide|consecrate|dedicate|devote|entrust|give|institutionalise|institutionalize|intrust|invest|perpetrate|place|practice|pull|put|send|trust,act|move|use|utilize|utilise|apply|employ|transfer|pass|hand|reach|pass on|turn over|give|spend|expend|drop|prosecute|engage|pursue
+75,spain,NNP,NA,spain,Espana|Kingdom of Spain|Spain,
+75,s,VBZ,NA,NA,,NA
+75,integration,NN,NA,integr,consolidation|desegregation|integrating|integration,group action|combination|combining|compounding|mathematical process|mathematical operation|operation
+75,european,NNP,NA,european,European,inhabitant|habitant|dweller|denizen|indweller
+75,union,NNP,NA,union,brotherhood|conglutination|conjugation|coupling|join|jointure|labor union|marriage|mating|matrimony|North|pairing|sexual union|spousal relationship|sum|trade union|trades union|unification|union|Union|uniting|wedlock,organization|organisation|sexual activity|sexual practice|sex|sex activity|state|marital status|healing|political unit|political entity|set|happening|occurrence|occurrent|natural event|device|combination|combining|compounding
+75,formerly,RB,NA,formerli,at one time|erst|erstwhile|formerly|once,NA
+75,european,NNP,NA,european,European,inhabitant|habitant|dweller|denizen|indweller
+75,community,NNP,NA,commun,biotic community|community|community of interests|residential area|residential district,gathering|assemblage|people|ownership|world organization|world organisation|international organization|international organisation|global organization|agreement|accord|district|territory|territorial dominion|dominion|group|grouping
+76,precondition,NN,NA,precondit,condition|given|precondition|presumption|stipulation,premise|premiss|assumption|supposition|supposal|prerequisite|requirement
+76,admission,NN,NA,admiss,access|accession|admission|admission charge|admission fee|admission price|admittance|entrance fee|entrance money|entree|price of admission,entrance|entering|entry|ingress|incoming|acknowledgment|acknowledgement|fee|right
+76,border,NN,NA,border,border|borderline|boundary line|delimitation|edge|margin|mete|molding|moulding|perimeter,boundary|bound|bounds|edge
+76,gibraltar,NNP,NA,gibraltar,Calpe|Gibraltar|Rock of Gibraltar,
+76,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+76,reopen,VBN,ed,reopen,reopen,open|open up
+76,1985,CD,NA,1985,NA,NA
+76,16,CD,NA,16,NA,NA
+77,year,NN,NA,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+77,hiatus,NN,NA,hiatu,abatement|foramen|hiatus|reprieve|respite|suspension,interruption|break|piece|opening|gap
+77,spain,NNP,NA,spain,Espana|Kingdom of Spain|Spain,
+77,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+77,admit,VBN,ed,admit,accept|accommodate|acknowledge|admit|allow|allow in|hold|include|intromit|let in|take|take on,NA
+77,eu,NNP,NA,eu,atomic number 63|Common Market|EC|EEC|Eu|EU|Europe|European Community|European Economic Community|European Union|europium,metallic element|metal|world organization|world organisation|international organization|international organisation|global organization
+77,1986,CD,NA,1986,NA,NA
+78,spite,NN,NA,spite,bitchiness|cattiness|malice|maliciousness|nastiness|spite|spitefulness|venom,malevolence|malignity|malevolency|malice
+78,high,JJ,NA,high,eminent|gamey|gamy|high|high-pitched|in high spirits|mellow,
+78,unemployment,NN,NA,unemploy,unemployment,state
+78,separatist,JJ,NA,separatist,breakaway|fissiparous|separatist,
+78,rumbling,NNS,s,rumbl,grumble|grumbling|rumble|rumbling,noise
+78,country,NN,NA,countri,area|body politic|commonwealth|country|land|nation|res publica|rural area|state,political unit|political entity|administrative district|administrative division|territorial division|people|geographical area|geographic area|geographical region|geographic region|region
+78,s,VBZ,NA,NA,,NA
+78,economic,JJ,NA,econom,economic|economical,
+78,growth,NN,NA,growth,development|emergence|growing|growth|increase|increment|maturation|ontogenesis|ontogeny|outgrowth,organic process|biological process|development|evolution|process|physical process|vegetation|flora|botany|beginning|illness|unwellness|malady|sickness|object|physical object
+78,rate,NN,NA,rate,charge per unit|pace|rate,magnitude relation|quantitative relation|charge|temporal property|proportion
+78,remain,VBD,ed,remain,continue|persist|remain|rest|stay|stay on,be
+78,one,CD,NA,on,NA,NA
+78,highest,JJS,NA,highest,,NA
+78,western,JJ,NA,western,westerly|western,
+78,europe,NNP,NA,europ,Common Market|EC|EEC|EU|Europe|European Community|European Economic Community|European Union,world organization|world organisation|international organization|international organisation|global organization|collection|aggregation|accumulation|assemblage
+78,1980,CD,NA,1980,NA,NA
+78,s,VBZ,NA,NA,,NA
+79,ibiza,NNP,NA,ibiza,,NA
+79,s,VBZ,NA,NA,,NA
+79,popularity,NN,NA,popular,popularity,quality
+79,holiday,NN,NA,holidai,holiday|vacation,leisure|leisure time|day
+79,destination,NN,NA,destin,address|destination|finish|goal|name and address|terminus,end|terminal|goal|end|direction|instruction
+79,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+79,never,RB,NA,never,ne'er|never,NA
+79,wan,VBN,ed,wan,wan,sicken|come down
+79,event,NNS,s,event,case|consequence|effect|event|issue|outcome|result|upshot,psychological feature|circumstance|physical phenomenon|phenomenon
+79,past,JJ,NA,past,past|past(a)|preceding(a)|retiring(a),
+79,few,JJ,NA,few,few,
+79,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+79,—,NN,NA,—,,NA
+79,seville,NNP,NA,sevil,Sevilla|Seville,
+79,expo,NNP,NA,expo,exhibition|expo|exposition,collection|aggregation|accumulation|assemblage
+79,92,CD,NA,92,NA,NA
+79,barcelona,NNP,NA,barcelona,Barcelona,
+79,olympics,NNPS,NA,olymp,Olympiad|Olympic Games|Olympics,athletic contest|athletic competition|athletics
+79,—,NN,NA,—,,NA
+79,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+79,ensured,JJ,NA,ensur,,NA
+79,continued,JJ,NA,continu,continued,
+79,success,NN,NA,success,achiever|succeeder|success|winner,happening|occurrence|occurrent|natural event|attainment|prosperity|successfulness|person|individual|someone|somebody|mortal|soul

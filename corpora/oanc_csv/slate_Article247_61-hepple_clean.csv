@@ -1,0 +1,211 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,do,VBD,ed,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+1,clinton-hating,NNP,NA,clinton-h,,NA
+1,gossipmonger,NN,NA,gossipmong,gossip|gossiper|gossipmonger|newsmonger|rumormonger|rumourmonger,communicator
+1,matt,NNP,NA,matt,flatness|lusterlessness|lustrelessness|mat|matt|matte,dullness
+1,drudge,NNP,NA,drudg,drudge|galley slave|hack|hacker|navvy|peon,unskilled person|laborer|manual laborer|labourer|jack
+1,actually,RB,NA,actual,actually|in reality|really,NA
+1,do,VBP,NA,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+1,president,NN,NA,presid,chair|chairman|chairperson|chairwoman|Chief Executive|president|President|President of the United States|prexy|United States President,corporate executive|business executive|head of state|chief of state|presiding officer|academic administrator|presidency|presidentship
+1,favor,NN,NA,favor,favor|favour|party favor|party favour,kindness|benignity|advantage|vantage|inclination|disposition|tendency|approval|keepsake|souvenir|token|relic
+1,force,VBG,ing,forc,coerce|drive|force|hale|impel|pressure|push|ram|squeeze|storm|thrust|wedge,compel|oblige|obligate|cause|do|make|move|displace|thrust|act|penetrate|perforate
+1,monica,NNP,NA,monica,,NA
+1,lewinsky,NNP,NA,lewinski,,NA
+1,story,NN,NA,stori,account|chronicle|fib|floor|history|level|narration|narrative|news report|report|storey|story|tale|taradiddle|tarradiddle|write up,message|content|subject matter|substance|fiction|structure|construction|record|news|lie|prevarication
+1,open,NN,NA,open,clear|open|open air|out-of-doors|outdoors|surface,area|country|outside|exterior|tournament|tourney|public knowledge|general knowledge
+1,special,JJ,NA,special,especial(a)|exceptional|extra|limited|particular|particular(a)|peculiar(a)|special|special(a),
+1,prosecutor,NN,NA,prosecutor,prosecuting attorney|prosecuting officer|prosecutor|public prosecutor,official|functionary|lawyer|attorney
+1,kenneth,NNP,NA,kenneth,,NA
+1,starr,NNP,NA,starr,Richard Starkey|Ringo Starr|Starkey|Starr,
+1,wire,VB,NA,wire,cable|electrify|telegraph|wire,equip|fit|fit out|outfit|telecommunicate|fasten|fix|secure|string|thread|draw|adapt|accommodate
+1,up,RB,NA,up,up|upward|upwardly|upwards,NA
+1,get,VB,NA,get,acquire|aim|amaze|arrest|arrive|baffle|beat|become|beget|begin|bewilder|bring|bring forth|bugger off|buzz off|capture|catch|cause|come|commence|contract|convey|develop|draw|drive|dumbfound|engender|experience|father|fetch|find|fix|flummox|fuck off|generate|get|get down|get under one's skin|go|gravel|grow|have|incur|induce|let|make|mother|mystify|nonplus|obtain|pay back|pay off|perplex|pose|produce|puzzle|receive|scram|set about|set out|sire|start|start out|stick|stimulate|stupefy|suffer|sustain|take|vex,change state|turn|make|get|change|transmit|transfer|transport|channel|channelize|channelise|undergo|get even|get back|score|hit|tally|rack up|seize|prehend|clutch|sicken|come down|communicate|intercommunicate|alter|modify|mean|intend|understand|attract|pull|pull in|draw|draw in|acquire|buy|purchase|hear|hurt|ache|suffer|leave|go forth|go away|catch|annoy|rag|get to|bother|get at|irritate|rile|nark|nettle|gravel|vex|chafe|devil|touch|stir|reproduce|effect|effectuate|set up|destroy|ruin|confuse|throw|fox|befuddle|fuddle|bedevil|confound|discombobulate|experience|receive|have|create
+1,clinton,NNP,NA,clinton,Bill Clinton|Clinton|DeWitt Clinton|Hilary Clinton|Hilary Rodham Clinton|President Clinton|William Jefferson Clinton,
+1,say,VB,NA,sai,allege|articulate|aver|enjoin|enounce|enunciate|order|pronounce|read|say|sound out|state|suppose|tell,express|verbalize|verbalise|utter|give tongue to|assert|asseverate|maintain|speculate|have|feature|request|convey|recite|read|register|show|record
+1,something,NN,NA,someth,,NA
+1,damaging,JJ,NA,damag,damaging|detrimental|negative|prejudicial|prejudicious,
+1,tape,NN,NA,tape,mag tape|magnetic tape|tape|tape measure|tape recording|tapeline|taping,strip|slip|recording|finishing line|finish line|measuring instrument|measuring system|measuring device|memory device|storage device
+1,starr,NNP,NA,starr,Richard Starkey|Ringo Starr|Starkey|Starr,
+1,apparently,RB,NA,appar,apparently|evidently|manifestly|obviously|on the face of it|ostensibly|patently|plain|plainly|seemingly,
+1,plan,VBD,ed,plan,be after|contrive|design|plan|project,intend|mean|think|cogitate|cerebrate|create by mental act|create mentally
+1,do,VB,NA,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+3,clinton,NNP,NA,clinton,Bill Clinton|Clinton|DeWitt Clinton|Hilary Clinton|Hilary Rodham Clinton|President Clinton|William Jefferson Clinton,
+3,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+3,have,VBN,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+3,affair,NNS,s,affair,affair|affaire|amour|function|intimacy|involvement|liaison|matter|occasion|social function|social occasion|thing,concern|sexual relationship|social event
+3,dozen,NNS,s,dozen,12|dozen|twelve|XII,large integer
+3,woman,NNS,s,woman,adult female|char|charwoman|cleaning lady|cleaning woman|fair sex|woman|womanhood,female|female person|adult|grownup|cleaner|class|stratum|social class|socio-economic class
+3,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,woman,NNS,s,woman,adult female|char|charwoman|cleaning lady|cleaning woman|fair sex|woman|womanhood,female|female person|adult|grownup|cleaner|class|stratum|social class|socio-economic class
+3,hit,VBD,NA,hit,arrive at|attain|bump off|collide with|come to|dispatch|gain|hit|impinge on|make|murder|off|pip|polish off|rack up|reach|remove|run into|score|shoot|slay|strike|stumble|tally,propel|impel|touch|affect|impact|bear upon|bear on|touch on|injure|wound|come by|come into|gain|advance|win|pull ahead|make headway|get ahead|gain ground|attack|assail|kill|move|displace|arrive|get|come|succeed|come through|bring home the bacon|deliver the goods|approach
+3,do,VBD,ed,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+3,n't,RB,NA,n't,,NA
+3,have,VB,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+3,affair,NNS,s,affair,affair|affaire|amour|function|intimacy|involvement|liaison|matter|occasion|social function|social occasion|thing,concern|sexual relationship|social event
+4,do,VBZ,s,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+4,score,VBP,NA,score,grade|hit|make|mark|nock|rack up|score|seduce|tally,gain|advance|win|pull ahead|make headway|get ahead|gain ground|notch|record|enter|put down|compose|write|persuade|achieve|accomplish|attain|reach|measure|evaluate|valuate|assess|appraise|value
+4,time,NN,NA,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+5,chatterbox,NNP,NA,chatterbox,babbler|chatterbox|chatterer|Epipactis gigantea|giant helleborine|magpie|prater|spouter|stream orchid,helleborine|speaker|talker|utterer|verbalizer|verbaliser
+5,hit,NNS,s,hit,bang|collision|hit|hitting|smash|smasher|strike|striking,feat|effort|exploit|touch|touching|success|contact|impinging|striking|dose|dosage|murder|slaying|execution|joining|connection|connexion
+5,woman,NNS,s,woman,adult female|char|charwoman|cleaning lady|cleaning woman|fair sex|woman|womanhood,female|female person|adult|grownup|cleaner|class|stratum|social class|socio-economic class
+5,success,NN,NA,success,achiever|succeeder|success|winner,happening|occurrence|occurrent|natural event|attainment|prosperity|successfulness|person|individual|someone|somebody|mortal|soul
+5,rate,NN,NA,rate,charge per unit|pace|rate,magnitude relation|quantitative relation|charge|temporal property|proportion
+5,is--well,JJ,NA,is--wel,,NA
+5,let,VB,NA,let,allow|countenance|get|have|lease|let|permit|rent,induce|stimulate|cause|have|get|make|accept|consent|go for|leave|leave alone|leave behind|let alone|give
+5,not,RB,NA,not,non|not,NA
+5,say,VB,NA,sai,allege|articulate|aver|enjoin|enounce|enunciate|order|pronounce|read|say|sound out|state|suppose|tell,express|verbalize|verbalise|utter|give tongue to|assert|asseverate|maintain|speculate|have|feature|request|convey|recite|read|register|show|record
+5,rate,NN,NA,rate,charge per unit|pace|rate,magnitude relation|quantitative relation|charge|temporal property|proportion
+5,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+6,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+6,less,JJR,NA,less,less|less(a),
+6,100,CD,NA,100,NA,NA
+6,percent--less,JJ,NA,percent--less,,NA
+6,50,CD,NA,50,NA,NA
+6,percent,NN,NA,percent,pct|per centum|percent|percentage,proportion
+6,even,RB,NA,even,even|still|yet,NA
+8,american,NNP,NA,american,American|American English|American language,inhabitant|habitant|dweller|denizen|indweller|English|English language
+8,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+8,happiest,NN,NA,happiest,,NA
+8,clinton,NNP,NA,clinton,Bill Clinton|Clinton|DeWitt Clinton|Hilary Clinton|Hilary Rodham Clinton|President Clinton|William Jefferson Clinton,
+8,current,JJ,NA,current,current,
+8,predicament,NN,NA,predica,plight|predicament|quandary,difficulty
+9,chatterbox,NNP,NA,chatterbox,babbler|chatterbox|chatterer|Epipactis gigantea|giant helleborine|magpie|prater|spouter|stream orchid,helleborine|speaker|talker|utterer|verbalizer|verbaliser
+9,nominate,NNS,s,nomin,,NA
+9,gary,NNP,NA,gari,Gary,
+9,hart,NNP,NA,hart,hart|Hart|Lorenz Hart|Lorenz Milton Hart|Moss Hart|stag,red deer|elk|American elk|wapiti|Cervus elaphus
+9,have,VB,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+9,spend,VBN,ed,spend,drop|expend|pass|spend,pay|consume|eat up|use up|eat|deplete|exhaust|run through|wipe out
+9,past,JJ,NA,past,past|past(a)|preceding(a)|retiring(a),
+9,five,CD,NA,five,NA,NA
+9,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+9,wonder,VBG,ing,wonder,enquire|inquire|marvel|question|wonder,question|query|chew over|think over|meditate|ponder|excogitate|contemplate|muse|reflect|mull|mull over|ruminate|speculate|react|respond
+9,clinton,NNP,NA,clinton,Bill Clinton|Clinton|DeWitt Clinton|Hilary Clinton|Hilary Rodham Clinton|President Clinton|William Jefferson Clinton,
+9,get,VBD,ed,get,acquire|aim|amaze|arrest|arrive|baffle|beat|become|beget|begin|bewilder|bring|bring forth|bugger off|buzz off|capture|catch|cause|come|commence|contract|convey|develop|draw|drive|dumbfound|engender|experience|father|fetch|find|fix|flummox|fuck off|generate|get|get down|get under one's skin|go|gravel|grow|have|incur|induce|let|make|mother|mystify|nonplus|obtain|pay back|pay off|perplex|pose|produce|puzzle|receive|scram|set about|set out|sire|start|start out|stick|stimulate|stupefy|suffer|sustain|take|vex,change state|turn|make|get|change|transmit|transfer|transport|channel|channelize|channelise|undergo|get even|get back|score|hit|tally|rack up|seize|prehend|clutch|sicken|come down|communicate|intercommunicate|alter|modify|mean|intend|understand|attract|pull|pull in|draw|draw in|acquire|buy|purchase|hear|hurt|ache|suffer|leave|go forth|go away|catch|annoy|rag|get to|bother|get at|irritate|rile|nark|nettle|gravel|vex|chafe|devil|touch|stir|reproduce|effect|effectuate|set up|destroy|ruin|confuse|throw|fox|befuddle|fuddle|bedevil|confound|discombobulate|experience|receive|have|create
+9,away,RB,NA,awai,aside|away|by|forth|off|out,NA
+11,paranoid,NNP,NA,paranoid,paranoiac|paranoid,psychotic|psychotic person|psycho
+11,corner,NN,NA,corner,box|corner|niche|nook|quoin|recess|recession|street corner|turning point,area|country|point|intersection|crossroad|crossway|crossing|carrefour|concave shape|concavity|incurvation|incurvature|monopoly|predicament|quandary|plight|part|piece|structure|construction
+12,few,JJ,NA,few,few,
+12,week,NNS,s,week,calendar week|hebdomad|week|workweek,time period|period of time|period|work time
+12,front-page,JJ,NA,front-pag,,NA
+12,new,NNP,NA,new,,NA
+12,york,NNP,NA,york,House of York|York,dynasty|royalty|royal family|royal line|royal house
+12,time,NNP,s,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+12,story,NN,NA,stori,account|chronicle|fib|floor|history|level|narration|narrative|news report|report|storey|story|tale|taradiddle|tarradiddle|write up,message|content|subject matter|substance|fiction|structure|construction|record|news|lie|prevarication
+12,disappearance,NN,NA,disappear,disappearance|disappearing|fade,departure|going|going away|leaving|happening|occurrence|occurrent|natural event|termination|ending|conclusion
+12,lucrative,JJ,NA,lucr,lucrative|moneymaking|remunerative,
+12,speaking,NN,NA,speak,oral presentation|public speaking|speaking|speech production|speechmaking,utterance|vocalization|address|speech
+12,engagement,NNS,s,engag,appointment|battle|betrothal|booking|conflict|date|employment|engagement|fight|interlocking|involution|involvement|mesh|meshing|participation|troth,military action|action|meeting|get together|promise|employment|work|contact|impinging|striking|group action
+12,washington,NNP,NA,washington,American capital|Booker T. Washington|Booker Taliaferro Washington|Capital|capital of the United States|Evergreen State|George Washington|President Washington|WA|Wash.|Washington|Washington D.C.,
+12,pundit,NNS,s,pundit,initiate|learned person|pundit|savant,scholar|scholarly person|bookman|student
+12,huge,JJ,NA,huge,Brobdingnagian|huge|immense|vast,
+12,scandal,NN,NA,scandal,dirt|malicious gossip|outrage|scandal,gossip|comment|scuttlebutt|trouble
+12,break,NNS,s,break,breach|break|break of serve|breakage|breaking|breakout|disruption|falling out|fault|faulting|fracture|gaolbreak|gap|geological fault|good luck|happy chance|intermission|interruption|jailbreak|open frame|pause|prison-breaking|prisonbreak|recess|respite|rift|rupture|severance|shift|suspension|time out,happening|occurrence|occurrent|natural event|accident|stroke|fortuity|chance event|crack|cleft|crevice|fissure|scissure|separation|breakup|detachment|pause|change of integrity|time interval|interval|injury|hurt|harm|trauma|change|alteration|modification|shot|score|delay|holdup|dash|sprint|escape|flight
+12,surely,RB,NA,sure,certainly|for certain|for sure|sure|sure as shooting|sure enough|surely,
+12,revive,VB,NA,reviv,animate|come to|quicken|reanimate|recreate|renovate|repair|resurrect|resuscitate|revive|revivify|vivify,bring to|bring back|bring round|bring around|stimulate|arouse|brace|energize|energise|perk up|boom|thrive|flourish|expand|regenerate|restore|rejuvenate|change state|turn
+12,demand,NN,NA,demand,demand|need|requirement,request|petition|postulation|economic process|duty|responsibility|obligation|activity|condition|status
+14,speech,NNS,s,speech,actor's line|address|delivery|language|lecture|manner of speaking|oral communication|speech|speech communication|spoken communication|spoken language|talking to|voice communication|words,speech act|auditory communication|utterance|vocalization|speaking|speech production|expressive style|style|rebuke|reproof|reproval|reprehension|reprimand|line|faculty|mental faculty|module
+14,washington,NNP,NA,washington,American capital|Booker T. Washington|Booker Taliaferro Washington|Capital|capital of the United States|Evergreen State|George Washington|President Washington|WA|Wash.|Washington|Washington D.C.,
+14,pundit,NNS,s,pundit,initiate|learned person|pundit|savant,scholar|scholarly person|bookman|student
+14,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+14,retail,VB,NA,retail,retail,sell
+14,titillate,VBG,ing,titil,tickle|titillate|vellicate,itch|stimulate|shake|shake up|excite|stir
+14,tidbit,NNS,s,tidbit,choice morsel|tidbit|titbit,dainty|delicacy|goody|kickshaw|treat
+14,let,VB,NA,let,allow|countenance|get|have|lease|let|permit|rent,induce|stimulate|cause|have|get|make|accept|consent|go for|leave|leave alone|leave behind|let alone|give
+14,tell,VB,NA,tell,assure|differentiate|distinguish|enjoin|evidence|narrate|order|recite|recount|say|secern|secernate|separate|severalise|severalize|state|tell|tell apart,express|verbalize|verbalise|utter|give tongue to|inform|request|guess|infer|affirm|verify|assert|avow|aver|swan|swear|identify|place
+14,vernon,NNP,NA,vernon,,NA
+14,jordan,NNP,NA,jordan,Hashemite Kingdom of Jordan|Jordan|Jordan River,
+14,know,VBP,NA,know,acknowledge|bang|be intimate|bed|bonk|cognise|cognize|do it|eff|experience|fuck|get it on|get laid|have a go at it|have intercourse|have it away|have it off|have sex|hump|jazz|know|lie with|live|love|make love|make out|recognise|recognize|roll in the hay|screw|sleep together|sleep with,experience|see|go through|accept|copulate|mate|pair|couple|recognize|recognise|realize|realise|agnize|agnise|distinguish|separate|differentiate|secern|secernate|severalize|severalise|tell|tell apart|remember|retrieve|recall|call back|call up|recollect|think
+16,mere,NNP,NA,mere,mere,pond|pool
+16,coincidence,NN,NA,coincid,co-occurrence|coincidence|concurrence|conjunction|happenstance,accident|stroke|fortuity|chance event|position|spatial relation|simultaneity|simultaneousness
+17,chatterbox,NNP,NA,chatterbox,babbler|chatterbox|chatterer|Epipactis gigantea|giant helleborine|magpie|prater|spouter|stream orchid,helleborine|speaker|talker|utterer|verbalizer|verbaliser
+17,friend,NN,NA,friend,acquaintance|admirer|ally|booster|champion|friend|Friend|protagonist|Quaker|supporter,person|individual|someone|somebody|mortal|soul|associate|advocate|advocator|proponent|exponent|Christian
+17,walter,NNP,NA,walter,Bruno Walter|Walter,
+17,point,VBD,ed,point,aim|bespeak|betoken|channelise|channelize|charge|designate|direct|guide|head|indicate|level|luff|maneuver|manoeuver|manoeuvre|orient|place|point|repoint|sharpen|show|signal|steer|taper|target,inform|lie|aim|take|train|take aim|direct|control|command|tell|sail|tag|label|mark|be|indicate|point|designate|show|change shape|change form|deform|repair|mend|fix|bushel|doctor|furbish up|restore|touch on
+17,think,VBZ,s,think,believe|call back|call up|cerebrate|cogitate|conceive|consider|guess|imagine|intend|mean|opine|recall|reckon|recollect|remember|retrieve|suppose|think,evaluate|pass judgment|judge|expect|anticipate|imagine|conceive of|ideate|envisage|concentrate|focus|center|centre|pore|rivet|think|cogitate|cerebrate|believe|consider|conceive|change|alter|modify
+17,not,RB,NA,not,non|not,NA
+19,1994,CD,NA,1994,NA,NA
+19,defend,VBG,ing,defend,champion|defend|fend for|fight|fight back|fight down|guard|hold|maintain|oppose|represent|support,argue|reason|prevent|keep|protect|contend|fight|struggle|back|endorse|indorse|plump for|plunk for|support|affirm
+19,president,NNP,NA,presid,chair|chairman|chairperson|chairwoman|Chief Executive|president|President|President of the United States|prexy|United States President,corporate executive|business executive|head of state|chief of state|presiding officer|academic administrator|presidency|presidentship
+19,clinton,NNP,NA,clinton,Bill Clinton|Clinton|DeWitt Clinton|Hilary Clinton|Hilary Rodham Clinton|President Clinton|William Jefferson Clinton,
+19,right-wing,NN,NA,right-w,,NA
+19,hit,NN,NA,hit,bang|collision|hit|hitting|smash|smasher|strike|striking,feat|effort|exploit|touch|touching|success|contact|impinging|striking|dose|dosage|murder|slaying|execution|joining|connection|connexion
+19,man,NN,NA,man,adult male|gentleman|gentleman's gentleman|homo|human|human being|human beings|human race|humanity|humankind|humans|Isle of Man|man|Man|mankind|military man|military personnel|piece|serviceman|valet|valet de chambre|world,male|male person|adult|grownup|skilled worker|trained worker|skilled workman|person|individual|someone|somebody|mortal|soul|hominid|subordinate|subsidiary|underling|foot soldier|manservant|body servant|lover|game equipment|homo|man|human being|human|group|grouping
+19,david,NNP,NA,david,David|Jacques Louis David|Saint David|St. David,
+19,brock,NNP,NA,brock,,NA
+19,liberal,JJ,NA,liber,big|bighearted|bounteous|bountiful|broad|free|freehanded|giving|handsome|large-minded|liberal|loose|openhanded|tolerant,
+19,pundit,NN,NA,pundit,initiate|learned person|pundit|savant,scholar|scholarly person|bookman|student
+19,write,VBD,ed,write,compose|drop a line|indite|pen|save|spell|write,create verbally|communicate|intercommunicate|correspond|make|create|trace|draw|line|describe|delineate|record|tape|create by mental act|create mentally
+20,bother,VB,NA,bother,annoy|bother|chafe|devil|discommode|disoblige|get at|get to|gravel|incommode|inconvenience|inconvenience oneself|irritate|nark|nettle|put out|rag|rile|trouble|trouble oneself|vex,strive|reach|strain|displease|affect|impact|bear upon|bear on|touch on|touch|intrude|irrupt|agitate|rouse|turn on|charge|commove|excite|charge up|confuse|flurry|disconcert|put off
+20,greatly,RB,NA,greatli,greatly,
+20,clinton,NNP,NA,clinton,Bill Clinton|Clinton|DeWitt Clinton|Hilary Clinton|Hilary Rodham Clinton|President Clinton|William Jefferson Clinton,
+20,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+20,still,RB,NA,still,all the same|at the same time|even|even so|however|nevertheless|nonetheless|notwithstanding|still|stock-still|withal|yet,NA
+20,mess,VBG,ing,mess,mess|mess up,eat|disorder|disarray
+20,60,CD,NA,60,NA,NA
+20,minute,NNPS,s,minut,arcminute|bit|hour|instant|min|minute|minute of arc|mo|moment|second,time unit|unit of time|time|point|point in time|angular unit|note|distance
+20,interview--let,JJ,NA,interview--let,,NA
+20,alone,RB,NA,alon,alone|entirely|exclusively|only|solely|solo|unaccompanied,
+20,election,NN,NA,elect,election,vote|choice|selection|option|pick|status|position|predestination|foreordination|preordination|predetermination
+21,reveal,VB,NA,reveal,break|bring out|disclose|discover|divulge|expose|give away|let on|let out|reveal|uncover|unveil|unwrap,show|tell|unwrap|disclose|let on|bring out|reveal|discover|expose|divulge|break|give away|let out|uncover
+21,brutal,JJ,NA,brutal,barbarous|beastly|bestial|brutal|brute(a)|brutish|cruel|fell|roughshod|savage|unrelenting|vicious,
+21,willingness,NN,NA,willing,willingness,disposition|temperament
+21,deceive,VB,NA,deceiv,betray|cozen|deceive|delude|lead astray|lead on,victimize|victimise|misinform|mislead
+21,public--way,JJ,NA,public--wai,,NA
+21,normal,JJ,NA,normal,normal,
+21,politician,NNS,s,politician,pol|political leader|politician|politico,leader|schemer|plotter
+21,cynicism--a,JJ,s,cynicism--a,,NA
+21,well,RB,NA,well,advantageously|comfortably|considerably|easily|good|intimately|substantially|well,NA
+21,frightening,JJ,NA,frighten,awful|dire|direful|dread(a)|dreaded|dreadful|fearful|fearsome|frightening|horrendous|horrific|terrible,
+21,lack,NN,NA,lack,deficiency|lack|want,need|demand
+21,self-control,NN,NA,self-control,possession|self-command|self-control|self-denial|self-discipline|self-possession|self-will|will power|willpower,control|resoluteness|firmness|firmness of purpose|resolve|resolution
+23,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+23,liberal,JJ,NA,liber,big|bighearted|bounteous|bountiful|broad|free|freehanded|giving|handsome|large-minded|liberal|loose|openhanded|tolerant,
+23,pundit,NN,NA,pundit,initiate|learned person|pundit|savant,scholar|scholarly person|bookman|student
+24,michael,NNP,NA,michael,Michael,archangel
+24,kinsley,NNP,NA,kinslei,,NA
+24,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+24,slate,NNP,NA,slate,slate|slating|ticket,tablet|roofing material|sedimentary rock|list|listing
+24,editor,NN,NA,editor,editor|editor in chief|editor program,skilled worker|trained worker|skilled workman|application|application program|applications programme
+25,prepare,NNP,NA,prepar,,NA
+25,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+25,bother,VBN,ed,bother,annoy|bother|chafe|devil|discommode|disoblige|get at|get to|gravel|incommode|inconvenience|inconvenience oneself|irritate|nark|nettle|put out|rag|rile|trouble|trouble oneself|vex,strive|reach|strain|displease|affect|impact|bear upon|bear on|touch on|touch|intrude|irrupt|agitate|rouse|turn on|charge|commove|excite|charge up|confuse|flurry|disconcert|put off
+25,greatly,RB,NA,greatli,greatly,
+25,buddy,NN,NA,buddi,brother|buddy|chum|crony|pal|sidekick,friend
+27,speaking,NN,NA,speak,oral presentation|public speaking|speaking|speech production|speechmaking,utterance|vocalization|address|speech
+27,paranoia,NN,NA,paranoia,paranoia,psychosis
+28,retrospect,NN,NA,retrospect,retrospect,contemplation|reflection|reflexion|rumination|musing|thoughtfulness
+28,maybe,RB,NA,mayb,maybe|mayhap|peradventure|perchance|perhaps|possibly,NA
+28,hillary,NNP,NA,hillari,Edmund Hillary|Hillary|Sir Edmund Hillary|Sir Edmund Percival Hillary,
+28,clinton,NNP,NA,clinton,Bill Clinton|Clinton|DeWitt Clinton|Hilary Clinton|Hilary Rodham Clinton|President Clinton|William Jefferson Clinton,
+28,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+28,n't,RB,NA,n't,,NA
+28,so,RB,NA,so,and so|hence|indeed|so|then|thence|therefore|thus|thusly,NA
+28,crazy,JJ,NA,crazi,brainsick|crazy|demented|disturbed|dotty|gaga|half-baked|mad|screwball|sick|softheaded|unbalanced|unhinged|wild,
+28,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+28,concern,VBN,ed,concern,bear on|come to|concern|have to do with|interest|occupy|pertain|refer|relate|touch|touch on|worry,
+28,rid,VBG,ing,rid,disembarrass|free|rid,
+28,white,NNP,NA,white,albumen|Andrew D. White|Andrew Dickson White|Caucasian|E. B. White|Edward D. White|Edward Douglas White Jr.|Edward White|egg white|Elwyn Brooks White|flannel|gabardine|ovalbumin|Patrick Victor Martindale White|Patrick White|Stanford White|T. H. White|Theodore Harold White|tweed|white|White|White person|White River|whiteness,person|individual|someone|somebody|mortal|soul|achromatic color|achromatic colour|ingredient|fixings|man|piece|trousers|pair of trousers|pant
+28,house,NNP,NA,hous,business firm|family|firm|home|house|household|mansion|menage|planetary house|sign|sign of the zodiac|star sign|theater|theatre,dwelling|home|domicile|abode|habitation|dwelling house|building|edifice|business|concern|business concern|business organization|business organisation|community|audience|legislature|legislative assembly|legislative body|general assembly|law-makers|family|family line|folk|kinfolk|kinsfolk|sept|phratry|play|child's play|region|part|management|unit|social unit
+28,bush,NNP,NA,bush,bush|Bush|chaparral|crotch hair|Dubya|Dubyuh|George Bush|George H. W. Bush|George H.W. Bush|George Herbert Walker Bush|George W. Bush|George Walker Bush|President Bush|President George W. Bush|pubic hair|scrub|shrub|Vannevar Bush,woody plant|ligneous plant|wilderness|wild|vegetation|flora|botany|hair
+28,holdover,NNS,s,holdov,hangover|holdover,official|functionary|survival
+28,husband,NN,NA,husband,hubby|husband|married man,spouse|partner|married person|mate|better half
+28,take,VBD,ed,take,accept|acquire|admit|adopt|aim|ask|assume|bring|call for|carry|charter|choose|claim|conduct|consider|consume|contain|contract|convey|deal|demand|direct|drive|engage|exact|fill|film|get|get hold of|guide|have|hire|hold|ingest|involve|lead|learn|lease|look at|make|necessitate|need|occupy|pack|pick out|postulate|read|remove|rent|require|select|shoot|strike|study|submit|subscribe|subscribe to|take|take aim|take away|take in|take on|take up|train|use up|withdraw,NA
+28,office,NN,NA,offic,agency|authority|berth|billet|bureau|business office|federal agency|function|government agency|office|office staff|part|place|position|post|power|role|situation|spot,place of business|business establishment|administrative unit|administrative body|duty|state|staff|rite|religious rite|occupation|business|job|line of work|line
+29,one,CD,NA,on,NA,NA
+29,holdover,NNS,s,holdov,hangover|holdover,official|functionary|survival
+29,linda,NNP,NA,linda,,NA
+29,tripp,NNP,NA,tripp,,NA
+29,make,VBD,ed,make,arrive at|attain|bring in|build|ca-ca|cause|clear|constitute|construct|cook|crap|create|defecate|do|draw|earn|establish|fix|form|gain|get|get to|give|have|hit|hold|induce|lay down|make|make believe|make up|make water|micturate|name|nominate|pass water|pee|pee-pee|piddle|piss|prepare|pretend|produce|progress to|puddle|pull in|reach|ready|realise|realize|relieve oneself|score|seduce|shit|spend a penny|stimulate|stool|take|take a crap|take a leak|take a shit|take in|throw|urinate|wee|wee-wee|work,change|alter|modify|make|create|create by mental act|create mentally|cause|do|get|acquire|constitute|represent|make up|comprise|be|achieve|accomplish|attain|reach|become|create from raw material|create from raw stuff|perform|execute|act|behave|appoint|charge|score|hit|tally|rack up|perpetrate|commit|pull|assemble|gather|get together|direct|tidy|tidy up|clean up|neaten|straighten|straighten out|square away|head|excrete|egest|eliminate|pass|total|number|add up|come|amount|look|appear|seem|arrive at|gain|persuade|guarantee|ensure|insure|assure|secure|play|see|consider|reckon|view|regard|estimate|gauge|approximate|guess|judge|develop|grow
+29,tape,NNS,s,tape,mag tape|magnetic tape|tape|tape measure|tape recording|tapeline|taping,strip|slip|recording|finishing line|finish line|measuring instrument|measuring system|measuring device|memory device|storage device
+29,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+29,threaten,VB,NA,threaten,endanger|imperil|jeopardise|jeopardize|menace|peril|threaten,exist|be|warn|bode|portend|auspicate|prognosticate|omen|presage|betoken|foreshadow|augur|foretell|prefigure|forecast|predict
+29,clinton,NNP,NA,clinton,Bill Clinton|Clinton|DeWitt Clinton|Hilary Clinton|Hilary Rodham Clinton|President Clinton|William Jefferson Clinton,
+29,presidency,NN,NA,presid,administration|presidency|presidential term|presidentship,tenure|term of office|incumbency|position|post|berth|office|spot|billet|place|situation
+30,bet,NNP,NA,bet,bet|stake|stakes|wager,gamble|gambling|gaming|play
+30,clinton,NNP,s,clinton,Bill Clinton|Clinton|DeWitt Clinton|Hilary Clinton|Hilary Rodham Clinton|President Clinton|William Jefferson Clinton,
+30,wish,VBP,NA,wish,bid|care|like|wish|wish well,desire|want|express|verbalize|verbalise|utter|give tongue to|order|greet|recognize|recognise
+30,get,VBN,en,get,acquire|aim|amaze|arrest|arrive|baffle|beat|become|beget|begin|bewilder|bring|bring forth|bugger off|buzz off|capture|catch|cause|come|commence|contract|convey|develop|draw|drive|dumbfound|engender|experience|father|fetch|find|fix|flummox|fuck off|generate|get|get down|get under one's skin|go|gravel|grow|have|incur|induce|let|make|mother|mystify|nonplus|obtain|pay back|pay off|perplex|pose|produce|puzzle|receive|scram|set about|set out|sire|start|start out|stick|stimulate|stupefy|suffer|sustain|take|vex,change state|turn|make|get|change|transmit|transfer|transport|channel|channelize|channelise|undergo|get even|get back|score|hit|tally|rack up|seize|prehend|clutch|sicken|come down|communicate|intercommunicate|alter|modify|mean|intend|understand|attract|pull|pull in|draw|draw in|acquire|buy|purchase|hear|hurt|ache|suffer|leave|go forth|go away|catch|annoy|rag|get to|bother|get at|irritate|rile|nark|nettle|gravel|vex|chafe|devil|touch|stir|reproduce|effect|effectuate|set up|destroy|ruin|confuse|throw|fox|befuddle|fuddle|bedevil|confound|discombobulate|experience|receive|have|create
+30,rid,VBN,NA,rid,disembarrass|free|rid,
+30,1993,CD,NA,1993,NA,NA
+30,travel-office,JJ,NA,travel-offic,,NA
+30,staff,NN,NA,staff,faculty|staff|stave,force|personnel|stick|body|building material|symbol|musical notation

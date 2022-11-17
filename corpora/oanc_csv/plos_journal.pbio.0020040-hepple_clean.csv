@@ -1,0 +1,732 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,people,NNS,NA,peopl,citizenry|hoi polloi|mass|masses|multitude|people|the great unwashed,group|grouping|family|family line|folk|kinfolk|kinsfolk|sept|phratry
+1,receive,VBD,ed,receiv,encounter|experience|find|get|have|incur|invite|meet|obtain|pick up|receive|take in|welcome,get|acquire|change|perceive|comprehend|undergo|accept|greet|recognize|recognise|convert|have|experience|celebrate|fete|partake|touch|see|consider|reckon|view|regard
+1,introduction,NN,NA,introduct,creation|debut|entry|first appearance|foundation|founding|initiation|innovation|insertion|instauration|institution|intro|introduction|intromission|launching|origination|presentation|unveiling,beginning|start|commencement|section|subdivision|informing|making known|textbook|text|text edition|schoolbook|school text|proposal|movement
+1,cancer,NN,NA,cancer,cancer|Cancer|Cancer the Crab|Crab|genus Cancer|malignant neoplastic disease,malignant tumor|malignant neoplasm|metastatic tumor|person|individual|someone|somebody|mortal|soul|arthropod genus
+1,genetics,NNS,NA,genet,genetic science|genetics,biology|biological science
+1,college,NN,NA,colleg,college,body|educational institution|building complex|complex
+1,first,JJ,NA,first,1st|beginning(a)|first|foremost|inaugural|initiative|initiatory|maiden|world-class,
+1,half,NN,NA,half,half|one-half,common fraction|simple fraction|part|section|division
+1,1990,CD,NA,1990,NA,NA
+1,s,VBZ,NA,NA,,NA
+1,everything,NN,NA,everyth,,NA
+1,look,VBD,ed,look,appear|attend|await|bank|bet|calculate|count|depend|expect|face|front|look|reckon|rely|search|see|seem|swear|take care|wait,be|examine|see|lie|care|give care|convey|match|fit|correspond|check|jibe|gibe|tally|agree|trust
+1,simple,JJ,NA,simpl,bare(a)|childlike|dewy-eyed|dim-witted|elementary|mere(a)|round-eyed|simple|simple-minded|simple(a)|uncomplicated|unproblematic|unsubdivided|wide-eyed,
+1,straightforward,JJ,NA,straightforward,aboveboard|square(a)|straight|straightforward,
+2,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+2,stuff,NN,NA,stuff,clobber|hooey|material|poppycock|stuff|stuff and nonsense,substance|object|physical object|personal property|personal estate|personalty|private property|nonsense|bunk|nonsensicality|meaninglessness|hokum|quality|information|info|kernel|core|center|centre|essence|gist|heart|heart and soul|inwardness|marrow|meat|nub|pith|sum|nitty-gritty
+2,explain,VB,NA,explain,excuse|explain|explicate,inform|state|say|tell|justify|vindicate
+2,sincerely,RB,NA,sincer,sincerely|sincerely yours|truly|unfeignedly,NA
+2,interested,JJ,NA,interest,concerned|interested,
+2,relative,NNS,s,rel,congenator|congener|congeneric|relation|relative,person|individual|someone|somebody|mortal|soul|organism|being
+2,want,VBD,ed,want,desire|need|require|want,be|search|seek|look for|demand|miss|lack
+2,know,VB,NA,know,acknowledge|bang|be intimate|bed|bonk|cognise|cognize|do it|eff|experience|fuck|get it on|get laid|have a go at it|have intercourse|have it away|have it off|have sex|hump|jazz|know|lie with|live|love|make love|make out|recognise|recognize|roll in the hay|screw|sleep together|sleep with,experience|see|go through|accept|copulate|mate|pair|couple|recognize|recognise|realize|realise|agnize|agnise|distinguish|separate|differentiate|secern|secernate|severalize|severalise|tell|tell apart|remember|retrieve|recall|call back|call up|recollect|think
+2,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+2,spend,VBG,ing,spend,drop|expend|pass|spend,pay|consume|eat up|use up|eat|deplete|exhaust|run through|wipe out
+2,time,NN,NA,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+3,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,oncogene,NNS,s,oncogen,oncogene|transforming gene,gene|cistron|factor
+3,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,tumour,NN,NA,tumour,neoplasm|tumor|tumour,growth
+3,suppressor,NN,NA,suppressor,suppresser|suppresser gene|suppressor|suppressor gene,restrainer|controller|gene|cistron|factor|electrical device
+3,gene,NNS,s,gene,cistron|factor|gene,sequence
+4,oncogene,NNS,s,oncogen,oncogene|transforming gene,gene|cistron|factor
+4,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+4,overactive,JJ,NA,overact,hyperactive|overactive,
+4,gene,NNS,s,gene,cistron|factor|gene,sequence
+4,protein,NNS,s,protein,protein,macromolecule|supermolecule
+4,somehow,RB,NA,somehow,somehow|someway|someways,NA
+4,cause,VBN,ed,caus,cause|do|get|have|induce|make|stimulate,make|create
+4,cancer,NN,NA,cancer,cancer|Cancer|Cancer the Crab|Crab|genus Cancer|malignant neoplastic disease,malignant tumor|malignant neoplasm|metastatic tumor|person|individual|someone|somebody|mortal|soul|arthropod genus
+4,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+4,overactive,JJ,NA,overact,hyperactive|overactive,
+5,therefore,RB,NA,therefor,consequently|hence|so|thence|therefore|thus,NA
+5,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+5,dominant,JJ,NA,domin,dominant|predominant|prevailing|prevalent|rife,
+6,tumour,NNP,NA,tumour,neoplasm|tumor|tumour,growth
+6,suppressor,NN,NA,suppressor,suppresser|suppresser gene|suppressor|suppressor gene,restrainer|controller|gene|cistron|factor|electrical device
+6,gene,NNS,s,gene,cistron|factor|gene,sequence
+6,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+6,gene,NNS,s,gene,cistron|factor|gene,sequence
+6,normally,RB,NA,normal,commonly|normally|ordinarily|unremarkably|usually,
+6,prevent,VB,NA,prevent,forbid|foreclose|forestall|keep|preclude|prevent,
+6,tumour,NN,NA,tumour,neoplasm|tumor|tumour,growth
+6,happen,VBG,ing,happen,bechance|befall|bump|chance|come about|encounter|fall out|find|go on|hap|happen|materialise|materialize|occur|pass|pass off|take place,happen|hap|go on|pass off|occur|pass|fall out|come about|take place|chance
+6,need,VBD,ed,need,ask|call for|demand|involve|necessitate|need|postulate|require|take|want,NA
+6,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+6,inactivated,JJ,NA,inactiv,,NA
+6,tumour,NN,NA,tumour,neoplasm|tumor|tumour,growth
+6,start,VB,NA,start,begin|bug out|bulge|bulge out|come out|commence|depart|embark on|get|get down|get going|go|initiate|jump|lead off|originate|part|pop|pop out|protrude|set about|set forth|set off|set out|start|start out|start up|startle|take off|take up,leave|go forth|go away|make|create|begin|lead off|start|commence|move|play|be|act|change shape|change form|deform
+6,form,VB,NA,form,constitute|forge|form|imprint|make|mold|mould|organise|organize|shape|spring|take form|take shape|work,make|create|constitute|represent|make up|comprise|be|become|change|alter|modify|create from raw material|create from raw stuff|influence|act upon|work
+7,copy,NNS,s,copi,copy|transcript|written matter,written record|written account|representation|text|textual matter|material
+7,tumour,NN,NA,tumour,neoplasm|tumor|tumour,growth
+7,suppressor,NN,NA,suppressor,suppresser|suppresser gene|suppressor|suppressor gene,restrainer|controller|gene|cistron|factor|electrical device
+7,gene,NN,NA,gene,cistron|factor|gene,sequence
+7,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+7,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+7,inactivated,JJ,NA,inactiv,,NA
+7,mutation,NN,NA,mutat,chromosomal mutation|genetic mutation|mutant|mutation|sport|variation,organism|being|change|alteration|modification
+7,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+7,recessive,JJ,NA,recess,recessionary|recessive,
+8,inactivation,NN,NA,inactiv,deactivation|inactivation,natural process|natural action|action|activity|dismissal|dismission|discharge|firing|liberation|release|sack|sacking
+8,gene,NNS,s,gene,cistron|factor|gene,sequence
+8,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+8,random,JJ,NA,random,random,
+8,process,NN,NA,process,appendage|cognitive operation|cognitive process|mental process|operation|outgrowth|physical process|procedure|process|summons|unconscious process,activity|cognition|knowledge|noesis|writ|judicial writ|body part|physical entity
+8,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+8,understandable,JJ,NA,understand,apprehensible|graspable|intelligible|perceivable|understandable,
+8,people,NNS,NA,peopl,citizenry|hoi polloi|mass|masses|multitude|people|the great unwashed,group|grouping|family|family line|folk|kinfolk|kinsfolk|sept|phratry
+8,inherit,VBP,NA,inherit,inherit,get|acquire|receive|have
+8,inactivated,JJ,NA,inactiv,,NA
+8,copy,NN,NA,copi,copy|transcript|written matter,written record|written account|representation|text|textual matter|material
+8,tumour,NN,NA,tumour,neoplasm|tumor|tumour,growth
+8,suppressor,NN,NA,suppressor,suppresser|suppresser gene|suppressor|suppressor gene,restrainer|controller|gene|cistron|factor|electrical device
+8,gene,NN,NA,gene,cistron|factor|gene,sequence
+8,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+8,higher,JJR,NA,higher,higher(a),
+8,risk,NN,NA,risk,danger|endangerment|hazard|jeopardy|peril|risk|risk of exposure|risk of infection,danger|venture|probability|chance
+8,develop,VBG,ing,develop,acquire|arise|break|build up|develop|educate|evolve|explicate|formulate|germinate|get|grow|make grow|modernise|modernize|originate|prepare|produce|recrudesce|rise|spring up|train|uprise,create|create by mental act|create mentally|change|become|better|improve|amend|ameliorate|meliorate|speculate|theorize|theorise|conjecture|hypothesize|hypothesise|hypothecate|suppose|teach|learn|instruct|happen|hap|go on|pass off|occur|pass|fall out|come about|take place|grow|alter|modify|generate|bring forth|superimpose|superpose|lay over|play|complicate|refine|rarify|elaborate|expand
+8,associate,VBN,ed,associ,affiliate|associate|assort|colligate|connect|consociate|consort|link|link up|relate|tie in,think|cogitate|cerebrate|interact|unite|unify
+8,form,NN,NA,form,anatomy|bod|build|cast|chassis|class|configuration|conformation|contour|course|descriptor|figure|flesh|form|frame|grade|human body|kind|manakin|manikin|mannequin|mannikin|material body|pattern|phase|physical body|physique|shape|signifier|soma|sort|strain|var.|variant|variety|word form,word|category|structure|spatial property|spatiality|body|organic structure|attribute|appearance|visual aspect|document|written document|papers|taxonomic group|taxonomic category|taxon|writing style|literary genre|genre|manner|mode|style|way|fashion|state of matter|state|gathering|assemblage|ability|dummy|mold|mould|cast
+8,s,VBZ,NA,NA,,NA
+8,cancer,NN,NA,cancer,cancer|Cancer|Cancer the Crab|Crab|genus Cancer|malignant neoplastic disease,malignant tumor|malignant neoplasm|metastatic tumor|person|individual|someone|somebody|mortal|soul|arthropod genus
+8,people,NNS,NA,peopl,citizenry|hoi polloi|mass|masses|multitude|people|the great unwashed,group|grouping|family|family line|folk|kinfolk|kinsfolk|sept|phratry
+8,bear,VBN,en,bear,abide|accept|acquit|assume|bear|behave|birth|brook|carry|comport|conduct|contain|deliver|deport|digest|endure|expect|gestate|give birth|have|have a bun in the oven|hold|pay|put up|stand|stick out|stomach|suffer|support|take over|tolerate|turn out|wear|yield,have|feature|produce|bring forth|permit|allow|let|countenance|transport|carry|make|create|take|include|gain|take in|clear|earn|realize|realise|pull in|bring in|hold|bear|act|move|have got|give birth|deliver|birth
+8,two,CD,NA,two,NA,NA
+8,normal,JJ,NA,normal,normal,
+8,copy,NNS,s,copi,copy|transcript|written matter,written record|written account|representation|text|textual matter|material
+8,postulated,JJ,NA,postul,,NA
+8,alfred,NNP,NA,alfr,Alfred|Alfred the Great,
+8,knudson,NNP,NA,knudson,,NA
+8,1971,CD,NA,1971,NA,NA
+8,two-hit,JJ,NA,two-hit,,NA
+8,model,NN,NA,model,example|exemplar|fashion model|framework|good example|manakin|manikin|mannequin|mannikin|model|modeling|modelling|poser|role model|simulation|theoretical account,hypothesis|possibility|theory|kind|sort|form|variety|assistant|helper|help|supporter|representation|ideal|leader|mental representation|internal representation
+9,indeed,RB,NA,inde,indeed|so,NA
+9,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+9,show,VBN,en,show,bear witness|demo|demonstrate|depict|designate|establish|evidence|evince|exhibit|express|indicate|picture|point|present|prove|read|record|register|render|shew|show|show up|testify|usher,show|confirm|corroborate|sustain|substantiate|support|affirm|inform|represent|interpret|convey|appear|indicate|read|register|record|lead|take|direct|conduct|guide|race|run
+9,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+9,predisposed,JJ,NA,predispos,predisposed,
+9,patient,NNS,s,patient,affected role|patient|patient role,case|sick person|diseased person|sufferer|semantic role|participant role
+9,remain,VBG,ing,remain,continue|persist|remain|rest|stay|stay on,be
+9,wild-type,JJ,NA,wild-typ,,NA
+9,copy,NN,NA,copi,copy|transcript|written matter,written record|written account|representation|text|textual matter|material
+9,tumour,NN,NA,tumour,neoplasm|tumor|tumour,growth
+9,suppressor,NN,NA,suppressor,suppresser|suppresser gene|suppressor|suppressor gene,restrainer|controller|gene|cistron|factor|electrical device
+9,gene,NN,NA,gene,cistron|factor|gene,sequence
+9,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+9,lose,VBN,ed,lose,lose|miss|suffer|turn a loss,NA
+9,process,NN,NA,process,appendage|cognitive operation|cognitive process|mental process|operation|outgrowth|physical process|procedure|process|summons|unconscious process,activity|cognition|knowledge|noesis|writ|judicial writ|body part|physical entity
+9,refer,VBD,ed,refer,advert|bear on|bring up|cite|come to|concern|consult|denote|have to do with|look up|mention|name|pertain|refer|relate|touch|touch on,think of|have in mind|mean|classify|class|sort|assort|sort out|separate|send|direct|research|intend|signify|stand for|name|call|know as|be known as
+9,loss,NN,NA,loss,departure|deprivation|exit|expiration|going|loss|passing|personnel casualty|red|red ink|release,transferred property|transferred possession|decline|diminution|failure|disadvantage|experience|sum|sum of money|amount|amount of money|casualty|death|decease|expiry
+9,heterozygosity,NN,NA,heterozygos,heterozygosity,state
+10,1998,CD,NA,1998,NA,NA
+10,thing,NNS,s,thing,affair|matter|thing,situation|state of affairs|action|abstraction|abstract|artifact|artefact|happening|occurrence|occurrent|natural event|concern|statement|entity|attribute|aim|object|objective|target|feeling|physical entity
+10,start,VBD,ed,start,begin|bug out|bulge|bulge out|come out|commence|depart|embark on|get|get down|get going|go|initiate|jump|lead off|originate|part|pop|pop out|protrude|set about|set forth|set off|set out|start|start out|start up|startle|take off|take up,leave|go forth|go away|make|create|begin|lead off|start|commence|move|play|be|act|change shape|change form|deform
+10,change,VB,NA,chang,alter|change|commute|convert|deepen|exchange|interchange|modify|shift|switch|transfer|vary,dress|get dressed|replace|transfer|travel|go|move|locomote|change
+11,venkatachalam,NNP,NA,venkatachalam,,NA
+11,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+11,1998,CD,NA,1998,NA,NA
+11,publish,VBD,ed,publish,bring out|issue|print|publish|put out|release,produce|make|create|publicize|publicise|air|bare
+11,paper,NN,NA,paper,composition|newspaper|newspaper publisher|paper|report|theme,material|stuff|essay|press|public press|medium|article|publisher|publishing house|publishing firm|publishing company|product|production
+11,embo,NNP,NA,embo,,NA
+11,journal,NNP,NA,journal,daybook|diary|journal,writing|written material|piece of writing|periodical|ledger|leger|account book|book of account|book|volume|axle
+11,describe,VBG,ing,describ,account|delineate|depict|describe|discover|distinguish|draw|identify|key|key out|line|name|report|trace,set forth|expound|exposit|inform|mark
+11,detail,VBN,ed,detail,detail,elaborate|lucubrate|expatiate|exposit|enlarge|flesh out|expand|expound|dilate|assign|specify|set apart
+11,study,NN,NA,studi,bailiwick|cogitation|discipline|field|field of study|report|sketch|study|subject|subject area|subject field|survey|work|written report,examination|scrutiny|learning|acquisition|document|written document|papers|concentration|engrossment|absorption|immersion|room|knowledge domain|knowledge base|domain|drawing|contemplation|reflection|reflexion|rumination|musing|thoughtfulness|memorizer|memoriser|musical composition|opus|composition|piece|piece of music
+11,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+11,mouse,NNS,s,mous,black eye|computer mouse|mouse|shiner,rodent|gnawer|bruise|contusion|person|individual|someone|somebody|mortal|soul|electronic device
+11,lack,VBG,ing,lack,lack|miss,
+11,one,CD,NA,on,NA,NA
+11,copy,NN,NA,copi,copy|transcript|written matter,written record|written account|representation|text|textual matter|material
+11,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+11,53,CD,NA,53,NA,NA
+11,tumour,NN,NA,tumour,neoplasm|tumor|tumour,growth
+11,suppressor,NN,NA,suppressor,suppresser|suppresser gene|suppressor|suppressor gene,restrainer|controller|gene|cistron|factor|electrical device
+11,gene,NN,NA,gene,cistron|factor|gene,sequence
+11,trp,NNP,NA,trp,,NA
+11,53,CD,NA,53,NA,NA
+12,gene,NN,NA,gene,cistron|factor|gene,sequence
+12,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+12,know,VBN,en,know,acknowledge|bang|be intimate|bed|bonk|cognise|cognize|do it|eff|experience|fuck|get it on|get laid|have a go at it|have intercourse|have it away|have it off|have sex|hump|jazz|know|lie with|live|love|make love|make out|recognise|recognize|roll in the hay|screw|sleep together|sleep with,experience|see|go through|accept|copulate|mate|pair|couple|recognize|recognise|realize|realise|agnize|agnise|distinguish|separate|differentiate|secern|secernate|severalize|severalise|tell|tell apart|remember|retrieve|recall|call back|call up|recollect|think
+12,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+12,most,RBS,NA,most,about|almost|most|near|nearly|nigh|to the highest degree|virtually|well-nigh,NA
+12,mutate,VBN,ed,mutat,mutate,change
+12,gene,NN,NA,gene,cistron|factor|gene,sequence
+12,human,JJ,NA,human,human,
+12,cancer,NN,NA,cancer,cancer|Cancer|Cancer the Crab|Crab|genus Cancer|malignant neoplastic disease,malignant tumor|malignant neoplasm|metastatic tumor|person|individual|someone|somebody|mortal|soul|arthropod genus
+12,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+12,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+12,central,JJ,NA,central,cardinal|central|fundamental|key|primal,
+12,many,JJ,NA,mani,many,
+12,process,NNS,s,process,appendage|cognitive operation|cognitive process|mental process|operation|outgrowth|physical process|procedure|process|summons|unconscious process,activity|cognition|knowledge|noesis|writ|judicial writ|body part|physical entity
+12,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+12,involve,VBN,ed,involv,affect|ask|call for|demand|imply|involve|necessitate|need|postulate|regard|require|take,refer|pertain|relate|concern|come to|bear on|touch|touch on|have to do with|admit|let in|include|have|feature|absorb|engross|engage|occupy|complicate|refine|rarify|elaborate
+12,cellular,JJ,NA,cellular,cellular,
+12,prevention,NN,NA,prevent,bar|prevention,hindrance|hinderance|interference
+12,cancer,NN,NA,cancer,cancer|Cancer|Cancer the Crab|Crab|genus Cancer|malignant neoplastic disease,malignant tumor|malignant neoplasm|metastatic tumor|person|individual|someone|somebody|mortal|soul|arthropod genus
+13,mouse,NNS,s,mous,black eye|computer mouse|mouse|shiner,rodent|gnawer|bruise|contusion|person|individual|someone|somebody|mortal|soul|electronic device
+13,lack,VBG,ing,lack,lack|miss,
+13,copy,NNS,s,copi,copy|transcript|written matter,written record|written account|representation|text|textual matter|material
+13,gene,NN,NA,gene,cistron|factor|gene,sequence
+13,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+13,most,JJS,NA,most,most(a),
+13,part,NN,NA,part,character|component|component part|constituent|contribution|division|function|office|part|parting|percentage|persona|piece|portion|region|role|section|share|theatrical role|voice,relation|object|physical object|thing|concern|location|duty|portrayal|characterization|enactment|personation|assets|concept|conception|construct|line|tune|melody|air|strain|melodic line|melodic phrase|attempt|effort|endeavor|endeavour|try|item
+13,viable,JJ,NA,viabl,executable|feasible|practicable|viable|workable,
+13,succumb,NN,NA,succumb,,NA
+13,cancer,NN,NA,cancer,cancer|Cancer|Cancer the Crab|Crab|genus Cancer|malignant neoplastic disease,malignant tumor|malignant neoplasm|metastatic tumor|person|individual|someone|somebody|mortal|soul|arthropod genus
+13,mainly,RB,NA,mainli,chiefly|in the main|mainly|primarily|principally,
+13,thymic,JJ,NA,thymic,,NA
+13,lymphoma,NNS,s,lymphoma,lymphoma,cancer|malignant neoplastic disease
+13,three,CD,NA,three,NA,NA
+13,five,CD,NA,five,NA,NA
+13,month,NNS,s,month,calendar month|month,time period|period of time|period|time unit|unit of time
+13,age,NN,NA,ag,age|eld|geezerhood|historic period|long time|old age|years,property|era|epoch|time of life|time period|period of time|period
+13,donehower,NNP,NA,donehow,,NA
+13,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+13,1992,CD,NA,1992,NA,NA
+14,mouse,NNS,s,mous,black eye|computer mouse|mouse|shiner,rodent|gnawer|bruise|contusion|person|individual|someone|somebody|mortal|soul|electronic device
+14,bear,VBN,en,bear,abide|accept|acquit|assume|bear|behave|birth|brook|carry|comport|conduct|contain|deliver|deport|digest|endure|expect|gestate|give birth|have|have a bun in the oven|hold|pay|put up|stand|stick out|stomach|suffer|support|take over|tolerate|turn out|wear|yield,have|feature|produce|bring forth|permit|allow|let|countenance|transport|carry|make|create|take|include|gain|take in|clear|earn|realize|realise|pull in|bring in|hold|bear|act|move|have got|give birth|deliver|birth
+14,one,CD,NA,on,NA,NA
+14,copy,NN,NA,copi,copy|transcript|written matter,written record|written account|representation|text|textual matter|material
+14,trp,NNP,NA,trp,,NA
+14,53,CD,NA,53,NA,NA
+14,gene,NN,NA,gene,cistron|factor|gene,sequence
+14,start,NN,NA,start,beginning|commencement|first|get-go|head start|jump|kickoff|offset|outset|scratch|scratch line|showtime|start|starting|starting line|starting signal|starting time|startle,beginning|point|point in time|turn|play|reflex|reflex response|reflex action|instinctive reflex|innate reflex|inborn reflex|unconditioned reflex|physiological reaction|change of state|line|signal|signaling|sign|advantage|vantage
+14,develop,VB,NA,develop,acquire|arise|break|build up|develop|educate|evolve|explicate|formulate|germinate|get|grow|make grow|modernise|modernize|originate|prepare|produce|recrudesce|rise|spring up|train|uprise,create|create by mental act|create mentally|change|become|better|improve|amend|ameliorate|meliorate|speculate|theorize|theorise|conjecture|hypothesize|hypothesise|hypothecate|suppose|teach|learn|instruct|happen|hap|go on|pass off|occur|pass|fall out|come about|take place|grow|alter|modify|generate|bring forth|superimpose|superpose|lay over|play|complicate|refine|rarify|elaborate|expand
+14,cancer,NN,NA,cancer,cancer|Cancer|Cancer the Crab|Crab|genus Cancer|malignant neoplastic disease,malignant tumor|malignant neoplasm|metastatic tumor|person|individual|someone|somebody|mortal|soul|arthropod genus
+14,nine,CD,NA,nine,NA,NA
+14,month,NNS,s,month,calendar month|month,time period|period of time|period|time unit|unit of time
+14,incidence,NN,NA,incid,incidence|relative incidence,frequency|relative frequency|optical phenomenon
+14,increase,NNS,s,increas,addition|gain|growth|increase|increment|step-up,indefinite quantity|change|alteration|modification|process|physical process|amount|change of magnitude
+14,age,NN,NA,ag,age|eld|geezerhood|historic period|long time|old age|years,property|era|epoch|time of life|time period|period of time|period
+15,study,NN,NA,studi,bailiwick|cogitation|discipline|field|field of study|report|sketch|study|subject|subject area|subject field|survey|work|written report,examination|scrutiny|learning|acquisition|document|written document|papers|concentration|engrossment|absorption|immersion|room|knowledge domain|knowledge base|domain|drawing|contemplation|reflection|reflexion|rumination|musing|thoughtfulness|memorizer|memoriser|musical composition|opus|composition|piece|piece of music
+15,venkatachalam,NNP,NA,venkatachalam,,NA
+15,colleague,NNS,s,colleagu,co-worker|colleague|confrere|fellow|fellow worker|workfellow,associate
+15,analysed,JJ,NA,analys,,NA
+15,impressive,JJ,NA,impress,impressive|telling,
+15,group,NN,NA,group,chemical group|group|grouping|mathematical group|radical,abstraction|abstract entity|unit|building block|set
+15,217,CD,NA,217,NA,NA
+15,trp,NNP,NA,trp,,NA
+15,53,CD,NA,53,NA,NA
+15,+,NN,NA,+,,NA
+15,/,NN,NA,/,,NA
+15,−,NN,NA,−,,NA
+15,mouse,NNS,s,mous,black eye|computer mouse|mouse|shiner,rodent|gnawer|bruise|contusion|person|individual|someone|somebody|mortal|soul|electronic device
+15,controll,VBN,ed,control,,NA
+15,genetic,JJ,NA,genet,familial|genetic|genetical|genic|hereditary|inherited|transmissible|transmitted,
+15,background,NN,NA,background,backcloth|backdrop|background|background knowledge|background signal|desktop|ground|scope|screen background|setting,inheritance|heritage|view|aspect|prospect|scene|vista|panorama|information|noise|interference|disturbance|accompaniment|concomitant|attendant|co-occurrence|environment|screen|CRT screen|scenery
+15,follow,VBD,ed,follow,abide by|accompany|adopt|be|come|come after|comply|conform to|espouse|fall out|follow|keep abreast|keep an eye on|keep up|observe|play along|postdate|pursue|stick to|stick with|succeed|surveil|survey|take after|trace|travel along|watch|watch over,travel|go|move|locomote|result|ensue|obey|imitate|copy|simulate|be|choose|take|select|pick out|analyze|analyse|study|examine|canvass|check|check up on|look into|check out|suss out|check over|go over|check into|play|originate|arise|rise|develop|uprise|spring up|grow|act|behave|do|practice|apply|use|understand|persevere|persist|hang in|hang on|hold on
+15,fate,NN,NA,fate,circumstances|destiny|fate|fortune|lot|luck|portion,happening|occurrence|occurrent|natural event|causal agent|cause|causal agency|condition
+15,trp,NNP,NA,trp,,NA
+15,53,CD,NA,53,NA,NA
+15,wild-type,JJ,NA,wild-typ,,NA
+15,allele,NN,NA,allel,allele|allelomorph,gene|cistron|factor
+15,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+16,accord,VBG,ing,accord,accord|agree|allot|concord|consort|fit in|grant|harmonise|harmonize,match|fit|correspond|check|jibe|gibe|tally|agree|give
+16,two-hit,JJ,NA,two-hit,,NA
+16,model,NN,NA,model,example|exemplar|fashion model|framework|good example|manakin|manikin|mannequin|mannikin|model|modeling|modelling|poser|role model|simulation|theoretical account,hypothesis|possibility|theory|kind|sort|form|variety|assistant|helper|help|supporter|representation|ideal|leader|mental representation|internal representation
+16,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+16,expect,VBN,ed,expect,anticipate|ask|await|bear|carry|expect|gestate|have a bun in the oven|look|require|wait,evaluate|pass judgment|judge|demand|see|consider|reckon|view|regard|expect|look|await|wait|give birth|deliver|bear|birth|have
+16,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+16,copy,NN,NA,copi,copy|transcript|written matter,written record|written account|representation|text|textual matter|material
+16,have,VB,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+16,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+16,lose,VBN,ed,lose,lose|miss|suffer|turn a loss,NA
+16,inactivated,JJ,NA,inactiv,,NA
+17,however,RB,NA,howev,all the same|at the same time|even so|however|nevertheless|nonetheless|notwithstanding|still|withal|yet,NA
+17,turn,VBD,ed,turn,become|bend|call on|change by reversal|change state|deform|ferment|flex|grow|move around|plough|plow|release|reverse|rick|sour|sprain|turn|turn over|twist|work|wrench|wrick,move|change|transform|transmute|metamorphose|displace|travel|go|locomote|transmit|transfer|transport|channel|channelize|channelise|send|direct|till|shape|form|turn|grow|discolor|discolour|colour|color|injure|wound|alter|modify|do|perform|get|acquire|change shape|change form|deform|operate|control|aim|take|train|take aim|appeal|invoke|change state|senesce|age|get on|mature|maturate
+17,not,RB,NA,not,non|not,NA
+17,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+17,case,NN,NA,case,case|caseful|casing|causa|cause|character|compositor's case|display case|eccentric|event|example|face|font|fount|grammatical case|guinea pig|instance|lawsuit|pillow slip|pillowcase|sheath|shell|showcase|slip|subject|suit|type|typeface|typesetter's case|vitrine,happening|occurrence|occurrent|natural event|circumstance|proceeding|legal proceeding|proceedings|fact|container|person|individual|someone|somebody|mortal|soul|problem|argument|statement|containerful|grammatical category|syntactic category|state of mind|frame of mind|adult|grownup|type|covering|natural covering|cover|housing|framework|frame|receptacle|bed linen
+18,half,NN,NA,half,half|one-half,common fraction|simple fraction|part|section|division
+18,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+18,mouse,NNS,s,mous,black eye|computer mouse|mouse|shiner,rodent|gnawer|bruise|contusion|person|individual|someone|somebody|mortal|soul|electronic device
+18,younger,JJR,NA,younger,jr.|younger,
+18,18,CD,NA,18,NA,NA
+18,month,NNS,s,month,calendar month|month,time period|period of time|period|time unit|unit of time
+18,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+18,find,VBN,ed,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+18,have,VB,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+18,retain,VBN,ed,retain,continue|hold|hold back|keep|keep back|keep on|retain,hold|bear|carry|contain|prolong|sustain|keep up|keep|hold on|remember|think of
+18,wild-type,JJ,NA,wild-typ,,NA
+18,copy,NN,NA,copi,copy|transcript|written matter,written record|written account|representation|text|textual matter|material
+18,trp,NNP,NA,trp,,NA
+18,53,CD,NA,53,NA,NA
+18,number,NN,NA,number,act|bit|figure|issue|number|numeral|phone number|routine|telephone number|turn,amount|definite quantity|performance|public presentation|signal|signaling|sign|symbol|periodical|company|positive identification|size|item|grammatical category|syntactic category|merchandise|ware|product
+18,increase,VBD,ed,increas,increase,change magnitude|change|alter|modify
+18,85,CD,NA,85,NA,NA
+18,%,NN,NA,%,,NA
+18,mouse,NNS,s,mous,black eye|computer mouse|mouse|shiner,rodent|gnawer|bruise|contusion|person|individual|someone|somebody|mortal|soul|electronic device
+18,older,JJR,NA,older,aged|elder|elderly|old|older|senior|sr.,
+18,18,CD,NA,18,NA,NA
+18,month,NNS,s,month,calendar month|month,time period|period of time|period|time unit|unit of time
+19,two,CD,NA,two,NA,NA
+19,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+19,researcher,NNS,s,research,investigator|research worker|researcher,scientist
+19,sequenced,JJ,NA,sequenc,,NA
+19,complete,JJ,NA,complet,accomplished|all over|arrant(a)|complete|complete(a)|concluded|consummate|consummate(a)|double-dyed(a)|ended|everlasting(a)|gross(a)|over(p)|perfect(a)|pure(a)|sodding(a)|staring(a)|stark(a)|terminated|thorough(a)|thoroughgoing(a)|unadulterated|utter(a),
+19,code,VBG,ing,code,cipher|code|cypher|encipher|encrypt|inscribe|write in code,tag|label|mark|encode
+19,region,NN,NA,region,area|neighborhood|part|realm|region,location|body part|indefinite quantity|knowledge domain|knowledge base|domain
+19,remain,VBG,ing,remain,continue|persist|remain|rest|stay|stay on,be
+19,wild-type,JJ,NA,wild-typ,,NA
+19,allele,NN,NA,allel,allele|allelomorph,gene|cistron|factor
+19,show,VBD,ed,show,bear witness|demo|demonstrate|depict|designate|establish|evidence|evince|exhibit|express|indicate|picture|point|present|prove|read|record|register|render|shew|show|show up|testify|usher,show|confirm|corroborate|sustain|substantiate|support|affirm|inform|represent|interpret|convey|appear|indicate|read|register|record|lead|take|direct|conduct|guide|race|run
+19,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+19,structurally,RB,NA,structur,structurally,
+19,intact,JJ,NA,intact,entire|intact|integral|inviolate,
+20,exclude,VB,NA,exclud,bar|boot out|chuck out|debar|eject|except|exclude|keep out|leave off|leave out|omit|shut|shut out|take out|turf out|turn out,extinguish|eliminate|get rid of|do away with|prevent|keep|miss|lack|forbid|prohibit|interdict|proscribe|veto|disallow|nix|expel|throw out|kick out
+20,possibility,NN,NA,possibl,hypothesis|opening|possibility|possible action|possibleness|theory,expectation|outlook|prospect|being|beingness|existence|face of the earth|concept|conception|construct|option|alternative|choice
+20,downregulation,NN,NA,downregul,,NA
+20,inactivation,NN,NA,inactiv,deactivation|inactivation,natural process|natural action|action|activity|dismissal|dismission|discharge|firing|liberation|release|sack|sacking
+20,level,NN,NA,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+20,protein,NN,NA,protein,protein,macromolecule|supermolecule
+20,expression,NN,NA,express,aspect|construction|expression|face|facial expression|formula|formulation|grammatical construction|locution|look|manifestation|reflection|reflexion|saying|verbal expression|verbalism,countenance|visage|demonstration|demo|communication|communicating|speech|speech communication|spoken communication|spoken language|language|voice communication|oral communication|expressive style|style|mathematical statement|organic process|biological process|constituent|grammatical constituent|squeeze|squeezing
+20,irradiated,JJ,NA,irradi,,NA
+20,tumour-bearing,JJ,NA,tumour-bear,,NA
+20,mouse,NNS,s,mous,black eye|computer mouse|mouse|shiner,rodent|gnawer|bruise|contusion|person|individual|someone|somebody|mortal|soul|electronic device
+20,prior,RB,NA,prior,,NA
+20,sacrifice,VB,NA,sacrific,give|sacrifice,release|relinquish|resign|free|give up|kill|sell|offer|offer up
+20,treatment,NN,NA,treatment,discourse|discussion|handling|intervention|treatment,care|attention|aid|tending|management|direction|artistic style|idiom|communication|communicating
+20,know,VBN,en,know,acknowledge|bang|be intimate|bed|bonk|cognise|cognize|do it|eff|experience|fuck|get it on|get laid|have a go at it|have intercourse|have it away|have it off|have sex|hump|jazz|know|lie with|live|love|make love|make out|recognise|recognize|roll in the hay|screw|sleep together|sleep with,experience|see|go through|accept|copulate|mate|pair|couple|recognize|recognise|realize|realise|agnize|agnise|distinguish|separate|differentiate|secern|secernate|severalize|severalise|tell|tell apart|remember|retrieve|recall|call back|call up|recollect|think
+20,increase,VB,NA,increas,increase,change magnitude|change|alter|modify
+20,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+20,53,CD,NA,53,NA,NA
+20,protein,NN,NA,protein,protein,macromolecule|supermolecule
+20,level,NNS,s,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+20,posttranslational,NN,NA,posttransl,,NA
+20,mechanism,NNS,s,mechan,chemical mechanism|mechanics|mechanism,chemical process|chemical change|chemical action|performance|execution|carrying out|carrying into action|natural object|philosophical doctrine|philosophical theory|device
+21,datum,NNS,s,datum,data point|datum,information
+21,show,VBD,ed,show,bear witness|demo|demonstrate|depict|designate|establish|evidence|evince|exhibit|express|indicate|picture|point|present|prove|read|record|register|render|shew|show|show up|testify|usher,show|confirm|corroborate|sustain|substantiate|support|affirm|inform|represent|interpret|convey|appear|indicate|read|register|record|lead|take|direct|conduct|guide|race|run
+21,retain,VBD,ed,retain,continue|hold|hold back|keep|keep back|keep on|retain,hold|bear|carry|contain|prolong|sustain|keep up|keep|hold on|remember|think of
+21,wild-type,JJ,NA,wild-typ,,NA
+21,allele,NN,NA,allel,allele|allelomorph,gene|cistron|factor
+21,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+21,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+21,express,VBN,ed,express,carry|convey|evince|express|extract|give tongue to|press out|show|state|utter|verbalise|verbalize,convey|communicate|intercommunicate|denote|refer|realize|realise|actualize|actualise|substantiate|get|acquire|mail|post|send
+21,normally,RB,NA,normal,commonly|normally|ordinarily|unremarkably|usually,
+21,suggest,VBD,ed,suggest,advise|evoke|hint|intimate|paint a picture|propose|suggest,declare|convey|imply|express|show|evince
+21,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+21,normal,JJ,NA,normal,normal,
+21,wild-type,JJ,NA,wild-typ,,NA
+21,conformation,NN,NA,conform,abidance|compliance|configuration|conformation|conformity|contour|form|shape,balance|equilibrium|equipoise|counterbalance|spatial property|spatiality|cooperation
+22,next,JJ,NA,next,adjacent|following|future(a)|next|side by side(p)|succeeding(a),
+22,author,NNS,s,author,author|generator|source|writer,communicator|maker|shaper
+22,do,VBD,ed,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+22,rigorous,JJ,NA,rigor,rigorous|strict|stringent|tight,
+22,test,NN,NA,test,exam|examination|mental test|mental testing|psychometric test|run|test|trial|trial run|tryout,experiment|experimentation|mental measurement|communication|communicating|attempt|effort|endeavor|endeavour|try|covering|natural covering|cover
+22,different,JJ,NA,differ,different,
+22,function,NNS,s,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+22,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+22,53,CD,NA,53,NA,NA
+22,protein,NN,NA,protein,protein,macromolecule|supermolecule
+23,first,RB,NA,first,first|first of all|first off|firstly|foremost,NA
+23,test,VBN,ed,test,essay|examine|prove|quiz|screen|test|try|try out,evaluate|pass judgment|judge|check|examine|be|score|determine|find out|see|ascertain|watch|learn|take|submit
+23,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+23,show,VBD,ed,show,bear witness|demo|demonstrate|depict|designate|establish|evidence|evince|exhibit|express|indicate|picture|point|present|prove|read|record|register|render|shew|show|show up|testify|usher,show|confirm|corroborate|sustain|substantiate|support|affirm|inform|represent|interpret|convey|appear|indicate|read|register|record|lead|take|direct|conduct|guide|race|run
+23,amplification,NN,NA,amplif,amplification|elaboration|gain,expansion|expanding upon|increase|increment|increase|step-up
+23,mdm,NNP,NA,mdm,,NA
+23,2,CD,NA,2,NA,NA
+24,protein,NN,NA,protein,protein,macromolecule|supermolecule
+24,expression,NN,NA,express,aspect|construction|expression|face|facial expression|formula|formulation|grammatical construction|locution|look|manifestation|reflection|reflexion|saying|verbal expression|verbalism,countenance|visage|demonstration|demo|communication|communicating|speech|speech communication|spoken communication|spoken language|language|voice communication|oral communication|expressive style|style|mathematical statement|organic process|biological process|constituent|grammatical constituent|squeeze|squeezing
+24,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+24,regulate,VBN,ed,regul,baffle|determine|govern|influence|modulate|mold|order|regularise|regularize|regulate|shape,adjust|set|correct|decide|make up one's mind|determine|cause|do|make|restrain|keep|keep back|hold back
+24,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+24,53,CD,NA,53,NA,NA
+24,stimulate,NNS,s,stimul,,NA
+24,breakdown,NN,NA,breakdown,breakdown|crack-up|decomposition|dislocation|equipment failure|partitioning|putrefaction|rot|rotting,disruption|perturbation|collapse|prostration|decay|failure|analysis|analytic thinking
+24,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+24,53,CD,NA,53,NA,NA
+24,thereby,RB,NA,therebi,thereby,NA
+24,form,VBG,ing,form,constitute|forge|form|imprint|make|mold|mould|organise|organize|shape|spring|take form|take shape|work,make|create|constitute|represent|make up|comprise|be|become|change|alter|modify|create from raw material|create from raw stuff|influence|act upon|work
+24,negative,JJ,NA,neg,damaging|disconfirming|electronegative|minus|negative|negatively charged,
+24,feedback,NN,NA,feedback,feedback,natural process|natural action|action|activity|answer|reply|response
+24,mechanism,NN,NA,mechan,chemical mechanism|mechanics|mechanism,chemical process|chemical change|chemical action|performance|execution|carrying out|carrying into action|natural object|philosophical doctrine|philosophical theory|device
+24,keep,VBZ,s,keep,celebrate|continue|go along|go on|hold|hold back|hold on|hold open|keep|keep back|keep on|keep open|maintain|observe|preserve|prevent|proceed|restrain|retain|save|stay fresh|sustain,act|move|have|have got|hold|record|enter|put down|lodge|accommodate|prolong|sustain|keep up|stay|remain|rest|protect|grow|raise|farm|produce|reserve|book|store|confine|detain|cook|fix|ready|make|prepare
+24,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+24,53,CD,NA,53,NA,NA
+24,level,NNS,s,level,degree|floor|grade|horizontal surface|layer|level|point|spirit level|stage|storey|story|stratum|tier,property|rank|state|altitude|height|indicator|surface|place|structure|construction
+24,low,JJ,NA,low,abject|blue|broken|crushed|depleted|depressed|dispirited|down in the mouth|down(p)|downcast|downhearted|gloomy|grim|humble|humbled|humiliated|low|low-down|low-pitched|low-spirited|low-toned|lowly|miserable|modest|scummy|scurvy|small,
+25,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+25,therefore,RB,NA,therefor,consequently|hence|so|thence|therefore|thus,NA
+25,amplify,VB,NA,amplifi,amplify|blow up|exaggerate|expand|hyperbolise|hyperbolize|inflate|magnify|overdraw|overstate,enlarge|misinform|mislead|increase|intensify|compound|heighten|deepen
+25,mdm,NNP,NA,mdm,,NA
+25,2,CD,NA,2,NA,NA
+25,gene,NN,NA,gene,cistron|factor|gene,sequence
+25,means,NN,NA,mean,agency|means|substance|way,implementation|effectuation|instrumentality|instrumentation|capital
+25,inactivate,VBG,ing,inactiv,deactivate|demobilise|demobilize|inactivate,discharge|muster out|change|alter|modify
+25,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+25,53,CD,NA,53,NA,NA
+26,however,RB,NA,howev,all the same|at the same time|even so|however|nevertheless|nonetheless|notwithstanding|still|withal|yet,NA
+26,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+26,not,RB,NA,not,non|not,NA
+26,find,VBN,ed,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+26,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+26,trp,NNP,NA,trp,,NA
+26,53,CD,NA,53,NA,NA
+26,+,NN,NA,+,,NA
+26,/,NN,NA,/,,NA
+26,−,NN,NA,−,,NA
+26,mouse,NNS,s,mous,black eye|computer mouse|mouse|shiner,rodent|gnawer|bruise|contusion|person|individual|someone|somebody|mortal|soul|electronic device
+27,subsequently,RB,NA,subsequ,after|afterward|afterwards|later|later on|subsequently,
+27,researcher,NNS,s,research,investigator|research worker|researcher,scientist
+27,test,VBN,ed,test,essay|examine|prove|quiz|screen|test|try|try out,evaluate|pass judgment|judge|check|examine|be|score|determine|find out|see|ascertain|watch|learn|take|submit
+27,extent,NN,NA,extent,extent,degree|level|stage|point|magnitude
+27,retain,VBD,ed,retain,continue|hold|hold back|keep|keep back|keep on|retain,hold|bear|carry|contain|prolong|sustain|keep up|keep|hold on|remember|think of
+27,trp,NNP,NA,trp,,NA
+27,53,CD,NA,53,NA,NA
+27,copy,NN,NA,copi,copy|transcript|written matter,written record|written account|representation|text|textual matter|material
+27,behave,VBD,ed,behav,acquit|act|bear|behave|carry|comport|conduct|deport|do,hold|carry|bear|act|move
+27,normally,RB,NA,normal,commonly|normally|ordinarily|unremarkably|usually,
+28,irradiation,NNP,NA,irradi,actinotherapy|beam|beam of light|irradiation|light beam|radiation|radiation therapy|radiotherapy|ray|ray of light|shaft|shaft of light,condition|status|light|visible light|visible radiation|spread|spreading|illusion|semblance|generalization|generalisation|stimulus generalization|stimulus generalisation|therapy
+28,many,JJ,NA,mani,many,
+28,tissue,NNS,s,tissu,tissue|tissue paper,body part|paper
+28,lead,VBZ,s,lead,chair|conduce|conduct|contribute|direct|extend|go|guide|head|lead|leave|moderate|pass|precede|result|run|take|top,produce|bring about|give rise|leave|result|lead|precede|induce|stimulate|cause|have|get|make|be|direct|promote|advance|boost|further|encourage|perform|execute|do|travel|go|move|locomote|pass|make pass|hash out|discuss|talk over
+28,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+28,53,CD,NA,53,NA,NA
+29,dependent,JJ,NA,depend,dependant|dependent|drug-addicted|hooked|pendant|pendent|qualified|strung-out|subject|subordinate,
+29,apoptosis,NNS,NA,apoptosi,apoptosis|caspase-mediated cell death|programmed cell death,necrobiosis|cell death
+29,indeed,RB,NA,inde,indeed|so,NA
+29,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+29,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+29,retain,VBN,ed,retain,continue|hold|hold back|keep|keep back|keep on|retain,hold|bear|carry|contain|prolong|sustain|keep up|keep|hold on|remember|think of
+29,wild-type,JJ,NA,wild-typ,,NA
+29,allele,NN,NA,allel,allele|allelomorph,gene|cistron|factor
+29,irradiation,NN,NA,irradi,actinotherapy|beam|beam of light|irradiation|light beam|radiation|radiation therapy|radiotherapy|ray|ray of light|shaft|shaft of light,condition|status|light|visible light|visible radiation|spread|spreading|illusion|semblance|generalization|generalisation|stimulus generalization|stimulus generalisation|therapy
+29,do,VBD,ed,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+29,lead,VBN,NA,lead,chair|conduce|conduct|contribute|direct|extend|go|guide|head|lead|leave|moderate|pass|precede|result|run|take|top,produce|bring about|give rise|leave|result|lead|precede|induce|stimulate|cause|have|get|make|be|direct|promote|advance|boost|further|encourage|perform|execute|do|travel|go|move|locomote|pass|make pass|hash out|discuss|talk over
+29,increase,NN,NA,increas,addition|gain|growth|increase|increment|step-up,indefinite quantity|change|alteration|modification|process|physical process|amount|change of magnitude
+29,apoptosis,NNS,NA,apoptosi,apoptosis|caspase-mediated cell death|programmed cell death,necrobiosis|cell death
+29,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+29,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+29,lose,VBN,ed,lose,lose|miss|suffer|turn a loss,NA
+29,wild-type,JJ,NA,wild-typ,,NA
+29,allele,NN,NA,allel,allele|allelomorph,gene|cistron|factor
+29,do,VBD,ed,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+29,not,RB,NA,not,non|not,NA
+30,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+30,53,CD,NA,53,NA,NA
+30,protein,NN,NA,protein,protein,macromolecule|supermolecule
+30,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+30,know,VBN,en,know,acknowledge|bang|be intimate|bed|bonk|cognise|cognize|do it|eff|experience|fuck|get it on|get laid|have a go at it|have intercourse|have it away|have it off|have sex|hump|jazz|know|lie with|live|love|make love|make out|recognise|recognize|roll in the hay|screw|sleep together|sleep with,experience|see|go through|accept|copulate|mate|pair|couple|recognize|recognise|realize|realise|agnize|agnise|distinguish|separate|differentiate|secern|secernate|severalize|severalise|tell|tell apart|remember|retrieve|recall|call back|call up|recollect|think
+30,function,VB,NA,function,function|go|officiate|operate|run|serve|work,suffice|do|answer|serve
+30,transcriptional,NN,NA,transcript,,NA
+30,regulator,NN,NA,regul,governor|regulator,control|controller|official|functionary|control|controller
+30,up-,NN,NA,up-,,NA
+30,down,RB,NA,down,down|downward|downwardly|downwards,NA
+30,regulate,VBG,ing,regul,baffle|determine|govern|influence|modulate|mold|order|regularise|regularize|regulate|shape,adjust|set|correct|decide|make up one's mind|determine|cause|do|make|restrain|keep|keep back|hold back
+30,target,NN,NA,target,aim|butt|fair game|mark|object|objective|prey|quarry|target|target area,reference point|point of reference|reference|victim|topographic point|place|spot|sports equipment|goal|end
+30,gene,NNS,s,gene,cistron|factor|gene,sequence
+30,response,NN,NA,respons,answer|reaction|reception|reply|response,consequence|effect|outcome|result|event|issue|upshot|bodily process|body process|bodily function|activity|statement|greeting|salutation|phrase|speech act|manner|mode|style|way|fashion
+30,different,JJ,NA,differ,different,
+30,form,NNS,s,form,anatomy|bod|build|cast|chassis|class|configuration|conformation|contour|course|descriptor|figure|flesh|form|frame|grade|human body|kind|manakin|manikin|mannequin|mannikin|material body|pattern|phase|physical body|physique|shape|signifier|soma|sort|strain|var.|variant|variety|word form,word|category|structure|spatial property|spatiality|body|organic structure|attribute|appearance|visual aspect|document|written document|papers|taxonomic group|taxonomic category|taxon|writing style|literary genre|genre|manner|mode|style|way|fashion|state of matter|state|gathering|assemblage|ability|dummy|mold|mould|cast
+30,cellular,JJ,NA,cellular,cellular,
+30,stress,NN,NA,stress,accent|emphasis|focus|strain|stress|tenseness|tension,prosody|inflection|strain|mental strain|nervous strain|emphasis|accent|difficulty|force
+30,include,VBG,ing,includ,admit|include|let in,see|consider|reckon|view|regard|add|permit|allow|let|countenance
+30,irradiation-induced,JJ,NA,irradiation-induc,,NA
+30,dna,NNP,NA,dna,deoxyribonucleic acid|desoxyribonucleic acid|DNA,polymer
+30,damage,NN,NA,damag,damage|equipment casualty|harm|hurt|impairment|legal injury|price|scathe|terms|wrong,change|alteration|modification|casualty|change of integrity|cost|injury
+31,author,NNS,s,author,author|generator|source|writer,communicator|maker|shaper
+31,study,VBD,ed,studi,analyse|analyze|canvass|consider|contemplate|examine|hit the books|learn|meditate|read|study|take,chew over|think over|meditate|ponder|excogitate|contemplate|muse|reflect|mull|mull over|ruminate|speculate|learn|larn|acquire|think|cogitate|cerebrate
+31,expression,NN,NA,express,aspect|construction|expression|face|facial expression|formula|formulation|grammatical construction|locution|look|manifestation|reflection|reflexion|saying|verbal expression|verbalism,countenance|visage|demonstration|demo|communication|communicating|speech|speech communication|spoken communication|spoken language|language|voice communication|oral communication|expressive style|style|mathematical statement|organic process|biological process|constituent|grammatical constituent|squeeze|squeezing
+31,two,CD,NA,two,NA,NA
+31,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+31,53,CD,NA,53,NA,NA
+32,upregulated,JJ,NA,upregul,,NA
+32,gene,NNS,s,gene,cistron|factor|gene,sequence
+32,cdkn,NNP,NA,cdkn,,NA
+32,1,CD,NA,1,NA,NA
+32,encode,NNS,s,encod,,NA
+32,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+32,21,CD,NA,21,NA,NA
+32,mdm,NNP,NA,mdm,,NA
+32,one,CD,NA,on,NA,NA
+32,downregulated,JJ,NA,downregul,,NA
+32,gene,NN,NA,gene,cistron|factor|gene,sequence
+32,pcna,NNP,NA,pcna,,NA
+32,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+32,53,CD,NA,53,NA,NA
+33,positive,JJ,NA,posit,cocksure|confident(p)|confirming|convinced(p)|electropositive|incontrovertible|irrefutable|overconfident|plus|positive|positive(p)|positively charged|positivist|positivistic|prescribed,
+33,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+33,irradiation,NN,NA,irradi,actinotherapy|beam|beam of light|irradiation|light beam|radiation|radiation therapy|radiotherapy|ray|ray of light|shaft|shaft of light,condition|status|light|visible light|visible radiation|spread|spreading|illusion|semblance|generalization|generalisation|stimulus generalization|stimulus generalisation|therapy
+33,show,VBD,ed,show,bear witness|demo|demonstrate|depict|designate|establish|evidence|evince|exhibit|express|indicate|picture|point|present|prove|read|record|register|render|shew|show|show up|testify|usher,show|confirm|corroborate|sustain|substantiate|support|affirm|inform|represent|interpret|convey|appear|indicate|read|register|record|lead|take|direct|conduct|guide|race|run
+33,response,NNS,s,respons,answer|reaction|reception|reply|response,consequence|effect|outcome|result|event|issue|upshot|bodily process|body process|bodily function|activity|statement|greeting|salutation|phrase|speech act|manner|mode|style|way|fashion
+33,indicative,JJ,NA,indic,declarative|indicative|indicatory|revelatory|significative|suggestive,
+33,normal,JJ,NA,normal,normal,
+33,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+33,53,CD,NA,53,NA,NA
+33,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+34,furthermore,RB,NA,furthermor,furthermore|moreover|what is more,NA
+34,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+34,show,VBN,en,show,bear witness|demo|demonstrate|depict|designate|establish|evidence|evince|exhibit|express|indicate|picture|point|present|prove|read|record|register|render|shew|show|show up|testify|usher,show|confirm|corroborate|sustain|substantiate|support|affirm|inform|represent|interpret|convey|appear|indicate|read|register|record|lead|take|direct|conduct|guide|race|run
+34,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+34,53,CD,NA,53,NA,NA
+34,protein,NN,NA,protein,protein,macromolecule|supermolecule
+34,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+34,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+34,able,JJ,NA,abl,able|able-bodied|capable,
+34,bind,NN,NA,bind,bind,hindrance|hinderance|deterrent|impediment|balk|baulk|check|handicap
+34,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+34,53,CD,NA,53,NA,NA
+35,binding,JJ,NA,bind,binding,
+35,dna,NNP,NA,dna,deoxyribonucleic acid|desoxyribonucleic acid|DNA,polymer
+35,sequence,NN,NA,sequenc,chronological sequence|chronological succession|episode|sequence|succession|successiveness,series|temporal arrangement|temporal order|film|photographic film|order|ordering|repeat|repetition
+35,vitro,NN,NA,vitro,,NA
+35,setting,NN,NA,set,background|circumstance|context|mise en scene|mount|place setting|scene|scope|setting|stage setting,environment|environs|surroundings|surround|stage|position|place|service|table service|mounting
+36,finally,RB,NA,final,at last|at long last|eventually|finally|in conclusion|in the end|last|lastly|ultimately,
+36,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+36,know,VBN,en,know,acknowledge|bang|be intimate|bed|bonk|cognise|cognize|do it|eff|experience|fuck|get it on|get laid|have a go at it|have intercourse|have it away|have it off|have sex|hump|jazz|know|lie with|live|love|make love|make out|recognise|recognize|roll in the hay|screw|sleep together|sleep with,experience|see|go through|accept|copulate|mate|pair|couple|recognize|recognise|realize|realise|agnize|agnise|distinguish|separate|differentiate|secern|secernate|severalize|severalise|tell|tell apart|remember|retrieve|recall|call back|call up|recollect|think
+36,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+36,53,CD,NA,53,NA,NA
+36,absence,NN,NA,absenc,absence|absence seizure,lack|deficiency|want|nonattendance|time interval|interval|seizure|ictus|raptus
+36,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+36,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+36,correlated,JJ,NA,correl,correlate|correlated|correlative,
+36,chromosomal,NN,NA,chromosom,,NA
+36,instability,NN,NA,instabl,imbalance|instability|unbalance|unstableness,disorder|undependability|undependableness|unreliability|unreliableness|disequilibrium|unsteadiness
+36,venkatachalam,NNP,NA,venkatachalam,,NA
+36,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+36,1998,CD,NA,1998,NA,NA
+36,use,VBN,ed,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+36,comparative,JJ,NA,compar,comparative|relative,
+36,genome,NN,NA,genom,genome,ordering|order|ordination
+36,hybridisation,NN,NA,hybridis,cross|crossbreeding|crossing|hybridisation|hybridization|hybridizing|interbreeding,coupling|mating|pairing|conjugation|union|sexual union
+36,compare,VB,NA,compar,compare|equate|liken,analyze|analyse|study|examine|canvass|be|consider|inflect
+36,feature,NN,NA,featur,characteristic|feature|feature article|feature film|feature of speech|lineament,property|attribute|dimension|body part|movie|film|picture|moving picture|moving-picture show|motion picture|motion-picture show|picture show|pic|flick|article|merchandise|ware|product
+36,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+36,53,CD,NA,53,NA,NA
+37,negative,NN,NA,neg,negative,denial|film|photographic film
+37,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+37,53,CD,NA,53,NA,NA
+38,positive,JJ,NA,posit,cocksure|confident(p)|confirming|convinced(p)|electropositive|incontrovertible|irrefutable|overconfident|plus|positive|positive(p)|positively charged|positivist|positivistic|prescribed,
+38,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+38,find,VBD,ed,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+38,5,CD,NA,5,NA,NA
+39,fold,VB,NA,fold,close|close down|close up|fold|fold up|pen up|shut down|turn up,change surface|integrate|incorporate|restrain|confine|hold|constrain|change
+39,greater,JJR,NA,greater,greater,
+39,stability,NN,NA,stabil,constancy|stability|stableness,steadiness|firmness|order|changelessness|unchangeability|unchangeableness|unchangingness
+39,latter,NN,NA,latter,latter,second
+40,short,JJ,NA,short,brusk|brusque|curt|forgetful|inadequate|jejune|light|little|myopic|poor|scant(p)|short|short(p)|shortsighted|unforesightful|unretentive,
+40,paper,NN,NA,paper,composition|newspaper|newspaper publisher|paper|report|theme,material|stuff|essay|press|public press|medium|article|publisher|publishing house|publishing firm|publishing company|product|production
+40,clearly,RB,NA,clearli,clear|clearly|distinctly|intelligibly|understandably,
+40,show,VBD,ed,show,bear witness|demo|demonstrate|depict|designate|establish|evidence|evince|exhibit|express|indicate|picture|point|present|prove|read|record|register|render|shew|show|show up|testify|usher,show|confirm|corroborate|sustain|substantiate|support|affirm|inform|represent|interpret|convey|appear|indicate|read|register|record|lead|take|direct|conduct|guide|race|run
+40,least,JJS,NA,least,least(a),
+40,mouse,NNS,s,mous,black eye|computer mouse|mouse|shiner,rodent|gnawer|bruise|contusion|person|individual|someone|somebody|mortal|soul|electronic device
+40,many,JJ,NA,mani,many,
+40,trp,NNP,NA,trp,,NA
+40,53,CD,NA,53,NA,NA
+40,+,NN,NA,+,,NA
+40,/,NN,NA,/,,NA
+40,−,NN,NA,−,,NA
+40,tumour,NNS,s,tumour,neoplasm|tumor|tumour,growth
+40,wild-type,JJ,NA,wild-typ,,NA
+40,allele,NN,NA,allel,allele|allelomorph,gene|cistron|factor
+40,trp,NNP,NA,trp,,NA
+40,53,CD,NA,53,NA,NA
+40,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+40,not,RB,NA,not,non|not,NA
+40,only,RB,NA,onli,alone|but|entirely|exclusively|just|merely|only|only if|only when|simply|solely,NA
+40,retain,VBD,ed,retain,continue|hold|hold back|keep|keep back|keep on|retain,hold|bear|carry|contain|prolong|sustain|keep up|keep|hold on|remember|think of
+40,also,RB,NA,also,also|as well|besides|likewise|too,NA
+40,appear,VBZ,s,appear,appear|come along|come out|look|seem,be|happen|materialize|materialise|perform|execute|do
+40,function,VB,NA,function,function|go|officiate|operate|run|serve|work,suffice|do|answer|serve
+40,normally,RB,NA,normal,commonly|normally|ordinarily|unremarkably|usually,
+41,strongly,RB,NA,strongli,powerfully|strongly,
+41,suggest,VBN,ed,suggest,advise|evoke|hint|intimate|paint a picture|propose|suggest,declare|convey|imply|express|show|evince
+41,decrease,NN,NA,decreas,decrease|decrement|diminution|drop-off|lessening|reduction|step-down,change|alteration|modification|process|physical process|amount|change of magnitude
+41,dosage,NN,NA,dosag,dosage|dose,indefinite quantity|medicine|medication|medicament|medicinal drug
+41,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+41,53,CD,NA,53,NA,NA
+41,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+41,already,RB,NA,alreadi,already,NA
+41,sufficient,JJ,NA,suffici,sufficient,
+41,tumourigenesis,NNS,NA,tumourigenesi,,NA
+41,phenomenon,NN,NA,phenomenon,phenomenon,process|physical process|development
+41,refer,VBD,ed,refer,advert|bear on|bring up|cite|come to|concern|consult|denote|have to do with|look up|mention|name|pertain|refer|relate|touch|touch on,think of|have in mind|mean|classify|class|sort|assort|sort out|separate|send|direct|research|intend|signify|stand for|name|call|know as|be known as
+41,haploinsufficiency,NN,NA,haploinsuffici,,NA
+42,shortly,RB,NA,shortli,before long|briefly|concisely|curtly|in brief|in short|presently|short|shortly|soon,NA
+42,before,RB,NA,befor,ahead|before|earlier|in front,NA
+42,group,NN,NA,group,chemical group|group|grouping|mathematical group|radical,abstraction|abstract entity|unit|building block|set
+42,moshe,NNP,NA,mosh,,NA
+42,oren,NNP,NA,oren,,NA
+42,gottlieb,NNP,NA,gottlieb,,NA
+42,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+42,1997,CD,NA,1997,NA,NA
+42,have,VBD,ed,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+42,show,VBN,en,show,bear witness|demo|demonstrate|depict|designate|establish|evidence|evince|exhibit|express|indicate|picture|point|present|prove|read|record|register|render|shew|show|show up|testify|usher,show|confirm|corroborate|sustain|substantiate|support|affirm|inform|represent|interpret|convey|appear|indicate|read|register|record|lead|take|direct|conduct|guide|race|run
+42,trp,NNP,NA,trp,,NA
+42,53,CD,NA,53,NA,NA
+42,+,NN,NA,+,,NA
+42,/,NN,NA,/,,NA
+42,−,NN,NA,−,,NA
+42,background,NN,NA,background,backcloth|backdrop|background|background knowledge|background signal|desktop|ground|scope|screen background|setting,inheritance|heritage|view|aspect|prospect|scene|vista|panorama|information|noise|interference|disturbance|accompaniment|concomitant|attendant|co-occurrence|environment|screen|CRT screen|scenery
+42,lead,VBZ,s,lead,chair|conduce|conduct|contribute|direct|extend|go|guide|head|lead|leave|moderate|pass|precede|result|run|take|top,produce|bring about|give rise|leave|result|lead|precede|induce|stimulate|cause|have|get|make|be|direct|promote|advance|boost|further|encourage|perform|execute|do|travel|go|move|locomote|pass|make pass|hash out|discuss|talk over
+42,greater,JJR,NA,greater,greater,
+42,50,CD,NA,50,NA,NA
+42,%,NN,NA,%,,NA
+42,reduction,NN,NA,reduct,decrease|diminution|reducing|reduction|simplification|step-down,change of magnitude|chemical reaction|reaction|change
+42,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+42,53,CD,NA,53,NA,NA
+42,activity,NN,NA,activ,action|activeness|activity|bodily function|bodily process|body process|natural action|natural process,act|deed|human action|human activity|state|organic process|biological process|capability|capacity|process|physical process|trait
+42,use,VBG,ing,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+42,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+42,53,CD,NA,53,NA,NA
+43,responsive,JJ,NA,respons,antiphonal|reactive|responsive,
+43,lacz,NN,NA,lacz,,NA
+43,reporter,NN,NA,report,newsman|newsperson|reporter,communicator
+43,gene,NN,NA,gene,cistron|factor|gene,sequence
+43,transgenic,JJ,NA,transgen,,NA
+43,mouse,NNS,s,mous,black eye|computer mouse|mouse|shiner,rodent|gnawer|bruise|contusion|person|individual|someone|somebody|mortal|soul|electronic device
+44,venkatachalam,NNP,NA,venkatachalam,,NA
+44,colleague,NNS,s,colleagu,co-worker|colleague|confrere|fellow|fellow worker|workfellow,associate
+44,suggest,VBD,ed,suggest,advise|evoke|hint|intimate|paint a picture|propose|suggest,declare|convey|imply|express|show|evince
+44,strong,JJ,NA,strong,firm|hard|impregnable|inviolable|potent|secure|solid|stiff|strong|substantial|unassailable|unattackable|warm,
+44,concentration,NN,NA,concentr,absorption|assiduity|assiduousness|compactness|concentration|denseness|density|engrossment|immersion|tightness,property|spacing|spatial arrangement|strengthening|increase|attention|assembly|assemblage|gathering|diligence|industriousness|industry
+44,dependence,NN,NA,depend,addiction|dependance|dependence|dependency|habituation,state|physical condition|physiological state|physiological condition
+44,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+44,53,CD,NA,53,NA,NA
+44,function,NN,NA,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+44,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+44,explain,VBN,ed,explain,excuse|explain|explicate,inform|state|say|tell|justify|vindicate
+44,fact,NN,NA,fact,fact,information|info|reality|realness|realism|concept|conception|construct
+44,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+44,53,CD,NA,53,NA,NA
+44,function,NNS,s,function,affair|function|map|mapping|mathematical function|occasion|office|part|procedure|purpose|role|routine|single-valued function|social function|social occasion|subprogram|subroutine|use,mathematical relation|utility|usefulness|duty|relation|social gathering|social affair|social event|software|software program|computer software|software system|software package|package
+44,tetramer,NN,NA,tetram,,NA
+45,50,CD,NA,50,NA,NA
+45,%,NN,NA,%,,NA
+45,decrease,NN,NA,decreas,decrease|decrement|diminution|drop-off|lessening|reduction|step-down,change|alteration|modification|process|physical process|amount|change of magnitude
+45,p,NN,NA,p,atomic number 15|p|P|phosphorus,chemical element|element|letter|letter of the alphabet|alphabetic character
+45,53,CD,NA,53,NA,NA
+45,monomer,NNS,s,monom,monomer,compound|chemical compound
+45,easily,RB,NA,easili,easily|easy|well,NA
+45,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+45,imagine,VBN,ed,imagin,conceive of|envisage|guess|ideate|imagine|opine|reckon|suppose|think,create by mental act|create mentally|expect|anticipate
+45,result,VB,NA,result,ensue|lead|leave|result,prove|turn out|turn up|produce|bring about|give rise|happen|hap|go on|pass off|occur|pass|fall out|come about|take place
+45,greater,JJR,NA,greater,greater,
+45,50,CD,NA,50,NA,NA
+45,%,NN,NA,%,,NA
+45,decrease,NN,NA,decreas,decrease|decrement|diminution|drop-off|lessening|reduction|step-down,change|alteration|modification|process|physical process|amount|change of magnitude
+45,functional,JJ,NA,function,functional|operable|operational|operative|running(a)|usable|useable|working(a),
+45,tetramer,NNS,s,tetram,,NA
+45,turn,NN,NA,turn,act|bend|bit|bout|crook|go|good turn|number|play|round|routine|spell|tour|turn|turn of events|turning|twist,curve|curved shape|change of course|activity|development|movement|motion|change of direction|reorientation|rotation|rotary motion|shift|work shift|duty period|part|section|division|performance|public presentation|favor|favour|walk
+45,increase,NNS,s,increas,addition|gain|growth|increase|increment|step-up,indefinite quantity|change|alteration|modification|process|physical process|amount|change of magnitude
+45,chance,NNS,s,chanc,chance|fortune|hazard|luck|opportunity|probability|prospect,possibility|possibleness|phenomenon|risk|peril|danger|measure|quantity|amount|potential|potentiality|potency
+45,cell,NNS,s,cell,cadre|cell|cellphone|cellular phone|cellular telephone|cubicle|electric cell|jail cell|mobile phone|prison cell,compartment|living thing|animate thing|electrical device|political unit|political entity|radiotelephone|radiophone|wireless telephone|room
+45,become,VBG,ing,becom,become|get|go|suit|turn,change state|turn|transform|transmute|metamorphose|fancify|beautify|embellish|prettify
+45,cancerous,JJ,NA,cancer,cancerous,
+46,paper,NN,NA,paper,composition|newspaper|newspaper publisher|paper|report|theme,material|stuff|essay|press|public press|medium|article|publisher|publishing house|publishing firm|publishing company|product|production
+46,venkatachalam,NNP,NA,venkatachalam,,NA
+46,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+46,1998,CD,NA,1998,NA,NA
+46,make,VBN,ed,make,arrive at|attain|bring in|build|ca-ca|cause|clear|constitute|construct|cook|crap|create|defecate|do|draw|earn|establish|fix|form|gain|get|get to|give|have|hit|hold|induce|lay down|make|make believe|make up|make water|micturate|name|nominate|pass water|pee|pee-pee|piddle|piss|prepare|pretend|produce|progress to|puddle|pull in|reach|ready|realise|realize|relieve oneself|score|seduce|shit|spend a penny|stimulate|stool|take|take a crap|take a leak|take a shit|take in|throw|urinate|wee|wee-wee|work,change|alter|modify|make|create|create by mental act|create mentally|cause|do|get|acquire|constitute|represent|make up|comprise|be|achieve|accomplish|attain|reach|become|create from raw material|create from raw stuff|perform|execute|act|behave|appoint|charge|score|hit|tally|rack up|perpetrate|commit|pull|assemble|gather|get together|direct|tidy|tidy up|clean up|neaten|straighten|straighten out|square away|head|excrete|egest|eliminate|pass|total|number|add up|come|amount|look|appear|seem|arrive at|gain|persuade|guarantee|ensure|insure|assure|secure|play|see|consider|reckon|view|regard|estimate|gauge|approximate|guess|judge|develop|grow
+46,realise,NN,NA,realis,,NA
+46,important,JJ,NA,import,authoritative|crucial|important|of import|significant,
+46,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+46,remain,VB,NA,remain,continue|persist|remain|rest|stay|stay on,be
+46,critical,JJ,NA,critic,critical|decisive|vital,
+46,even,RB,NA,even,even|still|yet,NA
+46,long-established,JJ,NA,long-establish,,NA
+46,theory,NNS,s,theori,hypothesis|possibility|theory,explanation|concept|conception|construct|belief
+46,model,NNS,s,model,example|exemplar|fashion model|framework|good example|manakin|manikin|mannequin|mannikin|model|modeling|modelling|poser|role model|simulation|theoretical account,hypothesis|possibility|theory|kind|sort|form|variety|assistant|helper|help|supporter|representation|ideal|leader|mental representation|internal representation
+47,then,RB,NA,then,and so|so|then,NA
+47,haploinsufficient,NN,NA,haploinsuffici,,NA
+47,mechanism,NNS,s,mechan,chemical mechanism|mechanics|mechanism,chemical process|chemical change|chemical action|performance|execution|carrying out|carrying into action|natural object|philosophical doctrine|philosophical theory|device
+47,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+47,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+47,describe,VBN,ed,describ,account|delineate|depict|describe|discover|distinguish|draw|identify|key|key out|line|name|report|trace,set forth|expound|exposit|inform|mark
+47,more,JJR,NA,more,more than|more(a),
+47,tumour,NN,NA,tumour,neoplasm|tumor|tumour,growth
+47,suppressor,NN,NA,suppressor,suppresser|suppresser gene|suppressor|suppressor gene,restrainer|controller|gene|cistron|factor|electrical device
+47,gene,NNS,s,gene,cistron|factor|gene,sequence
+47,human,NNS,s,human,homo|human|human being|man,hominid
+47,mouse,NNS,s,mous,black eye|computer mouse|mouse|shiner,rodent|gnawer|bruise|contusion|person|individual|someone|somebody|mortal|soul|electronic device
+47,review,VBN,ed,review,brush up|critique|go over|look back|reexamine|refresh|retrospect|review|survey,analyze|analyse|study|examine|canvass|evaluate|pass judgment|judge|inspect|remember|retrieve|recall|call back|call up|recollect|think|think back
+47,fodde,NNP,NA,fodd,,NA
+47,smit,NNP,s,smit,,NA
+47,2002,CD,NA,2002,NA,NA
+48,instance,NN,NA,instanc,case|example|illustration|instance|representative,happening|occurrence|occurrent|natural event|information
+48,recent,JJ,NA,recent,late(a)|recent,
+48,paper,NN,NA,paper,composition|newspaper|newspaper publisher|paper|report|theme,material|stuff|essay|press|public press|medium|article|publisher|publishing house|publishing firm|publishing company|product|production
+48,plo,NNP,s,plo,Palestine Liberation Organization|PLO,political movement
+48,biology,NNP,NA,biologi,biological science|biology|biota,life science|bioscience|life|collection|aggregation|accumulation|assemblage
+48,trotman,NNP,NA,trotman,,NA
+48,al,NN,NA,al,Al|AL|Ala.|Alabama|aluminium|aluminum|atomic number 13|Camellia State|Heart of Dixie,metallic element|metal|South
+48,2003,CD,NA,2003,NA,NA
+48,use,VBN,ed,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+48,mouse,NN,NA,mous,black eye|computer mouse|mouse|shiner,rodent|gnawer|bruise|contusion|person|individual|someone|somebody|mortal|soul|electronic device
+48,model,NNS,s,model,example|exemplar|fashion model|framework|good example|manakin|manikin|mannequin|mannikin|model|modeling|modelling|poser|role model|simulation|theoretical account,hypothesis|possibility|theory|kind|sort|form|variety|assistant|helper|help|supporter|representation|ideal|leader|mental representation|internal representation
+48,describe,VB,NA,describ,account|delineate|depict|describe|discover|distinguish|draw|identify|key|key out|line|name|report|trace,set forth|expound|exposit|inform|mark
+48,dosage,NN,NA,dosag,dosage|dose,indefinite quantity|medicine|medication|medicament|medicinal drug
+48,pten,NNP,NA,pten,,NA
+48,tumour,NN,NA,tumour,neoplasm|tumor|tumour,growth
+48,suppressor,NN,NA,suppressor,suppresser|suppresser gene|suppressor|suppressor gene,restrainer|controller|gene|cistron|factor|electrical device
+48,gene,NN,NA,gene,cistron|factor|gene,sequence
+48,influence,VBZ,s,influenc,act upon|charm|determine|influence|mold|regulate|shape|tempt|work,affect|impact|bear upon|bear on|touch on|touch|cause|do|make|persuade
+48,occurrence,NN,NA,occurr,happening|natural event|occurrence|occurrent,event|presence
+48,prostate,NN,NA,prostat,prostate|prostate gland,endocrine gland|endocrine|ductless gland
+48,cancer,NN,NA,cancer,cancer|Cancer|Cancer the Crab|Crab|genus Cancer|malignant neoplastic disease,malignant tumor|malignant neoplasm|metastatic tumor|person|individual|someone|somebody|mortal|soul|arthropod genus
+49,further,RB,NA,further,farther|further,NA
+49,gene,NNS,s,gene,cistron|factor|gene,sequence
+49,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+49,be,VBN,en,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+49,describe,VBN,ed,describ,account|delineate|depict|describe|discover|distinguish|draw|identify|key|key out|line|name|report|trace,set forth|expound|exposit|inform|mark
+49,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+49,unexpected,JJ,NA,unexpect,unexpected,
+49,role,NNS,s,role,character|function|office|part|persona|purpose|role|theatrical role|use,duty|portrayal|characterization|enactment|personation|utility|usefulness|activity
+49,tumourigenic,JJ,NA,tumourigen,,NA
+49,process,NN,NA,process,appendage|cognitive operation|cognitive process|mental process|operation|outgrowth|physical process|procedure|process|summons|unconscious process,activity|cognition|knowledge|noesis|writ|judicial writ|body part|physical entity
+50,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+50,long-standing,JJ,NA,long-stand,long-standing|longstanding,
+50,debate,NN,NA,debat,argument|argumentation|debate|disputation|public debate,discussion|give-and-take|word|public speaking|speechmaking|speaking|oral presentation
+50,literature,NN,NA,literatur,lit|literature,writing|written material|piece of writing|literary study|profession
+50,number,NN,NA,number,act|bit|figure|issue|number|numeral|phone number|routine|telephone number|turn,amount|definite quantity|performance|public presentation|signal|signaling|sign|symbol|periodical|company|positive identification|size|item|grammatical category|syntactic category|merchandise|ware|product
+50,role,NN,NA,role,character|function|office|part|persona|purpose|role|theatrical role|use,duty|portrayal|characterization|enactment|personation|utility|usefulness|activity
+50,mutation,NNS,s,mutat,chromosomal mutation|genetic mutation|mutant|mutation|sport|variation,organism|being|change|alteration|modification
+50,tumour,NN,NA,tumour,neoplasm|tumor|tumour,growth
+50,go,VBG,ing,go,become|belong|blend|blend in|break|break down|buy the farm|cash in one's chips|choke|conk|conk out|croak|decease|depart|die|drop dead|endure|exit|expire|extend|fail|fit|function|get|get going|give out|give way|give-up the ghost|go|go away|go bad|hold out|hold up|kick the bucket|last|lead|live|live on|locomote|move|operate|pass|pass away|perish|plump|pop off|proceed|rifle|run|run low|run short|snuff it|sound|start|survive|travel|work,NA
+50,detail,NNS,s,detail,contingent|detail|item|particular|point,fact|part|portion|component part|component|constituent|discussion|treatment|discourse|gang|crew|work party|military unit|military force|military group|force
+50,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+50,clear,JJ,NA,clear,absolved|clean|clean-cut|clear|clear-cut|clear(p)|cleared|decipherable|exculpated|exonerated|light|open|percipient|readable|unclouded|unmortgaged|vindicated|well-defined,
+50,haploinsufficient,NN,NA,haploinsuffici,,NA
+50,mechanism,NNS,s,mechan,chemical mechanism|mechanics|mechanism,chemical process|chemical change|chemical action|performance|execution|carrying out|carrying into action|natural object|philosophical doctrine|philosophical theory|device
+50,tumour,NN,NA,tumour,neoplasm|tumor|tumour,growth
+50,suppressor,NN,NA,suppressor,suppresser|suppresser gene|suppressor|suppressor gene,restrainer|controller|gene|cistron|factor|electrical device
+50,gene,NNS,s,gene,cistron|factor|gene,sequence
+50,greatly,RB,NA,greatli,greatly,
+50,influence,VB,NA,influenc,act upon|charm|determine|influence|mold|regulate|shape|tempt|work,affect|impact|bear upon|bear on|touch on|touch|cause|do|make|persuade
+50,statistics,NNS,NA,statist,statistics,applied mathematics|applied math
+50,discussion,NNS,s,discuss,discourse|discussion|give-and-take|treatment|word,communication|communicating|speech|speech communication|spoken communication|spoken language|language|voice communication|oral communication
+50,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+50,base,VBN,ed,base,base|establish|found|free-base|ground,situate|locate|drug|do drugs
+51,time,NN,NA,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+51,microarray,NN,NA,microarrai,,NA
+51,analysis,NN,NA,analysi,analysis|analytic thinking|depth psychology|psychoanalysis,investigation|investigating|reasoning|logical thinking|abstract thought|criticism|literary criticism|expressive style|style|calculus|infinitesimal calculus|psychotherapy
+51,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+51,become,VBN,NA,becom,become|get|go|suit|turn,change state|turn|transform|transmute|metamorphose|fancify|beautify|embellish|prettify
+51,standard,JJ,NA,standard,received|standard|stock,
+51,experiment,NN,NA,experi,experiment|experimentation,scientific research|research project|inquiry|enquiry|research|venture
+51,many,JJ,NA,mani,many,
+51,thousand,NNS,s,thousand,1000|chiliad|G|grand|K|M|one thousand|thou|thousand|yard,large integer
+51,change,NNS,s,chang,alteration|change|modification|variety,happening|occurrence|occurrent|natural event|relation|action|consequence|effect|outcome|result|event|issue|upshot|cash|hard cash|hard currency|thing|clothing|article of clothing|vesture|wear|wearable|habiliment|coin|difference
+51,tumour,NN,NA,tumour,neoplasm|tumor|tumour,growth
+51,cell,NNS,s,cell,cadre|cell|cellphone|cellular phone|cellular telephone|cubicle|electric cell|jail cell|mobile phone|prison cell,compartment|living thing|animate thing|electrical device|political unit|political entity|radiotelephone|radiophone|wireless telephone|room
+51,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+51,analysed,JJ,NA,analys,,NA
+51,whole,JJ,NA,whole,hale|solid|unanimous|unharmed|unhurt|unscathed|whole,
+51,genome,NN,NA,genom,genome,ordering|order|ordination
+51,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+51,important,JJ,NA,import,authoritative|crucial|important|of import|significant,
+51,keep,VB,NA,keep,celebrate|continue|go along|go on|hold|hold back|hold on|hold open|keep|keep back|keep on|keep open|maintain|observe|preserve|prevent|proceed|restrain|retain|save|stay fresh|sustain,act|move|have|have got|hold|record|enter|put down|lodge|accommodate|prolong|sustain|keep up|stay|remain|rest|protect|grow|raise|farm|produce|reserve|book|store|confine|detain|cook|fix|ready|make|prepare
+51,mind,NN,NA,mind,brain|creative thinker|head|idea|intellect|judgement|judgment|mind|nous|psyche|thinker,cognition|knowledge|noesis|recall|recollection|reminiscence|opinion|sentiment|persuasion|view|thought|intellectual|intellect|notice|observation|observance|purpose|intent|intention|aim|design|intelligence
+51,correct,JJ,NA,correct,correct|right,
+51,interpretation,NN,NA,interpret,interpretation|interpreting|reading|rendering|rendition|version,representation|mental representation|internal representation|performance|explanation|account
+51,wealth,NN,NA,wealth,riches|wealth|wealthiness,financial condition|abundance|copiousness|teemingness|material resource|property|belongings|holding
+51,information,NN,NA,inform,data|entropy|info|information|selective information,message|content|subject matter|substance|cognition|knowledge|noesis|accusation|accusal|collection|aggregation|accumulation|assemblage|information measure
+51,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+51,more,RBR,NA,more,more|to a greater extent,
+51,complicated,JJ,NA,complic,complex|complicated,
+51,widely,RB,NA,wide,wide|widely,NA
+51,accept,VBN,ed,accept,accept|admit|assume|bear|consent|go for|have|live with|swallow|take|take on|take over,evaluate|pass judgment|judge|get|acquire|react|respond|accept|take|have|digest|endure|stick out|stomach|bear|stand|tolerate|support|brook|abide|suffer|put up|be|receive
+51,model,NNS,s,model,example|exemplar|fashion model|framework|good example|manakin|manikin|mannequin|mannikin|model|modeling|modelling|poser|role model|simulation|theoretical account,hypothesis|possibility|theory|kind|sort|form|variety|assistant|helper|help|supporter|representation|ideal|leader|mental representation|internal representation
+51,have,VB,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+51,believe,VB,NA,believ,believe|conceive|consider|think|trust,accept|evaluate|pass judgment|judge|expect|anticipate|believe|credit

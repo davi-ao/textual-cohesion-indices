@@ -1,0 +1,108 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,young,JJ,NA,young,immature|new|unseasoned|untested|untried|vernal|young|youthful,
+1,woman,NNS,s,woman,adult female|char|charwoman|cleaning lady|cleaning woman|fair sex|woman|womanhood,female|female person|adult|grownup|cleaner|class|stratum|social class|socio-economic class
+1,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+1,grow,VBG,ing,grow,acquire|arise|develop|farm|get|grow|maturate|mature|originate|produce|raise|rise|spring up|turn|uprise,change|increase|develop|make grow|become|cultivate
+1,ever-changing,JJ,NA,ever-chang,changing|ever-changing,
+1,society,NN,NA,societi,beau monde|bon ton|club|companionship|company|fellowship|gild|guild|high society|lodge|order|smart set|social club|society,social group|association|friendship|friendly relationship|elite|elite group
+2,contributor,NN,NA,contributor,contributor|subscriber,donor|giver|presenter|bestower|conferrer|writer|author
+2,council,NNP,NA,council,council,administrative unit|administrative body|assembly|meeting|group meeting
+2,past,JJ,NA,past,past|past(a)|preceding(a)|retiring(a),
+2,appeal,NNS,s,appeal,appeal|appealingness|charm|collection|entreaty|ingathering|prayer|solicitation,request|asking|attractiveness|proceeding|legal proceeding|proceedings|petition|postulation
+2,know,VBP,NA,know,acknowledge|bang|be intimate|bed|bonk|cognise|cognize|do it|eff|experience|fuck|get it on|get laid|have a go at it|have intercourse|have it away|have it off|have sex|hump|jazz|know|lie with|live|love|make love|make out|recognise|recognize|roll in the hay|screw|sleep together|sleep with,experience|see|go through|accept|copulate|mate|pair|couple|recognize|recognise|realize|realise|agnize|agnise|distinguish|separate|differentiate|secern|secernate|severalize|severalise|tell|tell apart|remember|retrieve|recall|call back|call up|recollect|think
+2,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+2,aware,JJ,NA,awar,aware|aware(p)|cognisant|cognizant|mindful,
+2,mission---to,JJ,NA,mission---to,,NA
+2,prepare,VB,NA,prepar,cook|develop|devise|educate|fix|gear up|get up|groom|machinate|make|organise|organize|prepare|ready|set|set up|train,change|alter|modify|create from raw material|create from raw stuff|make|create|initiate|pioneer|educate|teach|learn|instruct|sound|study|read|take
+2,girl,NNS,s,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+2,ethical,JJ,NA,ethic,ethical|honorable|honourable,
+2,value,NNS,s,valu,economic value|note value|time value|value,numerical quantity|worth|measure|quantity|amount|color property|duration|continuance|ideal
+2,character,NN,NA,charact,case|character|character reference|eccentric|fiber|fibre|fictional character|fictitious character|graph|grapheme|graphic symbol|lineament|part|persona|quality|reference|role|theatrical role|type,imaginary being|imaginary creature|property|attribute|dimension|trait|portrayal|characterization|enactment|personation|adult|grownup|repute|reputation|recommendation|testimonial|good word|written symbol|printed symbol
+2,desire,NN,NA,desir,desire,feeling|tendency|inclination|arousal
+2,succeed,VB,NA,succe,bring home the bacon|come after|come through|deliver the goods|follow|succeed|win,
+2,commitment,NN,NA,commit,allegiance|commitment|committal|committedness|consignment|dedication|loyalty,seriousness|earnestness|serious-mindedness|sincerity|cooperation|engagement|participation|involvement|involution|message|content|subject matter|substance|confinement
+2,community,NN,NA,commun,biotic community|community|community of interests|residential area|residential district,gathering|assemblage|people|ownership|world organization|world organisation|international organization|international organisation|global organization|agreement|accord|district|territory|territorial dominion|dominion|group|grouping
+3,letter,NN,NA,letter,alphabetic character|letter|letter of the alphabet|missive|varsity letter,text|textual matter|document|character|graph|grapheme|graphic symbol|owner|proprietor|literal interpretation|award|accolade|honor|honour|laurels
+3,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,1997,CD,NA,1997,NA,NA
+3,request,NN,NA,request,asking|petition|postulation|request,message|content|subject matter|substance|speech act
+3,3,CD,NA,3,NA,NA
+3,~,NN,NA,~,,NA
+3,gift,NN,NA,gift,endowment|gift|giving|natural endowment|talent,acquisition|natural ability|sharing|share-out
+3,annual,NNP,NA,annual,annual|yearbook|yearly,plant|flora|plant life|reference book|reference|reference work|book of facts
+3,campaign,NNP,NA,campaign,campaign|cause|crusade|drive|effort|hunting expedition|military campaign|movement|political campaign|run|safari,race|venture|operation|military operation|expedition
+3,support,NN,NA,support,accompaniment|backing|backup|bread and butter|documentation|financial backing|financial support|funding|keep|livelihood|living|musical accompaniment|reenforcement|reinforcement|support|supporting|sustenance,activity|aid|assist|assistance|help|influence|operation|military operation|validation|proof|substantiation|resource|supporting structure|part|voice|device
+3,operate,VBG,ing,oper,control|engage|function|go|lock|maneuver|manoeuver|manoeuvre|mesh|operate|operate on|run|work,direct|manipulate|move|go|displace|treat|care for
+3,budget,NN,NA,budget,budget,fund|monetary fund|plan|program|programme
+4,year,NN,NA,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+4,annual,NNP,NA,annual,annual|yearbook|yearly,plant|flora|plant life|reference book|reference|reference work|book of facts
+4,campaign,NNP,NA,campaign,campaign|cause|crusade|drive|effort|hunting expedition|military campaign|movement|political campaign|run|safari,race|venture|operation|military operation|expedition
+4,goal,NN,NA,goal,destination|end|finish|goal,content|cognitive content|mental object|end|terminal|game equipment|score
+4,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+4,65,CD,NA,65,NA,NA
+4,000,CD,NA,000,NA,NA
+5,invite,VB,NA,invit,ask for|ask in|ask over|ask round|bid|call for|invite|pay for|receive|take in|tempt,arouse|elicit|enkindle|kindle|evoke|fire|raise|provoke|request|ask for|bespeak|call for|quest|stimulate|shake|shake up|excite|stir|interact
+5,consider,VB,NA,consid,believe|conceive|consider|count|deal|debate|deliberate|look at|moot|reckon|regard|see|study|take|think|turn over|view|weigh,think|believe|consider|conceive|chew over|think over|meditate|ponder|excogitate|contemplate|muse|reflect|mull|mull over|ruminate|speculate|think about|hash out|discuss|talk over|evaluate|pass judgment|judge|look|analyze|analyse|study|examine|canvass|see|reckon|view|regard
+5,contribution,NN,NA,contribut,contribution|donation|part|share,attempt|effort|endeavor|endeavour|try|gift|giving|sum|sum of money|amount|amount of money|publication|publishing
+6,gift,NN,NA,gift,endowment|gift|giving|natural endowment|talent,acquisition|natural ability|sharing|share-out
+6,many,JJ,NA,mani,many,
+6,other,NNS,s,other,,NA
+6,receive,VBP,NA,receiv,encounter|experience|find|get|have|incur|invite|meet|obtain|pick up|receive|take in|welcome,get|acquire|change|perceive|comprehend|undergo|accept|greet|recognize|recognise|convert|have|experience|celebrate|fete|partake|touch|see|consider|reckon|view|regard
+6,provide,VB,NA,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+6,vital,JJ,NA,vital,critical|life-sustaining|lively|vital,
+6,resource,NNS,s,resourc,imagination|resource|resourcefulness,assets|asset|plus|inventiveness|ingeniousness|ingenuity|cleverness
+6,today,NN,NA,todai,today,present|nowadays|day|twenty-four hours|twenty-four hour period|24-hour interval|solar day|mean solar day
+6,girl,NNP,NA,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+6,scout,NNP,s,scout,guide|lookout|lookout man|pathfinder|picket|scout|Scout|sentinel|sentry|spotter|talent scout|watch,watchman|watcher|security guard|male child|boy|female child|girl|little girl|recruiter|expert
+6,become,VB,NA,becom,become|get|go|suit|turn,change state|turn|transform|transmute|metamorphose|fancify|beautify|embellish|prettify
+6,tomorrow,NN,NA,tomorrow,tomorrow,day|twenty-four hours|twenty-four hour period|24-hour interval|solar day|mean solar day|future|hereafter|futurity|time to come
+6,community,NN,NA,commun,biotic community|community|community of interests|residential area|residential district,gathering|assemblage|people|ownership|world organization|world organisation|international organization|international organisation|global organization|agreement|accord|district|territory|territorial dominion|dominion|group|grouping
+6,business,NN,NA,busi,business|business concern|business enterprise|business organisation|business organization|business sector|byplay|clientele|commercial enterprise|concern|job|line|line of work|occupation|patronage|stage business,enterprise|commerce|commercialism|mercantilism|activity|concern|worry|headache|vexation|aim|object|objective|target|business activity|commercial activity|sector|people|acting|playing|playacting|performing
+6,leader,NNS,s,leader,drawing card|leader|loss leader,person|individual|someone|somebody|mortal|soul|feature
+7,investment,NN,NA,invest,investing|investiture|investment|investment funds,finance|assets|committedness|commitment|skin|tegument|cutis|dressing|grooming|promotion
+7,girl,NNP,NA,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+7,scouting,NNP,NA,scout,exploratory survey|reconnoitering|reconnoitring|scouting,reconnaissance|reconnaissance mission
+7,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+7,one,CD,NA,on,NA,NA
+7,pay,VB,NA,pai,ante up|bear|compensate|devote|give|make up|pay|pay off|pay up|yield,give|communicate|intercommunicate|pay|gain|take in|clear|make|earn|realize|realise|pull in|bring in|settle|think|cogitate|cerebrate|be|digest|endure|stick out|stomach|bear|stand|tolerate|support|brook|abide|suffer|put up|requite|repay
+7,dividend,NNS,s,dividend,dividend,net income|net|net profit|lucre|profit|profits|earnings|number|bonus|incentive
+7,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+7,come,VB,NA,come,add up|amount|arrive|come|come in|come up|derive|descend|do|fall|fare|follow|get|get along|hail|issue forth|make out|number|occur|total,NA
+7,not,RB,NA,not,non|not,NA
+7,only,RB,NA,onli,alone|but|entirely|exclusively|just|merely|only|only if|only when|simply|solely,NA
+7,community,NN,NA,commun,biotic community|community|community of interests|residential area|residential district,gathering|assemblage|people|ownership|world organization|world organisation|international organization|international organisation|global organization|agreement|accord|district|territory|territorial dominion|dominion|group|grouping
+7,workforce,NN,NA,workforc,hands|manpower|men|work force|workforce,force|personnel
+8,recent,JJ,NA,recent,late(a)|recent,
+8,lou,NNP,NA,lou,,NA
+8,harri,NNP,s,harri,,NA
+8,poll,NN,NA,poll,canvass|crown|opinion poll|pate|poll|poll parrot|public opinion poll,inquiry|enquiry|research|top|top side|upper side|upside|parrot|count|counting|numeration|enumeration|reckoning|tally
+8,indicate,VBZ,s,indic,argue|bespeak|betoken|designate|indicate|point|show|signal,tell|inform|present|represent|lay out
+8,66,CD,NA,66,NA,NA
+8,%,NN,NA,%,,NA
+8,today,NN,NA,todai,today,present|nowadays|day|twenty-four hours|twenty-four hour period|24-hour interval|solar day|mean solar day
+8,female,JJ,NA,femal,distaff|female,
+8,business,NN,NA,busi,business|business concern|business enterprise|business organisation|business organization|business sector|byplay|clientele|commercial enterprise|concern|job|line|line of work|occupation|patronage|stage business,enterprise|commerce|commercialism|mercantilism|activity|concern|worry|headache|vexation|aim|object|objective|target|business activity|commercial activity|sector|people|acting|playing|playacting|performing
+8,leader,NNS,s,leader,drawing card|leader|loss leader,person|individual|someone|somebody|mortal|soul|feature
+8,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+8,girl,NNP,NA,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+8,scout,NNP,NA,scout,guide|lookout|lookout man|pathfinder|picket|scout|Scout|sentinel|sentry|spotter|talent scout|watch,watchman|watcher|security guard|male child|boy|female child|girl|little girl|recruiter|expert
+8,background,NNS,s,background,backcloth|backdrop|background|background knowledge|background signal|desktop|ground|scope|screen background|setting,inheritance|heritage|view|aspect|prospect|scene|vista|panorama|information|noise|interference|disturbance|accompaniment|concomitant|attendant|co-occurrence|environment|screen|CRT screen|scenery
+9,take,VB,NA,take,accept|acquire|admit|adopt|aim|ask|assume|bring|call for|carry|charter|choose|claim|conduct|consider|consume|contain|contract|convey|deal|demand|direct|drive|engage|exact|fill|film|get|get hold of|guide|have|hire|hold|ingest|involve|lead|learn|lease|look at|make|necessitate|need|occupy|pack|pick out|postulate|read|remove|rent|require|select|shoot|strike|study|submit|subscribe|subscribe to|take|take aim|take away|take in|take on|take up|train|use up|withdraw,NA
+9,step,NN,NA,step,dance step|footfall|footmark|footprint|footstep|gradation|measure|pace|stair|step|stone's throw|stride|tone|whole step|whole tone,maneuver|manoeuvre|tactical maneuver|tactical manoeuvre|indefinite quantity|locomotion|travel|support|rank|small indefinite quantity|small indefinite amount|sound|interval|musical interval|mark|print|block
+9,make,VBG,ing,make,arrive at|attain|bring in|build|ca-ca|cause|clear|constitute|construct|cook|crap|create|defecate|do|draw|earn|establish|fix|form|gain|get|get to|give|have|hit|hold|induce|lay down|make|make believe|make up|make water|micturate|name|nominate|pass water|pee|pee-pee|piddle|piss|prepare|pretend|produce|progress to|puddle|pull in|reach|ready|realise|realize|relieve oneself|score|seduce|shit|spend a penny|stimulate|stool|take|take a crap|take a leak|take a shit|take in|throw|urinate|wee|wee-wee|work,change|alter|modify|make|create|create by mental act|create mentally|cause|do|get|acquire|constitute|represent|make up|comprise|be|achieve|accomplish|attain|reach|become|create from raw material|create from raw stuff|perform|execute|act|behave|appoint|charge|score|hit|tally|rack up|perpetrate|commit|pull|assemble|gather|get together|direct|tidy|tidy up|clean up|neaten|straighten|straighten out|square away|head|excrete|egest|eliminate|pass|total|number|add up|come|amount|look|appear|seem|arrive at|gain|persuade|guarantee|ensure|insure|assure|secure|play|see|consider|reckon|view|regard|estimate|gauge|approximate|guess|judge|develop|grow
+9,difference,NN,NA,differ,conflict|departure|deviation|difference|difference of opinion|dispute|divergence|remainder,quality|variation|fluctuation|disagreement|change|number
+9,life,NNS,s,life,aliveness|animation|biography|life|life history|life sentence|life story|life-time|lifespan|lifetime|liveliness|living|spirit|sprightliness,being|beingness|existence|face of the earth|experience|time period|period of time|period|person|individual|someone|somebody|mortal|soul|animation|spiritedness|invigoration|brio|vivification|living thing|animate thing|organic phenomenon|history|account|chronicle|story|motivation|motive|need|prison term|sentence|time
+9,young,JJ,NA,young,immature|new|unseasoned|untested|untried|vernal|young|youthful,
+9,woman,NN,NA,woman,adult female|char|charwoman|cleaning lady|cleaning woman|fair sex|woman|womanhood,female|female person|adult|grownup|cleaner|class|stratum|social class|socio-economic class
+9,recommit,NN,NA,recommit,,NA
+9,girl,NNP,NA,girl,daughter|female child|fille|girl|girlfriend|lady friend|little girl|miss|missy|young lady|young woman,woman|adult female|female|female person|female offspring|lover
+9,scout,NNP,NA,scout,guide|lookout|lookout man|pathfinder|picket|scout|Scout|sentinel|sentry|spotter|talent scout|watch,watchman|watcher|security guard|male child|boy|female child|girl|little girl|recruiter|expert
+9,vision,NN,NA,vision,imagination|imaginativeness|sight|vision|visual modality|visual sensation|visual sense,imagination|imaging|imagery|mental imagery|modality|sense modality|sensory system|exteroception|sensation|esthesis|aesthesis|sense experience|sense impression|sense datum|creativity|creativeness|creative thinking|experience
+10,investment,NN,NA,invest,investing|investiture|investment|investment funds,finance|assets|committedness|commitment|skin|tegument|cutis|dressing|grooming|promotion
+10,annual,NNP,NA,annual,annual|yearbook|yearly,plant|flora|plant life|reference book|reference|reference work|book of facts
+10,campaign,NNP,NA,campaign,campaign|cause|crusade|drive|effort|hunting expedition|military campaign|movement|political campaign|run|safari,race|venture|operation|military operation|expedition
+10,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+10,sure,JJ,NA,sure,certain|certain(p)|indisputable|sure|trusted,
+10,yield,VB,NA,yield,afford|bear|buckle under|cede|concede|ease up|generate|give|give in|give way|grant|knuckle under|move over|pay|relent|render|return|soften|succumb|yield,supply|provide|render|furnish|change|produce|make|create|give|move|agree|hold|concur|concord|die|decease|perish|go|exit|pass away|expire|pass|kick the bucket|cash in one's chips|buy the farm|conk|give-up the ghost|drop dead|pop off|choke|croak|snuff it|gain|take in|clear|earn|realize|realise|pull in|bring in|stretch|accept|consent|go for
+10,high,JJ,NA,high,eminent|gamey|gamy|high|high-pitched|in high spirits|mellow,
+10,returns,NNS,NA,return,,NA

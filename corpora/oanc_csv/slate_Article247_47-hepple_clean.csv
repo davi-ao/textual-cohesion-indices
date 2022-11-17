@@ -1,0 +1,197 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,august,NNP,NA,august,Aug|August,Gregorian calendar month
+1,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+1,cruelest,NN,NA,cruelest,,NA
+1,month,NN,NA,month,calendar month|month,time period|period of time|period|time unit|unit of time
+1,reader,NNS,s,reader,lector|lecturer|proofreader|reader|referee|reviewer|subscriber,scholar|scholarly person|bookman|student|customer|client|literate|literate person|critic|printer|pressman|clergyman|reverend|man of the cloth|Holy Order|Order|educator|pedagogue|pedagog|textbook|text|text edition|schoolbook|school text
+1,new,NNP,NA,new,,NA
+1,york,NNP,NA,york,House of York|York,dynasty|royalty|royal family|royal line|royal house
+1,time,NNP,s,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+1,op-ed,JJ,NA,op-,,NA
+1,page,NN,NA,page,page|Page|pageboy|Sir Frederick Handley Page|Thomas Nelson Page|varlet,leaf|folio|messenger boy|errand boy|attendant|attender|tender
+1,not,RB,NA,not,non|not,NA
+1,vacation,NN,NA,vacat,holiday|vacation,leisure|leisure time|abrogation|repeal|annulment
+2,listen,VB,NA,listen,hear|heed|listen|mind|take heed,perceive|comprehend|concentrate|focus|center|centre|pore|rivet|obey
+2,russell,NNP,NA,russel,A.E.|Bertrand Arthur William Russell|Bertrand Russell|Bill Russell|Charles Taze Russell|Earl Russell|George William Russell|Henry Kenneth Alfred Russell|Henry Norris Russell|Henry Russell|Ken Russell|Lillian Russell|Russell|William Felton Russell,
+2,baker,NNP,NA,baker,baker|bread maker,merchant|merchandiser|skilled worker|trained worker|skilled workman
+2,august,NNP,NA,august,Aug|August,Gregorian calendar month
+2,19,CD,NA,19,NA,NA
+2,column,NN,NA,column,chromatography column|column|editorial|newspaper column|pillar|tower,file|single file|Indian file|tube|tubing|array|shape|form|article|structure|construction|upright|vertical|text|textual matter|skeletal structure
+2,absolutely,RB,NA,absolut,absolutely|dead|perfectly|utterly,
+2,nothing,NN,NA,noth,aught|cipher|cypher|goose egg|nada|naught|nil|nix|nothing|null|zero|zilch|zip|zippo,relative quantity
+2,save,VBP,NA,save,bring through|carry through|deliver|economise|economize|hold open|keep|keep open|lay aside|make unnecessary|preserve|pull through|redeem|relieve|salvage|salve|save|save up|spare|write,rescue|deliver|keep|hold on|prevent|forestall|foreclose|preclude|forbid|refrain|forbear|spend|expend|drop|reserve|hold|book|record|tape
+2,fact,NN,NA,fact,fact,information|info|reality|realness|realism|concept|conception|construct
+2,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+2,summered,JJ,NA,summer,,NA
+2,nantucket,NNP,NA,nantucket,Nantucket,
+2,long,JJ,NA,long,farseeing|farsighted|foresighted|foresightful|long|longsighted|prospicient|recollective|retentive|tenacious,
+2,time,NN,NA,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+3,use,VBD,ed,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+3,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,take,VBD,ed,take,accept|acquire|admit|adopt|aim|ask|assume|bring|call for|carry|charter|choose|claim|conduct|consider|consume|contain|contract|convey|deal|demand|direct|drive|engage|exact|fill|film|get|get hold of|guide|have|hire|hold|ingest|involve|lead|learn|lease|look at|make|necessitate|need|occupy|pack|pick out|postulate|read|remove|rent|require|select|shoot|strike|study|submit|subscribe|subscribe to|take|take aim|take away|take in|take on|take up|train|use up|withdraw,NA
+3,ferry,NN,NA,ferri,ferry|ferryboat|ferrying,boat|transportation|shipping|transport
+3,nantucket,NNP,NA,nantucket,Nantucket,
+3,island,NNP,NA,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+3,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,really,RB,NA,realli,actually|genuinely|in truth|rattling|real|really|truly|very,NA
+5,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+5,part,NN,NA,part,character|component|component part|constituent|contribution|division|function|office|part|parting|percentage|persona|piece|portion|region|role|section|share|theatrical role|voice,relation|object|physical object|thing|concern|location|duty|portrayal|characterization|enactment|personation|assets|concept|conception|construct|line|tune|melody|air|strain|melodic line|melodic phrase|attempt|effort|endeavor|endeavour|try|item
+5,charm,NN,NA,charm,appeal|appealingness|charm|good luck charm|magic spell|magical spell|spell,attractiveness|speech|speech communication|spoken communication|spoken language|language|voice communication|oral communication|object|physical object|flavor|flavour
+6,baker,NNP,NA,baker,baker|bread maker,merchant|merchandiser|skilled worker|trained worker|skilled workman
+6,go,VBZ,s,go,become|belong|blend|blend in|break|break down|buy the farm|cash in one's chips|choke|conk|conk out|croak|decease|depart|die|drop dead|endure|exit|expire|extend|fail|fit|function|get|get going|give out|give way|give-up the ghost|go|go away|go bad|hold out|hold up|kick the bucket|last|lead|live|live on|locomote|move|operate|pass|pass away|perish|plump|pop off|proceed|rifle|run|run low|run short|snuff it|sound|start|survive|travel|work,NA
+6,complain,VB,NA,complain,complain|kick|kvetch|plain|quetch|sound off,charge
+6,island,NN,NA,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+6,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+6,popularity,NN,NA,popular,popularity,quality
+6,ostentatious,JJ,NA,ostentati,ostentatious|pretentious,
+6,display,NNS,s,displai,display|exhibit|presentation|show|showing|video display,demonstration|demo|show|representation|disclosure|revelation|revealing|communication|electronic device
+6,wealth,NN,NA,wealth,riches|wealth|wealthiness,financial condition|abundance|copiousness|teemingness|material resource|property|belongings|holding
+7,less,JJR,NA,less,less|less(a),
+7,fortunate,JJ,NA,fortun,fortunate|golden|rosy,
+7,reader,NNS,s,reader,lector|lecturer|proofreader|reader|referee|reviewer|subscriber,scholar|scholarly person|bookman|student|customer|client|literate|literate person|critic|printer|pressman|clergyman|reverend|man of the cloth|Holy Order|Order|educator|pedagogue|pedagog|textbook|text|text edition|schoolbook|school text
+7,not,RB,NA,not,non|not,NA
+7,quite,RB,NA,quit,quite|quite a|quite an|rather,NA
+7,share,VB,NA,share,apportion|deal|divvy up|partake|partake in|portion out|share,overlap|use|utilize|utilise|apply|employ|get|acquire|distribute|give out|hand out|pass out|communicate|intercommunicate
+7,baker,NNP,NA,baker,baker|bread maker,merchant|merchandiser|skilled worker|trained worker|skilled workman
+7,indignation,NN,NA,indign,indignation|outrage,anger|choler|ire
+8,august,NNP,NA,august,Aug|August,Gregorian calendar month
+8,27,CD,NA,27,NA,NA
+8,dateline,NN,NA,datelin,date line|dateline|International Date Line,line
+8,west,NNP,NA,west,Benjamin West|Cicily Isabel Fairfield|Dame Rebecca West|due west|Mae West|Occident|Rebecca West|W|west|West|western United States|westward,cardinal compass point|direction|location
+8,tisbury,NNP,NA,tisburi,,NA
+8,mass,NNP,NA,mass,batch|bulk|deal|flock|good deal|great deal|hatful|heap|hoi polloi|lot|mass|Mass|masses|mess|mickle|mint|mountain|muckle|multitude|passel|peck|people|pile|plenty|pot|quite a little|raft|sight|slew|spate|stack|the great unwashed|tidy sum|volume|wad,fundamental quantity|fundamental measure|physical property|large indefinite quantity|large indefinite amount|collection|aggregation|accumulation|assemblage|religious ceremony|religious ritual|body|group|grouping|magnitude|religious music|church music|prayer
+8,well-known,JJ,NA,well-known,long-familiar|well-known|well-known(a),
+8,news,NN,NA,new,intelligence|news|news program|news show|newsworthiness|tidings|word,information|info|broadcast|program|programme|interest|interestingness
+8,hotspot,NN,NA,hotspot,flashpoint|hot spot|hotspot|trouble spot,geographical area|geographic area|geographical region|geographic region|point|spot
+8,ward,NNP,NA,ward,Aaron Montgomery Ward|Barbara Ward|Baroness Jackson of Lodsworth|cellblock|hospital ward|Mary Augusta Arnold Ward|Montgomery Ward|Mrs. Humphrey Ward|ward|Ward,person|individual|someone|somebody|mortal|soul|administrative district|administrative division|territorial division|block
+8,just,RB,NA,just,barely|but|exactly|hardly|just|just now|merely|only|precisely|properly|scarce|scarcely|simply,NA
+8,take,VBZ,s,take,accept|acquire|admit|adopt|aim|ask|assume|bring|call for|carry|charter|choose|claim|conduct|consider|consume|contain|contract|convey|deal|demand|direct|drive|engage|exact|fill|film|get|get hold of|guide|have|hire|hold|ingest|involve|lead|learn|lease|look at|make|necessitate|need|occupy|pack|pick out|postulate|read|remove|rent|require|select|shoot|strike|study|submit|subscribe|subscribe to|take|take aim|take away|take in|take on|take up|train|use up|withdraw,NA
+8,political,JJ,NA,polit,political,
+8,pulse,NN,NA,puls,beat|heart rate|heartbeat|impulse|pulsation|pulse|pulse rate|pulsing,wave|undulation|periodic event|recurrent event|vital sign|rate|legume
+8,find,VBZ,s,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+8,vineyarder,NNP,s,vineyard,,NA
+8,less,RBR,NA,less,less|to a lesser extent,
+8,excited,JJ,NA,excit,activated|aroused|delirious|emotional|excited|frantic|mad|unrestrained|worked up,
+8,president,NN,NA,presid,chair|chairman|chairperson|chairwoman|Chief Executive|president|President|President of the United States|prexy|United States President,corporate executive|business executive|head of state|chief of state|presiding officer|academic administrator|presidency|presidentship
+8,visit,NN,NA,visit,sojourn|visit,meeting|coming together|congress|get together|stay
+8,year,NN,NA,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+9,also,RB,NA,also,also|as well|besides|likewise|too,NA
+9,describe,VBZ,s,describ,account|delineate|depict|describe|discover|distinguish|draw|identify|key|key out|line|name|report|trace,set forth|expound|exposit|inform|mark
+9,detail,NN,NA,detail,contingent|detail|item|particular|point,fact|part|portion|component part|component|constituent|discussion|treatment|discourse|gang|crew|work party|military unit|military force|military group|force
+9,moment,NNS,s,moment,bit|consequence|here and now|import|instant|minute|mo|moment|present moment|second,point|point in time|time|present|nowadays|significance|force|statistic
+9,island,NN,NA,island,island,land|dry land|earth|ground|solid ground|terra firma|zone
+9,milk,NN,NA,milk,milk|Milk|Milk River,dairy product|beverage|drink|drinkable|potable|liquid body substance|bodily fluid|body fluid|humor|humour|nutriment|nourishment|nutrition|sustenance|aliment|alimentation|victuals|foodstuff|food product
+9,meadow,NNP,s,meadow,hayfield|meadow,grassland
+9,golf,NN,NA,golf,golf|golf game,outdoor game
+9,course,NN,NA,cours,class|course|course of action|course of instruction|course of study|form|grade|line|path|row|track|trend,education|instruction|teaching|pedagogy|didactics|educational activity|series|direction|way|action|line|gathering|assemblage|nutriment|nourishment|nutrition|sustenance|aliment|alimentation|victuals|layer|bed|facility|installation
+10,same,JJ,NA,same,like|same|same(p),
+10,page,NN,NA,page,page|Page|pageboy|Sir Frederick Handley Page|Thomas Nelson Page|varlet,leaf|folio|messenger boy|errand boy|attendant|attender|tender
+10,northeast,NNP,NA,northeast,NE|nor'-east|northeast|Northeast|northeastern United States|northeastward,compass point|point|direction|location
+10,harbor,NNP,NA,harbor,harbor|harbour|haven|seaport,port|refuge|sanctuary|asylum
+10,dateline,NN,NA,datelin,date line|dateline|International Date Line,line
+10,paul,NNP,NA,paul,Alice Paul|Apostle of the Gentiles|Apostle Paul|Paul|Paul the Apostle|Saint Paul|Saul|Saul of Tarsus|St. Paul,
+10,h,NNP,NA,h,atomic number 1|enthalpy|h|H|heat content|henry|hydrogen|Planck's constant|total heat,chemical element|element|gas|inductance unit|factor of proportionality|constant of proportionality|letter|letter of the alphabet|alphabetic character|physical property
+10,nitze,NNP,NA,nitz,,NA
+10,contribute,VBZ,s,contribut,add|bestow|bring|chip in|conduce|contribute|give|impart|kick in|lead|lend|put up,change|alter|modify|give|promote|advance|boost|further|encourage|pay
+10,piece,NN,NA,piec,art object|bit|composition|firearm|man|musical composition|objet d'art|opus|part|patch|piece|piece of music|slice|small-arm|spell|while,part|portion|item|thing|music|case|instance|example|creation|gun|helping|serving|distance|work of art|time|share|percentage|game equipment
+10,ostensibly,RB,NA,ostensibli,apparently|on the face of it|ostensibly|seemingly,
+10,industrial,JJ,NA,industri,industrial,
+10,smog,NN,NA,smog,smog|smogginess,air pollution
+11,lede,NN,NA,lede,lead|lead-in|lede,section|subdivision
+12,past,JJ,NA,past,past|past(a)|preceding(a)|retiring(a),
+12,60,CD,NA,60,NA,NA
+12,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+12,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+12,vacationed,JJ,NA,vacat,,NA
+12,maine,NNP,NA,main,Maine|ME|Me.|Pine Tree State,
+12,summer,NN,NA,summer,summer|summertime,season|time of year|time of life
+13,time,NNP,s,time,clip|clock time|fourth dimension|meter|metre|prison term|sentence|time,case|instance|example|time period|period of time|period|moment|minute|second|instant|attribute|experience|reading|meter reading|indication|dimension|rhythmicity|term
+13,op-ed,JJ,NA,op-,,NA
+13,page,NN,NA,page,page|Page|pageboy|Sir Frederick Handley Page|Thomas Nelson Page|varlet,leaf|folio|messenger boy|errand boy|attendant|attender|tender
+13,turn,VBZ,s,turn,become|bend|call on|change by reversal|change state|deform|ferment|flex|grow|move around|plough|plow|release|reverse|rick|sour|sprain|turn|turn over|twist|work|wrench|wrick,move|change|transform|transmute|metamorphose|displace|travel|go|locomote|transmit|transfer|transport|channel|channelize|channelise|send|direct|till|shape|form|turn|grow|discolor|discolour|colour|color|injure|wound|alter|modify|do|perform|get|acquire|change shape|change form|deform|operate|control|aim|take|train|take aim|appeal|invoke|change state|senesce|age|get on|mature|maturate
+13,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+13,subtle,JJ,NA,subtl,elusive|insidious|pernicious|subtle,
+13,way,NNS,s,wai,agency|direction|elbow room|fashion|manner|means|mode|path|room|style|way|way of life,property|implementation|effectuation|path|route|itinerary|condition|status|course|course of action|artifact|artefact|journey|journeying|position|spatial relation|distance|choice|pick|selection|category|share|portion|part|percentage
+13,taunting,NN,NA,taunt,taunt|taunting|twit,aggravation|irritation|provocation
+13,work-bound,JJ,NA,work-bound,,NA
+13,reader,NNS,s,reader,lector|lecturer|proofreader|reader|referee|reviewer|subscriber,scholar|scholarly person|bookman|student|customer|client|literate|literate person|critic|printer|pressman|clergyman|reverend|man of the cloth|Holy Order|Order|educator|pedagogue|pedagog|textbook|text|text edition|schoolbook|school text
+14,august,NNP,NA,august,Aug|August,Gregorian calendar month
+14,24,CD,NA,24,NA,NA
+14,page,NN,NA,page,page|Page|pageboy|Sir Frederick Handley Page|Thomas Nelson Page|varlet,leaf|folio|messenger boy|errand boy|attendant|attender|tender
+14,offer,VBZ,s,offer,bid|declare oneself|extend|offer|offer up|pop the question|proffer|propose|provide|put up|tender|volunteer,supply|provide|render|furnish|give|act|move|project|propose|pay|market|produce|bring on|bring out|worship|engage|wage|request|threaten
+14,straight-ahead,JJ,NA,straight-ahead,,NA
+14,piece,NNS,s,piec,art object|bit|composition|firearm|man|musical composition|objet d'art|opus|part|patch|piece|piece of music|slice|small-arm|spell|while,part|portion|item|thing|music|case|instance|example|creation|gun|helping|serving|distance|work of art|time|share|percentage|game equipment
+14,up,NNP,s,up,,NA
+14,strike,NN,NA,strike,bang|hit|rap|smash|smasher|strike|tap|ten-strike|work stoppage,job action|attack|onslaught|onset|onrush|blow|bump|score|pitch|delivery|success
+14,current,JJ,NA,current,current,
+14,understanding,NN,NA,understand,agreement|apprehension|discernment|intellect|reason|savvy|sympathy|understanding,knowing|statement|inclination|disposition|tendency|faculty|mental faculty|module
+14,cosmos,NNS,NA,cosmo,cosmea|cosmos|creation|existence|macrocosm|universe|world,natural object|flower
+14,dateline,NNS,s,datelin,date line|dateline|International Date Line,line
+14,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+14,east,NNP,NA,east,due east|E|east|East|eastern United States|eastward|Orient,cardinal compass point|direction|location
+14,hampton,NNP,NA,hampton,Hampton|Lionel Hampton,
+14,ny,NNP,NA,ny,Empire State|N.Y.|New York|New York State|NY,
+14,chilmark,NNP,NA,chilmark,,NA
+14,mass,NNP,NA,mass,batch|bulk|deal|flock|good deal|great deal|hatful|heap|hoi polloi|lot|mass|Mass|masses|mess|mickle|mint|mountain|muckle|multitude|passel|peck|people|pile|plenty|pot|quite a little|raft|sight|slew|spate|stack|the great unwashed|tidy sum|volume|wad,fundamental quantity|fundamental measure|physical property|large indefinite quantity|large indefinite amount|collection|aggregation|accumulation|assemblage|religious ceremony|religious ritual|body|group|grouping|magnitude|religious music|church music|prayer
+15,give,VBN,en,give,afford|apply|break|cave in|chip in|collapse|commit|consecrate|contribute|dedicate|devote|ease up|establish|fall in|feed|founder|generate|gift|give|give way|grant|hand|have|hold|impart|kick in|leave|make|move over|open|pass|pass on|pay|present|reach|render|return|sacrifice|throw|turn over|yield,supply|provide|render|furnish|transfer|state|say|tell|communicate|intercommunicate|direct|make|create|think|cogitate|cerebrate|produce|pass|hand|reach|pass on|turn over|give|utter|emit|let out|let loose|release|relinquish|resign|free|give up|use|utilize|utilise|apply|employ|administer|dispense|distribute|mete out|deal|parcel out|lot|shell out|deal out|dish out|allot|dole out|move|ply|cater|change|estimate|gauge|approximate|guess|judge|execute|compensate|recompense|repair|indemnify|show|perform|stretch|toast|drink|pledge|salute|wassail|accord|grant|express|evince|submit|lead|permit|allow|let|countenance|inflict|bring down|visit|impose|happen|hap|go on|pass off|occur|fall out|come about|take place|accept|consent|go for|offer|proffer
+15,page,NN,NA,page,page|Page|pageboy|Sir Frederick Handley Page|Thomas Nelson Page|varlet,leaf|folio|messenger boy|errand boy|attendant|attender|tender
+15,do,VBZ,s,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+15,n't,RB,NA,n't,,NA
+15,publish,VB,NA,publish,bring out|issue|print|publish|put out|release,produce|make|create|publicize|publicise|air|bare
+15,dateline,NNS,s,datelin,date line|dateline|International Date Line,line
+15,op-ed,JJ,NA,op-,,NA
+15,reader,NN,NA,reader,lector|lecturer|proofreader|reader|referee|reviewer|subscriber,scholar|scholarly person|bookman|student|customer|client|literate|literate person|critic|printer|pressman|clergyman|reverend|man of the cloth|Holy Order|Order|educator|pedagogue|pedagog|textbook|text|text edition|schoolbook|school text
+15,only,RB,NA,onli,alone|but|entirely|exclusively|just|merely|only|only if|only when|simply|solely,NA
+15,sense,VB,NA,sens,feel|sense|smell|smell out,perceive|comprehend|detect|observe|find|discover|notice|understand
+15,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+15,be,VBG,ing,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+15,mock,VBN,ed,mock,bemock|mock,treat|handle|do by|imitate|copy|simulate
+16,even,RB,NA,even,even|still|yet,NA
+16,piece,NNS,s,piec,art object|bit|composition|firearm|man|musical composition|objet d'art|opus|part|patch|piece|piece of music|slice|small-arm|spell|while,part|portion|item|thing|music|case|instance|example|creation|gun|helping|serving|distance|work of art|time|share|percentage|game equipment
+16,do,VBP,NA,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+16,n't,RB,NA,n't,,NA
+16,carry,VB,NA,carri,acquit|bear|behave|carry|channel|comport|conduct|contain|convey|deport|dribble|expect|express|extend|gestate|have a bun in the oven|hold|impart|pack|persuade|post|run|stock|stockpile|sway|take|transmit|transport,move|displace|have|feature|bring|convey|take|communicate|intercommunicate|hold|support|sustain|hold up|include|effect|continue|imply|involve|win|carry|bear|act|have got|circulate|circularize|circularise|distribute|disseminate|propagate|broadcast|spread|diffuse|disperse|pass around|hit|pass on|pass|pass along|put across|range|keep|maintain|influence|act upon|work|compensate|counterbalance|correct|make up|even out|even off|even up|promote|advance|boost|further|encourage|appropriate|capture|seize|conquer|transfer|shift|follow|grow|raise|farm|produce|propel|impel|hit the bottle|drink|booze|fuddle|nourish|nurture|travel|go|locomote|obtain|perform|execute|do|give birth|deliver|birth
+16,dateline,NNS,s,datelin,date line|dateline|International Date Line,line
+16,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+16,case,NN,NA,case,case|caseful|casing|causa|cause|character|compositor's case|display case|eccentric|event|example|face|font|fount|grammatical case|guinea pig|instance|lawsuit|pillow slip|pillowcase|sheath|shell|showcase|slip|subject|suit|type|typeface|typesetter's case|vitrine,happening|occurrence|occurrent|natural event|circumstance|proceeding|legal proceeding|proceedings|fact|container|person|individual|someone|somebody|mortal|soul|problem|argument|statement|containerful|grammatical category|syntactic category|state of mind|frame of mind|adult|grownup|type|covering|natural covering|cover|housing|framework|frame|receptacle|bed linen
+16,m,NNP,NA,m,1000|chiliad|G|grand|K|m|M|MB|mebibyte|megabyte|meter|metre|MiB|molar concentration|molarity|one thousand|thou|thousand|yard,metric linear unit|concentration|large integer|computer memory unit|letter|letter of the alphabet|alphabetic character
+16,rosenthal,NNP,NA,rosenth,,NA
+16,column,NN,NA,column,chromatography column|column|editorial|newspaper column|pillar|tower,file|single file|Indian file|tube|tubing|array|shape|form|article|structure|construction|upright|vertical|text|textual matter|skeletal structure
+16,august,NNP,NA,august,Aug|August,Gregorian calendar month
+16,12,CD,NA,12,NA,NA
+16,section,NN,NA,section,department|discussion section|division|incision|part|plane section|section|segment|subdivision|surgical incision,writing|written material|piece of writing|music|slice|area|country|part|portion|team|squad|concept|conception|construct|square mile|expanse|surface area|class|form|grade|course|musical organization|musical organisation|musical group|army unit|division|segment|cut|cutting
+16,still,RB,NA,still,all the same|at the same time|even|even so|however|nevertheless|nonetheless|notwithstanding|still|stock-still|withal|yet,NA
+16,find,VBZ,s,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+16,way,NN,NA,wai,agency|direction|elbow room|fashion|manner|means|mode|path|room|style|way|way of life,property|implementation|effectuation|path|route|itinerary|condition|status|course|course of action|artifact|artefact|journey|journeying|position|spatial relation|distance|choice|pick|selection|category|share|portion|part|percentage
+16,scald,NN,NA,scald,scald,burn
+16,still,RB,NA,still,all the same|at the same time|even|even so|however|nevertheless|nonetheless|notwithstanding|still|stock-still|withal|yet,NA
+16,straphange,VBG,ing,straphang,,NA
+16,august,NNP,NA,august,Aug|August,Gregorian calendar month
+16,heat,NN,NA,heat,estrus|heat|heat energy|heating|heating plant|heating system|high temperature|hotness|oestrus|passion|rut|warmth,energy|free energy|temperature|emotionality|emotionalism|physical condition|physiological state|physiological condition|race|utility
+17,lovely,NNP,NA,love,cover girl|lovely|pin-up,photographer's model
+17,day,NN,NA,dai,24-hour interval|Clarence Day|Clarence Shepard Day Jr.|day|Day|daylight|daytime|mean solar day|sidereal day|solar day|twenty-four hour period|twenty-four hours,time unit|unit of time|time|calendar day|civil day|time period|period of time|period|work time|era|epoch|sidereal time|opportunity|chance
+17,shore--warmed,JJ,NA,shore--warm,,NA
+17,sun,NN,NA,sun,Dominicus|Lord's Day|sun|Sun|Sunday|sunlight|sunshine,light|visible light|visible radiation|important person|influential person|personage|star|rest day|day of rest
+17,rosenthal,NNP,NA,rosenth,,NA
+17,begin,VBZ,s,begin,begin|commence|get|get down|lead off|set about|set out|start|start out,talk|speak|utter|mouth|verbalize|verbalise|be|act|move|achieve|accomplish|attain|reach
+18,then,RB,NA,then,and so|so|then,NA
+18,jimmy,NNP,NA,jimmi,jemmy|jimmy,crowbar|wrecking bar|pry|pry bar
+18,carter,NNP,NA,carter,carter|Carter|Howard Carter|James Earl Carter|James Earl Carter Jr.|Jimmy Carter|President Carter,worker
+18,appear,VBZ,s,appear,appear|come along|come out|look|seem,be|happen|materialize|materialise|perform|execute|do
+18,bring,VBG,ing,bring,add|bestow|bring|bring in|contribute|convey|fetch|get|impart|institute|land|lend|make for|play|take|work|wreak,transport|carry|change|alter|modify|make|create|transmit|transfer|channel|channelize|channelise|attract|pull|pull in|draw|draw in|induce|stimulate|cause|have|get
+18,shadow,NN,NA,shadow,apparition|dark|darkness|fantasm|phantasm|phantasma|phantom|shadow|shadower|tail|tincture|trace|vestige,shade|shadiness|shadowiness|scene|illusion|semblance|foreboding|premonition|presentiment|boding|indication|indicant|recourse|refuge|resort|presence|follower|spy
+18,travel,VBZ,s,travel,go|jaunt|journey|locomote|move|move around|travel|trip,travel|trip|jaunt|go|move|locomote
+18,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+19,jimmy,NNP,NA,jimmi,jemmy|jimmy,crowbar|wrecking bar|pry|pry bar
+19,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+19,n't,RB,NA,n't,,NA
+19,just,RB,NA,just,barely|but|exactly|hardly|just|just now|merely|only|precisely|properly|scarce|scarcely|simply,NA
+19,join,VBN,ed,join,conjoin|connect|fall in|get together|join|link|link up|unite,NA
+19,abe,NNP,NA,ab,,NA
+19,beach,NN,NA,beach,beach,geological formation|formation
+20,39,CD,NA,39,NA,NA
+20,th,NN,NA,th,atomic number 90|Th|thorium|Thursday,weekday|metallic element|metal
+20,president--like,JJ,NA,president--lik,,NA
+20,reader--i,JJ,s,reader--i,,NA
+20,imagine,VBN,ed,imagin,conceive of|envisage|guess|ideate|imagine|opine|reckon|suppose|think,create by mental act|create mentally|expect|anticipate
+20,presence,NN,NA,presenc,bearing|comportment|front|mien|presence,being|beingness|existence|face of the earth|proximity|spirit|disembodied spirit|impression|feeling|belief|notion|opinion|manner|personal manner|attendance|attending

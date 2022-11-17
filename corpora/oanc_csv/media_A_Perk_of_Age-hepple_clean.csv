@@ -1,0 +1,244 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,free,NNP,NA,free,free|free people,people
+1,legal,NNP,NA,legal,,NA
+1,advice,NN,NA,advic,advice,proposal
+1,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+1,only,RB,NA,onli,alone|but|entirely|exclusively|just|merely|only|only if|only when|simply|solely,NA
+1,phone,NN,NA,phone,earphone|earpiece|headphone|phone|sound|speech sound|telephone|telephone set,electronic equipment|language unit|linguistic unit|electro-acoustic transducer
+1,call,NN,NA,call,birdcall|birdsong|call|Call|call option|claim|cry|margin call|outcry|phone call|shout|song|telephone call|vociferation|yell,telephone|telephony|inclination|disposition|tendency|utterance|vocalization|demand|animal communication|visit|request|asking|instruction|command|statement|program line|decision|determination|conclusion|option
+1,away,RB,NA,awai,aside|away|by|forth|off|out,NA
+2,hot,JJ,NA,hot,blistering|hot|live|raging|red-hot|spicy,
+2,line,NNS,s,line,agate line|air|ancestry|argument|argumentation|assembly line|bank line|billet|blood|blood line|bloodline|business|business line|cable|channel|communication channel|contrast|course|crease|credit line|crinkle|demarcation|descent|dividing line|furrow|job|line|line of business|line of credit|line of descent|line of merchandise|line of products|line of reasoning|line of work|lineage|logical argument|melodic line|melodic phrase|melody|note|occupation|origin|parentage|pedigree|personal credit line|personal line of credit|phone line|pipeline|product line|production line|rail line|railway line|seam|short letter|stemma|stock|strain|subscriber line|telephone circuit|telephone line|transmission line|tune|wrinkle,formation|mark|print|shape|form|text|textual matter|electromagnetic radiation|electromagnetic wave|nonparticulate radiation|military position|position|reasoning|logical thinking|abstract thought|conductor|series|location|depression|impression|imprint|pipe|pipage|piping|road|route|connection|connexion|connector|connecter|connective|conformity|conformation|compliance|abidance|genealogy|family tree|artifact|artefact|activity|communication|communicating|merchandise|ware|product|carrier|common carrier|area unit|square measure|credit|music|persuasion|suasion|personal letter|differentiation|distinction|mechanical system
+2,provide,VBP,NA,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+2,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+2,expand,VBG,ing,expand,amplify|blow up|boom|dilate|elaborate|enlarge|expand|expatiate|exposit|expound|extend|flesh out|flourish|inflate|lucubrate|spread out|thrive,grow|enlarge|increase|clarify|clear up|elucidate|change|alter|modify
+2,service,NNS,s,servic,armed service|avail|divine service|help|inspection and repair|military service|overhaul|religious service|Robert William Service|serve|service|Service|service of process|servicing|serving|table service,work|aid|assist|assistance|help|religious ceremony|religious ritual|company|employment|force|personnel|helpfulness|tableware|coupling|mating|pairing|conjugation|union|sexual union|activity|tennis stroke|tennis shot|delivery|bringing|care|maintenance|upkeep|accommodation
+3,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,little,RB,NA,littl,little,NA
+3,know,VBN,en,know,acknowledge|bang|be intimate|bed|bonk|cognise|cognize|do it|eff|experience|fuck|get it on|get laid|have a go at it|have intercourse|have it away|have it off|have sex|hump|jazz|know|lie with|live|love|make love|make out|recognise|recognize|roll in the hay|screw|sleep together|sleep with,experience|see|go through|accept|copulate|mate|pair|couple|recognize|recognise|realize|realise|agnize|agnise|distinguish|separate|differentiate|secern|secernate|severalize|severalise|tell|tell apart|remember|retrieve|recall|call back|call up|recollect|think
+3,perk,JJ,NA,perk,,NA
+3,available,JJ,NA,avail,available|uncommitted|usable|useable,
+3,anyone,NN,NA,anyon,,NA
+3,60,CD,NA,60,NA,NA
+3,older,JJR,NA,older,aged|elder|elderly|old|older|senior|sr.,
+4,21,CD,NA,21,NA,NA
+4,state,NNS,s,state,body politic|commonwealth|country|Department of State|DoS|land|nation|province|res publica|state|State|State Department|state of matter|United States Department of State,administrative district|administrative division|territorial division|attribute|government|authorities|regime|political unit|political entity|chemical phenomenon|emotional state|spirit|executive department
+4,washington,NNP,NA,washington,American capital|Booker T. Washington|Booker Taliaferro Washington|Capital|capital of the United States|Evergreen State|George Washington|President Washington|WA|Wash.|Washington|Washington D.C.,
+4,dc,NNP,NA,dc,D.C.|DC|direct current|direct electric current|District of Columbia,electricity|electrical energy|power
+4,puerto,NNP,NA,puerto,,NA
+4,rico,NNP,NA,rico,anti-racketeering law|Racketeer Influenced and Corrupt Organizations Act|RICO|RICO Act,law
+4,operate,VB,NA,oper,control|engage|function|go|lock|maneuver|manoeuver|manoeuvre|mesh|operate|operate on|run|work,direct|manipulate|move|go|displace|treat|care for
+4,legal-assistance,JJ,NA,legal-assist,,NA
+4,hot,JJ,NA,hot,blistering|hot|live|raging|red-hot|spicy,
+4,line,NNS,s,line,agate line|air|ancestry|argument|argumentation|assembly line|bank line|billet|blood|blood line|bloodline|business|business line|cable|channel|communication channel|contrast|course|crease|credit line|crinkle|demarcation|descent|dividing line|furrow|job|line|line of business|line of credit|line of descent|line of merchandise|line of products|line of reasoning|line of work|lineage|logical argument|melodic line|melodic phrase|melody|note|occupation|origin|parentage|pedigree|personal credit line|personal line of credit|phone line|pipeline|product line|production line|rail line|railway line|seam|short letter|stemma|stock|strain|subscriber line|telephone circuit|telephone line|transmission line|tune|wrinkle,formation|mark|print|shape|form|text|textual matter|electromagnetic radiation|electromagnetic wave|nonparticulate radiation|military position|position|reasoning|logical thinking|abstract thought|conductor|series|location|depression|impression|imprint|pipe|pipage|piping|road|route|connection|connexion|connector|connecter|connective|conformity|conformation|compliance|abidance|genealogy|family tree|artifact|artefact|activity|communication|communicating|merchandise|ware|product|carrier|common carrier|area unit|square measure|credit|music|persuasion|suasion|personal letter|differentiation|distinction|mechanical system
+4,older,JJR,NA,older,aged|elder|elderly|old|older|senior|sr.,
+4,adult,NNS,s,adult,adult|grownup,person|individual|someone|somebody|mortal|soul|animal|animate being|beast|brute|creature|fauna
+4,most,JJS,NA,most,most(a),
+4,take,VB,NA,take,accept|acquire|admit|adopt|aim|ask|assume|bring|call for|carry|charter|choose|claim|conduct|consider|consume|contain|contract|convey|deal|demand|direct|drive|engage|exact|fill|film|get|get hold of|guide|have|hire|hold|ingest|involve|lead|learn|lease|look at|make|necessitate|need|occupy|pack|pick out|postulate|read|remove|rent|require|select|shoot|strike|study|submit|subscribe|subscribe to|take|take aim|take away|take in|take on|take up|train|use up|withdraw,NA
+4,call,VBZ,s,call,address|anticipate|be known as|bid|call|call in|call off|call up|cry|forebode|foretell|holler|hollo|know as|name|phone|predict|prognosticate|promise|ring|scream|send for|shout|shout out|squall|telephone|visit|yell,label|telecommunicate|utter|emit|let out|let loose|order|tell|enjoin|say|meet|get together|request|ask for|bespeak|call for|quest|read|postpone|prorogue|hold over|put over|table|shelve|set back|defer|remit|put off|address|turn to|stop|stop over|demand|exact|play|indicate|guess|venture|pretend|hazard|ask|require|expect|challenge|dispute|gainsay|declare|adjudge|hold|entice|lure|tempt|see|consider|reckon|view|regard|awaken|wake|waken|rouse|wake up|arouse
+4,younger,JJR,NA,younger,jr.|younger,
+4,caregiver,NNS,s,caregiv,caregiver|health care provider|health professional|PCP|primary care provider,professional|professional person|adult|grownup
+4,as,RB,NA,a,as|equally|every bit,
+4,well,RB,NA,well,advantageously|comfortably|considerably|easily|good|intimately|substantially|well,NA
+5,volunteer,NNP,s,volunt,military volunteer|Tennessean|unpaid worker|voluntary|volunteer|Volunteer,serviceman|military man|man|military personnel|worker|American
+5,offer,NN,NA,offer,crack|fling|go|offer|offering|pass|whirl,speech act|message|content|subject matter|substance|attempt|effort|endeavor|endeavour|try
+5,advice,NN,NA,advic,advice,proposal
+5,legal,JJ,NA,legal,effectual|legal|sound,
+5,question,NNS,s,question,doubt|doubtfulness|dubiousness|enquiry|head|inquiry|interrogation|interrogative|interrogative sentence|motion|query|question,questioning|inquiring|subject|topic|theme|sentence|uncertainty|uncertainness|precariousness|proposal|marriage proposal|proposal of marriage|marriage offer
+5,provide,VB,NA,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+5,self-help,NN,NA,self-help,self-help,aid|assist|assistance|help
+5,material,NNS,s,materi,cloth|fabric|material|stuff|textile,substance|information|info|artifact|artefact|equipment|applicant|applier
+5,make,VB,NA,make,arrive at|attain|bring in|build|ca-ca|cause|clear|constitute|construct|cook|crap|create|defecate|do|draw|earn|establish|fix|form|gain|get|get to|give|have|hit|hold|induce|lay down|make|make believe|make up|make water|micturate|name|nominate|pass water|pee|pee-pee|piddle|piss|prepare|pretend|produce|progress to|puddle|pull in|reach|ready|realise|realize|relieve oneself|score|seduce|shit|spend a penny|stimulate|stool|take|take a crap|take a leak|take a shit|take in|throw|urinate|wee|wee-wee|work,change|alter|modify|make|create|create by mental act|create mentally|cause|do|get|acquire|constitute|represent|make up|comprise|be|achieve|accomplish|attain|reach|become|create from raw material|create from raw stuff|perform|execute|act|behave|appoint|charge|score|hit|tally|rack up|perpetrate|commit|pull|assemble|gather|get together|direct|tidy|tidy up|clean up|neaten|straighten|straighten out|square away|head|excrete|egest|eliminate|pass|total|number|add up|come|amount|look|appear|seem|arrive at|gain|persuade|guarantee|ensure|insure|assure|secure|play|see|consider|reckon|view|regard|estimate|gauge|approximate|guess|judge|develop|grow
+5,referral,NNS,s,referr,referral,case|recommendation|forwarding
+5,legal,JJ,NA,legal,effectual|legal|sound,
+5,aid,NN,NA,aid,aid|assist|assistance|attention|care|economic aid|economic assistance|financial aid|financial assistance|help|tending,resource|activity|gift|work
+5,office,NNS,s,offic,agency|authority|berth|billet|bureau|business office|federal agency|function|government agency|office|office staff|part|place|position|post|power|role|situation|spot,place of business|business establishment|administrative unit|administrative body|duty|state|staff|rite|religious rite|occupation|business|job|line of work|line
+5,pro,FW,NA,pro,NA,NA
+5,bono,FW,NA,bono,NA,NA
+5,reduced-fee,JJ,NA,reduced-fe,,NA
+5,private,JJ,NA,privat,individual(a)|intimate|private|secret,
+5,lawyer,NNS,s,lawyer,attorney|lawyer,professional|professional person
+6,even,RB,NA,even,even|still|yet,NA
+6,live,VBP,NA,live,be|dwell|endure|exist|experience|go|hold out|hold up|inhabit|know|last|live|live on|populate|subsist|survive,be|experience|see|go through
+6,state,NN,NA,state,body politic|commonwealth|country|Department of State|DoS|land|nation|province|res publica|state|State|State Department|state of matter|United States Department of State,administrative district|administrative division|territorial division|attribute|government|authorities|regime|political unit|political entity|chemical phenomenon|emotional state|spirit|executive department
+6,hot,JJ,NA,hot,blistering|hot|live|raging|red-hot|spicy,
+6,line,NN,NA,line,agate line|air|ancestry|argument|argumentation|assembly line|bank line|billet|blood|blood line|bloodline|business|business line|cable|channel|communication channel|contrast|course|crease|credit line|crinkle|demarcation|descent|dividing line|furrow|job|line|line of business|line of credit|line of descent|line of merchandise|line of products|line of reasoning|line of work|lineage|logical argument|melodic line|melodic phrase|melody|note|occupation|origin|parentage|pedigree|personal credit line|personal line of credit|phone line|pipeline|product line|production line|rail line|railway line|seam|short letter|stemma|stock|strain|subscriber line|telephone circuit|telephone line|transmission line|tune|wrinkle,formation|mark|print|shape|form|text|textual matter|electromagnetic radiation|electromagnetic wave|nonparticulate radiation|military position|position|reasoning|logical thinking|abstract thought|conductor|series|location|depression|impression|imprint|pipe|pipage|piping|road|route|connection|connexion|connector|connecter|connective|conformity|conformation|compliance|abidance|genealogy|family tree|artifact|artefact|activity|communication|communicating|merchandise|ware|product|carrier|common carrier|area unit|square measure|credit|music|persuasion|suasion|personal letter|differentiation|distinction|mechanical system
+6,local,JJ,NA,local,local,
+6,agency,NNS,s,agenc,agency|authority|bureau|delegacy|federal agency|government agency|means|office|representation|way,administrative unit|administrative body|business|concern|business concern|business organization|business organisation|action|activity|activeness|state|implementation|effectuation
+6,age,VBG,ing,ag,age|get on|maturate|mature|senesce,develop|change|alter|modify
+6,provide,VB,NA,provid,allow|allow for|bring home the bacon|cater|furnish|leave|offer|ply|provide|put up|render|supply,give|stipulate|qualify|condition|specify|engage|wage|yield|afford|support|fix|prepare|set up|ready|gear up|set
+6,referral,NNS,s,referr,referral,case|recommendation|forwarding
+6,nearby,JJ,NA,nearbi,nearby,
+6,lawyer,NNS,s,lawyer,attorney|lawyer,professional|professional person
+7,hot,JJ,NA,hot,blistering|hot|live|raging|red-hot|spicy,
+7,line,NNS,s,line,agate line|air|ancestry|argument|argumentation|assembly line|bank line|billet|blood|blood line|bloodline|business|business line|cable|channel|communication channel|contrast|course|crease|credit line|crinkle|demarcation|descent|dividing line|furrow|job|line|line of business|line of credit|line of descent|line of merchandise|line of products|line of reasoning|line of work|lineage|logical argument|melodic line|melodic phrase|melody|note|occupation|origin|parentage|pedigree|personal credit line|personal line of credit|phone line|pipeline|product line|production line|rail line|railway line|seam|short letter|stemma|stock|strain|subscriber line|telephone circuit|telephone line|transmission line|tune|wrinkle,formation|mark|print|shape|form|text|textual matter|electromagnetic radiation|electromagnetic wave|nonparticulate radiation|military position|position|reasoning|logical thinking|abstract thought|conductor|series|location|depression|impression|imprint|pipe|pipage|piping|road|route|connection|connexion|connector|connecter|connective|conformity|conformation|compliance|abidance|genealogy|family tree|artifact|artefact|activity|communication|communicating|merchandise|ware|product|carrier|common carrier|area unit|square measure|credit|music|persuasion|suasion|personal letter|differentiation|distinction|mechanical system
+7,referral,NN,NA,referr,referral,case|recommendation|forwarding
+7,service,NNS,s,servic,armed service|avail|divine service|help|inspection and repair|military service|overhaul|religious service|Robert William Service|serve|service|Service|service of process|servicing|serving|table service,work|aid|assist|assistance|help|religious ceremony|religious ritual|company|employment|force|personnel|helpfulness|tableware|coupling|mating|pairing|conjugation|union|sexual union|activity|tennis stroke|tennis shot|delivery|bringing|care|maintenance|upkeep|accommodation
+7,tackle,VBP,NA,tackl,harness|tackle|take on|undertake,confront|face up|face|attach|attack|aggress
+7,estate,NN,NA,estat,acres|demesne|estate|estate of the realm|land|landed estate|the three estates,property|belongings|holding|real property|real estate|realty|immovable|class|stratum|social class|socio-economic class
+7,planning,NN,NA,plan,planning|preparation|provision,preparation|readying|design|designing|thinking|thought|thought process|cerebration|intellection|mentation
+7,pension,NN,NA,pension,pension,regular payment
+7,health,NN,NA,health,health|wellness,wellbeing|well-being|welfare|upbeat|eudaemonia|eudaimonia|condition|status
+7,benefit,NNS,s,benefit,benefit|welfare,payment|good|goodness|performance|public presentation
+7,elder,JJR,NA,elder,elder|older|sr.,
+7,abuse,NN,NA,abus,abuse|contumely|ill-treatment|ill-usage|insult|maltreatment|misuse|revilement|vilification,mistreatment|disrespect|discourtesy|use|usage|utilization|utilisation|employment|exercise
+7,neglect,NN,NA,neglect,carelessness|disregard|disuse|neglect|neglectfulness|negligence|nonperformance,inattention|decline|declination|mistreatment|carelessness|sloppiness|nonaccomplishment|nonachievement
+7,guardianship,NN,NA,guardianship,care|charge|guardianship|keeping|safekeeping|tutelage,protection|duty|responsibility|obligation
+7,custodial,JJ,NA,custodi,custodial|tutelar|tutelary,
+7,issue,NNS,s,issu,consequence|effect|egress|emergence|event|exit|government issue|issuance|issue|issuing|matter|military issue|number|offspring|outcome|outlet|payoff|proceeds|progeny|publication|result|return|subject|take|takings|topic|upshot|way out|yield,content|cognitive content|mental object|periodical|provision|supply|supplying|store|stock|fund|income|phenomenon|relative|relation|beginning|opening|printing
+7,involve,VBG,ing,involv,affect|ask|call for|demand|imply|involve|necessitate|need|postulate|regard|require|take,refer|pertain|relate|concern|come to|bear on|touch|touch on|have to do with|admit|let in|include|have|feature|absorb|engross|engage|occupy|complicate|refine|rarify|elaborate
+7,grandchild,NNS,s,grandchild,grandchild,offspring|progeny|issue
+7,consumer,NN,NA,consum,consumer,user
+7,protection,NN,NA,protect,aegis|auspices|protection|protective cover|protective covering|security|shelter|trade protection|tribute,activity|covering|assets|security|endorsement|indorsement|imposition|infliction|extortion
+7,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+7,elder-law,JJ,NA,elder-law,,NA
+7,issue,NNS,s,issu,consequence|effect|egress|emergence|event|exit|government issue|issuance|issue|issuing|matter|military issue|number|offspring|outcome|outlet|payoff|proceeds|progeny|publication|result|return|subject|take|takings|topic|upshot|way out|yield,content|cognitive content|mental object|periodical|provision|supply|supplying|store|stock|fund|income|phenomenon|relative|relation|beginning|opening|printing
+8,us,NNP,NA,u,America|the States|U.S.|U.S.A.|United States|United States of America|US|USA,
+8,administration,NN,NA,administr,administration|brass|disposal|establishment|giving medication|governance|governing|governing body|government|government activity|judicature|organisation|organization|presidency|presidential term,management|direction|body|medication|tenure|term of office|incumbency|social control|justice
+8,aging,NNP,NA,ag,ageing|aging|ripening|senescence,organic process|biological process|organic process|biological process
+8,coordinate,VBZ,s,coordin,align|coordinate|ordinate|organise|organize,arrange|set up|manage|deal|care|handle|harmonize|harmonise|consort|accord|concord|fit in|agree|adjust|set|correct
+8,loosely,RB,NA,loos,broadly|broadly speaking|generally|loosely|slackly,NA
+8,knit,VBN,NA,knit,cockle|crumple|entwine|knit|pucker|rumple,create from raw material|create from raw stuff|join|conjoin|wrinkle|ruckle|crease|crinkle|scrunch|scrunch up|crisp
+8,legal-service,NNS,s,legal-servic,,NA
+8,network,NN,NA,network,electronic network|mesh|meshing|meshwork|net|network|web,system|scheme|communication system|communication equipment|fabric|cloth|material|textile
+9,anyone,NN,NA,anyon,,NA
+9,meet,VBZ,s,meet,adjoin|assemble|come across|conform to|contact|converge|encounter|fill|fit|foregather|forgather|fulfil|fulfill|gather|get together|meet|play|receive|run across|run into|satisfy|see|suffer|take on|touch,NA
+9,age,NN,NA,ag,age|eld|geezerhood|historic period|long time|old age|years,property|era|epoch|time of life|time period|period of time|period
+9,requirement,NN,NA,requir,demand|essential|necessary|necessity|prerequisite|requirement|requisite,duty|responsibility|obligation|thing
+9,call,VB,NA,call,address|anticipate|be known as|bid|call|call in|call off|call up|cry|forebode|foretell|holler|hollo|know as|name|phone|predict|prognosticate|promise|ring|scream|send for|shout|shout out|squall|telephone|visit|yell,label|telecommunicate|utter|emit|let out|let loose|order|tell|enjoin|say|meet|get together|request|ask for|bespeak|call for|quest|read|postpone|prorogue|hold over|put over|table|shelve|set back|defer|remit|put off|address|turn to|stop|stop over|demand|exact|play|indicate|guess|venture|pretend|hazard|ask|require|expect|challenge|dispute|gainsay|declare|adjudge|hold|entice|lure|tempt|see|consider|reckon|view|regard|awaken|wake|waken|rouse|wake up|arouse
+9,hot,JJ,NA,hot,blistering|hot|live|raging|red-hot|spicy,
+9,line,NN,NA,line,agate line|air|ancestry|argument|argumentation|assembly line|bank line|billet|blood|blood line|bloodline|business|business line|cable|channel|communication channel|contrast|course|crease|credit line|crinkle|demarcation|descent|dividing line|furrow|job|line|line of business|line of credit|line of descent|line of merchandise|line of products|line of reasoning|line of work|lineage|logical argument|melodic line|melodic phrase|melody|note|occupation|origin|parentage|pedigree|personal credit line|personal line of credit|phone line|pipeline|product line|production line|rail line|railway line|seam|short letter|stemma|stock|strain|subscriber line|telephone circuit|telephone line|transmission line|tune|wrinkle,formation|mark|print|shape|form|text|textual matter|electromagnetic radiation|electromagnetic wave|nonparticulate radiation|military position|position|reasoning|logical thinking|abstract thought|conductor|series|location|depression|impression|imprint|pipe|pipage|piping|road|route|connection|connexion|connector|connecter|connective|conformity|conformation|compliance|abidance|genealogy|family tree|artifact|artefact|activity|communication|communicating|merchandise|ware|product|carrier|common carrier|area unit|square measure|credit|music|persuasion|suasion|personal letter|differentiation|distinction|mechanical system
+9,hands-on,JJ,NA,hands-on,hands-on,
+9,legal,JJ,NA,legal,effectual|legal|sound,
+9,counsel,NN,NA,counsel,advocate|counsel|counseling|counselling|counsellor|counselor|counselor-at-law|direction|guidance|pleader,lawyer|attorney|message|content|subject matter|substance
+9,go,VBZ,s,go,become|belong|blend|blend in|break|break down|buy the farm|cash in one's chips|choke|conk|conk out|croak|decease|depart|die|drop dead|endure|exit|expire|extend|fail|fit|function|get|get going|give out|give way|give-up the ghost|go|go away|go bad|hold out|hold up|kick the bucket|last|lead|live|live on|locomote|move|operate|pass|pass away|perish|plump|pop off|proceed|rifle|run|run low|run short|snuff it|sound|start|survive|travel|work,NA
+9,first,JJ,NA,first,1st|beginning(a)|first|foremost|inaugural|initiative|initiatory|maiden|world-class,
+9,people,NNS,NA,peopl,citizenry|hoi polloi|mass|masses|multitude|people|the great unwashed,group|grouping|family|family line|folk|kinfolk|kinsfolk|sept|phratry
+9,greatest,JJS,NA,greatest,greatest|sterling(a)|superlative,
+9,financial,JJ,NA,financi,financial|fiscal,
+9,social,JJ,NA,social,social|societal,
+9,need,NNS,s,need,demand|indigence|motivation|motive|need|pauperism|pauperization|penury|want,condition|status|necessity|essential|requirement|requisite|necessary|psychological feature|poverty|poorness|impoverishment
+10,federal,JJ,NA,feder,federal|Federal|Union,
+10,agency,NNP,NA,agenc,agency|authority|bureau|delegacy|federal agency|government agency|means|office|representation|way,administrative unit|administrative body|business|concern|business concern|business organization|business organisation|action|activity|activeness|state|implementation|effectuation
+10,recently,RB,NA,recent,late|lately|latterly|of late|recently,
+10,award,VBD,ed,award,award|grant|present,allocate|apportion|give
+10,2,CD,NA,2,NA,NA
+10,million,CD,NA,million,NA,NA
+10,grant,NNS,s,grant,assignment|Cary Grant|concession|Duncan Grant|Duncan James Corrow Grant|grant|Grant|Hiram Ulysses Grant|President Grant|subsidisation|subsidization|Ulysses Grant|Ulysses S. Grant|Ulysses Simpson Grant,aid|economic aid|financial aid|assistance|financial assistance|economic assistance|allotment|apportionment|apportioning|allocation|parceling|parcelling|assignation|transferred property|transferred possession|contract|right
+10,improve,VB,NA,improv,ameliorate|amend|better|improve|meliorate,change|alter|modify|change state|turn
+10,elder-law,JJ,NA,elder-law,,NA
+10,service,NNS,s,servic,armed service|avail|divine service|help|inspection and repair|military service|overhaul|religious service|Robert William Service|serve|service|Service|service of process|servicing|serving|table service,work|aid|assist|assistance|help|religious ceremony|religious ritual|company|employment|force|personnel|helpfulness|tableware|coupling|mating|pairing|conjugation|union|sexual union|activity|tennis stroke|tennis shot|delivery|bringing|care|maintenance|upkeep|accommodation
+10,largest,JJS,NA,largest,,NA
+10,part,NN,NA,part,character|component|component part|constituent|contribution|division|function|office|part|parting|percentage|persona|piece|portion|region|role|section|share|theatrical role|voice,relation|object|physical object|thing|concern|location|duty|portrayal|characterization|enactment|personation|assets|concept|conception|construct|line|tune|melody|air|strain|melodic line|melodic phrase|attempt|effort|endeavor|endeavour|try|item
+10,be,VBG,ing,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+10,use,VBN,ed,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+10,bolster,VB,NA,bolster,bolster|bolster up|pad,reinforce|reenforce|prop up|prop|shore up|shore|fill|fill up|make full
+10,12,CD,NA,12,NA,NA
+10,hotline,NNS,s,hotlin,,NA
+10,country,NN,NA,countri,area|body politic|commonwealth|country|land|nation|res publica|rural area|state,political unit|political entity|administrative district|administrative division|territorial division|people|geographical area|geographic area|geographical region|geographic region|region
+10,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+10,add,VBG,ing,add,add|add together|add up|append|bestow|bring|contribute|impart|lend|sum|sum up|summate|supply|tally|tot|tot up|total|tote up,increase|state|say|tell|change|alter|modify|calculate|cipher|cypher|compute|work out|reckon|figure|count|number|enumerate|numerate|form|constitute|make
+10,web-based,NNP,NA,web-bas,,NA
+10,questionnaire,NNS,s,questionnair,questionnaire,form
+10,outreach,NN,NA,outreach,outreach,reach|reaching|stretch
+10,project,NNS,s,project,labor|project|projection|task|undertaking,work|plan|program|programme
+10,rural,JJ,NA,rural,rural,
+10,area,NNS,s,area,area|arena|country|domain|expanse|field|orbit|region|sphere|surface area,region|topic|subject|issue|matter|body part|environment|structure|construction|extent
+10,older,JJR,NA,older,aged|elder|elderly|old|older|senior|sr.,
+10,people,NNS,NA,peopl,citizenry|hoi polloi|mass|masses|multitude|people|the great unwashed,group|grouping|family|family line|folk|kinfolk|kinsfolk|sept|phratry
+10,do,VBP,NA,do,act|answer|arrange|behave|cause|coif|coiffe|coiffure|come|do|dress|execute|exercise|fare|get along|make|make out|manage|perform|practice|practise|serve|set|suffice,NA
+10,n't,RB,NA,n't,,NA
+10,speak,VB,NA,speak,address|mouth|speak|talk|utter|verbalise|verbalize,communicate|intercommunicate|sound
+10,english,NNP,NA,english,English|English language|English people|side,West Germanic|West Germanic language|nation|land|country|humanistic discipline|humanities|liberal arts|arts|spin
+11,list,NN,NA,list,inclination|lean|leaning|list|listing|tilt,database|position|spatial relation
+11,hotline,NNS,s,hotlin,,NA
+11,operate,VBP,NA,oper,control|engage|function|go|lock|maneuver|manoeuver|manoeuvre|mesh|operate|operate on|run|work,direct|manipulate|move|go|displace|treat|care for
+11,phone,NN,NA,phone,earphone|earpiece|headphone|phone|sound|speech sound|telephone|telephone set,electronic equipment|language unit|linguistic unit|electro-acoustic transducer
+11,number,NNS,s,number,act|bit|figure|issue|number|numeral|phone number|routine|telephone number|turn,amount|definite quantity|performance|public presentation|signal|signaling|sign|symbol|periodical|company|positive identification|size|item|grammatical category|syntactic category|merchandise|ware|product
+11,hour,NNS,s,hour,60 minutes|hour|hr|minute|time of day,time unit|unit of time|clock time|time|time period|period of time|period|distance
+11,go,VB,NA,go,become|belong|blend|blend in|break|break down|buy the farm|cash in one's chips|choke|conk|conk out|croak|decease|depart|die|drop dead|endure|exit|expire|extend|fail|fit|function|get|get going|give out|give way|give-up the ghost|go|go away|go bad|hold out|hold up|kick the bucket|last|lead|live|live on|locomote|move|operate|pass|pass away|perish|plump|pop off|proceed|rifle|run|run low|run short|snuff it|sound|start|survive|travel|work,NA
+11,www,NN,NA,www,web|World Wide Web|WWW,computer network
+11,aoa,NN,NA,aoa,,NA
+11,gov,NN,NA,gov,,NA
+11,/,NN,NA,/,,NA
+11,legal,JJ,NA,legal,effectual|legal|sound,
+11,/,NN,NA,/,,NA
+11,hotline,NN,NA,hotlin,,NA
+11,html,NN,NA,html,HTML|hypertext mark-up language|hypertext markup language,markup language
+11,call,VB,NA,call,address|anticipate|be known as|bid|call|call in|call off|call up|cry|forebode|foretell|holler|hollo|know as|name|phone|predict|prognosticate|promise|ring|scream|send for|shout|shout out|squall|telephone|visit|yell,label|telecommunicate|utter|emit|let out|let loose|order|tell|enjoin|say|meet|get together|request|ask for|bespeak|call for|quest|read|postpone|prorogue|hold over|put over|table|shelve|set back|defer|remit|put off|address|turn to|stop|stop over|demand|exact|play|indicate|guess|venture|pretend|hazard|ask|require|expect|challenge|dispute|gainsay|declare|adjudge|hold|entice|lure|tempt|see|consider|reckon|view|regard|awaken|wake|waken|rouse|wake up|arouse
+11,federal,JJ,NA,feder,federal|Federal|Union,
+11,eldercare,NNP,NA,eldercar,,NA
+11,locator,NNP,NA,locat,locater|locator,surveyor
+11,800,CD,NA,800,NA,NA
+12,677,CD,NA,677,NA,NA
+13,1116,CD,NA,1116,NA,NA
+14,live,VBP,NA,live,be|dwell|endure|exist|experience|go|hold out|hold up|inhabit|know|last|live|live on|populate|subsist|survive,be|experience|see|go through
+14,state,NN,NA,state,body politic|commonwealth|country|Department of State|DoS|land|nation|province|res publica|state|State|State Department|state of matter|United States Department of State,administrative district|administrative division|territorial division|attribute|government|authorities|regime|political unit|political entity|chemical phenomenon|emotional state|spirit|executive department
+14,hot,JJ,NA,hot,blistering|hot|live|raging|red-hot|spicy,
+14,line,NN,NA,line,agate line|air|ancestry|argument|argumentation|assembly line|bank line|billet|blood|blood line|bloodline|business|business line|cable|channel|communication channel|contrast|course|crease|credit line|crinkle|demarcation|descent|dividing line|furrow|job|line|line of business|line of credit|line of descent|line of merchandise|line of products|line of reasoning|line of work|lineage|logical argument|melodic line|melodic phrase|melody|note|occupation|origin|parentage|pedigree|personal credit line|personal line of credit|phone line|pipeline|product line|production line|rail line|railway line|seam|short letter|stemma|stock|strain|subscriber line|telephone circuit|telephone line|transmission line|tune|wrinkle,formation|mark|print|shape|form|text|textual matter|electromagnetic radiation|electromagnetic wave|nonparticulate radiation|military position|position|reasoning|logical thinking|abstract thought|conductor|series|location|depression|impression|imprint|pipe|pipage|piping|road|route|connection|connexion|connector|connecter|connective|conformity|conformation|compliance|abidance|genealogy|family tree|artifact|artefact|activity|communication|communicating|merchandise|ware|product|carrier|common carrier|area unit|square measure|credit|music|persuasion|suasion|personal letter|differentiation|distinction|mechanical system
+14,locator,NN,NA,locat,locater|locator,surveyor
+14,point,VB,NA,point,aim|bespeak|betoken|channelise|channelize|charge|designate|direct|guide|head|indicate|level|luff|maneuver|manoeuver|manoeuvre|orient|place|point|repoint|sharpen|show|signal|steer|taper|target,inform|lie|aim|take|train|take aim|direct|control|command|tell|sail|tag|label|mark|be|indicate|point|designate|show|change shape|change form|deform|repair|mend|fix|bushel|doctor|furbish up|restore|touch on
+14,local,JJ,NA,local,local,
+14,legal,JJ,NA,legal,effectual|legal|sound,
+14,assistance,NN,NA,assist,aid|assist|assistance|economic aid|economic assistance|financial aid|financial assistance|help,activity|resource|gift
+15,source,NN,NA,sourc,author|beginning|generator|germ|informant|origin|reference|reservoir|root|rootage|seed|source,point|document|written document|papers|inspiration|facility|installation|communicator|maker|shaper|natural process|natural action|action|activity|thing|publication
+15,low-cost,JJ,NA,low-cost,affordable|low-cost|low-priced,
+15,help,NN,NA,help,aid|assist|assistance|assistant|avail|help|helper|service|supporter,activity|worker|resource|helpfulness
+15,also,RB,NA,also,also|as well|besides|likewise|too,NA
+15,expand,VBD,ed,expand,amplify|blow up|boom|dilate|elaborate|enlarge|expand|expatiate|exposit|expound|extend|flesh out|flourish|inflate|lucubrate|spread out|thrive,grow|enlarge|increase|clarify|clear up|elucidate|change|alter|modify
+15,year,NN,NA,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+16,aarp,NNP,NA,aarp,AARP|Association for the Advancement of Retired Persons,association
+16,legal,NNP,NA,legal,,NA
+16,service,NNP,s,servic,armed service|avail|divine service|help|inspection and repair|military service|overhaul|religious service|Robert William Service|serve|service|Service|service of process|servicing|serving|table service,work|aid|assist|assistance|help|religious ceremony|religious ritual|company|employment|force|personnel|helpfulness|tableware|coupling|mating|pairing|conjugation|union|sexual union|activity|tennis stroke|tennis shot|delivery|bringing|care|maintenance|upkeep|accommodation
+16,network,NNP,NA,network,electronic network|mesh|meshing|meshwork|net|network|web,system|scheme|communication system|communication equipment|fabric|cloth|material|textile
+16,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+16,now,RB,NA,now,at once|at present|directly|forthwith|immediately|instantly|like a shot|now|nowadays|right away|straight off|straightaway|today,NA
+16,available,JJ,NA,avail,available|uncommitted|usable|useable,
+16,46,CD,NA,46,NA,NA
+16,state,NNS,s,state,body politic|commonwealth|country|Department of State|DoS|land|nation|province|res publica|state|State|State Department|state of matter|United States Department of State,administrative district|administrative division|territorial division|attribute|government|authorities|regime|political unit|political entity|chemical phenomenon|emotional state|spirit|executive department
+16,expect,VBZ,s,expect,anticipate|ask|await|bear|carry|expect|gestate|have a bun in the oven|look|require|wait,evaluate|pass judgment|judge|demand|see|consider|reckon|view|regard|expect|look|await|wait|give birth|deliver|bear|birth|have
+16,reach,VB,NA,reach,accomplish|achieve|arrive at|attain|contact|extend to|gain|get hold of|get through|get to|give|hand|hit|make|pass|pass on|progress to|reach|reach out|strain|strive|touch|turn over,arrive|get|come|move|communicate|intercommunicate|succeed|win|come through|bring home the bacon|deliver the goods|be|achieve|accomplish|attain|reach|transfer|tug|labor|labour|push|drive
+16,50,CD,NA,50,NA,NA
+16,end,NN,NA,end,close|closing|conclusion|death|destruction|end|ending|goal|last|oddment|remainder|remnant|terminal,extremity|point|point in time|ending|conclusion|finish|content|cognitive content|mental object|part|section|division|state|surface|lineman|boundary|bound|bounds|topographic point|place|spot|contribution|share|subdivision|piece of cloth|piece of material
+16,march,NNP,NA,march,border district|borderland|Mar|march|March|MArch|marching|marching music|marchland|Master of Architecture,Gregorian calendar month|walk|walking|progress|progression|procession|advance|advancement|forward motion|onward motion|district|territory|territorial dominion|dominion|music genre|musical genre|genre|musical style|master's degree
+17,have,VBP,NA,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+17,pay,VB,NA,pai,ante up|bear|compensate|devote|give|make up|pay|pay off|pay up|yield,give|communicate|intercommunicate|pay|gain|take in|clear|make|earn|realize|realise|pull in|bring in|settle|think|cogitate|cerebrate|be|digest|endure|stick out|stomach|bear|stand|tolerate|support|brook|abide|suffer|put up|requite|repay
+17,group,NN,NA,group,chemical group|group|grouping|mathematical group|radical,abstraction|abstract entity|unit|building block|set
+17,dues,NNS,NA,due,,NA
+17,10,CD,NA,10,NA,NA
+17,year,NN,NA,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+17,use,VB,NA,us,apply|employ|expend|habituate|practice|use|utilise|utilize,consume|ingest|take in|take|have|exploit|work|act|move
+17,service,NNS,s,servic,armed service|avail|divine service|help|inspection and repair|military service|overhaul|religious service|Robert William Service|serve|service|Service|service of process|servicing|serving|table service,work|aid|assist|assistance|help|religious ceremony|religious ritual|company|employment|force|personnel|helpfulness|tableware|coupling|mating|pairing|conjugation|union|sexual union|activity|tennis stroke|tennis shot|delivery|bringing|care|maintenance|upkeep|accommodation
+18,get,VBP,NA,get,acquire|aim|amaze|arrest|arrive|baffle|beat|become|beget|begin|bewilder|bring|bring forth|bugger off|buzz off|capture|catch|cause|come|commence|contract|convey|develop|draw|drive|dumbfound|engender|experience|father|fetch|find|fix|flummox|fuck off|generate|get|get down|get under one's skin|go|gravel|grow|have|incur|induce|let|make|mother|mystify|nonplus|obtain|pay back|pay off|perplex|pose|produce|puzzle|receive|scram|set about|set out|sire|start|start out|stick|stimulate|stupefy|suffer|sustain|take|vex,change state|turn|make|get|change|transmit|transfer|transport|channel|channelize|channelise|undergo|get even|get back|score|hit|tally|rack up|seize|prehend|clutch|sicken|come down|communicate|intercommunicate|alter|modify|mean|intend|understand|attract|pull|pull in|draw|draw in|acquire|buy|purchase|hear|hurt|ache|suffer|leave|go forth|go away|catch|annoy|rag|get to|bother|get at|irritate|rile|nark|nettle|gravel|vex|chafe|devil|touch|stir|reproduce|effect|effectuate|set up|destroy|ruin|confuse|throw|fox|befuddle|fuddle|bedevil|confound|discombobulate|experience|receive|have|create
+18,30,CD,NA,30,NA,NA
+18,minute,NNS,s,minut,arcminute|bit|hour|instant|min|minute|minute of arc|mo|moment|second,time unit|unit of time|time|point|point in time|angular unit|note|distance
+18,legal,JJ,NA,legal,effectual|legal|sound,
+18,counseling,NN,NA,counsel,counsel|counseling|counselling|direction|guidance,message|content|subject matter|substance
+18,face-to-face,JJ,NA,face-to-fac,face-to-face,
+18,phone,NN,NA,phone,earphone|earpiece|headphone|phone|sound|speech sound|telephone|telephone set,electronic equipment|language unit|linguistic unit|electro-acoustic transducer
+18,cost,NN,NA,cost,cost|monetary value|price|toll,outgo|spending|expenditure|outlay|value
+19,lawyer,NNS,s,lawyer,attorney|lawyer,professional|professional person
+19,discount,NN,NA,discount,bank discount|deduction|discount|discount rate|price reduction|rebate,decrease|diminution|reduction|step-down|interest rate|rate of interest|refund|allowance|adjustment
+19,usual,JJ,NA,usual,common|usual,
+19,rate,NN,NA,rate,charge per unit|pace|rate,magnitude relation|quantitative relation|charge|temporal property|proportion
+19,20,CD,NA,20,NA,NA
+19,%,NN,NA,%,,NA
+20,simple,NN,NA,simpl,simple|simpleton,herb|herbaceous plant|person|individual|someone|somebody|mortal|soul
+20,will,NNS,s,will,testament|volition|will,faculty|mental faculty|module|purpose|intent|intention|aim|design|legal document|legal instrument|official document|instrument
+20,cost,VBP,NA,cost,be|cost,be|necessitate|ask|postulate|need|require|take|involve|call for|demand
+20,75,CD,NA,75,NA,NA
+20,apiece,RB,NA,apiec,apiece|each|for each one|from each one|to each one,NA
+21,reach,VB,NA,reach,accomplish|achieve|arrive at|attain|contact|extend to|gain|get hold of|get through|get to|give|hand|hit|make|pass|pass on|progress to|reach|reach out|strain|strive|touch|turn over,arrive|get|come|move|communicate|intercommunicate|succeed|win|come through|bring home the bacon|deliver the goods|be|achieve|accomplish|attain|reach|transfer|tug|labor|labour|push|drive
+21,service,NN,NA,servic,armed service|avail|divine service|help|inspection and repair|military service|overhaul|religious service|Robert William Service|serve|service|Service|service of process|servicing|serving|table service,work|aid|assist|assistance|help|religious ceremony|religious ritual|company|employment|force|personnel|helpfulness|tableware|coupling|mating|pairing|conjugation|union|sexual union|activity|tennis stroke|tennis shot|delivery|bringing|care|maintenance|upkeep|accommodation
+21,800,CD,NA,800,NA,NA
+22,424,CD,NA,424,NA,NA
+23,3410,CD,NA,3410,NA,NA
+23,go,VB,NA,go,become|belong|blend|blend in|break|break down|buy the farm|cash in one's chips|choke|conk|conk out|croak|decease|depart|die|drop dead|endure|exit|expire|extend|fail|fit|function|get|get going|give out|give way|give-up the ghost|go|go away|go bad|hold out|hold up|kick the bucket|last|lead|live|live on|locomote|move|operate|pass|pass away|perish|plump|pop off|proceed|rifle|run|run low|run short|snuff it|sound|start|survive|travel|work,NA
+23,www,NN,NA,www,web|World Wide Web|WWW,computer network
+23,aarp,NN,NA,aarp,AARP|Association for the Advancement of Retired Persons,association
+23,org,NN,NA,org,,NA
+23,/,NN,NA,/,,NA
+23,lsn,NNP,NA,lsn,,NA
+23,find,VB,NA,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+23,lawyer,NN,NA,lawyer,attorney|lawyer,professional|professional person
+23,nearby,JJ,NA,nearbi,nearby,

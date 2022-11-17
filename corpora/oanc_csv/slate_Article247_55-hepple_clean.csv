@@ -1,0 +1,153 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,never,RB,NA,never,ne'er|never,NA
+1,mind,NN,NA,mind,brain|creative thinker|head|idea|intellect|judgement|judgment|mind|nous|psyche|thinker,cognition|knowledge|noesis|recall|recollection|reminiscence|opinion|sentiment|persuasion|view|thought|intellectual|intellect|notice|observation|observance|purpose|intent|intention|aim|design|intelligence
+1,ethics,NNS,NA,ethic,ethical motive|ethics|moral philosophy|morality|morals,motivation|motive|need|philosophy
+1,paparazzus,NN,s,paparazzu,,NA
+1,torment,VB,NA,torment,bedevil|crucify|dun|excruciate|frustrate|rack|rag|torment|torture,pain|anguish|hurt|harass|hassle|harry|chivy|chivvy|chevy|chevvy|beset|plague|molest|provoke|injure|wound
+1,celebrity,NNS,s,celebr,celebrity|fame|famous person|renown,important person|influential person|personage|honor|honour|laurels
+2,bill,NNP,NA,bill,account|bank bill|bank note|banker's bill|banknote|beak|bill|billhook|broadsheet|broadside|card|circular|eyeshade|Federal Reserve note|flier|flyer|government note|greenback|handbill|invoice|measure|neb|nib|note|notice|peak|pecker|placard|poster|posting|throwaway|visor|vizor,legal document|legal instrument|official document|instrument|statement|financial statement|paper money|folding money|paper currency|program|programme|ad|advertisement|advertizement|advertising|advertizing|advert|sign|list|listing|hand tool|brim|mouth
+2,mckibben,NNP,NA,mckibben,,NA
+2,want,VBZ,s,want,desire|need|require|want,be|search|seek|look for|demand|miss|lack
+2,commercial,JJ,NA,commerci,commercial|commercial-grade,
+2,photographer,NNS,s,photograph,lensman|photographer,artist|creative person
+2,shoot,VBP,NA,shoot,blast|bourgeon|buck|burgeon forth|charge|dart|dash|dissipate|film|flash|fool|fool away|fritter|fritter away|frivol away|germinate|hit|inject|photograph|pip|pullulate|scoot|scud|shoot|shoot down|snap|sprout|spud|take|tear,injure|wound|kill|fire|discharge|record|enter|put down|project|cast|contrive|throw|rush|hotfoot|hasten|hie|speed|race|pelt along|rush along|cannonball along|bucket along|belt along|step on it|hit|emit|give out|give off|ache|smart|hurt|insert|enclose|inclose|stick in|put in|introduce|weave|interweave|consume|squander|waste|ware|score|tally|rack up|utter|let out|let loose|measure|mensurate|measure out|grow|administer|dispense
+2,wildlife,NN,NA,wildlif,wildlife,life
+2,lie,VB,ed,lie,consist|dwell|lie|lie down|lie in|rest,be|exist|misinform|mislead|change posture
+2,leica,NNP,s,leica,,NA
+3,write,VBG,ing,write,compose|drop a line|indite|pen|save|spell|write,create verbally|communicate|intercommunicate|correspond|make|create|trace|draw|line|describe|delineate|record|tape|create by mental act|create mentally
+3,fall,NN,NA,fall,autumn|capitulation|crepuscle|crepuscule|declension|declination|decline|declivity|descent|dip|downfall|downslope|drop|dusk|evenfall|fall|Fall|free fall|gloam|gloaming|nightfall|pin|spill|surrender|tumble|twilight,season|time of year|slip|trip|slope|incline|side|sin|sinning|weakening|change of location|travel|loss|hour|time of day|victory|triumph|descent|gravitation|decrease|decrement
+3,issue,NN,NA,issu,consequence|effect|egress|emergence|event|exit|government issue|issuance|issue|issuing|matter|military issue|number|offspring|outcome|outlet|payoff|proceeds|progeny|publication|result|return|subject|take|takings|topic|upshot|way out|yield,content|cognitive content|mental object|periodical|provision|supply|supplying|store|stock|fund|income|phenomenon|relative|relation|beginning|opening|printing
+3,doubletake--,NNP,NA,doubletake--,,NA
+3,robert,NNP,NA,robert,Henry M. Robert|Henry Martyn Robert|Robert,
+3,cole,NNP,s,cole,borecole|Brassica oleracea acephala|cole|colewort|kail|kale,crucifer|cruciferous plant|cabbage|chou
+3,slick,JJ,NA,slick,crafty|cunning|dodgy|facile|foxy|glib|guileful|knavish|neat|pat|satiny|silken|silklike|silky|sleek|slick|sly|tricksy|tricky|wily,
+3,magazine,NN,NA,magazin,cartridge|cartridge clip|cartridge holder|clip|mag|magazine|magazine publisher|powder magazine|powder store,press|public press|publication|product|production|publisher|publishing house|publishing firm|publishing company|supply chamber|storehouse|depot|entrepot|storage|store
+3,essay,NNS,s,essai,essay,writing|written material|piece of writing|attempt|effort|endeavor|endeavour|try
+3,photograph,NNS,s,photograph,exposure|photo|photograph|pic|picture,representation
+3,reportage,NN,NA,reportag,coverage|reportage|reporting,news
+3,poetry--,JJ,NA,poetry--,,NA
+3,mckibben,NNP,NA,mckibben,,NA
+3,accusee,VBZ,s,accuse,,NA
+3,commercial,JJ,NA,commerci,commercial|commercial-grade,
+3,wildlife,NN,NA,wildlif,wildlife,life
+3,photographer,NNS,s,photograph,lensman|photographer,artist|creative person
+3,needlessly,RB,NA,needlessli,needlessly,
+3,stress,VBG,ing,stress,accent|accentuate|emphasise|emphasize|punctuate|strain|stress|try,express|show|evince|pronounce|articulate|enounce|sound out|enunciate|say|afflict
+3,caribou,NN,NA,carib,caribou|Greenland caribou|Rangifer tarandus|reindeer,deer|cervid
+3,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+3,critter,NNS,s,critter,critter,animal|animate being|beast|brute|creature|fauna
+3,stalk,VBG,ing,stalk,haunt|stalk,walk|pursue|follow
+3,airplane,NN,NA,airplan,aeroplane|airplane|plane,heavier-than-air craft
+4,also,RB,NA,also,also|as well|besides|likewise|too,NA
+4,damn,NNS,s,damn,damn|darn|hoot|red cent|shit|shucks|tinker's dam|tinker's damn,worthlessness|ineptitude
+4,stage,VBG,ing,stage,arrange|present|represent|stage,re-create|initiate|pioneer
+4,jillion,NNS,s,jillion,bazillion|billion|gazillion|jillion|million|trillion|zillion,large indefinite quantity|large indefinite amount
+4,one,CD,NA,on,NA,NA
+4,picture,NNS,s,pictur,characterisation|characterization|delineation|depiction|exposure|film|flick|icon|ikon|image|impression|mental picture|motion picture|motion-picture show|movie|moving picture|moving-picture show|painting|photo|photograph|pic|pictorial matter|picture|picture show|scene|video|word picture|word-painting,representation|graphic art|image|mental image|situation|state of affairs|illustration|show|product|production|visual communication|description|verbal description|typification|exemplification
+4,emerald,NN,NA,emerald,emerald,transparent gem|beryl|jewel|gem|precious stone|green|greenness|viridity
+4,boa,NNS,s,boa,boa|feather boa,scarf|constrictor
+4,eat,VBG,ing,eat,consume|corrode|deplete|eat|eat on|eat up|exhaust|feed|run through|rust|use up|wipe out,eat|consume|ingest|take in|take|have|worry|vex|spend|expend|drop|damage
+4,parrot,NNS,s,parrot,parrot,bird|copycat|imitator|emulator|ape|aper
+4,create,VBZ,s,creat,create|make|produce,act|move|appoint|charge|make|create
+4,false,JJ,NA,fals,assumed|delusive|fake|false|faux|fictitious|fictive|imitation|mistaken|off-key|pretended|put on|sham|simulated|sour|untrue,
+4,expectation,NNS,s,expect,anticipation|arithmetic mean|expectation|expected value|first moment|outlook|prospect,belief|hopefulness|feeling|mean|mean value
+4,wilderness,NN,NA,wilder,wild|wilderness|Wilderness,disfavor|disfavour|geographical area|geographic area|geographical region|geographic region|profusion|profuseness|richness|cornucopia
+4,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+5,evidence,NN,NA,evid,evidence|grounds,information|indication|indicant|info
+5,public,NN,NA,public,populace|public|world,people|body
+5,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+5,go,VBN,en,go,become|belong|blend|blend in|break|break down|buy the farm|cash in one's chips|choke|conk|conk out|croak|decease|depart|die|drop dead|endure|exit|expire|extend|fail|fit|function|get|get going|give out|give way|give-up the ghost|go|go away|go bad|hold out|hold up|kick the bucket|last|lead|live|live on|locomote|move|operate|pass|pass away|perish|plump|pop off|proceed|rifle|run|run low|run short|snuff it|sound|start|survive|travel|work,NA
+5,mad,JJ,NA,mad,brainsick|crazy|delirious|demented|disturbed|excited|frantic|harebrained|huffy|insane|mad|sick|sore|unbalanced|unhinged|unrestrained,
+5,wildlife,NN,NA,wildlif,wildlife,life
+5,photography,NN,NA,photographi,photography|picture taking,pictorial representation|picturing|process|physical process|occupation|business|job|line of work|line
+5,be,VB,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+5,find,VBN,ed,find,ascertain|bump|chance|come up|detect|determine|discover|encounter|feel|find|find oneself|find out|get|get hold|happen|incur|line up|notice|observe|obtain|receive|recover|regain|retrieve|rule|see|witness,spy|sight|get|acquire|reason|reason out|conclude|experience|see|go through|gestate|conceive|conceptualize|conceptualise|learn|hear|get word|get wind|pick up|find out|get a line|discover|pronounce|label|judge|change|perceive|comprehend|reach|make|attain|hit|arrive at|gain|mature|maturate|grow
+5,yellowstone,NNP,NA,yellowston,Yellowstone|Yellowstone River,
+5,park,NNP,NA,park,ballpark|car park|common|commons|green|Mungo Park|park|Park|parking area|parking lot|parkland,tract|piece of land|piece of ground|parcel of land|parcel|stadium|bowl|arena|sports stadium|lot|gear|gear mechanism
+5,say,VBZ,s,sai,allege|articulate|aver|enjoin|enounce|enunciate|order|pronounce|read|say|sound out|state|suppose|tell,express|verbalize|verbalise|utter|give tongue to|assert|asseverate|maintain|speculate|have|feature|request|convey|recite|read|register|show|record
+5,wildlife,NN,NA,wildlif,wildlife,life
+5,porn,NN,NA,porn,erotica|porn|porno|pornography|smut,creation|creative activity
+5,chatterbox,NNP,NA,chatterbox,babbler|chatterbox|chatterer|Epipactis gigantea|giant helleborine|magpie|prater|spouter|stream orchid,helleborine|speaker|talker|utterer|verbalizer|verbaliser
+5,phrase,NN,NA,phrase,idiom|idiomatic expression|musical phrase|phrasal idiom|phrase|set phrase,construction|grammatical construction|expression|passage|musical passage|saying|locution|dancing|dance|terpsichore|saltation
+5,not,RB,NA,not,non|not,NA
+5,mckibben,NNP,NA,mckibben,,NA
+5,have,VBZ,s,have,accept|bear|birth|cause|consume|deliver|experience|feature|get|give|give birth|have|have got|hold|induce|ingest|let|make|own|possess|receive|stimulate|suffer|sustain|take|take in|throw,NA
+5,convince,VBN,ed,convinc,convert|convince|win over,persuade
+5,tourist,NNS,s,tourist,holidaymaker|tourer|tourist,traveler|traveller
+5,bear,NNS,s,bear,bear,carnivore|investor
+5,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+5,approachable,JJ,NA,approach,accessible|approachable|reachable,
+5,beast,NNS,s,beast,animal|animate being|beast|brute|creature|fauna|savage|wildcat|wolf,organism|being|attacker|aggressor|assailant|assaulter
+6,fact,NN,NA,fact,fact,information|info|reality|realness|realism|concept|conception|construct
+6,bear,VBZ,s,bear,abide|accept|acquit|assume|bear|behave|birth|brook|carry|comport|conduct|contain|deliver|deport|digest|endure|expect|gestate|give birth|have|have a bun in the oven|hold|pay|put up|stand|stick out|stomach|suffer|support|take over|tolerate|turn out|wear|yield,have|feature|produce|bring forth|permit|allow|let|countenance|transport|carry|make|create|take|include|gain|take in|clear|earn|realize|realise|pull in|bring in|hold|bear|act|move|have got|give birth|deliver|birth
+6,become,VBP,NA,becom,become|get|go|suit|turn,change state|turn|transform|transmute|metamorphose|fancify|beautify|embellish|prettify
+6,habituated,JJ,NA,habitu,,NA
+6,people,NNS,NA,peopl,citizenry|hoi polloi|mass|masses|multitude|people|the great unwashed,group|grouping|family|family line|folk|kinfolk|kinsfolk|sept|phratry
+6,usually,RB,NA,usual,commonly|normally|ordinarily|unremarkably|usually,
+6,end,VBP,NA,end,cease|end|finish|stop|terminate,change|alter|modify|be|destroy|destruct
+6,get,VBG,ing,get,acquire|aim|amaze|arrest|arrive|baffle|beat|become|beget|begin|bewilder|bring|bring forth|bugger off|buzz off|capture|catch|cause|come|commence|contract|convey|develop|draw|drive|dumbfound|engender|experience|father|fetch|find|fix|flummox|fuck off|generate|get|get down|get under one's skin|go|gravel|grow|have|incur|induce|let|make|mother|mystify|nonplus|obtain|pay back|pay off|perplex|pose|produce|puzzle|receive|scram|set about|set out|sire|start|start out|stick|stimulate|stupefy|suffer|sustain|take|vex,change state|turn|make|get|change|transmit|transfer|transport|channel|channelize|channelise|undergo|get even|get back|score|hit|tally|rack up|seize|prehend|clutch|sicken|come down|communicate|intercommunicate|alter|modify|mean|intend|understand|attract|pull|pull in|draw|draw in|acquire|buy|purchase|hear|hurt|ache|suffer|leave|go forth|go away|catch|annoy|rag|get to|bother|get at|irritate|rile|nark|nettle|gravel|vex|chafe|devil|touch|stir|reproduce|effect|effectuate|set up|destroy|ruin|confuse|throw|fox|befuddle|fuddle|bedevil|confound|discombobulate|experience|receive|have|create
+6,snuffed,JJ,NA,snuf,,NA
+6,ranger,NNS,s,ranger,commando|fire warden|forest fire fighter|ranger|Ranger|Texas Ranger,lawman|law officer|peace officer|official|functionary|fireman|firefighter|fire fighter|fire-eater|serviceman|military man|man|military personnel
+6,become,VBP,NA,becom,become|get|go|suit|turn,change state|turn|transform|transmute|metamorphose|fancify|beautify|embellish|prettify
+6,dangerous,JJ,NA,danger,dangerous|grave|grievous|life-threatening|serious|severe|unsafe,
+6,pest,NNS,s,pest,blighter|cuss|gadfly|pest|pesterer|pestilence|pestis|plague,epidemic disease|tormentor|tormenter|persecutor|animal|animate being|beast|brute|creature|fauna
+7,mckibben,NNP,NA,mckibben,,NA
+7,solution,NN,NA,solut,answer|resolution|result|root|solution|solvent,mixture|statement|method|set|success
+8,moratorium,NN,NA,moratorium,moratorium,delay|hold|time lag|postponement|wait|abeyance|suspension
+8,new,JJ,NA,new,fresh|Modern|new|New|new(a)|novel|raw|unexampled|young,
+8,commercial,JJ,NA,commerci,commercial|commercial-grade,
+8,wildlife,NN,NA,wildlif,wildlife,life
+8,photography,NN,NA,photographi,photography|picture taking,pictorial representation|picturing|process|physical process|occupation|business|job|line of work|line
+9,call,VBZ,s,call,address|anticipate|be known as|bid|call|call in|call off|call up|cry|forebode|foretell|holler|hollo|know as|name|phone|predict|prognosticate|promise|ring|scream|send for|shout|shout out|squall|telephone|visit|yell,label|telecommunicate|utter|emit|let out|let loose|order|tell|enjoin|say|meet|get together|request|ask for|bespeak|call for|quest|read|postpone|prorogue|hold over|put over|table|shelve|set back|defer|remit|put off|address|turn to|stop|stop over|demand|exact|play|indicate|guess|venture|pretend|hazard|ask|require|expect|challenge|dispute|gainsay|declare|adjudge|hold|entice|lure|tempt|see|consider|reckon|view|regard|awaken|wake|waken|rouse|wake up|arouse
+9,top,JJ,NA,top,top(a),
+9,nature,NN,NA,natur,nature,quality|causal agent|cause|causal agency|universe|existence|creation|world|cosmos|macrocosm|trait|type
+9,magazine,NNS,s,magazin,cartridge|cartridge clip|cartridge holder|clip|mag|magazine|magazine publisher|powder magazine|powder store,press|public press|publication|product|production|publisher|publishing house|publishing firm|publishing company|supply chamber|storehouse|depot|entrepot|storage|store
+9,tv,NN,NA,tv,boob tube|goggle box|idiot box|telecasting|television|television receiver|television set|telly|tv|TV|tv set|video,broadcasting|receiver|receiving system
+9,show,VBZ,s,show,bear witness|demo|demonstrate|depict|designate|establish|evidence|evince|exhibit|express|indicate|picture|point|present|prove|read|record|register|render|shew|show|show up|testify|usher,show|confirm|corroborate|sustain|substantiate|support|affirm|inform|represent|interpret|convey|appear|indicate|read|register|record|lead|take|direct|conduct|guide|race|run
+9,pick,VB,NA,pick,beak|blame|break up|clean|cull|find fault|foot|nibble|peck|pick|piece|pluck|plunk,choose|take|select|pick out|gather|garner|collect|pull together|knock|criticize|criticise|pick apart|provoke|evoke|call forth|kick up|remove|take away|withdraw|rob|pay|pull|draw|pierce|strike|eat
+9,date,NN,NA,date,appointment|date|day of the month|engagement|escort,day|twenty-four hours|twenty-four hour period|24-hour interval|solar day|mean solar day|companion|comrade|fellow|familiar|associate|meeting|get together|present|nowadays|calendar day|civil day|calendar month|month|calendar year|civil year|edible fruit
+9,refuse,VB,NA,refus,decline|defy|deny|pass up|refuse|reject|resist|turn away|turn down,react|respond|elude|escape|keep|hold on
+9,purchase,VB,NA,purchas,buy|purchase,get|acquire
+9,photo,NNS,s,photo,exposure|photo|photograph|pic|picture,representation
+9,take,VBN,en,take,accept|acquire|admit|adopt|aim|ask|assume|bring|call for|carry|charter|choose|claim|conduct|consider|consume|contain|contract|convey|deal|demand|direct|drive|engage|exact|fill|film|get|get hold of|guide|have|hire|hold|ingest|involve|lead|learn|lease|look at|make|necessitate|need|occupy|pack|pick out|postulate|read|remove|rent|require|select|shoot|strike|study|submit|subscribe|subscribe to|take|take aim|take away|take in|take on|take up|train|use up|withdraw,NA
+10,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+10,not,RB,NA,not,non|not,NA
+10,be,VBP,NA,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+10,n't,RB,NA,n't,,NA
+10,enough,JJ,NA,enough,adequate|enough,
+10,photograph,VBZ,s,photograph,photograph|shoot|snap,record|enter|put down
+11,one,CD,NA,on,NA,NA
+11,magazine,NN,NA,magazin,cartridge|cartridge clip|cartridge holder|clip|mag|magazine|magazine publisher|powder magazine|powder store,press|public press|publication|product|production|publisher|publishing house|publishing firm|publishing company|supply chamber|storehouse|depot|entrepot|storage|store
+11,art,NN,NA,art,art|artistic creation|artistic production|artistry|artwork|fine art|graphics|nontextual matter|prowess,creation|creative activity|superior skill|visual communication
+11,director,NN,NA,director,conductor|director|film director|manager|managing director|music director|theater director|theatre director,administrator|decision maker|committee member|supervisor|film maker|filmmaker|film producer|movie maker|musician
+11,point,NNS,s,point,breaker point|compass point|decimal point|degree|detail|distributor point|dot|full point|full stop|gunpoint|head|item|level|peak|percentage point|period|point|point in time|pointedness|power point|spot|stage|stop|tip,component|constituent|element|factor|ingredient|location|meaning|significance|signification|import|fact|state|measure|quantity|amount|aim|object|objective|target|convex shape|convexity|disk|disc|saucer|unit of measurement|unit|promontory|headland|head|foreland|part|portion|component part|relevance|relevancy|characteristic|end|terminal|direction|linear unit|linear measure|loan|punctuation|punctuation mark|mark|mathematical notation|taper|gun muzzle|muzzle|wall socket|wall plug|electric outlet|electrical outlet|outlet|electric receptacle|contact|tangency
+11,review,VBD,ed,review,brush up|critique|go over|look back|reexamine|refresh|retrospect|review|survey,analyze|analyse|study|examine|canvass|evaluate|pass judgment|judge|inspect|remember|retrieve|recall|call back|call up|recollect|think|think back
+11,10,CD,NA,10,NA,NA
+11,000,CD,NA,000,NA,NA
+11,slide,NNS,s,slide,chute|coast|glide|lantern slide|microscope slide|playground slide|slide|slideway|sliding board|sloping trough|swoop,plate glass|sheet glass|descent|glissando|plaything|toy|motion|movement|move|foil|transparency|gutter|trough
+11,elephant,NNS,s,eleph,elephant,proboscidean|proboscidian|pachyderm|emblem|allegory
+11,few,JJ,NA,few,few,
+11,year,NNS,s,year,class|twelvemonth|year|yr,time period|period of time|period|gathering|assemblage
+11,ago,RB,NA,ago,ago,NA
+11,plan,VBG,ing,plan,be after|contrive|design|plan|project,intend|mean|think|cogitate|cerebrate|create by mental act|create mentally
+11,story,NN,NA,stori,account|chronicle|fib|floor|history|level|narration|narrative|news report|report|storey|story|tale|taradiddle|tarradiddle|write up,message|content|subject matter|substance|fiction|structure|construction|record|news|lie|prevarication
+12,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+12,n't,RB,NA,n't,,NA
+12,censorship,NN,NA,censorship,censoring|censorship|security review,counterintelligence|deletion
+12,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+12,editing,NN,NA,edit,editing|redaction,writing|written material|piece of writing
+12,mckibben,NNP,NA,mckibben,,NA
+12,write,VBZ,s,write,compose|drop a line|indite|pen|save|spell|write,create verbally|communicate|intercommunicate|correspond|make|create|trace|draw|line|describe|delineate|record|tape|create by mental act|create mentally
+13,self-restraint,NNP,NA,self-restraint,self-restraint|temperateness,restraint|control
+13,be,VBZ,s,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+13,uniquely,RB,NA,uniqu,unambiguously|uniquely,
+13,human,JJ,NA,human,human,
+13,gift,NN,NA,gift,endowment|gift|giving|natural endowment|talent,acquisition|natural ability|sharing|share-out
+13,one,CD,NA,on,NA,NA
+13,talent,NN,NA,talent,endowment|gift|natural endowment|talent,natural ability|expert
+13,other,JJ,NA,other,early(a)|former(a)|other|other(a),
+13,creature,NN,NA,creatur,animal|animate being|beast|brute|creature|fauna|puppet|tool|wight,organism|being|person|individual|someone|somebody|mortal|soul|slave
+13,community,NN,NA,commun,biotic community|community|community of interests|residential area|residential district,gathering|assemblage|people|ownership|world organization|world organisation|international organization|international organisation|global organization|agreement|accord|district|territory|territorial dominion|dominion|group|grouping
+13,possess,VBZ,s,possess,have|own|possess,have|feature|dominate
+13,even,RB,NA,even,even|still|yet,NA
+13,possibility,NN,NA,possibl,hypothesis|opening|possibility|possible action|possibleness|theory,expectation|outlook|prospect|being|beingness|existence|face of the earth|concept|conception|construct|option|alternative|choice
