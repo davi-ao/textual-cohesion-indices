@@ -1,0 +1,11 @@
+text,clique_id,index,v,e
+plos_journal.pbio.0020010-hepple_clean,1,pairwise,0.1527777777777778,0
+plos_journal.pbio.0020010-hepple_clean,2,pairwise,0.13354700854700854,0.0010590656015492617
+plos_journal.pbio.0020010-hepple_clean,3,pairwise,0.14807692307692308,0.0018600032605634847
+plos_journal.pbio.0020010-hepple_clean,4,pairwise,0.219482151835093,0.0011337868480725622
+plos_journal.pbio.0020010-hepple_clean,5,pairwise,0.1021744595274007,0
+plos_journal.pbio.0020010-hepple_clean,6,pairwise,0.11764705882352941,0
+plos_journal.pbio.0020010-hepple_clean,7,pairwise,0.2522289257583375,0
+plos_journal.pbio.0020010-hepple_clean,8,pairwise,0.16694627468621276,0.0013313967562333575
+plos_journal.pbio.0020010-hepple_clean,9,pairwise,0.24261001296605011,0
+plos_journal.pbio.0020010-hepple_clean,10,pairwise,0.16495969057888563,0.0020878721859114015

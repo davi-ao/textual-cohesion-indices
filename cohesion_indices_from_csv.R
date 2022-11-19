@@ -25,7 +25,7 @@ for (file in files) {
   annotated_text = read_csv(paste0(dir, file)) %>%
     mutate(clique_id = clique_id %>% as.character())
   
-  # Global Backward Cohesion Indices ---------------------------------------------
+  # Global Backward Cohesion Indices -------------------------------------------
   data = annotated_text %>%
     group_by(clique_id) %>%
     distinct(stem, .keep_all = T) %>%
@@ -73,7 +73,7 @@ for (file in files) {
       ))
   }
   
-  # Local Backward Cohesion Indices ----------------------------------------------
+  # Local Backward Cohesion Indices --------------------------------------------
   q = data %>% .$clique_id %>% unique()
   
   local_backward_cohesion = tibble(
@@ -130,7 +130,7 @@ for (file in files) {
       ))
   }
   
-  # Mean Pairwise Cohesion Indices -----------------------------------------------
+  # Mean Pairwise Cohesion Indices ---------------------------------------------
   mean_pairwise_cohesion = tibble(
     text = character(),
     clique_id = character(),
@@ -194,4 +194,89 @@ for (file in files) {
         mutate(index = 'pairwise'))
   
   write_csv(indices, paste0('corpora/indices_oanc/', file))
+}
+
+# Partial pairwise indices -----------------------------------------------------
+
+for (s in seq(10, 300, 10)) {
+  for (file in files) {
+    # Create the indices table
+    indices = tibble(
+      text = character(),
+      clique_id = character(),
+      index = character(),
+      v = numeric(),
+      e = numeric()
+    )
+    
+    text_name = file %>% str_sub(0,-5)
+    annotated_text = read_csv(paste0(dir, file)) %>%
+      mutate(clique_id = clique_id %>% as.character()) %>%
+      filter(as.numeric(clique_id) <= s)
+    
+    data = annotated_text %>%
+      group_by(clique_id) %>%
+      distinct(stem, .keep_all = T) %>%
+      mutate(synonyms = synonyms %>% str_remove_all('\\(a\\)|\\(p\\)'))
+    
+    q = data %>% .$clique_id %>% unique()
+    
+    # Mean Pairwise Cohesion Indices -------------------------------------------
+    mean_pairwise_cohesion = tibble(
+      text = character(),
+      clique_id = character(),
+      v = double(),
+      e = double()
+    )
+    
+    pairwise_indices_v = matrix(rep(NA, length(q)^2), length(q), length(q))
+    rownames(pairwise_indices_v) = q
+    colnames(pairwise_indices_v) = q
+    pairwise_indices_e = matrix(rep(NA, length(q)^2), length(q), length(q))
+    rownames(pairwise_indices_e) = q
+    colnames(pairwise_indices_e) = q
+    
+    for(i in 1:length(q)) {
+      q_i = data %>% filter(clique_id == q[i])
+      
+      q_n = q_i %>% nrow()
+      
+      for (j in 1:length(q)) {
+        if (j > i) {
+          q_j = data %>% filter(clique_id == q[j])
+          r = intersect(q_i %>% .$stem, q_j %>% .$stem) %>% length()
+          m_c = (q_i %>% filter(!stem %in% q_j$stem) %>% .$lemma) %in% 
+            (c(q_j %>% .$synonyms %>% str_split('\\|') %>% unlist(),
+               q_j %>% .$hypernyms %>% str_split('\\|') %>% unlist()) %>% 
+               unique()) %>%
+            sum()
+          n_j = q_j %>% nrow()
+          pairwise_indices_v[i,j] = r/q_n
+          pairwise_indices_v[j,i] = r/q_n
+          pairwise_indices_e[i,j] = m_c/((q_n - r)*(n_j - r))
+          pairwise_indices_e[j,i] = m_c/((q_n - r)*(n_j - r))
+        }
+      }
+    }
+    
+    for(i in 1:length(q)) {
+      mean_pairwise_cohesion = mean_pairwise_cohesion %>%
+        bind_rows(tibble(
+          text = text_name,
+          clique_id = q[i],
+          v = mean(pairwise_indices_v[i,], na.rm = T),
+          e = mean(pairwise_indices_e[i,], na.rm = T)
+        ))
+    }
+    
+    # Table with all the indices
+    indices = indices %>%
+      bind_rows(
+        mean_pairwise_cohesion %>%
+          select(text, clique_id, v, e) %>%
+          mutate(index = 'pairwise'))
+    
+    write_csv(indices, 
+              paste0('corpora/indices_partial_pairwise_oanc/', s, '_', file))
+  }
 }
