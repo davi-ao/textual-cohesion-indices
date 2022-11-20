@@ -198,7 +198,7 @@ for (file in files) {
 
 # Partial pairwise indices -----------------------------------------------------
 
-for (s in seq(10, 300, 10)) {
+for (s in seq(180, 300, 10)) {
   for (file in files) {
     # Create the indices table
     indices = tibble(
@@ -221,62 +221,64 @@ for (s in seq(10, 300, 10)) {
     
     q = data %>% .$clique_id %>% unique()
     
-    # Mean Pairwise Cohesion Indices -------------------------------------------
-    mean_pairwise_cohesion = tibble(
-      text = character(),
-      clique_id = character(),
-      v = double(),
-      e = double()
-    )
-    
-    pairwise_indices_v = matrix(rep(NA, length(q)^2), length(q), length(q))
-    rownames(pairwise_indices_v) = q
-    colnames(pairwise_indices_v) = q
-    pairwise_indices_e = matrix(rep(NA, length(q)^2), length(q), length(q))
-    rownames(pairwise_indices_e) = q
-    colnames(pairwise_indices_e) = q
-    
-    for(i in 1:length(q)) {
-      q_i = data %>% filter(clique_id == q[i])
+    if (length(q) >= s) {
+      # Mean Pairwise Cohesion Indices -------------------------------------------
+      mean_pairwise_cohesion = tibble(
+        text = character(),
+        clique_id = character(),
+        v = double(),
+        e = double()
+      )
       
-      q_n = q_i %>% nrow()
+      pairwise_indices_v = matrix(rep(NA, length(q)^2), length(q), length(q))
+      rownames(pairwise_indices_v) = q
+      colnames(pairwise_indices_v) = q
+      pairwise_indices_e = matrix(rep(NA, length(q)^2), length(q), length(q))
+      rownames(pairwise_indices_e) = q
+      colnames(pairwise_indices_e) = q
       
-      for (j in 1:length(q)) {
-        if (j > i) {
-          q_j = data %>% filter(clique_id == q[j])
-          r = intersect(q_i %>% .$stem, q_j %>% .$stem) %>% length()
-          m_c = (q_i %>% filter(!stem %in% q_j$stem) %>% .$lemma) %in% 
-            (c(q_j %>% .$synonyms %>% str_split('\\|') %>% unlist(),
-               q_j %>% .$hypernyms %>% str_split('\\|') %>% unlist()) %>% 
-               unique()) %>%
-            sum()
-          n_j = q_j %>% nrow()
-          pairwise_indices_v[i,j] = r/q_n
-          pairwise_indices_v[j,i] = r/q_n
-          pairwise_indices_e[i,j] = m_c/((q_n - r)*(n_j - r))
-          pairwise_indices_e[j,i] = m_c/((q_n - r)*(n_j - r))
+      for(i in 1:length(q)) {
+        q_i = data %>% filter(clique_id == q[i])
+        
+        q_n = q_i %>% nrow()
+        
+        for (j in 1:length(q)) {
+          if (j > i) {
+            q_j = data %>% filter(clique_id == q[j])
+            r = intersect(q_i %>% .$stem, q_j %>% .$stem) %>% length()
+            m_c = (q_i %>% filter(!stem %in% q_j$stem) %>% .$lemma) %in% 
+              (c(q_j %>% .$synonyms %>% str_split('\\|') %>% unlist(),
+                 q_j %>% .$hypernyms %>% str_split('\\|') %>% unlist()) %>% 
+                 unique()) %>%
+              sum()
+            n_j = q_j %>% nrow()
+            pairwise_indices_v[i,j] = r/q_n
+            pairwise_indices_v[j,i] = r/q_n
+            pairwise_indices_e[i,j] = m_c/((q_n - r)*(n_j - r))
+            pairwise_indices_e[j,i] = m_c/((q_n - r)*(n_j - r))
+          }
         }
       }
+      
+      for(i in 1:length(q)) {
+        mean_pairwise_cohesion = mean_pairwise_cohesion %>%
+          bind_rows(tibble(
+            text = text_name,
+            clique_id = q[i],
+            v = mean(pairwise_indices_v[i,], na.rm = T),
+            e = mean(pairwise_indices_e[i,], na.rm = T)
+          ))
+      }
+      
+      # Table with all the indices
+      indices = indices %>%
+        bind_rows(
+          mean_pairwise_cohesion %>%
+            select(text, clique_id, v, e) %>%
+            mutate(index = 'pairwise'))
+      
+      write_csv(indices, 
+                paste0('corpora/indices_partial_pairwise_oanc/', s, '_', file))
     }
-    
-    for(i in 1:length(q)) {
-      mean_pairwise_cohesion = mean_pairwise_cohesion %>%
-        bind_rows(tibble(
-          text = text_name,
-          clique_id = q[i],
-          v = mean(pairwise_indices_v[i,], na.rm = T),
-          e = mean(pairwise_indices_e[i,], na.rm = T)
-        ))
-    }
-    
-    # Table with all the indices
-    indices = indices %>%
-      bind_rows(
-        mean_pairwise_cohesion %>%
-          select(text, clique_id, v, e) %>%
-          mutate(index = 'pairwise'))
-    
-    write_csv(indices, 
-              paste0('corpora/indices_partial_pairwise_oanc/', s, '_', file))
   }
 }
