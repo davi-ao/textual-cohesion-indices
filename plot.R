@@ -11,44 +11,39 @@ indices_oanc = tibble(
   e = double()
 )
 
-dir = 'corpora/indices_oanc/'
-files_indices_oanc_lemma = list.files(dir, 'lemma_*')
-files_indices_oanc_root = list.files(dir)[!list.files(dir) %in% files_indices_oanc_lemma]
+dir = 'corpora/oanc_indices/'
+files_indices_oanc = list.files(dir)
 
 for (f in files_indices_oanc_root) {
   indices_oanc = indices_oanc %>%
     bind_rows(read_csv(paste0(dir, f)))
 }
 
-indices_oanc = indices_oanc %>%
-  mutate(vertices_type = 'root')
-
 indices_pseudotext = tibble(
   text = character(),
-  clique_id = character(),
+  clique_id = double(),
   index = character(),
   v = double(),
   e = double()
 )
 
-dir = 'corpora/indices_pseudotexts/'
-files_indices_pseudo = list.files(dir)
+dir = 'corpora/oanc_indices_pseudotexts/'
+files_indices_pseudo = list.files(dir, 'pseudotext_*')
 
 for (f in files_indices_pseudo) {
   indices_pseudotext = indices_pseudotext %>%
-    bind_rows(read_csv(paste0(dir, f)) %>%
-                select(-clique))
+    bind_rows(read_csv(paste0(dir, f)))
 }
 
 # Prepare tibble for plotting
 indices = indices_oanc %>%
   mutate(genre = text %>% 
            str_match('([a-z]+)_') %>% 
-           .[,2]) %>%
-  mutate(clique_id = clique_id %>% as.character(),
-         corpus = 'oanc') %>%
+           .[,2],
+         corpus = 'text') %>%
   bind_rows(indices_pseudotext %>%
-              mutate(corpus = 'pseudo')) %>%
+              mutate(genre = 'pseudo',
+                     corpus = 'pseudo')) %>%
   pivot_longer(c(v, e), names_to = 'type', values_to = 'value') %>%
   mutate(index = index %>%
            as_factor() %>%

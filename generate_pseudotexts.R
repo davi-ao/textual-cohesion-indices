@@ -1,12 +1,11 @@
 library(tidyverse)
 
-dir = 'corpus/csv/'
+dir = 'corpora/oanc_csv/'
 files = list.files(dir)
 sentences = tibble(
-  token = character(),
   lemma = character(),
   upos = character(),
-  clique = double(),
+  clique_id = double(),
   stem = character(),
   synonyms = character(),
   hypernyms = character(),
@@ -23,22 +22,19 @@ for (file in files) {
 }
 
 sentences = sentences %>%
-  mutate(clique_id = paste0(text, '_', clique))
+  mutate(text_clique_id = paste0(text, '_', clique_id)) %>%
+  group_by(text)
 
-text_lenghts = sentences %>%
-  group_by(text) %>%
-  summarise(q_n = clique %>% unique() %>% length()) %>%
-  ungroup() %>%
-  mutate(cumulative = cumsum(q_n))
-
-random_clique_ids = sample(sentences$clique_id %>% unique())
-
-for (i in 1:nrow(text_lenghts)) {
+for (i in 1:length(files)) {
   sentences %>%
-    filter(clique_id %in% 
-             random_clique_ids[
-               (text_lenghts$cumulative[i] - (text_lenghts$q_n[i] - 1)):
-                 text_lenghts$cumulative[i]
-             ]) %>%
-    write_csv(paste0('corpus/csv_pseudotexts/', text_lenghts$text[i], '.csv'))
+    filter(text_clique_id %in% (
+      sentences %>%
+        sample_n(1) %>%
+        .$text_clique_id
+    )) %>%
+    group_by(text_clique_id) %>%
+    mutate(clique_id = cur_group_id()) %>%
+    write_csv(paste0('corpora/oanc_csv_pseudotexts/pseudotext_', 
+                     str_pad(i, 2, 'left', '0'), 
+                     '.csv'))
 }

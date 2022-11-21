@@ -8,7 +8,7 @@
 library(tidyverse)
 
 # List csv files
-dir = 'corpora/oanc_csv/'
+dir = 'corpora/oanc_csv_pseudotexts/'
 files = list.files(dir)
 
 for (file in files) {
@@ -193,12 +193,12 @@ for (file in files) {
         select(text, clique_id, v, e) %>%
         mutate(index = 'pairwise'))
   
-  write_csv(indices, paste0('corpora/indices_oanc/', file))
+  write_csv(indices, paste0('corpora/oanc_indices_pseudotexts/', file))
 }
 
 # Partial pairwise indices -----------------------------------------------------
 
-for (s in seq(180, 300, 10)) {
+for (s in seq(10, 300, 10)) {
   for (file in files) {
     # Create the indices table
     indices = tibble(
@@ -211,8 +211,10 @@ for (s in seq(180, 300, 10)) {
     
     text_name = file %>% str_sub(0,-5)
     annotated_text = read_csv(paste0(dir, file)) %>%
-      mutate(clique_id = clique_id %>% as.character()) %>%
-      filter(as.numeric(clique_id) <= s)
+      group_by(clique_id) %>%
+      mutate(group_id = cur_group_id()) %>%
+      filter(group_id <= s) %>%
+      mutate(clique_id = clique_id %>% as.character())
     
     data = annotated_text %>%
       group_by(clique_id) %>%
@@ -278,7 +280,7 @@ for (s in seq(180, 300, 10)) {
             mutate(index = 'pairwise'))
       
       write_csv(indices, 
-                paste0('corpora/indices_partial_pairwise_oanc/', s, '_', file))
+                paste0('corpora/oanc_indices_partial_pairwise/', s, '_', file))
     }
   }
 }
