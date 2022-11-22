@@ -1,0 +1,43 @@
+clique_id,lemma,upos,affix,stem,synonyms,hypernyms
+1,linda,NNP,NA,linda,,NA
+1,samel,NNP,s,samel,,NA
+1,ceballo,NNP,s,ceballo,,NA
+1,enter,VBD,ed,enter,accede|come in|embark|enrol|enroll|enter|figure|get in|get into|go in|go into|infix|inscribe|insert|introduce|move into|participate|put down|record|recruit,register|be|save|preserve|succeed|come after|follow|take office|attach|get down|begin|get|start out|start|set about|set out|commence
+1,loyolum,NNP,s,loyolum,,NA
+1,law,NNP,NA,law,constabulary|jurisprudence|law|law of nature|legal philosophy|natural law|police|police force|practice of law,collection|aggregation|accumulation|assemblage|legal document|legal instrument|official document|instrument|concept|conception|construct|philosophy|learned profession|force|personnel|law enforcement agency
+1,school,NNP,NA,school,school|school day|schoolhouse|schooling|schooltime|shoal,educational institution|building|edifice|education|body|time period|period of time|period|animal group
+1,lo,NNP,s,lo,,NA
+1,angele,NNP,s,angel,,NA
+1,know,VBG,ing,know,acknowledge|bang|be intimate|bed|bonk|cognise|cognize|do it|eff|experience|fuck|get it on|get laid|have a go at it|have intercourse|have it away|have it off|have sex|hump|jazz|know|lie with|live|love|make love|make out|recognise|recognize|roll in the hay|screw|sleep together|sleep with,experience|see|go through|accept|copulate|mate|pair|couple|recognize|recognise|realize|realise|agnize|agnise|distinguish|separate|differentiate|secern|secernate|severalize|severalise|tell|tell apart|remember|retrieve|recall|call back|call up|recollect|think
+1,want,VBD,ed,want,desire|need|require|want,be|search|seek|look for|demand|miss|lack
+1,represent,VB,NA,repres,act|be|comprise|constitute|correspond|defend|exemplify|interpret|lay out|make up|map|play|present|represent|stage|stand for|symbolise|symbolize|typify,equal|be|mean|intend|serve|express|verbalize|verbalise|utter|give tongue to|embody|personify|re-create|describe|depict|draw|remonstrate|point out|state|say|tell|permute|commute|transpose
+1,poor,JJ,NA,poor,hapless|inadequate|jejune|miserable|misfortunate|pathetic|piteous|pitiable|pitiful|poor|short|wretched,
+2,graduate,VBD,ed,graduat,calibrate|fine-tune|graduate,receive|have|confer|bestow|adjust|set|correct
+2,1995,CD,NA,1995,NA,NA
+2,owe,VBG,ing,ow,owe,repose on|rest on|build on|build upon|be
+2,58,CD,NA,58,NA,NA
+2,000,CD,NA,000,NA,NA
+2,loan,NNS,s,loan,loan|loanword,debt|word
+3,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+3,run,VB,NA,run,be given|black market|bleed|break away|bunk|campaign|carry|consort|course|die hard|draw|endure|escape|execute|extend|feed|flow|fly the coop|function|go|guide|head for the hills|hightail it|hunt|hunt down|incline|ladder|lam|lead|lean|melt|melt down|move|operate|pass|persist|play|ply|prevail|race|range|run|run away|run for|scarper|scat|take to the woods|tend|track down|turn tail|unravel|work,travel rapidly|speed|hurry|zip|leave|go forth|go away|be|direct|move|race|run|travel|go|locomote|function|work|operate|become|get|process|treat|incur|continue|occur|enforce|implement|apply|circulate|circularize|circularise|distribute|disseminate|propagate|broadcast|spread|diffuse|disperse|pass around|carry through|accomplish|execute|carry out|action|fulfill|fulfil|pass|make pass|succeed|win|come through|bring home the bacon|deliver the goods|trade|merchandise|displace|spread out|fan out|sail|last|endure|free|liberate|release|unloose|unloosen|loose|accompany|trip|jaunt|capture|catch|compete|vie|contend|change|dissolve|resolve|break up|break|separate|split up|fall apart|come apart|disintegrate
+3,means,NNS,NA,mean,agency|means|substance|way,implementation|effectuation|instrumentality|instrumentation|capital
+3,pay,VB,NA,pai,ante up|bear|compensate|devote|give|make up|pay|pay off|pay up|yield,give|communicate|intercommunicate|pay|gain|take in|clear|make|earn|realize|realise|pull in|bring in|settle|think|cogitate|cerebrate|be|digest|endure|stick out|stomach|bear|stand|tolerate|support|brook|abide|suffer|put up|requite|repay
+3,back,RB,NA,back,back|backward|backwards|rearward|rearwards,NA
+3,loan,NNS,s,loan,loan|loanword,debt|word
+3,take,VBD,ed,take,accept|acquire|admit|adopt|aim|ask|assume|bring|call for|carry|charter|choose|claim|conduct|consider|consume|contain|contract|convey|deal|demand|direct|drive|engage|exact|fill|film|get|get hold of|guide|have|hire|hold|ingest|involve|lead|learn|lease|look at|make|necessitate|need|occupy|pack|pick out|postulate|read|remove|rent|require|select|shoot|strike|study|submit|subscribe|subscribe to|take|take aim|take away|take in|take on|take up|train|use up|withdraw,NA
+3,job,NN,NA,job,Book of Job|business|caper|chore|job|Job|line|line of work|occupation|problem|task,activity|duty|workplace|work|product|production|responsibility|obligation|difficulty|unfortunate|unfortunate person|application|application program|applications programme|robbery
+3,inner,NNP,NA,inner,,NA
+3,city,NNP,NA,citi,city|metropolis|urban center,municipality|administrative district|administrative division|territorial division
+3,law,NNP,NA,law,constabulary|jurisprudence|law|law of nature|legal philosophy|natural law|police|police force|practice of law,collection|aggregation|accumulation|assemblage|legal document|legal instrument|official document|instrument|concept|conception|construct|philosophy|learned profession|force|personnel|law enforcement agency
+3,center,NNP,NA,center,center|center field|center of attention|centerfield|centre|centre of attention|core|essence|eye|gist|heart|heart and soul|inwardness|kernel|mall|marrow|meat|middle|midpoint|nerve center|nerve centre|nitty-gritty|nub|pith|plaza|shopping center|shopping centre|shopping mall|snapper|substance|sum,area|country|tract|piece of land|piece of ground|parcel of land|parcel|building|edifice|point|content|cognitive content|mental object|object|neural structure|formation|basketball player|basketeer|cager|lineman|place|property|class|stratum|social class|socio-economic class|hockey player|ice-hockey player|sweet|confection|mercantile establishment|retail store|sales outlet|outlet|position
+3,lo,NNP,s,lo,,NA
+3,angele,NNP,s,angel,,NA
+3,firm,NN,NA,firm,business firm|firm|house,business|concern|business concern|business organization|business organisation
+3,fight,NNS,s,fight,battle|combat|competitiveness|conflict|engagement|fight|fighting|scrap,military action|action|conflict|struggle|battle|aggressiveness|controversy|contention|contestation|disputation|disceptation|tilt|argument|arguing|boxing|pugilism|fisticuffs
+3,slum,NN,NA,slum,slum|slum area,city district
+3,landlord,NNS,s,landlord,landlord,landowner|landholder|property owner
+4,be,VBD,ed,be,be|comprise|constitute|cost|embody|equal|exist|follow|live|make up|personify|represent,NA
+4,there,RB,NA,there,there|thither,NA
+4,meet,VBD,ed,meet,adjoin|assemble|come across|conform to|contact|converge|encounter|fill|fit|foregather|forgather|fulfil|fulfill|gather|get together|meet|play|receive|run across|run into|satisfy|see|suffer|take on|touch,NA
+4,nancy,NNP,NA,nanci,Nancy,
+4,mintie,NNP,NA,minti,,NA

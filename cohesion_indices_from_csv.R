@@ -196,7 +196,34 @@ for (file in files) {
   write_csv(indices, paste0('corpora/oanc_indices_pseudotexts/', file))
 }
 
+# Partial global and local indices ---------------------------------------------
+
+# Texts
+dir = 'corpora/oanc_indices_pseudotexts/'
+files = list.files(dir, 'pseudotext*')
+
+for (s in seq(10, 300, 10)) {
+  for (file in files) {
+    # Create the indices table
+    data = read_csv(paste0(dir, file)) %>%
+      group_by(clique_id) %>%
+      mutate(group_id = cur_group_id()) %>%
+      filter(group_id <= s & index %in% c('global', 'local'))
+    
+    q = data %>% .$clique_id %>% unique()
+    
+    if (length(q) >= s) {
+      write_csv(data, paste0('corpora/oanc_indices_partial_global_local/', 
+                             s, 
+                             '_', 
+                             file))
+    }
+  }
+}
+
 # Partial pairwise indices -----------------------------------------------------
+dir = 'corpora/oanc_csv_pseudotexts/'
+files = list.files(dir)
 
 for (s in seq(10, 300, 10)) {
   for (file in files) {
