@@ -60,9 +60,9 @@ indices = indices_oanc %>%
 # Plot mean indices
 indices %>%
   mutate(index = index %>%
-           recode('θ - Global Backward Cohesion' = '⟨θ⟩ - Text Global Backward Cohesion',
-                  'λ - Local Backward Cohesion' = '⟨λ⟩ - Text Local Backward Cohesion',
-                  'ρ - Mean Pairwise Cohesion' = '⟨ρ⟩ - Text Mean Pairwise Cohesion'),
+           recode('θ - Global Backward Cohesion' = 'Text Global Backward Cohesion',
+                  'λ - Local Backward Cohesion' = 'Text Local Backward Cohesion',
+                  'ρ - Mean Pairwise Cohesion' = 'Text Mean Pairwise Cohesion'),
          corpus = corpus %>%
            as_factor() %>%
            recode('text' = 'Texts',
@@ -92,14 +92,14 @@ ggsave('figure6.png',
        units = 'cm',
        dpi = 300)
 
-# Plot probability distribution of cohesion indices
+# Plot distribution of cohesion indices
+# Density
 indices %>%
   mutate(corpus = corpus %>%
            as_factor() %>%
            recode('text' = 'Texts',
                   'pseudo' = 'Pseudotexts')) %>%
   ggplot(aes(value, 
-             after_stat(scaled), 
              fill = corpus, 
              group = corpus, 
              pattern = corpus)) +
@@ -113,6 +113,29 @@ indices %>%
   ylab('Density')
 
 ggsave('figure7.png', 
+       device = 'png', 
+       width = 24.7, 
+       height = 16, 
+       units = 'cm', 
+       dpi = 300)
+
+# Histogram
+indices %>%
+  mutate(corpus = corpus %>%
+           as_factor() %>%
+           recode('text' = 'Texts',
+                  'pseudo' = 'Pseudotexts')) %>%
+  ggplot(aes(value, 
+             fill = corpus, 
+             group = corpus)) +
+  facet_wrap(type ~ index, scales = 'free') +
+  geom_histogram(colour = 'black') +
+  theme(legend.position = 'bottom', legend.direction = 'horizontal') +
+  scale_fill_brewer(palette = 'Dark2') +
+  xlab('Value') +
+  ylab('Frequency')
+
+ggsave('figure7_histogram.png', 
        device = 'png', 
        width = 24.7, 
        height = 16, 
@@ -200,24 +223,20 @@ indices_partial %>%
            recode('e' = 'Edge Cohesion',
                   'v' = 'Vertex Cohesion'),
          value = ifelse(value == Inf, 0, value)) %>%
-  ggplot(aes(value, 
-             after_stat(scaled), 
+  ggplot(aes(value,
              fill = corpus, 
-             group = corpus, 
-             pattern = corpus)) +
-  facet_grid(sentences ~ type, scales = 'free') +
-  geom_density_pattern(alpha = .5,
-                       pattern_fill = 'black',
-                       pattern_color = 'black') +
+             group = corpus)) +
+  facet_grid(type ~ sentences, scales = 'free') +
+  geom_histogram(colour = 'black') +
   theme(legend.position = 'bottom', legend.direction = 'horizontal') +
   scale_fill_brewer(palette = 'Dark2') +
   xlab('Value') +
-  ylab('Density')
+  ylab('Frequency')
 
-ggsave('figure8.png', 
+ggsave('figure8_histograms.png', 
        device = 'png', 
        width = 24.7, 
-       height = 22.8, 
+       height = 12.35,
        units = 'cm', 
        dpi = 300)
 
@@ -236,24 +255,20 @@ indices_partial %>%
            recode('e' = 'Edge Cohesion',
                   'v' = 'Vertex Cohesion'),
          value = ifelse(value == Inf, 0, value)) %>%
-  ggplot(aes(value, 
-             after_stat(scaled), 
+  ggplot(aes(value,
              fill = corpus, 
-             group = corpus, 
-             pattern = corpus)) +
-  facet_grid(sentences ~ type, scales = 'free') +
-  geom_density_pattern(alpha = .5,
-                       pattern_fill = 'black',
-                       pattern_color = 'black') +
+             group = corpus)) +
+  facet_grid(type ~ sentences, scales = 'free') +
+  geom_histogram(colour = 'black') +
   theme(legend.position = 'bottom', legend.direction = 'horizontal') +
   scale_fill_brewer(palette = 'Dark2') +
   xlab('Value') +
-  ylab('Density')
+  ylab('Frequency')
 
-ggsave('figure9.png', 
+ggsave('figure9_histograms.png', 
        device = 'png', 
        width = 24.7, 
-       height = 22.8, 
+       height = 12.35,
        units = 'cm', 
        dpi = 300)
 
@@ -272,23 +287,19 @@ indices_partial %>%
            recode('e' = 'Edge Cohesion',
                   'v' = 'Vertex Cohesion'),
          value = ifelse(value == Inf, 0, value)) %>%
-  ggplot(aes(value, 
-             after_stat(scaled), 
+  ggplot(aes(value,
              fill = corpus, 
-             group = corpus, 
-             pattern = corpus)) +
-  facet_grid(sentences ~ type, scales = 'free') +
-  geom_density_pattern(alpha = .5,
-                       pattern_fill = 'black',
-                       pattern_color = 'black') +
+             group = corpus)) +
+  facet_grid(type ~ sentences, scales = 'free') +
+  geom_histogram(colour = 'black') +
   theme(legend.position = 'bottom', legend.direction = 'horizontal') +
   scale_fill_brewer(palette = 'Dark2') +
   xlab('Value') +
-  ylab('Density')
+  ylab('Frequency')
 
-ggsave('figure10.png', 
+ggsave('figure10_histograms.png', 
        device = 'png', 
        width = 24.7, 
-       height = 22.8, 
+       height = 12.35,
        units = 'cm', 
        dpi = 300)
