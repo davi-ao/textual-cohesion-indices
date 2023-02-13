@@ -92,6 +92,13 @@ ggsave('figure6.png',
        units = 'cm',
        dpi = 300)
 
+ggsave('figure6.svg',
+       device = 'svg',
+       width = 24.7,
+       height = 16,
+       units = 'cm',
+       dpi = 300)
+
 # Plot distribution of cohesion indices
 # Density
 indices %>%
@@ -119,24 +126,8 @@ ggsave('figure7.png',
        units = 'cm', 
        dpi = 300)
 
-# Histogram
-indices %>%
-  mutate(corpus = corpus %>%
-           as_factor() %>%
-           recode('text' = 'Texts',
-                  'pseudo' = 'Pseudotexts')) %>%
-  ggplot(aes(value, 
-             fill = corpus, 
-             group = corpus)) +
-  facet_wrap(type ~ index, scales = 'free') +
-  geom_histogram(colour = 'black') +
-  theme(legend.position = 'bottom', legend.direction = 'horizontal') +
-  scale_fill_brewer(palette = 'Dark2') +
-  xlab('Value') +
-  ylab('Frequency')
-
-ggsave('figure7_histogram.png', 
-       device = 'png', 
+ggsave('figure7.svg', 
+       device = 'svg', 
        width = 24.7, 
        height = 16, 
        units = 'cm', 
