@@ -1,0 +1,1533 @@
+word	lemma	POS	CW\FW	other categories
+century	century	NN	CW	NOUN	ARGUMENT
+natural	natural	JJ	CW	ADJ
+product	product	NN	CW	NOUN	ARGUMENT
+microorganism	microorganism	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+main	main	JJ	CW	ADJ
+source	source	NN	CW	NOUN	ARGUMENT
+medicine	medicine	NN	CW	NOUN	ARGUMENT
+treat	treat	NN	CW	NOUN	ARGUMENT
+infectious	infectious	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+chemical	chemical	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+antibiotic	antibiotic	JJ	CW	ADJ
+apart	apart	RB	ADV	FW
+penicillin	penicillin	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+stepwise	stepwise	JJ	CW	ADJ
+building	building	NN	CW	NOUN	ARGUMENT
+long	long	JJ	CW	ADJ
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+atom	atom	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+multifunctional	multifunctional	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+determine	determine	VB	CW	VERB
+chain	chain	NN	CW	NOUN	ARGUMENT
+length	length	NN	CW	NOUN	ARGUMENT
+oxidation	oxidation	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+branch	branch	NN	CW	NOUN	ARGUMENT
+cyclisation	cyclisation	NN	CW	NOUN	ARGUMENT
+stereochemistry	stereochemistry	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+combinatorial	combinatorial	JJ	CW	ADJ
+fashion	fashion	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	CW	VERB
+enormous	enormous	JJ	CW	ADJ
+variety	variety	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+recent	recent	JJ	CW	ADJ
+elucidation	elucidation	NN	CW	NOUN	ARGUMENT
+genetic	genetic	JJ	CW	ADJ
+programming	programming	NN	CW	NOUN	ARGUMENT
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+open	open	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+field	field	NN	CW	NOUN	ARGUMENT
+drug	drug	NN	CW	NOUN	ARGUMENT
+discovery	discovery	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+rationally	rationally	RB	ADV	CW
+engineer	engineer	NN	CW	NOUN	ARGUMENT
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	CW	VERB
+unnatural	unnatural	JJ	CW	ADJ
+natural	natural	JJ	CW	ADJ
+product	product	NN	CW	NOUN	ARGUMENT
+novel	novel	JJ	CW	ADJ
+property	property	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+follow	follow	VB	CW	VERB
+development	development	NN	CW	NOUN	ARGUMENT
+penicillin	penicillin	NN	CW	NOUN	ARGUMENT
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+septicemium	septicemium	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+1940	1940	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+numerous	numerous	JJ	CW	ADJ
+antibiotic	antibiotic	JJ	CW	ADJ
+be	be	VB	CW	VERB
+discover	discover	VBP	CW	VERB
+introduce	introduce	VB	CW	VERB
+medicine	medicine	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fungus	fungus	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+penicillin	penicillin	NN	CW	NOUN	ARGUMENT
+semisynthetic	semisynthetic	JJ	CW	ADJ
+derivative	derivative	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+mainstay	mainstay	NN	CW	NOUN	ARGUMENT
+antibacterial	antibacterial	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+decade	decade	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+natural	natural	JJ	CW	ADJ
+antibacterial	antibacterial	JJ	CW	ADJ
+antibiotic	antibiotic	JJ	CW	ADJ
+come	come	VBN	CW	VERB
+group	group	NN	CW	NOUN	ARGUMENT
+soil-dwelling	soil-dwelling	JJ	CW	ADJ
+filamentous	filamentous	JJ	CW	ADJ
+bacteria	bacterium	NNS	CW	NOUN	ARGUMENT
+call	call	VBP	CW	VERB
+actinomycete	actinomycete	NN	CW	NOUN	ARGUMENT
+streptomyce	streptomyce	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+best-known	best-known	JJ	CW	ADJ
+genus	genus	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+organism	organism	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+amazing	amazing	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+so-called	so-called	JJ	CW	ADJ
+secondary	secondary	JJ	CW	ADJ
+metabolite	metabolite	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+evolve	evolve	VB	CW	VERB
+give	give	VB	FW	aux_or_cop
+producer	producer	NN	CW	NOUN	ARGUMENT
+competitive	competitive	JJ	CW	ADJ
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+soil	soil	NN	CW	NOUN	ARGUMENT
+environment	environment	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+expose	expose	VB	CW	VERB
+stress	stress	NN	CW	NOUN	ARGUMENT
+kind	kind	NN	CW	NOUN	ARGUMENT
+challi	challus	NNS	CW	NOUN	ARGUMENT
+hopwood	hopwood	VBP	CW	VERB
+2003	2003	CD	FW
+
+sentence break
+
+compound	compound	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+function	function	NN	CW	NOUN	ARGUMENT
+antibiotic	antibiotic	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+human	human	JJ	CW	ADJ
+perspective	perspective	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+actinomycete	actinomycete	NN	CW	NOUN	ARGUMENT
+antibiotic	antibiotic	JJ	CW	ADJ
+include	include	VBP	CW	VERB
+such	such	JJ	CW	ADJ
+antibacterial	antibacterial	JJ	CW	ADJ
+compound	compound	NN	CW	NOUN	ARGUMENT
+tetracycline	tetracycline	NN	CW	NOUN	ARGUMENT
+erythromycin	erythromycin	NN	CW	NOUN	ARGUMENT
+antifungal	antifungal	JJ	CW	ADJ
+agent	agent	NN	CW	NOUN	ARGUMENT
+candicidin	candicidin	NN	CW	NOUN	ARGUMENT
+amphotericin	amphotericin	NN	CW	NOUN	ARGUMENT
+anticancer	anticancer	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+doxorubicin	doxorubicin	NN	CW	NOUN	ARGUMENT
+antiparasitic	antiparasitic	JJ	CW	ADJ
+avermectin	avermectin	NN	CW	NOUN	ARGUMENT
+walsh	walsh	NN	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+many	many	JJ	CW	ADJ
+different	different	JJ	CW	ADJ
+chemical	chemical	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+represent	represent	VB	CW	VERB
+actinomycete	actinomycete	NN	CW	NOUN	ARGUMENT
+antibiotic	antibiotic	JJ	CW	ADJ
+one	one	CD	FW
+class	class	NN	CW	NOUN	ARGUMENT
+account	account	NN	CW	NOUN	ARGUMENT
+extraordinary	extraordinary	JJ	CW	ADJ
+proportion	proportion	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+compound	compound	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+mention	mention	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+chemical	chemical	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+synthesized	synthesize	VBN	CW	VERB
+multifunctional	multifunctional	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+synthase	synthase	NN	CW	NOUN	ARGUMENT
+pkss	pkss	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+relate	relate	VBP	CW	VERB
+fatty	fatty	JJ	CW	ADJ
+acid	acid	NN	CW	NOUN	ARGUMENT
+synthase	synthase	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+lipid	lipid	NN	CW	NOUN	ARGUMENT
+essential	essential	JJ	CW	ADJ
+integrity	integrity	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+membrane	membrane	NN	CW	NOUN	ARGUMENT
+carry	carry	VBP	CW	VERB
+much	much	RB	ADV	CW
+more	more	RBR	ADV	CW
+complex	complex	JJ	CW	ADJ
+biosynthetic	biosynthetic	JJ	CW	ADJ
+routine	routine	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+repeated	repeat	VBN	CW	VERB
+round	round	JJ	CW	ADJ
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+building	building	NN	CW	NOUN	ARGUMENT
+modification	modification	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+series	series	NN	CW	NOUN	ARGUMENT
+independently	independently	RB	ADV	CW
+variable	variable	JJ	CW	ADJ
+reaction	reaction	NN	CW	NOUN	ARGUMENT
+select	select	JJ	CW	ADJ
+accord	accord	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+characteristic	characteristic	JJ	CW	ADJ
+pk	pk	NN	CW	NOUN	ARGUMENT
+reeve	reeve	NN	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+recent	recent	JJ	CW	ADJ
+research	research	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+focus	focus	NN	CW	NOUN	ARGUMENT
+determine	determine	VB	CW	VERB
+program	program	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+modify	modify	VB	CW	VERB
+rational	rational	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+genetic	genetic	JJ	CW	ADJ
+engineering	engineering	NN	CW	NOUN	ARGUMENT
+thus	thus	RB	ADV	FW
+generate	generate	VBP	CW	VERB
+novel	novel	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+candidate	candidate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+field	field	NN	CW	NOUN	ARGUMENT
+combinatorial	combinatorial	JJ	CW	ADJ
+biosynthesis	biosynthesis	NN	CW	NOUN	ARGUMENT
+unnatural	unnatural	JJ	CW	ADJ
+natural	natural	JJ	CW	ADJ
+product	product	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+give	give	VB	FW	aux_or_cop
+add	add	VB	FW	aux_or_cop
+urgency	urgency	NN	CW	NOUN	ARGUMENT
+rise	rise	NN	CW	NOUN	ARGUMENT
+multidrug-resistant	multidrug-resistant	JJ	CW	ADJ
+pathogen	pathogen	NN	CW	NOUN	ARGUMENT
+mrsa	mrsa	NN	CW	NOUN	ARGUMENT
+methicillin-resistant	methicillin-resistant	JJ	CW	ADJ
+staphylococcus	staphylococcus	NN	CW	NOUN	ARGUMENT
+aureus	aureus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+simply	simply	RB	ADV	CW
+most	most	RBS	ADV	CW
+discuss	discuss	VB	CW	VERB
+series	series	NN	CW	NOUN	ARGUMENT
+threat	threat	NN	CW	NOUN	ARGUMENT
+walsh	walsh	VBP	CW	VERB
+2003	2003	CD	FW
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+pkss	pkss	VB	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+new	new	JJ	CW	ADJ
+one	one	CD	FW
+
+sentence break
+
+heart	heart	NN	CW	NOUN	ARGUMENT
+pk	pk	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+synthesis	synthesis	NN	CW	NOUN	ARGUMENT
+long	long	JJ	CW	ADJ
+chain	chain	NN	CW	NOUN	ARGUMENT
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+atom	atom	NN	CW	NOUN	ARGUMENT
+join	join	VB	CW	VERB
+condense	condense	VB	CW	VERB
+together	together	RB	ADV	CW
+small	small	JJ	CW	ADJ
+organic	organic	JJ	CW	ADJ
+acid	acid	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+acetic	acetic	JJ	CW	ADJ
+malonic	malonic	JJ	CW	ADJ
+acid	acid	NN	CW	NOUN	ARGUMENT
+so-called	so-called	JJ	CW	ADJ
+ketosynthase	ketosynthase	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+usee	usee	JJ	CW	ADJ
+building	building	NN	CW	NOUN	ARGUMENT
+unit	unit	NN	CW	NOUN	ARGUMENT
+form	form	VBP	CW	VERB
+activate	activate	VBP	CW	VERB
+derivative	derivative	JJ	CW	ADJ
+call	call	NN	CW	NOUN	ARGUMENT
+coenzyme	coenzyme	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+ester	ester	NN	CW	NOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+acetyl	acetyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+malonyl	malonyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+example	example	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+special	special	JJ	CW	ADJ
+form	form	NN	CW	NOUN	ARGUMENT
+condensation	condensation	NN	CW	NOUN	ARGUMENT
+join	join	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+drive	drive	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+dioxide	dioxide	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+acetyl	acetyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+atom	atom	NN	CW	NOUN	ARGUMENT
+join	join	VB	CW	VERB
+malonyl	malonyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+latter	latter	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+lose	lose	VB	CW	VERB
+chain	chain	NN	CW	NOUN	ARGUMENT
+four	four	CD	FW
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+atom	atom	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+
+sentence break
+
+further	further	RB	ADV	CW
+round	round	JJ	CW	ADJ
+condensation	condensation	NN	CW	NOUN	ARGUMENT
+extend	extend	VBP	CW	VERB
+chain	chain	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+step	step	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+chain-extender	chain-extender	JJ	CW	ADJ
+unit	unit	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+malonyl	malonyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+methylmalonyl	methylmalonyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+four	four	CD	FW
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+atom	atom	NN	CW	NOUN	ARGUMENT
+linear	linear	JJ	CW	ADJ
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+extend	extend	VB	CW	VERB
+two	two	CD	FW
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+extra	extra	JJ	CW	ADJ
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+methyl	methyl	NN	CW	NOUN	ARGUMENT
+side	side	JJ	CW	ADJ
+branch	branch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+more	more	RBR	ADV	CW
+complex	complex	JJ	CW	ADJ
+extender	extender	NN	CW	NOUN	ARGUMENT
+unit	unit	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+complex	complex	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+branch	branch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+choice	choice	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+type	type	NN	CW	NOUN	ARGUMENT
+building	building	NN	CW	NOUN	ARGUMENT
+unit	unit	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+variable	variable	JJ	CW	ADJ
+determine	determine	VB	CW	VERB
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+concern	concern	NN	CW	NOUN	ARGUMENT
+keto	keto	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+o	o	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+alternate	alternate	JJ	CW	ADJ
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+atom	atom	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+chain	chain	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+condensation	condensation	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+accounting	accounting	NN	CW	NOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+remain	remain	VB	CW	VERB
+intact	intact	JJ	CW	ADJ
+
+sentence break
+
+alternatively	alternatively	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+modify	modify	VB	CW	VERB
+remove	remove	VB	FW	aux_or_cop
+series	series	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+step	step	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+omit	omit	VB	CW	VERB
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+keto	keto	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+point	point	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hydroxyl	hydroxyl	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+oh	oh	UH	FW
+form	form	VB	CW	VERB
+reduction	reduction	NN	CW	NOUN	ARGUMENT
+keto	keto	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+
+sentence break
+
+double	double	JJ	CW	ADJ
+bond	bond	NN	CW	NOUN	ARGUMENT
+adjacent	adjacent	JJ	CW	ADJ
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+atom	atom	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+removal	removal	NN	CW	NOUN	ARGUMENT
+hydroxyl	hydroxyl	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+water	water	NN	CW	NOUN	ARGUMENT
+dehydration	dehydration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+full	full	JJ	CW	ADJ
+saturation	saturation	NN	CW	NOUN	ARGUMENT
+hydrogen	hydrogen	NN	CW	NOUN	ARGUMENT
+atom	atom	NN	CW	NOUN	ARGUMENT
+elsewhere	elsewhere	RB	ADV	CW
+arise	arise	VB	CW	VERB
+enoyl	enoyl	JJ	CW	ADJ
+reduction	reduction	NN	CW	NOUN	ARGUMENT
+double	double	JJ	CW	ADJ
+bond	bond	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+c.	c.	NN	CW	NOUN	ARGUMENT
+further	further	RBR	ADV	CW
+variable	variable	JJ	CW	ADJ
+concern	concern	NN	CW	NOUN	ARGUMENT
+stereochemistry	stereochemistry	NN	CW	NOUN	ARGUMENT
+hydroxyl	hydroxyl	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+methyl	methyl	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+branch	branch	NN	CW	NOUN	ARGUMENT
+exist	exist	VBP	CW	VERB
+two	two	CD	FW
+possible	possible	JJ	CW	ADJ
+configuration	configuration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+nascent	nascent	JJ	CW	ADJ
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+adopt	adopt	VB	CW	VERB
+different	different	JJ	CW	ADJ
+folding	folding	JJ	CW	ADJ
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+pk	pk	NN	CW	NOUN	ARGUMENT
+tailor	tailor	NN	CW	NOUN	ARGUMENT
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+add	add	VB	CW	VERB
+sugar	sugar	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+chemical	chemical	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+alternative	alternative	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+enable	enable	VBP	CW	VERB
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+chemical	chemical	NN	CW	NOUN	ARGUMENT
+reactivity	reactivity	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+pk	pk	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+understand	understand	VB	CW	VERB
+programming	programming	NN	CW	NOUN	ARGUMENT
+pk	pk	NN	CW	NOUN	ARGUMENT
+account	account	NN	CW	NOUN	ARGUMENT
+gamut	gamut	NN	CW	NOUN	ARGUMENT
+structural	structural	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1990	1990	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+ability	ability	NN	CW	NOUN	ARGUMENT
+manipulate	manipulate	VBP	CW	VERB
+actinomycete	actinomycete	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+previous	previous	JJ	CW	ADJ
+decade	decade	NN	CW	NOUN	ARGUMENT
+mainly	mainly	RB	ADV	CW
+use	use	VBP	CW	VERB
+model	model	NN	CW	NOUN	ARGUMENT
+species	species	NNS	CW	NOUN	ARGUMENT
+streptomyce	streptomyce	VBP	CW	VERB
+coelicolor	coelicolor	NN	CW	NOUN	ARGUMENT
+hopwood	hopwood	NN	CW	NOUN	ARGUMENT
+1999	1999	CD	FW
+be	be	VB	FW	aux_or_cop
+combine	combine	VB	CW	VERB
+chemical	chemical	NN	CW	NOUN	ARGUMENT
+biochemical	biochemical	JJ	CW	ADJ
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+crack	crack	NN	CW	NOUN	ARGUMENT
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+code	code	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+organism	organism	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+antibiotic	antibiotic	JJ	CW	ADJ
+aromatic	aromatic	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+tetracycline	tetracycline	NN	CW	NOUN	ARGUMENT
+doxorubicin	doxorubicin	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+model	model	JJ	CW	ADJ
+compound	compound	NN	CW	NOUN	ARGUMENT
+actinorhodin	actinorhodin	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+s	s	NNS	CW	NOUN	ARGUMENT
+coelicolor	coelicolor	JJ	CW	ADJ
+tetracenomycin	tetracenomycin	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+main	main	JJ	CW	ADJ
+variable	variable	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+length	length	NN	CW	NOUN	ARGUMENT
+few	few	JJ	CW	ADJ
+choice	choice	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+building	building	NN	CW	NOUN	ARGUMENT
+unit	unit	NN	CW	NOUN	ARGUMENT
+keto	keto	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+modification	modification	NN	CW	NOUN	ARGUMENT
+programming	programming	NN	CW	NOUN	ARGUMENT
+principle	principle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+simple	simple	JJ	CW	ADJ
+
+sentence break
+
+dna	dna	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+responsible	responsible	JJ	CW	ADJ
+such	such	JJ	CW	ADJ
+pkss	pkss	NN	CW	NOUN	ARGUMENT
+reveal	reveal	VBP	CW	VERB
+set	set	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+encode	encode	VBP	CW	VERB
+protein	protein	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+ketosynthase	ketosynthase	NN	CW	NOUN	ARGUMENT
+ketoreductase	ketoreductase	NN	CW	NOUN	ARGUMENT
+acyl	acyl	NN	CW	NOUN	ARGUMENT
+carrier	carrier	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+acp	acp	NN	CW	NOUN	ARGUMENT
+unit	unit	NN	CW	NOUN	ARGUMENT
+pk	pk	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+tether	tether	VB	CW	VERB
+
+sentence break
+
+see	see	VB	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+come	come	VBN	CW	VERB
+together	together	RB	ADV	CW
+form	form	VBP	CW	VERB
+multicomponent	multicomponent	JJ	CW	ADJ
+pk	pk	NN	CW	NOUN	ARGUMENT
+resemble	resemble	VBP	CW	VERB
+typical	typical	JJ	CW	ADJ
+bacterial	bacterial	JJ	CW	ADJ
+fatty	fatty	JJ	CW	ADJ
+acid	acid	NN	CW	NOUN	ARGUMENT
+synthase	synthase	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+contrast	contrast	NN	CW	NOUN	ARGUMENT
+dna	dna	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+complex	complex	JJ	CW	ADJ
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+erythromycin	erythromycin	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+relative	relative	JJ	CW	ADJ
+streptomyce	streptomyce	JJ	CW	ADJ
+call	call	NN	CW	NOUN	ARGUMENT
+saccharopolyspora	saccharopolyspora	NN	CW	NOUN	ARGUMENT
+erythraea	erythraea	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+involved	involved	JJ	CW	ADJ
+programming	programming	NN	CW	NOUN	ARGUMENT
+reveal	reveal	VBP	CW	VERB
+multifunctional	multifunctional	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+various	various	JJ	CW	ADJ
+enzymic	enzymic	JJ	CW	ADJ
+function	function	NN	CW	NOUN	ARGUMENT
+carry	carry	VBP	CW	VERB
+active	active	JJ	CW	ADJ
+site	site	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+polypeptide	polypeptide	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+mammalian	mammalian	JJ	CW	ADJ
+fatty	fatty	JJ	CW	ADJ
+acid	acid	NN	CW	NOUN	ARGUMENT
+synthase	synthase	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+big	big	JJ	CW	ADJ
+surprise	surprise	NN	CW	NOUN	ARGUMENT
+though	though	IN	FW
+be	be	VB	FW	aux_or_cop
+finding	find	VBG	CW	VERB
+six	six	CD	FW
+set	set	VBN	CW	VERB
+module	module	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+active	active	JJ	CW	ADJ
+site	site	NN	CW	NOUN	ARGUMENT
+corresponding	corresponding	JJ	CW	ADJ
+six	six	CD	FW
+round	round	NN	CW	NOUN	ARGUMENT
+condensation	condensation	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+build	build	VB	CW	VERB
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+cort	cort	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1990	1990	CD	FW
+
+sentence break
+
+donadio	donadio	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1991	1991	CD	FW
+
+sentence break
+
+module	module	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+acyl	acyl	NN	CW	NOUN	ARGUMENT
+transferase	transferase	NN	CW	NOUN	ARGUMENT
+load	load	NN	CW	NOUN	ARGUMENT
+extender	extender	NN	CW	NOUN	ARGUMENT
+unit	unit	NN	CW	NOUN	ARGUMENT
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+ketosynthase	ketosynthase	JJ	CW	ADJ
+acp	acp	NN	CW	NOUN	ARGUMENT
+domain	domain	NN	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+exactly	exactly	RB	ADV	CW
+reductive	reductive	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+need	need	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+required	require	VBN	CW	VERB
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+modification	modification	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+step	step	NN	CW	NOUN	ARGUMENT
+elongation	elongation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+bear	bear	NN	CW	NOUN	ARGUMENT
+assembly	assembly	NN	CW	NOUN	ARGUMENT
+line	line	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+pk	pk	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+hardwired	hardwire	VBN	CW	VERB
+dna	dna	NN	CW	NOUN	ARGUMENT
+express	express	VBP	CW	VERB
+linear	linear	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+active	active	JJ	CW	ADJ
+site	site	NN	CW	NOUN	ARGUMENT
+domain	domain	NN	CW	NOUN	ARGUMENT
+giant	giant	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+consist	consist	VBP	CW	VERB
+six	six	CD	FW
+chain-building	chain-building	JJ	CW	ADJ
+module	module	NN	CW	NOUN	ARGUMENT
+precede	precede	VB	CW	VERB
+short	short	JJ	CW	ADJ
+module	module	NN	CW	NOUN	ARGUMENT
+load	load	NN	CW	NOUN	ARGUMENT
+starter	starter	JJ	CW	ADJ
+unit	unit	NN	CW	NOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+domain	domain	NN	CW	NOUN	ARGUMENT
+release	release	NN	CW	NOUN	ARGUMENT
+complete	complete	JJ	CW	ADJ
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+pk	pk	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+assemble	assemble	VB	CW	VERB
+modify	modify	VB	CW	VERB
+progressively	progressively	RB	ADV	CW
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+move	move	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+interact	interact	VBP	CW	VERB
+domain	domain	NN	CW	NOUN	ARGUMENT
+turn	turn	NN	CW	NOUN	ARGUMENT
+select	select	JJ	CW	ADJ
+extender	extender	NN	CW	NOUN	ARGUMENT
+unit	unit	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+bond	bond	NN	CW	NOUN	ARGUMENT
+modify	modify	VB	CW	VERB
+keto	keto	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+appropriate	appropriate	JJ	CW	ADJ
+depend	depend	VBP	CW	VERB
+presence	presence	NN	CW	NOUN	ARGUMENT
+absence	absence	NN	CW	NOUN	ARGUMENT
+domain	domain	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+step	step	NN	CW	NOUN	ARGUMENT
+reductive	reductive	JJ	CW	ADJ
+cycle	cycle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+model	model	NN	CW	NOUN	ARGUMENT
+arise	arise	VB	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+rapidly	rapidly	RB	ADV	CW
+test	test	NN	CW	NOUN	ARGUMENT
+mutate	mutate	VB	CW	VERB
+individual	individual	JJ	CW	ADJ
+domain	domain	NN	CW	NOUN	ARGUMENT
+add	add	VB	CW	VERB
+delete	delete	VB	CW	VERB
+whole	whole	JJ	CW	ADJ
+module	module	NN	CW	NOUN	ARGUMENT
+observe	observe	VBP	CW	VERB
+predict	predict	VBP	CW	VERB
+change	change	NN	CW	NOUN	ARGUMENT
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+product	product	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+soon	soon	RB	ADV	CW
+dozen	dozen	NN	CW	NOUN	ARGUMENT
+engineer	engineer	NN	CW	NOUN	ARGUMENT
+compound	compound	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+field	field	NN	CW	NOUN	ARGUMENT
+mushroom	mushroom	NN	CW	NOUN	ARGUMENT
+isolation	isolation	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+more	more	RBR	ADV	CW
+cluster	cluster	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+prove	prove	VBP	CW	VERB
+generality	generality	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+minor	minor	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+fill	fill	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+spare	spare	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+engineering	engineering	NN	CW	NOUN	ARGUMENT
+countless	countless	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+shen	shen	NN	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+several	several	JJ	CW	ADJ
+biotech	biotech	JJ	CW	ADJ
+company	company	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+found	find	VBN	CW	VERB
+exploit	exploit	VBP	CW	VERB
+potential	potential	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+discovery	discovery	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+meanwhile	meanwhile	RB	ADV	FW
+programming	program	VBG	CW	VERB
+aromatic	aromatic	JJ	CW	ADJ
+pkss	pkss	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+harder	harder	RBR	ADV	CW
+understand	understand	VB	CW	VERB
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+find	find	VB	CW	VERB
+contain	contain	VBP	CW	VERB
+only	only	RB	ADV	CW
+single	single	JJ	CW	ADJ
+ketosynthase	ketosynthase	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+operate	operate	VBP	CW	VERB
+specific	specific	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+correct	correct	JJ	CW	ADJ
+length	length	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+be	be	VB	CW	VERB
+determined	determine	VBN	CW	VERB
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+single	single	JJ	CW	ADJ
+reductive	reductive	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+keto	keto	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+modify	modify	VB	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+starter	starter	JJ	CW	ADJ
+unit	unit	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+select	select	JJ	CW	ADJ
+extender	extender	NN	CW	NOUN	ARGUMENT
+unit	unit	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+normally	normally	RB	ADV	CW
+malonyl	malonyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+choice	choice	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+
+sentence break
+
+considerable	considerable	JJ	CW	ADJ
+progress	progress	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+construct	construct	NN	CW	NOUN	ARGUMENT
+novel	novel	JJ	CW	ADJ
+compound	compound	NN	CW	NOUN	ARGUMENT
+mix	mix	NN	CW	NOUN	ARGUMENT
+match	match	NN	CW	NOUN	ARGUMENT
+pk	pk	NN	CW	NOUN	ARGUMENT
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+largely	largely	RB	ADV	CW
+base	base	JJ	CW	ADJ
+empirical	empirical	JJ	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+component	component	NN	CW	NOUN	ARGUMENT
+put	put	VBN	CW	VERB
+together	together	RB	ADV	CW
+mcdaniel	mcdaniel	JJ	CW	ADJ
+al	al	NNP	CW	NOUN	ARGUMENT
+1995	1995	CD	FW
+
+sentence break
+
+specific	specific	JJ	CW	ADJ
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+pk	pk	NN	CW	NOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+length	length	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+clf	clf	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+deduced	deduce	VBN	CW	VERB
+have	have	VBP	FW	aux_or_cop
+major	major	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+length	length	NN	CW	NOUN	ARGUMENT
+mcdaniel	mcdaniel	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1993	1993	CD	FW
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+universally	universally	RB	ADV	CW
+accept	accept	VB	CW	VERB
+absence	absence	NN	CW	NOUN	ARGUMENT
+experimental	experimental	JJ	CW	ADJ
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+mode	mode	NN	CW	NOUN	ARGUMENT
+action	action	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+two	two	CD	FW
+recent	recent	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+khoslum	khoslum	NN	CW	NOUN	ARGUMENT
+laboratory	laboratory	NN	CW	NOUN	ARGUMENT
+stanford	stanford	NN	CW	NOUN	ARGUMENT
+university	university	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+significant	significant	JJ	CW	ADJ
+advance	advance	NN	CW	NOUN	ARGUMENT
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+aromatic	aromatic	JJ	CW	ADJ
+pk	pk	NN	CW	NOUN	ARGUMENT
+programming	programming	NN	CW	NOUN	ARGUMENT
+promise	promise	VBP	CW	VERB
+turn	turn	NN	CW	NOUN	ARGUMENT
+spotlight	spotlight	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+engineer	engineer	NN	CW	NOUN	ARGUMENT
+member	member	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+compound	compound	NN	CW	NOUN	ARGUMENT
+potential	potential	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+candidate	candidate	NN	CW	NOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+rational	rational	JJ	CW	ADJ
+manipulation	manipulation	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+key	key	JJ	CW	ADJ
+variable	variable	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+length	length	NN	CW	NOUN	ARGUMENT
+choice	choice	NN	CW	NOUN	ARGUMENT
+starter	starter	JJ	CW	ADJ
+unit	unit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+paper	paper	NN	CW	NOUN	ARGUMENT
+tang	tang	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+author	author	NN	CW	NOUN	ARGUMENT
+explore	explore	VB	CW	VERB
+hypothesis	hypothesis	NN	CW	NOUN	ARGUMENT
+clf	clf	NN	CW	NOUN	ARGUMENT
+exert	exert	VBP	CW	VERB
+control	control	JJ	CW	ADJ
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+length	length	NN	CW	NOUN	ARGUMENT
+associate	associate	NN	CW	NOUN	ARGUMENT
+closely	closely	RB	ADV	CW
+ketosynthase	ketosynthase	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+share	share	NN	CW	NOUN	ARGUMENT
+considerable	considerable	JJ	CW	ADJ
+amino	amino	NN	CW	NOUN	ARGUMENT
+acid	acid	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+similarity	similarity	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+rise	rise	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+certain	certain	JJ	CW	ADJ
+size	size	NN	CW	NOUN	ARGUMENT
+interface	interface	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+protein	protein	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+systematically	systematically	RB	ADV	FW
+change	change	VB	CW	VERB
+amino	amino	NN	CW	NOUN	ARGUMENT
+acid	acid	NN	CW	NOUN	ARGUMENT
+four	four	CD	FW
+key	key	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+clf	clf	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+alter	alter	VB	CW	VERB
+
+sentence break
+
+thus	thus	RB	ADV	FW
+large	large	JJ	CW	ADJ
+amino	amino	NN	CW	NOUN	ARGUMENT
+acid	acid	NN	CW	NOUN	ARGUMENT
+residue	residue	NN	CW	NOUN	ARGUMENT
+clf	clf	NN	CW	NOUN	ARGUMENT
+pk	pk	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+16	16	CD	FW
+
+sentence break
+
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+replace	replace	VB	CW	VERB
+less	less	JJR	CW	ADJ
+bulky	bulky	JJ	CW	ADJ
+residue	residue	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+one	one	CD	FW
+build	build	VBP	CW	VERB
+20	20	CD	FW
+
+sentence break
+
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+length	length	NN	CW	NOUN	ARGUMENT
+product	product	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+expect	expect	VBP	CW	VERB
+
+sentence break
+
+author	author	NN	CW	NOUN	ARGUMENT
+propose	propose	VBP	CW	VERB
+length	length	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+main	main	JJ	CW	ADJ
+factor	factor	NN	CW	NOUN	ARGUMENT
+controll	controll	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+chain-extension	chain-extension	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+place	place	NN	CW	NOUN	ARGUMENT
+fill	fill	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+protein	protein	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+interaction	interaction	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+pk	pk	NN	CW	NOUN	ARGUMENT
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+modulate	modulate	VBP	CW	VERB
+chain	chain	NN	CW	NOUN	ARGUMENT
+length	length	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+represent	represent	VBP	CW	VERB
+major	major	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+manipulate	manipulate	VBP	CW	VERB
+chain	chain	NN	CW	NOUN	ARGUMENT
+length	length	NN	CW	NOUN	ARGUMENT
+aromatic	aromatic	JJ	CW	ADJ
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+choice	choice	NN	CW	NOUN	ARGUMENT
+starter	starter	JJ	CW	ADJ
+unit	unit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	RBS	ADV	CW
+aromatic	aromatic	JJ	CW	ADJ
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+start	start	NN	CW	NOUN	ARGUMENT
+acetyl	acetyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+important	important	JJ	CW	ADJ
+earlier	earlier	JJR	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+leadlay	leadlay	NN	CW	NOUN	ARGUMENT
+colleague	colleague	NN	CW	NOUN	ARGUMENT
+bisang	bisang	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1999	1999	CD	FW
+have	have	VBP	CW	VERB
+show	show	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+load	load	NN	CW	NOUN	ARGUMENT
+directly	directly	RB	ADV	CW
+pk	pk	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+assume	assume	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+derive	derive	VB	CW	VERB
+loss	loss	NN	CW	NOUN	ARGUMENT
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+dioxide	dioxide	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+malonyl	malonyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+previously	previously	RB	ADV	CW
+load	load	NN	CW	NOUN	ARGUMENT
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+decarboxylation	decarboxylation	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+catalysed	catalyse	VBN	CW	VERB
+clf	clf	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+independent	independent	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+influence	influence	NN	CW	NOUN	ARGUMENT
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+length	length	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+however	however	RB	ADV	FW
+certain	certain	JJ	CW	ADJ
+aromatic	aromatic	JJ	CW	ADJ
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+anticancer	anticancer	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+doxorubicin	doxorubicin	NN	CW	NOUN	ARGUMENT
+antiparasitic	antiparasitic	JJ	CW	ADJ
+agent	agent	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+frenolicin	frenolicin	NN	CW	NOUN	ARGUMENT
+estrogen	estrogen	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+agonist	agonist	NN	CW	NOUN	ARGUMENT
+r	r	NN	CW	NOUN	ARGUMENT
+1128	1128	CD	FW
+have	have	VBP	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+starter	starter	JJ	CW	ADJ
+
+sentence break
+
+tang	tang	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2004	2004	CD	FW
+have	have	VBP	FW	aux_or_cop
+deduced	deduce	VBN	CW	VERB
+describe	describe	VBP	CW	VERB
+issue	issue	NN	CW	NOUN	ARGUMENT
+plo	plo	NN	CW	NOUN	ARGUMENT
+biology	biology	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+pkss	pkss	JJ	CW	ADJ
+compound	compound	NN	CW	NOUN	ARGUMENT
+consist	consist	VBP	CW	VERB
+two	two	CD	FW
+module	module	NN	CW	NOUN	ARGUMENT
+active	active	JJ	CW	ADJ
+site	site	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+component	component	NN	CW	NOUN	ARGUMENT
+module	module	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+activity	activity	NN	CW	NOUN	ARGUMENT
+carry	carry	VBP	CW	VERB
+same	same	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+pkss	pkss	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+polyketide	polyketide	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+separate	separate	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+form	form	NN	CW	NOUN	ARGUMENT
+functional	functional	JJ	CW	ADJ
+module	module	NN	CW	NOUN	ARGUMENT
+nevertheless	nevertheless	RB	ADV	FW
+
+sentence break
+
+newly	newly	RB	ADV	CW
+recognize	recognize	VB	CW	VERB
+module	module	NN	CW	NOUN	ARGUMENT
+producer	producer	NN	CW	NOUN	ARGUMENT
+compound	compound	NN	CW	NOUN	ARGUMENT
+start	start	NN	CW	NOUN	ARGUMENT
+nonacetate	nonacetate	JJ	CW	ADJ
+unit	unit	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+dedicate	dedicate	VB	CW	VERB
+acp	acp	NN	CW	NOUN	ARGUMENT
+special	special	JJ	CW	ADJ
+ketosynthase	ketosynthase	NN	CW	NOUN	ARGUMENT
+carry	carry	VBP	CW	VERB
+first	first	JJ	CW	ADJ
+condensation	condensation	NN	CW	NOUN	ARGUMENT
+join	join	VB	CW	VERB
+unusual	unusual	JJ	CW	ADJ
+starter	starter	JJ	CW	ADJ
+unit	unit	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+malonyl	malonyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+extender	extender	NN	CW	NOUN	ARGUMENT
+unit	unit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+starter	starter	JJ	CW	ADJ
+module	module	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+hand	hand	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+diketide	diketide	NN	CW	NOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+module	module	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+reduce	reduce	VB	CW	VERB
+appropriate	appropriate	JJ	CW	ADJ
+use	use	NN	CW	NOUN	ARGUMENT
+reductive	reductive	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+borrow	borrow	VB	CW	VERB
+fatty	fatty	JJ	CW	ADJ
+acid	acid	NN	CW	NOUN	ARGUMENT
+biosynthesis	biosynthesis	NN	CW	NOUN	ARGUMENT
+typical	typical	JJ	CW	ADJ
+extension	extension	NN	CW	NOUN	ARGUMENT
+successive	successive	JJ	CW	ADJ
+condensation	condensation	NN	CW	NOUN	ARGUMENT
+malonyl	malonyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+unit	unit	NN	CW	NOUN	ARGUMENT
+complete	complete	JJ	CW	ADJ
+chain	chain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+starter	starter	JJ	CW	ADJ
+module	module	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+present	present	JJ	CW	ADJ
+second	second	JJ	CW	ADJ
+module	module	NN	CW	NOUN	ARGUMENT
+default	default	NN	CW	NOUN	ARGUMENT
+typical	typical	JJ	CW	ADJ
+habit	habit	NN	CW	NOUN	ARGUMENT
+decarboxylate	decarboxylate	NN	CW	NOUN	ARGUMENT
+malonyl	malonyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+acetyl	acetyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+start	start	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+excitement	excitement	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+biotechnology	biotechnology	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+offer	offer	NN	CW	NOUN	ARGUMENT
+prospect	prospect	NN	CW	NOUN	ARGUMENT
+engineering	engineering	NN	CW	NOUN	ARGUMENT
+promising	promising	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+candidate	candidate	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+novel	novel	JJ	CW	ADJ
+combination	combination	NN	CW	NOUN	ARGUMENT
+starter	starter	JJ	CW	ADJ
+extender	extender	NN	CW	NOUN	ARGUMENT
+module	module	NN	CW	NOUN	ARGUMENT
+perhap	perhap	JJ	CW	ADJ
+feed	feed	NN	CW	NOUN	ARGUMENT
+starter	starter	JJ	CW	ADJ
+module	module	NN	CW	NOUN	ARGUMENT
+whole	whole	JJ	CW	ADJ
+range	range	NN	CW	NOUN	ARGUMENT
+unnatural	unnatural	JJ	CW	ADJ
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+kalaitzi	kalaitzi	FW	FW
+al	al	FW	FW
+2003	2003	CD	FW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+encourage	encourage	VB	CW	VERB
+already	already	RB	ADV	CW
+proof-of-principle	proof-of-principle	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+report	report	NN	CW	NOUN	ARGUMENT
+tang	tang	VBD	CW	VERB
+al	al	NNP	CW	NOUN	ARGUMENT
+2004	2004	CD	FW
+product	product	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+vitro	vitro	FW	FW
+antitumor	antitumor	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+obtain	obtain	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

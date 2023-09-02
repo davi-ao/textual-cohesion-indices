@@ -1,0 +1,131 @@
+word	lemma	POS	CW\FW	other categories
+be	be	VB	FW	aux_or_cop
+one	one	CD	FW
+open	open	JJ	CW	ADJ
+door	door	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+life	life	NN	CW	NOUN	ARGUMENT
+long	long	JJ	CW	ADJ
+dream	dream	NN	CW	NOUN	ARGUMENT
+adult	adult	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+never	never	RB	ADV	CW
+learn	learn	VB	CW	VERB
+read	read	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+here	here	RB	ADV	CW
+make	make	VB	CW	VERB
+important	important	JJ	CW	ADJ
+difference	difference	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+dear	dear	RB	ADV	FW
+friend	friend	NN	CW	NOUN	ARGUMENT
+literacy	literacy	NN	CW	NOUN	ARGUMENT
+share	share	NN	CW	NOUN	ARGUMENT
+special	special	JJ	CW	ADJ
+interest	interest	NN	CW	NOUN	ARGUMENT
+reading	reading	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+read	read	VBN	CW	VERB
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+lifelong	lifelong	JJ	CW	ADJ
+dream	dream	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+help	help	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+reach	reach	VB	CW	VERB
+dream	dream	NN	CW	NOUN	ARGUMENT
+reading	reading	NN	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+make	make	VB	CW	VERB
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+retire	retire	VB	CW	VERB
+person	person	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+beautiful	beautiful	JJ	CW	ADJ
+outlook	outlook	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+work	work	NN	CW	NOUN	ARGUMENT
+n't	not	RB	ADV	CW
+read	read	VBD	CW	VERB
+well	well	RB	ADV	CW
+enough	enough	JJ	CW	ADJ
+accept	accept	VB	CW	VERB
+foreman	foreman	NN	CW	NOUN	ARGUMENT
+job	job	NN	CW	NOUN	ARGUMENT
+turn	turn	VB	CW	VERB
+down	down	RP	FW
+
+sentence break
+
+now	now	RB	ADV	CW
+age	age	NN	CW	NOUN	ARGUMENT
+67	67	CD	FW
+six	six	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+organization	organization	NN	CW	NOUN	ARGUMENT
+wonderful	wonderful	JJ	CW	ADJ
+teacher	teacher	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+leader	leader	NN	CW	NOUN	ARGUMENT
+graduate	graduate	NN	CW	NOUN	ARGUMENT
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+study	study	NN	CW	NOUN	ARGUMENT
+ged	ged	VBN	CW	VERB
+
+sentence break
+
+make	make	VB	CW	VERB
+donation	donation	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+teach	teach	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+read	read	VB	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+achieve	achieve	VB	CW	VERB
+dream	dream	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+donation	donation	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

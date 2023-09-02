@@ -1,0 +1,4841 @@
+word	lemma	POS	CW\FW	other categories
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+one	one	CD	FW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+complex	complex	JJ	CW	ADJ
+cellular	cellular	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+essential	essential	JJ	CW	ADJ
+animal	animal	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+immune	immune	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+wind	wind	NN	CW	NOUN	ARGUMENT
+repair	repair	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+defect	defect	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+lead	lead	VBP	CW	VERB
+human	human	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+birth	birth	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+tumor	tumor	NN	CW	NOUN	ARGUMENT
+metastasis	metastasis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+currently	currently	RB	ADV	CW
+believe	believe	VBP	CW	VERB
+migrate	migrate	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+extend	extend	VBP	CW	VERB
+retract	retract	JJ	CW	ADJ
+actin	actin	NN	CW	NOUN	ARGUMENT
+rich	rich	JJ	CW	ADJ
+protrusion	protrusion	NN	CW	NOUN	ARGUMENT
+lamellipodium	lamellipodium	NN	CW	NOUN	ARGUMENT
+filopodium	filopodium	NN	CW	NOUN	ARGUMENT
+environment	environment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+protrusion	protrusion	NN	CW	NOUN	ARGUMENT
+adhere	adhere	VBP	CW	VERB
+strongly	strongly	RB	ADV	CW
+enough	enough	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+stabilize	stabilize	VB	CW	VERB
+fail	fail	VBP	CW	VERB
+retract	retract	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+way	way	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+adhesive	adhesive	JJ	CW	ADJ
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+cue	cue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+model	model	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+time	time	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+now	now	RB	ADV	CW
+begin	begin	VB	CW	VERB
+understand	understand	VB	CW	VERB
+molecular	molecular	JJ	CW	ADJ
+signal	signal	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+initiate	initiate	NN	CW	NOUN	ARGUMENT
+movement	movement	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+move	move	NN	CW	NOUN	ARGUMENT
+signal	signal	NN	CW	NOUN	ARGUMENT
+guide	guide	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+signal	signal	NN	CW	NOUN	ARGUMENT
+stop	stop	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+appropriate	appropriate	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+recently	recently	RB	ADV	CW
+progress	progress	NN	CW	NOUN	ARGUMENT
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+come	come	VBN	CW	VERB
+study	study	NN	CW	NOUN	ARGUMENT
+caenorhabditis	caenorhabditis	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+drosophilum	drosophilum	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+
+sentence break
+
+most	most	RBS	ADV	CW
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+identify	identify	VBP	CW	VERB
+simple	simple	JJ	CW	ADJ
+invertebrate	invertebrate	JJ	CW	ADJ
+be	be	VB	CW	VERB
+conserved	conserve	VBN	CW	VERB
+vertebrate	vertebrate	JJ	CW	ADJ
+confirm	confirm	VBP	CW	VERB
+efficacy	efficacy	NN	CW	NOUN	ARGUMENT
+genetically	genetically	RB	ADV	CW
+tractable	tractable	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+particularly	particularly	RB	ADV	CW
+attractive	attractive	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+animal	animal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+transparent	transparent	JJ	CW	ADJ
+anatomically	anatomically	RB	ADV	CW
+simple	simple	JJ	CW	ADJ
+so	so	IN	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+live	live	JJ	CW	ADJ
+animal	animal	NN	CW	NOUN	ARGUMENT
+stage	stage	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+fluorescence	fluorescence	NN	CW	NOUN	ARGUMENT
+microscopy	microscopy	NN	CW	NOUN	ARGUMENT
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+fusion	fusion	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+nomarskus	nomarskus	NN	CW	NOUN	ARGUMENT
+microscopy	microscopy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+lineage	lineage	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+invariant	invariant	JJ	CW	ADJ
+animal	animal	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+easily	easily	RB	ADV	FW
+identify	identify	VB	CW	VERB
+
+sentence break
+
+several	several	JJ	CW	ADJ
+genetic	genetic	JJ	CW	ADJ
+screen	screen	NN	CW	NOUN	ARGUMENT
+perform	perform	VB	CW	VERB
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+identify	identify	VB	CW	VERB
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+interfere	interfere	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+review	review	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+2	2	CD	FW
+3	3	CD	FW
+
+sentence break
+
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+affect	affect	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+only	only	RB	ADV	CW
+affect	affect	VBP	CW	VERB
+migration	migration	NN	CW	NOUN	ARGUMENT
+limited	limited	JJ	CW	ADJ
+subset	subset	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+surprisingly	surprisingly	RB	ADV	CW
+many	many	JJ	CW	ADJ
+mutant	mutant	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+show	show	VBP	CW	VERB
+defect	defect	NN	CW	NOUN	ARGUMENT
+axon	axon	NN	CW	NOUN	ARGUMENT
+extension	extension	NN	CW	NOUN	ARGUMENT
+bundle	bundle	NN	CW	NOUN	ARGUMENT
+pathfind	pathfind	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gene	gene	NN	CW	NOUN	ARGUMENT
+identify	identify	VBP	CW	VERB
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+encode	encode	VBP	CW	VERB
+extracellular	extracellular	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+surface	surface	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+fibroblast	fibroblast	NN	CW	NOUN	ARGUMENT
+growth	growth	NN	CW	NOUN	ARGUMENT
+factor-like	factor-like	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+adhesion	adhesion	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+small	small	JJ	CW	ADJ
+gtpase	gtpase	NN	CW	NOUN	ARGUMENT
+non-muscle	non-muscle	JJ	CW	ADJ
+myosin	myosin	NN	CW	NOUN	ARGUMENT
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+gene	gene	NN	CW	NOUN	ARGUMENT
+unc	unc	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+6	6	CD	FW
+unc	unc	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+5	5	CD	FW
+unc	unc	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+40	40	CD	FW
+guide	guide	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+dorsal-ventral	dorsal-ventral	JJ	CW	ADJ
+axis	axis	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+
+sentence break
+
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+conserved	conserve	VBN	CW	VERB
+broad	broad	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+6	6	CD	FW
+protein	protein	NN	CW	NOUN	ARGUMENT
+laminin-like	laminin-like	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+locate	locate	VB	CW	VERB
+ventral	ventral	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+homolog	homolog	NN	CW	NOUN	ARGUMENT
+vertebrate	vertebrate	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+netrin	netrin	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+5	5	CD	FW
+40	40	CD	FW
+be	be	VB	FW	aux_or_cop
+cell	cell	NN	CW	NOUN	ARGUMENT
+surface	surface	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+interact	interact	VBP	CW	VERB
+6	6	CD	FW
+
+sentence break
+
+5	5	CD	FW
+promote	promote	VBP	CW	VERB
+dorsal	dorsal	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+unc	unc	NN	CW	NOUN	ARGUMENT
+40	40	CD	FW
+promote	promote	VBP	CW	VERB
+ventral	ventral	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+response	response	NN	CW	NOUN	ARGUMENT
+unc	unc	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+signal	signal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+base	base	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+species	species	NNS	CW	NOUN	ARGUMENT
+difference	difference	NN	CW	NOUN	ARGUMENT
+unc	unc	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+40	40	CD	FW
+guide	guide	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+axon	axon	NN	CW	NOUN	ARGUMENT
+lie	lie	VBP	CW	VERB
+intracellular	intracellular	JJ	CW	ADJ
+domain	domain	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+6	6	CD	FW
+
+sentence break
+
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+129	129	CD	FW
+member	member	NN	CW	NOUN	ARGUMENT
+transform	transform	VBP	CW	VERB
+growth	growth	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+encoding error!
+encoding error!
+superfamily	superfamily	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+identify	identify	VB	CW	VERB
+genetic	genetic	JJ	CW	ADJ
+suppressor	suppressor	NN	CW	NOUN	ARGUMENT
+ectopic	ectopic	JJ	CW	ADJ
+unc	unc	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+signal	signal	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+
+sentence break
+
+129	129	CD	FW
+be	be	VB	FW	aux_or_cop
+express	express	VB	CW	VERB
+dorsally	dorsally	RB	ADV	FW
+loss	loss	NN	CW	NOUN	ARGUMENT
+129	129	CD	FW
+function	function	NN	CW	NOUN	ARGUMENT
+disrupt	disrupt	VBP	CW	VERB
+dorsal	dorsal	NN	CW	NOUN	ARGUMENT
+axon	axon	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+drosophilum	drosophilum	NN	CW	NOUN	ARGUMENT
+encoding error!
+family	family	NN	CW	NOUN	ARGUMENT
+member	member	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+involve	involve	VBP	CW	VERB
+controll	controll	NN	CW	NOUN	ARGUMENT
+dorsal-ventral	dorsal-ventral	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+
+sentence break
+
+appear	appear	VB	CW	VERB
+therefore	therefore	RB	ADV	FW
+6	6	CD	FW
+netrin	netrin	NN	CW	NOUN	ARGUMENT
+encoding error!
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+act	act	VBP	FW	aux_or_cop
+redundantly	redundantly	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+conserved	conserve	VBN	CW	VERB
+species	species	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+axon	axon	NN	CW	NOUN	ARGUMENT
+anterior-posterior	anterior-posterior	JJ	CW	ADJ
+axis	axis	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+understand	understand	VB	CW	VERB
+
+sentence break
+
+two	two	CD	FW
+gene	gene	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+anterior-posterior	anterior-posterior	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+8	8	CD	FW
+mig	mig	NN	CW	NOUN	ARGUMENT
+13	13	CD	FW
+
+sentence break
+
+8	8	CD	FW
+be	be	VB	FW	aux_or_cop
+kinesin-related	kinesin-related	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+act	act	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+autonomously	autonomously	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+posterior	posterior	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+9	9	CD	FW
+10	10	CD	FW
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+8	8	CD	FW
+be	be	VB	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+involve	involve	VB	CW	VERB
+cellular	cellular	JJ	CW	ADJ
+response	response	NN	CW	NOUN	ARGUMENT
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+cue	cue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mig	mig	NN	CW	NOUN	ARGUMENT
+13	13	CD	FW
+be	be	VB	FW	aux_or_cop
+novel	novel	JJ	CW	ADJ
+transmembrane	transmembrane	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+act	act	VBP	CW	VERB
+non-cell	non-cell	JJ	CW	ADJ
+autonomously	autonomously	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+anterior	anterior	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+12	12	CD	FW
+
+sentence break
+
+dose	dose	NN	CW	NOUN	ARGUMENT
+mig	mig	NN	CW	NOUN	ARGUMENT
+13	13	CD	FW
+appear	appear	VBP	CW	VERB
+affect	affect	VB	CW	VERB
+extent	extent	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+
+sentence break
+
+mig	mig	NN	CW	NOUN	ARGUMENT
+13	13	CD	FW
+therefore	therefore	RB	ADV	FW
+signal	signal	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+direction	direction	NN	CW	NOUN	ARGUMENT
+extent	extent	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+chalfie	chalfie	NN	CW	NOUN	ARGUMENT
+colleague	colleague	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+identify	identify	VB	CW	VERB
+transcriptional	transcriptional	JJ	CW	ADJ
+cascade	cascade	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+activation	activation	NN	CW	NOUN	ARGUMENT
+touch	touch	NN	CW	NOUN	ARGUMENT
+neuron-specific	neuron-specific	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+86	86	CD	FW
+be	be	VB	FW	aux_or_cop
+pou	pou	FW	FW
+homeodomain	homeodomain	NN	CW	NOUN	ARGUMENT
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+activate	activate	VBP	CW	VERB
+3	3	CD	FW
+gene	gene	NN	CW	NOUN	ARGUMENT
+13	13	CD	FW
+14	14	CD	FW
+15	15	CD	FW
+
+sentence break
+
+3	3	CD	FW
+turn	turn	NN	CW	NOUN	ARGUMENT
+encode	encode	VBP	CW	VERB
+lim	lim	NN	CW	NOUN	ARGUMENT
+homeodomain	homeodomain	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+express	express	VB	CW	VERB
+six	six	CD	FW
+touch	touch	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+flp	flp	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+pvd	pvd	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+3	3	CD	FW
+unc	unc	NN	CW	NOUN	ARGUMENT
+86	86	CD	FW
+protein	protein	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+heterodimer	heterodimer	NN	CW	NOUN	ARGUMENT
+bind	bind	VBP	CW	VERB
+activate	activate	VBP	CW	VERB
+3	3	CD	FW
+promoter	promoter	NN	CW	NOUN	ARGUMENT
+promoter	promoter	NN	CW	NOUN	ARGUMENT
+touch	touch	NN	CW	NOUN	ARGUMENT
+receptor-specific	receptor-specific	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+7	7	CD	FW
+4	4	CD	FW
+13	13	CD	FW
+14	14	CD	FW
+15	15	CD	FW
+
+sentence break
+
+way	way	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+activate	activate	VBP	CW	VERB
+own	own	JJ	CW	ADJ
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+prevent	prevent	VBP	CW	VERB
+dedifferentiation	dedifferentiation	NN	CW	NOUN	ARGUMENT
+touch	touch	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+later	later	RB	ADV	CW
+development	development	NN	CW	NOUN	ARGUMENT
+17	17	CD	FW
+also	also	RB	ADV	CW
+contribute	contribute	VBP	CW	VERB
+maintenance	maintenance	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+16	16	CD	FW
+
+sentence break
+
+show	show	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+upstream	upstream	JJ	CW	ADJ
+3	3	CD	FW
+transform	transform	VBP	CW	VERB
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	JJ	CW	ADJ
+high	high	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+alter	alter	VBP	CW	VERB
+extent	extent	NN	CW	NOUN	ARGUMENT
+direction	direction	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+touch	touch	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+disrupt	disrupt	VBP	CW	VERB
+extension	extension	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+touch	touch	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+axon	axon	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+defect	defect	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+result	result	VB	CW	VERB
+rna	rna	NN	CW	NOUN	ARGUMENT
+interference	interference	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+heavy	heavy	JJ	CW	ADJ
+genetic	genetic	JJ	CW	ADJ
+load	load	NN	CW	NOUN	ARGUMENT
+carry	carry	VBP	CW	VERB
+transgenic	transgenic	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+rol	rol	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+marker	marker	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+transgenic	transgenic	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+due	due	JJ	CW	ADJ
+specific	specific	JJ	CW	ADJ
+dna	dna	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+occur	occur	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+many	many	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+affect	affect	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+bdu	bdu	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+division	division	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+bdu	bdu	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+conclude	conclude	VBP	CW	VERB
+therefore	therefore	RB	ADV	FW
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sequestering	sequester	VBG	CW	VERB
+factor	factor	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+control	control	VB	CW	VERB
+alm	alm	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axon	axon	NN	CW	NOUN	ARGUMENT
+outgrowth	outgrowth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+suggest	suggest	VBP	CW	VERB
+factor	factor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+differentially	differentially	RB	ADV	CW
+segregate	segregate	VB	CW	VERB
+touch	touch	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+specify	specify	VB	CW	VERB
+touch	touch	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+fate	fate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+fluorescence	fluorescence	NN	CW	NOUN	ARGUMENT
+micrograph	micrograph	NN	CW	NOUN	ARGUMENT
+bar	bar	NN	CW	NOUN	ARGUMENT
+graph	graph	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+have	have	VBP	FW	aux_or_cop
+integrate	integrate	VB	CW	VERB
+3	3	CD	FW
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+equivalent	equivalent	JJ	CW	ADJ
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+ea	ea	NN	CW	NOUN	ARGUMENT
+485	485	CD	FW
+contain	contain	VBP	CW	VERB
+high	high	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+extrachromosomal	extrachromosomal	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+see	see	VBP	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+material	material	NN	CW	NOUN	ARGUMENT
+method	method	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+strain	strain	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+alms	alms	NNS	CW	NOUN	ARGUMENT
+migrated	migrate	VBD	CW	VERB
+close	close	RB	ADV	CW
+normal	normal	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+average	average	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+8	8	CD	FW
+6	6	CD	FW
+n	n	NN	CW	NOUN	ARGUMENT
+190	190	CD	FW
+scale	scale	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+
+sentence break
+
+ea	ea	NN	CW	NOUN	ARGUMENT
+485	485	CD	FW
+alms	alms	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+usually	usually	RB	ADV	CW
+anterior	anterior	JJ	CW	ADJ
+normal	normal	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+average	average	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+4	4	CD	FW
+2	2	CD	FW
+n	n	NN	CW	NOUN	ARGUMENT
+175	175	CD	FW
+scale	scale	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+strain	strain	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+alm	alm	IN	FW
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+show	show	VBP	CW	VERB
+defect	defect	NN	CW	NOUN	ARGUMENT
+pair	pair	NN	CW	NOUN	ARGUMENT
+touch	touch	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+example	example	NN	CW	NOUN	ARGUMENT
+normal	normal	JJ	CW	ADJ
+plm	plm	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+several	several	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+defect	defect	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+ea	ea	NN	CW	NOUN	ARGUMENT
+485	485	CD	FW
+
+sentence break
+
+189	189	CD	FW
+plm	plm	NN	CW	NOUN	ARGUMENT
+score	score	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+have	have	VBP	CW	VERB
+normal	normal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+64	64	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+183	183	CD	FW
+plm	plm	NN	CW	NOUN	ARGUMENT
+score	score	NN	CW	NOUN	ARGUMENT
+ea	ea	NN	CW	NOUN	ARGUMENT
+485	485	CD	FW
+have	have	VBP	CW	VERB
+defect	defect	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ea	ea	NN	CW	NOUN	ARGUMENT
+485	485	CD	FW
+plm	plm	NN	CW	NOUN	ARGUMENT
+axon	axon	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+often	often	RB	ADV	FW
+short	short	JJ	CW	ADJ
+misdirected	misdirect	VBN	CW	VERB
+have	have	VBP	CW	VERB
+extra	extra	JJ	CW	ADJ
+branch	branch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+axonal	axonal	JJ	CW	ADJ
+defect	defect	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+less	less	RBR	ADV	CW
+common	common	JJ	CW	ADJ
+plm	plm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ea	ea	NN	CW	NOUN	ARGUMENT
+485	485	CD	FW
+77	77	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+199	199	CD	FW
+alms	alms	NNS	CW	NOUN	ARGUMENT
+score	score	VBP	CW	VERB
+have	have	VBP	FW	aux_or_cop
+normal	normal	JJ	CW	ADJ
+axonal	axonal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+117	117	CD	FW
+alms	alms	NNS	CW	NOUN	ARGUMENT
+score	score	VBP	CW	VERB
+have	have	VBP	CW	VERB
+normal	normal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+majority	majority	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+abnormal	abnormal	JJ	CW	ADJ
+axonal	axonal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+position	position	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+
+sentence break
+
+3	3	CD	FW
+few	few	JJ	CW	ADJ
+posterior	posterior	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+
+sentence break
+
+alms	alms	NNS	CW	NOUN	ARGUMENT
+locate	locate	VBP	CW	VERB
+posterior	posterior	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+have	have	VBP	CW	VERB
+normal	normal	JJ	CW	ADJ
+axonal	axonal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+determine	determine	VB	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+due	due	JJ	CW	ADJ
+presence	presence	NN	CW	NOUN	ARGUMENT
+specific	specific	JJ	CW	ADJ
+dna	dna	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+extrachromosomal	extrachromosomal	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+3	3	CD	FW
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+deletion	deletion	NN	CW	NOUN	ARGUMENT
+construct	construct	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+various	various	JJ	CW	ADJ
+portion	portion	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+upstream	upstream	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+19	19	CD	FW
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+describe	describe	VBP	CW	VERB
+material	material	NN	CW	NOUN	ARGUMENT
+method	method	NN	CW	NOUN	ARGUMENT
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+ppd	ppd	NN	CW	NOUN	ARGUMENT
+118	118	CD	FW
+17	17	CD	FW
+be	be	VB	FW	aux_or_cop
+gift	gift	NN	CW	NOUN	ARGUMENT
+fire	fire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+transform	transform	VB	CW	VERB
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+wild	wild	JJ	CW	ADJ
+type	type	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+material	material	NN	CW	NOUN	ARGUMENT
+method	method	NN	CW	NOUN	ARGUMENT
+screen	screen	NN	CW	NOUN	ARGUMENT
+transgenic	transgenic	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+express	express	VBP	CW	VERB
+3	3	CD	FW
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+ten	ten	CD	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+mec	mec	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+be	be	VB	FW	aux_or_cop
+normally	normally	RB	ADV	CW
+express	express	VB	CW	VERB
+
+sentence break
+
+measure	measure	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+100	100	CD	FW
+animal	animal	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+combine	combine	VBP	CW	VERB
+distribution	distribution	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+strain	strain	NN	CW	NOUN	ARGUMENT
+transform	transform	VBP	CW	VERB
+construct	construct	NN	CW	NOUN	ARGUMENT
+percent	percent	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+locate	locate	VBP	CW	VERB
+anterior	anterior	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+total	total	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+score	score	VBP	CW	VERB
+
+sentence break
+
+strain	strain	NN	CW	NOUN	ARGUMENT
+transform	transform	VB	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+strong	strong	JJ	CW	ADJ
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+transform	transform	VB	CW	VERB
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+ppd	ppd	NN	CW	NOUN	ARGUMENT
+118	118	CD	FW
+17	17	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+few	few	JJ	CW	ADJ
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+region	region	NN	CW	NOUN	ARGUMENT
+pst	pst	NN	CW	NOUN	ARGUMENT
+bb	bb	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+suppress	suppress	VBP	CW	VERB
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+compare	compare	VBP	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+495	495	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+end	end	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+clone	clone	NN	CW	NOUN	ARGUMENT
+pst	pst	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+most	most	RBS	ADV	CW
+strongly	strongly	RB	ADV	CW
+affect	affect	VB	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+compare	compare	VBP	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+ppd	ppd	NN	CW	NOUN	ARGUMENT
+118	118	CD	FW
+17	17	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+further	further	RB	ADV	CW
+deletion	deletion	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+19	19	CD	FW
+result	result	VBP	CW	VERB
+less	less	RBR	ADV	CW
+severe	severe	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+datum	datum	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+describe	describe	VBP	CW	VERB
+below	below	IN	FW
+be	be	VB	FW	aux_or_cop
+consistent	consistent	JJ	CW	ADJ
+hypothesis	hypothesis	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+binding	binding	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+titrate	titrate	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+below	below	IN	FW
+refer	refer	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+titrate	titrate	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+datum	datum	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+show	show	VBP	CW	VERB
+alm	alm	IN	FW	SUBORDINATOR
+migration	migration	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+due	due	JJ	CW	ADJ
+nonspecific	nonspecific	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+carry	carry	VBP	CW	VERB
+extrachromosomal	extrachromosomal	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+array	array	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+make	make	VBP	CW	VERB
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+ppd	ppd	NN	CW	NOUN	ARGUMENT
+118	118	CD	FW
+17	17	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+have	have	VBP	CW	VERB
+little	little	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+report	report	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+toxic	toxic	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+21	21	CD	FW
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+show	show	VBP	CW	VERB
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+expression	expression	NN	CW	NOUN	ARGUMENT
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+array	array	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+integrate	integrate	VBP	CW	VERB
+array	array	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	FW	FW
+extrachromosomal	extrachromosomal	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+ppd	ppd	NN	CW	NOUN	ARGUMENT
+118	118	CD	FW
+17	17	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+express	express	VBP	CW	VERB
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+yet	yet	RB	ADV	CW
+have	have	VBP	CW	VERB
+few	few	JJ	CW	ADJ
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+line	line	NN	CW	NOUN	ARGUMENT
+transform	transform	VB	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+have	have	VBP	CW	VERB
+especially	especially	RB	ADV	FW
+bright	bright	JJ	CW	ADJ
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+fluorescence	fluorescence	NN	CW	NOUN	ARGUMENT
+yet	yet	RB	ADV	CW
+have	have	VBP	CW	VERB
+few	few	JJ	CW	ADJ
+alm	alm	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+line	line	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+co-injection	co-injection	NN	CW	NOUN	ARGUMENT
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+interest	interest	NN	CW	NOUN	ARGUMENT
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+prf	prf	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+contain	contain	VBP	CW	VERB
+rol	rol	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+su	su	FW	FW
+1006	1006	CD	FW
+marker	marker	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+array	array	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+describe	describe	VBP	CW	VERB
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+induce	induce	VB	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+defect	defect	NN	CW	NOUN	ARGUMENT
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+due	due	JJ	CW	ADJ
+rol	rol	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+marker	marker	NN	CW	NOUN	ARGUMENT
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+presence	presence	NN	CW	NOUN	ARGUMENT
+double	double	JJ	CW	ADJ
+strand	strand	NN	CW	NOUN	ARGUMENT
+rna	rna	NN	CW	NOUN	ARGUMENT
+correspond	correspond	VBP	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+result	result	VBP	CW	VERB
+silence	silence	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+22	22	CD	FW
+
+sentence break
+
+effect	effect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+refer	refer	VB	CW	VERB
+rna	rna	NN	CW	NOUN	ARGUMENT
+interference	interference	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+several	several	JJ	CW	ADJ
+case	case	NN	CW	NOUN	ARGUMENT
+transgenic	transgenic	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+induce	induce	VBP	CW	VERB
+odd	odd	JJ	CW	ADJ
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+author	author	NN	CW	NOUN	ARGUMENT
+attribute	attribute	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+effect	effect	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+cryptic	cryptic	JJ	CW	ADJ
+promoter	promoter	NN	CW	NOUN	ARGUMENT
+side	side	NN	CW	NOUN	ARGUMENT
+transform	transform	VBP	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+23	23	CD	FW
+
+sentence break
+
+case	case	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+here	here	RB	ADV	CW
+seem	seem	VB	FW	aux_or_cop
+unlikely	unlikely	JJ	CW	ADJ
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+induce	induce	VB	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+predict	predict	VBP	CW	VERB
+protein-encoding	protein-encoding	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+titrate	titrate	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+conceivable	conceivable	JJ	CW	ADJ
+however	however	RB	ADV	FW
+small	small	JJ	CW	ADJ
+undetected	undetected	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+test	test	NN	CW	NOUN	ARGUMENT
+possibility	possibility	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+double	double	JJ	CW	ADJ
+strand	strand	NN	CW	NOUN	ARGUMENT
+rna	rna	NN	CW	NOUN	ARGUMENT
+correspond	correspond	VBP	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+pst	pst	NN	CW	NOUN	ARGUMENT
+restriction	restriction	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+inject	inject	VB	CW	VERB
+tu	tu	FW	FW
+2562	2562	CD	FW
+animal	animal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+tu	tu	FW	FW
+2562	2562	CD	FW
+be	be	VB	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+express	express	VB	CW	VERB
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+migrate	migrate	VB	CW	VERB
+normally	normally	RB	ADV	CW
+
+sentence break
+
+strain	strain	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+average	average	JJ	CW	ADJ
+alm	alm	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+8	8	CD	FW
+6	6	CD	FW
+
+sentence break
+
+two	two	CD	FW
+separate	separate	JJ	CW	ADJ
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+inject	inject	VB	CW	VERB
+double	double	JJ	CW	ADJ
+strand	strand	NN	CW	NOUN	ARGUMENT
+rna	rna	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+3	3	CD	FW
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+pst	pst	NN	CW	NOUN	ARGUMENT
+restriction	restriction	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+average	average	JJ	CW	ADJ
+alm	alm	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+6	6	CD	FW
+n	n	NN	CW	NOUN	ARGUMENT
+190	190	CD	FW
+n	n	NN	CW	NOUN	ARGUMENT
+167	167	CD	FW
+
+sentence break
+
+rna	rna	NN	CW	NOUN	ARGUMENT
+inject	inject	VB	CW	VERB
+animal	animal	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+normal	normal	JJ	CW	ADJ
+plm	plm	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+due	due	JJ	CW	ADJ
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+determine	determine	VB	CW	VERB
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+have	have	VBP	FW	aux_or_cop
+many	many	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+titrate	titrate	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+transformant	transformant	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+mixture	mixture	NN	CW	NOUN	ARGUMENT
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+genomic	genomic	JJ	CW	ADJ
+dna	dna	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+kelly	kelly	RB	ADV	FW
+al	al	NNP	CW	NOUN	ARGUMENT
+24	24	CD	FW
+have	have	VBP	CW	VERB
+show	show	NN	CW	NOUN	ARGUMENT
+blunt	blunt	JJ	CW	ADJ
+end	end	NN	CW	NOUN	ARGUMENT
+cut	cut	VBD	CW	VERB
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+inject	inject	VB	CW	VERB
+blunt	blunt	JJ	CW	ADJ
+end	end	NN	CW	NOUN	ARGUMENT
+cut	cut	NN	CW	NOUN	ARGUMENT
+genomic	genomic	JJ	CW	ADJ
+dna	dna	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+genomic	genomic	JJ	CW	ADJ
+dna	dna	NN	CW	NOUN	ARGUMENT
+intermix	intermix	NN	CW	NOUN	ARGUMENT
+few	few	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generate	generate	VB	CW	VERB
+array	array	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+copy	copy	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+co-injected	co-injected	JJ	CW	ADJ
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+dna	dna	NN	CW	NOUN	ARGUMENT
+prf	prf	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+genomic	genomic	JJ	CW	ADJ
+dna	dna	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+material	material	NN	CW	NOUN	ARGUMENT
+method	method	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+measure	measure	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+100	100	CD	FW
+animal	animal	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+transgenic	transgenic	JJ	CW	ADJ
+strain	strain	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+dna	dna	NN	CW	NOUN	ARGUMENT
+mixture	mixture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+plot	plot	NN	CW	NOUN	ARGUMENT
+average	average	JJ	CW	ADJ
+alm	alm	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+injection	injection	NN	CW	NOUN	ARGUMENT
+mixture	mixture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+alms	alms	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+close	close	RB	ADV	CW
+normal	normal	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+2	2	CD	FW
+4	4	CD	FW
+8	8	CD	FW
+16	16	CD	FW
+32	32	CD	FW
+encoding error!
+ml	ml	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+clear	clear	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+64	64	CD	FW
+128	128	CD	FW
+encoding error!
+ml	ml	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+
+sentence break
+
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+contain	contain	VBP	CW	VERB
+3	3	CD	FW
+promoter	promoter	NN	CW	NOUN	ARGUMENT
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+encode	encode	VBP	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+reason	reason	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+have	have	VBP	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+more	more	RBR	ADV	CW
+severe	severe	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+titrate	titrate	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+closer	closer	RBR	ADV	CW
+promoter	promoter	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+thereby	thereby	RB	ADV	FW
+more	more	RBR	ADV	CW
+accessible	accessible	JJ	CW	ADJ
+binding	binding	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+determine	determine	VB	CW	VERB
+have	have	VBP	FW	aux_or_cop
+promoter	promoter	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+effectiveness	effectiveness	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+two	two	CD	FW
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+
+sentence break
+
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+have	have	VBP	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+upstream	upstream	JJ	CW	ADJ
+pst	pst	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+fused	fuse	VBN	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+promoter	promoter	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+have	have	VBP	FW	aux_or_cop
+just	just	RB	ADV	CW
+3	3	CD	FW
+region	region	NN	CW	NOUN	ARGUMENT
+upstream	upstream	JJ	CW	ADJ
+pst	pst	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+transform	transform	VB	CW	VERB
+tu	tu	FW	FW
+2562	2562	CD	FW
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+transgenic	transgenic	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+extrachromosomal	extrachromosomal	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+contain	contain	VB	CW	VERB
+3	3	CD	FW
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+pick	pick	NN	CW	NOUN	ARGUMENT
+roller	roller	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+score	score	VBP	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+due	due	JJ	CW	ADJ
+mosaic	mosaic	JJ	CW	ADJ
+inheritance	inheritance	NN	CW	NOUN	ARGUMENT
+extrachromosomal	extrachromosomal	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+score	score	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+contain	contain	VBP	CW	VERB
+array	array	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+include	include	VBP	CW	VERB
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+distribution	distribution	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+separate	separate	JJ	CW	ADJ
+strain	strain	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+right	right	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+list	list	NN	CW	NOUN	ARGUMENT
+percent	percent	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+total	total	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+score	score	VBP	CW	VERB
+three	three	CD	FW
+strain	strain	NN	CW	NOUN	ARGUMENT
+transform	transform	VBP	CW	VERB
+construct	construct	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+appear	appear	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+equally	equally	RB	ADV	CW
+capable	capable	JJ	CW	ADJ
+induce	induce	VBP	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+further	further	RB	ADV	CW
+refine	refine	VB	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+responsible	responsible	JJ	CW	ADJ
+induce	induce	VBP	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+further	further	JJ	CW	ADJ
+deletion	deletion	NN	CW	NOUN	ARGUMENT
+495	495	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+region	region	NN	CW	NOUN	ARGUMENT
+upstream	upstream	JJ	CW	ADJ
+pst	pst	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+transform	transform	VB	CW	VERB
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+analyze	analyze	VBP	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+line	line	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+line	line	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+array	array	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+15	15	CD	FW
+induce	induce	VBP	CW	VERB
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+less	less	RBR	ADV	CW
+effectively	effectively	RB	ADV	CW
+array	array	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+so	so	RB	ADV	CW
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+pst	pst	NN	CW	NOUN	ARGUMENT
+bgl	bgl	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	FW	aux_or_cop
+contribute	contribute	VBP	CW	VERB
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+13	13	CD	FW
+datum	datum	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+induce	induce	VBP	CW	VERB
+few	few	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+error	error	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+15	15	CD	FW
+array	array	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+array	array	NN	CW	NOUN	ARGUMENT
+induce	induce	VBP	CW	VERB
+similar	similar	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+bgl	bgl	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+hpa	hpa	NN	CW	NOUN	ARGUMENT
+restriction	restriction	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+appear	appear	VB	CW	VERB
+contribute	contribute	VB	CW	VERB
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+16	16	CD	FW
+array	array	NN	CW	NOUN	ARGUMENT
+induce	induce	VBP	CW	VERB
+fewer	fewer	JJR	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+array	array	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+17	17	CD	FW
+array	array	NN	CW	NOUN	ARGUMENT
+induce	induce	VBP	CW	VERB
+fewer	fewer	JJR	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+16	16	CD	FW
+array	array	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+appear	appear	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+multiple	multiple	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+hpa	hpa	NN	CW	NOUN	ARGUMENT
+bsa	bsa	NN	CW	NOUN	ARGUMENT
+bus	bus	NN	CW	NOUN	ARGUMENT
+restriction	restriction	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+qr	qr	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+neuroblast	neuroblast	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+generate	generate	VB	CW	VERB
+posterior	posterior	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+25	25	CD	FW
+
+sentence break
+
+show	show	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+migrate	migrate	VBP	CW	VERB
+anteriorly	anteriorly	JJ	CW	ADJ
+middle	middle	JJ	CW	ADJ
+animal	animal	NN	CW	NOUN	ARGUMENT
+stop	stop	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+divide	divide	VBP	CW	VERB
+
+sentence break
+
+one	one	CD	FW
+result	result	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+qr	qr	NN	CW	NOUN	ARGUMENT
+pp	pp	NN	CW	NOUN	ARGUMENT
+undergo	undergo	VBP	CW	VERB
+program	program	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+qr	qr	NN	CW	NOUN	ARGUMENT
+pa	pa	NN	CW	NOUN	ARGUMENT
+migrate	migrate	VB	CW	VERB
+forward	forward	RB	ADV	CW
+position	position	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+again	again	RB	ADV	CW
+stop	stop	VB	CW	VERB
+divide	divide	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+qr	qr	NN	CW	NOUN	ARGUMENT
+pa	pa	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+rise	rise	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+sdqr	sdqr	NN	CW	NOUN	ARGUMENT
+avm	avm	NN	CW	NOUN	ARGUMENT
+touch	touch	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+transgenic	transgenic	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+titrate	titrate	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+affect	affect	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+avm	avm	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+misplace	misplace	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+test	test	NN	CW	NOUN	ARGUMENT
+idea	idea	NN	CW	NOUN	ARGUMENT
+measure	measure	NN	CW	NOUN	ARGUMENT
+avm	avm	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+ea	ea	NN	CW	NOUN	ARGUMENT
+485	485	CD	FW
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+bshow	bshow	NN	CW	NOUN	ARGUMENT
+distribution	distribution	NN	CW	NOUN	ARGUMENT
+avm	avm	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+strain	strain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+average	average	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+avm	avm	NN	CW	NOUN	ARGUMENT
+ea	ea	NN	CW	NOUN	ARGUMENT
+485	485	CD	FW
+tu	tu	FW	FW
+2562	2562	CD	FW
+be	be	VB	CW	VERB
+6	6	CD	FW
+3	3	CD	FW
+
+sentence break
+
+show	show	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+be	be	VB	FW	aux_or_cop
+normal	normal	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+ea	ea	NN	CW	NOUN	ARGUMENT
+485	485	CD	FW
+be	be	VB	CW	VERB
+grossly	grossly	RB	ADV	CW
+misplace	misplace	VBP	CW	VERB
+
+sentence break
+
+clearly	clearly	RB	ADV	CW
+migration	migration	NN	CW	NOUN	ARGUMENT
+qr	qr	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+neuroblast	neuroblast	NN	CW	NOUN	ARGUMENT
+daughter	daughter	NN	CW	NOUN	ARGUMENT
+qr	qr	NN	CW	NOUN	ARGUMENT
+pa	pa	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+affect	affect	VB	CW	VERB
+extrachromosomal	extrachromosomal	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+ea	ea	NN	CW	NOUN	ARGUMENT
+485	485	CD	FW
+
+sentence break
+
+strain	strain	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+alm	alm	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+plm	plm	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+correlation	correlation	NN	CW	NOUN	ARGUMENT
+coefficient	coefficient	NN	CW	NOUN	ARGUMENT
+average	average	JJ	CW	ADJ
+alm	alm	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+percent	percent	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+
+sentence break
+
+0	0	CD	FW
+99	99	CD	FW
+
+sentence break
+
+correlation	correlation	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+consistent	consistent	JJ	CW	ADJ
+defect	defect	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+titration	titration	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+factor	factor	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+strain	strain	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+array	array	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+anterior	anterior	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+have	have	VBP	CW	VERB
+axonal	axonal	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+similar	similar	JJ	CW	ADJ
+lineal	lineal	JJ	CW	ADJ
+sister	sister	NN	CW	NOUN	ARGUMENT
+bdu	bdu	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+wonder	wonder	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+bdu	bdu	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+division	division	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+occur	occur	VB	CW	VERB
+progenitor	progenitor	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+take	take	VB	CW	VERB
+character	character	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+alm	alm	NN	CW	NOUN	ARGUMENT
+bdu	bdu	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+migrate	migrate	VB	CW	VERB
+anteriorly	anteriorly	JJ	CW	ADJ
+bdu	bdu	NN	CW	NOUN	ARGUMENT
+express	express	VBP	CW	VERB
+3	3	CD	FW
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+address	address	NN	CW	NOUN	ARGUMENT
+ask	ask	VB	CW	VERB
+bdu	bdu	FW	FW
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+animal	animal	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+displace	displace	VB	CW	VERB
+anteriorly	anteriorly	RB	ADV	FW
+
+sentence break
+
+take	take	VB	CW	VERB
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+fact	fact	NN	CW	NOUN	ARGUMENT
+pag	pag	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+mutant	mutant	JJ	CW	ADJ
+3	3	CD	FW
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+express	express	JJ	CW	ADJ
+alms	alms	NNS	CW	NOUN	ARGUMENT
+bdus	bdus	NN	CW	NOUN	ARGUMENT
+mcdermott	mcdermott	NN	CW	NOUN	ARGUMENT
+j	j	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+unpublished	unpublished	JJ	CW	ADJ
+result	result	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cross	cross	JJ	CW	ADJ
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+array	array	NN	CW	NOUN	ARGUMENT
+ea	ea	NN	CW	NOUN	ARGUMENT
+485	485	CD	FW
+pag	pag	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+l	l	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+genetic	genetic	JJ	CW	ADJ
+background	background	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+strain	strain	NN	CW	NOUN	ARGUMENT
+ea	ea	NN	CW	NOUN	ARGUMENT
+489	489	CD	FW
+
+sentence break
+
+control	control	NN	CW	NOUN	ARGUMENT
+cross	cross	NN	CW	NOUN	ARGUMENT
+integrate	integrate	VBP	CW	VERB
+array	array	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+pag	pag	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+l	l	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+genetic	genetic	JJ	CW	ADJ
+background	background	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+strain	strain	NN	CW	NOUN	ARGUMENT
+ea	ea	NN	CW	NOUN	ARGUMENT
+363	363	CD	FW
+
+sentence break
+
+strain	strain	NN	CW	NOUN	ARGUMENT
+measure	measure	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+bdus	bdus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pag	pag	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+l	l	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+background	background	NN	CW	NOUN	ARGUMENT
+bdu	bdu	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+lower	lower	JJR	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+easily	easily	RB	ADV	FW
+distinguish	distinguish	VBP	CW	VERB
+
+sentence break
+
+ea	ea	NN	CW	NOUN	ARGUMENT
+489	489	CD	FW
+bdus	bdus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+even	even	RB	ADV	CW
+animal	animal	JJ	CW	ADJ
+alms	alms	NNS	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+be	be	VB	FW	aux_or_cop
+locate	locate	VB	CW	VERB
+normal	normal	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+average	average	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+bdus	bdus	NN	CW	NOUN	ARGUMENT
+ea	ea	NN	CW	NOUN	ARGUMENT
+489	489	CD	FW
+be	be	VB	FW	aux_or_cop
+3	3	CD	FW
+3	3	CD	FW
+n	n	NN	CW	NOUN	ARGUMENT
+50	50	CD	FW
+
+sentence break
+
+average	average	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+bdus	bdus	NN	CW	NOUN	ARGUMENT
+ea	ea	NN	CW	NOUN	ARGUMENT
+363	363	CD	FW
+be	be	VB	FW	aux_or_cop
+3	3	CD	FW
+6	6	CD	FW
+n	n	NN	CW	NOUN	ARGUMENT
+50	50	CD	FW
+
+sentence break
+
+thus	thus	RB	ADV	FW
+alm	alm	IN	FW
+bdu	bdu	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+division	division	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+take	take	VB	CW	VERB
+place	place	NN	CW	NOUN	ARGUMENT
+bdus	bdus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+migrate	migrate	VB	CW	VERB
+normally	normally	RB	ADV	CW
+strain	strain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+determine	determine	VB	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sensitive	sensitive	JJ	CW	ADJ
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+ea	ea	NN	CW	NOUN	ARGUMENT
+471	471	CD	FW
+tu	tu	FW	FW
+2562	2562	CD	FW
+15	15	CD	FW
+encoding error!
+c	c	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+encoding error!
+c	c	NN	CW	NOUN	ARGUMENT
+25	25	CD	FW
+encoding error!
+c.	c.	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+measure	measure	VB	CW	VERB
+position	position	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+strain	strain	VBP	CW	VERB
+grow	grow	VB	CW	VERB
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ea	ea	NN	CW	NOUN	ARGUMENT
+471	471	CD	FW
+strain	strain	NN	CW	NOUN	ARGUMENT
+transform	transform	VBP	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+show	show	NN	CW	NOUN	ARGUMENT
+intermediate	intermediate	JJ	CW	ADJ
+distribution	distribution	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+encoding error!
+c	c	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+anterior	anterior	JJ	CW	ADJ
+posterior	posterior	NN	CW	NOUN	ARGUMENT
+shift	shift	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+apparent	apparent	JJ	CW	ADJ
+
+sentence break
+
+tu	tu	FW	FW
+2562	2562	CD	FW
+be	be	VB	FW	aux_or_cop
+choose	choose	VB	CW	VERB
+alms	alms	NNS	CW	NOUN	ARGUMENT
+migrated	migrate	VBD	CW	VERB
+close	close	RB	ADV	CW
+normal	normal	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+encoding error!
+c.	c.	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+9	9	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+distribution	distribution	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+affect	affect	VB	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+ea	ea	NN	CW	NOUN	ARGUMENT
+471	471	CD	FW
+tu	tu	FW	FW
+2562	2562	CD	FW
+
+sentence break
+
+alms	alms	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+locate	locate	VB	CW	VERB
+more	more	JJR	CW	ADJ
+anteriorly	anteriorly	JJ	CW	ADJ
+ea	ea	NN	CW	NOUN	ARGUMENT
+471	471	CD	FW
+tu	tu	FW	FW
+2562	2562	CD	FW
+grow	grow	VB	CW	VERB
+15	15	CD	FW
+encoding error!
+c.	c.	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+grow	grow	VB	CW	VERB
+25	25	CD	FW
+encoding error!
+c	c	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+fewer	fewer	JJR	CW	ADJ
+alms	alms	NNS	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+9	9	CD	FW
+tu	tu	FW	FW
+2562	2562	CD	FW
+grow	grow	VB	CW	VERB
+20	20	CD	FW
+encoding error!
+c.	c.	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+identify	identify	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+mec	mec	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+upstream	upstream	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+high	high	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+extrachromosomal	extrachromosomal	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+touch	touch	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+migrate	migrate	VBP	CW	VERB
+aberrantly	aberrantly	RB	ADV	FW
+cause	cause	VB	CW	VERB
+plm	plm	NN	CW	NOUN	ARGUMENT
+touch	touch	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+not	not	RB	ADV	CW
+due	due	JJ	CW	ADJ
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+nonspecific	nonspecific	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+carry	carry	VBP	CW	VERB
+transgenic	transgenic	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+marker	marker	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+transformant	transformant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rather	rather	RB	ADV	FW
+defect	defect	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+transgenic	transgenic	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+specific	specific	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+mec	mec	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+upstream	upstream	JJ	CW	ADJ
+control	control	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+ashow	ashow	NN	CW	NOUN	ARGUMENT
+direction	direction	NN	CW	NOUN	ARGUMENT
+extent	extent	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+bdu	bdu	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+alms	alms	NNS	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+migrate	migrate	VB	CW	VERB
+remain	remain	VBP	CW	VERB
+position	position	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+12	12	CD	FW
+
+sentence break
+
+strain	strain	NN	CW	NOUN	ARGUMENT
+transform	transform	VB	CW	VERB
+titrate	titrate	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+migrated	migrate	VBD	CW	VERB
+anteriorly	anteriorly	JJ	CW	ADJ
+rather	rather	RB	ADV	FW
+posteriorly	posteriorly	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+locate	locate	VB	CW	VERB
+anterior	anterior	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+
+sentence break
+
+thus	thus	RB	ADV	FW
+array	array	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+sequestering	sequester	VBG	CW	VERB
+factor	factor	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+direction	direction	NN	CW	NOUN	ARGUMENT
+extent	extent	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+presumably	presumably	RB	ADV	FW
+bdu	bdu	FW	FW
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+normally	normally	RB	ADV	CW
+inherit	inherit	VB	CW	VERB
+small	small	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+migrate	migrate	VBP	CW	VERB
+anteriorly	anteriorly	JJ	CW	ADJ
+alms	alms	NNS	CW	NOUN	ARGUMENT
+inherit	inherit	VBP	CW	VERB
+larger	larger	JJR	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+migrate	migrate	VB	CW	VERB
+posteriorly	posteriorly	RB	ADV	FW
+
+sentence break
+
+alms	alms	NNS	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+defect	defect	NN	CW	NOUN	ARGUMENT
+axon	axon	NN	CW	NOUN	ARGUMENT
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+anterior	anterior	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+
+sentence break
+
+perhap	perhap	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+position	position	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+sometime	sometime	RB	ADV	CW
+fail	fail	VBP	CW	VERB
+find	find	VB	CW	VERB
+normal	normal	JJ	CW	ADJ
+axon	axon	NN	CW	NOUN	ARGUMENT
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+cue	cue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+interestingly	interestingly	RB	ADV	CW
+anteriorly	anteriorly	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+alms	alms	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+axon	axon	VBN	CW	VERB
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+similar	similar	JJ	CW	ADJ
+bdu	bdu	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+deprive	deprive	VB	CW	VERB
+own	own	JJ	CW	ADJ
+axon	axon	NN	CW	NOUN	ARGUMENT
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+cue	cue	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+bdu	bdu	FW	FW
+axon	axon	FW	FW
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+cue	cue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+upstream	upstream	JJ	CW	ADJ
+pst	pst	NN	CW	NOUN	ARGUMENT
+restriction	restriction	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+contribute	contribute	VBP	CW	VERB
+strongly	strongly	RB	ADV	CW
+alm	alm	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+induce	induce	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+alm	alm	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+lack	lack	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+ppd	ppd	NN	CW	NOUN	ARGUMENT
+118	118	CD	FW
+17	17	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+induce	induce	VBP	CW	VERB
+few	few	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+upstream	upstream	JJ	CW	ADJ
+3	3	CD	FW
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+alone	alone	RB	ADV	CW
+pjc	pjc	RB	ADV	FW
+10	10	CD	FW
+be	be	VB	FW	aux_or_cop
+sufficient	sufficient	JJ	CW	ADJ
+induce	induce	VBP	CW	VERB
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+smaller	smaller	JJR	CW	ADJ
+piece	piece	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+upstream	upstream	JJ	CW	ADJ
+pst	pst	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+sufficient	sufficient	JJ	CW	ADJ
+induce	induce	VBP	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+
+sentence break
+
+smallest	smallest	JJS	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+16	16	CD	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+contain	contain	VBP	CW	VERB
+only	only	RB	ADV	CW
+157	157	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+upstream	upstream	JJ	CW	ADJ
+eco	eco	NN	CW	NOUN	ARGUMENT
+rus	rus	NN	CW	NOUN	ARGUMENT
+restriction	restriction	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+assume	assume	VB	CW	VERB
+array	array	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+construct	construct	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+roughly	roughly	RB	ADV	CW
+same	same	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+copy	copy	NN	CW	NOUN	ARGUMENT
+titrate	titrate	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+controll	controll	NN	CW	NOUN	ARGUMENT
+strain-to-strain	strain-to-strain	NN	CW	NOUN	ARGUMENT
+variability	variability	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+discard	discard	VB	CW	VERB
+strain	strain	NN	CW	NOUN	ARGUMENT
+low	low	JJ	CW	ADJ
+transmission	transmission	NN	CW	NOUN	ARGUMENT
+frequency	frequency	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+material	material	NN	CW	NOUN	ARGUMENT
+method	method	NN	CW	NOUN	ARGUMENT
+combine	combine	VBP	CW	VERB
+datum	datum	NN	CW	NOUN	ARGUMENT
+least	least	JJS	CW	ADJ
+three	three	CD	FW
+independently	independently	RB	ADV	CW
+generate	generate	VBP	CW	VERB
+strain	strain	NN	CW	NOUN	ARGUMENT
+transform	transform	VB	CW	VERB
+construct	construct	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+strain-to-strain	strain-to-strain	JJ	CW	ADJ
+variability	variability	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+small	small	JJ	CW	ADJ
+assumption	assumption	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+valid	valid	JJ	CW	ADJ
+
+sentence break
+
+other	other	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+titrate	titrate	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+facilitate	facilitate	VB	CW	VERB
+bind	bind	VBP	CW	VERB
+factor	factor	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+controll	controll	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+instance	instance	NN	CW	NOUN	ARGUMENT
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+contain	contain	VBP	CW	VERB
+more	more	RBR	ADV	CW
+surround	surround	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+effective	effective	JJ	CW	ADJ
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+15	15	CD	FW
+
+sentence break
+
+surround	surround	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+additional	additional	JJ	CW	ADJ
+binding	binding	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+interact	interact	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+bind	bind	VBP	CW	VERB
+3	3	CD	FW
+upstream	upstream	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+binding	bind	VBG	CW	VERB
+one	one	CD	FW
+factor	factor	NN	CW	NOUN	ARGUMENT
+cooperatively	cooperatively	RB	ADV	CW
+facilitate	facilitate	VBP	CW	VERB
+binding	bind	VBG	CW	VERB
+other	other	JJ	CW	ADJ
+factor	factor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lus	lus	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+26	26	CD	FW
+identify	identify	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+upstream	upstream	JJ	CW	ADJ
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+1	1	CD	FW
+phenocopied	phenocopy	VBD	CW	VERB
+sdc	sdc	NN	CW	NOUN	ARGUMENT
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+transform	transform	VBP	CW	VERB
+c.	c.	NN	CW	NOUN	ARGUMENT
+elegan	elegan	JJ	CW	ADJ
+high	high	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+too	too	RB	ADV	CW
+find	find	VB	CW	VERB
+several	several	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+her	she	PRP$	FW	PRONOUN	ARGUMENT
+1	1	CD	FW
+upstream	upstream	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+suggest	suggest	VBP	CW	VERB
+104	104	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+aaatctcaat	aaatctcaat	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+ctaaaaacat	ctaaaaacat	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+
+sentence break
+
+ttttagaact	ttttagaact	NN	CW	NOUN	ARGUMENT
+30	30	CD	FW
+
+sentence break
+
+ttttcaaaga	ttttcaaaga	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+40	40	CD	FW
+
+sentence break
+
+tatgttgaat	tatgttgaat	NN	CW	NOUN	ARGUMENT
+50	50	CD	FW
+
+sentence break
+
+tctggcaact	tctggcaact	NN	CW	NOUN	ARGUMENT
+60	60	CD	FW
+
+sentence break
+
+ttaggtagtt	ttaggtagtt	NN	CW	NOUN	ARGUMENT
+70	70	CD	FW
+
+sentence break
+
+ttaaattttc	ttaaattttc	NN	CW	NOUN	ARGUMENT
+80	80	CD	FW
+
+sentence break
+
+cacgaaattt	cacgaaattt	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+
+sentence break
+
+caaatcaaat	caaatcaaat	NN	CW	NOUN	ARGUMENT
+100	100	CD	FW
+
+sentence break
+
+gtta	gtta	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+contribute	contribute	VBP	CW	VERB
+strongly	strongly	RB	ADV	CW
+alm	alm	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+region	region	NN	CW	NOUN	ARGUMENT
+nucleotide	nucleotide	NN	CW	NOUN	ARGUMENT
+39	39	CD	FW
+
+sentence break
+
+96	96	CD	FW
+be	be	VB	FW	aux_or_cop
+degenerate	degenerate	JJ	CW	ADJ
+palindrome	palindrome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+palindrome	palindrome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+two	two	CD	FW
+more	more	JJR	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+nested	nested	JJ	CW	ADJ
+palindrome	palindrome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+instance	instance	NN	CW	NOUN	ARGUMENT
+69	69	CD	FW
+
+sentence break
+
+96	96	CD	FW
+region	region	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+palindromic	palindromic	JJ	CW	ADJ
+69	69	CD	FW
+
+sentence break
+
+96	96	CD	FW
+region	region	NN	CW	NOUN	ARGUMENT
+84	84	CD	FW
+
+sentence break
+
+96	96	CD	FW
+region	region	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+palindromic	palindromic	JJ	CW	ADJ
+
+sentence break
+
+interesting	interesting	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+juxtaposition	juxtaposition	NN	CW	NOUN	ARGUMENT
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+binding	bind	VBG	CW	VERB
+site	site	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+instance	instance	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+72	72	CD	FW
+
+sentence break
+
+92	92	CD	FW
+be	be	VB	FW	aux_or_cop
+excellent	excellent	JJ	CW	ADJ
+binding	binding	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+forward	forward	RB	ADV	CW
+reverse	reverse	JJ	CW	ADJ
+orientation	orientation	NN	CW	NOUN	ARGUMENT
+drosophilum	drosophilum	NN	CW	NOUN	ARGUMENT
+stat	stat	NN	CW	NOUN	ARGUMENT
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+d-stat	d-stat	NN	CW	NOUN	ARGUMENT
+27	27	CD	FW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+two	two	CD	FW
+protein	protein	NN	CW	NOUN	ARGUMENT
+homology	homology	NN	CW	NOUN	ARGUMENT
+stat	stat	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+c.	c.	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+repeat	repeat	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+caaatcaaat	caaatcaaat	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+two	two	CD	FW
+good	good	JJ	CW	ADJ
+binding	binding	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+mammalian	mammalian	JJ	CW	ADJ
+brain	brain	NN	CW	NOUN	ARGUMENT
+pou	pou	NN	CW	NOUN	ARGUMENT
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+28	28	CD	FW
+
+sentence break
+
+2	2	CD	FW
+be	be	VB	FW	aux_or_cop
+relate	relate	VBP	CW	VERB
+86	86	CD	FW
+be	be	VB	FW	aux_or_cop
+require	require	VB	CW	VERB
+initiate	initiate	NN	CW	NOUN	ARGUMENT
+sustain	sustain	VB	CW	VERB
+3	3	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+titrate	titrate	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+locate	locate	VB	CW	VERB
+two	two	CD	FW
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+position	position	NN	CW	NOUN	ARGUMENT
+head-to-head	head-to-head	JJ	CW	ADJ
+3	3	CD	FW
+01	01	CD	FW
+d	d	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+encode	encode	VBP	CW	VERB
+udp-glucoronosyltransferase	udp-glucoronosyltransferase	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+titrate	titrate	VB	FW	aux_or_cop
+element	element	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+regulate	regulate	VB	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+element	element	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+sequester	sequester	VB	CW	VERB
+factor	factor	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axon	axon	NN	CW	NOUN	ARGUMENT
+outgrowth	outgrowth	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+3	3	CD	FW
+control	control	NN	CW	NOUN	ARGUMENT
+element	element	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+3	3	CD	FW
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+fusion	fusion	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+lack	lack	NN	CW	NOUN	ARGUMENT
+element	element	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+correctly	correctly	RB	ADV	CW
+express	express	VB	CW	VERB
+
+sentence break
+
+aspect	aspect	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+3	3	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+affect	affect	VB	CW	VERB
+control	control	NN	CW	NOUN	ARGUMENT
+element	element	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+3	3	CD	FW
+be	be	VB	FW	aux_or_cop
+activate	activate	VBP	CW	VERB
+unc	unc	NN	CW	NOUN	ARGUMENT
+86	86	CD	FW
+protein	protein	NN	CW	NOUN	ARGUMENT
+13	13	CD	FW
+14	14	CD	FW
+15	15	CD	FW
+
+sentence break
+
+once	once	RB	ADV	CW
+3	3	CD	FW
+protein	protein	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+86	86	CD	FW
+3	3	CD	FW
+form	form	NN	CW	NOUN	ARGUMENT
+heterodimer	heterodimer	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+effectively	effectively	RB	ADV	CW
+activate	activate	VBP	CW	VERB
+3	3	CD	FW
+
+sentence break
+
+perhap	perhap	NN	CW	NOUN	ARGUMENT
+titrate	titrate	VB	CW	VERB
+element	element	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+initial	initial	JJ	CW	ADJ
+3	3	CD	FW
+activation	activation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+role	role	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+apparent	apparent	JJ	CW	ADJ
+3	3	CD	FW
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+fusion	fusion	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+activate	activate	VBP	CW	VERB
+endogenous	endogenous	JJ	CW	ADJ
+unc	unc	NN	CW	NOUN	ARGUMENT
+86	86	CD	FW
+3	3	CD	FW
+heterodimer	heterodimer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+alternatively	alternatively	RB	ADV	CW
+element	element	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+sustain	sustain	VB	CW	VERB
+3	3	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+element	element	NN	CW	NOUN	ARGUMENT
+modulate	modulate	VBP	CW	VERB
+3	3	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+evident	evident	JJ	CW	ADJ
+look	look	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+fluorescence	fluorescence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+demonstrate	demonstrate	VBP	CW	VERB
+alm	alm	IN	FW	SUBORDINATOR
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+arise	arise	VBP	CW	VERB
+due	due	JJ	CW	ADJ
+have	have	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+titrate	titrate	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+array	array	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+few	few	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+induce	induce	VB	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+do	do	VBP	FW	aux_or_cop
+thus	thus	RB	ADV	FW
+suggest	suggest	VBP	CW	VERB
+array	array	NN	CW	NOUN	ARGUMENT
+alter	alter	VBP	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+act	act	VBP	CW	VERB
+titrate	titrate	VB	CW	VERB
+control	control	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+somewhat	somewhat	RB	ADV	FW
+surprising	surprising	JJ	CW	ADJ
+high	high	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+titrate	titrate	VB	CW	VERB
+factor	factor	NN	CW	NOUN	ARGUMENT
+low	low	JJ	CW	ADJ
+enough	enough	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+induce	induce	VBP	CW	VERB
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+transgenic	transgenic	JJ	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+50	50	CD	FW
+
+sentence break
+
+100	100	CD	FW
+copy	copy	NN	CW	NOUN	ARGUMENT
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+array	array	NN	CW	NOUN	ARGUMENT
+29	29	CD	FW
+
+sentence break
+
+assume	assume	VB	CW	VERB
+copy	copy	NN	CW	NOUN	ARGUMENT
+titrate	titrate	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+bind	bind	VBP	CW	VERB
+only	only	RB	ADV	CW
+one	one	CD	FW
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+shift	shift	VB	CW	VERB
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+dna	dna	NN	CW	NOUN	ARGUMENT
+binding	binding	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+few	few	JJ	CW	ADJ
+100	100	CD	FW
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+factor	factor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+titratable	titratable	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+low	low	JJ	CW	ADJ
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+bind	bind	VBP	CW	VERB
+high	high	JJ	CW	ADJ
+affinity	affinity	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+upstream	upstream	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+perhap	perhap	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+low	low	JJ	CW	ADJ
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+part	part	NN	CW	NOUN	ARGUMENT
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+sensitive	sensitive	JJ	CW	ADJ
+regulation	regulation	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+relative	relative	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+low	low	JJ	CW	ADJ
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+easier	easier	JJR	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+high	high	JJ	CW	ADJ
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+carefully	carefully	RB	ADV	CW
+regulate	regulate	VBP	CW	VERB
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+specific	specific	JJ	CW	ADJ
+dna	dna	NN	CW	NOUN	ARGUMENT
+binding	binding	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+few	few	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+need	need	VB	CW	VERB
+all-or-nothing	all-or-nothing	JJ	CW	ADJ
+response	response	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+explain	explain	VBP	CW	VERB
+appear	appear	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+multiple	multiple	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+titration	titration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+steepen	steepen	NN	CW	NOUN	ARGUMENT
+response	response	NN	CW	NOUN	ARGUMENT
+effector	effector	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+require	require	VB	CW	VERB
+more	more	JJR	CW	ADJ
+one	one	CD	FW
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+bind	bind	VBP	CW	VERB
+target	target	NN	CW	NOUN	ARGUMENT
+induce	induce	VBP	CW	VERB
+response	response	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+perhap	perhap	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+bind	bind	VBP	CW	VERB
+several	several	JJ	CW	ADJ
+site	site	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+multiple	multiple	JJ	CW	ADJ
+site	site	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+bind	bind	VBP	CW	VERB
+affect	affect	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+factor	factor	NN	CW	NOUN	ARGUMENT
+sequester	sequester	VB	CW	VERB
+titrate	titrate	VB	CW	VERB
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+affect	affect	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+avm	avm	NN	CW	NOUN	ARGUMENT
+touch	touch	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+ea	ea	NN	CW	NOUN	ARGUMENT
+485	485	CD	FW
+strain	strain	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+strong	strong	JJ	CW	ADJ
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+locate	locate	VB	CW	VERB
+same	same	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+avm	avm	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+strain	strain	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+few	few	JJ	CW	ADJ
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+
+sentence break
+
+avm	avm	NN	CW	NOUN	ARGUMENT
+lineal	lineal	JJ	CW	ADJ
+mother	mother	NN	CW	NOUN	ARGUMENT
+grandmother	grandmother	NN	CW	NOUN	ARGUMENT
+migrate	migrate	VBP	CW	VERB
+anteriorly	anteriorly	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+defective	defective	JJ	CW	ADJ
+avm	avm	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+mispositioned	misposition	VBN	CW	VERB
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+other	other	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+affect	affect	VB	CW	VERB
+titrate	titrate	VB	FW	aux_or_cop
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+observe	observe	VB	CW	VERB
+animal	animal	NN	CW	NOUN	ARGUMENT
+severe	severe	JJ	CW	ADJ
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+incidence	incidence	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+defect	defect	NN	CW	NOUN	ARGUMENT
+correlated	correlate	VBD	CW	VERB
+well	well	RB	ADV	CW
+alm	alm	JJ	CW	ADJ
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+believe	believe	VB	CW	VERB
+therefore	therefore	RB	ADV	FW
+plm	plm	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+induce	induce	VB	CW	VERB
+titration	titration	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+factor	factor	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+case	case	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+correctly	correctly	RB	ADV	CW
+interpret	interpret	VB	CW	VERB
+anterior-posterior	anterior-posterior	JJ	CW	ADJ
+spatial	spatial	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+alms	alms	NNS	CW	NOUN	ARGUMENT
+migrated	migrate	VBD	CW	VERB
+more	more	RBR	ADV	CW
+anterior	anterior	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axon	axon	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+terminate	terminate	VBP	CW	VERB
+more	more	RBR	ADV	CW
+posterior	posterior	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+strong	strong	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+9	9	CD	FW
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+lower	lower	JJR	CW	ADJ
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+titrated	titrated	JJ	CW	ADJ
+factor	factor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+less	less	RBR	ADV	CW
+active	active	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+produce	produce	VB	CW	VERB
+low	low	JJ	CW	ADJ
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+bind	bind	VBP	CW	VERB
+array	array	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+tightly	tightly	RB	ADV	CW
+interact	interact	VBP	CW	VERB
+ligand	ligand	NN	CW	NOUN	ARGUMENT
+less	less	RBR	ADV	CW
+effectively	effectively	RB	ADV	CW
+
+sentence break
+
+cold	cold	JJ	CW	ADJ
+sensitivity	sensitivity	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+useful	useful	JJ	CW	ADJ
+identify	identify	VBP	CW	VERB
+genetic	genetic	JJ	CW	ADJ
+suppressor	suppressor	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+factor	factor	NN	CW	NOUN	ARGUMENT
+titrated	titrated	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+differentiate	differentiate	VBP	CW	VERB
+alms	alms	NNS	CW	NOUN	ARGUMENT
+bdus	bdus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+ab	ab	NN	CW	NOUN	ARGUMENT
+arpppapp	arpppapp	NN	CW	NOUN	ARGUMENT
+ab	ab	NN	CW	NOUN	ARGUMENT
+arppaapp	arppaapp	NN	CW	NOUN	ARGUMENT
+progenitor	progenitor	NN	CW	NOUN	ARGUMENT
+almr	almr	NN	CW	NOUN	ARGUMENT
+bdur	bdur	NN	CW	NOUN	ARGUMENT
+alml	alml	NN	CW	NOUN	ARGUMENT
+bdul	bdul	NN	CW	NOUN	ARGUMENT
+respectively	respectively	RB	ADV	CW
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+divide	divide	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+alms	alms	NN	CW	NOUN	ARGUMENT
+bdus	bdus	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+differentially	differentially	RB	ADV	CW
+segregate	segregate	VB	CW	VERB
+alms	alms	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+high	high	JJ	CW	ADJ
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+direct	direct	JJ	CW	ADJ
+alms	alms	NNS	CW	NOUN	ARGUMENT
+migrate	migrate	VBP	CW	VERB
+posteriorly	posteriorly	RB	ADV	FW
+low	low	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+direct	direct	JJ	CW	ADJ
+bdus	bdus	NN	CW	NOUN	ARGUMENT
+migrate	migrate	VB	CW	VERB
+anteriorly	anteriorly	RB	ADV	FW
+
+sentence break
+
+furthermore	furthermore	RB	ADV	FW
+factor	factor	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+activate	activate	VB	CW	VERB
+3	3	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+thereby	thereby	RB	ADV	FW
+cause	cause	VBP	CW	VERB
+alms	alms	NNS	CW	NOUN	ARGUMENT
+differentiate	differentiate	VBP	CW	VERB
+touch	touch	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+sea	sea	NN	CW	NOUN	ARGUMENT
+urchin	urchin	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+30	30	CD	FW
+31	31	CD	FW
+titration	titration	NN	CW	NOUN	ARGUMENT
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+transgene	transgene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+useful	useful	JJ	CW	ADJ
+characterize	characterize	VBP	CW	VERB
+control	control	NN	CW	NOUN	ARGUMENT
+element	element	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+useful	useful	JJ	CW	ADJ
+identify	identify	VBP	CW	VERB
+optimal	optimal	JJ	CW	ADJ
+condition	condition	NN	CW	NOUN	ARGUMENT
+titration	titration	NN	CW	NOUN	ARGUMENT
+dna	dna	NN	CW	NOUN	ARGUMENT
+binding	binding	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+point	point	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+low	low	JJ	CW	ADJ
+enough	enough	JJ	CW	ADJ
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+bind	bind	VBP	CW	VERB
+dna	dna	NN	CW	NOUN	ARGUMENT
+enough	enough	JJ	CW	ADJ
+affinity	affinity	NN	CW	NOUN	ARGUMENT
+apply	apply	VB	CW	VERB
+approach	approach	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+have	have	VBP	FW	aux_or_cop
+also	also	RB	ADV	CW
+report	report	VB	CW	VERB
+competitive	competitive	JJ	CW	ADJ
+titration	titration	NN	CW	NOUN	ARGUMENT
+transgenic	transgenic	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+26	26	CD	FW
+32	32	CD	FW
+expect	expect	VBP	CW	VERB
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+uncommon	uncommon	JJ	CW	ADJ
+
+sentence break
+
+certainly	certainly	RB	ADV	CW
+artifact	artifact	NN	CW	NOUN	ARGUMENT
+associate	associate	JJ	CW	ADJ
+transformation	transformation	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	JJ	CW	ADJ
+high	high	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+titration	titration	NN	CW	NOUN	ARGUMENT
+dna	dna	NN	CW	NOUN	ARGUMENT
+binding	binding	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+23	23	CD	FW
+
+sentence break
+
+transformation	transformation	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+low	low	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+complex	complex	JJ	CW	ADJ
+carrier	carrier	NN	CW	NOUN	ARGUMENT
+dna	dna	NN	CW	NOUN	ARGUMENT
+prevent	prevent	VBP	CW	VERB
+titration	titration	NN	CW	NOUN	ARGUMENT
+effect	effect	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+low	low	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+prudent	prudent	JJ	CW	ADJ
+titration	titration	NN	CW	NOUN	ARGUMENT
+effect	effect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+desire	desire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+kelly	kelly	RB	ADV	FW
+al	al	NNP	CW	NOUN	ARGUMENT
+24	24	CD	FW
+find	find	VB	CW	VERB
+inclusion	inclusion	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+carrier	carrier	NN	CW	NOUN	ARGUMENT
+dna	dna	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	JJ	CW	ADJ
+transformation	transformation	NN	CW	NOUN	ARGUMENT
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+function	function	NN	CW	NOUN	ARGUMENT
+certain	certain	JJ	CW	ADJ
+co-injected	co-injected	JJ	CW	ADJ
+reporter	reporter	NN	CW	NOUN	ARGUMENT
+construct	construct	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+effect	effect	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+increase	increase	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+uniformity	uniformity	NN	CW	NOUN	ARGUMENT
+transgene	transgene	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+complex	complex	JJ	CW	ADJ
+carrier	carrier	NN	CW	NOUN	ARGUMENT
+dna	dna	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+prevent	prevent	VBP	CW	VERB
+transformation	transformation	NN	CW	NOUN	ARGUMENT
+artifact	artifact	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+titration	titration	NN	CW	NOUN	ARGUMENT
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+here	here	RB	ADV	CW
+show	show	VB	CW	VERB
+transformation	transformation	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+specific	specific	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+locate	locate	VBP	CW	VERB
+upstream	upstream	JJ	CW	ADJ
+3	3	CD	FW
+induce	induce	VBP	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+3	3	CD	FW
+upstream	upstream	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+sequestering	sequester	VBG	CW	VERB
+factor	factor	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+controll	controll	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+plm	plm	NN	CW	NOUN	ARGUMENT
+axonal	axonal	JJ	CW	ADJ
+outgrowth	outgrowth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+factor	factor	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+regulate	regulate	VBP	CW	VERB
+3	3	CD	FW
+thereby	thereby	RB	ADV	FW
+control	control	JJ	CW	ADJ
+touch	touch	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+fate	fate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+titration	titration	NN	CW	NOUN	ARGUMENT
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+widely	widely	RB	ADV	CW
+applicable	applicable	JJ	CW	ADJ
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+condition	condition	NN	CW	NOUN	ARGUMENT
+optimize	optimize	VB	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+find	find	VB	CW	VERB
+
+sentence break
+
+alm	alm	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+here	here	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+useful	useful	JJ	CW	ADJ
+find	find	VB	CW	VERB
+condition	condition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+c	c	NN	CW	NOUN	ARGUMENT
+elegan	elegan	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+maintain	maintain	VB	CW	VERB
+describe	describe	VBP	CW	VERB
+brenner	brenner	NN	CW	NOUN	ARGUMENT
+33	33	CD	FW
+
+sentence break
+
+animal	animal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+20	20	CD	FW
+encoding error!
+c	c	NN	CW	NOUN	ARGUMENT
+otherwise	otherwise	RB	ADV	CW
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+wild	wild	JJ	CW	ADJ
+type	type	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+n	n	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+var	var	NN	CW	NOUN	ARGUMENT
+bristol	bristol	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+strain	strain	NN	CW	NOUN	ARGUMENT
+tu	tu	FW	FW
+2562	2562	CD	FW
+3	3	CD	FW
+gfp	gfp	NN	CW	NOUN	ARGUMENT
+ui	uus	NN	CW	NOUN	ARGUMENT
+22	22	CD	FW
+be	be	VB	FW	aux_or_cop
+gift	gift	NN	CW	NOUN	ARGUMENT
+m	m	NN	CW	NOUN	ARGUMENT
+chalfie	chalfie	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+standard	standard	JJ	CW	ADJ
+molecular	molecular	JJ	CW	ADJ
+biology	biology	NN	CW	NOUN	ARGUMENT
+method	method	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+use	use	VB	CW	VERB
+make	make	VB	CW	VERB
+following	follow	VBG	CW	VERB
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+34	34	CD	FW
+
+sentence break
+
+make	make	VB	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+remove	remove	VB	CW	VERB
+pst	pst	NN	CW	NOUN	ARGUMENT
+i	i	LS	FW
+bb	bb	NN	CW	NOUN	ARGUMENT
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+ppd	ppd	NN	CW	NOUN	ARGUMENT
+118	118	CD	FW
+17	17	CD	FW
+gift	gift	NN	CW	NOUN	ARGUMENT
+fire	fire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+make	make	VB	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+subcloned	subclon	VBN	CW	VERB
+nsus	nsus	NN	CW	NOUN	ARGUMENT
+i	i	LS	FW
+pst	pst	NN	CW	NOUN	ARGUMENT
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+1246	1246	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+ptu	ptu	NN	CW	NOUN	ARGUMENT
+23	23	CD	FW
+35	35	CD	FW
+pst	pst	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+ppd	ppd	NN	CW	NOUN	ARGUMENT
+118	118	CD	FW
+
+sentence break
+
+17	17	CD	FW
+
+sentence break
+
+make	make	VB	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+delete	delete	VBP	CW	VERB
+pst	pst	NN	CW	NOUN	ARGUMENT
+i	i	LS	FW
+bb	bb	NN	CW	NOUN	ARGUMENT
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+1329	1329	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+
+sentence break
+
+make	make	VB	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+pb	pb	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+
+sentence break
+
+make	make	VB	CW	VERB
+pb	pb	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+oligonucleotide	oligonucleotide	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+acctcccaaactatagattgggtg	acctcccaaactatagattgggtg	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+5	5	CD	FW
+cggccagagtcgactcacatattg	cggccagagtcgactcacatattg	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+be	be	VB	FW	aux_or_cop
+use	use	VB	CW	VERB
+amplify	amplify	VB	CW	VERB
+1370	1370	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+ptu	ptu	NN	CW	NOUN	ARGUMENT
+23	23	CD	FW
+
+sentence break
+
+introduce	introduce	VB	CW	VERB
+sal	sal	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+end	end	NN	CW	NOUN	ARGUMENT
+third	third	JJ	CW	ADJ
+exon	exon	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+
+sentence break
+
+digest	digest	VB	CW	VERB
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+hind	hind	NN	CW	NOUN	ARGUMENT
+iius	iius	NN	CW	NOUN	ARGUMENT
+sal	sal	NN	CW	NOUN	ARGUMENT
+ligated	ligate	VBN	CW	VERB
+hind	hind	NN	CW	NOUN	ARGUMENT
+iius	iius	NN	CW	NOUN	ARGUMENT
+sal	sal	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+ppd	ppd	NN	CW	NOUN	ARGUMENT
+95	95	CD	FW
+67	67	CD	FW
+gift	gift	NN	CW	NOUN	ARGUMENT
+fire	fire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+remove	remove	VB	CW	VERB
+kpn	kpn	NNP	CW	NOUN	ARGUMENT
+i	i	LS	FW
+kpn	kpn	NN	CW	NOUN	ARGUMENT
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+pb	pb	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+make	make	VBP	CW	VERB
+pb	pb	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+encoding error!
+
+sentence break
+
+digest	digest	VB	CW	VERB
+pb	pb	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+encoding error!
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+bb	bb	NN	CW	NOUN	ARGUMENT
+xho	xho	NN	CW	NOUN	ARGUMENT
+remove	remove	VB	CW	VERB
+1657	1657	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+piece	piece	NN	CW	NOUN	ARGUMENT
+908	908	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+piece	piece	NN	CW	NOUN	ARGUMENT
+respectively	respectively	RB	ADV	CW
+
+sentence break
+
+remain	remain	VB	CW	VERB
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+religated	religate	VBN	CW	VERB
+make	make	VBP	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+
+sentence break
+
+only	only	RB	ADV	CW
+3	3	CD	FW
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+be	be	VB	FW	aux_or_cop
+495	495	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+pst	pst	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+construct	construct	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+delete	delete	VBP	CW	VERB
+pst	pst	NN	CW	NOUN	ARGUMENT
+i	i	LS	FW
+nhe	nhe	NN	CW	NOUN	ARGUMENT
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+2861	2861	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+
+sentence break
+
+make	make	VB	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+remove	remove	VB	CW	VERB
+not	not	RB	ADV	CW
+i	i	LS	FW
+nhe	nhe	NN	CW	NOUN	ARGUMENT
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+944	944	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+
+sentence break
+
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+be	be	VB	FW	aux_or_cop
+hinc	hinc	JJ	CW	ADJ
+ii	ii	LS	FW
+hinc	hinc	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+deletion	deletion	NN	CW	NOUN	ARGUMENT
+443	443	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+make	make	VB	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+13	13	CD	FW
+remove	remove	VB	CW	VERB
+hinc	hinc	NN	CW	NOUN	ARGUMENT
+ii	ii	LS	FW
+bgl	bgl	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+602	602	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+be	be	VB	FW	aux_or_cop
+hpa	hpa	NN	CW	NOUN	ARGUMENT
+i	i	LS	FW
+bsp	bsp	NN	CW	NOUN	ARGUMENT
+eus	eus	NN	CW	NOUN	ARGUMENT
+deletion	deletion	NN	CW	NOUN	ARGUMENT
+309	309	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+15	15	CD	FW
+be	be	VB	FW	aux_or_cop
+bgl	bgl	NN	CW	NOUN	ARGUMENT
+ii	ii	LS	FW
+bsp	bsp	NN	CW	NOUN	ARGUMENT
+eus	eus	NN	CW	NOUN	ARGUMENT
+deletion	deletion	NN	CW	NOUN	ARGUMENT
+150	150	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+make	make	VB	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+16	16	CD	FW
+digest	digest	VBP	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+bsp	bsp	NN	CW	NOUN	ARGUMENT
+eus	eus	NN	CW	NOUN	ARGUMENT
+eco	eco	NN	CW	NOUN	ARGUMENT
+rus	rus	NN	CW	NOUN	ARGUMENT
+remove	remove	VB	CW	VERB
+365	365	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+17	17	CD	FW
+be	be	VB	FW	aux_or_cop
+bsp	bsp	NN	CW	NOUN	ARGUMENT
+bsa	bsa	NN	CW	NOUN	ARGUMENT
+bus	bus	NN	CW	NOUN	ARGUMENT
+deletion	deletion	NN	CW	NOUN	ARGUMENT
+412	412	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+be	be	VB	FW	aux_or_cop
+hinc	hinc	JJ	CW	ADJ
+ii	ii	LS	FW
+hinc	hinc	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+deletion	deletion	NN	CW	NOUN	ARGUMENT
+443	443	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+19	19	CD	FW
+be	be	VB	FW	aux_or_cop
+bsa	bsa	FW	FW
+bi	bi	FW	FW
+bgl	bgl	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+deletion	deletion	NN	CW	NOUN	ARGUMENT
+262	262	CD	FW
+bp	bp	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+
+sentence break
+
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+prepare	prepare	VB	CW	VERB
+wizard	wizard	NN	CW	NOUN	ARGUMENT
+midiprep	midiprep	JJ	CW	ADJ
+kit	kit	NN	CW	NOUN	ARGUMENT
+promega	promega	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+germ-line	germ-line	NN	CW	NOUN	ARGUMENT
+transformation	transformation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+do	do	VB	FW	aux_or_cop
+describe	describe	VB	CW	VERB
+mello	mello	NNP	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+29	29	CD	FW
+
+sentence break
+
+construct	construct	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+co-injected	co-injected	JJ	CW	ADJ
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+prf	prf	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+contain	contain	VBP	CW	VERB
+semidominant	semidominant	JJ	CW	ADJ
+rol	rol	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+su	su	FW	FW
+1006	1006	CD	FW
+allele	allele	NN	CW	NOUN	ARGUMENT
+causee	causee	NN	CW	NOUN	ARGUMENT
+roller	roller	NN	CW	NOUN	ARGUMENT
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+be	be	VB	FW	aux_or_cop
+inject	inject	VB	CW	VERB
+n	n	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+wild	wild	JJ	CW	ADJ
+type	type	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+100	100	CD	FW
+encoding error!
+ml	ml	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+15	15	CD	FW
+be	be	VB	FW	aux_or_cop
+inject	inject	VB	CW	VERB
+tu	tu	FW	FW
+2562	2562	CD	FW
+100	100	CD	FW
+encoding error!
+ml	ml	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+prf	prf	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+be	be	VB	FW	aux_or_cop
+co-injected	co-injected	JJ	CW	ADJ
+plasmid	plasmid	NN	CW	NOUN	ARGUMENT
+100	100	CD	FW
+encoding error!
+ml	ml	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+test	test	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+copy	copy	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+alm	alm	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+stu	stu	NN	CW	NOUN	ARGUMENT
+cut	cut	VBD	CW	VERB
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+be	be	VB	FW	aux_or_cop
+co-injected	co-injected	JJ	CW	ADJ
+sma	sma	NN	CW	NOUN	ARGUMENT
+cut	cut	NN	CW	NOUN	ARGUMENT
+prf	prf	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+pvu	pvu	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+cut	cut	VBD	CW	VERB
+genomic	genomic	JJ	CW	ADJ
+dna	dna	NN	CW	NOUN	ARGUMENT
+follow	follow	VB	CW	VERB
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+encoding error!
+ml	ml	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+2	2	CD	FW
+2	2	CD	FW
+100	100	CD	FW
+
+sentence break
+
+4	4	CD	FW
+4	4	CD	FW
+92	92	CD	FW
+
+sentence break
+
+8	8	CD	FW
+8	8	CD	FW
+84	84	CD	FW
+
+sentence break
+
+16	16	CD	FW
+16	16	CD	FW
+68	68	CD	FW
+
+sentence break
+
+32	32	CD	FW
+32	32	CD	FW
+36	36	CD	FW
+
+sentence break
+
+64	64	CD	FW
+32	32	CD	FW
+18	18	CD	FW
+
+sentence break
+
+128	128	CD	FW
+32	32	CD	FW
+9	9	CD	FW
+respectively	respectively	RB	ADV	CW
+
+sentence break
+
+larger	larger	JJR	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+transmit	transmit	VB	CW	VERB
+next	next	JJ	CW	ADJ
+generation	generation	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+effectively	effectively	RB	ADV	CW
+smaller	smaller	JJR	CW	ADJ
+array	array	NN	CW	NOUN	ARGUMENT
+36	36	CD	FW
+
+sentence break
+
+strain	strain	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+here	here	RB	ADV	CW
+have	have	VBP	CW	VERB
+transmission	transmission	NN	CW	NOUN	ARGUMENT
+frequency	frequency	NN	CW	NOUN	ARGUMENT
+greater	greater	JJR	CW	ADJ
+16	16	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+microscopy	microscopy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+do	do	VB	CW	VERB
+olympus	olympus	NNS	CW	NOUN	ARGUMENT
+2	2	CD	FW
+inverted	inverted	JJ	CW	ADJ
+microscope	microscope	NN	CW	NOUN	ARGUMENT
+olympus	olympus	NN	CW	NOUN	ARGUMENT
+ax	ax	NN	CW	NOUN	ARGUMENT
+70	70	CD	FW
+microscope	microscope	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+power	power	NN	CW	NOUN	ARGUMENT
+mac	mac	NN	CW	NOUN	ARGUMENT
+g	g	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+7100	7100	CD	FW
+80	80	CD	FW
+frame	frame	NN	CW	NOUN	ARGUMENT
+grabber	grabber	NN	CW	NOUN	ARGUMENT
+iplab	iplab	NN	CW	NOUN	ARGUMENT
+software	software	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+collect	collect	VB	CW	VERB
+process	process	NN	CW	NOUN	ARGUMENT
+image	image	NN	CW	NOUN	ARGUMENT
+ax	ax	NN	CW	NOUN	ARGUMENT
+70	70	CD	FW
+
+sentence break
+
+microscope	microscope	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+equip	equip	VB	CW	VERB
+fluorescence	fluorescence	NN	CW	NOUN	ARGUMENT
+nomarskus	nomarskus	NN	CW	NOUN	ARGUMENT
+optics	optics	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+animal	animal	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+immobilized	immobilize	VBN	CW	VERB
+approximately	approximately	RB	ADV	CW
+30	30	CD	FW
+mm	mm	NN	CW	NOUN	ARGUMENT
+sodium	sodium	NN	CW	NOUN	ARGUMENT
+azide	azide	NN	CW	NOUN	ARGUMENT
+view	view	NN	CW	NOUN	ARGUMENT
+100	100	CD	FW
+x	x	CC	FW
+400	400	CD	FW
+x.	x.	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+double	double	JJ	CW	ADJ
+strand	strand	NN	CW	NOUN	ARGUMENT
+rna	rna	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+pst	pst	NN	CW	NOUN	ARGUMENT
+i	i	LS	FW
+rsa	rsa	NN	CW	NOUN	ARGUMENT
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+pjc	pjc	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+pbluescript	pbluescript	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+k	k	NN	CW	NOUN	ARGUMENT
++	+	CC	FW
+
+sentence break
+
+rna	rna	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+t	t	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+t	t	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+promoter	promoter	NN	CW	NOUN	ARGUMENT
+pbluescript	pbluescript	NN	CW	NOUN	ARGUMENT
+maxiscript	maxiscript	JJ	CW	ADJ
+kit	kit	NN	CW	NOUN	ARGUMENT
+ambion	ambion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+dsrna	dsrna	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+inject	inject	VB	CW	VERB
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+25	25	CD	FW
+encoding error!
+ml	ml	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+homology	homology	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+identify	identify	VB	CW	VERB
+blast	blast	NN	CW	NOUN	ARGUMENT
+algorithm	algorithm	NN	CW	NOUN	ARGUMENT
+37	37	CD	FW
+38	38	CD	FW
+national	national	JJ	CW	ADJ
+center	center	NN	CW	NOUN	ARGUMENT
+biotechnology	biotechnology	NN	CW	NOUN	ARGUMENT
+information	information	NN	CW	NOUN	ARGUMENT
+http	http	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+www	www	NN	CW	NOUN	ARGUMENT
+ncbus	ncbus	NN	CW	NOUN	ARGUMENT
+nlm	nlm	NN	CW	NOUN	ARGUMENT
+nih	nih	NN	CW	NOUN	ARGUMENT
+gov	gov	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+identify	identify	VB	CW	VERB
+long-range	long-range	JJ	CW	ADJ
+palindromic	palindromic	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+rna	rna	NN	CW	NOUN	ARGUMENT
+secondary	secondary	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+algorithm	algorithm	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+dnasis	dnasis	NN	CW	NOUN	ARGUMENT
+version	version	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+0	0	CD	FW
+be	be	VB	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+binding	bind	VBG	CW	VERB
+site	site	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+identify	identify	VB	CW	VERB
+matinspector	matinspector	NN	CW	NOUN	ARGUMENT
+http	http	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+genomatix	genomatix	JJ	CW	ADJ
+gsf	gsf	NN	CW	NOUN	ARGUMENT
+cgi-bin	cgi-bin	NN	CW	NOUN	ARGUMENT
+matinspector	matinspector	NN	CW	NOUN	ARGUMENT
+matinspector	matinspector	NN	CW	NOUN	ARGUMENT
+pl	pl	NN	CW	NOUN	ARGUMENT
+39	39	CD	FW
+
+sentence break
+
+
+paragraph break
+

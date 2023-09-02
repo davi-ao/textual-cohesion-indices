@@ -1,0 +1,2719 @@
+word	lemma	POS	CW\FW	other categories
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+frequently	frequently	RB	ADV	CW
+counsel	counsel	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+weight	weight	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+little	little	JJ	CW	ADJ
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+overweight	overweight	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+associate	associate	JJ	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+mortality	mortality	NN	CW	NOUN	ARGUMENT
+over	over	IN	FW
+age	age	NN	CW	NOUN	ARGUMENT
+65	65	CD	FW
+
+sentence break
+
+six	six	CD	FW
+large	large	JJ	CW	ADJ
+controll	controll	NN	CW	NOUN	ARGUMENT
+population-based	population-based	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+non-smoking	non-smoking	JJ	CW	ADJ
+older	older	JJR	CW	ADJ
+adult	adult	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+investigate	investigate	VBP	CW	VERB
+association	association	NN	CW	NOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+mass	mass	NN	CW	NOUN	ARGUMENT
+index	index	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+mortality	mortality	NN	CW	NOUN	ARGUMENT
+controll	controll	NN	CW	NOUN	ARGUMENT
+relevant	relevant	JJ	CW	ADJ
+covariate	covariate	JJ	CW	ADJ
+1	1	CD	FW
+2	2	CD	FW
+3	3	CD	FW
+4	4	CD	FW
+5	5	CD	FW
+6	6	CD	FW
+
+sentence break
+
+study	study	NN	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+excess	excess	JJ	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+low	low	JJ	CW	ADJ
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+moderately	moderately	RB	ADV	CW
+high	high	JJ	CW	ADJ
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+little	little	JJ	CW	ADJ
+extra	extra	JJ	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+certain	certain	JJ	CW	ADJ
+small	small	JJ	CW	ADJ
+subset	subset	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+review	review	NN	CW	NOUN	ARGUMENT
+13	13	CD	FW
+study	study	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+draw	draw	NN	CW	NOUN	ARGUMENT
+similar	similar	JJ	CW	ADJ
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+
+sentence break
+
+many	many	JJ	CW	ADJ
+healthy	healthy	JJ	CW	ADJ
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+report	report	NN	CW	NOUN	ARGUMENT
+gradual	gradual	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+gain	gain	NN	CW	NOUN	ARGUMENT
+adult	adult	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+small	small	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+gradual	gradual	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+gain	gain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+normative	normative	JJ	CW	ADJ
+associate	associate	JJ	CW	ADJ
+most	most	RBS	ADV	CW
+robust	robust	JJ	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+suggest	suggest	VBP	CW	VERB
+weight	weight	NN	CW	NOUN	ARGUMENT
+standard	standard	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+adjust	adjust	VBP	CW	VERB
+upward	upward	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+
+sentence break
+
+such	such	JJ	CW	ADJ
+recommendation	recommendation	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+controversial	controversial	JJ	CW	ADJ
+however	however	RB	ADV	FW
+number	number	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fairly	fairly	RB	ADV	CW
+small	small	JJ	CW	ADJ
+few	few	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+examine	examine	VB	CW	VERB
+relation	relation	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+quality	quality	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+healthy	healthy	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+elderly	elderly	JJ	CW	ADJ
+9	9	CD	FW
+
+sentence break
+
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+greater	greater	JJR	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+mortality	mortality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+then	then	RB	ADV	CW
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+trial	trial	NN	CW	NOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+modification	modification	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+successful	successful	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+evaluate	evaluate	VB	CW	VERB
+improve	improve	VB	CW	VERB
+health	health	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+decrease	decrease	VB	CW	VERB
+mortality	mortality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+clinical	clinical	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+detect	detect	VB	CW	VERB
+difference	difference	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+require	require	VBP	CW	VERB
+fewer	fewer	JJR	CW	ADJ
+subject	subject	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+detect	detect	VB	CW	VERB
+survival	survival	NN	CW	NOUN	ARGUMENT
+difference	difference	NN	CW	NOUN	ARGUMENT
+cardiovascular	cardiovascular	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+paper	paper	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+associate	associate	JJ	CW	ADJ
+live	live	JJ	CW	ADJ
+longer	longer	RBR	ADV	CW
+more	more	JJR	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+cohort	cohort	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+subclinical	subclinical	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+morbidity	morbidity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+well	well	RB	ADV	CW
+characterize	characterize	VBP	CW	VERB
+
+sentence break
+
+goal	goal	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+determine	determine	VBN	CW	VERB
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+substantively	substantively	RB	ADV	CW
+different	different	JJ	CW	ADJ
+result	result	NN	CW	NOUN	ARGUMENT
+measure	measure	NN	CW	NOUN	ARGUMENT
+yield	yield	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+powerful	powerful	JJ	CW	ADJ
+evaluation	evaluation	NN	CW	NOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+modification	modification	NN	CW	NOUN	ARGUMENT
+intervention	intervention	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+adult	adult	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cardiovascular	cardiovascular	JJ	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+ch	ch	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+population-based	population-based	JJ	CW	ADJ
+longitudinal	longitudinal	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+888	888	CD	FW
+adult	adult	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+65	65	CD	FW
+older	older	JJR	CW	ADJ
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+
+sentence break
+
+subject	subject	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+recruit	recruit	VB	CW	VERB
+random	random	JJ	CW	ADJ
+sample	sample	NN	CW	NOUN	ARGUMENT
+medicare	medicare	NN	CW	NOUN	ARGUMENT
+eligibility	eligibility	NN	CW	NOUN	ARGUMENT
+list	list	NN	CW	NOUN	ARGUMENT
+four	four	CD	FW
+us	we	PRP	FW	PRONOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+extensive	extensive	JJ	CW	ADJ
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+datum	datum	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+collect	collect	VB	CW	VERB
+subject	subject	JJ	CW	ADJ
+use	use	NN	CW	NOUN	ARGUMENT
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+interview	interview	NN	CW	NOUN	ARGUMENT
+annual	annual	JJ	CW	ADJ
+mail	mail	NN	CW	NOUN	ARGUMENT
+questionnaire	questionnaire	NN	CW	NOUN	ARGUMENT
+annual	annual	JJ	CW	ADJ
+clinic	clinic	NN	CW	NOUN	ARGUMENT
+examination	examination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+additional	additional	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+collect	collect	VB	CW	VERB
+brief	brief	JJ	CW	ADJ
+telephone	telephone	NN	CW	NOUN	ARGUMENT
+interview	interview	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+schedule	schedule	NN	CW	NOUN	ARGUMENT
+visit	visit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+two	two	CD	FW
+cohort	cohort	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+one	one	CD	FW
+7	7	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+follow-up	follow-up	NN	CW	NOUN	ARGUMENT
+n	n	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+201	201	CD	FW
+second	second	JJ	CW	ADJ
+african	african	JJ	CW	ADJ
+american	american	NN	CW	NOUN	ARGUMENT
+n	n	NN	CW	NOUN	ARGUMENT
+687	687	CD	FW
+4	4	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+follow-up	follow-up	NN	CW	NOUN	ARGUMENT
+date	date	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+datum	datum	NN	CW	NOUN	ARGUMENT
+collection	collection	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+1989	1989	CD	FW
+follow-up	follow-up	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+virtually	virtually	RB	ADV	CW
+complete	complete	JJ	CW	ADJ
+survive	survive	VBP	CW	VERB
+subject	subject	JJ	CW	ADJ
+12	12	CD	FW
+
+sentence break
+
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+calculate	calculate	VB	CW	VERB
+measure	measure	NN	CW	NOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+kilogram	kilogram	NN	CW	NOUN	ARGUMENT
+divide	divide	NN	CW	NOUN	ARGUMENT
+square	square	JJ	CW	ADJ
+measure	measure	NN	CW	NOUN	ARGUMENT
+height	height	NN	CW	NOUN	ARGUMENT
+meter	meter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+report	report	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+heart	heart	NN	CW	NOUN	ARGUMENT
+lung	lung	NN	CW	NOUN	ARGUMENT
+blood	blood	NN	CW	NOUN	ARGUMENT
+institute	institute	NN	CW	NOUN	ARGUMENT
+classify	classify	VBP	CW	VERB
+normal	normal	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+reference	reference	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+24	24	CD	FW
+9	9	CD	FW
+
+sentence break
+
+overweight	overweight	JJ	CW	ADJ
+25	25	CD	FW
+29	29	CD	FW
+9	9	CD	FW
+
+sentence break
+
+obesity	obesity	NN	CW	NOUN	ARGUMENT
+30	30	CD	FW
+0	0	CD	FW
+higher	higher	JJR	CW	ADJ
+13	13	CD	FW
+
+sentence break
+
+consider	consider	VB	CW	VERB
+separately	separately	RB	ADV	CW
+group	group	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+20	20	CD	FW
+be	be	VB	FW	aux_or_cop
+associate	associate	JJ	CW	ADJ
+lower	lower	JJR	CW	ADJ
+survival	survival	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+cite	cite	VBP	CW	VERB
+
+sentence break
+
+yol	yol	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+number	number	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+live	live	JJ	CW	ADJ
+7	7	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+number	number	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+similar	similar	JJ	CW	ADJ
+concept	concept	NN	CW	NOUN	ARGUMENT
+quality-adjusted	quality-adjusted	JJ	CW	ADJ
+life-year	life-year	JJ	CW	ADJ
+healthy	healthy	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+equivalent	equivalent	JJ	CW	ADJ
+active	active	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+expectancy	expectancy	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+
+sentence break
+
+base	base	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+self-rated	self-rated	JJ	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+health	health	NN	CW	NOUN	ARGUMENT
+excellent	excellent	JJ	CW	ADJ
+very	very	RB	ADV	CW
+good	good	JJ	CW	ADJ
+good	good	JJ	CW	ADJ
+fair	fair	JJ	CW	ADJ
+poor	poor	JJ	CW	ADJ
+
+sentence break
+
+evgfp	evgfp	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+collect	collect	VB	CW	VERB
+6	6	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+evgfp	evgfp	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+simple	simple	JJ	CW	ADJ
+well-known	well-known	JJ	CW	ADJ
+measure	measure	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+study	study	NN	CW	NOUN	ARGUMENT
+detail	detail	NN	CW	NOUN	ARGUMENT
+15	15	CD	FW
+16	16	CD	FW
+be	be	VB	FW	aux_or_cop
+predictive	predictive	JJ	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+event	event	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+17	17	CD	FW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+examine	examine	VB	CW	VERB
+health	health	NN	CW	NOUN	ARGUMENT
+status	status	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+add	add	VB	CW	VERB
+sixth	sixth	JJ	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+dead	dead	JJ	CW	ADJ
+
+sentence break
+
+datum	datum	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+available	available	JJ	CW	ADJ
+93	93	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+use	use	NN	CW	NOUN	ARGUMENT
+linear	linear	JJ	CW	ADJ
+interpolation	interpolation	NN	CW	NOUN	ARGUMENT
+estimate	estimate	NN	CW	NOUN	ARGUMENT
+miss	miss	VBP	FW	aux_or_cop
+datum	datum	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+know	know	VB	CW	VERB
+value	value	NN	CW	NOUN	ARGUMENT
+miss	miss	VBP	FW	aux_or_cop
+value	value	NN	CW	NOUN	ARGUMENT
+bring	bring	VB	CW	VERB
+percent	percent	NN	CW	NOUN	ARGUMENT
+complete	complete	JJ	CW	ADJ
+95	95	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+
+sentence break
+
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+define	define	VBP	CW	VERB
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+report	report	NN	CW	NOUN	ARGUMENT
+excellent	excellent	JJ	CW	ADJ
+very	very	RB	ADV	CW
+good	good	JJ	CW	ADJ
+good	good	JJ	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+
+sentence break
+
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+range	range	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+never	never	RB	ADV	CW
+excellent	excellent	JJ	CW	ADJ
+very	very	RB	ADV	CW
+good	good	JJ	CW	ADJ
+good	good	JJ	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+report	report	VBP	CW	VERB
+health	health	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+reasonably	reasonably	RB	ADV	FW
+continuous	continuous	JJ	CW	ADJ
+distribution	distribution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+drawback	drawback	NN	CW	NOUN	ARGUMENT
+simple	simple	JJ	CW	ADJ
+definition	definition	NN	CW	NOUN	ARGUMENT
+healthy	healthy	JJ	CW	ADJ
+is	be	VBZ	FW	aux_or_cop
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+distinguish	distinguish	VB	CW	VERB
+fair	fair	JJ	CW	ADJ
+poor	poor	JJ	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+consider	consider	VB	CW	VERB
+not	not	RB	ADV	CW
+healthy	healthy	JJ	CW	ADJ
+
+sentence break
+
+also	also	RB	ADV	CW
+use	use	VB	CW	VERB
+alternative	alternative	JJ	CW	ADJ
+approach	approach	NN	CW	NOUN	ARGUMENT
+assign	assign	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+value	value	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+evgfp	evgfp	NN	CW	NOUN	ARGUMENT
+19	19	CD	FW
+
+sentence break
+
+preliminary	preliminary	JJ	CW	ADJ
+result	result	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+similar	similar	JJ	CW	ADJ
+two	two	CD	FW
+approach	approach	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+report	report	VBP	CW	VERB
+result	result	VBP	CW	VERB
+use	use	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+simpler	simpler	JJR	CW	ADJ
+definition	definition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+calculation	calculation	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+modify	modify	VB	CW	VERB
+include	include	VBP	CW	VERB
+438	438	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+african	african	JJ	CW	ADJ
+american	american	JJ	CW	ADJ
+cohort	cohort	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+only	only	RB	ADV	CW
+4	4	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+date	date	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+person	person	NN	CW	NOUN	ARGUMENT
+70	70	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+cohort	cohort	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+complete	complete	JJ	CW	ADJ
+datum	datum	NN	CW	NOUN	ARGUMENT
+estimate	estimate	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+4	4	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+sex	sex	NN	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+validated	validate	VBD	CW	VERB
+method	method	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+elsewhere	elsewhere	RB	ADV	CW
+20	20	CD	FW
+
+sentence break
+
+article	article	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+estimate	estimate	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unbiased	unbiased	JJ	CW	ADJ
+african	african	JJ	CW	ADJ
+american	american	JJ	CW	ADJ
+cohort	cohort	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+primary	primary	JJ	CW	ADJ
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+observe	observe	VBP	CW	VERB
+7	7	CD	FW
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+available	available	JJ	CW	ADJ
+observe	observe	VBP	CW	VERB
+3	3	CD	FW
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+estimate	estimate	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+10	10	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+sample	sample	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+perform	perform	VB	CW	VERB
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+partially	partially	RB	ADV	CW
+estimate	estimate	VB	CW	VERB
+datum	datum	NN	CW	NOUN	ARGUMENT
+ensure	ensure	VB	CW	VERB
+estimation	estimation	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+distorted	distorted	JJ	CW	ADJ
+finding	finding	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+goal	goal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+examine	examine	VB	CW	VERB
+association	association	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+adjust	adjust	VBP	CW	VERB
+possible	possible	JJ	CW	ADJ
+confound	confound	NN	CW	NOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+covariate	covariate	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+prevalent	prevalent	JJ	CW	ADJ
+elderly	elderly	JJ	CW	ADJ
+relate	relate	VBP	CW	VERB
+mortality	mortality	NN	CW	NOUN	ARGUMENT
+morbidity	morbidity	NN	CW	NOUN	ARGUMENT
+previous	previous	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+likely	likely	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+relate	relate	VBP	CW	VERB
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+self-reported	self-reported	JJ	CW	ADJ
+covariate	covariate	JJ	CW	ADJ
+include	include	VBP	CW	VERB
+age	age	NN	CW	NOUN	ARGUMENT
+gender	gender	NN	CW	NOUN	ARGUMENT
+smoking	smoking	NN	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+former	former	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+arthritis	arthritis	NN	CW	NOUN	ARGUMENT
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+diabetes	diabetes	NN	CW	NOUN	ARGUMENT
+fair	fair	JJ	CW	ADJ
+poor	poor	JJ	CW	ADJ
+self-rated	self-rated	JJ	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+status	status	NN	CW	NOUN	ARGUMENT
+limitation	limitation	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+daily	daily	RB	ADV	CW
+living	live	VBG	CW	VERB
+instrumental	instrumental	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+daily	daily	RB	ADV	CW
+living	live	VBG	CW	VERB
+10	10	CD	FW
+pound	pound	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+unintended	unintended	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+clinical	clinical	JJ	CW	ADJ
+covariate	covariate	JJ	CW	ADJ
+include	include	VBP	CW	VERB
+hypertension	hypertension	NN	CW	NOUN	ARGUMENT
+cardiovascular	cardiovascular	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+prevalent	prevalent	JJ	CW	ADJ
+heart	heart	NN	CW	NOUN	ARGUMENT
+disease	disease	NN	CW	NOUN	ARGUMENT
+peripheral	peripheral	JJ	CW	ADJ
+vascular	vascular	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+cerebrovascular	cerebrovascular	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+maximum	maximum	NN	CW	NOUN	ARGUMENT
+thickness	thickness	NN	CW	NOUN	ARGUMENT
+internal	internal	JJ	CW	ADJ
+carotid	carotid	NN	CW	NOUN	ARGUMENT
+artery	artery	NN	CW	NOUN	ARGUMENT
+depression	depression	NN	CW	NOUN	ARGUMENT
+cesd	cesd	JJ	CW	ADJ
+score	score	NN	CW	NOUN	ARGUMENT
+serum	serum	NN	CW	NOUN	ARGUMENT
+albumin	albumin	NN	CW	NOUN	ARGUMENT
+serum	serum	NN	CW	NOUN	ARGUMENT
+cholesterol	cholesterol	NN	CW	NOUN	ARGUMENT
+serum	serum	NN	CW	NOUN	ARGUMENT
+creatinine	creatinine	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+measure	measure	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+explain	explain	VB	CW	VERB
+more	more	JJR	CW	ADJ
+detail	detail	NN	CW	NOUN	ARGUMENT
+elsewhere	elsewhere	RB	ADV	CW
+21	21	CD	FW
+22	22	CD	FW
+23	23	CD	FW
+24	24	CD	FW
+
+sentence break
+
+exclude	exclude	VB	CW	VERB
+697	697	CD	FW
+current	current	JJ	CW	ADJ
+smoker	smoker	NN	CW	NOUN	ARGUMENT
+313	313	CD	FW
+other	other	JJ	CW	ADJ
+incomplete	incomplete	JJ	CW	ADJ
+covariate	covariate	NN	CW	NOUN	ARGUMENT
+datum	datum	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+4	4	CD	FW
+878	878	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+base	base	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+perform	perform	VB	CW	VERB
+separately	separately	RB	ADV	CW
+man	man	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+calculate	calculate	VB	CW	VERB
+two	two	CD	FW
+set	set	VBN	CW	VERB
+adjust	adjust	VBP	CW	VERB
+value	value	NN	CW	NOUN	ARGUMENT
+follow	follow	VB	CW	VERB
+
+sentence break
+
+regressed	regress	VBN	CW	VERB
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+age	age	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+square	square	NN	CW	NOUN	ARGUMENT
+race	race	NN	CW	NOUN	ARGUMENT
+smoking	smoking	NN	CW	NOUN	ARGUMENT
+history	history	NN	CW	NOUN	ARGUMENT
+former	former	JJ	CW	ADJ
+never	never	RB	ADV	CW
+second	second	JJ	CW	ADJ
+covariate	covariate	JJ	CW	ADJ
+list	list	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+calculate	calculate	VB	CW	VERB
+adjust	adjust	VBP	CW	VERB
+yol	yol	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+observe	observe	VBP	CW	VERB
+yol	yol	NN	CW	NOUN	ARGUMENT
+predict	predict	VBP	CW	VERB
+yol	yol	NN	CW	NOUN	ARGUMENT
+regression	regression	NN	CW	NOUN	ARGUMENT
+mean	mean	VB	CW	VERB
+yol	yol	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+52	52	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+06	06	CD	FW
+man	man	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+person	person	NN	CW	NOUN	ARGUMENT
+adjust	adjust	VBP	CW	VERB
+yol	yol	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+residual	residual	JJ	CW	ADJ
+regression	regression	NN	CW	NOUN	ARGUMENT
+grand	grand	JJ	CW	ADJ
+mean	mean	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mean	mean	VB	CW	VERB
+new	new	JJ	CW	ADJ
+variable	variable	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+subject	subject	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+adjust	adjust	VBP	CW	VERB
+mean	mean	JJ	CW	ADJ
+yol	yol	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+adjusted	adjust	VBN	CW	VERB
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+calculate	calculate	VB	CW	VERB
+similar	similar	JJ	CW	ADJ
+manner	manner	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+calculate	calculate	VB	CW	VERB
+two	two	CD	FW
+set	set	VBN	CW	VERB
+adjust	adjust	VBP	CW	VERB
+variable	variable	JJ	CW	ADJ
+possibility	possibility	NN	CW	NOUN	ARGUMENT
+over-adjustment	over-adjustment	NN	CW	NOUN	ARGUMENT
+controll	controll	NN	CW	NOUN	ARGUMENT
+inappropriately	inappropriately	RB	ADV	CW
+factor	factor	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+diabetes	diabetes	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+causally	causally	RB	ADV	FW
+affect	affect	VB	CW	VERB
+person	person	NN	CW	NOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+plot	plot	NN	CW	NOUN	ARGUMENT
+mean	mean	NN	CW	NOUN	ARGUMENT
+adjust	adjust	VBP	CW	VERB
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+difference	difference	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+interval	interval	NN	CW	NOUN	ARGUMENT
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+variance	variance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+calculate	calculate	VB	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+measure	measure	NN	CW	NOUN	ARGUMENT
+compare	compare	VBP	CW	VERB
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+subgroup	subgroup	NN	CW	NOUN	ARGUMENT
+normal	normal	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+difference	difference	NN	CW	NOUN	ARGUMENT
+mean	mean	VB	CW	VERB
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+group	group	NN	CW	NOUN	ARGUMENT
+divide	divide	NN	CW	NOUN	ARGUMENT
+common	common	JJ	CW	ADJ
+standard	standard	JJ	CW	ADJ
+deviation	deviation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sample	sample	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+require	require	VBP	CW	VERB
+detect	detect	VB	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+magnitude	magnitude	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+proportional	proportional	JJ	CW	ADJ
+inverse	inverse	JJ	CW	ADJ
+square	square	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+large	large	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+desirable	desirable	JJ	CW	ADJ
+
+sentence break
+
+table	table	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+distribution	distribution	NN	CW	NOUN	ARGUMENT
+key	key	JJ	CW	ADJ
+variable	variable	JJ	CW	ADJ
+sex	sex	NN	CW	NOUN	ARGUMENT
+race	race	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mean	mean	VB	CW	VERB
+age	age	NN	CW	NOUN	ARGUMENT
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+73	73	CD	FW
+two	two	CD	FW
+third	third	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+third	third	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+former	former	JJ	CW	ADJ
+smoker	smoker	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+black	black	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+higher	higher	JJR	CW	ADJ
+mean	mean	JJ	CW	ADJ
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+higher	higher	JJR	CW	ADJ
+percent	percent	NN	CW	NOUN	ARGUMENT
+obese	obese	JJ	CW	ADJ
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+encoding error!
+30	30	CD	FW
+other	other	JJ	CW	ADJ
+three	three	CD	FW
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+black	black	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+most	most	RBS	ADV	CW
+likely	likely	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+unintentionally	unintentionally	RB	ADV	FW
+lose	lose	VB	CW	VERB
+more	more	JJR	CW	ADJ
+10	10	CD	FW
+pound	pound	NN	CW	NOUN	ARGUMENT
+past	past	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+white	white	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+least	least	RBS	ADV	CW
+likely	likely	JJ	CW	ADJ
+
+sentence break
+
+78	78	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+subject	subject	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+decline	decline	NN	CW	NOUN	ARGUMENT
+57	57	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+20	20	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+die	die	VB	CW	VERB
+datum	datum	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+
+sentence break
+
+22	22	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unhealthy	unhealthy	JJ	CW	ADJ
+fair	fair	JJ	CW	ADJ
+poor	poor	JJ	CW	ADJ
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+24	24	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+7	7	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+thus	thus	RB	ADV	FW
+substantial	substantial	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+evgfp	evgfp	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+direction	direction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+table	table	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+show	show	VBP	CW	VERB
+mean	mean	JJ	CW	ADJ
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+calculate	calculate	VBP	CW	VERB
+evgfp	evgfp	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+seven	seven	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+adjust	adjust	VBP	CW	VERB
+age	age	NN	CW	NOUN	ARGUMENT
+73	73	CD	FW
+
+sentence break
+
+example	example	NN	CW	NOUN	ARGUMENT
+black	black	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+average	average	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+3	3	CD	FW
+yol	yol	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+4	4	CD	FW
+2	2	CD	FW
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+maximum	maximum	NN	CW	NOUN	ARGUMENT
+possible	possible	JJ	CW	ADJ
+7	7	CD	FW
+
+sentence break
+
+calculate	calculate	VB	CW	VERB
+additional	additional	JJ	CW	ADJ
+descriptive	descriptive	JJ	CW	ADJ
+statistics	statistics	NNS	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+final	final	JJ	CW	ADJ
+two	two	CD	FW
+line	line	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+unhealthy	unhealthy	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+death	death	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+yol	yol	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+white	white	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+most	most	RBS	ADV	CW
+yhl	yhl	JJ	CW	ADJ
+black	black	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+fewest	fewest	JJS	CW	ADJ
+
+sentence break
+
+black	black	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+most	most	RBS	ADV	CW
+year	year	NN	CW	NOUN	ARGUMENT
+unhealthy	unhealthy	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+white	white	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+fewest	fewest	JJS	CW	ADJ
+
+sentence break
+
+black	black	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+lose	lose	VB	CW	VERB
+most	most	RBS	ADV	CW
+year	year	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+7	7	CD	FW
+white	white	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+only	only	RB	ADV	CW
+0	0	CD	FW
+4	4	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+black	black	JJ	CW	ADJ
+68	68	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+
+sentence break
+
+whites	whites	NNS	CW	NOUN	ARGUMENT
+75	75	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+healthy	healthy	JJ	CW	ADJ
+
+sentence break
+
+whites	whites	NNS	CW	NOUN	ARGUMENT
+gender	gender	VBP	CW	VERB
+difference	difference	NN	CW	NOUN	ARGUMENT
+table	table	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+statistically	statistically	RB	ADV	CW
+significant	significant	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+<	<	JJR	CW	ADJ
+05	05	CD	FW
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+unintended	unintended	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+black	black	JJ	CW	ADJ
+gender	gender	NN	CW	NOUN	ARGUMENT
+difference	difference	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+significant	significant	JJ	CW	ADJ
+10	10	CD	FW
+pound	pound	NN	CW	NOUN	ARGUMENT
+unintended	unintended	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+50	50	CD	FW
+
+sentence break
+
+male	male	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+significant	significant	JJ	CW	ADJ
+difference	difference	NN	CW	NOUN	ARGUMENT
+black	black	JJ	CW	ADJ
+white	white	JJ	CW	ADJ
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+unintended	unintended	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+unhealthy	unhealthy	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+death	death	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+whites	whites	NNS	CW	NOUN	ARGUMENT
+sample	sample	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+higher	higher	JJR	CW	ADJ
+income	income	NN	CW	NOUN	ARGUMENT
+education	education	NN	CW	NOUN	ARGUMENT
+datum	datum	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+
+sentence break
+
+adjust	adjust	VBP	CW	VERB
+income	income	NN	CW	NOUN	ARGUMENT
+education	education	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+age	age	NN	CW	NOUN	ARGUMENT
+former	former	JJ	CW	ADJ
+smoking	smoking	NN	CW	NOUN	ARGUMENT
+difference	difference	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+no	no	RB	ADV	CW
+longer	longer	RB	ADV	CW
+statistically	statistically	RB	ADV	CW
+significant	significant	JJ	CW	ADJ
+
+sentence break
+
+female	female	JJ	CW	ADJ
+black	black	JJ	CW	ADJ
+whites	whites	NNS	CW	NOUN	ARGUMENT
+differ	differ	VBP	CW	VERB
+significantly	significantly	RB	ADV	CW
+bmus	bmus	FW	FW
+bmus	bmus	FW	FW
+>	>	JJR	CW	ADJ
+30	30	CD	FW
+weight	weight	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+50	50	CD	FW
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+unhealthy	unhealthy	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+death	death	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+adjustment	adjustment	NN	CW	NOUN	ARGUMENT
+income	income	NN	CW	NOUN	ARGUMENT
+education	education	NN	CW	NOUN	ARGUMENT
+difference	difference	NN	CW	NOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+50	50	CD	FW
+be	be	VB	FW	aux_or_cop
+longer	longer	RBR	ADV	CW
+significant	significant	JJ	CW	ADJ
+
+sentence break
+
+black	black	JJ	CW	ADJ
+have	have	VBP	CW	VERB
+significantly	significantly	RB	ADV	CW
+lower	lower	JJR	CW	ADJ
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+whites	whites	NNS	CW	NOUN	ARGUMENT
+adjustment	adjustment	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+difference	difference	NN	CW	NOUN	ARGUMENT
+disappear	disappear	VBP	CW	VERB
+adjustment	adjustment	NN	CW	NOUN	ARGUMENT
+entire	entire	JJ	CW	ADJ
+set	set	NN	CW	NOUN	ARGUMENT
+health-related	health-related	JJ	CW	ADJ
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+covariate	covariate	NN	CW	NOUN	ARGUMENT
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+
+sentence break
+
+next	next	RB	ADV	CW
+examine	examine	VB	CW	VERB
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+table	table	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+present	present	JJ	CW	ADJ
+mean	mean	NN	CW	NOUN	ARGUMENT
+value	value	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+adjust	adjust	VBP	CW	VERB
+age	age	NN	CW	NOUN	ARGUMENT
+race	race	NN	CW	NOUN	ARGUMENT
+previous	previous	JJ	CW	ADJ
+smoking	smoking	NN	CW	NOUN	ARGUMENT
+column	column	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+also	also	RB	ADV	CW
+adjust	adjust	VBP	CW	VERB
+entire	entire	JJ	CW	ADJ
+set	set	NN	CW	NOUN	ARGUMENT
+covariate	covariate	NNS	CW	NOUN	ARGUMENT
+column	column	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+
+sentence break
+
+example	example	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+adjust	adjust	VBP	CW	VERB
+age	age	NN	CW	NOUN	ARGUMENT
+race	race	NN	CW	NOUN	ARGUMENT
+smoking	smoking	NN	CW	NOUN	ARGUMENT
+average	average	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+0	0	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+average	average	JJ	CW	ADJ
+6	6	CD	FW
+6	6	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+25	25	CD	FW
+29	29	CD	FW
+9	9	CD	FW
+
+sentence break
+
+second	second	JJ	CW	ADJ
+column	column	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+result	result	NN	CW	NOUN	ARGUMENT
+adjust	adjust	VBP	CW	VERB
+covariate	covariate	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+very	very	RB	ADV	CW
+different	different	JJ	CW	ADJ
+only	only	RB	ADV	CW
+discrepancy	discrepancy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+man	man	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+<	<	JJR	CW	ADJ
+18	18	CD	FW
+category	category	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+only	only	RB	ADV	CW
+14	14	CD	FW
+man	man	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+adjustment	adjustment	NN	CW	NOUN	ARGUMENT
+extensive	extensive	JJ	CW	ADJ
+covariate	covariate	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+make	make	VBP	CW	VERB
+little	little	JJ	CW	ADJ
+difference	difference	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+column	column	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+
+sentence break
+
+subsequent	subsequent	JJ	CW	ADJ
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+adjust	adjust	VBP	CW	VERB
+only	only	RB	ADV	CW
+age	age	NN	CW	NOUN	ARGUMENT
+race	race	NN	CW	NOUN	ARGUMENT
+former	former	JJ	CW	ADJ
+smoking	smoking	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mention	mention	VB	CW	VERB
+group	group	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+20	20	CD	FW
+be	be	VB	FW	aux_or_cop
+consider	consider	VB	CW	VERB
+normal	normal	JJ	CW	ADJ
+nhlbus	nhlbus	NN	CW	NOUN	ARGUMENT
+guideline	guideline	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+lower	lower	JJR	CW	ADJ
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+
+sentence break
+
+24	24	CD	FW
+9	9	CD	FW
+comparison	comparison	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+reason	reason	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+sample	sample	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+low	low	JJ	CW	ADJ
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+combine	combine	VBP	CW	VERB
+two	two	CD	FW
+lower	lower	JJR	CW	ADJ
+category	category	NN	CW	NOUN	ARGUMENT
+define	define	VB	CW	VERB
+underweight	underweight	JJ	CW	ADJ
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+plot	plot	NN	CW	NOUN	ARGUMENT
+adjust	adjust	VBP	CW	VERB
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+sex	sex	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+category	category	NN	CW	NOUN	ARGUMENT
+mean	mean	VB	CW	VERB
+95	95	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+interval	interval	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+plot	plot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+category	category	NN	CW	NOUN	ARGUMENT
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+interval	interval	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+overlap	overlap	VB	CW	VERB
+overlap	overlap	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+slightly	slightly	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+significantly	significantly	RB	ADV	CW
+different	different	JJ	CW	ADJ
+
+sentence break
+
+bar	bar	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+slightly	slightly	RB	ADV	CW
+offset	offset	VBN	CW	VERB
+permit	permit	NN	CW	NOUN	ARGUMENT
+error	error	NN	CW	NOUN	ARGUMENT
+bar	bar	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+see	see	VB	CW	VERB
+
+sentence break
+
+yol	yol	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+uppermost	uppermost	NN	CW	NOUN	ARGUMENT
+curve	curve	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+average	average	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+5	5	CD	FW
+7	7	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+evident	evident	JJ	CW	ADJ
+association	association	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+
+sentence break
+
+underweight	underweight	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+average	average	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+25	25	CD	FW
+fewer	fewer	JJR	CW	ADJ
+yol	yol	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+<	<	JJR	CW	ADJ
+05	05	CD	FW
+compare	compare	VBP	CW	VERB
+normal	normal	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+underweight	underweight	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+lower	lower	JJR	CW	ADJ
+yol	yol	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+significantly	significantly	RB	ADV	CW
+different	different	JJ	CW	ADJ
+normal	normal	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+part	part	NN	CW	NOUN	ARGUMENT
+low	low	JJ	CW	ADJ
+sample	sample	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+man	man	NN	CW	NOUN	ARGUMENT
+classify	classify	VB	CW	VERB
+normal	normal	JJ	CW	ADJ
+overweight	overweight	JJ	CW	ADJ
+obese	obese	JJ	CW	ADJ
+have	have	VBP	CW	VERB
+same	same	JJ	CW	ADJ
+yol	yol	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lowermost	lowermost	JJ	CW	ADJ
+two	two	CD	FW
+line	line	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+mean	mean	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+man	man	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+woman	woman	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+normal	normal	JJ	CW	ADJ
+overweight	overweight	JJ	CW	ADJ
+average	average	JJ	CW	ADJ
+4	4	CD	FW
+9	9	CD	FW
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+underweight	underweight	JJ	CW	ADJ
+obese	obese	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+4	4	CD	FW
+5	5	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+significantly	significantly	RB	ADV	CW
+lower	lower	JJR	CW	ADJ
+normal	normal	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+man	man	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+similar	similar	JJ	CW	ADJ
+difference	difference	NN	CW	NOUN	ARGUMENT
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+statistically	statistically	RB	ADV	CW
+significant	significant	JJ	CW	ADJ
+
+sentence break
+
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+significantly	significantly	RB	ADV	CW
+higher	higher	JJR	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+man	man	NN	CW	NOUN	ARGUMENT
+normal	normal	JJ	CW	ADJ
+overweight	overweight	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+sex	sex	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+similar	similar	JJ	CW	ADJ
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+underweight	underweight	JJ	CW	ADJ
+obese	obese	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+next	next	JJ	CW	ADJ
+present	present	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+compare	compare	VBP	CW	VERB
+group	group	NN	CW	NOUN	ARGUMENT
+normal	normal	JJ	CW	ADJ
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+show	show	NN	CW	NOUN	ARGUMENT
+table	table	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+significance	significance	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+associate	associate	JJ	CW	ADJ
+t-test	t-test	NN	CW	NOUN	ARGUMENT
+difference	difference	NN	CW	NOUN	ARGUMENT
+means	mean	VBZ	FW	aux_or_cop
+two	two	CD	FW
+group	group	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+compare	compare	VB	CW	VERB
+
+sentence break
+
+example	example	NN	CW	NOUN	ARGUMENT
+underweight	underweight	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+average	average	JJ	CW	ADJ
+4	4	CD	FW
+50	50	CD	FW
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+compare	compare	VBP	CW	VERB
+4	4	CD	FW
+92	92	CD	FW
+normal	normal	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+common	common	JJ	CW	ADJ
+standard	standard	JJ	CW	ADJ
+deviation	deviation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+1	1	CD	FW
+44	44	CD	FW
+
+sentence break
+
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+thus	thus	RB	ADV	FW
+4	4	CD	FW
+92	92	CD	FW
+
+sentence break
+
+4	4	CD	FW
+50	50	CD	FW
+1	1	CD	FW
+44	44	CD	FW
+29	29	CD	FW
+
+sentence break
+
+two	two	CD	FW
+group	group	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+significantly	significantly	RB	ADV	CW
+different	different	JJ	CW	ADJ
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+imply	imply	VBP	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+significantly	significantly	RB	ADV	CW
+greater	greater	JJR	CW	ADJ
+zero	zero	CD	FW
+
+sentence break
+
+clinical	clinical	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+underweight	underweight	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+achieve	achieve	VB	CW	VERB
+normal	normal	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+presumably	presumably	RB	ADV	FW
+address	address	NN	CW	NOUN	ARGUMENT
+underlie	underlie	VBP	CW	VERB
+cause	cause	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+expect	expect	VBP	CW	VERB
+have	have	VBP	CW	VERB
+80	80	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+n	n	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+96	96	CD	FW
++	+	CC	FW
+84	84	CD	FW
+2	2	CD	FW
+29	29	CD	FW
+2	2	CD	FW
+93	93	CD	FW
+woman	woman	NN	CW	NOUN	ARGUMENT
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+arm	arm	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+measure	measure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+biggest	biggest	JJS	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+first	first	JJ	CW	ADJ
+row	row	NN	CW	NOUN	ARGUMENT
+compare	compare	VB	CW	VERB
+underweight	underweight	JJ	CW	ADJ
+normal	normal	JJ	CW	ADJ
+
+sentence break
+
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+similar	similar	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+significantly	significantly	RB	ADV	CW
+different	different	JJ	CW	ADJ
+zero	zero	CD	FW
+
+sentence break
+
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+significantly	significantly	RB	ADV	CW
+different	different	JJ	CW	ADJ
+zero	zero	CD	FW
+man	man	NN	CW	NOUN	ARGUMENT
+part	part	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+42	42	CD	FW
+man	man	NN	CW	NOUN	ARGUMENT
+underweight	underweight	JJ	CW	ADJ
+category	category	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+compare	compare	VBP	CW	VERB
+overweight	overweight	JJ	CW	ADJ
+normal	normal	JJ	CW	ADJ
+yield	yield	NN	CW	NOUN	ARGUMENT
+small	small	JJ	CW	ADJ
+non-significant	non-significant	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+inconsistent	inconsistent	JJ	CW	ADJ
+sign	sign	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+extremely	extremely	RB	ADV	CW
+large	large	JJ	CW	ADJ
+sample	sample	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+need	need	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+compare	compare	VB	CW	VERB
+obese	obese	JJ	CW	ADJ
+normal	normal	JJ	CW	ADJ
+only	only	JJ	CW	ADJ
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+large	large	JJ	CW	ADJ
+significant	significant	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+intervention	intervention	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+health	health	NN	CW	NOUN	ARGUMENT
+underweight	underweight	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+normal	normal	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+peer	peer	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+perform	perform	VB	CW	VERB
+use	use	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+variable	variable	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+trial	trial	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+obese	obese	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+comparable	comparable	JJ	CW	ADJ
+normal	normal	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+evaluate	evaluate	VB	CW	VERB
+use	use	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+yol	yol	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+trial	trial	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+health	health	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+normal	normal	JJ	CW	ADJ
+probably	probably	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+fruitless	fruitless	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+overweight	overweight	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+obese	obese	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+affect	affect	VB	CW	VERB
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mention	mention	VB	CW	VERB
+repeat	repeat	NN	CW	NOUN	ARGUMENT
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+exclude	exclude	VBP	CW	VERB
+person	person	NN	CW	NOUN	ARGUMENT
+partially	partially	RB	ADV	CW
+estimate	estimate	VBP	CW	VERB
+datum	datum	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+different	different	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+code	code	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+only	only	RB	ADV	CW
+substantive	substantive	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+difference	difference	NN	CW	NOUN	ARGUMENT
+black	black	JJ	CW	ADJ
+whites	whites	NNS	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+table	table	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+no	no	RB	ADV	CW
+longer	longer	RB	ADV	CW
+statistically	statistically	RB	ADV	CW
+significant	significant	JJ	CW	ADJ
+due	due	JJ	CW	ADJ
+smaller	smaller	JJR	CW	ADJ
+sample	sample	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+optimal	optimal	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+overweight	overweight	JJ	CW	ADJ
+recent	recent	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+define	define	VB	CW	VERB
+obesity	obesity	NN	CW	NOUN	ARGUMENT
+reference	reference	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+13	13	CD	FW
+30	30	CD	FW
+
+sentence break
+
+andr	andr	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+propose	propose	VBP	CW	VERB
+desirable	desirable	JJ	CW	ADJ
+bmus	bmus	NN	CW	NOUN	ARGUMENT
+24	24	CD	FW
+
+sentence break
+
+30	30	CD	FW
+person	person	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+60	60	CD	FW
+69	69	CD	FW
+8	8	CD	FW
+
+sentence break
+
+allison	allison	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+31	31	CD	FW
+propose	propose	VBP	CW	VERB
+27	27	CD	FW
+
+sentence break
+
+30	30	CD	FW
+older	older	JJR	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+30	30	CD	FW
+
+sentence break
+
+35	35	CD	FW
+older	older	JJR	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+overweight	overweight	JJ	CW	ADJ
+oppose	oppose	VBP	CW	VERB
+obese	obese	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+normal	normal	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+two	two	CD	FW
+category	category	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+combine	combine	VB	CW	VERB
+older	older	JJR	CW	ADJ
+adult	adult	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+future	future	JJ	CW	ADJ
+improvement	improvement	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+expectancy	expectancy	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+limited	limit	VBN	CW	VERB
+32	32	CD	FW
+greatest	greatest	JJS	CW	ADJ
+advance	advance	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+improve	improve	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+suggest	suggest	VB	CW	VERB
+development	development	NN	CW	NOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+guideline	guideline	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+measure	measure	NN	CW	NOUN	ARGUMENT
+quality	quality	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+account	account	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+base	base	NN	CW	NOUN	ARGUMENT
+finding	finding	NN	CW	NOUN	ARGUMENT
+trial	trial	NN	CW	NOUN	ARGUMENT
+address	address	NN	CW	NOUN	ARGUMENT
+obesity	obesity	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+efficient	efficient	JJ	CW	ADJ
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+yol	yol	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+measure	measure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+woman	woman	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+obese	obese	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+normal	normal	JJ	CW	ADJ
+likely	likely	JJ	CW	ADJ
+show	show	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+yol	yol	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+clinical	clinical	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+modification	modification	NN	CW	NOUN	ARGUMENT
+intervention	intervention	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+merely	merely	RB	ADV	CW
+overweight	overweight	JJ	CW	ADJ
+appear	appear	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fruitless	fruitless	JJ	CW	ADJ
+intervention	intervention	NN	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+direct	direct	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+weight	weight	NN	CW	NOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sometime	sometime	RB	ADV	CW
+use	use	VB	CW	VERB
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+evaluation	evaluation	NN	CW	NOUN	ARGUMENT
+intervention	intervention	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+diet	diet	NN	CW	NOUN	ARGUMENT
+exercise	exercise	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fact	fact	NN	CW	NOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+associate	associate	JJ	CW	ADJ
+consistent	consistent	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+such	such	JJ	CW	ADJ
+evaluation	evaluation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+consider	consider	VB	CW	VERB
+critically	critically	RB	ADV	CW
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+subject	subject	JJ	CW	ADJ
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+particularly	particularly	RB	ADV	CW
+important	important	JJ	CW	ADJ
+light	light	JJ	CW	ADJ
+recent	recent	JJ	CW	ADJ
+finding	finding	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+intervention	intervention	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+weight-loss	weight-loss	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+harmful	harmful	JJ	CW	ADJ
+33	33	CD	FW
+34	34	CD	FW
+
+sentence break
+
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+associate	associate	VBP	FW	aux_or_cop
+higher	higher	JJR	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+especially	especially	RB	ADV	FW
+unclear	unclear	JJ	CW	ADJ
+optimal	optimal	JJ	CW	ADJ
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+trial	trial	NN	CW	NOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+require	require	VBP	CW	VERB
+specific	specific	JJ	CW	ADJ
+attention	attention	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+health	health	NN	CW	NOUN	ARGUMENT
+mortality	mortality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+interestingly	interestingly	RB	ADV	CW
+strongest	strongest	JJS	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+find	find	VB	CW	VERB
+underweight	underweight	JJ	CW	ADJ
+older	older	JJR	CW	ADJ
+adult	adult	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+clinical	clinical	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+objective	objective	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+underweight	underweight	JJ	CW	ADJ
+as	as	IN	FW
+healthy	healthy	JJ	CW	ADJ
+normal-weight	normal-weight	JJ	CW	ADJ
+peer	peer	VBP	CW	VERB
+presumably	presumably	RB	ADV	FW
+address	address	NN	CW	NOUN	ARGUMENT
+underlie	underlie	VBP	CW	VERB
+condition	condition	NN	CW	NOUN	ARGUMENT
+cause	cause	VB	CW	VERB
+low	low	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+perform	perform	VB	CW	VERB
+efficiently	efficiently	RB	ADV	CW
+use	use	VB	CW	VERB
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+measure	measure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+clinically	clinically	RB	ADV	CW
+significant	significant	JJ	CW	ADJ
+patient	patient	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ch	ch	NN	CW	NOUN	ARGUMENT
+participant	participant	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+somewhat	somewhat	RB	ADV	FW
+healthier	healthier	JJ	CW	ADJ
+average	average	JJ	CW	ADJ
+older	older	JJR	CW	ADJ
+adult	adult	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+adjustment	adjustment	NN	CW	NOUN	ARGUMENT
+detailed	detailed	JJ	CW	ADJ
+covariate	covariate	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+little	little	JJ	CW	ADJ
+difference	difference	NN	CW	NOUN	ARGUMENT
+finding	finding	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+estimate	estimate	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+four	four	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+datum	datum	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+sample	sample	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+group	group	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+similar	similar	JJ	CW	ADJ
+
+sentence break
+
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+mean	mean	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+more	more	RBR	ADV	CW
+traditional	traditional	JJ	CW	ADJ
+survival	survival	NN	CW	NOUN	ARGUMENT
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+survival	survival	NN	CW	NOUN	ARGUMENT
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+appropriate	appropriate	JJ	CW	ADJ
+here	here	RB	ADV	CW
+virtually	virtually	RB	ADV	CW
+person	person	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+lose	lose	VB	CW	VERB
+follow-up	follow-up	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bias	bias	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+over-adjustment	over-adjustment	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+not	not	RB	ADV	CW
+large	large	JJ	CW	ADJ
+finding	finding	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+sensitive	sensitive	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+variable	variable	JJ	CW	ADJ
+adjust	adjust	VBP	CW	VERB
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+7	7	CD	FW
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+follow-up	follow-up	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+relative	relative	JJ	CW	ADJ
+superiority	superiority	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+hold	hold	VBP	CW	VERB
+trial	trial	NN	CW	NOUN	ARGUMENT
+shorter	shorter	JJR	CW	ADJ
+follow-up	follow-up	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+effect	effect	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+table	table	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+appropriate	appropriate	JJ	CW	ADJ
+shorter	shorter	JJR	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+lengthy	lengthy	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+add	add	VBP	CW	VERB
+little	little	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+evgfp	evgfp	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+base	base	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+miss	miss	VBP	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+obesity	obesity	NN	CW	NOUN	ARGUMENT
+risk	risk	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+person	person	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+depress	depress	VB	CW	VERB
+poor	poor	JJ	CW	ADJ
+self-image	self-image	NN	CW	NOUN	ARGUMENT
+relate	relate	VBP	CW	VERB
+obesity	obesity	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+osteo-arthriti	osteo-arthriti	JJ	CW	ADJ
+relate	relate	VBP	FW	aux_or_cop
+obesity	obesity	NN	CW	NOUN	ARGUMENT
+limit	limit	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+successfully	successfully	RB	ADV	CW
+avoid	avoid	VB	CW	VERB
+pain	pain	NN	CW	NOUN	ARGUMENT
+surely	surely	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+worse	worse	JJR	CW	ADJ
+evgfp	evgfp	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+base	base	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+health	health	NN	CW	NOUN	ARGUMENT
+measure	measure	NN	CW	NOUN	ARGUMENT
+design	design	NN	CW	NOUN	ARGUMENT
+specifically	specifically	RB	ADV	FW
+measure	measure	VB	CW	VERB
+condition	condition	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+sensitive	sensitive	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+evgfp	evgfp	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+base	base	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+measure	measure	NN	CW	NOUN	ARGUMENT
+superiority	superiority	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+likely	likely	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+even	even	RB	ADV	CW
+greater	greater	JJR	CW	ADJ
+show	show	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+
+sentence break
+
+more	more	RBR	ADV	CW
+sensitive	sensitive	JJ	CW	ADJ
+measure	measure	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+detect	detect	VB	CW	VERB
+difference	difference	NN	CW	NOUN	ARGUMENT
+overweight	overweight	JJ	CW	ADJ
+normal	normal	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+unlikely	unlikely	JJ	CW	ADJ
+give	give	VBP	CW	VERB
+absence	absence	NN	CW	NOUN	ARGUMENT
+difference	difference	NN	CW	NOUN	ARGUMENT
+evgfp	evgfp	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+recommendation	recommendation	NN	CW	NOUN	ARGUMENT
+desirable	desirable	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+criticize	criticize	VB	CW	VERB
+emphasize	emphasize	VBP	CW	VERB
+mortality	mortality	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+health	health	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+find	find	VB	CW	VERB
+association	association	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+obesity	obesity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+present	present	JJ	CW	ADJ
+mortality	mortality	NN	CW	NOUN	ARGUMENT
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+sensitive	sensitive	JJ	CW	ADJ
+measure	measure	NN	CW	NOUN	ARGUMENT
+burden	burden	NN	CW	NOUN	ARGUMENT
+obesity	obesity	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+especially	especially	RB	ADV	FW
+woman	woman	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+future	future	JJ	CW	ADJ
+effort	effort	NN	CW	NOUN	ARGUMENT
+determine	determine	VB	CW	VERB
+desirable	desirable	JJ	CW	ADJ
+weight	weight	NN	CW	NOUN	ARGUMENT
+guideline	guideline	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+measure	measure	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+use	use	NN	CW	NOUN	ARGUMENT
+yol	yol	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+find	find	VB	CW	VERB
+excess	excess	JJ	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+classify	classify	VB	CW	VERB
+overweight	overweight	JJ	CW	ADJ
+nhlbus	nhlbus	NN	CW	NOUN	ARGUMENT
+guideline	guideline	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+suggest	suggest	VBP	CW	VERB
+use	use	NN	CW	NOUN	ARGUMENT
+yhl	yhl	NN	CW	NOUN	ARGUMENT
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+measure	measure	NN	CW	NOUN	ARGUMENT
+clinical	clinical	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+obese	obese	JJ	CW	ADJ
+underweight	underweight	JJ	CW	ADJ
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+discourage	discourage	VB	CW	VERB
+trial	trial	NN	CW	NOUN	ARGUMENT
+address	address	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+merely	merely	RB	ADV	CW
+overweight	overweight	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

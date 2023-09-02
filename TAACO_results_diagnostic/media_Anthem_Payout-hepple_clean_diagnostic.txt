@@ -1,0 +1,746 @@
+word	lemma	POS	CW\FW	other categories
+anthem	anthem	NN	CW	NOUN	ARGUMENT
+payout	payout	NN	CW	NOUN	ARGUMENT
+pose	pose	VBP	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+poorest	poorest	JJS	CW	ADJ
+policyholder	policyholder	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+medicaid	medicaid	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+seem	seem	VBP	CW	VERB
+manna	manna	NN	CW	NOUN	ARGUMENT
+heaven	heaven	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thousand	thousand	CD	FW
+dollar	dollar	NN	CW	NOUN	ARGUMENT
+drop	drop	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+unexpectedly	unexpectedly	RB	ADV	CW
+hand	hand	NN	CW	NOUN	ARGUMENT
+half-million	half-million	NN	CW	NOUN	ARGUMENT
+kentucky	kentucky	JJ	CW	ADJ
+indiana	indiana	NN	CW	NOUN	ARGUMENT
+resident	resident	JJ	CW	ADJ
+month	month	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+recipient	recipient	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+downside	downside	NN	CW	NOUN	ARGUMENT
+check	check	NN	CW	NOUN	ARGUMENT
+anthem	anthem	NN	CW	NOUN	ARGUMENT
+inc	inc	NN	CW	NOUN	ARGUMENT
+issue	issue	NN	CW	NOUN	ARGUMENT
+policyholder	policyholder	NN	CW	NOUN	ARGUMENT
+part	part	NN	CW	NOUN	ARGUMENT
+insurer	insurer	NN	CW	NOUN	ARGUMENT
+conversion	conversion	NN	CW	NOUN	ARGUMENT
+publicly	publicly	RB	ADV	CW
+trade	trade	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+poorest	poorest	JJS	CW	ADJ
+recipient	recipient	JJ	CW	ADJ
+actually	actually	RB	ADV	CW
+suffer	suffer	VBP	CW	VERB
+windfall	windfall	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+medicaid	medicaid	NN	CW	NOUN	ARGUMENT
+food-stamp	food-stamp	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+suddenly	suddenly	RB	ADV	CW
+have	have	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+eligibility	eligibility	NN	CW	NOUN	ARGUMENT
+threshold	threshold	NN	CW	NOUN	ARGUMENT
+aid	aid	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+avoid	avoid	VB	CW	VERB
+lose	lose	VB	CW	VERB
+valuable	valuable	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+medicaid-paid	medicaid-paid	JJ	CW	ADJ
+spot	spot	NN	CW	NOUN	ARGUMENT
+nursing	nursing	NN	CW	NOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+recipient	recipient	JJ	CW	ADJ
+need	need	NN	CW	NOUN	ARGUMENT
+spend	spend	VBP	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+fast	fast	RB	ADV	CW
+
+sentence break
+
+as	as	RB	ADV	CW
+early	early	JJ	CW	ADJ
+end	end	NN	CW	NOUN	ARGUMENT
+month	month	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+make	make	VB	CW	VERB
+sure	sure	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+way	way	NN	CW	NOUN	ARGUMENT
+meet	meet	VB	CW	VERB
+program	program	NN	CW	NOUN	ARGUMENT
+guideline	guideline	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+think	think	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+blue	blue	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+jaime	jaime	NN	CW	NOUN	ARGUMENT
+odle	odle	NN	CW	NOUN	ARGUMENT
+harmon	harmon	NN	CW	NOUN	ARGUMENT
+executive	executive	NN	CW	NOUN	ARGUMENT
+director	director	NN	CW	NOUN	ARGUMENT
+lexington-based	lexington-based	JJ	CW	ADJ
+access	access	NN	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+foundation	foundation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+just	just	RB	ADV	CW
+try	try	VB	CW	VERB
+make	make	VB	CW	VERB
+sure	sure	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+negative	negative	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+low-income	low-income	JJ	CW	ADJ
+folks	folk	NNS	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+legal	legal	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+kentucky	kentucky	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+put	put	VBN	CW	VERB
+together	together	RB	ADV	CW
+action	action	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+hold	hold	VB	CW	VERB
+frequent	frequent	JJ	CW	ADJ
+statewide	statewide	JJ	CW	ADJ
+conference	conference	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+response	response	NN	CW	NOUN	ARGUMENT
+concern	concern	NN	CW	NOUN	ARGUMENT
+aid	aid	NN	CW	NOUN	ARGUMENT
+recipient	recipient	JJ	CW	ADJ
+advocate	advocate	NN	CW	NOUN	ARGUMENT
+anthem	anthem	NN	CW	NOUN	ARGUMENT
+payout	payout	NN	CW	NOUN	ARGUMENT
+cost	cost	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+benefit	benefit	VBP	CW	VERB
+least	least	JJS	CW	ADJ
+temporarily	temporarily	RB	ADV	FW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+get	get	VB	CW	VERB
+deluge	deluge	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+issue	issue	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+hamon	hamon	NN	CW	NOUN	ARGUMENT
+agency	agency	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+legal-service	legal-service	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+operate	operate	VBP	CW	VERB
+legal	legal	JJ	CW	ADJ
+hotline	hotline	NN	CW	NOUN	ARGUMENT
+elderly	elderly	JJ	CW	ADJ
+
+sentence break
+
+basic	basic	JJ	CW	ADJ
+advice	advice	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+
+sentence break
+
+receive	receive	VB	CW	VERB
+check	check	NN	CW	NOUN	ARGUMENT
+stock	stock	NN	CW	NOUN	ARGUMENT
+anthem	anthem	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+dispose	dispose	VB	CW	VERB
+yet	yet	RB	ADV	CW
+pick	pick	VB	CW	VERB
+phone	phone	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+legal-aid	legal-aid	JJ	CW	ADJ
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+counselor	counselor	NN	CW	NOUN	ARGUMENT
+someone	someone	NN	CW	NOUN	ARGUMENT
+else	else	RB	ADV	CW
+understand	understand	VBP	CW	VERB
+eligibility	eligibility	NN	CW	NOUN	ARGUMENT
+guideline	guideline	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	CW	VERB
+right	right	RB	ADV	CW
+away	away	RB	ADV	CW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+available	available	JJ	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+free	free	JJ	CW	ADJ
+say	say	VBP	CW	VERB
+amy	amy	NN	CW	NOUN	ARGUMENT
+turner	turner	NN	CW	NOUN	ARGUMENT
+staff	staff	NN	CW	NOUN	ARGUMENT
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+louisville	louisville	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+society	society	NN	CW	NOUN	ARGUMENT
+cover	cover	NN	CW	NOUN	ARGUMENT
+jefferson	jefferson	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+surround	surround	VBP	CW	VERB
+county	county	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sudden	sudden	JJ	CW	ADJ
+concern	concern	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+trigger	trigger	NN	CW	NOUN	ARGUMENT
+recent	recent	JJ	CW	ADJ
+mailing	mailing	NN	CW	NOUN	ARGUMENT
+anthem	anthem	NN	CW	NOUN	ARGUMENT
+indianapolis-based	indianapolis-based	JJ	CW	ADJ
+insurer	insurer	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+billion	billion	CD	FW
+check	check	NN	CW	NOUN	ARGUMENT
+shares	share	NNS	CW	NOUN	ARGUMENT
+stock	stock	NN	CW	NOUN	ARGUMENT
+worth	worth	JJ	CW	ADJ
+bit	bit	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+1	1	CD	FW
+million	million	CD	FW
+eligible	eligible	JJ	CW	ADJ
+policyholder	policyholder	NN	CW	NOUN	ARGUMENT
+four	four	CD	FW
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+half	half	DT	FW
+be	be	VB	FW	aux_or_cop
+individual	individual	JJ	CW	ADJ
+employer	employer	NN	CW	NOUN	ARGUMENT
+kentucky	kentucky	NN	CW	NOUN	ARGUMENT
+indiana	indiana	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+distribution	distribution	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+result	result	VBP	CW	VERB
+anthem	anthem	NN	CW	NOUN	ARGUMENT
+conversion	conversion	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+mutual	mutual	JJ	CW	ADJ
+company	company	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+policyholder	policyholder	NN	CW	NOUN	ARGUMENT
+publicly	publicly	RB	ADV	CW
+trade	trade	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+shareholder	shareholder	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+earlier	earlier	JJR	CW	ADJ
+mailing	mailing	NN	CW	NOUN	ARGUMENT
+anthem	anthem	NN	CW	NOUN	ARGUMENT
+check	check	NN	CW	NOUN	ARGUMENT
+catch	catch	VB	CW	VERB
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+surprise	surprise	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+generally	generally	RB	ADV	CW
+nice	nice	JJ	CW	ADJ
+surprise	surprise	NN	CW	NOUN	ARGUMENT
+worry	worry	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+aid-recipient	aid-recipient	JJ	CW	ADJ
+fear	fear	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+especially	especially	RB	ADV	FW
+elderly	elderly	JJ	CW	ADJ
+resident	resident	JJ	CW	ADJ
+medicaid	medicaid	NN	CW	NOUN	ARGUMENT
+nursing-home	nursing-home	NN	CW	NOUN	ARGUMENT
+bed	bed	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+qualify	qualify	VB	CW	VERB
+medicaid	medicaid	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+state-administered	state-administered	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+kentucky	kentucky	JJ	CW	ADJ
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+more	more	RBR	ADV	CW
+2000	2000	CD	FW
+liquid	liquid	JJ	CW	ADJ
+asset	asset	NN	CW	NOUN	ARGUMENT
+hand	hand	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+include	include	VB	CW	VERB
+cash	cash	NN	CW	NOUN	ARGUMENT
+stock	stock	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indiana	indiana	NN	CW	NOUN	ARGUMENT
+medicaid	medicaid	NN	CW	NOUN	ARGUMENT
+threshold	threshold	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+even	even	RB	ADV	CW
+lower	lower	JJR	CW	ADJ
+1500	1500	CD	FW
+
+sentence break
+
+anthem	anthem	NN	CW	NOUN	ARGUMENT
+payout	payout	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+large	large	JJ	CW	ADJ
+enough	enough	RB	ADV	CW
+put	put	VBD	CW	VERB
+many	many	JJ	CW	ADJ
+senior	senior	JJ	CW	ADJ
+limit	limit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+average	average	JJ	CW	ADJ
+payout	payout	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+4	4	CD	FW
+400	400	CD	FW
+largest	largest	JJS	CW	ADJ
+
+sentence break
+
+22	22	CD	FW
+000	000	CD	FW
+go	go	VBP	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+anthem	anthem	NN	CW	NOUN	ARGUMENT
+longest	longest	JJS	CW	ADJ
+presumably	presumably	RB	ADV	FW
+senior	senior	JJ	CW	ADJ
+
+sentence break
+
+check	check	NN	CW	NOUN	ARGUMENT
+start	start	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+mailbox	mailbox	NN	CW	NOUN	ARGUMENT
+sometime	sometime	RB	ADV	CW
+christma	christma	RB	ADV	FW
+many	many	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+recipient	recipient	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+confuse	confuse	VB	CW	VERB
+get	get	VB	CW	VERB
+windfall	windfall	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+justifiably	justifiably	RB	ADV	FW
+concern	concern	NN	CW	NOUN	ARGUMENT
+advocate	advocate	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+think	think	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+real	real	JJ	CW	ADJ
+danger	danger	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+n't	not	RB	ADV	CW
+understand	understand	VB	CW	VERB
+handle	handle	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+glenda	glenda	NN	CW	NOUN	ARGUMENT
+harrison	harrison	NN	CW	NOUN	ARGUMENT
+staff	staff	NN	CW	NOUN	ARGUMENT
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+northern	northern	JJ	CW	ADJ
+kentucky	kentucky	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+society	society	NN	CW	NOUN	ARGUMENT
+covington	covington	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+particular	particular	JJ	CW	ADJ
+elderly	elderly	JJ	CW	ADJ
+be	be	VB	CW	VERB
+hurt	hurt	VBN	CW	VERB
+say	say	VBP	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+concern	concern	NN	CW	NOUN	ARGUMENT
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+one	one	CD	FW
+be	be	VB	FW	aux_or_cop
+go	go	VB	CW	VERB
+mean	mean	VB	CW	VERB
+then	then	RB	ADV	CW
+two	two	CD	FW
+even	even	RB	ADV	CW
+know	know	VB	CW	VERB
+mean	mean	VB	CW	VERB
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+contact	contact	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+anthem	anthem	NN	CW	NOUN	ARGUMENT
+consider	consider	VBP	CW	VERB
+potential	potential	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+payout	payout	NN	CW	NOUN	ARGUMENT
+public-aid	public-aid	NN	CW	NOUN	ARGUMENT
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+distribution	distribution	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+spokeswoman	spokeswoman	NN	CW	NOUN	ARGUMENT
+lauren	lauren	NN	CW	NOUN	ARGUMENT
+green	green	JJ	CW	ADJ
+caldwell	caldwell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+talk	talk	NN	CW	NOUN	ARGUMENT
+medicaid	medicaid	NN	CW	NOUN	ARGUMENT
+official	official	JJ	CW	ADJ
+four	four	CD	FW
+state	state	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+company	company	NN	CW	NOUN	ARGUMENT
+conclude	conclude	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+position	position	VB	CW	VERB
+provide	provide	VB	CW	VERB
+advice	advice	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+say	say	VB	CW	VERB
+company	company	NN	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+distribution	distribution	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+really	really	RB	ADV	CW
+good	good	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+handle	handle	VB	CW	VERB
+fairly	fairly	RB	ADV	CW
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+wonder	wonder	VBP	CW	VERB
+handle	handle	VB	CW	VERB
+payout	payout	NN	CW	NOUN	ARGUMENT
+consult	consult	VB	CW	VERB
+expert	expert	JJ	CW	ADJ
+abou	abou	NN	CW	NOUN	ARGUMENT
+particular	particular	JJ	CW	ADJ
+situation	situation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+general	general	JJ	CW	ADJ
+guideline	guideline	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+n't	not	RB	ADV	CW
+give	give	VB	CW	VERB
+away	away	RP	FW
+say	say	VBP	CW	VERB
+jess	jess	NN	CW	NOUN	ARGUMENT
+william	william	JJ	CW	ADJ
+branch	branch	NN	CW	NOUN	ARGUMENT
+manager	manager	NN	CW	NOUN	ARGUMENT
+eligibility	eligibility	NN	CW	NOUN	ARGUMENT
+policy	policy	NN	CW	NOUN	ARGUMENT
+kentucky	kentucky	NN	CW	NOUN	ARGUMENT
+department	department	NN	CW	NOUN	ARGUMENT
+medicaid	medicaid	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+say	say	VB	CW	VERB
+many	many	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+give	give	VB	CW	VERB
+child	child	NN	CW	NOUN	ARGUMENT
+put	put	VB	CW	VERB
+trust	trust	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+answer	answer	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+
+sentence break
+
+general	general	JJ	CW	ADJ
+receive	receive	VBP	CW	VERB
+fair-market	fair-market	JJ	CW	ADJ
+value	value	NN	CW	NOUN	ARGUMENT
+spend	spend	VBP	CW	VERB
+
+sentence break
+
+mean	mean	VB	CW	VERB
+example	example	NN	CW	NOUN	ARGUMENT
+n't	not	RB	ADV	CW
+pay	pay	VB	CW	VERB
+son	son	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+000	000	CD	FW
+car	car	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+worth	worth	JJ	CW	ADJ
+2000	2000	CD	FW
+say	say	VBP	CW	VERB
+lee	lee	NN	CW	NOUN	ARGUMENT
+richardson	richardson	NN	CW	NOUN	ARGUMENT
+louisville	louisville	NN	CW	NOUN	ARGUMENT
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+specialize	specialize	VBP	CW	VERB
+elder	elder	JJR	CW	ADJ
+law	law	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+good	good	JJ	CW	ADJ
+news	news	NN	CW	NOUN	ARGUMENT
+spend	spend	VBP	CW	VERB
+22	22	CD	FW
+000	000	CD	FW
+few	few	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+fairly	fairly	RB	ADV	CW
+broad	broad	JJ	CW	ADJ
+latitude	latitude	NN	CW	NOUN	ARGUMENT
+spend	spend	VBP	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+kentucky	kentucky	NN	CW	NOUN	ARGUMENT
+advocate	advocate	NN	CW	NOUN	ARGUMENT
+medicaid	medicaid	NN	CW	NOUN	ARGUMENT
+official	official	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+such	such	JJ	CW	ADJ
+alternative	alternative	JJ	CW	ADJ
+buy	buy	NN	CW	NOUN	ARGUMENT
+prepaid	prepay	VBN	CW	VERB
+burial	burial	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+premium	premium	NN	CW	NOUN	ARGUMENT
+advance	advance	NN	CW	NOUN	ARGUMENT
+medicare	medicare	NN	CW	NOUN	ARGUMENT
+supplement	supplement	NN	CW	NOUN	ARGUMENT
+health-insurance	health-insurance	JJ	CW	ADJ
+policy	policy	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+outstanding	outstanding	JJ	CW	ADJ
+medical	medical	JJ	CW	ADJ
+bill	bill	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+allowable	allowable	JJ	CW	ADJ
+expenditure	expenditure	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+buy	buy	NN	CW	NOUN	ARGUMENT
+car	car	NN	CW	NOUN	ARGUMENT
+medical	medical	JJ	CW	ADJ
+transportation	transportation	NN	CW	NOUN	ARGUMENT
+need	need	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+home	home	NN	CW	NOUN	ARGUMENT
+repair	repair	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+property	property	NN	CW	NOUN	ARGUMENT
+tax	tax	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+main	main	JJ	CW	ADJ
+requirement	requirement	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+get	get	VB	CW	VERB
+value	value	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+otherwise	otherwise	RB	ADV	CW
+report	report	NN	CW	NOUN	ARGUMENT
+spending	spending	NN	CW	NOUN	ARGUMENT
+medicaid	medicaid	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+require	require	VB	CW	VERB
+
+sentence break
+
+official	official	JJ	CW	ADJ
+treat	treat	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+unspent	unspent	JJ	CW	ADJ
+affect	affect	NN	CW	NOUN	ARGUMENT
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indiana	indiana	NN	CW	NOUN	ARGUMENT
+similarly	similarly	RB	ADV	CW
+be	be	VB	CW	VERB
+n't	not	RB	ADV	CW
+really	really	RB	ADV	CW
+particular	particular	JJ	CW	ADJ
+restriction	restriction	NN	CW	NOUN	ARGUMENT
+buy	buy	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	RB	ADV	CW
+long	long	JJ	CW	ADJ
+spend	spend	VBP	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+christopher	christopher	NN	CW	NOUN	ARGUMENT
+holly	holly	RB	ADV	FW
+paralegal	paralegal	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+bloomington	bloomington	NN	CW	NOUN	ARGUMENT
+office	office	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

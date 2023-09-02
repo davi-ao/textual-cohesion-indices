@@ -1,0 +1,1335 @@
+word	lemma	POS	CW\FW	other categories
+handful	handful	NN	CW	NOUN	ARGUMENT
+bronze	bronze	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+relic	relic	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+foster	foster	JJ	CW	ADJ
+assumption	assumption	NN	CW	NOUN	ARGUMENT
+prehistoric	prehistoric	JJ	CW	ADJ
+settler	settler	NN	CW	NOUN	ARGUMENT
+inhabit	inhabit	VB	CW	VERB
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+thousand	thousand	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+
+sentence break
+
+greater	greater	JJR	CW	ADJ
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+find	find	VB	CW	VERB
+mallorca	mallorca	NN	CW	NOUN	ARGUMENT
+menorca	menorca	NN	CW	NOUN	ARGUMENT
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+balearic	balearic	JJ	CW	ADJ
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+site	site	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+island	island	NN	CW	NOUN	ARGUMENT
+formentera	formentera	NN	CW	NOUN	ARGUMENT
+megalithic	megalithic	JJ	CW	ADJ
+monument	monument	NN	CW	NOUN	ARGUMENT
+tomb	tomb	NN	CW	NOUN	ARGUMENT
+na	na	TO	FW
+costa	costa	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+date	date	NN	CW	NOUN	ARGUMENT
+2000	2000	CD	FW
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+key	key	JJ	CW	ADJ
+location	location	NN	CW	NOUN	ARGUMENT
+africa	africa	NN	CW	NOUN	ARGUMENT
+ancient	ancient	JJ	CW	ADJ
+iberium	iberium	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+convenient	convenient	JJ	CW	ADJ
+stopover	stopover	NN	CW	NOUN	ARGUMENT
+mediterranean	mediterranean	JJ	CW	ADJ
+seafarer	seafarer	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+phoenician	phoenician	JJ	CW	ADJ
+trader	trader	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+ibosim	ibosim	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+greek	greek	JJ	CW	ADJ
+dub	dub	NN	CW	NOUN	ARGUMENT
+ebyso	ebyso	NN	CW	NOUN	ARGUMENT
+roman	roman	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+ebusus	ebusus	VBZ	CW	VERB
+moor	moor	NN	CW	NOUN	ARGUMENT
+yebisah	yebisah	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+detail	detail	NN	CW	NOUN	ARGUMENT
+history	history	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+doesn	doesn	NN	CW	NOUN	ARGUMENT
+t	t	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+become	become	VBN	FW	aux_or_cop
+colony	colony	NN	CW	NOUN	ARGUMENT
+carthage	carthage	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+also	also	RB	ADV	CW
+page	page	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+
+sentence break
+
+15	15	CD	FW
+
+sentence break
+
+carthaginian	carthaginian	JJ	CW	ADJ
+originally	originally	RB	ADV	CW
+come	come	VBN	CW	VERB
+area	area	NN	CW	NOUN	ARGUMENT
+comprise	comprise	VBP	CW	VERB
+present-day	present-day	JJ	CW	ADJ
+lebanon	lebanon	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+africa	africa	JJ	CW	ADJ
+s	s	NNS	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+spain	spain	VBP	CW	VERB
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+roman	roman	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+domination	domination	NN	CW	NOUN	ARGUMENT
+mediterranean	mediterranean	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+interest	interest	NN	CW	NOUN	ARGUMENT
+ibiza	ibiza	NNS	CW	NOUN	ARGUMENT
+lie	lie	VBP	CW	VERB
+partly	partly	RB	ADV	CW
+vast	vast	JJ	CW	ADJ
+salt	salt	NN	CW	NOUN	ARGUMENT
+flat	flat	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+source	source	NN	CW	NOUN	ARGUMENT
+profitable	profitable	JJ	CW	ADJ
+industry	industry	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+capitalize	capitalize	VB	CW	VERB
+natural	natural	JJ	CW	ADJ
+resource	resource	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+salt	salt	NN	CW	NOUN	ARGUMENT
+cure	cure	NN	CW	NOUN	ARGUMENT
+fish	fish	NN	CW	NOUN	ARGUMENT
+export	export	NN	CW	NOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+carthaginian	carthaginian	JJ	CW	ADJ
+also	also	RB	ADV	CW
+carry	carry	VBP	CW	VERB
+lead	lead	JJ	CW	ADJ
+mining	mining	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+significance	significance	NN	CW	NOUN	ARGUMENT
+up	up	IN	FW
+century	century	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+believe	believe	VB	CW	VERB
+lead	lead	JJ	CW	ADJ
+pellet	pellet	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+carthaginian	carthaginian	JJ	CW	ADJ
+general	general	JJ	CW	ADJ
+hannibal	hannibal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+carthaginian	carthaginian	JJ	CW	ADJ
+also	also	RB	ADV	CW
+consider	consider	VBP	CW	VERB
+island	island	NN	CW	NOUN	ARGUMENT
+holy	holy	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+great	great	JJ	CW	ADJ
+splendour	splendour	NN	CW	NOUN	ARGUMENT
+bury	bury	VB	CW	VERB
+thousand	thousand	CD	FW
+citizen	citizen	NN	CW	NOUN	ARGUMENT
+huge	huge	JJ	CW	ADJ
+necropolis	necropolis	NN	CW	NOUN	ARGUMENT
+puig	puig	NN	CW	NOUN	ARGUMENT
+de	de	IN	FW
+molin	molin	NN	CW	NOUN	ARGUMENT
+hill	hill	NN	CW	NOUN	ARGUMENT
+windmill	windmill	NN	CW	NOUN	ARGUMENT
+dalt	dalt	NN	CW	NOUN	ARGUMENT
+vilum	vilum	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+town	town	NN	CW	NOUN	ARGUMENT
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gnarled	gnarled	JJ	CW	ADJ
+olive	olive	JJ	CW	ADJ
+tree	tree	NN	CW	NOUN	ARGUMENT
+archaeologist	archaeologist	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+uncover	uncover	VBP	CW	VERB
+treasure	treasure	NN	CW	NOUN	ARGUMENT
+trove	trove	NN	CW	NOUN	ARGUMENT
+statue	statue	NN	CW	NOUN	ARGUMENT
+jewellery	jewellery	NN	CW	NOUN	ARGUMENT
+pitcher	pitcher	NN	CW	NOUN	ARGUMENT
+tool	tool	NN	CW	NOUN	ARGUMENT
+coin	coin	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+display	display	VBP	CW	VERB
+town	town	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+two	two	CD	FW
+archaeological	archaeological	JJ	CW	ADJ
+museum	museum	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+roman	roman	NN	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+really	really	RB	ADV	CW
+infiltrate	infiltrate	VB	CW	VERB
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+defeat	defeat	VB	CW	VERB
+hannibal	hannibal	JJ	CW	ADJ
+202	202	CD	FW
+second	second	JJ	CW	ADJ
+punic	punic	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+influence	influence	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+restrained	restrain	VBN	CW	VERB
+
+sentence break
+
+only	only	RB	ADV	CW
+fall	fall	VB	CW	VERB
+carthage	carthage	NN	CW	NOUN	ARGUMENT
+146	146	CD	FW
+do	do	VBP	CW	VERB
+manage	manage	VB	CW	VERB
+make	make	VB	CW	VERB
+inroad	inroad	NN	CW	NOUN	ARGUMENT
+local	local	JJ	CW	ADJ
+historian	historian	NN	CW	NOUN	ARGUMENT
+stress	stress	NN	CW	NOUN	ARGUMENT
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+conquered	conquer	VBN	CW	VERB
+annexed	annexed	JJ	CW	ADJ
+rome	rome	NN	CW	NOUN	ARGUMENT
+confederated	confederate	VBD	CW	VERB
+retain	retain	VB	CW	VERB
+remarkable	remarkable	JJ	CW	ADJ
+autonomy	autonomy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+century	century	NN	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+old	old	JJ	CW	ADJ
+carthaginian	carthaginian	JJ	CW	ADJ
+tradition	tradition	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+allow	allow	VBP	CW	VERB
+continue	continue	VBP	CW	VERB
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+roman	roman	NN	CW	NOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+meanwhile	meanwhile	RB	ADV	FW
+iberian	iberian	JJ	CW	ADJ
+peninsula	peninsula	NN	CW	NOUN	ARGUMENT
+rome	rome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+leave	leave	VB	CW	VERB
+decisive	decisive	JJ	CW	ADJ
+imprint	imprint	NN	CW	NOUN	ARGUMENT
+area	area	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+language	language	NN	CW	NOUN	ARGUMENT
+culture	culture	NN	CW	NOUN	ARGUMENT
+government	government	NN	CW	NOUN	ARGUMENT
+particularly	particularly	RB	ADV	CW
+engineering	engineering	NN	CW	NOUN	ARGUMENT
+genius	genius	NN	CW	NOUN	ARGUMENT
+construction	construction	NN	CW	NOUN	ARGUMENT
+road	road	NN	CW	NOUN	ARGUMENT
+aqueduct	aqueduct	NN	CW	NOUN	ARGUMENT
+monument	monument	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+roman	roman	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+exploit	exploit	VBP	CW	VERB
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+natural	natural	JJ	CW	ADJ
+resource	resource	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+export	export	NN	CW	NOUN	ARGUMENT
+salt	salt	NN	CW	NOUN	ARGUMENT
+southern	southern	JJ	CW	ADJ
+end	end	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+mine	mine	NN	CW	NOUN	ARGUMENT
+sant	sant	JJ	CW	ADJ
+carle	carle	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+extract	extract	NN	CW	NOUN	ARGUMENT
+purple	purple	JJ	CW	ADJ
+dye	dye	VB	CW	VERB
+shellfish	shellfish	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+imperial	imperial	JJ	CW	ADJ
+cloak	cloak	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+addition	addition	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+moneymaker	moneymaker	NN	CW	NOUN	ARGUMENT
+exotic	exotic	JJ	CW	ADJ
+aromatic	aromatic	JJ	CW	ADJ
+sauce	sauce	NN	CW	NOUN	ARGUMENT
+decomposed	decompose	VBN	CW	VERB
+fish	fish	NN	CW	NOUN	ARGUMENT
+innards	innards	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+call	call	NN	CW	NOUN	ARGUMENT
+garum	garum	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+consider	consider	VB	CW	VERB
+great	great	JJ	CW	ADJ
+delicacy	delicacy	NN	CW	NOUN	ARGUMENT
+roman	roman	NN	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+alike	alike	RB	ADV	FW
+
+sentence break
+
+today	today	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+historical	historical	JJ	CW	ADJ
+footnote	footnote	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+local	local	JJ	CW	ADJ
+cook	cook	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+pungent	pungent	JJ	CW	ADJ
+hint	hint	NN	CW	NOUN	ARGUMENT
+garlic	garlic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+century	century	NN	CW	NOUN	ARGUMENT
+peace	peace	NN	CW	NOUN	ARGUMENT
+productivity	productivity	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+426	426	CD	FW
+mark	mark	NN	CW	NOUN	ARGUMENT
+beginning	beginning	NN	CW	NOUN	ARGUMENT
+era	era	NN	CW	NOUN	ARGUMENT
+strife	strife	NN	CW	NOUN	ARGUMENT
+violence	violence	NN	CW	NOUN	ARGUMENT
+destruction	destruction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+rest	rest	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+now	now	RB	ADV	CW
+spain	spain	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+invade	invade	VB	CW	VERB
+sack	sack	NN	CW	NOUN	ARGUMENT
+germanic	germanic	JJ	CW	ADJ
+tribe	tribe	NN	CW	NOUN	ARGUMENT
+vandal	vandal	NN	CW	NOUN	ARGUMENT
+occupy	occupy	VBP	FW	aux_or_cop
+island	island	NN	CW	NOUN	ARGUMENT
+quickly	quickly	RB	ADV	CW
+impose	impose	VB	CW	VERB
+culture	culture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+century	century	NN	CW	NOUN	ARGUMENT
+almost	almost	RB	ADV	FW
+constant	constant	JJ	CW	ADJ
+repressive	repressive	JJ	CW	ADJ
+foreign	foreign	JJ	CW	ADJ
+rule	rule	NN	CW	NOUN	ARGUMENT
+follow	follow	VB	CW	VERB
+vandal	vandal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+succeed	succeed	VB	CW	VERB
+byzantine	byzantine	JJ	CW	ADJ
+saracen	saracen	JJ	CW	ADJ
+moor	moor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+moorish	moorish	JJ	CW	ADJ
+conquest	conquest	NN	CW	NOUN	ARGUMENT
+balearic	balearic	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+complete	complete	JJ	CW	ADJ
+903	903	CD	FW
+periodic	periodic	JJ	CW	ADJ
+outbreak	outbreak	NN	CW	NOUN	ARGUMENT
+violence	violence	NN	CW	NOUN	ARGUMENT
+typical	typical	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+moor	moor	NN	CW	NOUN	ARGUMENT
+devote	devote	VBP	CW	VERB
+develop	develop	VB	CW	VERB
+island	island	NN	CW	NOUN	ARGUMENT
+economy	economy	NN	CW	NOUN	ARGUMENT
+agriculture	agriculture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+little	little	JJ	CW	ADJ
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+remains	remain	VBZ	CW	VERB
+era	era	NN	CW	NOUN	ARGUMENT
+ceramic	ceramic	JJ	CW	ADJ
+museum	museum	NN	CW	NOUN	ARGUMENT
+few	few	JJ	CW	ADJ
+fortification	fortification	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+irrigation	irrigation	NN	CW	NOUN	ARGUMENT
+ditch	ditch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+moorish	moorish	JJ	CW	ADJ
+legacy	legacy	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+manifested	manifest	VBN	CW	VERB
+few	few	JJ	CW	ADJ
+local	local	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+word	word	NN	CW	NOUN	ARGUMENT
+ibicenco	ibicenco	NN	CW	NOUN	ARGUMENT
+dialect	dialect	NN	CW	NOUN	ARGUMENT
+indelible	indelible	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+folk	folk	JJ	CW	ADJ
+music	music	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indeed	indeed	RB	ADV	CW
+perhap	perhap	JJ	CW	ADJ
+most	most	RBS	ADV	CW
+vivid	vivid	JJ	CW	ADJ
+reminder	reminder	NN	CW	NOUN	ARGUMENT
+moor	moor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+dark	dark	JJ	CW	ADJ
+brood	brood	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+islander	islander	JJR	CW	ADJ
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+moor	moor	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+determine	determine	VBN	CW	VERB
+carry	carry	VBP	CW	VERB
+islam	islam	NN	CW	NOUN	ARGUMENT
+europe	europe	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+invade	invade	VB	CW	VERB
+spain	spain	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+reach	reach	VBP	CW	VERB
+france	france	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+beat	beat	VBN	CW	VERB
+frankish	frankish	JJ	CW	ADJ
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+charle	charle	NN	CW	NOUN	ARGUMENT
+martel	martel	NN	CW	NOUN	ARGUMENT
+732	732	CD	FW
+
+sentence break
+
+crusade	crusade	NN	CW	NOUN	ARGUMENT
+pisa	pisa	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+page	page	NN	CW	NOUN	ARGUMENT
+19	19	CD	FW
+islamic	islamic	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+wan	wan	NN	CW	NOUN	ARGUMENT
+early	early	RB	ADV	CW
+13	13	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+embrace	embrace	VB	CW	VERB
+christian	christian	JJ	CW	ADJ
+reconquest	reconquest	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+king	king	NN	CW	NOUN	ARGUMENT
+jame	jame	NN	CW	NOUN	ARGUMENT
+aragon	aragon	JJ	CW	ADJ
+authorize	authorize	VBP	CW	VERB
+occupation	occupation	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+command	command	NN	CW	NOUN	ARGUMENT
+guillermo	guillermo	NN	CW	NOUN	ARGUMENT
+montgrus	montgrus	NN	CW	NOUN	ARGUMENT
+solid	solid	JJ	CW	ADJ
+catalonian	catalonian	JJ	CW	ADJ
+citizen	citizen	NN	CW	NOUN	ARGUMENT
+titular	titular	JJ	CW	ADJ
+ecclesiastical	ecclesiastical	JJ	CW	ADJ
+rank	rank	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+few	few	JJ	CW	ADJ
+skirmish	skirmish	NN	CW	NOUN	ARGUMENT
+catalonian	catalonian	JJ	CW	ADJ
+troops	troops	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+ready	ready	JJ	CW	ADJ
+deal	deal	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+blow	blow	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+pincer	pincer	NN	CW	NOUN	ARGUMENT
+batter	batter	NN	CW	NOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+rebuild	rebuild	VB	CW	VERB
+city	city	NN	CW	NOUN	ARGUMENT
+wall	wall	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+say	say	VB	CW	VERB
+infiltrate	infiltrate	NN	CW	NOUN	ARGUMENT
+secret	secret	JJ	CW	ADJ
+passage	passage	NN	CW	NOUN	ARGUMENT
+reveal	reveal	VBP	CW	VERB
+invader	invader	NN	CW	NOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+sheik	sheik	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+accord	accord	NN	CW	NOUN	ARGUMENT
+legend	legend	NN	CW	NOUN	ARGUMENT
+embittered	embittered	JJ	CW	ADJ
+traitor	traitor	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+game	game	NN	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+passionate	passionate	JJ	CW	ADJ
+sheik	sheik	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+seduced	seduce	VBN	CW	VERB
+wife	wife	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+violently	violently	RB	ADV	CW
+august	august	NNP	CW	NOUN	ARGUMENT
+1235	1235	CD	FW
+christianity	christianity	NN	CW	NOUN	ARGUMENT
+catalonian	catalonian	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+stay	stay	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mainland	mainland	NN	CW	NOUN	ARGUMENT
+reconquista	reconquista	NN	CW	NOUN	ARGUMENT
+reconquest	reconquest	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+two	two	CD	FW
+one-half	one-half	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+moor	moor	NN	CW	NOUN	ARGUMENT
+suffer	suffer	VBP	CW	VERB
+major	major	JJ	CW	ADJ
+setback	setback	NN	CW	NOUN	ARGUMENT
+1212	1212	CD	FW
+battle	battle	NN	CW	NOUN	ARGUMENT
+nava	nava	NN	CW	NOUN	ARGUMENT
+tolosa	tolosa	NN	CW	NOUN	ARGUMENT
+northern	northern	JJ	CW	ADJ
+andalusium	andalusium	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+clung	cling	VBZ	CW	VERB
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+granada	granada	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+only	only	RB	ADV	CW
+finally	finally	RB	ADV	CW
+evicted	evict	VBN	CW	VERB
+there	there	EX	FW
+1492	1492	CD	FW
+
+sentence break
+
+elsewhere	elsewhere	RB	ADV	CW
+great	great	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+change	change	NN	CW	NOUN	ARGUMENT
+shape	shape	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ferdinand	ferdinand	NN	CW	NOUN	ARGUMENT
+isabellum	isabellum	NN	CW	NOUN	ARGUMENT
+unity	unity	NN	CW	NOUN	ARGUMENT
+spain	spain	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+today	today	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+finally	finally	RB	ADV	CW
+achieve	achieve	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+carry	carry	VB	CW	VERB
+flag	flag	NN	CW	NOUN	ARGUMENT
+1492	1492	CD	FW
+christopher	christopher	NN	CW	NOUN	ARGUMENT
+columbus	columbus	NN	CW	NOUN	ARGUMENT
+sail	sail	NN	CW	NOUN	ARGUMENT
+westward	westward	RB	ADV	FW
+discover	discover	VBP	CW	VERB
+america	america	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+soon	soon	RB	ADV	CW
+spain	spain	JJ	CW	ADJ
+find	find	VBP	CW	VERB
+recipient	recipient	JJ	CW	ADJ
+immense	immense	JJ	CW	ADJ
+wealth	wealth	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+gold	gold	NN	CW	NOUN	ARGUMENT
+silver	silver	NN	CW	NOUN	ARGUMENT
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+eager	eager	JJ	CW	ADJ
+more	more	RBR	ADV	CW
+turn	turn	VB	CW	VERB
+attention	attention	NN	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+mediterranean	mediterranean	JJ	CW	ADJ
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+heart	heart	NN	CW	NOUN	ARGUMENT
+europe	europe	NN	CW	NOUN	ARGUMENT
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+ambition	ambition	NN	CW	NOUN	ARGUMENT
+rapidly	rapidly	RB	ADV	CW
+expand	expand	VB	CW	VERB
+
+sentence break
+
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+mere	mere	JJ	CW	ADJ
+backwater	backwater	NN	CW	NOUN	ARGUMENT
+largely	largely	RB	ADV	CW
+forget	forget	VB	CW	VERB
+shipwreck	shipwreck	NN	CW	NOUN	ARGUMENT
+plague	plague	VB	CW	VERB
+
+sentence break
+
+moment	moment	NN	CW	NOUN	ARGUMENT
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+monarch	monarch	NN	CW	NOUN	ARGUMENT
+look	look	VB	CW	VERB
+other	other	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+daring	daring	JJ	CW	ADJ
+pirate	pirate	NN	CW	NOUN	ARGUMENT
+north	north	NN	CW	NOUN	ARGUMENT
+african	african	JJ	CW	ADJ
+barbary	barbary	JJ	CW	ADJ
+coast	coast	NN	CW	NOUN	ARGUMENT
+elsewhere	elsewhere	RB	ADV	CW
+move	move	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ibicenco	ibicenco	NN	CW	NOUN	ARGUMENT
+fortify	fortify	NN	CW	NOUN	ARGUMENT
+bulwark	bulwark	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+additional	additional	JJ	CW	ADJ
+tower	tower	NN	CW	NOUN	ARGUMENT
+fortress	fortress	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+shield	shield	VB	CW	VERB
+enemy	enemy	NN	CW	NOUN	ARGUMENT
+incursion	incursion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+effort	effort	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+menaced	menace	VBN	CW	VERB
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+hostile	hostile	JJ	CW	ADJ
+flotilla	flotilla	NN	CW	NOUN	ARGUMENT
+local	local	JJ	CW	ADJ
+take	take	NN	CW	NOUN	ARGUMENT
+unprecedented	unprecedented	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+band	band	NN	CW	NOUN	ARGUMENT
+privateer	privateer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+berber	berber	NN	CW	NOUN	ARGUMENT
+amazement	amazement	NN	CW	NOUN	ARGUMENT
+table	table	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+turn	turn	VBN	CW	VERB
+wasn	wasn	JJ	CW	ADJ
+t	t	NN	CW	NOUN	ARGUMENT
+long	long	RB	ADV	CW
+ibicenco	ibicenco	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+board	board	NN	CW	NOUN	ARGUMENT
+enemy	enemy	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+brigantine	brigantine	VBP	CW	VERB
+open	open	JJ	CW	ADJ
+sea	sea	NN	CW	NOUN	ARGUMENT
+liberating	liberating	JJ	CW	ADJ
+pirate	pirate	JJ	CW	ADJ
+booty	booty	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+greatly	greatly	RB	ADV	CW
+fear	fear	VBP	CW	VERB
+pope	pope	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+box	box	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+today	today	NN	CW	NOUN	ARGUMENT
+obelisk	obelisk	NN	CW	NOUN	ARGUMENT
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+port	port	NN	CW	NOUN	ARGUMENT
+honour	honour	NN	CW	NOUN	ARGUMENT
+daring	daring	JJ	CW	ADJ
+corsair	corsair	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+reminder	reminder	NN	CW	NOUN	ARGUMENT
+permanent	permanent	JJ	CW	ADJ
+threat	threat	NN	CW	NOUN	ARGUMENT
+pose	pose	VBP	CW	VERB
+pirate	pirate	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+find	find	VB	CW	VERB
+everywhere	everywhere	RB	ADV	CW
+ibiza	ibiza	RB	ADV	FW
+
+sentence break
+
+town	town	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+notable	notable	JJ	CW	ADJ
+church	church	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+focal	focal	JJ	CW	ADJ
+point	point	NN	CW	NOUN	ARGUMENT
+period	period	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+build	build	VB	CW	VERB
+elevate	elevate	VB	CW	VERB
+site	site	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+lookout	lookout	NN	CW	NOUN	ARGUMENT
+post	post	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+warning	warning	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+isolate	isolate	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+meanwhile	meanwhile	RB	ADV	FW
+last-ditch	last-ditch	JJ	CW	ADJ
+defence	defence	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+round	round	NN	CW	NOUN	ARGUMENT
+stone	stone	NN	CW	NOUN	ARGUMENT
+tower	tower	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+build	build	VB	CW	VERB
+few	few	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+inhabit	inhabit	VB	CW	VERB
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+unusual	unusual	JJ	CW	ADJ
+collection	collection	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+tower	tower	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+see	see	VB	CW	VERB
+sant	sant	JJ	CW	ADJ
+joan	joan	NN	CW	NOUN	ARGUMENT
+road	road	NN	CW	NOUN	ARGUMENT
+hamlet	hamlet	NN	CW	NOUN	ARGUMENT
+moorish	moorish	JJ	CW	ADJ
+name	name	NN	CW	NOUN	ARGUMENT
+balafus	balafus	NN	CW	NOUN	ARGUMENT
+village	village	NN	CW	NOUN	ARGUMENT
+sant	sant	NN	CW	NOUN	ARGUMENT
+encoding error!
+
+sentence break
+
+19	19	CD	FW
+th	th	DT	FW
+early	early	JJ	CW	ADJ
+20	20	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+spain	spain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+economically	economically	RB	ADV	CW
+weak	weak	JJ	CW	ADJ
+politically	politically	RB	ADV	CW
+unstable	unstable	JJ	CW	ADJ
+
+sentence break
+
+lose	lose	VB	CW	VERB
+empire	empire	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+pacific	pacific	JJ	CW	ADJ
+then	then	RB	ADV	CW
+1923	1923	CD	FW
+suffer	suffer	VBP	CW	VERB
+humiliating	humiliating	JJ	CW	ADJ
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+morocco	morocco	NN	CW	NOUN	ARGUMENT
+hand	hand	NN	CW	NOUN	ARGUMENT
+local	local	JJ	CW	ADJ
+rebel	rebel	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+king	king	NN	CW	NOUN	ARGUMENT
+alfonso	alfonso	NN	CW	NOUN	ARGUMENT
+xiius	xiius	NN	CW	NOUN	ARGUMENT
+dictatorship	dictatorship	NN	CW	NOUN	ARGUMENT
+constitutional	constitutional	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+create	create	VB	CW	VERB
+sustain	sustain	VB	CW	VERB
+domestic	domestic	JJ	CW	ADJ
+tranquillity	tranquillity	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+follow	follow	VB	CW	VERB
+anti-royalist	anti-royalist	JJ	CW	ADJ
+election	election	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+1931	1931	CD	FW
+king	king	NN	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+exile	exile	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+turbulence	turbulence	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+republic	republic	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+turbulent	turbulent	JJ	CW	ADJ
+however	however	RB	ADV	FW
+bitter	bitter	JJ	CW	ADJ
+ideological	ideological	JJ	CW	ADJ
+division	division	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+faction	faction	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+church	church	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+finally	finally	RB	ADV	CW
+1936	1936	CD	FW
+large	large	JJ	CW	ADJ
+section	section	NN	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+francisco	francisco	NN	CW	NOUN	ARGUMENT
+franco	franco	NN	CW	NOUN	ARGUMENT
+rise	rise	NN	CW	NOUN	ARGUMENT
+revolt	revolt	NN	CW	NOUN	ARGUMENT
+claim	claim	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+monarchist	monarchist	JJ	CW	ADJ
+conservative	conservative	JJ	CW	ADJ
+church	church	NN	CW	NOUN	ARGUMENT
+right-wing	right-wing	JJ	CW	ADJ
+falange	falange	JJ	CW	ADJ
+party	party	NN	CW	NOUN	ARGUMENT
+fascist	fascist	JJ	CW	ADJ
+movement	movement	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	CW	VERB
+found	find	VBN	CW	VERB
+1933	1933	CD	FW
+franco	franco	NN	CW	NOUN	ARGUMENT
+subsequently	subsequently	RB	ADV	CW
+declare	declare	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+legal	legal	JJ	CW	ADJ
+party	party	NN	CW	NOUN	ARGUMENT
+spain	spain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+opposing	oppose	VBG	CW	VERB
+be	be	VB	FW	aux_or_cop
+collection	collection	NN	CW	NOUN	ARGUMENT
+republican	republican	JJ	CW	ADJ
+liberal	liberal	JJ	CW	ADJ
+socialist	socialist	JJ	CW	ADJ
+communist	communist	NN	CW	NOUN	ARGUMENT
+anarchist	anarchist	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+civil	civil	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+become	become	VB	CW	VERB
+one	one	CD	FW
+cause	cause	NN	CW	NOUN	ARGUMENT
+encoding error!
+20	20	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+side	side	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+rally	rally	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+spain	spain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+several	several	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+tear	tear	VB	CW	VERB
+loyalty	loyalty	NN	CW	NOUN	ARGUMENT
+republican	republican	JJ	CW	ADJ
+nationalist	nationalist	JJ	CW	ADJ
+cause	cause	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bloodshed	bloodsh	VBN	CW	VERB
+last	last	JJ	CW	ADJ
+three	three	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+cost	cost	NN	CW	NOUN	ARGUMENT
+hundred	hundred	CD	FW
+thousand	thousand	CD	FW
+life	life	NN	CW	NOUN	ARGUMENT
+almost	almost	RB	ADV	FW
+family	family	NN	CW	NOUN	ARGUMENT
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+mention	mention	VB	CW	VERB
+mainland	mainland	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+touch	touch	NN	CW	NOUN	ARGUMENT
+tragedy	tragedy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+formentera	formentera	NN	CW	NOUN	ARGUMENT
+menorca	menorca	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+capture	capture	NN	CW	NOUN	ARGUMENT
+loyalist	loyalist	JJ	CW	ADJ
+force	force	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+naval	naval	JJ	CW	ADJ
+operation	operation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hardship	hardship	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+compound	compound	JJ	CW	ADJ
+advent	advent	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+spain	spain	JJ	CW	ADJ
+stay	stay	NN	CW	NOUN	ARGUMENT
+neutral	neutral	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+shatter	shatter	VB	CW	VERB
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+economy	economy	NN	CW	NOUN	ARGUMENT
+inch	inch	NN	CW	NOUN	ARGUMENT
+forward	forward	RB	ADV	CW
+post-war	post-war	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+breakthrough	breakthrough	NN	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+1960	1960	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+introduction	introduction	NN	CW	NOUN	ARGUMENT
+wide-bodied	wide-bodied	JJ	CW	ADJ
+jet	jet	NN	CW	NOUN	ARGUMENT
+significant	significant	JJ	CW	ADJ
+surge	surge	NN	CW	NOUN	ARGUMENT
+tourism	tourism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+follow	follow	VB	CW	VERB
+expansion	expansion	NN	CW	NOUN	ARGUMENT
+airport	airport	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+enter	enter	VBP	CW	VERB
+big	big	JJ	CW	ADJ
+league	league	NN	CW	NOUN	ARGUMENT
+international	international	JJ	CW	ADJ
+holiday	holiday	NN	CW	NOUN	ARGUMENT
+resort	resort	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+death	death	NN	CW	NOUN	ARGUMENT
+franco	franco	NN	CW	NOUN	ARGUMENT
+1975	1975	CD	FW
+king	king	NN	CW	NOUN	ARGUMENT
+juan	juan	NN	CW	NOUN	ARGUMENT
+carlo	carlo	NN	CW	NOUN	ARGUMENT
+restore	restore	VB	CW	VERB
+democracy	democracy	NN	CW	NOUN	ARGUMENT
+spain	spain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+free	free	JJ	CW	ADJ
+election	election	NN	CW	NOUN	ARGUMENT
+june	june	NNP	CW	NOUN	ARGUMENT
+1977	1977	CD	FW
+moderate	moderate	JJ	CW	ADJ
+democratic	democratic	JJ	CW	ADJ
+socialist	socialist	JJ	CW	ADJ
+emerge	emerge	VBP	CW	VERB
+largest	largest	JJS	CW	ADJ
+party	party	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+freedom	freedom	NN	CW	NOUN	ARGUMENT
+mean	mean	VB	CW	VERB
+renaissance	renaissance	NN	CW	NOUN	ARGUMENT
+ibicenco	ibicenco	NN	CW	NOUN	ARGUMENT
+language	language	NN	CW	NOUN	ARGUMENT
+culture	culture	NN	CW	NOUN	ARGUMENT
+decade	decade	NN	CW	NOUN	ARGUMENT
+suppression	suppression	NN	CW	NOUN	ARGUMENT
+participation	participation	NN	CW	NOUN	ARGUMENT
+catalonium	catalonium	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+newly	newly	RB	ADV	CW
+win	win	VB	CW	VERB
+autonomy	autonomy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+free	free	JJ	CW	ADJ
+speech	speech	NN	CW	NOUN	ARGUMENT
+free	free	JJ	CW	ADJ
+election	election	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+innovation	innovation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gambling	gamble	VBG	CW	VERB
+be	be	VB	CW	VERB
+legalized	legalize	VBN	CW	VERB
+nude	nude	JJ	CW	ADJ
+bathing	bathing	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sanction	sanction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+change	change	NN	CW	NOUN	ARGUMENT
+sweep	sweep	NN	CW	NOUN	ARGUMENT
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+dramatically	dramatically	RB	ADV	FW
+irrevocably	irrevocably	RB	ADV	FW
+almost	almost	RB	ADV	FW
+overnight	overnight	JJ	CW	ADJ
+
+sentence break
+
+then	then	RB	ADV	CW
+development	development	NN	CW	NOUN	ARGUMENT
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+continue	continue	VBP	CW	VERB
+island	island	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+fortune	fortune	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+almost	almost	RB	ADV	FW
+completely	completely	RB	ADV	CW
+derive	derive	VB	CW	VERB
+tourism	tourism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+change	change	NN	CW	NOUN	ARGUMENT
+mainland	mainland	NN	CW	NOUN	ARGUMENT
+spain	spain	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+inevitably	inevitably	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+effect	effect	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+largely	largely	RB	ADV	CW
+beneficial	beneficial	JJ	CW	ADJ
+
+sentence break
+
+socialist	socialist	JJ	CW	ADJ
+worker	worker	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+felipe	felipe	NN	CW	NOUN	ARGUMENT
+encoding error!
+encoding error!
+be	be	VB	FW	aux_or_cop
+elect	elect	VB	CW	VERB
+1982	1982	CD	FW
+government	government	NN	CW	NOUN	ARGUMENT
+commit	commit	VB	CW	VERB
+spain	spain	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+integration	integration	NN	CW	NOUN	ARGUMENT
+european	european	JJ	CW	ADJ
+union	union	NN	CW	NOUN	ARGUMENT
+formerly	formerly	RB	ADV	CW
+european	european	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+precondition	precondition	NN	CW	NOUN	ARGUMENT
+admission	admission	NN	CW	NOUN	ARGUMENT
+border	border	NN	CW	NOUN	ARGUMENT
+gibraltar	gibraltar	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+reopen	reopen	VB	CW	VERB
+1985	1985	CD	FW
+16	16	CD	FW
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+hiatus	hiatus	NN	CW	NOUN	ARGUMENT
+spain	spain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+admit	admit	VB	CW	VERB
+eu	eu	FW	FW
+1986	1986	CD	FW
+
+sentence break
+
+spite	spite	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+unemployment	unemployment	NN	CW	NOUN	ARGUMENT
+separatist	separatist	NN	CW	NOUN	ARGUMENT
+rumbling	rumble	VBG	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+economic	economic	JJ	CW	ADJ
+growth	growth	NN	CW	NOUN	ARGUMENT
+rate	rate	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+one	one	CD	FW
+highest	highest	JJS	CW	ADJ
+western	western	JJ	CW	ADJ
+europe	europe	JJ	CW	ADJ
+1980	1980	CD	FW
+s.	s.	NN	CW	NOUN	ARGUMENT
+ibiza	ibiza	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+popularity	popularity	NN	CW	NOUN	ARGUMENT
+holiday	holiday	NN	CW	NOUN	ARGUMENT
+destination	destination	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+never	never	RB	ADV	CW
+wan	wan	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+past	past	JJ	CW	ADJ
+few	few	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+seville	seville	NN	CW	NOUN	ARGUMENT
+expo	expo	NN	CW	NOUN	ARGUMENT
+92	92	CD	FW
+barcelona	barcelona	NN	CW	NOUN	ARGUMENT
+olympics	olympics	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+ensured	ensure	VBN	CW	VERB
+continued	continued	JJ	CW	ADJ
+success	success	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

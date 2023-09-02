@@ -1,0 +1,131 @@
+word	lemma	POS	CW\FW	other categories
+member	member	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+continued	continued	JJ	CW	ADJ
+support	support	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+dream	dream	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+reality	reality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+sure	sure	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+aware	aware	JJ	CW	ADJ
+girl	girl	NN	CW	NOUN	ARGUMENT
+scouting	scout	VBG	CW	VERB
+provide	provide	VB	CW	VERB
+program	program	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+value	value	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+society	society	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+own	own	JJ	CW	ADJ
+potential	potential	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+conflicting	conflicting	JJ	CW	ADJ
+pressure	pressure	NN	CW	NOUN	ARGUMENT
+society	society	NN	CW	NOUN	ARGUMENT
+today-the	today-the	JJ	CW	ADJ
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+prove	prove	VB	CW	VERB
+solution	solution	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+happen	happen	VB	CW	VERB
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+pace	pace	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+membership	membership	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+facet	facet	NN	CW	NOUN	ARGUMENT
+organization-board	organization-board	NN	CW	NOUN	ARGUMENT
+committee	committee	NN	CW	NOUN	ARGUMENT
+member	member	NN	CW	NOUN	ARGUMENT
+staff	staff	NN	CW	NOUN	ARGUMENT
+volunteer	volunteer	NN	CW	NOUN	ARGUMENT
+alumnus	alumnus	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+strong	strong	JJ	CW	ADJ
+participation	participation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+essential	essential	JJ	CW	ADJ
+successfully	successfully	RB	ADV	CW
+reach	reach	VB	CW	VERB
+more	more	JJR	CW	ADJ
+girl	girl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+349	349	CD	FW
+girl	girl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+member	member	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gift	gift	NN	CW	NOUN	ARGUMENT
+1997	1997	CD	FW
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+annual	annual	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+ensure	ensure	VB	CW	VERB
+even	even	RB	ADV	CW
+more	more	RBR	ADV	CW
+girl	girl	NN	CW	NOUN	ARGUMENT
+receive	receive	VBP	CW	VERB
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scouting	scout	VBG	CW	VERB
+have	have	VBP	FW	aux_or_cop
+offer	offer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+today	today	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+tomorrow	tomorrow	NN	CW	NOUN	ARGUMENT
+leaders	leader	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+count	count	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

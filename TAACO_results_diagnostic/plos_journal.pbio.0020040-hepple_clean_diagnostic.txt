@@ -1,0 +1,884 @@
+word	lemma	POS	CW\FW	other categories
+people	people	NNS	CW	NOUN	ARGUMENT
+receive	receive	VBP	CW	VERB
+introduction	introduction	NN	CW	NOUN	ARGUMENT
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+genetics	genetics	NNS	CW	NOUN	ARGUMENT
+college	college	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+half	half	DT	FW
+1990	1990	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+everything	everything	NN	CW	NOUN	ARGUMENT
+look	look	NN	CW	NOUN	ARGUMENT
+simple	simple	JJ	CW	ADJ
+straightforward	straightforward	JJ	CW	ADJ
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+explain	explain	VB	CW	VERB
+sincerely	sincerely	RB	ADV	CW
+interested	interested	JJ	CW	ADJ
+relative	relative	JJ	CW	ADJ
+want	want	VBP	FW	aux_or_cop
+know	know	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+spend	spend	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+oncogene	oncogene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+suppressor	suppressor	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+oncogene	oncogene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+overactive	overactive	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+somehow	somehow	RB	ADV	FW
+cause	cause	VBP	CW	VERB
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+overactive	overactive	JJ	CW	ADJ
+
+sentence break
+
+therefore	therefore	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+dominant	dominant	JJ	CW	ADJ
+
+sentence break
+
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+suppressor	suppressor	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+gene	gene	NN	CW	NOUN	ARGUMENT
+normally	normally	RB	ADV	CW
+prevent	prevent	VBP	CW	VERB
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+happen	happen	VB	CW	VERB
+need	need	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+inactivated	inactivate	VBN	CW	VERB
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+start	start	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+copy	copy	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+suppressor	suppressor	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+inactivated	inactivate	VBN	CW	VERB
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+recessive	recessive	JJ	CW	ADJ
+
+sentence break
+
+inactivation	inactivation	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+random	random	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+understandable	understandable	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+inherit	inherit	VBP	CW	VERB
+inactivated	inactivate	VBN	CW	VERB
+copy	copy	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+suppressor	suppressor	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+higher	higher	JJR	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+associate	associate	JJ	CW	ADJ
+form	form	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+bear	bear	VBP	CW	VERB
+two	two	CD	FW
+normal	normal	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+postulated	postulate	VBN	CW	VERB
+alfred	alfred	JJ	CW	ADJ
+knudson	knudson	NN	CW	NOUN	ARGUMENT
+1971	1971	CD	FW
+two-hit	two-hit	JJ	CW	ADJ
+model	model	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indeed	indeed	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+show	show	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+predisposed	predispose	VBN	CW	VERB
+patient	patient	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+wild-type	wild-type	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+suppressor	suppressor	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+lose	lose	VB	CW	VERB
+process	process	NN	CW	NOUN	ARGUMENT
+refer	refer	VB	CW	VERB
+loss	loss	NN	CW	NOUN	ARGUMENT
+heterozygosity	heterozygosity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1998	1998	CD	FW
+thing	thing	NN	CW	NOUN	ARGUMENT
+start	start	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+venkatachalam	venkatachalam	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+publish	publish	VB	CW	VERB
+paper	paper	NN	CW	NOUN	ARGUMENT
+embo	embo	NN	CW	NOUN	ARGUMENT
+journal	journal	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+detail	detail	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+lack	lack	VBP	CW	VERB
+one	one	CD	FW
+copy	copy	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+suppressor	suppressor	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+trp	trp	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+
+sentence break
+
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+know	know	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+most	most	RBS	ADV	CW
+mutate	mutate	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+human	human	JJ	CW	ADJ
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+central	central	JJ	CW	ADJ
+many	many	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+cellular	cellular	JJ	CW	ADJ
+prevention	prevention	NN	CW	NOUN	ARGUMENT
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+lack	lack	NN	CW	NOUN	ARGUMENT
+copy	copy	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+most	most	JJS	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+viable	viable	JJ	CW	ADJ
+succumb	succumb	VBP	CW	VERB
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+mainly	mainly	RB	ADV	CW
+thymic	thymic	JJ	CW	ADJ
+lymphoma	lymphoma	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+five	five	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+donehower	donehower	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1992	1992	CD	FW
+
+sentence break
+
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+bear	bear	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+copy	copy	NN	CW	NOUN	ARGUMENT
+trp	trp	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+gene	gene	NN	CW	NOUN	ARGUMENT
+start	start	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+nine	nine	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+incidence	incidence	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+study	study	NN	CW	NOUN	ARGUMENT
+venkatachalam	venkatachalam	NN	CW	NOUN	ARGUMENT
+colleague	colleague	NN	CW	NOUN	ARGUMENT
+analysed	analyse	VBD	CW	VERB
+impressive	impressive	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+217	217	CD	FW
+trp	trp	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
++	+	CC	FW
+encoding error!
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+controll	controll	NN	CW	NOUN	ARGUMENT
+genetic	genetic	JJ	CW	ADJ
+background	background	NN	CW	NOUN	ARGUMENT
+follow	follow	VB	CW	VERB
+fate	fate	NN	CW	NOUN	ARGUMENT
+trp	trp	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+wild-type	wild-type	JJ	CW	ADJ
+allele	allele	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+accord	accord	NN	CW	NOUN	ARGUMENT
+two-hit	two-hit	JJ	CW	ADJ
+model	model	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+expect	expect	VB	CW	VERB
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+copy	copy	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+lose	lose	VB	CW	VERB
+inactivated	inactivate	VBN	CW	VERB
+
+sentence break
+
+however	however	RB	ADV	FW
+turn	turn	VB	CW	VERB
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+case	case	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+half	half	DT	FW
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+younger	younger	JJR	CW	ADJ
+18	18	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+find	find	VB	CW	VERB
+have	have	VB	FW	aux_or_cop
+retain	retain	VB	CW	VERB
+wild-type	wild-type	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+trp	trp	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+number	number	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+85	85	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+18	18	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+two	two	CD	FW
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+sequenced	sequence	VBN	CW	VERB
+complete	complete	JJ	CW	ADJ
+code	code	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+wild-type	wild-type	JJ	CW	ADJ
+allele	allele	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+structurally	structurally	RB	ADV	CW
+intact	intact	JJ	CW	ADJ
+
+sentence break
+
+exclude	exclude	VB	CW	VERB
+possibility	possibility	NN	CW	NOUN	ARGUMENT
+downregulation	downregulation	NN	CW	NOUN	ARGUMENT
+inactivation	inactivation	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+irradiated	irradiated	JJ	CW	ADJ
+tumour-bearing	tumour-bearing	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+prior	prior	JJ	CW	ADJ
+sacrifice	sacrifice	NN	CW	NOUN	ARGUMENT
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+increase	increase	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+protein	protein	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+posttranslational	posttranslational	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+datum	datum	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+retain	retain	VBP	CW	VERB
+wild-type	wild-type	JJ	CW	ADJ
+allele	allele	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+express	express	JJ	CW	ADJ
+normally	normally	RB	ADV	CW
+suggest	suggest	VBP	CW	VERB
+have	have	VBP	CW	VERB
+normal	normal	JJ	CW	ADJ
+wild-type	wild-type	JJ	CW	ADJ
+conformation	conformation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+next	next	JJ	CW	ADJ
+author	author	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+rigorous	rigorous	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+function	function	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+protein	protein	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+test	test	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+amplification	amplification	NN	CW	NOUN	ARGUMENT
+mdm	mdm	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+
+sentence break
+
+protein	protein	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+regulate	regulate	VB	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+stimulate	stimulate	VBP	CW	VERB
+breakdown	breakdown	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+thereby	thereby	RB	ADV	FW
+form	form	VBP	CW	VERB
+negative	negative	JJ	CW	ADJ
+feedback	feedback	NN	CW	NOUN	ARGUMENT
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+level	level	NN	CW	NOUN	ARGUMENT
+low	low	JJ	CW	ADJ
+
+sentence break
+
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+therefore	therefore	RB	ADV	FW
+amplify	amplify	VB	CW	VERB
+mdm	mdm	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+gene	gene	NN	CW	NOUN	ARGUMENT
+means	mean	VBZ	CW	VERB
+inactivate	inactivate	VBP	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+
+sentence break
+
+however	however	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+find	find	VB	CW	VERB
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+trp	trp	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
++	+	CC	FW
+encoding error!
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+subsequently	subsequently	RB	ADV	CW
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+extent	extent	NN	CW	NOUN	ARGUMENT
+retain	retain	VBP	CW	VERB
+trp	trp	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+copy	copy	NN	CW	NOUN	ARGUMENT
+behave	behave	VBP	CW	VERB
+normally	normally	RB	ADV	CW
+
+sentence break
+
+irradiation	irradiation	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+
+sentence break
+
+dependent	dependent	JJ	CW	ADJ
+apoptosis	apoptosis	NN	CW	NOUN	ARGUMENT
+indeed	indeed	RB	ADV	CW
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+retain	retain	VB	CW	VERB
+wild-type	wild-type	JJ	CW	ADJ
+allele	allele	NN	CW	NOUN	ARGUMENT
+irradiation	irradiation	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+lead	lead	JJ	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+apoptosis	apoptosis	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+lose	lose	VBP	CW	VERB
+wild-type	wild-type	JJ	CW	ADJ
+allele	allele	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+not	not	RB	ADV	CW
+
+sentence break
+
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+protein	protein	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+know	know	VB	CW	VERB
+function	function	NN	CW	NOUN	ARGUMENT
+transcriptional	transcriptional	JJ	CW	ADJ
+regulator	regulator	NN	CW	NOUN	ARGUMENT
+up	up	IN	FW
+down	down	RB	ADV	CW
+regulate	regulate	VBP	CW	VERB
+target	target	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+response	response	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+form	form	NN	CW	NOUN	ARGUMENT
+cellular	cellular	JJ	CW	ADJ
+stress	stress	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+irradiation-induced	irradiation-induced	JJ	CW	ADJ
+dna	dna	NN	CW	NOUN	ARGUMENT
+damage	damage	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+author	author	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+
+sentence break
+
+upregulated	upregulate	VBN	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+cdkn	cdkn	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+encode	encode	VBP	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+21	21	CD	FW
+mdm	mdm	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+downregulated	downregulate	VBD	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+pcna	pcna	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+
+sentence break
+
+positive	positive	JJ	CW	ADJ
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+irradiation	irradiation	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+response	response	NN	CW	NOUN	ARGUMENT
+indicative	indicative	JJ	CW	ADJ
+normal	normal	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+function	function	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+furthermore	furthermore	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+show	show	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+protein	protein	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+bind	bind	VBP	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+
+sentence break
+
+binding	bind	VBG	CW	VERB
+dna	dna	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+vitro	vitro	NN	CW	NOUN	ARGUMENT
+setting	setting	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+know	know	VB	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+absence	absence	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+correlated	correlate	VBN	CW	VERB
+chromosomal	chromosomal	JJ	CW	ADJ
+instability	instability	NN	CW	NOUN	ARGUMENT
+venkatachalam	venkatachalam	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+use	use	NN	CW	NOUN	ARGUMENT
+comparative	comparative	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+hybridisation	hybridisation	NN	CW	NOUN	ARGUMENT
+compare	compare	VBP	CW	VERB
+feature	feature	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+
+sentence break
+
+negative	negative	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+
+sentence break
+
+positive	positive	JJ	CW	ADJ
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+5	5	CD	FW
+
+sentence break
+
+fold	fold	RB	ADV	FW
+greater	greater	JJR	CW	ADJ
+stability	stability	NN	CW	NOUN	ARGUMENT
+latter	latter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+short	short	JJ	CW	ADJ
+paper	paper	NN	CW	NOUN	ARGUMENT
+clearly	clearly	RB	ADV	CW
+show	show	VBP	CW	VERB
+least	least	JJS	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+trp	trp	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
++	+	CC	FW
+encoding error!
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+wild-type	wild-type	JJ	CW	ADJ
+allele	allele	NN	CW	NOUN	ARGUMENT
+trp	trp	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+be	be	VB	CW	VERB
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+retain	retain	VB	CW	VERB
+also	also	RB	ADV	CW
+appear	appear	VBP	CW	VERB
+function	function	NN	CW	NOUN	ARGUMENT
+normally	normally	RB	ADV	CW
+
+sentence break
+
+strongly	strongly	RB	ADV	CW
+suggest	suggest	VBP	CW	VERB
+decrease	decrease	NN	CW	NOUN	ARGUMENT
+dosage	dosage	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+be	be	VB	FW	aux_or_cop
+already	already	RB	ADV	CW
+sufficient	sufficient	JJ	CW	ADJ
+tumourigenesis	tumourigenesis	NN	CW	NOUN	ARGUMENT
+phenomenon	phenomenon	NN	CW	NOUN	ARGUMENT
+refer	refer	VBP	CW	VERB
+haploinsufficiency	haploinsufficiency	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+shortly	shortly	RB	ADV	CW
+before	before	IN	FW	SUBORDINATOR
+group	group	NN	CW	NOUN	ARGUMENT
+moshe	moshe	NN	CW	NOUN	ARGUMENT
+oren	oren	NN	CW	NOUN	ARGUMENT
+gottlieb	gottlieb	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1997	1997	CD	FW
+have	have	VBP	CW	VERB
+show	show	NN	CW	NOUN	ARGUMENT
+trp	trp	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
++	+	CC	FW
+encoding error!
+background	background	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+greater	greater	JJR	CW	ADJ
+50	50	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+reduction	reduction	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+activity	activity	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+
+sentence break
+
+responsive	responsive	JJ	CW	ADJ
+lacz	lacz	NN	CW	NOUN	ARGUMENT
+reporter	reporter	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+transgenic	transgenic	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+venkatachalam	venkatachalam	NN	CW	NOUN	ARGUMENT
+colleague	colleague	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+strong	strong	JJ	CW	ADJ
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+dependence	dependence	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+function	function	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+explain	explain	VB	CW	VERB
+fact	fact	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+function	function	NN	CW	NOUN	ARGUMENT
+tetramer	tetramer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+50	50	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+decrease	decrease	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+monomer	monomer	NN	CW	NOUN	ARGUMENT
+easily	easily	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+imagine	imagine	VB	CW	VERB
+result	result	NN	CW	NOUN	ARGUMENT
+greater	greater	JJR	CW	ADJ
+50	50	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+decrease	decrease	NN	CW	NOUN	ARGUMENT
+functional	functional	JJ	CW	ADJ
+tetramer	tetramer	NN	CW	NOUN	ARGUMENT
+turn	turn	NN	CW	NOUN	ARGUMENT
+increase	increase	VBP	CW	VERB
+chance	chance	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+cancerous	cancerous	JJ	CW	ADJ
+
+sentence break
+
+paper	paper	NN	CW	NOUN	ARGUMENT
+venkatachalam	venkatachalam	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+make	make	VB	CW	VERB
+realise	realise	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+remain	remain	VBP	CW	VERB
+critical	critical	JJ	CW	ADJ
+even	even	RB	ADV	CW
+long-established	long-established	JJ	CW	ADJ
+theory	theory	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+haploinsufficient	haploinsufficient	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+describe	describe	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+suppressor	suppressor	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+human	human	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+review	review	NN	CW	NOUN	ARGUMENT
+fodde	fodde	NN	CW	NOUN	ARGUMENT
+smit	smite	VBP	CW	VERB
+2002	2002	CD	FW
+
+sentence break
+
+instance	instance	NN	CW	NOUN	ARGUMENT
+recent	recent	JJ	CW	ADJ
+paper	paper	NN	CW	NOUN	ARGUMENT
+plo	plo	NN	CW	NOUN	ARGUMENT
+biology	biology	NN	CW	NOUN	ARGUMENT
+trotman	trotman	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+use	use	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+dosage	dosage	NN	CW	NOUN	ARGUMENT
+pten	pten	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+suppressor	suppressor	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+influence	influence	NN	CW	NOUN	ARGUMENT
+occurrence	occurrence	NN	CW	NOUN	ARGUMENT
+prostate	prostate	NN	CW	NOUN	ARGUMENT
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+further	further	RB	ADV	CW
+gene	gene	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+describe	describe	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+unexpected	unexpected	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+tumourigenic	tumourigenic	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+long-standing	long-standing	JJ	CW	ADJ
+debate	debate	NN	CW	NOUN	ARGUMENT
+literature	literature	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+role	role	NN	CW	NOUN	ARGUMENT
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+detail	detail	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+clear	clear	JJ	CW	ADJ
+haploinsufficient	haploinsufficient	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+suppressor	suppressor	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+greatly	greatly	RB	ADV	CW
+influence	influence	VBP	CW	VERB
+statistics	statistics	NNS	CW	NOUN	ARGUMENT
+discussion	discussion	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+base	base	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+time	time	NN	CW	NOUN	ARGUMENT
+microarray	microarray	NN	CW	NOUN	ARGUMENT
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+become	become	VBN	CW	VERB
+standard	standard	JJ	CW	ADJ
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+thousand	thousand	CD	FW
+change	change	NN	CW	NOUN	ARGUMENT
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+analysed	analyse	VBN	CW	VERB
+whole	whole	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+keep	keep	VB	CW	VERB
+mind	mind	NN	CW	NOUN	ARGUMENT
+correct	correct	JJ	CW	ADJ
+interpretation	interpretation	NN	CW	NOUN	ARGUMENT
+wealth	wealth	NN	CW	NOUN	ARGUMENT
+information	information	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+complicated	complicated	JJ	CW	ADJ
+widely	widely	RB	ADV	CW
+accept	accept	VB	CW	VERB
+model	model	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+believe	believe	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

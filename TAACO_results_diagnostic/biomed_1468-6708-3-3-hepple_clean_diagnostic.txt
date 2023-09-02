@@ -1,0 +1,1717 @@
+word	lemma	POS	CW\FW	other categories
+three	three	CD	FW
+publish	publish	VB	CW	VERB
+1	1	CD	FW
+2	2	CD	FW
+3	3	CD	FW
+one	one	CD	FW
+recently	recently	RB	ADV	CW
+present	present	JJ	CW	ADJ
+4	4	CD	FW
+randomized	randomize	VBN	CW	VERB
+placebo-controlled	placebo-controlled	JJ	CW	ADJ
+clinical	clinical	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+unequivocally	unequivocally	RB	ADV	FW
+demonstrate	demonstrate	VBP	CW	VERB
+3	3	CD	FW
+
+sentence break
+
+hydroxy	hydroxy	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+
+sentence break
+
+methylgluatryl	methylgluatryl	NN	CW	NOUN	ARGUMENT
+coenzyme	coenzyme	NN	CW	NOUN	ARGUMENT
+hmg	hmg	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+reductase	reductase	NN	CW	NOUN	ARGUMENT
+inhibitor	inhibitor	NN	CW	NOUN	ARGUMENT
+statin	statin	NN	CW	NOUN	ARGUMENT
+reduce	reduce	VB	CW	VERB
+morbidity	morbidity	NN	CW	NOUN	ARGUMENT
+mortality	mortality	NN	CW	NOUN	ARGUMENT
+associate	associate	NN	CW	NOUN	ARGUMENT
+coronary	coronary	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+trial	trial	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+compare	compare	VB	CW	VERB
+placebo	placebo	NN	CW	NOUN	ARGUMENT
+statin	statin	NN	CW	NOUN	ARGUMENT
+significantly	significantly	RB	ADV	CW
+reduce	reduce	VB	CW	VERB
+incidence	incidence	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+unstable	unstable	JJ	CW	ADJ
+angina	angina	NN	CW	NOUN	ARGUMENT
+percutaneous	percutaneous	JJ	CW	ADJ
+surgical	surgical	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+revascularization	revascularization	NN	CW	NOUN	ARGUMENT
+stroke	stroke	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+stable	stable	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+patient	patient	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+experience	experience	NN	CW	NOUN	ARGUMENT
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+six	six	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+enrollment	enrollment	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+exclude	exclude	VBP	CW	VERB
+trial	trial	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+assess	assess	VB	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+lipid-lowering	lipid-lowering	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+adverse	adverse	JJ	CW	ADJ
+cardiovascular	cardiovascular	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+recently	recently	RB	ADV	CW
+unstable	unstable	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lipid-lowering	lipid-lowering	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+incremental	incremental	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+initiate	initiate	NN	CW	NOUN	ARGUMENT
+immediately	immediately	RB	ADV	CW
+follow	follow	VB	CW	VERB
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+issue	issue	NN	CW	NOUN	ARGUMENT
+risk	risk	NN	CW	NOUN	ARGUMENT
+recurrent	recurrent	JJ	CW	ADJ
+adverse	adverse	JJ	CW	ADJ
+cardiac	cardiac	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+much	much	RB	ADV	CW
+greater	greater	JJR	CW	ADJ
+patient	patient	NN	CW	NOUN	ARGUMENT
+unstable	unstable	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+stable	stable	JJ	CW	ADJ
+setting	setting	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+myocardial	myocardial	JJ	CW	ADJ
+ischemium	ischemium	NN	CW	NOUN	ARGUMENT
+reduction	reduction	NN	CW	NOUN	ARGUMENT
+aggressive	aggressive	JJ	CW	ADJ
+cholesterol	cholesterol	NN	CW	NOUN	ARGUMENT
+lowering	lower	VBG	CW	VERB
+miracl	miracl	NN	CW	NOUN	ARGUMENT
+trial	trial	NN	CW	NOUN	ARGUMENT
+set	set	VBD	CW	VERB
+answer	answer	NN	CW	NOUN	ARGUMENT
+question	question	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+miracl	miracl	NN	CW	NOUN	ARGUMENT
+enroll	enroll	VBP	CW	VERB
+3	3	CD	FW
+086	086	CD	FW
+patient	patient	NN	CW	NOUN	ARGUMENT
+24	24	CD	FW
+
+sentence break
+
+96	96	CD	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+mean	mean	NN	CW	NOUN	ARGUMENT
+63	63	CD	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+admission	admission	NN	CW	NOUN	ARGUMENT
+unstable	unstable	JJ	CW	ADJ
+angina	angina	NN	CW	NOUN	ARGUMENT
+non	non	JJ	CW	ADJ
+wave	wave	NN	CW	NOUN	ARGUMENT
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+randomized	randomize	VBD	CW	VERB
+16	16	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+atorvastatin	atorvastatin	NN	CW	NOUN	ARGUMENT
+80	80	CD	FW
+mg	mg	NN	CW	NOUN	ARGUMENT
+placebo	placebo	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+daily	daily	JJ	CW	ADJ
+5	5	CD	FW
+
+sentence break
+
+major	major	JJ	CW	ADJ
+exclusion	exclusion	NN	CW	NOUN	ARGUMENT
+criterion	criterion	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+
+sentence break
+
+total	total	JJ	CW	ADJ
+cholesterol	cholesterol	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+greater	greater	JJR	CW	ADJ
+270	270	CD	FW
+mg	mg	NN	CW	NOUN	ARGUMENT
+dl	dl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+wave	wave	NN	CW	NOUN	ARGUMENT
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+admission	admission	NN	CW	NOUN	ARGUMENT
+previous	previous	JJ	CW	ADJ
+month	month	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+coronary	coronary	JJ	CW	ADJ
+revascularization	revascularization	NN	CW	NOUN	ARGUMENT
+month	month	NN	CW	NOUN	ARGUMENT
+admission	admission	NN	CW	NOUN	ARGUMENT
+index	index	NN	CW	NOUN	ARGUMENT
+hospitalization	hospitalization	NN	CW	NOUN	ARGUMENT
+anticipate	anticipate	VBP	CW	VERB
+follow	follow	VB	CW	VERB
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+discharge	discharge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+primary	primary	JJ	CW	ADJ
+efficacy	efficacy	NN	CW	NOUN	ARGUMENT
+endpoint	endpoint	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+composite	composite	JJ	CW	ADJ
+death	death	NN	CW	NOUN	ARGUMENT
+non-fatal	non-fatal	JJ	CW	ADJ
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+resuscitated	resuscitate	VBD	CW	VERB
+sudden	sudden	JJ	CW	ADJ
+cardiac	cardiac	JJ	CW	ADJ
+death	death	NN	CW	NOUN	ARGUMENT
+emergent	emergent	NN	CW	NOUN	ARGUMENT
+rehospitalization	rehospitalization	NN	CW	NOUN	ARGUMENT
+worsen	worsen	VBP	CW	VERB
+symptomatic	symptomatic	JJ	CW	ADJ
+myocardial	myocardial	JJ	CW	ADJ
+ischemium	ischemium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+secondary	secondary	JJ	CW	ADJ
+endpoint	endpoint	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+stroke	stroke	NN	CW	NOUN	ARGUMENT
+worsen	worsen	VBP	CW	VERB
+heart	heart	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+coronary	coronary	JJ	CW	ADJ
+revascularization	revascularization	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+lipid	lipid	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+average	average	JJ	CW	ADJ
+patient	patient	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+65	65	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+approximately	approximately	RB	ADV	CW
+65	65	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+man	man	NN	CW	NOUN	ARGUMENT
+86	86	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+caucasian	caucasian	JJ	CW	ADJ
+mean	mean	NN	CW	NOUN	ARGUMENT
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+low	low	JJ	CW	ADJ
+density	density	NN	CW	NOUN	ARGUMENT
+lipoprotein	lipoprotein	NN	CW	NOUN	ARGUMENT
+ldl	ldl	NN	CW	NOUN	ARGUMENT
+cholesterol	cholesterol	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+124	124	CD	FW
+mg	mg	NN	CW	NOUN	ARGUMENT
+dl	dl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+atorvastatin	atorvastatin	NN	CW	NOUN	ARGUMENT
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+associate	associate	JJ	CW	ADJ
+2	2	CD	FW
+6	6	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+absolute	absolute	JJ	CW	ADJ
+reduction	reduction	NN	CW	NOUN	ARGUMENT
+risk	risk	NN	CW	NOUN	ARGUMENT
+primary	primary	JJ	CW	ADJ
+endpoint	endpoint	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+8	8	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+v	v	LS	FW
+17	17	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rr	rr	NN	CW	NOUN	ARGUMENT
+relative	relative	JJ	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+rr	rr	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+84	84	CD	FW
+95	95	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+interval	interval	NN	CW	NOUN	ARGUMENT
+cus	cus	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+70	70	CD	FW
+
+sentence break
+
+1	1	CD	FW
+00	00	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+048	048	CD	FW
+
+sentence break
+
+reduction	reduction	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+primarily	primarily	RB	ADV	FW
+drive	drive	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+2	2	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+absolute	absolute	JJ	CW	ADJ
+reduction	reduction	NN	CW	NOUN	ARGUMENT
+incidence	incidence	NN	CW	NOUN	ARGUMENT
+emergent	emergent	NN	CW	NOUN	ARGUMENT
+rehospitalization	rehospitalization	NN	CW	NOUN	ARGUMENT
+symptomatic	symptomatic	JJ	CW	ADJ
+myocardial	myocardial	JJ	CW	ADJ
+ischemium	ischemium	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+v	v	LS	FW
+8	8	CD	FW
+4	4	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rr	rr	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+74	74	CD	FW
+95	95	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+cus	cus	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+57	57	CD	FW
+
+sentence break
+
+0	0	CD	FW
+95	95	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+02	02	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+risk	risk	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+nonfatal	nonfatal	JJ	CW	ADJ
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+resuscitated	resuscitate	VBD	CW	VERB
+sudden	sudden	JJ	CW	ADJ
+cardiac	cardiac	JJ	CW	ADJ
+death	death	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+two	two	CD	FW
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+significant	significant	JJ	CW	ADJ
+difference	difference	NN	CW	NOUN	ARGUMENT
+incidence	incidence	NN	CW	NOUN	ARGUMENT
+worsen	worsen	VBP	CW	VERB
+heart	heart	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+coronary	coronary	JJ	CW	ADJ
+revascularization	revascularization	NN	CW	NOUN	ARGUMENT
+atorvastatin	atorvastatin	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+reduce	reduce	VB	CW	VERB
+incidence	incidence	NN	CW	NOUN	ARGUMENT
+fatal	fatal	JJ	CW	ADJ
+non-fatal	non-fatal	JJ	CW	ADJ
+stroke	stroke	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+8	8	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+8	8	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+v.	v.	CC	FW
+1	1	CD	FW
+6	6	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rr	rr	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+50	50	CD	FW
+95	95	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+cus	cus	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+26	26	CD	FW
+
+sentence break
+
+0	0	CD	FW
+99	99	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+045	045	CD	FW
+
+sentence break
+
+atorvastatin	atorvastatin	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+significantly	significantly	RB	ADV	CW
+reduce	reduce	VB	CW	VERB
+total	total	JJ	CW	ADJ
+ldl	ldl	NN	CW	NOUN	ARGUMENT
+cholesterol	cholesterol	NN	CW	NOUN	ARGUMENT
+triglyceride	triglyceride	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+significantly	significantly	RB	ADV	CW
+change	change	VB	CW	VERB
+high	high	JJ	CW	ADJ
+density	density	NN	CW	NOUN	ARGUMENT
+lipoprotein	lipoprotein	NN	CW	NOUN	ARGUMENT
+hdl	hdl	NN	CW	NOUN	ARGUMENT
+cholesterol	cholesterol	NN	CW	NOUN	ARGUMENT
+16	16	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+16	16	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+adjust	adjust	VBP	CW	VERB
+mean	mean	JJ	CW	ADJ
+ldl	ldl	NN	CW	NOUN	ARGUMENT
+cholesterol	cholesterol	NN	CW	NOUN	ARGUMENT
+decrease	decrease	NN	CW	NOUN	ARGUMENT
+72	72	CD	FW
+mg	mg	NN	CW	NOUN	ARGUMENT
+dl	dl	NN	CW	NOUN	ARGUMENT
+atorvastatin-treated	atorvastatin-treated	JJ	CW	ADJ
+patient	patient	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+135	135	CD	FW
+mg	mg	NN	CW	NOUN	ARGUMENT
+dl	dl	NN	CW	NOUN	ARGUMENT
+placebo-treated	placebo-treated	JJ	CW	ADJ
+patient	patient	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+serious	serious	JJ	CW	ADJ
+adverse	adverse	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+result	result	NN	CW	NOUN	ARGUMENT
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+atorvastatin	atorvastatin	NN	CW	NOUN	ARGUMENT
+reversible	reversible	JJ	CW	ADJ
+liver	liver	NN	CW	NOUN	ARGUMENT
+transaminase	transaminase	NN	CW	NOUN	ARGUMENT
+elevation	elevation	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+three	three	CD	FW
+time	time	NN	CW	NOUN	ARGUMENT
+upper	upper	JJ	CW	ADJ
+limit	limit	NN	CW	NOUN	ARGUMENT
+normal	normal	JJ	CW	ADJ
+occur	occur	VBP	CW	VERB
+2	2	CD	FW
+5	5	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+atorvastatin-treated	atorvastatin-treated	JJ	CW	ADJ
+0	0	CD	FW
+6	6	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+placebo-treated	placebo-treated	JJ	CW	ADJ
+patient	patient	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+<	<	JJR	CW	ADJ
+0	0	CD	FW
+001	001	CD	FW
+
+sentence break
+
+efficacy	efficacy	NN	CW	NOUN	ARGUMENT
+safety	safety	NN	CW	NOUN	ARGUMENT
+finding	finding	NN	CW	NOUN	ARGUMENT
+miracl	miracl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unique	unique	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+reason	reason	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lipid-lowering	lipid-lowering	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+associate	associate	JJ	CW	ADJ
+significantly	significantly	RB	ADV	CW
+lower	lower	JJR	CW	ADJ
+mortality	mortality	NN	CW	NOUN	ARGUMENT
+initiate	initiate	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+large	large	JJ	CW	ADJ
+observational	observational	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+7	7	CD	FW
+miracl	miracl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+first	first	RB	ADV	CW
+randomized	randomize	VBN	CW	VERB
+trial	trial	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+statin	statin	NN	CW	NOUN	ARGUMENT
+confer	confer	VB	CW	VERB
+clinical	clinical	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+set	set	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+first	first	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+identify	identify	VBP	CW	VERB
+short-term	short-term	JJ	CW	ADJ
+ie	ie	FW	FW
+16	16	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+clinical	clinical	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+statin	statin	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+previous	previous	JJ	CW	ADJ
+secondary	secondary	JJ	CW	ADJ
+prevention	prevention	NN	CW	NOUN	ARGUMENT
+trial	trial	NN	CW	NOUN	ARGUMENT
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+statin	statin	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+evident	evident	JJ	CW	ADJ
+one	one	CD	FW
+two	two	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+clinical	clinical	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+safety	safety	NN	CW	NOUN	ARGUMENT
+endpoint	endpoint	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+consider	consider	VB	CW	VERB
+less	less	JJR	CW	ADJ
+glamorous	glamorous	JJ	CW	ADJ
+miracl	miracl	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+high-dose	high-dose	JJ	CW	ADJ
+statin	statin	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+associate	associate	JJ	CW	ADJ
+serious	serious	JJ	CW	ADJ
+harm	harm	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+unstable	unstable	JJ	CW	ADJ
+setting	setting	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+earlier	earlier	JJR	CW	ADJ
+secondary	secondary	JJ	CW	ADJ
+prevention	prevention	NN	CW	NOUN	ARGUMENT
+statin	statin	NN	CW	NOUN	ARGUMENT
+trial	trial	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+exclude	exclude	VBP	CW	VERB
+patient	patient	NN	CW	NOUN	ARGUMENT
+unstable	unstable	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+largely	largely	RB	ADV	CW
+theoretical	theoretical	JJ	CW	ADJ
+concern	concern	NN	CW	NOUN	ARGUMENT
+statin-mediated	statin-mediated	JJ	CW	ADJ
+reduction	reduction	NN	CW	NOUN	ARGUMENT
+vascular	vascular	JJ	CW	ADJ
+smooth	smooth	NN	CW	NOUN	ARGUMENT
+muscle	muscle	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+proliferation	proliferation	NN	CW	NOUN	ARGUMENT
+destabilize	destabilize	VBP	CW	VERB
+heal	heal	VB	CW	VERB
+plaque	plaque	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+harm	harm	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+aggressive	aggressive	JJ	CW	ADJ
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+strategy	strategy	NN	CW	NOUN	ARGUMENT
+allay	allay	VB	CW	VERB
+theoretical	theoretical	JJ	CW	ADJ
+fear	fear	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+remove	remove	VB	CW	VERB
+major	major	JJ	CW	ADJ
+obstacle	obstacle	NN	CW	NOUN	ARGUMENT
+inpatient	inpatient	JJ	CW	ADJ
+initiation	initiation	NN	CW	NOUN	ARGUMENT
+lipid-lowing	lipid-lowing	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+coronary	coronary	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+unique	unique	JJ	CW	ADJ
+important	important	JJ	CW	ADJ
+finding	finding	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+number	number	NN	CW	NOUN	ARGUMENT
+inherent	inherent	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+limitation	limitation	NN	CW	NOUN	ARGUMENT
+worth	worth	JJ	CW	ADJ
+note	note	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+foremost	foremost	JJ	CW	ADJ
+possibility	possibility	NN	CW	NOUN	ARGUMENT
+null	null	JJ	CW	ADJ
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+effect	effect	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+ignore	ignore	VB	CW	VERB
+give	give	VB	CW	VERB
+wide	wide	JJ	CW	ADJ
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+interval	interval	NN	CW	NOUN	ARGUMENT
+hence	hence	RB	ADV	FW
+marginally	marginally	RB	ADV	CW
+significant	significant	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+value	value	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+048	048	CD	FW
+effect	effect	NN	CW	NOUN	ARGUMENT
+atorvastatin	atorvastatin	NN	CW	NOUN	ARGUMENT
+primary	primary	JJ	CW	ADJ
+efficacy	efficacy	NN	CW	NOUN	ARGUMENT
+endpoint	endpoint	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+furthermore	furthermore	RB	ADV	FW
+number	number	NN	CW	NOUN	ARGUMENT
+patient	patient	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+small	small	JJ	CW	ADJ
+adverse	adverse	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+occur	occur	VBP	CW	VERB
+treat	treat	NN	CW	NOUN	ARGUMENT
+atorvastatin	atorvastatin	NN	CW	NOUN	ARGUMENT
+n	n	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+placebo	placebo	NN	CW	NOUN	ARGUMENT
+n	n	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+overall	overall	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+result	result	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+neutral	neutral	JJ	CW	ADJ
+rather	rather	RB	ADV	FW
+positive	positive	JJ	CW	ADJ
+
+sentence break
+
+type	type	NN	CW	NOUN	ARGUMENT
+event	event	NN	CW	NOUN	ARGUMENT
+prevent	prevent	VBP	CW	VERB
+miracl	miracl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+worth	worth	JJ	CW	ADJ
+note	note	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rehospitalization	rehospitalization	NN	CW	NOUN	ARGUMENT
+recurrent	recurrent	JJ	CW	ADJ
+myocardial	myocardial	JJ	CW	ADJ
+ischemium	ischemium	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+determinant	determinant	NN	CW	NOUN	ARGUMENT
+quality	quality	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+care	care	NN	CW	NOUN	ARGUMENT
+cost	cost	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+important	important	JJ	CW	ADJ
+endpoint	endpoint	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+significantly	significantly	RB	ADV	CW
+affect	affect	VB	CW	VERB
+eg	eg	FW	FW
+death	death	NN	CW	NOUN	ARGUMENT
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+resuscitated	resuscitate	VBD	CW	VERB
+sudden	sudden	JJ	CW	ADJ
+cardiac	cardiac	JJ	CW	ADJ
+death	death	NN	CW	NOUN	ARGUMENT
+worsen	worsen	VBP	CW	VERB
+heart	heart	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+coronary	coronary	JJ	CW	ADJ
+revascularization	revascularization	NN	CW	NOUN	ARGUMENT
+etc.	etc.	FW	FW
+question	question	NN	CW	NOUN	ARGUMENT
+statin	statin	NN	CW	NOUN	ARGUMENT
+prevent	prevent	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+adverse	adverse	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+initiate	initiate	NN	CW	NOUN	ARGUMENT
+soon	soon	RB	ADV	CW
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+require	require	VBP	CW	VERB
+further	further	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+short	short	JJ	CW	ADJ
+duration	duration	NN	CW	NOUN	ARGUMENT
+follow-up	follow-up	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+particularly	particularly	RB	ADV	CW
+troubling	troubling	JJ	CW	ADJ
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+impressive	impressive	JJ	CW	ADJ
+clinical	clinical	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+realize	realize	VB	CW	VERB
+only	only	RB	ADV	CW
+16	16	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+statin	statin	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+risk	risk	NN	CW	NOUN	ARGUMENT
+adverse	adverse	JJ	CW	ADJ
+clinical	clinical	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+persist	persist	VBP	CW	VERB
+year	year	NN	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+longer	longer	RB	ADV	CW
+clinical	clinical	JJ	CW	ADJ
+follow	follow	VB	CW	VERB
+up	up	RP	FW
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+possible	possible	JJ	CW	ADJ
+assess	assess	VB	CW	VERB
+intermediate-term	intermediate-term	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+atorvastatin	atorvastatin	NN	CW	NOUN	ARGUMENT
+hard	hard	JJ	CW	ADJ
+endpoint	endpoint	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+death	death	NN	CW	NOUN	ARGUMENT
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+critical	critical	JJ	CW	ADJ
+light	light	JJ	CW	ADJ
+lack	lack	NN	CW	NOUN	ARGUMENT
+effect	effect	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+endpoint	endpoint	NN	CW	NOUN	ARGUMENT
+16	16	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+unfortunately	unfortunately	RB	ADV	CW
+late	late	JJ	CW	ADJ
+clinical	clinical	JJ	CW	ADJ
+follow	follow	VB	CW	VERB
+up	up	RP	FW
+be	be	VB	FW	aux_or_cop
+plan	plan	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+number	number	NN	CW	NOUN	ARGUMENT
+limitation	limitation	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+hamper	hamper	VBP	CW	VERB
+study	study	NN	CW	NOUN	ARGUMENT
+generalizability	generalizability	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+patient	patient	NN	CW	NOUN	ARGUMENT
+undergo	undergo	VBP	CW	VERB
+recent	recent	JJ	CW	ADJ
+revascularization	revascularization	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+plan	plan	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+exclude	exclude	VB	CW	VERB
+
+sentence break
+
+specifically	specifically	RB	ADV	FW
+patient	patient	NN	CW	NOUN	ARGUMENT
+undergo	undergo	VBP	CW	VERB
+percutaneous	percutaneous	JJ	CW	ADJ
+transluminal	transluminal	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+angioplasty	angioplasty	NN	CW	NOUN	ARGUMENT
+ptca	ptca	NN	CW	NOUN	ARGUMENT
+coronary	coronary	JJ	CW	ADJ
+artery	artery	NN	CW	NOUN	ARGUMENT
+bypass	bypass	NN	CW	NOUN	ARGUMENT
+graft	graft	NN	CW	NOUN	ARGUMENT
+cabg	cabg	NN	CW	NOUN	ARGUMENT
+surgery	surgery	NN	CW	NOUN	ARGUMENT
+previous	previous	JJ	CW	ADJ
+three	three	CD	FW
+six	six	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+respectively	respectively	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+eligible	eligible	JJ	CW	ADJ
+inclusion	inclusion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+investigator	investigator	NN	CW	NOUN	ARGUMENT
+reason	reason	NN	CW	NOUN	ARGUMENT
+recurrent	recurrent	JJ	CW	ADJ
+ischemic	ischemic	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+likely	likely	JJ	CW	ADJ
+result	result	NN	CW	NOUN	ARGUMENT
+restenosis	restenosis	NN	CW	NOUN	ARGUMENT
+bypass	bypass	NN	CW	NOUN	ARGUMENT
+graft	graft	NN	CW	NOUN	ARGUMENT
+closure	closure	NN	CW	NOUN	ARGUMENT
+statin	statin	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+less	less	RBR	ADV	CW
+likely	likely	JJ	CW	ADJ
+affect	affect	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+
+sentence break
+
+nevertheless	nevertheless	RB	ADV	FW
+number	number	NN	CW	NOUN	ARGUMENT
+trial	trial	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+establish	establish	VB	CW	VERB
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+statin	statin	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+revascularization	revascularization	NN	CW	NOUN	ARGUMENT
+9	9	CD	FW
+10	10	CD	FW
+11	11	CD	FW
+
+sentence break
+
+furthermore	furthermore	RB	ADV	FW
+number	number	NN	CW	NOUN	ARGUMENT
+recent	recent	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+suggest	suggest	VBP	CW	VERB
+higher	higher	JJR	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+patient	patient	NN	CW	NOUN	ARGUMENT
+non	non	JJ	CW	ADJ
+st	st	NN	CW	NOUN	ARGUMENT
+elevation	elevation	NN	CW	NOUN	ARGUMENT
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+fair	fair	JJ	CW	ADJ
+better	better	RBR	ADV	CW
+early	early	JJ	CW	ADJ
+invasive	invasive	JJ	CW	ADJ
+strategy	strategy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+apply	apply	VB	CW	VERB
+12	12	CD	FW
+13	13	CD	FW
+14	14	CD	FW
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+uncommon	uncommon	JJ	CW	ADJ
+patient	patient	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+treat	treat	VB	CW	VERB
+fashion	fashion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+second	second	JJ	CW	ADJ
+patient	patient	NN	CW	NOUN	ARGUMENT
+wave	wave	NN	CW	NOUN	ARGUMENT
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+eligible	eligible	JJ	CW	ADJ
+enrollment	enrollment	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+feel	feel	VB	CW	VERB
+statin	statin	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+influence	influence	VB	CW	VERB
+development	development	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+prognostic	prognostic	JJ	CW	ADJ
+determinant	determinant	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+leave	leave	NN	CW	NOUN	ARGUMENT
+ventricular	ventricular	JJ	CW	ADJ
+systolic	systolic	JJ	CW	ADJ
+dysfunction	dysfunction	NN	CW	NOUN	ARGUMENT
+ventricular	ventricular	JJ	CW	ADJ
+arrhythmia	arrhythmium	NN	CW	NOUN	ARGUMENT
+mechanical	mechanical	JJ	CW	ADJ
+complication	complication	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+
+sentence break
+
+nevertheless	nevertheless	RB	ADV	FW
+patient	patient	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+electrocardiographic	electrocardiographic	JJ	CW	ADJ
+wave	wave	NN	CW	NOUN	ARGUMENT
+represent	represent	VBP	CW	VERB
+substantial	substantial	JJ	CW	ADJ
+proportion	proportion	NN	CW	NOUN	ARGUMENT
+patient	patient	NN	CW	NOUN	ARGUMENT
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+short-term	short-term	JJ	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+discharge	discharge	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+lower	lower	JJR	CW	ADJ
+relative	relative	JJ	CW	ADJ
+non	non	JJ	CW	ADJ
+wave	wave	NN	CW	NOUN	ARGUMENT
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+much	much	RB	ADV	CW
+greater	greater	JJR	CW	ADJ
+patient	patient	NN	CW	NOUN	ARGUMENT
+stable	stable	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+need	need	NN	CW	NOUN	ARGUMENT
+secondary	secondary	JJ	CW	ADJ
+prevention	prevention	NN	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+equally	equally	RB	ADV	CW
+important	important	JJ	CW	ADJ
+
+sentence break
+
+third	third	JJ	CW	ADJ
+high	high	JJ	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+nature	nature	NN	CW	NOUN	ARGUMENT
+enroll	enroll	VBP	CW	VERB
+patient	patient	NN	CW	NOUN	ARGUMENT
+ie	ie	FW	FW
+electrocardiogram	electrocardiogram	NN	CW	NOUN	ARGUMENT
+ecg	ecg	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+objective	objective	JJ	CW	ADJ
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+ischemium	ischemium	NN	CW	NOUN	ARGUMENT
+rate	rate	NN	CW	NOUN	ARGUMENT
+platelet	platelet	NN	CW	NOUN	ARGUMENT
+glycoprotein	glycoprotein	NN	CW	NOUN	ARGUMENT
+iib	iib	NN	CW	NOUN	ARGUMENT
+iium	iium	NN	CW	NOUN	ARGUMENT
+inhibitor	inhibitor	NN	CW	NOUN	ARGUMENT
+utilization	utilization	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+quite	quite	RB	ADV	FW
+low	low	JJ	CW	ADJ
+1	1	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+such	such	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+be	be	VB	CW	VERB
+cost	cost	VBN	CW	VERB
+effective	effective	JJ	CW	ADJ
+15	15	CD	FW
+16	16	CD	FW
+especially	especially	RB	ADV	FW
+high	high	JJ	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+patient	patient	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+recommend	recommend	VB	CW	VERB
+current	current	JJ	CW	ADJ
+american	american	JJ	CW	ADJ
+college	college	NN	CW	NOUN	ARGUMENT
+cardiology	cardiology	NN	CW	NOUN	ARGUMENT
+american	american	JJ	CW	ADJ
+heart	heart	NN	CW	NOUN	ARGUMENT
+association	association	NN	CW	NOUN	ARGUMENT
+guideline	guideline	NN	CW	NOUN	ARGUMENT
+17	17	CD	FW
+
+sentence break
+
+fourth	fourth	JJ	CW	ADJ
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+ascertain	ascertain	VBP	CW	VERB
+finding	finding	NN	CW	NOUN	ARGUMENT
+apply	apply	VB	CW	VERB
+patient	patient	NN	CW	NOUN	ARGUMENT
+recent	recent	JJ	CW	ADJ
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+regardless	regardless	RB	ADV	FW
+baseline	baseline	JJ	CW	ADJ
+lipid	lipid	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+small	small	JJ	CW	ADJ
+difference	difference	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+primary	primary	JJ	CW	ADJ
+endpoint	endpoint	NN	CW	NOUN	ARGUMENT
+event	event	NN	CW	NOUN	ARGUMENT
+atorvastatin	atorvastatin	NN	CW	NOUN	ARGUMENT
+placebo	placebo	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+difficult	difficult	JJ	CW	ADJ
+dissect	dissect	VBP	CW	VERB
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+lipid	lipid	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+effect	effect	NN	CW	NOUN	ARGUMENT
+further	further	RB	ADV	CW
+
+sentence break
+
+consequently	consequently	RB	ADV	CW
+remain	remain	VBP	CW	VERB
+uncertain	uncertain	JJ	CW	ADJ
+extrapolate	extrapolate	JJ	CW	ADJ
+miracl	miracl	NN	CW	NOUN	ARGUMENT
+trial	trial	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+undergo	undergo	VBP	CW	VERB
+coronary	coronary	JJ	CW	ADJ
+revascularization	revascularization	NN	CW	NOUN	ARGUMENT
+shortly	shortly	RB	ADV	CW
+coronary	coronary	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+wave	wave	NN	CW	NOUN	ARGUMENT
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+treat	treat	VB	CW	VERB
+platelet	platelet	NN	CW	NOUN	ARGUMENT
+glycoprotein	glycoprotein	NN	CW	NOUN	ARGUMENT
+iib	iib	NN	CW	NOUN	ARGUMENT
+iium	iium	NN	CW	NOUN	ARGUMENT
+inhibitor	inhibitor	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+relatively	relatively	RB	ADV	CW
+low	low	JJ	CW	ADJ
+admission	admission	NN	CW	NOUN	ARGUMENT
+ldl	ldl	NN	CW	NOUN	ARGUMENT
+cholesterol	cholesterol	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+miracl	miracl	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+aforementioned	aforementioned	JJ	CW	ADJ
+cohort	cohort	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+lipid-lowering	lipid-lowering	JJ	CW	ADJ
+agent	agent	NN	CW	NOUN	ARGUMENT
+exert	exert	VBP	CW	VERB
+short-term	short-term	JJ	CW	ADJ
+clinical	clinical	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+initiate	initiate	NN	CW	NOUN	ARGUMENT
+soon	soon	RB	ADV	CW
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+open	open	JJ	CW	ADJ
+question	question	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+finding	find	VBG	CW	VERB
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+confirm	confirm	VB	CW	VERB
+further	further	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+make	make	VBP	CW	VERB
+compelling	compelling	JJ	CW	ADJ
+argument	argument	NN	CW	NOUN	ARGUMENT
+lipid-lowering	lipid-lowering	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+bar	bar	NN	CW	NOUN	ARGUMENT
+contraindication	contraindication	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+initiate	initiate	VB	CW	VERB
+early	early	JJ	CW	ADJ
+universally	universally	RB	ADV	CW
+patient	patient	JJ	CW	ADJ
+present	present	JJ	CW	ADJ
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+long-term	long-term	JJ	CW	ADJ
+safety	safety	NN	CW	NOUN	ARGUMENT
+effectiveness	effectiveness	NN	CW	NOUN	ARGUMENT
+statin	statin	NN	CW	NOUN	ARGUMENT
+secondary	secondary	JJ	CW	ADJ
+prevention	prevention	NN	CW	NOUN	ARGUMENT
+stable	stable	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+well-established	well-established	JJ	CW	ADJ
+1	1	CD	FW
+2	2	CD	FW
+3	3	CD	FW
+
+sentence break
+
+second	second	JJ	CW	ADJ
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+miracl	miracl	NN	CW	NOUN	ARGUMENT
+agent	agent	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+safe	safe	JJ	CW	ADJ
+initiate	initiate	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+hospitalization	hospitalization	NN	CW	NOUN	ARGUMENT
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+third	third	JJ	CW	ADJ
+in-hospital	in-hospital	JJ	CW	ADJ
+initiation	initiation	NN	CW	NOUN	ARGUMENT
+lipid-lowering	lipid-lowering	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+promote	promote	VBP	CW	VERB
+greater	greater	JJR	CW	ADJ
+long-term	long-term	JJ	CW	ADJ
+utilization	utilization	NN	CW	NOUN	ARGUMENT
+agent	agent	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+19	19	CD	FW
+20	20	CD	FW
+21	21	CD	FW
+
+sentence break
+
+finally	finally	RB	ADV	CW
+lipid	lipid	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unreliable	unreliable	JJ	CW	ADJ
+setting	setting	NN	CW	NOUN	ARGUMENT
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+except	except	IN	FW
+total	total	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hdl	hdl	NN	CW	NOUN	ARGUMENT
+ldl	ldl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hdl	hdl	NN	CW	NOUN	ARGUMENT
+cholesterol	cholesterol	NN	CW	NOUN	ARGUMENT
+ratio	ratio	NN	CW	NOUN	ARGUMENT
+22	22	CD	FW
+overwhelming	overwhelming	JJ	CW	ADJ
+majority	majority	NN	CW	NOUN	ARGUMENT
+patient	patient	NN	CW	NOUN	ARGUMENT
+coronary	coronary	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+ultimately	ultimately	RB	ADV	CW
+require	require	VBP	CW	VERB
+pharmacologic	pharmacologic	JJ	CW	ADJ
+non-pharmacologic	non-pharmacologic	JJ	CW	ADJ
+lipid-lowering	lipid-lowering	JJ	CW	ADJ
+intervention	intervention	NN	CW	NOUN	ARGUMENT
+attain	attain	VB	CW	VERB
+recommend	recommend	VB	CW	VERB
+cholesterol	cholesterol	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+23	23	CD	FW
+24	24	CD	FW
+25	25	CD	FW
+
+sentence break
+
+newer	newer	JJR	CW	ADJ
+guideline	guideline	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+even	even	RB	ADV	CW
+more	more	RBR	ADV	CW
+stringent	stringent	JJ	CW	ADJ
+26	26	CD	FW
+
+sentence break
+
+furthermore	furthermore	RB	ADV	FW
+datum	datum	NNP	CW	NOUN	ARGUMENT
+recently	recently	RB	ADV	CW
+present	present	JJ	CW	ADJ
+heart	heart	NN	CW	NOUN	ARGUMENT
+protection	protection	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+clinical	clinical	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+accrue	accrue	VBP	CW	VERB
+independent	independent	JJ	CW	ADJ
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+cholesterol	cholesterol	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+
+sentence break
+
+thus	thus	RB	ADV	FW
+withhold	withhold	VB	CW	VERB
+lipid-lowering	lipid-lowering	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+patient	patient	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+accept	accept	VB	CW	VERB
+status	status	NN	CW	NOUN	ARGUMENT
+quo	quo	NN	CW	NOUN	ARGUMENT
+date	date	NN	CW	NOUN	ARGUMENT
+effort	effort	NN	CW	NOUN	ARGUMENT
+cholesterol	cholesterol	NN	CW	NOUN	ARGUMENT
+lower	lower	JJR	CW	ADJ
+secondary	secondary	JJ	CW	ADJ
+prevention	prevention	NN	CW	NOUN	ARGUMENT
+set	set	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+dismal	dismal	JJ	CW	ADJ
+27	27	CD	FW
+28	28	CD	FW
+
+sentence break
+
+ascertainment	ascertainment	NN	CW	NOUN	ARGUMENT
+quantification	quantification	NN	CW	NOUN	ARGUMENT
+incremental	incremental	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+confer	confer	VB	CW	VERB
+statin	statin	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+initiate	initiate	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+require	require	VBP	CW	VERB
+confirmation	confirmation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+currently	currently	RB	ADV	CW
+only	only	RB	ADV	CW
+one	one	CD	FW
+ongoing	ongoing	JJ	CW	ADJ
+randomized	randomize	VBN	CW	VERB
+placebo-controlled	placebo-controlled	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+delay	delay	NN	CW	NOUN	ARGUMENT
+statin	statin	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+setting	set	VBG	CW	VERB
+2	2	CD	FW
+
+sentence break
+
+aggrastat	aggrastat	NN	CW	NOUN	ARGUMENT
+zocor	zocor	NN	CW	NOUN	ARGUMENT
+merck	merck	NN	CW	NOUN	ARGUMENT
+29	29	CD	FW
+
+sentence break
+
+a	a	DT	FW
+2	2	CD	FW
+
+sentence break
+
+study	study	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+evaluate	evaluate	VB	CW	VERB
+efficacy	efficacy	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+simvastatin	simvastatin	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+500	500	CD	FW
+patient	patient	NN	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+episode	episode	NN	CW	NOUN	ARGUMENT
+unstable	unstable	JJ	CW	ADJ
+angina	angina	NN	CW	NOUN	ARGUMENT
+non	non	JJ	CW	ADJ
+q	q	VB	CW	VERB
+wave	wave	NN	CW	NOUN	ARGUMENT
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+four	four	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+patient	patient	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+randomized	randomize	VBN	CW	VERB
+simvastatin	simvastatin	NN	CW	NOUN	ARGUMENT
+40	40	CD	FW
+mg	mg	NN	CW	NOUN	ARGUMENT
+daily	daily	JJ	CW	ADJ
+placebo	placebo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thereafter	thereafter	RB	ADV	FW
+patient	patient	NN	CW	NOUN	ARGUMENT
+treat	treat	NN	CW	NOUN	ARGUMENT
+simvastatin	simvastatin	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+phase	phase	NN	CW	NOUN	ARGUMENT
+receive	receive	VBP	CW	VERB
+80	80	CD	FW
+mg	mg	NN	CW	NOUN	ARGUMENT
+simvastatin	simvastatin	NN	CW	NOUN	ARGUMENT
+daily	daily	JJ	CW	ADJ
+treat	treat	NN	CW	NOUN	ARGUMENT
+placebo	placebo	NN	CW	NOUN	ARGUMENT
+40	40	CD	FW
+mg	mg	NN	CW	NOUN	ARGUMENT
+simvastatin	simvastatin	NN	CW	NOUN	ARGUMENT
+daily	daily	RB	ADV	CW
+
+sentence break
+
+primary	primary	JJ	CW	ADJ
+composite	composite	JJ	CW	ADJ
+endpoint	endpoint	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+occurrence	occurrence	NN	CW	NOUN	ARGUMENT
+cardiovascular	cardiovascular	JJ	CW	ADJ
+death	death	NN	CW	NOUN	ARGUMENT
+non-fatal	non-fatal	JJ	CW	ADJ
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+rehospitalization	rehospitalization	NN	CW	NOUN	ARGUMENT
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+ac	ac	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+a	a	DT	FW
+2	2	CD	FW
+
+sentence break
+
+demonstrate	demonstrate	VBP	CW	VERB
+significant	significant	JJ	CW	ADJ
+reduction	reduction	NN	CW	NOUN	ARGUMENT
+incidence	incidence	NN	CW	NOUN	ARGUMENT
+adverse	adverse	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+four	four	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+incremental	incremental	JJ	CW	ADJ
+clinical	clinical	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+initiate	initiate	NN	CW	NOUN	ARGUMENT
+agent	agent	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+accrue	accrue	VBP	CW	VERB
+do	do	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+later	later	RB	ADV	CW
+follow	follow	VB	CW	VERB
+up	up	RP	FW
+be	be	VB	CW	VERB
+difficult	difficult	JJ	CW	ADJ
+discriminate	discriminate	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+aggressive	aggressive	JJ	CW	ADJ
+v	v	LS	FW
+earlier	earlier	JJR	CW	ADJ
+lipid	lipid	NN	CW	NOUN	ARGUMENT
+lower	lower	JJR	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pravastatin	pravastatin	NN	CW	NOUN	ARGUMENT
+atorvastatin	atorvastatin	NN	CW	NOUN	ARGUMENT
+evaluation	evaluation	NN	CW	NOUN	ARGUMENT
+infection	infection	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+prove	prove	VBP	CW	VERB
+trial	trial	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+look	look	VB	CW	VERB
+4	4	CD	FW
+000	000	CD	FW
+patient	patient	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+randomize	randomize	VB	CW	VERB
+pravastatin	pravastatin	NN	CW	NOUN	ARGUMENT
+40	40	CD	FW
+mg	mg	NN	CW	NOUN	ARGUMENT
+atorvastatin	atorvastatin	NN	CW	NOUN	ARGUMENT
+80	80	CD	FW
+mg	mg	NN	CW	NOUN	ARGUMENT
+daily	daily	JJ	CW	ADJ
+29	29	CD	FW
+
+sentence break
+
+patient	patient	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+observe	observe	VB	CW	VERB
+least	least	JJS	CW	ADJ
+1	1	CD	FW
+5	5	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+occurrence	occurrence	NN	CW	NOUN	ARGUMENT
+myocardial	myocardial	JJ	CW	ADJ
+infarction	infarction	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+cardiovascular	cardiovascular	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+miracl	miracl	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+
+sentence break
+
+trial	trial	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+assess	assess	VB	CW	VERB
+efficacy	efficacy	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+statin	statin	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rather	rather	RB	ADV	FW
+examine	examine	VB	CW	VERB
+role	role	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+v	v	LS	FW
+less	less	RBR	ADV	CW
+aggressive	aggressive	JJ	CW	ADJ
+lipid-lowering	lipid-lowering	JJ	CW	ADJ
+set	set	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+2002	2002	CD	FW
+many	many	JJ	CW	ADJ
+consider	consider	VBP	CW	VERB
+unethical	unethical	JJ	CW	ADJ
+withhold	withhold	VBP	CW	VERB
+statin	statin	JJ	CW	ADJ
+patient	patient	NN	CW	NOUN	ARGUMENT
+establish	establish	VB	CW	VERB
+coronary	coronary	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+make	make	VB	CW	VERB
+unlikely	unlikely	JJ	CW	ADJ
+additional	additional	JJ	CW	ADJ
+placebo-controlled	placebo-controlled	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+carry	carry	VB	CW	VERB
+area	area	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+future	future	JJ	CW	ADJ
+secondary	secondary	JJ	CW	ADJ
+prevention	prevention	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+look	look	VBP	CW	VERB
+patient	patient	NN	CW	NOUN	ARGUMENT
+stable	stable	JJ	CW	ADJ
+unstable	unstable	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+need	need	NN	CW	NOUN	ARGUMENT
+address	address	NN	CW	NOUN	ARGUMENT
+comparative	comparative	JJ	CW	ADJ
+efficacy	efficacy	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+statin	statin	NN	CW	NOUN	ARGUMENT
+newer	newer	JJR	CW	ADJ
+agent	agent	NN	CW	NOUN	ARGUMENT
+assess	assess	VB	CW	VERB
+incremental	incremental	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+combination	combination	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+30	30	CD	FW
+determine	determine	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+serum	serum	NN	CW	NOUN	ARGUMENT
+cholesterol	cholesterol	NN	CW	NOUN	ARGUMENT
+floor	floor	NN	CW	NOUN	ARGUMENT
+reduction	reduction	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unlikely	unlikely	JJ	CW	ADJ
+provide	provide	VBP	CW	VERB
+further	further	JJ	CW	ADJ
+clinical	clinical	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

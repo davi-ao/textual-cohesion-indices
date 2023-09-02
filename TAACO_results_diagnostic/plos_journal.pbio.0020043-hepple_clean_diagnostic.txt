@@ -1,0 +1,2132 @@
+word	lemma	POS	CW\FW	other categories
+be	be	VB	FW	aux_or_cop
+clone	clone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+colony	colony	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+single	single	JJ	CW	ADJ
+fertilize	fertilize	VB	CW	VERB
+egg	egg	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	RBS	ADV	CW
+animal	animal	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+clone	clone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+slight	slight	JJ	CW	ADJ
+oversimplification	oversimplification	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+animal	animal	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+genetically	genetically	RB	ADV	CW
+identical	identical	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mammal	mammal	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+red	red	JJ	CW	ADJ
+blood	blood	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+lack	lack	NN	CW	NOUN	ARGUMENT
+nuclear	nuclear	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+entirely	entirely	RB	ADV	CW
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+viruses	virus	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+be	be	VB	FW	aux_or_cop
+cell	cell	NN	CW	NOUN	ARGUMENT
+virus	virus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+basically	basically	RB	ADV	FW
+gene	gene	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	PRONOUN
+other	other	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+lack	lack	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+typical	typical	JJ	CW	ADJ
+animal	animal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+clone	clone	NN	CW	NOUN	ARGUMENT
+sense	sense	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+arise	arise	VBP	CW	VERB
+single	single	JJ	CW	ADJ
+fertilize	fertilize	VB	CW	VERB
+egg	egg	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+animal	animal	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+clone	clone	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometime	sometime	RB	ADV	CW
+two	two	CD	FW
+tiny	tiny	JJ	CW	ADJ
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+mother	mother	NN	CW	NOUN	ARGUMENT
+fuse	fuse	NN	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+single	single	JJ	CW	ADJ
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+develop	develop	VB	CW	VERB
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+clone	clone	NN	CW	NOUN	ARGUMENT
+chimera	chimera	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+conglomeration	conglomeration	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+different	different	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+lineage	lineage	NN	CW	NOUN	ARGUMENT
+single	single	JJ	CW	ADJ
+organism	organism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+species	species	NNS	CW	NOUN	ARGUMENT
+monkey	monkey	NN	CW	NOUN	ARGUMENT
+marmoset	marmoset	NN	CW	NOUN	ARGUMENT
+typically	typically	RB	ADV	CW
+have	have	VBP	CW	VERB
+chimeric	chimeric	JJ	CW	ADJ
+blood	blood	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+share	share	NN	CW	NOUN	ARGUMENT
+blood	blood	NN	CW	NOUN	ARGUMENT
+supply	supply	NN	CW	NOUN	ARGUMENT
+twin	twin	NN	CW	NOUN	ARGUMENT
+utero	utero	NN	CW	NOUN	ARGUMENT
+haig	haig	NN	CW	NOUN	ARGUMENT
+1999	1999	CD	FW
+rare	rare	JJ	CW	ADJ
+case	case	NN	CW	NOUN	ARGUMENT
+accidental	accidental	JJ	CW	ADJ
+chimerism	chimerism	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+know	know	VB	CW	VERB
+many	many	JJ	CW	ADJ
+animal	animal	JJ	CW	ADJ
+species	species	NNS	CW	NOUN	ARGUMENT
+tremblay	tremblay	JJ	CW	ADJ
+caltagirone	caltagirone	NN	CW	NOUN	ARGUMENT
+1973	1973	CD	FW
+
+sentence break
+
+van	van	NN	CW	NOUN	ARGUMENT
+dijk	dijk	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1996	1996	CD	FW
+
+sentence break
+
+marine	marine	JJ	CW	ADJ
+invertebrate	invertebrate	JJ	CW	ADJ
+chimeric	chimeric	JJ	CW	ADJ
+individual	individual	JJ	CW	ADJ
+often	often	RB	ADV	FW
+arise	arise	VBP	CW	VERB
+fusion	fusion	NN	CW	NOUN	ARGUMENT
+individual	individual	JJ	CW	ADJ
+later	later	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+buss	buss	VBP	CW	VERB
+1987	1987	CD	FW
+
+sentence break
+
+here	here	RB	ADV	CW
+want	want	VBP	CW	VERB
+draw	draw	NN	CW	NOUN	ARGUMENT
+attention	attention	NN	CW	NOUN	ARGUMENT
+remarkable	remarkable	JJ	CW	ADJ
+form	form	NN	CW	NOUN	ARGUMENT
+chimerism	chimerism	NN	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+armored	armored	JJ	CW	ADJ
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+insect	insect	JJ	CW	ADJ
+figure	figure	NN	CW	NOUN	ARGUMENT
+alway	alway	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+not	not	RB	ADV	CW
+single	single	JJ	CW	ADJ
+fertilize	fertilize	VB	CW	VERB
+egg	egg	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+genetically	genetically	RB	ADV	CW
+different	different	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+special	special	JJ	CW	ADJ
+organ	organ	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+housee	housee	NN	CW	NOUN	ARGUMENT
+symbiotic	symbiotic	JJ	CW	ADJ
+bacteria	bacterium	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+nuclear	nuclear	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+find	find	VB	CW	VERB
+rest	rest	NN	CW	NOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+obligate	obligate	JJ	CW	ADJ
+chimerism	chimerism	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+presence	presence	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+genetically	genetically	RB	ADV	CW
+distinct	distinct	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+lineage	lineage	NN	CW	NOUN	ARGUMENT
+individual	individual	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+stage	stage	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	FW	aux_or_cop
+find	find	VB	CW	VERB
+few	few	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+nowhere	nowhere	RB	ADV	FW
+else	else	JJ	CW	ADJ
+nature	nature	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+avid	avid	JJ	CW	ADJ
+naturalist	naturalist	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+understand	understand	VB	CW	VERB
+sort	sort	NN	CW	NOUN	ARGUMENT
+deep	deep	JJ	CW	ADJ
+oddity	oddity	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+sake	sake	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+broader	broader	JJR	CW	ADJ
+implication	implication	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+instance	instance	NN	CW	NOUN	ARGUMENT
+human	human	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+usually	usually	RB	ADV	CW
+chimera	chimera	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+have	have	VB	CW	VERB
+quasi-chimeric	quasi-chimeric	JJ	CW	ADJ
+phase	phase	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+cycle	cycle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pregnancy	pregnancy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+disease	disease	NN	CW	NOUN	ARGUMENT
+pregnancy	pregnancy	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+apparently	apparently	RB	ADV	CW
+due	due	JJ	CW	ADJ
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+genetically	genetically	RB	ADV	CW
+nonidentical	nonidentical	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+fetus	fetus	NN	CW	NOUN	ARGUMENT
+haig	haig	VBP	CW	VERB
+2002	2002	CD	FW
+
+sentence break
+
+main	main	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+human	human	JJ	CW	ADJ
+eat	eat	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+quasi-chimera	quasi-chimera	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+seed	seed	NN	CW	NOUN	ARGUMENT
+flower	flower	NN	CW	NOUN	ARGUMENT
+plant	plant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+grain	grain	NN	CW	NOUN	ARGUMENT
+wheat	wheat	NN	CW	NOUN	ARGUMENT
+instance	instance	NN	CW	NOUN	ARGUMENT
+germ	germ	NN	CW	NOUN	ARGUMENT
+endosperm	endosperm	NN	CW	NOUN	ARGUMENT
+bran	bran	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+three	three	CD	FW
+different	different	JJ	CW	ADJ
+nuclear	nuclear	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+similar	similar	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+human	human	JJ	CW	ADJ
+pregnancy	pregnancy	NN	CW	NOUN	ARGUMENT
+alleman	alleman	NN	CW	NOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+2000	2000	CD	FW
+
+sentence break
+
+santiago	santiago	NNP	CW	NOUN	ARGUMENT
+goodrich	goodrich	NNP	CW	NOUN	ARGUMENT
+2000	2000	CD	FW
+
+sentence break
+
+ultimately	ultimately	RB	ADV	CW
+learn	learn	VB	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+principle	principle	NN	CW	NOUN	ARGUMENT
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+cooperation	cooperation	NN	CW	NOUN	ARGUMENT
+maternal	maternal	JJ	CW	ADJ
+embryonic	embryonic	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+govern	govern	VBP	CW	VERB
+case	case	NN	CW	NOUN	ARGUMENT
+understand	understand	VBP	CW	VERB
+uniquely	uniquely	RB	ADV	CW
+stable	stable	JJ	CW	ADJ
+intimate	intimate	JJ	CW	ADJ
+chimerism	chimerism	NN	CW	NOUN	ARGUMENT
+armored	armored	JJ	CW	ADJ
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sexual	sexual	JJ	CW	ADJ
+animal	animal	NN	CW	NOUN	ARGUMENT
+plant	plant	NN	CW	NOUN	ARGUMENT
+production	production	NN	CW	NOUN	ARGUMENT
+egg	egg	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+meiosis	meiosis	NN	CW	NOUN	ARGUMENT
+complex	complex	JJ	CW	ADJ
+cellular	cellular	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+dna	dna	NN	CW	NOUN	ARGUMENT
+replication	replication	NN	CW	NOUN	ARGUMENT
+recombination	recombination	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+nuclear	nuclear	JJ	CW	ADJ
+division	division	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+diploid	diploid	JJ	CW	ADJ
+nucleus	nucleus	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+copy	copy	NN	CW	NOUN	ARGUMENT
+chromosome	chromosome	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+four	four	CD	FW
+genetically	genetically	RB	ADV	CW
+different	different	JJ	CW	ADJ
+haploid	haploid	NN	CW	NOUN	ARGUMENT
+nucleus	nucleus	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+copy	copy	NN	CW	NOUN	ARGUMENT
+chromosome	chromosome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+only	only	RB	ADV	CW
+one	one	CD	FW
+four	four	CD	FW
+haploid	haploid	NN	CW	NOUN	ARGUMENT
+nucleus	nucleus	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+egg	egg	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+oocyte	oocyte	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ordinary	ordinary	JJ	CW	ADJ
+animal	animal	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+three	three	CD	FW
+nucleus	nucleus	NN	CW	NOUN	ARGUMENT
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+degenerate	degenerate	NN	CW	NOUN	ARGUMENT
+they	they	PRP	FW	PRONOUN	ARGUMENT
+never	never	RB	ADV	CW
+divide	divide	VBP	CW	VERB
+again	again	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+lose	lose	VB	CW	VERB
+destroyed	destroy	VBN	CW	VERB
+and	and	CC	FW
+oocyte	oocyte	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+single	single	JJ	CW	ADJ
+maternal	maternal	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+fusion	fusion	NN	CW	NOUN	ARGUMENT
+single	single	JJ	CW	ADJ
+paternal	paternal	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+spermatocyte	spermatocyte	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+armored	armored	JJ	CW	ADJ
+scale	scale	NN	CW	NOUN	ARGUMENT
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+fuse	fuse	NN	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+triploid	triploid	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+copy	copy	NN	CW	NOUN	ARGUMENT
+chromosome	chromosome	NN	CW	NOUN	ARGUMENT
+triploid	triploid	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+wind	wind	VBP	CW	VERB
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+triploid	triploid	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+derive	derive	VBP	CW	VERB
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+fuse	fuse	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+pentaploid	pentaploid	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+five	five	CD	FW
+copy	copy	NN	CW	NOUN	ARGUMENT
+chromosome	chromosome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pentaploid	pentaploid	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+proliferate	proliferate	VBP	CW	VERB
+form	form	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	JJ	CW	ADJ
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+brown	brown	JJ	CW	ADJ
+1965	1965	CD	FW
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+thus	thus	RB	ADV	FW
+contain	contain	VBP	CW	VERB
+two	two	CD	FW
+copy	copy	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+complete	complete	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+addition	addition	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+haploid	haploid	NN	CW	NOUN	ARGUMENT
+paternal	paternal	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+rest	rest	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+contrast	contrast	NN	CW	NOUN	ARGUMENT
+rest	rest	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+just	just	RB	ADV	CW
+one	one	CD	FW
+copy	copy	NN	CW	NOUN	ARGUMENT
+half	half	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+genome	genome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+apparent	apparent	JJ	CW	ADJ
+function	function	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+house	house	NN	CW	NOUN	ARGUMENT
+intracellular	intracellular	JJ	CW	ADJ
+bacteria	bacterium	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+embryonic	embryonic	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+bacteria	bacterium	NNS	CW	NOUN	ARGUMENT
+move	move	VBP	CW	VERB
+mother	mother	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+precise	precise	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+bacteria	bacterium	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+know	know	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+think	think	VB	CW	VERB
+synthesize	synthesize	VB	CW	VERB
+essential	essential	JJ	CW	ADJ
+nutrient	nutrient	NN	CW	NOUN	ARGUMENT
+tremblay	tremblay	NN	CW	NOUN	ARGUMENT
+1990	1990	CD	FW
+do	do	VBP	CW	VERB
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+close	close	NN	CW	NOUN	ARGUMENT
+relative	relative	JJ	CW	ADJ
+aphid	aphid	NN	CW	NOUN	ARGUMENT
+shigenobu	shigenobu	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2000	2000	CD	FW
+
+sentence break
+
+now	now	RB	ADV	CW
+story	story	NN	CW	NOUN	ARGUMENT
+get	get	VB	FW	aux_or_cop
+even	even	RB	ADV	CW
+stranger	stranger	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+individual	individual	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+male	male	JJ	CW	ADJ
+then	then	RB	ADV	CW
+genetic	genetic	JJ	CW	ADJ
+difference	difference	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+rest	rest	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+even	even	RB	ADV	CW
+greater	greater	JJR	CW	ADJ
+develop	develop	VB	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+most	most	RBS	ADV	CW
+armored	armored	JJ	CW	ADJ
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+unusual	unusual	JJ	CW	ADJ
+genetic	genetic	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+embryonic	embryonic	JJ	CW	ADJ
+paternal	paternal	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+elimination	elimination	NN	CW	NOUN	ARGUMENT
+herrick	herrick	NN	CW	NOUN	ARGUMENT
+seger	seger	NN	CW	NOUN	ARGUMENT
+1999	1999	CD	FW
+
+sentence break
+
+male	male	JJ	CW	ADJ
+paternal	paternal	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+completely	completely	RB	ADV	CW
+eliminate	eliminate	VB	CW	VERB
+most	most	RBS	ADV	CW
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+early	early	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+but	but	CC	FW
+be	be	VB	FW	aux_or_cop
+never	never	RB	ADV	CW
+eliminate	eliminate	VB	CW	VERB
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+result	result	VB	CW	VERB
+most	most	RBS	ADV	CW
+male	male	JJ	CW	ADJ
+armored	armored	JJ	CW	ADJ
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+sperm	sperm	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+one	one	CD	FW
+copy	copy	NN	CW	NOUN	ARGUMENT
+half	half	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+genome	genome	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+oocyte	oocyte	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+two	two	CD	FW
+complete	complete	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+genome	genome	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+paternal	paternal	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+60	60	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+five	five	CD	FW
+gene	gene	NN	CW	NOUN	ARGUMENT
+copy	copy	NN	CW	NOUN	ARGUMENT
+male	male	JJ	CW	ADJ
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+absent	absent	JJ	CW	ADJ
+rest	rest	NN	CW	NOUN	ARGUMENT
+male	male	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+possibly	possibly	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+go	go	VB	CW	VERB
+here	here	RB	ADV	CW
+
+sentence break
+
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+creature	creature	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+obligate	obligate	JJ	CW	ADJ
+chimerism	chimerism	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+activate	activate	VBP	CW	VERB
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+essentially	essentially	RB	ADV	CW
+have	have	VBP	CW	VERB
+idea	idea	NN	CW	NOUN	ARGUMENT
+largely	largely	RB	ADV	CW
+one	one	CD	FW
+have	have	VBP	CW	VERB
+even	even	RB	ADV	CW
+ventured	venture	VBN	CW	VERB
+serious	serious	JJ	CW	ADJ
+guess	guess	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+phenomenon	phenomenon	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+discover	discover	VBP	CW	VERB
+early	early	RB	ADV	CW
+20	20	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+theoretical	theoretical	JJ	CW	ADJ
+tool	tool	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+sense	sense	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unavailable	unavailable	JJ	CW	ADJ
+
+sentence break
+
+one	one	CD	FW
+such	such	JJ	CW	ADJ
+tool	tool	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+w	w	JJ	CW	ADJ
+d	d	NN	CW	NOUN	ARGUMENT
+hamilton	hamilton	NN	CW	NOUN	ARGUMENT
+1964	1964	CD	FW
+theory	theory	NN	CW	NOUN	ARGUMENT
+inclusive	inclusive	JJ	CW	ADJ
+fitness	fitness	NN	CW	NOUN	ARGUMENT
+hold	hold	VBP	CW	VERB
+degree	degree	NN	CW	NOUN	ARGUMENT
+cooperation	cooperation	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+organism	organism	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+depend	depend	VBP	CW	VERB
+degree	degree	NN	CW	NOUN	ARGUMENT
+genetic	genetic	JJ	CW	ADJ
+relatedness	relatedness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rise	rise	NN	CW	NOUN	ARGUMENT
+hamiltonian	hamiltonian	JJ	CW	ADJ
+think	think	NN	CW	NOUN	ARGUMENT
+coincide	coincide	VBP	CW	VERB
+eclipse	eclipse	NN	CW	NOUN	ARGUMENT
+classical	classical	JJ	CW	ADJ
+cytogenetic	cytogenetic	JJ	CW	ADJ
+favor	favor	NN	CW	NOUN	ARGUMENT
+molecular	molecular	JJ	CW	ADJ
+biology	biology	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+organism	organism	NN	CW	NOUN	ARGUMENT
+remarkable	remarkable	JJ	CW	ADJ
+little	little	JJ	CW	ADJ
+chimera	chimera	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+languish	languish	VBP	CW	VERB
+undeserved	undeserved	JJ	CW	ADJ
+obscurity	obscurity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+perhap	perhap	NN	CW	NOUN	ARGUMENT
+merely	merely	RB	ADV	CW
+look	look	VBP	CW	VERB
+modern	modern	JJ	CW	ADJ
+eye	eye	NN	CW	NOUN	ARGUMENT
+turn	turn	NN	CW	NOUN	ARGUMENT
+plausible	plausible	JJ	CW	ADJ
+hypothesis	hypothesis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+consider	consider	VB	CW	VERB
+special	special	JJ	CW	ADJ
+theoretical	theoretical	JJ	CW	ADJ
+difficulty	difficulty	NN	CW	NOUN	ARGUMENT
+pose	pose	VBP	CW	VERB
+chimerism	chimerism	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+derive	derive	VBP	CW	VERB
+oocyte	oocyte	NN	CW	NOUN	ARGUMENT
+derive	derive	VBP	CW	VERB
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+eject	eject	VB	CW	VERB
+meiosis	meiosis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+two	two	CD	FW
+sibling	sibling	NN	CW	NOUN	ARGUMENT
+typically	typically	RB	ADV	CW
+exhibit	exhibit	VBP	CW	VERB
+degree	degree	NN	CW	NOUN	ARGUMENT
+sible	sible	NN	CW	NOUN	ARGUMENT
+rivalry	rivalry	NN	CW	NOUN	ARGUMENT
+their	they	PRP$	FW	PRONOUN	ARGUMENT
+interest	interest	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+identical	identical	JJ	CW	ADJ
+
+sentence break
+
+individual	individual	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+chimera	chimera	NN	CW	NOUN	ARGUMENT
+comprise	comprise	VBP	CW	VERB
+full-sibling	full-sibling	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+identical	identical	JJ	CW	ADJ
+approximately	approximately	RB	ADV	CW
+half	half	RB	ADV	CW
+genome	genome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+nonidentical	nonidentical	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+lineage	lineage	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+mammal	mammal	NN	CW	NOUN	ARGUMENT
+fetus	fetus	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+identical	identical	JJ	CW	ADJ
+half	half	NN	CW	NOUN	ARGUMENT
+genome	genome	NN	CW	NOUN	ARGUMENT
+pregnancy	pregnancy	NN	CW	NOUN	ARGUMENT
+haig	haig	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+explain	explain	VB	CW	VERB
+obligate	obligate	JJ	CW	ADJ
+sible	sible	JJ	CW	ADJ
+chimerism	chimerism	NN	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+evolve	evolve	VBP	CW	VERB
+perhap	perhap	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+limited	limited	JJ	CW	ADJ
+case	case	NN	CW	NOUN	ARGUMENT
+blood	blood	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+sible	sible	NN	CW	NOUN	ARGUMENT
+marmoset	marmoset	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+problem	problem	NN	CW	NOUN	ARGUMENT
+cooperation	cooperation	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+derive	derive	VBP	CW	VERB
+oocyte	oocyte	NN	CW	NOUN	ARGUMENT
+derive	derive	VBP	CW	VERB
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+anything	anything	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+greater	greater	JJR	CW	ADJ
+
+sentence break
+
+oocyte	oocyte	NN	CW	NOUN	ARGUMENT
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+less	less	RBR	ADV	CW
+closely	closely	RB	ADV	CW
+relate	relate	VB	CW	VERB
+two	two	CD	FW
+sibling	sibling	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+enriched	enriched	JJ	CW	ADJ
+chromosome	chromosome	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+present	present	JJ	CW	ADJ
+oocyte	oocyte	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+cross	cross	JJ	CW	ADJ
+homologous	homologous	JJ	CW	ADJ
+chromosome	chromosome	NN	CW	NOUN	ARGUMENT
+meiosis	meiosis	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+first	first	RB	ADV	CW
+meiotic	meiotic	JJ	CW	ADJ
+division	division	NN	CW	NOUN	ARGUMENT
+consistently	consistently	RB	ADV	CW
+separate	separate	JJ	CW	ADJ
+chromosome	chromosome	NN	CW	NOUN	ARGUMENT
+derive	derive	VBP	CW	VERB
+mother	mother	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+chromosome	chromosome	NN	CW	NOUN	ARGUMENT
+derive	derive	VBP	CW	VERB
+mother	mother	NN	CW	NOUN	ARGUMENT
+father	father	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	CW	VERB
+two	two	CD	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+relate	relate	VB	CW	VERB
+other	other	JJ	CW	ADJ
+more	more	RBR	ADV	CW
+precisely	precisely	RB	ADV	CW
+exactly	exactly	RB	ADV	CW
+as	as	IN	FW	SUBORDINATOR
+closely	closely	RB	ADV	CW
+relate	relate	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+mother	mother	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+mother	mother	NN	CW	NOUN	ARGUMENT
+father	father	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+crossing	cross	VBG	CW	VERB
+prevent	prevent	VB	CW	VERB
+create	create	VB	CW	VERB
+mosaic	mosaic	JJ	CW	ADJ
+relate	relate	VBP	CW	VERB
+unrelated	unrelated	JJ	CW	ADJ
+chromosome	chromosome	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+product	product	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+meiotic	meiotic	JJ	CW	ADJ
+division	division	NN	CW	NOUN	ARGUMENT
+uncertain	uncertain	JJ	CW	ADJ
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+final	final	JJ	CW	ADJ
+four	four	CD	FW
+meiotic	meiotic	JJ	CW	ADJ
+product	product	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nonetheless	nonetheless	RB	ADV	CW
+consistently	consistently	RB	ADV	CW
+depress	depress	VB	CW	VERB
+relatedness	relatedness	NN	CW	NOUN	ARGUMENT
+oocyte	oocyte	NN	CW	NOUN	ARGUMENT
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+explain	explain	VB	CW	VERB
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+almost	almost	RB	ADV	FW
+alway	alway	JJ	CW	ADJ
+eliminated	eliminate	VBN	CW	VERB
+sibling	sibling	NN	CW	NOUN	ARGUMENT
+rivalry	rivalry	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+even	even	RB	ADV	CW
+greater	greater	JJR	CW	ADJ
+sibling	sibling	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+derive	derive	VB	CW	VERB
+other	other	JJ	CW	ADJ
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+do	do	VB	CW	VERB
+two	two	CD	FW
+family	family	NN	CW	NOUN	ARGUMENT
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+tame	tame	JJ	CW	ADJ
+domesticate	domesticate	NN	CW	NOUN	ARGUMENT
+potentially	potentially	RB	ADV	CW
+fractious	fractious	JJ	CW	ADJ
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+kill	kill	VB	CW	VERB
+like	like	IN	FW
+normal	normal	JJ	CW	ADJ
+animal	animal	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+
+sentence break
+
+there	there	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+least	least	JJS	CW	ADJ
+three	three	CD	FW
+line	line	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+seem	seem	VBP	CW	VERB
+promising	promising	JJ	CW	ADJ
+unravel	unravel	VB	CW	VERB
+mystery	mystery	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+interesting	interesting	JJ	CW	ADJ
+parallel	parallel	JJ	CW	ADJ
+one	one	CD	FW
+hand	hand	NN	CW	NOUN	ARGUMENT
+chimerism	chimerism	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+armored	armored	JJ	CW	ADJ
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+eusociality	eusociality	NN	CW	NOUN	ARGUMENT
+true	true	JJ	CW	ADJ
+sociality	sociality	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+ant	ant	JJ	CW	ADJ
+honeybee	honeybee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ant	ant	JJ	CW	ADJ
+honeybee	honeybee	NN	CW	NOUN	ARGUMENT
+sterile	sterile	JJ	CW	ADJ
+individual	individual	JJ	CW	ADJ
+worker	worker	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+nutrition	nutrition	NN	CW	NOUN	ARGUMENT
+potentially	potentially	RB	ADV	CW
+fertile	fertile	JJ	CW	ADJ
+sibling	sibling	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+armored	armored	JJ	CW	ADJ
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+genetically	genetically	RB	ADV	CW
+distinct	distinct	JJ	CW	ADJ
+ultimately	ultimately	RB	ADV	CW
+sterile	sterile	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+lineage	lineage	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+nutrition	nutrition	NN	CW	NOUN	ARGUMENT
+potentially	potentially	RB	ADV	CW
+fertile	fertile	JJ	CW	ADJ
+sible	sible	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+lineage	lineage	NN	CW	NOUN	ARGUMENT
+rest	rest	NN	CW	NOUN	ARGUMENT
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+course	course	NN	CW	NOUN	ARGUMENT
+polar	polar	JJ	CW	ADJ
+body-derived	body-derived	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sible	sible	JJ	CW	ADJ
+strange	strange	JJ	CW	ADJ
+special	special	JJ	CW	ADJ
+sense	sense	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ant	ant	JJ	CW	ADJ
+bee	bee	NN	CW	NOUN	ARGUMENT
+armored	armored	JJ	CW	ADJ
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+effectively	effectively	RB	ADV	CW
+haplodiploid	haplodiploid	JJ	CW	ADJ
+
+sentence break
+
+male	male	JJ	CW	ADJ
+transmit	transmit	VB	CW	VERB
+only	only	RB	ADV	CW
+chromosome	chromosome	NN	CW	NOUN	ARGUMENT
+inherit	inherit	VB	CW	VERB
+mother	mother	NN	CW	NOUN	ARGUMENT
+male	male	JJ	CW	ADJ
+sperm	sperm	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+identical	identical	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+
+sentence break
+
+clonality	clonality	NN	CW	NOUN	ARGUMENT
+sperm	sperm	NN	CW	NOUN	ARGUMENT
+boost	boost	NN	CW	NOUN	ARGUMENT
+relatedness	relatedness	NN	CW	NOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+hamilton	hamilton	NN	CW	NOUN	ARGUMENT
+1964	1964	CD	FW
+point	point	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+relatedness	relatedness	NN	CW	NOUN	ARGUMENT
+explain	explain	VBP	CW	VERB
+high	high	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+cooperation	cooperation	NN	CW	NOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+eusocial	eusocial	JJ	CW	ADJ
+ant	ant	NN	CW	NOUN	ARGUMENT
+honeybee	honeybee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+high	high	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+cooperation	cooperation	NN	CW	NOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+find	find	VB	CW	VERB
+haplodiploid	haplodiploid	JJ	CW	ADJ
+thrips	thrips	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+crespus	crespus	JJ	CW	ADJ
+1992	1992	CD	FW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+tempting	tempting	JJ	CW	ADJ
+speculate	speculate	VBP	FW	aux_or_cop
+similar	similar	JJ	CW	ADJ
+explanation	explanation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+apply	apply	VB	CW	VERB
+histological	histological	JJ	CW	ADJ
+eusociality	eusociality	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+cooperation	cooperation	NN	CW	NOUN	ARGUMENT
+relate	relate	VBP	CW	VERB
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+temptation	temptation	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+consider	consider	VB	CW	VERB
+case	case	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+cytogenetic	cytogenetic	JJ	CW	ADJ
+literature	literature	NN	CW	NOUN	ARGUMENT
+apparent	apparent	JJ	CW	ADJ
+histological	histological	JJ	CW	ADJ
+eusociality	eusociality	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+true	true	JJ	CW	ADJ
+permanent	permanent	JJ	CW	ADJ
+chimerism	chimerism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+occur	occur	VB	CW	VERB
+few	few	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+parasitoid	parasitoid	JJ	CW	ADJ
+wasp	wasp	NN	CW	NOUN	ARGUMENT
+tremblay	tremblay	NN	CW	NOUN	ARGUMENT
+caltagirone	caltagirone	NN	CW	NOUN	ARGUMENT
+1973	1973	CD	FW
+
+sentence break
+
+strand	strand	NN	CW	NOUN	ARGUMENT
+grbic	grbic	JJ	CW	ADJ
+1997	1997	CD	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+derive	derive	VBP	CW	VERB
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+membrane	membrane	NN	CW	NOUN	ARGUMENT
+yolkless	yolkless	JJ	CW	ADJ
+egg	egg	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+deposit	deposit	NN	CW	NOUN	ARGUMENT
+wasp	wasp	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+host	host	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+often	often	RB	ADV	FW
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+similar	similar	JJ	CW	ADJ
+worker	worker	NN	CW	NOUN	ARGUMENT
+ant	ant	NN	CW	NOUN	ARGUMENT
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+membrane	membrane	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+think	think	VB	CW	VERB
+mediate	mediate	VB	CW	VERB
+nutrition	nutrition	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+similar	similar	JJ	CW	ADJ
+ant	ant	JJ	CW	ADJ
+honeybee	honeybee	NN	CW	NOUN	ARGUMENT
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	JJ	CW	ADJ
+wasp	wasp	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+haplodiploid	haplodiploid	JJ	CW	ADJ
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+tempting	tempting	JJ	CW	ADJ
+conclude	conclude	VBP	CW	VERB
+haplodiploidy	haplodiploidy	NN	CW	NOUN	ARGUMENT
+play	play	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+promote	promote	VBP	CW	VERB
+histological	histological	JJ	CW	ADJ
+eusociality	eusociality	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+promote	promote	VB	CW	VERB
+organismal	organismal	JJ	CW	ADJ
+eusociality	eusociality	NN	CW	NOUN	ARGUMENT
+temptation	temptation	NN	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+resist	resist	VB	CW	VERB
+
+sentence break
+
+case	case	NN	CW	NOUN	ARGUMENT
+parasitoid	parasitoid	JJ	CW	ADJ
+wasp	wasp	NN	CW	NOUN	ARGUMENT
+polar	polar	JJ	CW	ADJ
+body-derived	body-derived	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+paternal	paternal	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+clonality	clonality	NN	CW	NOUN	ARGUMENT
+sperm	sperm	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+boost	boost	VB	CW	VERB
+relatedness	relatedness	NN	CW	NOUN	ARGUMENT
+anything	anything	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+case	case	NN	CW	NOUN	ARGUMENT
+armored	armored	JJ	CW	ADJ
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+chimerism	chimerism	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+have	have	VB	CW	VERB
+copy	copy	NN	CW	NOUN	ARGUMENT
+paternal	paternal	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+copy	copy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+identical	identical	JJ	CW	ADJ
+paternal	paternal	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+rest	rest	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+sense	sense	JJ	CW	ADJ
+two	two	CD	FW
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+have	have	VB	CW	VERB
+high	high	JJ	CW	ADJ
+relatedness	relatedness	NN	CW	NOUN	ARGUMENT
+similar	similar	JJ	CW	ADJ
+high	high	JJ	CW	ADJ
+relatedness	relatedness	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+sibling	sibling	NN	CW	NOUN	ARGUMENT
+haplodiploidy	haplodiploidy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+copy	copy	NN	CW	NOUN	ARGUMENT
+paternal	paternal	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+directly	directly	RB	ADV	CW
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+clonality	clonality	NN	CW	NOUN	ARGUMENT
+sperm	sperm	NN	CW	NOUN	ARGUMENT
+source	source	NN	CW	NOUN	ARGUMENT
+elevate	elevate	VBP	CW	VERB
+relatedness	relatedness	NN	CW	NOUN	ARGUMENT
+haplodiploid	haplodiploid	NN	CW	NOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+apparently	apparently	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+
+sentence break
+
+other	other	JJ	CW	ADJ
+explanation	explanation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+need	need	VB	CW	VERB
+
+sentence break
+
+note	note	NN	CW	NOUN	ARGUMENT
+that	that	IN	FW	SUBORDINATOR	PRONOUN
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+polar	polar	JJ	CW	ADJ
+body-derived	body-derived	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+rest	rest	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+mother	mother	NN	CW	NOUN	ARGUMENT
+complete	complete	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+less	less	RBR	ADV	CW
+related	related	JJ	CW	ADJ
+average	average	JJ	CW	ADJ
+sibling	sibling	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+related	related	JJ	CW	ADJ
+sibling	sibling	NN	CW	NOUN	ARGUMENT
+course	course	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+
+sentence break
+
+perhap	perhap	NN	CW	NOUN	ARGUMENT
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+somehow	somehow	RB	ADV	FW
+enforce	enforce	VBP	CW	VERB
+maternal	maternal	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+interest	interest	NN	CW	NOUN	ARGUMENT
+nip	nip	VBP	CW	VERB
+bud	bud	NN	CW	NOUN	ARGUMENT
+sible	sible	JJ	CW	ADJ
+rivalry	rivalry	NN	CW	NOUN	ARGUMENT
+otherwise	otherwise	RB	ADV	CW
+suppress	suppress	VBP	CW	VERB
+family	family	NN	CW	NOUN	ARGUMENT
+fitness	fitness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+haplodiploid	haplodiploid	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+female	female	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+closely	closely	RB	ADV	CW
+relate	relate	VBP	CW	VERB
+full	full	JJ	CW	ADJ
+sister	sister	NN	CW	NOUN	ARGUMENT
+share	share	NN	CW	NOUN	ARGUMENT
+three-quarter	three-quarter	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+copy	copy	NN	CW	NOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+share	share	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+one-quarter	one-quarter	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+copy	copy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+competition	competition	NN	CW	NOUN	ARGUMENT
+sibling	sibling	NN	CW	NOUN	ARGUMENT
+resource	resource	NN	CW	NOUN	ARGUMENT
+female	female	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+expect	expect	VB	CW	VERB
+behave	behave	VB	CW	VERB
+more	more	JJR	CW	ADJ
+antagonistically	antagonistically	RB	ADV	FW
+brother	brother	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+cooperatively	cooperatively	RB	ADV	CW
+sister	sister	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+contrast	contrast	NN	CW	NOUN	ARGUMENT
+female	female	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+equally	equally	RB	ADV	CW
+relate	relate	VBP	CW	VERB
+son	son	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+daughter	daughter	NN	CW	NOUN	ARGUMENT
+carry	carry	VBP	CW	VERB
+half	half	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+copy	copy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+asymmetry	asymmetry	NN	CW	NOUN	ARGUMENT
+relatedness	relatedness	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+haplodiploid	haplodiploid	NN	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+seek	seek	VBP	CW	VERB
+direct	direct	JJ	CW	ADJ
+more	more	RBR	ADV	CW
+resource	resource	NN	CW	NOUN	ARGUMENT
+son	son	NN	CW	NOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+seek	seek	VBP	CW	VERB
+direct	direct	JJ	CW	ADJ
+more	more	RBR	ADV	CW
+resource	resource	NN	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+brother	brother	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+seger	seger	NN	CW	NOUN	ARGUMENT
+stubblefield	stubblefield	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+be	be	VB	CW	VERB
+difficult	difficult	JJ	CW	ADJ
+see	see	VB	CW	VERB
+such	such	JJ	CW	ADJ
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+play	play	NN	CW	NOUN	ARGUMENT
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hardly	hardly	RB	ADV	CW
+social	social	JJ	CW	ADJ
+insect	insect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+only	only	RB	ADV	CW
+motile	motile	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+female	female	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+first	first	RB	ADV	CW
+instar	instar	JJ	CW	ADJ
+crawler	crawler	NN	CW	NOUN	ARGUMENT
+settle	settle	VB	CW	VERB
+one	one	CD	FW
+spot	spot	NN	CW	NOUN	ARGUMENT
+permanently	permanently	RB	ADV	CW
+
+sentence break
+
+male	male	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+slightly	slightly	RB	ADV	CW
+more	more	RBR	ADV	CW
+mobile	mobile	JJ	CW	ADJ
+have	have	VBP	CW	VERB
+motile	motile	JJ	CW	ADJ
+usually	usually	RB	ADV	CW
+winged	winged	JJ	CW	ADJ
+adult	adult	JJ	CW	ADJ
+form	form	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nonetheless	nonetheless	RB	ADV	CW
+low	low	JJ	CW	ADJ
+motility	motility	NN	CW	NOUN	ARGUMENT
+female	female	JJ	CW	ADJ
+fact	fact	NN	CW	NOUN	ARGUMENT
+live	live	VB	CW	VERB
+mostly	mostly	RB	ADV	CW
+long-lived	long-lived	JJ	CW	ADJ
+woody	woody	NN	CW	NOUN	ARGUMENT
+plant	plant	NN	CW	NOUN	ARGUMENT
+mean	mean	VB	CW	VERB
+maternal	maternal	JJ	CW	ADJ
+kin	kin	NN	CW	NOUN	ARGUMENT
+interact	interact	VBP	CW	VERB
+long	long	JJ	CW	ADJ
+timescale	timescale	NN	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+insect	insect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+make	make	VB	CW	VERB
+relatively	relatively	RB	ADV	CW
+sophisticated	sophisticated	JJ	CW	ADJ
+social	social	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+settle	settle	VB	CW	VERB
+settle	settle	VB	CW	VERB
+thus	thus	RB	ADV	FW
+possibly	possibly	RB	ADV	FW
+compete	compete	VB	CW	VERB
+more	more	RBR	ADV	CW
+closely	closely	RB	ADV	CW
+non-kin	non-kin	JJ	CW	ADJ
+kin	kin	NN	CW	NOUN	ARGUMENT
+kasuya	kasuya	FW	FW
+2000	2000	CD	FW
+
+sentence break
+
+most	most	JJS	CW	ADJ
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+phloem	phloem	NN	CW	NOUN	ARGUMENT
+sap	sap	VBP	CW	VERB
+almost	almost	RB	ADV	FW
+inexhaustible	inexhaustible	JJ	CW	ADJ
+resource	resource	NN	CW	NOUN	ARGUMENT
+armored	armored	JJ	CW	ADJ
+scale	scale	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+parenchyma	parenchyma	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+rosen	rosen	NN	CW	NOUN	ARGUMENT
+1990	1990	CD	FW
+be	be	VB	FW	aux_or_cop
+locally	locally	RB	ADV	CW
+exhaust	exhaust	NN	CW	NOUN	ARGUMENT
+therefore	therefore	RB	ADV	FW
+compete	compete	VBP	CW	VERB
+neighbor	neighbor	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+conceivable	conceivable	JJ	CW	ADJ
+female	female	JJ	CW	ADJ
+compete	compete	VBP	CW	VERB
+brother	brother	NN	CW	NOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+resource	resource	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+decision	decision	NN	CW	NOUN	ARGUMENT
+affect	affect	VB	CW	VERB
+intensity	intensity	NN	CW	NOUN	ARGUMENT
+competition	competition	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+optimum	optimum	JJ	CW	ADJ
+perspective	perspective	NN	CW	NOUN	ARGUMENT
+maternal	maternal	JJ	CW	ADJ
+paternal	paternal	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+possibly	possibly	RB	ADV	FW
+presence	presence	NN	CW	NOUN	ARGUMENT
+massive	massive	JJ	CW	ADJ
+contingent	contingent	JJ	CW	ADJ
+maternal	maternal	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+double	double	JJ	CW	ADJ
+dose	dose	NN	CW	NOUN	ARGUMENT
+complete	complete	JJ	CW	ADJ
+maternal	maternal	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+nutritionally	nutritionally	RB	ADV	CW
+significant	significant	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+somehow	somehow	RB	ADV	FW
+affect	affect	VB	CW	VERB
+such	such	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+favorable	favorable	JJ	CW	ADJ
+maternal	maternal	JJ	CW	ADJ
+interest	interest	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+proximal	proximal	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+signal	signal	NN	CW	NOUN	ARGUMENT
+perception	perception	NN	CW	NOUN	ARGUMENT
+relate	relate	VBP	CW	VERB
+relatedness	relatedness	NN	CW	NOUN	ARGUMENT
+gender	gender	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+quality	quality	NN	CW	NOUN	ARGUMENT
+satiety	satiety	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+similar	similar	JJ	CW	ADJ
+manipulation	manipulation	NN	CW	NOUN	ARGUMENT
+intersible	intersible	JJ	CW	ADJ
+interaction	interaction	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+go	go	VB	CW	VERB
+case	case	NN	CW	NOUN	ARGUMENT
+parasitoid	parasitoid	JJ	CW	ADJ
+wasp	wasp	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+polar	polar	JJ	CW	ADJ
+body-derived	body-derived	JJ	CW	ADJ
+membrane	membrane	NN	CW	NOUN	ARGUMENT
+egg	egg	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sometime	sometime	RB	ADV	CW
+wasp	wasp	NN	CW	NOUN	ARGUMENT
+lie	lie	NN	CW	NOUN	ARGUMENT
+single	single	JJ	CW	ADJ
+unfertilized	unfertilized	JJ	CW	ADJ
+male	male	JJ	CW	ADJ
+egg	egg	NN	CW	NOUN	ARGUMENT
+single	single	JJ	CW	ADJ
+fertilize	fertilize	VB	CW	VERB
+female	female	JJ	CW	ADJ
+egg	egg	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+host	host	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+egg	egg	NN	CW	NOUN	ARGUMENT
+divide	divide	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+divide	divide	NN	CW	NOUN	ARGUMENT
+clone	clone	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+sterile	sterile	JJ	CW	ADJ
+precocious	precocious	JJ	CW	ADJ
+larva	larva	NN	CW	NOUN	ARGUMENT
+apparently	apparently	RB	ADV	CW
+attack	attack	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+larva	larva	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+use	use	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+host	host	NN	CW	NOUN	ARGUMENT
+including	include	VBG	CW	VERB
+potentially	potentially	RB	ADV	CW
+own	own	JJ	CW	ADJ
+sibling	sibling	NN	CW	NOUN	ARGUMENT
+ode	ode	NN	CW	NOUN	ARGUMENT
+hunter	hunter	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+here	here	RB	ADV	CW
+be	be	VB	CW	VERB
+situation	situation	NN	CW	NOUN	ARGUMENT
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+membrane	membrane	NN	CW	NOUN	ARGUMENT
+surround	surround	VBP	CW	VERB
+proliferate	proliferate	VBP	CW	VERB
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+very	very	RB	ADV	CW
+different	different	JJ	CW	ADJ
+selective	selective	JJ	CW	ADJ
+optimum	optimum	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+between-sibling	between-sibling	JJ	CW	ADJ
+aggressiveness	aggressiveness	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+even	even	RB	ADV	CW
+rate	rate	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+than	than	IN	FW	SUBORDINATOR
+gene	gene	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+surround	surround	VBP	CW	VERB
+apparently	apparently	RB	ADV	CW
+mediate	mediate	VB	CW	VERB
+nutrition	nutrition	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+
+sentence break
+
+endosymbiotic	endosymbiotic	JJ	CW	ADJ
+bacteria	bacterium	NNS	CW	NOUN	ARGUMENT
+dwell	dwell	VBP	CW	VERB
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	JJ	CW	ADJ
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+maternally	maternally	RB	ADV	FW
+inherit	inherit	VB	CW	VERB
+
+sentence break
+
+thus	thus	RB	ADV	FW
+perspective	perspective	NN	CW	NOUN	ARGUMENT
+bacteria	bacterium	NNS	CW	NOUN	ARGUMENT
+male	male	JJ	CW	ADJ
+insect	insect	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+deadend	deadend	VBN	CW	VERB
+
+sentence break
+
+many	many	JJ	CW	ADJ
+maternally	maternally	RB	ADV	FW
+inherit	inherit	VB	CW	VERB
+bacteria	bacterium	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+evolve	evolve	VB	CW	VERB
+manipulate	manipulate	VB	CW	VERB
+host	host	NN	CW	NOUN	ARGUMENT
+genetic	genetic	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bacterial	bacterial	JJ	CW	ADJ
+lineage	lineage	NN	CW	NOUN	ARGUMENT
+induce	induce	VBP	CW	VERB
+parthenogenesis	parthenogenesis	NN	CW	NOUN	ARGUMENT
+feminize	feminize	VB	CW	VERB
+male	male	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bacteria	bacterium	NNS	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+evolve	evolve	VBP	CW	VERB
+suicidally	suicidally	RB	ADV	CW
+kill	kill	VB	CW	VERB
+male	male	JJ	CW	ADJ
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+death	death	NN	CW	NOUN	ARGUMENT
+male	male	JJ	CW	ADJ
+free	free	JJ	CW	ADJ
+resource	resource	NN	CW	NOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+majerus	majerus	VBZ	CW	VERB
+2003	2003	CD	FW
+
+sentence break
+
+order	order	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+bacteria	bacterium	NNS	CW	NOUN	ARGUMENT
+respond	respond	VBP	CW	VERB
+cue	cue	NN	CW	NOUN	ARGUMENT
+indicate	indicate	VBP	CW	VERB
+gender	gender	NN	CW	NOUN	ARGUMENT
+individual	individual	JJ	CW	ADJ
+be	be	VB	CW	VERB
+
+sentence break
+
+potentially	potentially	RB	ADV	CW
+host	host	NN	CW	NOUN	ARGUMENT
+evolve	evolve	VB	CW	VERB
+resistance	resistance	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+manipulation	manipulation	NN	CW	NOUN	ARGUMENT
+maternally	maternally	RB	ADV	FW
+inherit	inherit	VB	CW	VERB
+bacteria	bacterium	NNS	CW	NOUN	ARGUMENT
+deprive	deprive	VB	CW	VERB
+bacteria	bacterium	NNS	CW	NOUN	ARGUMENT
+cue	cue	NN	CW	NOUN	ARGUMENT
+indicate	indicate	VBP	CW	VERB
+gender	gender	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+armored	armored	JJ	CW	ADJ
+scale	scale	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+exactly	exactly	RB	ADV	CW
+same	same	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+complete	complete	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+diploid	diploid	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+complete	complete	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+father	father	NN	CW	NOUN	ARGUMENT
+genome	genome	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+sibling	sibling	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+male	male	JJ	CW	ADJ
+female	female	JJ	CW	ADJ
+same	same	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+usually	usually	RB	ADV	CW
+true	true	JJ	CW	ADJ
+mealybug	mealybug	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+explain	explain	VB	CW	VERB
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+father	father	NN	CW	NOUN	ARGUMENT
+genome	genome	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+present	present	JJ	CW	ADJ
+active	active	JJ	CW	ADJ
+male	male	NN	CW	NOUN	ARGUMENT
+female	female	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+notion	notion	NN	CW	NOUN	ARGUMENT
+individual	individual	JJ	CW	ADJ
+be	be	VB	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	JJ	CW	ADJ
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+kind	kind	NN	CW	NOUN	ARGUMENT
+sible	sible	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+half	half	JJ	CW	ADJ
+sible	sible	JJ	CW	ADJ
+half	half	NN	CW	NOUN	ARGUMENT
+self	self	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+sterile	sterile	JJ	CW	ADJ
+slave	slave	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+extension	extension	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+exert	exert	VBP	CW	VERB
+control	control	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+organism	organism	NN	CW	NOUN	ARGUMENT
+chimera	chimera	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+temporary	temporary	JJ	CW	ADJ
+unstable	unstable	JJ	CW	ADJ
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+suppress	suppress	VBP	CW	VERB
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+normally	normally	RB	ADV	CW
+tear	tear	VB	CW	VERB
+chimera	chimera	NN	CW	NOUN	ARGUMENT
+apart	apart	RB	ADV	FW
+
+sentence break
+
+approach	approach	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+question	question	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+revive	revive	VB	CW	VERB
+empirical	empirical	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+combine	combine	VBP	CW	VERB
+approach	approach	NN	CW	NOUN	ARGUMENT
+recent	recent	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+aphid	aphid	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+braendle	braendle	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+human	human	JJ	CW	ADJ
+pregnancy	pregnancy	NN	CW	NOUN	ARGUMENT
+haig	haig	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+better	better	RBR	ADV	CW
+understand	understand	VB	CW	VERB
+nature	nature	NN	CW	NOUN	ARGUMENT
+genetic	genetic	JJ	CW	ADJ
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+genetic	genetic	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+study	study	NN	CW	NOUN	ARGUMENT
+sex	sex	NN	CW	NOUN	ARGUMENT
+ratio	ratio	NN	CW	NOUN	ARGUMENT
+variation	variation	NN	CW	NOUN	ARGUMENT
+proximate	proximate	NN	CW	NOUN	ARGUMENT
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+sex	sex	NN	CW	NOUN	ARGUMENT
+determination	determination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+simplicity	simplicity	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+describe	describe	VBP	CW	VERB
+only	only	RB	ADV	CW
+most	most	RBS	ADV	CW
+common	common	JJ	CW	ADJ
+huge	huge	JJ	CW	ADJ
+variety	variety	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+different	different	JJ	CW	ADJ
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	JJ	CW	ADJ
+genetic	genetic	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+mode	mode	NN	CW	NOUN	ARGUMENT
+bacteriome	bacteriome	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+tremblay	tremblay	NN	CW	NOUN	ARGUMENT
+1977	1977	CD	FW
+1990	1990	CD	FW
+
+sentence break
+
+1980	1980	CD	FW
+
+sentence break
+
+diversity	diversity	NN	CW	NOUN	ARGUMENT
+greater	greater	JJR	CW	ADJ
+comparable	comparable	JJ	CW	ADJ
+case	case	NN	CW	NOUN	ARGUMENT
+mammalian	mammalian	JJ	CW	ADJ
+placenta	placenta	NN	CW	NOUN	ARGUMENT
+flowering-plant	flowering-plant	JJ	CW	ADJ
+endosperm	endosperm	NN	CW	NOUN	ARGUMENT
+mean	mean	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+huge	huge	JJ	CW	ADJ
+scope	scope	NN	CW	NOUN	ARGUMENT
+comparative	comparative	JJ	CW	ADJ
+ecological	ecological	JJ	CW	ADJ
+genetic	genetic	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+elucidate	elucidate	VB	CW	VERB
+general	general	JJ	CW	ADJ
+principle	principle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+study	study	NN	CW	NOUN	ARGUMENT
+truly	truly	RB	ADV	FW
+strange	strange	JJ	CW	ADJ
+creature	creature	NN	CW	NOUN	ARGUMENT
+tell	tell	VBP	CW	VERB
+kind	kind	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+interested	interested	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+planet	planet	NN	CW	NOUN	ARGUMENT
+meantime	meantime	NN	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+close	close	JJ	CW	ADJ
+look	look	NN	CW	NOUN	ARGUMENT
+scale	scale	NN	CW	NOUN	ARGUMENT
+insect	insect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

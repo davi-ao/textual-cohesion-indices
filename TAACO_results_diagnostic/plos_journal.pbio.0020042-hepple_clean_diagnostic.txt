@@ -1,0 +1,1014 @@
+word	lemma	POS	CW\FW	other categories
+last	last	JJ	CW	ADJ
+few	few	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+see	see	VB	CW	VERB
+enormous	enormous	JJ	CW	ADJ
+stride	stride	NN	CW	NOUN	ARGUMENT
+ability	ability	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+genome	genome	NN	CW	NOUN	ARGUMENT
+information	information	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+pour	pour	VBP	FW	aux_or_cop
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+quite	quite	RB	ADV	FW
+astonishing	astonishing	JJ	CW	ADJ
+
+sentence break
+
+more	more	RBR	ADV	CW
+150	150	CD	FW
+complete	complete	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+available	available	JJ	CW	ADJ
+many	many	JJ	CW	ADJ
+laboratory	laboratory	NN	CW	NOUN	ARGUMENT
+rush	rush	NN	CW	NOUN	ARGUMENT
+microarray	microarray	NN	CW	NOUN	ARGUMENT
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+proteomic	proteomic	JJ	CW	ADJ
+initiative	initiative	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+system	system	NN	CW	NOUN	ARGUMENT
+biology	biology	NN	CW	NOUN	ARGUMENT
+seem	seem	VBP	CW	VERB
+appropriate	appropriate	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+consider	consider	VB	CW	VERB
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+also	also	RB	ADV	CW
+shortcoming	shortcome	VBG	CW	VERB
+
+sentence break
+
+far	far	RB	ADV	CW
+most	most	RBS	ADV	CW
+serious	serious	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+quality	quality	JJ	CW	ADJ
+degree	degree	NN	CW	NOUN	ARGUMENT
+completeness	completeness	NN	CW	NOUN	ARGUMENT
+annotation	annotation	NN	CW	NOUN	ARGUMENT
+genome	genome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	RBS	ADV	CW
+troublesome	troublesome	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+large	large	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+open	open	JJ	CW	ADJ
+reading	reading	NN	CW	NOUN	ARGUMENT
+frame	frame	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+identify	identify	VB	CW	VERB
+computer	computer	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	FW	aux_or_cop
+label	label	NN	CW	NOUN	ARGUMENT
+conserved	conserve	VBN	CW	VERB
+hypothetical	hypothetical	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+one	one	CD	FW
+genome	genome	NN	CW	NOUN	ARGUMENT
+simply	simply	RB	ADV	CW
+hypothetical	hypothetical	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+unique	unique	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+question	question	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+two	two	CD	FW
+category	category	NN	CW	NOUN	ARGUMENT
+annotated	annotated	JJ	CW	ADJ
+open	open	JJ	CW	ADJ
+reading	reading	NN	CW	NOUN	ARGUMENT
+frame	frame	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+represent	represent	VBP	CW	VERB
+more	more	RBR	ADV	CW
+half	half	JJ	CW	ADJ
+potential	potential	JJ	CW	ADJ
+protein-coding	protein-coding	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+genome	genome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+annotation	annotation	NN	CW	NOUN	ARGUMENT
+highlight	highlight	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+one	one	CD	FW
+portion	portion	NN	CW	NOUN	ARGUMENT
+ignorance	ignorance	NN	CW	NOUN	ARGUMENT
+information	information	NN	CW	NOUN	ARGUMENT
+content	content	NN	CW	NOUN	ARGUMENT
+genome	genome	NN	CW	NOUN	ARGUMENT
+lack	lack	NN	CW	NOUN	ARGUMENT
+fundamental	fundamental	JJ	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+building	building	NN	CW	NOUN	ARGUMENT
+block	block	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rectify	rectify	VB	CW	VERB
+situation	situation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+likely	likely	JJ	CW	ADJ
+undermine	undermine	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+
+sentence break
+
+omic	omic	JJ	CW	ADJ
+effort	effort	NN	CW	NOUN	ARGUMENT
+currently	currently	RB	ADV	CW
+underway	underway	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+here	here	RB	ADV	CW
+advocate	advocate	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+straightforward	straightforward	JJ	CW	ADJ
+approach	approach	NN	CW	NOUN	ARGUMENT
+address	address	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+focused	focus	VBD	CW	VERB
+initially	initially	RB	ADV	CW
+bacterial	bacterial	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+contrast	contrast	NN	CW	NOUN	ARGUMENT
+numerous	numerous	JJ	CW	ADJ
+proposal	proposal	NN	CW	NOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+science	science	NN	CW	NOUN	ARGUMENT
+initiative	initiative	NN	CW	NOUN	ARGUMENT
+understand	understand	VBP	CW	VERB
+fundamental	fundamental	JJ	CW	ADJ
+workings	workings	NNS	CW	NOUN	ARGUMENT
+biological	biological	JJ	CW	ADJ
+organism	organism	NN	CW	NOUN	ARGUMENT
+propose	propose	VBP	CW	VERB
+small	small	JJ	CW	ADJ
+science	science	NN	CW	NOUN	ARGUMENT
+relatively	relatively	RB	ADV	CW
+low-tech	low-tech	JJ	CW	ADJ
+approach	approach	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+dramatic	dramatic	JJ	CW	ADJ
+pay	pay	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+relatively	relatively	RB	ADV	CW
+small	small	JJ	CW	ADJ
+investment	investment	NN	CW	NOUN	ARGUMENT
+yield	yield	NN	CW	NOUN	ARGUMENT
+massive	massive	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+information	information	NN	CW	NOUN	ARGUMENT
+greatly	greatly	RB	ADV	CW
+enhance	enhance	VBP	CW	VERB
+current	current	JJ	CW	ADJ
+effort	effort	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+genomic	genomic	JJ	CW	ADJ
+approach	approach	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+initial	initial	JJ	CW	ADJ
+proposal	proposal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+direct	direct	JJ	CW	ADJ
+decipher	decipher	NN	CW	NOUN	ARGUMENT
+role	role	NN	CW	NOUN	ARGUMENT
+hypothetical	hypothetical	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+encoded	encode	VBN	CW	VERB
+microbial	microbial	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+community-wide	community-wide	JJ	CW	ADJ
+approach	approach	NN	CW	NOUN	ARGUMENT
+determine	determine	VBD	CW	VERB
+function	function	NN	CW	NOUN	ARGUMENT
+hypothetical	hypothetical	JJ	CW	ADJ
+base	base	NN	CW	NOUN	ARGUMENT
+solid	solid	JJ	CW	ADJ
+old-fashioned	old-fashioned	JJ	CW	ADJ
+biochemistry	biochemistry	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+essence	essence	NN	CW	NOUN	ARGUMENT
+idea	idea	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+undertake	undertake	VB	CW	VERB
+interdisciplinary	interdisciplinary	JJ	CW	ADJ
+effort	effort	NN	CW	NOUN	ARGUMENT
+couple	couple	NN	CW	NOUN	ARGUMENT
+current	current	JJ	CW	ADJ
+bioinformatic	bioinformatic	JJ	CW	ADJ
+capability	capability	NN	CW	NOUN	ARGUMENT
+predict	predict	VBP	CW	VERB
+protein	protein	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+direct	direct	JJ	CW	ADJ
+exploration	exploration	NN	CW	NOUN	ARGUMENT
+experimental	experimental	JJ	CW	ADJ
+laboratory	laboratory	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+prediction	prediction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+encourage	encourage	VB	CW	VERB
+consortium	consortium	NN	CW	NOUN	ARGUMENT
+bioinformatician	bioinformatician	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	FW	aux_or_cop
+list	list	NN	CW	NOUN	ARGUMENT
+conserved	conserve	VBN	CW	VERB
+hypothetical	hypothetical	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+find	find	VB	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+carry	carry	VBP	CW	VERB
+best	best	JJS	CW	ADJ
+possible	possible	JJ	CW	ADJ
+bioinformatic	bioinformatic	JJ	CW	ADJ
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+offer	offer	VBP	CW	VERB
+protein	protein	NN	CW	NOUN	ARGUMENT
+biochemical	biochemical	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+potential	potential	JJ	CW	ADJ
+target	target	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+energize	energize	VB	CW	VERB
+laboratory	laboratory	NN	CW	NOUN	ARGUMENT
+appropriate	appropriate	JJ	CW	ADJ
+expertise	expertise	NN	CW	NOUN	ARGUMENT
+participate	participate	VB	CW	VERB
+community-wide	community-wide	JJ	CW	ADJ
+effort	effort	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+special	special	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+set	set	VBN	CW	VERB
+one	one	CD	FW
+more	more	JJR	CW	ADJ
+funding	funding	NN	CW	NOUN	ARGUMENT
+agency	agency	NN	CW	NOUN	ARGUMENT
+laboratory	laboratory	NN	CW	NOUN	ARGUMENT
+undertake	undertake	VB	CW	VERB
+investigation	investigation	NN	CW	NOUN	ARGUMENT
+particular	particular	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+receive	receive	VBP	CW	VERB
+small	small	JJ	CW	ADJ
+grant	grant	NN	CW	NOUN	ARGUMENT
+upfront	upfront	JJ	CW	ADJ
+supplement	supplement	NN	CW	NOUN	ARGUMENT
+exist	exist	VBP	CW	VERB
+grant	grant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+completion	completion	NN	CW	NOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+identification	identification	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+receive	receive	VBP	CW	VERB
+further	further	JJ	CW	ADJ
+supplement	supplement	NN	CW	NOUN	ARGUMENT
+grant	grant	NN	CW	NOUN	ARGUMENT
+reward	reward	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+way	way	NN	CW	NOUN	ARGUMENT
+hope	hope	VBP	CW	VERB
+rally	rally	NN	CW	NOUN	ARGUMENT
+best	best	RB	ADV	CW
+biochemical	biochemical	JJ	CW	ADJ
+talent	talent	NN	CW	NOUN	ARGUMENT
+apply	apply	VB	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+determine	determine	VB	CW	VERB
+function	function	NN	CW	NOUN	ARGUMENT
+wide	wide	JJ	CW	ADJ
+range	range	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cost	cost	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+operation	operation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+quite	quite	RB	ADV	FW
+minimal	minimal	JJ	CW	ADJ
+bureaucracy	bureaucracy	NN	CW	NOUN	ARGUMENT
+review	review	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+equally	equally	RB	ADV	CW
+simple	simple	JJ	CW	ADJ
+
+sentence break
+
+here	here	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+case	case	NN	CW	NOUN	ARGUMENT
+modest	modest	JJ	CW	ADJ
+infusion	infusion	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+greatly	greatly	RB	ADV	CW
+enhance	enhance	VBP	CW	VERB
+ability	ability	NN	CW	NOUN	ARGUMENT
+annotate	annotate	VB	CW	VERB
+exist	exist	VB	CW	VERB
+new	new	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+ensure	ensure	VB	CW	VERB
+current	current	JJ	CW	ADJ
+investment	investment	NN	CW	NOUN	ARGUMENT
+genomic	genomic	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+yield	yield	NN	CW	NOUN	ARGUMENT
+richest	richest	JJS	CW	ADJ
+biological	biological	JJ	CW	ADJ
+harvest	harvest	NN	CW	NOUN	ARGUMENT
+possible	possible	JJ	CW	ADJ
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+two	two	CD	FW
+key	key	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+propose	propose	VBP	CW	VERB
+plan	plan	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+encourage	encourage	VB	CW	VERB
+bioinformatician	bioinformatician	NN	CW	NOUN	ARGUMENT
+appropriate	appropriate	JJ	CW	ADJ
+expertise	expertise	NN	CW	NOUN	ARGUMENT
+functional	functional	JJ	CW	ADJ
+annotation	annotation	NN	CW	NOUN	ARGUMENT
+genome	genome	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+consortium	consortium	NN	CW	NOUN	ARGUMENT
+undertake	undertake	VB	CW	VERB
+assembly	assembly	NN	CW	NOUN	ARGUMENT
+list	list	NN	CW	NOUN	ARGUMENT
+prime	prime	JJ	CW	ADJ
+target	target	NN	CW	NOUN	ARGUMENT
+experimental	experimental	JJ	CW	ADJ
+demonstration	demonstration	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+most	most	RBS	ADV	CW
+valuable	valuable	JJ	CW	ADJ
+
+sentence break
+
+three	three	CD	FW
+general	general	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+mind	mind	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+conserved	conserve	VBN	CW	VERB
+hypothetical	hypothetical	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+belong	belong	VB	CW	VERB
+set	set	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+ortholog	ortholog	RB	ADV	FW
+many	many	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+experimentally	experimentally	RB	ADV	CW
+determine	determine	VB	CW	VERB
+case	case	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+recent	recent	JJ	CW	ADJ
+success	success	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+illustrate	illustrate	VB	CW	VERB
+box	box	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+
+sentence break
+
+hypothetical	hypothetical	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+form	form	NN	CW	NOUN	ARGUMENT
+set	set	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+predict	predict	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+protein	protein	NN	CW	NOUN	ARGUMENT
+code	code	NN	CW	NOUN	ARGUMENT
+lack	lack	NN	CW	NOUN	ARGUMENT
+similar	similar	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+organism	organism	NN	CW	NOUN	ARGUMENT
+genbank	genbank	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+too	too	RB	ADV	CW
+have	have	VB	FW	aux_or_cop
+assign	assign	VB	CW	VERB
+function	function	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+misannotated	misannotate	VBN	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+one	one	CD	FW
+function	function	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+assign	assign	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+annotation	annotation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+incorrect	incorrect	JJ	CW	ADJ
+
+sentence break
+
+set	set	VBN	CW	VERB
+target	target	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+combine	combine	VB	CW	VERB
+arrange	arrange	VB	FW	aux_or_cop
+prioritized	prioritize	VBN	CW	VERB
+list	list	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+accompany	accompany	VB	CW	VERB
+best	best	JJS	CW	ADJ
+assessment	assessment	NN	CW	NOUN	ARGUMENT
+potential	potential	JJ	CW	ADJ
+function	function	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+priority	priority	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+base	base	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+most	most	RBS	ADV	CW
+likely	likely	JJ	CW	ADJ
+prove	prove	VBP	CW	VERB
+broadly	broadly	RB	ADV	CW
+informative	informative	JJ	CW	ADJ
+
+sentence break
+
+instance	instance	NN	CW	NOUN	ARGUMENT
+conserved	conserve	VBN	CW	VERB
+hypothetical	hypothetical	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+most	most	JJS	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+higher	higher	JJR	CW	ADJ
+priority	priority	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+have	have	VBP	CW	VERB
+only	only	RB	ADV	CW
+two	two	CD	FW
+ortholog	ortholog	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+list	list	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+public	public	JJ	CW	ADJ
+web	web	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+predict	predict	VBP	CW	VERB
+function	function	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+examine	examine	VB	CW	VERB
+modify	modify	VB	CW	VERB
+alternative	alternative	JJ	CW	ADJ
+additional	additional	JJ	CW	ADJ
+prediction	prediction	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+guide	guide	NN	CW	NOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+experimentation	experimentation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+function	function	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+derive	derive	VB	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+target	target	NN	CW	NOUN	ARGUMENT
+remove	remove	VB	CW	VERB
+main	main	JJ	CW	ADJ
+list	list	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+second	second	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+invite	invite	VB	CW	VERB
+experimentalist	experimentalist	NN	CW	NOUN	ARGUMENT
+peruse	peruse	VB	CW	VERB
+list	list	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+potential	potential	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+product	product	NN	CW	NOUN	ARGUMENT
+lie	lie	VBP	CW	VERB
+realm	realm	NN	CW	NOUN	ARGUMENT
+expertise	expertise	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+experimental	experimental	JJ	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+reagent	reagent	NN	CW	NOUN	ARGUMENT
+quickly	quickly	RB	ADV	CW
+test	test	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+initially	initially	RB	ADV	CW
+advocate	advocate	NN	CW	NOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+laboratory	laboratory	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+pick	pick	NN	CW	NOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+list	list	NN	CW	NOUN	ARGUMENT
+sign	sign	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+one	one	CD	FW
+open	open	JJ	CW	ADJ
+reading	reading	NN	CW	NOUN	ARGUMENT
+frame	frame	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+recommend	recommend	VB	CW	VERB
+allow	allow	VB	CW	VERB
+one	one	CD	FW
+laboratory	laboratory	NN	CW	NOUN	ARGUMENT
+open	open	JJ	CW	ADJ
+reading	reading	NN	CW	NOUN	ARGUMENT
+frame	frame	NN	CW	NOUN	ARGUMENT
+initial	initial	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+laboratory	laboratory	NN	CW	NOUN	ARGUMENT
+wish	wish	NN	CW	NOUN	ARGUMENT
+sign	sign	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+short	short	JJ	CW	ADJ
+document	document	NN	CW	NOUN	ARGUMENT
+highlight	highlight	NN	CW	NOUN	ARGUMENT
+expertise	expertise	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+suitable	suitable	JJ	CW	ADJ
+particular	particular	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one-page	one-page	JJ	CW	ADJ
+proposal	proposal	NN	CW	NOUN	ARGUMENT
+suffice	suffice	NN	CW	NOUN	ARGUMENT
+experimental	experimental	JJ	CW	ADJ
+plan	plan	NN	CW	NOUN	ARGUMENT
+demand	demand	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+point	point	NN	CW	NOUN	ARGUMENT
+small	small	JJ	CW	ADJ
+panel	panel	NN	CW	NOUN	ARGUMENT
+choose	choose	VB	FW	aux_or_cop
+compete	compete	VB	CW	VERB
+effort	effort	NN	CW	NOUN	ARGUMENT
+laboratory	laboratory	NN	CW	NOUN	ARGUMENT
+choose	choose	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+give	give	VB	CW	VERB
+small	small	JJ	CW	ADJ
+grant	grant	NN	CW	NOUN	ARGUMENT
+six	six	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+carry	carry	VBP	CW	VERB
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+delineate	delineate	VBP	CW	VERB
+function	function	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+paper	paper	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+write	write	VB	CW	VERB
+submit	submit	VB	CW	VERB
+peer	peer	VB	CW	VERB
+review	review	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+paper	paper	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+accept	accept	VB	CW	VERB
+publication	publication	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+additional	additional	JJ	CW	ADJ
+sum	sum	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+allocate	allocate	VB	CW	VERB
+supplement	supplement	NN	CW	NOUN	ARGUMENT
+laboratory	laboratory	NN	CW	NOUN	ARGUMENT
+exist	exist	VBP	CW	VERB
+grant	grant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+six	six	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+laboratory	laboratory	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+manage	manage	VB	CW	VERB
+delineate	delineate	VB	CW	VERB
+function	function	NN	CW	NOUN	ARGUMENT
+submit	submit	VBP	CW	VERB
+short	short	JJ	CW	ADJ
+report	report	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+approach	approach	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+try	try	VB	CW	VERB
+result	result	NN	CW	NOUN	ARGUMENT
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+post	post	JJ	CW	ADJ
+public	public	JJ	CW	ADJ
+web	web	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+become	become	VBP	CW	VERB
+open	open	JJ	CW	ADJ
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+laboratory	laboratory	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+condition	condition	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW
+
+sentence break
+
+initial	initial	JJ	CW	ADJ
+list	list	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+base	base	JJ	CW	ADJ
+well-studied	well-studied	JJ	CW	ADJ
+experimentally	experimentally	RB	ADV	CW
+tractable	tractable	JJ	CW	ADJ
+organism	organism	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+escherichium	escherichium	FW	FW
+coli	coli	FW	FW
+not	not	RB	ADV	CW
+demand	demand	VB	CW	VERB
+biochemical	biochemical	JJ	CW	ADJ
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+do	do	VB	CW	VERB
+e	e	LS	FW
+coli	coli	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ortholog	ortholog	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+so	so	RB	ADV	CW
+long	long	JJ	CW	ADJ
+similarity	similarity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sufficiently	sufficiently	RB	ADV	CW
+strong	strong	JJ	CW	ADJ
+give	give	VBP	CW	VERB
+high	high	JJ	CW	ADJ
+expectation	expectation	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+conserved	conserve	VBN	CW	VERB
+
+sentence break
+
+fact	fact	NN	CW	NOUN	ARGUMENT
+laboratory	laboratory	NN	CW	NOUN	ARGUMENT
+happen	happen	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+already	already	RB	ADV	CW
+work	work	VB	CW	VERB
+one	one	CD	FW
+homolog	homolog	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+add	add	VB	CW	VERB
+bonus	bonus	NN	CW	NOUN	ARGUMENT
+greatly	greatly	RB	ADV	CW
+speed	speed	VB	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+encourage	encourage	VBP	CW	VERB
+biochemical	biochemical	JJ	CW	ADJ
+genetic	genetic	JJ	CW	ADJ
+approach	approach	NN	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+certain	certain	JJ	CW	ADJ
+one	one	CD	FW
+method	method	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+better	better	RB	ADV	CW
+
+sentence break
+
+list	list	NN	CW	NOUN	ARGUMENT
+course	course	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+include	include	VBP	CW	VERB
+conserved	conserve	VBN	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+find	find	VB	CW	VERB
+coli	coli	FW	FW
+commonly	commonly	RB	ADV	CW
+distribute	distribute	VB	CW	VERB
+other	other	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+particular	particular	JJ	CW	ADJ
+make	make	VBP	CW	VERB
+pitch	pitch	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+mycoplasma	mycoplasma	NN	CW	NOUN	ARGUMENT
+genitalium	genitalium	NN	CW	NOUN	ARGUMENT
+free-living	free-living	JJ	CW	ADJ
+organism	organism	NN	CW	NOUN	ARGUMENT
+fewest	fewest	JJS	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+most	most	RBS	ADV	CW
+suitable	suitable	JJ	CW	ADJ
+model	model	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+in-depth	in-depth	JJ	CW	ADJ
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+biology	biology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+proposal	proposal	NN	CW	NOUN	ARGUMENT
+experimental	experimental	JJ	CW	ADJ
+attack	attack	NN	CW	NOUN	ARGUMENT
+hypothetical	hypothetical	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+really	really	RB	ADV	CW
+very	very	RB	ADV	CW
+traditional	traditional	JJ	CW	ADJ
+approach	approach	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+large-scale	large-scale	JJ	CW	ADJ
+simply	simply	RB	ADV	CW
+parallel	parallel	JJ	CW	ADJ
+nature	nature	NN	CW	NOUN	ARGUMENT
+implementation	implementation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+resemble	resemble	VB	CW	VERB
+successful	successful	JJ	CW	ADJ
+approach	approach	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+european	european	NN	CW	NOUN	ARGUMENT
+achieve	achieve	VB	CW	VERB
+complete	complete	JJ	CW	ADJ
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+saccharomyce	saccharomyce	NN	CW	NOUN	ARGUMENT
+cerevisia	cerevisium	NN	CW	NOUN	ARGUMENT
+genome	genome	NN	CW	NOUN	ARGUMENT
+goffeau	goffeau	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1996	1996	CD	FW
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+significantly	significantly	RB	ADV	CW
+increase	increase	VBP	CW	VERB
+functional	functional	JJ	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+microbial	microbial	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+thus	thus	RB	ADV	FW
+far	far	RB	ADV	CW
+sequenced	sequence	VBN	CW	VERB
+
+sentence break
+
+such	such	JJ	CW	ADJ
+annotation	annotation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+immediately	immediately	RB	ADV	CW
+applicable	applicable	JJ	CW	ADJ
+ortholog	ortholog	NN	CW	NOUN	ARGUMENT
+dramatically	dramatically	RB	ADV	FW
+improve	improve	VB	CW	VERB
+value	value	NN	CW	NOUN	ARGUMENT
+sequenced	sequence	VBN	CW	VERB
+genome	genome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+turn	turn	NN	CW	NOUN	ARGUMENT
+facilitate	facilitate	VB	CW	VERB
+ability	ability	NN	CW	NOUN	ARGUMENT
+annotate	annotate	VB	CW	VERB
+new	new	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+
+sentence break
+
+proposal	proposal	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+reinforce	reinforce	VBP	CW	VERB
+notion	notion	NN	CW	NOUN	ARGUMENT
+overwhelming	overwhelming	JJ	CW	ADJ
+value	value	NN	CW	NOUN	ARGUMENT
+bioinformatic	bioinformatic	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+generate	generate	VB	CW	VERB
+hypothesis	hypothesis	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+test	test	NN	CW	NOUN	ARGUMENT
+experimentally	experimentally	RB	ADV	CW
+
+sentence break
+
+enable	enable	VB	CW	VERB
+community	community	NN	CW	NOUN	ARGUMENT
+join	join	VB	CW	VERB
+effort	effort	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+demonstrate	demonstrate	VBP	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+collaborative	collaborative	JJ	CW	ADJ
+enterprise	enterprise	NN	CW	NOUN	ARGUMENT
+require	require	VBP	CW	VERB
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+select	select	JJ	CW	ADJ
+few	few	JJ	CW	ADJ
+
+sentence break
+
+finally	finally	RB	ADV	CW
+initiative	initiative	NN	CW	NOUN	ARGUMENT
+succeed	succeed	VB	CW	VERB
+serve	serve	VB	CW	VERB
+suitable	suitable	JJ	CW	ADJ
+model	model	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+more	more	JJR	CW	ADJ
+daunting	daunting	JJ	CW	ADJ
+task	task	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+annotate	annotate	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+eukaryotic	eukaryotic	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+human	human	JJ	CW	ADJ
+genome	genome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

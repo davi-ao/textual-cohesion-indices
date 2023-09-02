@@ -1,0 +1,1856 @@
+word	lemma	POS	CW\FW	other categories
+rna	rna	NN	CW	NOUN	ARGUMENT
+interference	interference	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+call	call	JJ	CW	ADJ
+one	one	CD	FW
+most	most	RBS	ADV	CW
+have	have	VBP	FW	aux_or_cop
+exciting	exciting	JJ	CW	ADJ
+discovery	discovery	NN	CW	NOUN	ARGUMENT
+biology	biology	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+couple	couple	NN	CW	NOUN	ARGUMENT
+decade	decade	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+first	first	RB	ADV	CW
+recognize	recognize	VB	CW	VERB
+andrew	andrew	NN	CW	NOUN	ARGUMENT
+fire	fire	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+have	have	VB	FW	aux_or_cop
+quickly	quickly	RB	ADV	CW
+become	become	VBN	CW	VERB
+one	one	CD	FW
+most	most	RBS	ADV	CW
+powerful	powerful	JJ	CW	ADJ
+indispensable	indispensable	JJ	CW	ADJ
+tool	tool	NN	CW	NOUN	ARGUMENT
+molecular	molecular	JJ	CW	ADJ
+biologist	biologist	NN	CW	NOUN	ARGUMENT
+toolkit	toolkit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+use	use	NN	CW	NOUN	ARGUMENT
+short	short	JJ	CW	ADJ
+double-stranded	double-stranded	JJ	CW	ADJ
+rna	rna	NN	CW	NOUN	ARGUMENT
+dsrna	dsrna	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+selectively	selectively	RB	ADV	CW
+silence	silence	NN	CW	NOUN	ARGUMENT
+essentially	essentially	RB	ADV	CW
+gene	gene	NN	CW	NOUN	ARGUMENT
+genome	genome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+ancient	ancient	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+regulation	regulation	NN	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+eukaryote	eukaryote	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+diverse	diverse	JJ	CW	ADJ
+yeast	yeast	NN	CW	NOUN	ARGUMENT
+mammal	mammal	NN	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+play	play	VBP	CW	VERB
+central	central	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+controll	controll	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+eukaryote	eukaryote	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lab	lab	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+routinely	routinely	RB	ADV	CW
+use	use	VBP	CW	VERB
+reveal	reveal	VBP	CW	VERB
+genetic	genetic	JJ	CW	ADJ
+secret	secret	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+intracellular	intracellular	JJ	CW	ADJ
+signal	signal	NN	CW	NOUN	ARGUMENT
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+infection	infection	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+range	range	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+phenomenon	phenomenon	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+phenomenon	phenomenon	NN	CW	NOUN	ARGUMENT
+hail	hail	NN	CW	NOUN	ARGUMENT
+journal	journal	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+breakthrough	breakthrough	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+break	break	NN	CW	NOUN	ARGUMENT
+lab	lab	NN	CW	NOUN	ARGUMENT
+lead	lead	VBP	CW	VERB
+novel	novel	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+pharmaceutical	pharmaceutical	JJ	CW	ADJ
+giant	giant	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hop	hop	VB	CW	VERB
+so	so	RB	ADV	CW
+several	several	JJ	CW	ADJ
+biotech	biotech	JJ	CW	ADJ
+company	company	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+bet	bet	VBN	CW	VERB
+future	future	JJ	CW	ADJ
+not	not	RB	ADV	CW
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sanguine	sanguine	JJ	CW	ADJ
+future	future	JJ	CW	ADJ
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+heart	heart	NN	CW	NOUN	ARGUMENT
+promise	promise	NN	CW	NOUN	ARGUMENT
+powerful	powerful	JJ	CW	ADJ
+therapeutic	therapeutic	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+lie	lie	NN	CW	NOUN	ARGUMENT
+exquisite	exquisite	JJ	CW	ADJ
+selectivity	selectivity	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fabled	fabled	JJ	CW	ADJ
+magic	magic	JJ	CW	ADJ
+bullet	bullet	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+seek	seek	VB	CW	VERB
+destroy	destroy	VB	CW	VERB
+target	target	NN	CW	NOUN	ARGUMENT
+affect	affect	VB	CW	VERB
+other	other	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+clinical	clinical	JJ	CW	ADJ
+application	application	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+endless	endless	JJ	CW	ADJ
+
+sentence break
+
+gene	gene	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+disease	disease	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+potential	potential	JJ	CW	ADJ
+target	target	NN	CW	NOUN	ARGUMENT
+viral	viral	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+oncogene	oncogene	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+responsible	responsible	JJ	CW	ADJ
+heart	heart	NN	CW	NOUN	ARGUMENT
+disease	disease	NN	CW	NOUN	ARGUMENT
+alzheimer	alzheimer	NN	CW	NOUN	ARGUMENT
+disease	disease	NN	CW	NOUN	ARGUMENT
+diabetes	diabetes	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+
+sentence break
+
+promise	promise	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+long	long	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+enter	enter	VBP	CW	VERB
+clinic	clinic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+prove	prove	VB	CW	VERB
+wunderkind	wunderkind	NN	CW	NOUN	ARGUMENT
+lab	lab	NN	CW	NOUN	ARGUMENT
+date	date	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	CW	VERB
+do	do	VBP	CW	VERB
+human	human	JJ	CW	ADJ
+only	only	RB	ADV	CW
+most	most	RBS	ADV	CW
+modest	modest	JJ	CW	ADJ
+circumscribed	circumscribed	JJ	CW	ADJ
+success	success	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+demonstrate	demonstrate	VBP	CW	VERB
+animal	animal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+road	road	NN	CW	NOUN	ARGUMENT
+clinical	clinical	JJ	CW	ADJ
+success	success	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+litter	litter	NN	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+come	come	VBN	CW	VERB
+cropper	cropper	NN	CW	NOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+two	two	CD	FW
+other	other	JJ	CW	ADJ
+rna-based	rna-based	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+antisense	antisense	JJ	CW	ADJ
+ribozyme	ribozyme	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+promise	promise	NN	CW	NOUN	ARGUMENT
+bench	bench	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+largely	largely	RB	ADV	CW
+stumble	stumble	VB	CW	VERB
+reach	reach	NN	CW	NOUN	ARGUMENT
+bedside	bedside	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+likely	likely	JJ	CW	ADJ
+fall	fall	NN	CW	NOUN	ARGUMENT
+short	short	RB	ADV	CW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+different	different	JJ	CW	ADJ
+enough	enough	RB	ADV	CW
+make	make	VB	CW	VERB
+third	third	JJ	CW	ADJ
+try	try	NN	CW	NOUN	ARGUMENT
+charm	charm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+overcome	overcome	VBP	CW	VERB
+long	long	RB	ADV	CW
+set	set	VBN	CW	VERB
+hurdle	hurdle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+manufacture	manufacture	NN	CW	NOUN	ARGUMENT
+reasonable	reasonable	JJ	CW	ADJ
+cost	cost	NN	CW	NOUN	ARGUMENT
+administer	administer	VBP	CW	VERB
+safely	safely	RB	ADV	CW
+conveniently	conveniently	RB	ADV	CW
+
+sentence break
+
+then	then	RB	ADV	CW
+even	even	RB	ADV	CW
+more	more	RBR	ADV	CW
+importantly	importantly	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+stable	stable	JJ	CW	ADJ
+enough	enough	JJ	CW	ADJ
+reach	reach	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+degraded	degrade	VBN	CW	VERB
+excreted	excrete	VBN	CW	VERB
+
+sentence break
+
+get	get	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+link	link	NN	CW	NOUN	ARGUMENT
+up	up	IN	FW
+intracellular	intracellular	JJ	CW	ADJ
+target	target	NN	CW	NOUN	ARGUMENT
+exert	exert	VBP	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+exert	exert	VB	CW	VERB
+enough	enough	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+health	health	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+
+sentence break
+
+finally	finally	RB	ADV	CW
+do	do	VB	FW	aux_or_cop
+cause	cause	VB	CW	VERB
+significant	significant	JJ	CW	ADJ
+toxic	toxic	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+nontarget	nontarget	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+matter	matter	RB	ADV	CW
+good	good	JJ	CW	ADJ
+compound	compound	NN	CW	NOUN	ARGUMENT
+look	look	NN	CW	NOUN	ARGUMENT
+lab	lab	NN	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+clear	clear	JJ	CW	ADJ
+one	one	CD	FW
+hurdle	hurdle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+useless	useless	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rna-based	rna-based	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+manufacture	manufacture	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+see	see	VB	CW	VERB
+soluble	soluble	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+delivery	delivery	NN	CW	NOUN	ARGUMENT
+stability	stability	NN	CW	NOUN	ARGUMENT
+potency	potency	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+most	most	RBS	ADV	CW
+significant	significant	JJ	CW	ADJ
+obstacle	obstacle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+lot	lot	RB	ADV	CW
+clinical	clinical	JJ	CW	ADJ
+encoding error!
+early	early	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+antisense	antisense	JJ	CW	ADJ
+ribozyme	ribozyme	NN	CW	NOUN	ARGUMENT
+accord	accord	NN	CW	NOUN	ARGUMENT
+nassim	nassim	NN	CW	NOUN	ARGUMENT
+usman	usman	NN	CW	NOUN	ARGUMENT
+vice	vice	NN	CW	NOUN	ARGUMENT
+president	president	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+sirna	sirna	NN	CW	NOUN	ARGUMENT
+therapeutics	therapeutics	NNS	CW	NOUN	ARGUMENT
+boulder	boulder	VBP	CW	VERB
+colorado	colorado	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+compound	compound	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+push	push	NN	CW	NOUN	ARGUMENT
+clinic	clinic	NN	CW	NOUN	ARGUMENT
+prematurely	prematurely	RB	ADV	CW
+
+sentence break
+
+sirna	sirna	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+biotech	biotech	JJ	CW	ADJ
+startup	startup	NN	CW	NOUN	ARGUMENT
+ribozyme	ribozyme	NN	CW	NOUN	ARGUMENT
+pharmaceutical	pharmaceutical	JJ	CW	ADJ
+try	try	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+ribozyme	ribozyme	RB	ADV	FW
+treat	treat	VB	CW	VERB
+several	several	JJ	CW	ADJ
+condition	condition	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+hepatitis	hepatitis	NN	CW	NOUN	ARGUMENT
+c.	c.	NN	CW	NOUN	ARGUMENT
+ribozyme	ribozyme	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+rna	rna	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+cleave	cleave	VB	CW	VERB
+specific	specific	JJ	CW	ADJ
+target	target	NN	CW	NOUN	ARGUMENT
+rna	rna	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+initial	initial	JJ	CW	ADJ
+result	result	NN	CW	NOUN	ARGUMENT
+hepatitis	hepatitis	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+inspiring	inspiring	JJ	CW	ADJ
+say	say	VBP	CW	VERB
+usman	usman	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+low	low	JJ	CW	ADJ
+potency	potency	NN	CW	NOUN	ARGUMENT
+short	short	JJ	CW	ADJ
+half-life	half-life	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+body	body	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+enormous	enormous	JJ	CW	ADJ
+dose	dose	NN	CW	NOUN	ARGUMENT
+viral	viral	JJ	CW	ADJ
+load	load	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+significantly	significantly	RB	ADV	CW
+affect	affect	VB	CW	VERB
+
+sentence break
+
+just	just	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+characteristic	characteristic	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+drug	drug	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+ribozyme	ribozyme	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+yet	yet	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+approve	approve	VB	CW	VERB
+use	use	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+drug	drug	NN	CW	NOUN	ARGUMENT
+administration	administration	NN	CW	NOUN	ARGUMENT
+fda	fda	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+similarly	similarly	RB	ADV	CW
+much	much	JJ	CW	ADJ
+initial	initial	JJ	CW	ADJ
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+antisense	antisense	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+largely	largely	RB	ADV	CW
+disappointing	disappointing	JJ	CW	ADJ
+
+sentence break
+
+antisense	antisense	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+single	single	JJ	CW	ADJ
+strand	strand	NN	CW	NOUN	ARGUMENT
+rna	rna	NN	CW	NOUN	ARGUMENT
+dna	dna	NN	CW	NOUN	ARGUMENT
+complementary	complementary	JJ	CW	ADJ
+target	target	NN	CW	NOUN	ARGUMENT
+messenger	messenger	NN	CW	NOUN	ARGUMENT
+rna	rna	NN	CW	NOUN	ARGUMENT
+mrna	mrna	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pair	pair	NN	CW	NOUN	ARGUMENT
+antisense	antisense	JJ	CW	ADJ
+strand	strand	NN	CW	NOUN	ARGUMENT
+prevent	prevent	VBP	CW	VERB
+translation	translation	NN	CW	NOUN	ARGUMENT
+mrna	mrna	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+least	least	JJS	CW	ADJ
+be	be	VB	FW	aux_or_cop
+theory	theory	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+clinical	clinical	JJ	CW	ADJ
+result	result	NN	CW	NOUN	ARGUMENT
+seem	seem	VBP	FW	aux_or_cop
+support	support	NN	CW	NOUN	ARGUMENT
+theory	theory	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+antisense	antisense	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+effectively	effectively	RB	ADV	CW
+reduce	reduce	VB	CW	VERB
+tumor	tumor	NN	CW	NOUN	ARGUMENT
+size	size	NN	CW	NOUN	ARGUMENT
+anticancer	anticancer	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+viral	viral	JJ	CW	ADJ
+load	load	NN	CW	NOUN	ARGUMENT
+antiviral	antiviral	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+closer	closer	JJR	CW	ADJ
+inspection	inspection	NN	CW	NOUN	ARGUMENT
+reveal	reveal	VBP	CW	VERB
+result	result	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+largely	largely	RB	ADV	CW
+due	due	JJ	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+production	production	NN	CW	NOUN	ARGUMENT
+interferon	interferon	NN	CW	NOUN	ARGUMENT
+immune	immune	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+response	response	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+dose	dose	NN	CW	NOUN	ARGUMENT
+foreign	foreign	JJ	CW	ADJ
+rna	rna	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+specific	specific	JJ	CW	ADJ
+silence	silence	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+relatively	relatively	RB	ADV	CW
+high	high	JJ	CW	ADJ
+proportion	proportion	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+g	g	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+antisense	antisense	JJ	CW	ADJ
+mimic	mimic	VBP	CW	VERB
+bacterial	bacterial	JJ	CW	ADJ
+viral	viral	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+thus	thus	RB	ADV	FW
+trigger	trigger	VB	CW	VERB
+immune	immune	JJ	CW	ADJ
+response	response	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+antisense	antisense	JJ	CW	ADJ
+dose	dose	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+lower	lower	JJR	CW	ADJ
+prevent	prevent	VB	CW	VERB
+interferon	interferon	NN	CW	NOUN	ARGUMENT
+response	response	NN	CW	NOUN	ARGUMENT
+clinical	clinical	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+largely	largely	RB	ADV	CW
+disappear	disappear	VBP	CW	VERB
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+thus	thus	RB	ADV	FW
+rather	rather	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+highly	highly	RB	ADV	CW
+specific	specific	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+antisense	antisense	JJ	CW	ADJ
+seem	seem	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+general	general	JJ	CW	ADJ
+immune	immune	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+booster	booster	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+as	as	RB	ADV	CW
+long	long	JJ	CW	ADJ
+patient	patient	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+get	get	VB	CW	VERB
+better	better	JJR	CW	ADJ
+do	do	VBP	FW	aux_or_cop
+matter	matter	VB	CW	VERB
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+
+sentence break
+
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+matter	matter	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+patient	patient	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+matter	matter	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+try	try	VB	CW	VERB
+develop	develop	VB	CW	VERB
+next	next	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+cy	cy	NN	CW	NOUN	ARGUMENT
+stein	stein	NN	CW	NOUN	ARGUMENT
+associate	associate	JJ	CW	ADJ
+professor	professor	NN	CW	NOUN	ARGUMENT
+medicine	medicine	NN	CW	NOUN	ARGUMENT
+pharmacology	pharmacology	NN	CW	NOUN	ARGUMENT
+columbium	columbium	NN	CW	NOUN	ARGUMENT
+university	university	NN	CW	NOUN	ARGUMENT
+college	college	NN	CW	NOUN	ARGUMENT
+physician	physician	NN	CW	NOUN	ARGUMENT
+surgeon	surgeon	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+york	york	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+stein	stein	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+research	research	NN	CW	NOUN	ARGUMENT
+antisense	antisense	JJ	CW	ADJ
+more	more	RBR	ADV	CW
+decade	decade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+get	get	VB	CW	VERB
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+wrong	wrong	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+go	go	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+do	do	VBP	CW	VERB
+
+sentence break
+
+date	date	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+one	one	CD	FW
+antisense	antisense	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+receive	receive	VBP	CW	VERB
+fda	fda	NN	CW	NOUN	ARGUMENT
+approval	approval	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+vitravene	vitravene	NN	CW	NOUN	ARGUMENT
+isis	isis	NN	CW	NOUN	ARGUMENT
+pharmaceutical	pharmaceutical	JJ	CW	ADJ
+carlsbad	carlsbad	NN	CW	NOUN	ARGUMENT
+californium	californium	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+treat	treat	NN	CW	NOUN	ARGUMENT
+cytomegalovirus	cytomegalovirus	NN	CW	NOUN	ARGUMENT
+infection	infection	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+patient	patient	NN	CW	NOUN	ARGUMENT
+hiv	hiv	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+vitravene	vitravene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+actually	actually	RB	ADV	CW
+dna	dna	NN	CW	NOUN	ARGUMENT
+antisense	antisense	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+bind	bind	VBP	CW	VERB
+viral	viral	JJ	CW	ADJ
+dna	dna	NN	CW	NOUN	ARGUMENT
+though	though	IN	FW	SUBORDINATOR
+say	say	VBP	CW	VERB
+usman	usman	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unclear	unclear	JJ	CW	ADJ
+actually	actually	RB	ADV	CW
+work	work	VBP	CW	VERB
+antisense	antisense	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+stein	stein	NN	CW	NOUN	ARGUMENT
+express	express	VBP	CW	VERB
+similar	similar	JJ	CW	ADJ
+skepticism	skepticism	NN	CW	NOUN	ARGUMENT
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+antisense	antisense	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+genasense	genasense	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+genasense	genasense	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+dna-based	dna-based	JJ	CW	ADJ
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+bcl	bcl	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+protein	protein	NN	CW	NOUN	ARGUMENT
+express	express	VBP	CW	VERB
+high	high	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+think	think	VB	CW	VERB
+protect	protect	VB	CW	VERB
+standard	standard	JJ	CW	ADJ
+chemotherapy	chemotherapy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fda	fda	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+currently	currently	RB	ADV	CW
+review	review	VBP	CW	VERB
+application	application	NN	CW	NOUN	ARGUMENT
+genasense	genasense	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+promising	promising	JJ	CW	ADJ
+result	result	NN	CW	NOUN	ARGUMENT
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+malignant	malignant	JJ	CW	ADJ
+melanoma	melanoma	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+grow	grow	VB	CW	VERB
+disillusionment	disillusionment	NN	CW	NOUN	ARGUMENT
+antisense	antisense	JJ	CW	ADJ
+ribozyme	ribozyme	NN	CW	NOUN	ARGUMENT
+coincide	coincide	VBP	CW	VERB
+discovery	discovery	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+realization	realization	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+far	far	RB	ADV	CW
+more	more	RBR	ADV	CW
+potent	potent	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+silence	silence	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+usee	usee	NN	CW	NOUN	ARGUMENT
+short	short	JJ	CW	ADJ
+dsrna	dsrna	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+match	match	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+interest	interest	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+once	once	RB	ADV	CW
+cell	cell	NN	CW	NOUN	ARGUMENT
+dsrna	dsrna	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+cleaved	cleave	VBN	CW	VERB
+segment	segment	NN	CW	NOUN	ARGUMENT
+approximately	approximately	RB	ADV	CW
+22	22	CD	FW
+nucleotide	nucleotide	NN	CW	NOUN	ARGUMENT
+long	long	JJ	CW	ADJ
+call	call	NN	CW	NOUN	ARGUMENT
+short	short	JJ	CW	ADJ
+interfere	interfere	VBP	CW	VERB
+rna	rna	NN	CW	NOUN	ARGUMENT
+sirna	sirna	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sirna	sirna	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+bind	bind	VBP	CW	VERB
+rna-induced	rna-induced	JJ	CW	ADJ
+silence	silence	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+risc	risc	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+also	also	RB	ADV	CW
+bind	bind	VBP	CW	VERB
+match	match	NN	CW	NOUN	ARGUMENT
+mrna	mrna	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+once	once	RB	ADV	CW
+occur	occur	VB	CW	VERB
+mrna	mrna	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+degraded	degrade	VBN	CW	VERB
+effectively	effectively	RB	ADV	CW
+silence	silence	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+
+sentence break
+
+detail	detail	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+risc	risc	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+largely	largely	RB	ADV	CW
+unknown	unknown	JJ	CW	ADJ
+be	be	VB	CW	VERB
+think	think	VB	CW	VERB
+act	act	NN	CW	NOUN	ARGUMENT
+true	true	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+require	require	VBP	CW	VERB
+only	only	RB	ADV	CW
+one	one	CD	FW
+several	several	JJ	CW	ADJ
+sirna	sirna	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+degrade	degrade	VB	CW	VERB
+many	many	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+match	match	NN	CW	NOUN	ARGUMENT
+mrna	mrna	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+extraordinary	extraordinary	JJ	CW	ADJ
+selectivity	selectivity	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+combine	combine	VBP	CW	VERB
+potency	potency	NN	CW	NOUN	ARGUMENT
+in	in	IN	FW
+theory	theory	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+few	few	JJ	CW	ADJ
+dsrna	dsrna	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+need	need	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+quickly	quickly	RB	ADV	CW
+make	make	VBP	CW	VERB
+tool	tool	NN	CW	NOUN	ARGUMENT
+choice	choice	NN	CW	NOUN	ARGUMENT
+functional	functional	JJ	CW	ADJ
+genomic	genomic	JJ	CW	ADJ
+determine	determine	VBN	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+product	product	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+product	product	NN	CW	NOUN	ARGUMENT
+interact	interact	VBP	CW	VERB
+drug	drug	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+discovery	discovery	NN	CW	NOUN	ARGUMENT
+validation	validation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+knock	knock	VB	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+determine	determine	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+respond	respond	NN	CW	NOUN	ARGUMENT
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+course	course	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+few	few	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+significant	significant	JJ	CW	ADJ
+insight	insight	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+determine	determine	VB	CW	VERB
+reduce	reduce	VB	CW	VERB
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+likely	likely	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+therapeutically	therapeutically	RB	ADV	CW
+useful	useful	JJ	CW	ADJ
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+rnaus	rnaus	NNS	CW	NOUN	ARGUMENT
+have	have	VB	CW	VERB
+better	better	JJR	CW	ADJ
+chance	chance	NN	CW	NOUN	ARGUMENT
+succeed	succeed	VB	CW	VERB
+drug	drug	NN	CW	NOUN	ARGUMENT
+antisense	antisense	JJ	CW	ADJ
+ribozyme	ribozyme	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fundamental	fundamental	JJ	CW	ADJ
+difference	difference	NN	CW	NOUN	ARGUMENT
+favor	favor	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+harness	harness	NN	CW	NOUN	ARGUMENT
+endogenous	endogenous	JJ	CW	ADJ
+natural	natural	JJ	CW	ADJ
+pathway	pathway	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+nagesh	nagesh	JJ	CW	ADJ
+mahanthappa	mahanthappa	NN	CW	NOUN	ARGUMENT
+director	director	NN	CW	NOUN	ARGUMENT
+corporate	corporate	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+alnylam	alnylam	NN	CW	NOUN	ARGUMENT
+pharmaceutical	pharmaceutical	JJ	CW	ADJ
+cambridge	cambridge	NN	CW	NOUN	ARGUMENT
+massachusett	massachusett	NN	CW	NOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+two	two	CD	FW
+major	major	JJ	CW	ADJ
+biotech	biotech	JJ	CW	ADJ
+company	company	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+rnai-based	rnai-based	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+exploitation	exploitation	NN	CW	NOUN	ARGUMENT
+pre-existing	pre-existing	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+be	be	VB	CW	VERB
+main	main	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+order	order	NN	CW	NOUN	ARGUMENT
+magnitude	magnitude	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+potent	potent	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+two	two	CD	FW
+type	type	NN	CW	NOUN	ARGUMENT
+rna	rna	NN	CW	NOUN	ARGUMENT
+strategy	strategy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+more	more	RBR	ADV	CW
+potent	potent	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+tube	tube	NN	CW	NOUN	ARGUMENT
+least	least	JJS	CW	ADJ
+
+sentence break
+
+stability	stability	NN	CW	NOUN	ARGUMENT
+delivery	delivery	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+major	major	JJ	CW	ADJ
+obstacle	obstacle	NN	CW	NOUN	ARGUMENT
+successful	successful	JJ	CW	ADJ
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+obstacle	obstacle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+intrinsic	intrinsic	JJ	CW	ADJ
+biochemical	biochemical	JJ	CW	ADJ
+nature	nature	NN	CW	NOUN	ARGUMENT
+rna	rna	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+body	body	NN	CW	NOUN	ARGUMENT
+defense	defense	NN	CW	NOUN	ARGUMENT
+infection	infection	NN	CW	NOUN	ARGUMENT
+foreign	foreign	JJ	CW	ADJ
+nucleotide	nucleotide	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+strongest	strongest	JJS	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+n't	not	RB	ADV	CW
+get	get	VB	CW	VERB
+away	away	RB	ADV	CW
+say	say	VBP	CW	VERB
+stein	stein	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+problem	problem	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+charge	charge	NN	CW	NOUN	ARGUMENT
+oligonucleotide	oligonucleotide	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+pass	pass	VB	CW	VERB
+lipid	lipid	NN	CW	NOUN	ARGUMENT
+layer	layer	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+order	order	NN	CW	NOUN	ARGUMENT
+enter	enter	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+john	john	NN	CW	NOUN	ARGUMENT
+rossus	rossus	NN	CW	NOUN	ARGUMENT
+director	director	NN	CW	NOUN	ARGUMENT
+department	department	NN	CW	NOUN	ARGUMENT
+molecular	molecular	JJ	CW	ADJ
+biology	biology	NN	CW	NOUN	ARGUMENT
+city	city	NN	CW	NOUN	ARGUMENT
+hope	hope	VBP	CW	VERB
+hospital	hospital	NN	CW	NOUN	ARGUMENT
+duarte	duarte	NN	CW	NOUN	ARGUMENT
+californium	californium	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+rna-based	rna-based	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+15	15	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+concur	concur	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+take	take	VB	CW	VERB
+rna	rna	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+make	make	VBP	CW	VERB
+evolutionary	evolutionary	JJ	CW	ADJ
+sense	sense	NN	CW	NOUN	ARGUMENT
+extracellular	extracellular	JJ	CW	ADJ
+rna	rna	NN	CW	NOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+signify	signify	VBP	CW	VERB
+viral	viral	JJ	CW	ADJ
+infection	infection	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+injected	inject	VBN	CW	VERB
+bloodstream	bloodstream	NN	CW	NOUN	ARGUMENT
+unmodified	unmodified	JJ	CW	ADJ
+rna	rna	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+rapidly	rapidly	RB	ADV	CW
+excreted	excrete	VBN	CW	VERB
+kidney	kidney	NN	CW	NOUN	ARGUMENT
+degraded	degraded	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+solve	solve	VB	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+penetration	penetration	NN	CW	NOUN	ARGUMENT
+most	most	JJS	CW	ADJ
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+complexed	complex	VBN	CW	VERB
+rna	rna	NN	CW	NOUN	ARGUMENT
+lipid	lipid	NN	CW	NOUN	ARGUMENT
+modify	modify	VB	CW	VERB
+rna	rna	NN	CW	NOUN	ARGUMENT
+phosphate	phosphate	NN	CW	NOUN	ARGUMENT
+backbone	backbone	NN	CW	NOUN	ARGUMENT
+minimize	minimize	VBP	CW	VERB
+charge	charge	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mahanthappa	mahanthappa	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+complex	complex	JJ	CW	ADJ
+approach	approach	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unlikely	unlikely	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+simple	simple	JJ	CW	ADJ
+solution	solution	NN	CW	NOUN	ARGUMENT
+drug	drug	NN	CW	NOUN	ARGUMENT
+approval	approval	NN	CW	NOUN	ARGUMENT
+require	require	VBP	CW	VERB
+independent	independent	JJ	CW	ADJ
+testing	testing	NN	CW	NOUN	ARGUMENT
+lipid	lipid	NN	CW	NOUN	ARGUMENT
+delivery	delivery	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+instead	instead	RB	ADV	FW
+alnylam	alnylam	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+pursue	pursue	VB	CW	VERB
+backbone	backbone	NN	CW	NOUN	ARGUMENT
+modification	modification	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+minimal	minimal	JJ	CW	ADJ
+modification	modification	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+go	go	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+necessary	necessary	JJ	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+uptake	uptake	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+stability	stability	NN	CW	NOUN	ARGUMENT
+blood	blood	NN	CW	NOUN	ARGUMENT
+stream	stream	NN	CW	NOUN	ARGUMENT
+mahanthappa	mahanthappa	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+antisense	antisense	JJ	CW	ADJ
+field	field	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+even	even	RB	ADV	CW
+other	other	JJ	CW	ADJ
+delivery	delivery	NN	CW	NOUN	ARGUMENT
+strategy	strategy	NN	CW	NOUN	ARGUMENT
+administer	administer	VBP	CW	VERB
+rna	rna	NN	CW	NOUN	ARGUMENT
+sufficient	sufficient	JJ	CW	ADJ
+dose	dose	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+stable	stable	JJ	CW	ADJ
+get	get	VB	CW	VERB
+take	take	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+anything	anything	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+do	do	VB	FW	aux_or_cop
+increase	increase	VB	CW	VERB
+half-life	half-life	NN	CW	NOUN	ARGUMENT
+circulation	circulation	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+delivery	delivery	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+judy	judy	NN	CW	NOUN	ARGUMENT
+lieberman	lieberman	NN	CW	NOUN	ARGUMENT
+senior	senior	JJ	CW	ADJ
+investigator	investigator	NN	CW	NOUN	ARGUMENT
+center	center	NN	CW	NOUN	ARGUMENT
+blood	blood	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+associate	associate	JJ	CW	ADJ
+professor	professor	NN	CW	NOUN	ARGUMENT
+pediatrics	pediatrics	NNS	CW	NOUN	ARGUMENT
+harvard	harvard	VBP	CW	VERB
+medical	medical	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+cambridge	cambridge	NN	CW	NOUN	ARGUMENT
+massachusett	massachusett	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+problem	problem	NN	CW	NOUN	ARGUMENT
+caution	caution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lieberman	lieberman	NN	CW	NOUN	ARGUMENT
+lab	lab	NN	CW	NOUN	ARGUMENT
+recently	recently	RB	ADV	CW
+demonstrate	demonstrate	VBP	CW	VERB
+ability	ability	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+silence	silence	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+fa	fa	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+protect	protect	VBP	CW	VERB
+fulminant	fulminant	JJ	CW	ADJ
+hepatitis	hepatitis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fa	fa	NN	CW	NOUN	ARGUMENT
+trigger	trigger	NN	CW	NOUN	ARGUMENT
+apoptosis	apoptosis	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+response	response	NN	CW	NOUN	ARGUMENT
+variety	variety	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+insult	insult	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+lieberman	lieberman	NN	CW	NOUN	ARGUMENT
+deliver	deliver	VBP	CW	VERB
+rna	rna	NN	CW	NOUN	ARGUMENT
+high-pressure	high-pressure	JJ	CW	ADJ
+injection	injection	NN	CW	NOUN	ARGUMENT
+tail	tail	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rna	rna	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+liver	liver	NN	CW	NOUN	ARGUMENT
+silence	silence	NN	CW	NOUN	ARGUMENT
+fa	fa	NN	CW	NOUN	ARGUMENT
+protect	protect	VBP	CW	VERB
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+hepatitis	hepatitis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+significant	significant	JJ	CW	ADJ
+fraction	fraction	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+die	die	VB	CW	VERB
+heart	heart	NN	CW	NOUN	ARGUMENT
+failure	failure	NN	CW	NOUN	ARGUMENT
+bring	bring	VBP	CW	VERB
+injection	injection	NN	CW	NOUN	ARGUMENT
+volume	volume	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+20	20	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+blood	blood	NN	CW	NOUN	ARGUMENT
+volume	volume	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+such	such	JJ	CW	ADJ
+delivery	delivery	NN	CW	NOUN	ARGUMENT
+scheme	scheme	NN	CW	NOUN	ARGUMENT
+simply	simply	RB	ADV	CW
+not	not	RB	ADV	CW
+work	work	VB	CW	VERB
+human	human	JJ	CW	ADJ
+
+sentence break
+
+delivery	delivery	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+obstacle	obstacle	NN	CW	NOUN	ARGUMENT
+lieberman	lieberman	NN	CW	NOUN	ARGUMENT
+explain	explain	VBP	CW	VERB
+
+sentence break
+
+really	really	RB	ADV	CW
+focus	focus	VB	CW	VERB
+solve	solve	VB	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+go	go	VB	CW	VERB
+get	get	VB	CW	VERB
+very	very	RB	ADV	CW
+far	far	RB	ADV	CW
+
+sentence break
+
+even	even	RB	ADV	CW
+assume	assume	VB	CW	VERB
+delivery	delivery	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+solve	solve	VB	CW	VERB
+other	other	JJ	CW	ADJ
+question	question	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+include	include	VBP	CW	VERB
+therapeutic	therapeutic	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+toxic	toxic	JJ	CW	ADJ
+
+sentence break
+
+mahanthappa	mahanthappa	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+conservative	conservative	JJ	CW	ADJ
+answer	answer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+just	just	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+
+sentence break
+
+more	more	RBR	ADV	CW
+aggressive	aggressive	JJ	CW	ADJ
+answer	answer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+reason	reason	NN	CW	NOUN	ARGUMENT
+think	think	VB	CW	VERB
+so	so	RB	ADV	CW
+
+sentence break
+
+rossus	rossus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+n't	not	RB	ADV	CW
+so	so	RB	ADV	CW
+sure	sure	JJ	CW	ADJ
+
+sentence break
+
+target	target	NN	CW	NOUN	ARGUMENT
+interest	interest	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+normal	normal	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+be	be	VB	CW	VERB
+get	get	VB	CW	VERB
+toxicity	toxicity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+small	small	JJ	CW	ADJ
+rna	rna	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+deliver	deliver	VB	CW	VERB
+target	target	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+efficiently	efficiently	RB	ADV	CW
+significant	significant	JJ	CW	ADJ
+toxicity	toxicity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+effective	effective	JJ	CW	ADJ
+medicine	medicine	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+usman	usman	NN	CW	NOUN	ARGUMENT
+sirna	sirna	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+confident	confident	JJ	CW	ADJ
+be	be	VB	CW	VERB
+
+sentence break
+
+get	get	VB	CW	VERB
+there	there	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+one	one	CD	FW
+piece	piece	NN	CW	NOUN	ARGUMENT
+doubt	doubt	NN	CW	NOUN	ARGUMENT
+mind	mind	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+date	date	NN	CW	NOUN	ARGUMENT
+numerous	numerous	JJ	CW	ADJ
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+downregulate	downregulate	VBP	CW	VERB
+variety	variety	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+effectively	effectively	RB	ADV	CW
+
+sentence break
+
+however	however	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+two	two	CD	FW
+unanswered	unanswered	JJ	CW	ADJ
+question	question	NN	CW	NOUN	ARGUMENT
+translate	translate	VB	CW	VERB
+effective	effective	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+rnaus	rnaus	JJ	CW	ADJ
+exquisite	exquisite	JJ	CW	ADJ
+specificity	specificity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+really	really	RB	ADV	CW
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+bench	bench	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+unclear	unclear	JJ	CW	ADJ
+highly	highly	RB	ADV	CW
+specific	specific	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+big	big	JJ	CW	ADJ
+therapeutic	therapeutic	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+cy	cy	NN	CW	NOUN	ARGUMENT
+stein	stein	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+instance	instance	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+most	most	RBS	ADV	CW
+active	active	JJ	CW	ADJ
+antitumor	antitumor	NN	CW	NOUN	ARGUMENT
+medicine	medicine	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+action	action	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+more	more	RBR	ADV	CW
+specific	specific	JJ	CW	ADJ
+make	make	VBP	CW	VERB
+less	less	JJR	CW	ADJ
+robust	robust	JJ	CW	ADJ
+therapeutic	therapeutic	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+likely	likely	JJ	CW	ADJ
+be	be	VB	CW	VERB
+
+sentence break
+
+rossus	rossus	NN	CW	NOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+
+sentence break
+
+overspecificity	overspecificity	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+never	never	RB	ADV	CW
+work	work	VB	CW	VERB
+say	say	VB	CW	VERB
+
+sentence break
+
+second	second	JJ	CW	ADJ
+question	question	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+effect	effect	NN	CW	NOUN	ARGUMENT
+excess	excess	JJ	CW	ADJ
+rna	rna	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+normal	normal	JJ	CW	ADJ
+function	function	NN	CW	NOUN	ARGUMENT
+risc	risc	NN	CW	NOUN	ARGUMENT
+complex	complex	JJ	CW	ADJ
+heart	heart	NN	CW	NOUN	ARGUMENT
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+number	number	NN	CW	NOUN	ARGUMENT
+risc	risc	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unknown	unknown	JJ	CW	ADJ
+one	one	CD	FW
+concern	concern	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+amount	amount	NN	CW	NOUN	ARGUMENT
+rna	rna	NN	CW	NOUN	ARGUMENT
+need	need	MD	FW	aux_or_cop
+have	have	VB	CW	VERB
+therapeutic	therapeutic	JJ	CW	ADJ
+effect	effect	NN	CW	NOUN	ARGUMENT
+occupy	occupy	VBP	CW	VERB
+available	available	JJ	CW	ADJ
+complex	complex	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+usurp	usurp	VB	CW	VERB
+natural	natural	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+there	there	RB	ADV	CW
+other	other	JJ	CW	ADJ
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+knock	knock	VB	CW	VERB
+endogenous	endogenous	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+rossus	rossus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+introduction	introduction	NN	CW	NOUN	ARGUMENT
+foreign	foreign	JJ	CW	ADJ
+rna	rna	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+perform	perform	VB	CW	VERB
+normal	normal	JJ	CW	ADJ
+function	function	NN	CW	NOUN	ARGUMENT
+well	well	RB	ADV	CW
+become	become	VBP	CW	VERB
+saturate	saturate	VB	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+big	big	JJ	CW	ADJ
+black	black	JJ	CW	ADJ
+box	box	NN	CW	NOUN	ARGUMENT
+field	field	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+question	question	NN	CW	NOUN	ARGUMENT
+unsolved	unsolved	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+sirna	sirna	NN	CW	NOUN	ARGUMENT
+alnylam	alnylam	NN	CW	NOUN	ARGUMENT
+several	several	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+company	company	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+move	move	VB	CW	VERB
+ahead	ahead	RB	ADV	FW
+develop	develop	VB	CW	VERB
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indeed	indeed	RB	ADV	CW
+outstanding	outstanding	JJ	CW	ADJ
+question	question	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+only	only	RB	ADV	CW
+likely	likely	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+answer	answer	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+therapeutic	therapeutic	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+application	application	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+likely	likely	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+out-of-control	out-of-control	JJ	CW	ADJ
+oncogene	oncogene	NN	CW	NOUN	ARGUMENT
+viral	viral	JJ	CW	ADJ
+infection	infection	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+viral	viral	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+avoid	avoid	VB	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+delivery	delivery	NN	CW	NOUN	ARGUMENT
+initial	initial	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+deliver	deliver	VB	CW	VERB
+rna	rna	NN	CW	NOUN	ARGUMENT
+direct	direct	JJ	CW	ADJ
+injection	injection	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+tumor	tumor	NN	CW	NOUN	ARGUMENT
+instance	instance	NN	CW	NOUN	ARGUMENT
+ex	ex	FW	FW
+vivo	vivo	FW	FW
+treat	treat	NN	CW	NOUN	ARGUMENT
+white	white	JJ	CW	ADJ
+blood	blood	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+infect	infect	VB	CW	VERB
+hiv	hiv	NN	CW	NOUN	ARGUMENT
+example	example	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+spend	spend	VB	CW	VERB
+decade	decade	NN	CW	NOUN	ARGUMENT
+try	try	VB	CW	VERB
+develop	develop	VB	CW	VERB
+ribozyme	ribozyme	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+usman	usman	NN	CW	NOUN	ARGUMENT
+sirna	sirna	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+prepare	prepare	VB	CW	VERB
+rough	rough	JJ	CW	ADJ
+road	road	NN	CW	NOUN	ARGUMENT
+face	face	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+solve	solve	VB	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+know	know	VB	CW	VERB
+proceed	proceed	VB	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+surprise	surprise	NN	CW	NOUN	ARGUMENT
+us	we	PRP	FW	PRONOUN	ARGUMENT
+we	we	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+see	see	VB	CW	VERB
+movie	movie	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW
+
+sentence break
+
+usman	usman	NN	CW	NOUN	ARGUMENT
+expect	expect	VBP	CW	VERB
+sirna	sirna	NN	CW	NOUN	ARGUMENT
+file	file	NN	CW	NOUN	ARGUMENT
+investigational	investigational	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+application	application	NN	CW	NOUN	ARGUMENT
+fda	fda	NN	CW	NOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+2004	2004	CD	FW
+have	have	VBP	CW	VERB
+human	human	JJ	CW	ADJ
+clinical	clinical	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+progress	progress	NN	CW	NOUN	ARGUMENT
+2005	2005	CD	FW
+
+sentence break
+
+doubt	doubt	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+rnai-based	rnai-based	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+ten	ten	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+usman	usman	NN	CW	NOUN	ARGUMENT
+predict	predict	VBP	CW	VERB
+
+sentence break
+
+stein	stein	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+n't	not	RB	ADV	CW
+so	so	RB	ADV	CW
+sure	sure	JJ	CW	ADJ
+think	think	VBP	CW	VERB
+too	too	RB	ADV	CW
+much	much	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+learn	learn	VB	CW	VERB
+rnaus	rnaus	NN	CW	NOUN	ARGUMENT
+body	body	NN	CW	NOUN	ARGUMENT
+reaction	reaction	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+confident	confident	JJ	CW	ADJ
+rna-based	rna-based	JJ	CW	ADJ
+therapy	therapy	NN	CW	NOUN	ARGUMENT
+ultimately	ultimately	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+whole	whole	JJ	CW	ADJ
+field	field	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+found	find	VBN	CW	VERB
+belief	belief	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+rational	rational	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+huge	huge	JJ	CW	ADJ
+gap	gap	NN	CW	NOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+bit	bit	NN	CW	NOUN	ARGUMENT
+luck	luck	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+say	say	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+think	think	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+surprise	surprise	NN	CW	NOUN	ARGUMENT
+complicate	complicate	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+other	other	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+intellectual	intellectual	JJ	CW	ADJ
+conceit	conceit	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+nature	nature	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+simple	simple	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

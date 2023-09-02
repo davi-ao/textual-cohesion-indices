@@ -78,12 +78,20 @@ indices %>%
                   'slate' = 'Magazine articles')) %>%
   group_by(text, index, corpus, type, genre) %>%
   summarize(`Mean indices` = mean(value)) %>%
-  ggplot(aes(corpus, `Mean indices`, fill = genre)) +
+  ggplot(aes(genre, `Mean indices`, fill = genre, group = genre)) +
   geom_boxplot() +
+  stat_summary(fun.y = mean, 
+               geom = 'point',
+               shape = 22,
+               size = 2,
+               color = 'black',
+               fill = 'white',
+               position = position_dodge(width = 1)) +
   facet_wrap(type ~ index, scales = 'free') +
   theme(legend.position = 'bottom', legend.direction = 'horizontal') +
   scale_fill_brewer(palette = 'Dark2') +
-  xlab('')
+  xlab('') +
+  theme(axis.text.x = element_blank())
 
 ggsave('figure6.png',
        device = 'png',
@@ -158,7 +166,7 @@ for (p in seq(.1, .9, .1)) {
 }
 
 # Empirical probabilities of parwise vertex cohesion indices
-for (p in seq(.1, .4, length.out = 9)) {
+for (p in seq(.1, .9, length.out = 9)) {
   indices %>%
     filter(index == 'ρ - Mean Pairwise Cohesion', 
            type == 'Vertex Cohesion') %>%
@@ -215,14 +223,13 @@ indices_partial %>%
                   'v' = 'Vertex Cohesion'),
          value = ifelse(value == Inf, 0, value)) %>%
   ggplot(aes(value,
-             fill = corpus, 
-             group = corpus)) +
-  facet_grid(type ~ sentences, scales = 'free') +
-  geom_histogram(colour = 'black') +
+             corpus)) +
+  facet_wrap(type ~ sentences, scales = 'free', ncol=6) +
+  geom_violin() +
   theme(legend.position = 'bottom', legend.direction = 'horizontal') +
-  scale_fill_brewer(palette = 'Dark2') +
-  xlab('Value') +
-  ylab('Frequency')
+  scale_fill_brewer(palette = 'Dark2') #+
+  #xlab('Value') +
+  #ylab('Frequency')
 
 ggsave('figure8_histograms.png', 
        device = 'png', 
@@ -294,3 +301,52 @@ ggsave('figure10_histograms.png',
        height = 12.35,
        units = 'cm', 
        dpi = 300)
+
+# 10 SENTENCES -----------------------------------------------------------------
+# Empirical probabilities of global vertex cohesion indices with 10 sentences
+empirical_probabilities_partial = tibble(
+  n_sentences = character(),
+  index = character(),
+  p = double(),
+  pseudo = double(),
+  text = double(),
+  diff = double()
+)
+
+nos_list = list(
+  '10' = c('10'),
+  '20' = c('10', '20'),
+  '30' = c('10', '20', '30'),
+  '40' = c('10', '20', '30', '40'),
+  '50' = c('10', '20', '30', '40', '50'),
+  '60' = c('10', '20', '30', '40', '50', '60')
+)
+
+for (number_of_sentences in nos_list) {
+  for (index_name in c('global', 'local', 'pairwise')) {
+    for (p in seq(.1, .9, .1)) {
+      empirical_probabilities_partial = 
+        empirical_probabilities_partial %>%
+        bind_rows(
+          indices_partial %>%
+            filter(index == index_name, 
+                   sentences %in% number_of_sentences) %>%
+            mutate(corpus = ifelse(text %>% str_detect('pseudotext'), 
+                                   'pseudo', 
+                                   'text')) %>%
+            group_by(corpus) %>%
+            summarise(n_sentences = 
+                        number_of_sentences[length(number_of_sentences)], 
+                      index = index_name, 
+                      p = p, 
+                      Mean = mean(v >= p)) %>%
+            pivot_wider(names_from = 'corpus', values_from = Mean) %>%
+            mutate(diff = pseudo - text)
+        )
+    }
+  }
+}
+
+library(openxlsx)
+
+write.xlsx(empirical_probabilities_partial, 'empirical_probabilities_partial.xlsx')

@@ -1,0 +1,506 @@
+word	lemma	POS	CW\FW	other categories
+1985	1985	CD	FW
+group	group	NN	CW	NOUN	ARGUMENT
+courageous	courageous	JJ	CW	ADJ
+pioneering	pioneering	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+establish	establish	VB	CW	VERB
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+indianapoli	indianapolus	NNS	CW	NOUN	ARGUMENT
+meet	meet	VBP	FW	aux_or_cop
+need	need	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+tradition	tradition	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+
+sentence break
+
+wyca	wyca	NN	CW	NOUN	ARGUMENT
+indianapoli	indianapolus	NNS	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+focus	focus	VBP	CW	VERB
+support	support	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+empowerment	empowerment	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+empowerment	empowerment	NN	CW	NOUN	ARGUMENT
+refer	refer	VB	CW	VERB
+meet	meet	VB	CW	VERB
+need	need	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+freely	freely	RB	ADV	CW
+exercise	exercise	VBP	CW	VERB
+power	power	NN	CW	NOUN	ARGUMENT
+determine	determine	VB	CW	VERB
+direct	direct	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	CW	VERB
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+differ	differ	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+organization	organization	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+health	health	NN	CW	NOUN	ARGUMENT
+fitness	fitness	NN	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+answer	answer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+focus	focus	NN	CW	NOUN	ARGUMENT
+mission	mission	NN	CW	NOUN	ARGUMENT
+empowerment	empowerment	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+prospective	prospective	JJ	CW	ADJ
+current	current	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+evaluate	evaluate	VB	CW	VERB
+basis	basis	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+more	more	JJR	CW	ADJ
+aspect	aspect	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+need	need	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+please	please	VB	CW	VERB
+join	join	VB	CW	VERB
+prepare	prepare	VB	CW	VERB
+enter	enter	VB	CW	VERB
+21	21	CD	FW
+st	st	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+
+sentence break
+
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+oldest	oldest	JJS	CW	ADJ
+largest	largest	JJS	CW	ADJ
+organization	organization	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+dedicate	dedicate	JJ	CW	ADJ
+empowerment	empowerment	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+elimination	elimination	NN	CW	NOUN	ARGUMENT
+racism	racism	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+attain	attain	VBP	CW	VERB
+common	common	JJ	CW	ADJ
+vision	vision	NN	CW	NOUN	ARGUMENT
+peace	peace	NN	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+freedom	freedom	NN	CW	NOUN	ARGUMENT
+dignity	dignity	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	CW	VERB
+
+sentence break
+
+indianapoli	indianapoli	JJ	CW	ADJ
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+open	open	JJ	CW	ADJ
+supportive	supportive	JJ	CW	ADJ
+organization	organization	NN	CW	NOUN	ARGUMENT
+concern	concern	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+provide	provide	VB	CW	VERB
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+skill	skill	NN	CW	NOUN	ARGUMENT
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+resource	resource	NN	CW	NOUN	ARGUMENT
+area	area	NN	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+self-awareness	self-awareness	NN	CW	NOUN	ARGUMENT
+leadership	leadership	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indianapoli	indianapoli	JJ	CW	ADJ
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+answer	answer	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+daughter	daughter	NN	CW	NOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+aunt	aunt	NN	CW	NOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+address	address	NN	CW	NOUN	ARGUMENT
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+era	era	NN	CW	NOUN	ARGUMENT
+commit	commit	VB	CW	VERB
+organization	organization	NN	CW	NOUN	ARGUMENT
+assist	assist	VB	CW	VERB
+process	process	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+quality	quality	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+
+sentence break
+
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+house	house	NN	CW	NOUN	ARGUMENT
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+resource	resource	NN	CW	NOUN	ARGUMENT
+conference	conference	NN	CW	NOUN	ARGUMENT
+center	center	NN	CW	NOUN	ARGUMENT
+22	22	CD	FW
+beautiful	beautiful	JJ	CW	ADJ
+acre	acre	NN	CW	NOUN	ARGUMENT
+grounds	grounds	NNS	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+amenity	amenity	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+50	50	CD	FW
+meter	meter	NN	CW	NOUN	ARGUMENT
+olympic-size	olympic-size	JJ	CW	ADJ
+outdoor	outdoor	JJ	CW	ADJ
+pool	pool	NN	CW	NOUN	ARGUMENT
+attach	attach	VBP	CW	VERB
+junior	junior	JJ	CW	ADJ
+baby	baby	NN	CW	NOUN	ARGUMENT
+pool	pool	NN	CW	NOUN	ARGUMENT
+equip	equip	VB	CW	VERB
+playground	playground	NN	CW	NOUN	ARGUMENT
+shelter	shelter	NN	CW	NOUN	ARGUMENT
+picnic	picnic	NN	CW	NOUN	ARGUMENT
+area	area	NN	CW	NOUN	ARGUMENT
+basketball	basketball	NN	CW	NOUN	ARGUMENT
+court	court	NN	CW	NOUN	ARGUMENT
+soccer	soccer	NN	CW	NOUN	ARGUMENT
+softball	softball	NN	CW	NOUN	ARGUMENT
+field	field	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+carry	carry	VB	CW	VERB
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+campus	campus	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+shelter	shelter	NN	CW	NOUN	ARGUMENT
+public	public	JJ	CW	ADJ
+housing	housing	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+correctional	correctional	JJ	CW	ADJ
+facility	facility	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+location	location	NN	CW	NOUN	ARGUMENT
+central	central	JJ	CW	ADJ
+indiana	indiana	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+make	make	VB	CW	VERB
+possible	possible	JJ	CW	ADJ
+
+sentence break
+
+1997	1997	CD	FW
+united	united	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+central	central	JJ	CW	ADJ
+indiana	indiana	NN	CW	NOUN	ARGUMENT
+generously	generously	RB	ADV	CW
+assist	assist	VB	CW	VERB
+25	25	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+budgetary	budgetary	JJ	CW	ADJ
+need	need	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+government	government	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+foundation	foundation	NN	CW	NOUN	ARGUMENT
+grant	grant	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+additional	additional	JJ	CW	ADJ
+23	23	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+program	program	NN	CW	NOUN	ARGUMENT
+fee	fee	NN	CW	NOUN	ARGUMENT
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+52	52	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+tax-deductible	tax-deductible	JJ	CW	ADJ
+gift	gift	NN	CW	NOUN	ARGUMENT
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+investment	investment	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+central	central	JJ	CW	ADJ
+indiana	indiana	NN	CW	NOUN	ARGUMENT
+area	area	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+development	development	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+offer	offer	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+giving	give	VBG	CW	VERB
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+meet	meet	VBP	CW	VERB
+company	company	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+philanthropic	philanthropic	JJ	CW	ADJ
+need	need	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+positive	positive	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+financial	financial	JJ	CW	ADJ
+assistance	assistance	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+need	need	MD	CW	VERB
+following	follow	VBG	CW	VERB
+area	area	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+general	general	JJ	CW	ADJ
+operating	operating	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cover	cover	NN	CW	NOUN	ARGUMENT
+operate	operate	VBP	CW	VERB
+expense	expense	NN	CW	NOUN	ARGUMENT
+facility	facility	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+grief	grief	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+counseling	counseling	NN	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+objective	objective	JJ	CW	ADJ
+design	design	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+incarcerated	incarcerate	VBD	CW	VERB
+youth	youth	NN	CW	NOUN	ARGUMENT
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+grief	grief	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+relate	relate	VBP	CW	VERB
+influence	influence	NN	CW	NOUN	ARGUMENT
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+parenting	parenting	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+counseling	counseling	NN	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+objective	objective	JJ	CW	ADJ
+design	design	NN	CW	NOUN	ARGUMENT
+teach	teach	VB	CW	VERB
+support	support	NN	CW	NOUN	ARGUMENT
+skill	skill	NN	CW	NOUN	ARGUMENT
+incarcerated	incarcerate	VBD	CW	VERB
+woman	woman	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	CW	VERB
+healthier	healthier	JJR	CW	ADJ
+more	more	RBR	ADV	CW
+positive	positive	JJ	CW	ADJ
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+primarily	primarily	RB	ADV	FW
+reduce	reduce	VB	CW	VERB
+child	child	NN	CW	NOUN	ARGUMENT
+abuse	abuse	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+young	young	JJ	CW	ADJ
+parent	parent	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+key	key	JJ	CW	ADJ
+component	component	NN	CW	NOUN	ARGUMENT
+reduction	reduction	NN	CW	NOUN	ARGUMENT
+potential	potential	JJ	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+abuse	abuse	NN	CW	NOUN	ARGUMENT
+design	design	NN	CW	NOUN	ARGUMENT
+decrease	decrease	NN	CW	NOUN	ARGUMENT
+stress	stress	NN	CW	NOUN	ARGUMENT
+parent	parent	NN	CW	NOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+enable	enable	VBP	CW	VERB
+parent	parent	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+school	school	NN	CW	NOUN	ARGUMENT
+attendance	attendance	NN	CW	NOUN	ARGUMENT
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+school	school	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+care	care	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+provide	provide	VB	CW	VERB
+affordable	affordable	JJ	CW	ADJ
+developmentally	developmentally	RB	ADV	FW
+appropriate	appropriate	JJ	CW	ADJ
+care	care	NN	CW	NOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+youth	youth	NN	CW	NOUN	ARGUMENT
+enrichment	enrichment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+supplement	supplement	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+curriculum	curriculum	NN	CW	NOUN	ARGUMENT
+exciting	exciting	JJ	CW	ADJ
+educational	educational	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+facility	facility	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+campership	campership	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+allow	allow	VB	CW	VERB
+child	child	NN	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+play	play	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+friendship	friendship	NN	CW	NOUN	ARGUMENT
+summer	summer	NN	CW	NOUN	ARGUMENT
+holiday	holiday	NN	CW	NOUN	ARGUMENT
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+health	health	NN	CW	NOUN	ARGUMENT
+wellness	wellness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+encourage	encourage	VB	CW	VERB
+lifelong	lifelong	JJ	CW	ADJ
+commitment	commitment	NN	CW	NOUN	ARGUMENT
+maintain	maintain	VBP	CW	VERB
+healthy	healthy	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+breast	breast	NN	CW	NOUN	ARGUMENT
+cervical	cervical	JJ	CW	ADJ
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+provide	provide	VB	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+sign	sign	NN	CW	NOUN	ARGUMENT
+symptom	symptom	NN	CW	NOUN	ARGUMENT
+assist	assist	VB	CW	VERB
+woman	woman	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+use	use	NN	CW	NOUN	ARGUMENT
+local	local	JJ	CW	ADJ
+resource	resource	NN	CW	NOUN	ARGUMENT
+breast	breast	NN	CW	NOUN	ARGUMENT
+exam	exam	NN	CW	NOUN	ARGUMENT
+mammography	mammography	NN	CW	NOUN	ARGUMENT
+pap	pap	NN	CW	NOUN	ARGUMENT
+smear	smear	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

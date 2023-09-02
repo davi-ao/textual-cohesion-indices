@@ -8,10 +8,11 @@
 library(tidyverse)
 
 # List csv files
-dir = 'corpora/oanc_csv_pseudotexts/'
+dir = 'corpora/oanc_csv/'
 files = list.files(dir)
 
 for (file in files) {
+  file = files[1]
   # Create the indices table
   indices = tibble(
     text = character(),
@@ -43,8 +44,8 @@ for (file in files) {
   )
   
   for(q in (data %>% .$clique_id %>% unique())) {
-    q_i = data %>% filter(clique_id == q)
-    G_i = data %>% filter(clique_id < q)
+    q_i = data %>% filter(as.numeric(clique_id) == as.numeric(q))
+    G_i = data %>% filter(as.numeric(clique_id) < as.numeric(q))
     
     global_backward_cohesion = global_backward_cohesion %>%
       bind_rows(tibble(

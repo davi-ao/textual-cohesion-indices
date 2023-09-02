@@ -1,0 +1,5947 @@
+word	lemma	POS	CW\FW	other categories
+indium	indium	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+alway	alway	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+melange	melange	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+apart	apart	RB	ADV	FW
+pre	pre	JJ	CW	ADJ
+ice	ice	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+hominid	hominid	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+settler	settler	NN	CW	NOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+negrito	negrito	JJ	CW	ADJ
+proto	proto	NN	CW	NOUN	ARGUMENT
+australoid	australoid	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+migrant	migrant	JJ	CW	ADJ
+mediterranean	mediterranean	JJ	CW	ADJ
+stock	stock	NN	CW	NOUN	ARGUMENT
+middle	middle	JJ	CW	ADJ
+east	east	JJ	CW	ADJ
+asium	asium	NN	CW	NOUN	ARGUMENT
+seem	seem	VBP	CW	VERB
+have	have	VBP	FW	aux_or_cop
+make	make	VB	CW	VERB
+dravidian	dravidian	JJ	CW	ADJ
+now	now	RB	ADV	CW
+principally	principally	RB	ADV	CW
+southern	southern	JJ	CW	ADJ
+peninsula	peninsula	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+4000	4000	CD	FW
+agriculturalist	agriculturalist	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+first	first	JJ	CW	ADJ
+appearance	appearance	NN	CW	NOUN	ARGUMENT
+up	up	IN	FW
+hill	hill	NN	CW	NOUN	ARGUMENT
+baluchistan	baluchistan	NN	CW	NOUN	ARGUMENT
+northwest	northwest	RB	ADV	FW
+
+sentence break
+
+indus	indus	NN	CW	NOUN	ARGUMENT
+river	river	NN	CW	NOUN	ARGUMENT
+valley	valley	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+technique	technique	NN	CW	NOUN	ARGUMENT
+permit	permit	NN	CW	NOUN	ARGUMENT
+storage	storage	NN	CW	NOUN	ARGUMENT
+wheat	wheat	NN	CW	NOUN	ARGUMENT
+barley	barley	NN	CW	NOUN	ARGUMENT
+daily	daily	RB	ADV	CW
+need	need	VBP	CW	VERB
+city	city	NN	CW	NOUN	ARGUMENT
+harappa	harappa	NN	CW	NOUN	ARGUMENT
+mohenjodaro	mohenjodaro	NN	CW	NOUN	ARGUMENT
+emerge	emerge	VBP	CW	VERB
+year	year	NN	CW	NOUN	ARGUMENT
+2300	2300	CD	FW
+create	create	VBP	CW	VERB
+civilization	civilization	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+more	more	RBR	ADV	CW
+advance	advance	JJ	CW	ADJ
+aryan	aryan	JJ	CW	ADJ
+come	come	VBN	CW	VERB
+later	later	RB	ADV	CW
+
+sentence break
+
+sewage	sewage	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+citadel	citadel	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+better	better	JJR	CW	ADJ
+construct	construct	NN	CW	NOUN	ARGUMENT
+modern	modern	JJ	CW	ADJ
+equivalent	equivalent	JJ	CW	ADJ
+animal	animal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+major	major	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+cuisine	cuisine	NN	CW	NOUN	ARGUMENT
+chicken	chicken	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+modern	modern	JJ	CW	ADJ
+archaeology	archaeology	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+indus	indus	NN	CW	NOUN	ARGUMENT
+valley	valley	NN	CW	NOUN	ARGUMENT
+civilization	civilization	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+destroy	destroy	VB	CW	VERB
+not	not	RB	ADV	CW
+aryan	aryan	JJ	CW	ADJ
+conqueror	conqueror	NN	CW	NOUN	ARGUMENT
+flood	flood	NN	CW	NOUN	ARGUMENT
+indus	indus	NN	CW	NOUN	ARGUMENT
+river	river	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+course	course	NN	CW	NOUN	ARGUMENT
+perhap	perhap	NN	CW	NOUN	ARGUMENT
+due	due	JJ	CW	ADJ
+earthquake	earthquake	NN	CW	NOUN	ARGUMENT
+1700	1700	CD	FW
+aryan	aryan	NN	CW	NOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+scene	scene	NN	CW	NOUN	ARGUMENT
+200	200	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+
+sentence break
+
+originally	originally	RB	ADV	CW
+russium	russium	NN	CW	NOUN	ARGUMENT
+asium	asium	NN	CW	NOUN	ARGUMENT
+migrated	migrate	VBD	CW	VERB
+mesopotamium	mesopotamium	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+then	then	RB	ADV	CW
+iran	iran	JJ	CW	ADJ
+enter	enter	VBP	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fair-skinned	fair-skinned	JJ	CW	ADJ
+cattle-breeder	cattle-breeder	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+cow	cow	NN	CW	NOUN	ARGUMENT
+especially	especially	RB	ADV	FW
+sacred	sacred	JJ	CW	ADJ
+animal	animal	NN	CW	NOUN	ARGUMENT
+cultivate	cultivate	VBP	CW	VERB
+agriculture	agriculture	NN	CW	NOUN	ARGUMENT
+punjab	punjab	JJ	CW	ADJ
+wage	wage	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+dasa	dasa	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+become	become	VBP	CW	VERB
+slave	slave	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+early	early	RB	ADV	CW
+event	event	NN	CW	NOUN	ARGUMENT
+surround	surround	VBP	CW	VERB
+aryan	aryan	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+deduced	deduce	VBN	CW	VERB
+later	later	RB	ADV	CW
+writings	writings	NNS	CW	NOUN	ARGUMENT
+rig	rig	NN	CW	NOUN	ARGUMENT
+veda	veda	NN	CW	NOUN	ARGUMENT
+priestly	priestly	RB	ADV	FW
+hymn	hymn	NN	CW	NOUN	ARGUMENT
+purana	purana	NN	CW	NOUN	ARGUMENT
+ancient	ancient	JJ	CW	ADJ
+tale	tale	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+god	god	NN	CW	NOUN	ARGUMENT
+epic	epic	NN	CW	NOUN	ARGUMENT
+poem	poem	NN	CW	NOUN	ARGUMENT
+mahabhara	mahabhara	NN	CW	NOUN	ARGUMENT
+ramayana	ramayana	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+provide	provide	VB	CW	VERB
+basis	basis	NN	CW	NOUN	ARGUMENT
+hinduism	hinduism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+epic	epic	NN	CW	NOUN	ARGUMENT
+heroic	heroic	JJ	CW	ADJ
+battle	battle	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+prolonged	prolong	VBN	CW	VERB
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+rights	rights	NNS	CW	NOUN	ARGUMENT
+fertile	fertile	JJ	CW	ADJ
+plain	plain	JJ	CW	ADJ
+north	north	NN	CW	NOUN	ARGUMENT
+east	east	JJ	CW	ADJ
+modern	modern	JJ	CW	ADJ
+delhus	delhus	NNS	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+invasion	invasion	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ancient	ancient	JJ	CW	ADJ
+writings	writings	NNS	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+only	only	RB	ADV	CW
+romanticize	romanticize	VB	CW	VERB
+view	view	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+offer	offer	VB	CW	VERB
+more	more	RBR	ADV	CW
+precise	precise	JJ	CW	ADJ
+picture	picture	NN	CW	NOUN	ARGUMENT
+indo	indo	NN	CW	NOUN	ARGUMENT
+aryan	aryan	JJ	CW	ADJ
+society	society	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+long	long	RB	ADV	CW
+war	war	NN	CW	NOUN	ARGUMENT
+indigenous	indigenous	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+establish	establish	VBP	CW	VERB
+leader	leader	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+hereditary	hereditary	JJ	CW	ADJ
+divinity	divinity	NN	CW	NOUN	ARGUMENT
+brahmin	brahmin	NN	CW	NOUN	ARGUMENT
+priest	priest	NN	CW	NOUN	ARGUMENT
+exchange	exchange	NN	CW	NOUN	ARGUMENT
+privileged	privileged	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+
+sentence break
+
+caste	caste	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+already	already	RB	ADV	CW
+take	take	VB	CW	VERB
+shape	shape	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+conquest	conquest	NN	CW	NOUN	ARGUMENT
+aryan	aryan	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+organize	organize	VB	CW	VERB
+three	three	CD	FW
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+warrior	warrior	NN	CW	NOUN	ARGUMENT
+priest	priest	NN	CW	NOUN	ARGUMENT
+commoner	commoner	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+establish	establish	VB	CW	VERB
+four	four	CD	FW
+distinct	distinct	JJ	CW	ADJ
+category	category	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+varna	varna	NN	CW	NOUN	ARGUMENT
+literally	literally	RB	ADV	CW
+color	color	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+possessor	possessor	NN	CW	NOUN	ARGUMENT
+magical	magical	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+associate	associate	NN	CW	NOUN	ARGUMENT
+ritual	ritual	NN	CW	NOUN	ARGUMENT
+sacrifice	sacrifice	NN	CW	NOUN	ARGUMENT
+sacred	sacred	JJ	CW	ADJ
+utterance	utterance	NN	CW	NOUN	ARGUMENT
+brahmin	brahmin	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sole	sole	JJ	CW	ADJ
+interpreter	interpreter	NN	CW	NOUN	ARGUMENT
+vedic	vedic	JJ	CW	ADJ
+scripture	scripture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lay	lay	VBN	CW	VERB
+social	social	JJ	CW	ADJ
+peck	peck	VBP	CW	VERB
+order	order	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+kshatriya	kshatriya	NN	CW	NOUN	ARGUMENT
+warrior	warrior	NN	CW	NOUN	ARGUMENT
+vaishya	vaishya	NN	CW	NOUN	ARGUMENT
+cultivator	cultivator	NN	CW	NOUN	ARGUMENT
+trader	trader	NN	CW	NOUN	ARGUMENT
+shudra	shudra	NN	CW	NOUN	ARGUMENT
+serf	serf	NN	CW	NOUN	ARGUMENT
+mixed	mixed	JJ	CW	ADJ
+blood	blood	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+organization	organization	NN	CW	NOUN	ARGUMENT
+become	become	VB	CW	VERB
+more	more	RBR	ADV	CW
+elaborate	elaborate	JJ	CW	ADJ
+division	division	NN	CW	NOUN	ARGUMENT
+labor	labor	NN	CW	NOUN	ARGUMENT
+become	become	VB	CW	VERB
+more	more	RBR	ADV	CW
+complicated	complicated	JJ	CW	ADJ
+grow	grow	VB	CW	VERB
+number	number	NN	CW	NOUN	ARGUMENT
+occupational	occupational	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+subsequently	subsequently	RB	ADV	CW
+define	define	VB	CW	VERB
+jatus	jatus	NN	CW	NOUN	ARGUMENT
+subcast	subcast	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+live	live	VBP	CW	VERB
+separate	separate	JJ	CW	ADJ
+village	village	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+caste	caste	NN	CW	NOUN	ARGUMENT
+preserve	preserve	VB	CW	VERB
+purity	purity	NN	CW	NOUN	ARGUMENT
+avoid	avoid	VB	CW	VERB
+intermarriage	intermarriage	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+share	share	VB	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+cast	cast	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+untouchable	untouchable	JJ	CW	ADJ
+aboriginal	aboriginal	JJ	CW	ADJ
+descent	descent	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+600	600	CD	FW
+indo	indo	NN	CW	NOUN	ARGUMENT
+aryan	aryan	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+form	form	NN	CW	NOUN	ARGUMENT
+monarchy	monarchy	NN	CW	NOUN	ARGUMENT
+ganga	ganga	NN	CW	NOUN	ARGUMENT
+plain	plain	JJ	CW	ADJ
+surround	surround	VBP	CW	VERB
+smaller	smaller	JJR	CW	ADJ
+tribe	tribe	NN	CW	NOUN	ARGUMENT
+resist	resist	VBP	CW	VERB
+brahmanic	brahmanic	JJ	CW	ADJ
+orthodoxy	orthodoxy	NN	CW	NOUN	ARGUMENT
+authoritarianism	authoritarianism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+monarchy	monarchy	NN	CW	NOUN	ARGUMENT
+thinker	thinker	NN	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+asceticism	asceticism	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+characterize	characterize	VBP	CW	VERB
+spiritual	spiritual	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+brahmin	brahmin	NN	CW	NOUN	ARGUMENT
+cannily	cannily	RB	ADV	FW
+counter	counter	RB	ADV	CW
+threat	threat	NN	CW	NOUN	ARGUMENT
+absorb	absorb	VB	CW	VERB
+new	new	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+teaching	teaching	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+tribe	tribe	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+less	less	RBR	ADV	CW
+amenable	amenable	JJ	CW	ADJ
+so	so	IN	FW
+become	become	VBN	CW	VERB
+breed	breed	NN	CW	NOUN	ARGUMENT
+ground	ground	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+new	new	JJ	CW	ADJ
+religion	religion	NN	CW	NOUN	ARGUMENT
+espouse	espouse	VB	CW	VERB
+non-violence	non-violence	JJ	CW	ADJ
+jainism	jainism	NN	CW	NOUN	ARGUMENT
+buddhism	buddhism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+ganga	ganga	NN	CW	NOUN	ARGUMENT
+valley	valley	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+invader	invader	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+frontier	frontier	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cyrus	cyrus	NN	CW	NOUN	ARGUMENT
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+persium	persium	NN	CW	NOUN	ARGUMENT
+cross	cross	NN	CW	NOUN	ARGUMENT
+hindu	hindu	NN	CW	NOUN	ARGUMENT
+kush	kush	JJ	CW	ADJ
+mountain	mountain	NN	CW	NOUN	ARGUMENT
+indus	indus	NN	CW	NOUN	ARGUMENT
+valley	valley	NN	CW	NOUN	ARGUMENT
+530	530	CD	FW
+brahman	brahman	NN	CW	NOUN	ARGUMENT
+persian	persian	JJ	CW	ADJ
+scholar	scholar	NN	CW	NOUN	ARGUMENT
+exchange	exchange	NN	CW	NOUN	ARGUMENT
+idea	idea	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+persian	persian	JJ	CW	ADJ
+coin	coin	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rock	rock	NN	CW	NOUN	ARGUMENT
+inscription	inscription	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+darius	darius	NN	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+inspire	inspire	VB	CW	VERB
+pillar-edict	pillar-edict	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+ashoka	ashoka	FW	FW
+third	third	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+spectacular	spectacular	JJ	CW	ADJ
+invasion	invasion	NN	CW	NOUN	ARGUMENT
+alexander	alexander	RB	ADV	FW
+great	great	JJ	CW	ADJ
+macedonium	macedonium	NN	CW	NOUN	ARGUMENT
+326	326	CD	FW
+end	end	NN	CW	NOUN	ARGUMENT
+persian	persian	JJ	CW	ADJ
+presence	presence	NN	CW	NOUN	ARGUMENT
+apart	apart	RB	ADV	FW
+opening	open	VBG	CW	VERB
+trade	trade	NN	CW	NOUN	ARGUMENT
+asium	asium	NN	CW	NOUN	ARGUMENT
+minor	minor	JJ	CW	ADJ
+eastern	eastern	JJ	CW	ADJ
+mediterranean	mediterranean	JJ	CW	ADJ
+greek	greek	JJ	CW	ADJ
+leave	leave	NN	CW	NOUN	ARGUMENT
+lasting	lasting	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+two-year	two-year	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+alexander	alexander	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+dream	dream	VBP	CW	VERB
+huge	huge	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+extend	extend	VBP	CW	VERB
+eastward	eastward	RB	ADV	FW
+ganga	ganga	JJ	CW	ADJ
+plain	plain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+block	block	NN	CW	NOUN	ARGUMENT
+mutinous	mutinous	JJ	CW	ADJ
+troops	troops	NNS	CW	NOUN	ARGUMENT
+feed	feed	VBP	CW	VERB
+upset	upset	JJ	CW	ADJ
+stomach	stomach	NN	CW	NOUN	ARGUMENT
+harsh	harsh	JJ	CW	ADJ
+terrain	terrain	NN	CW	NOUN	ARGUMENT
+tough	tough	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+military	military	JJ	CW	ADJ
+opposition	opposition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+return	return	NN	CW	NOUN	ARGUMENT
+babylon	babylon	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+few	few	JJ	CW	ADJ
+governor	governor	NN	CW	NOUN	ARGUMENT
+frontier	frontier	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+meanwhile	meanwhile	RB	ADV	FW
+ganga	ganga	NN	CW	NOUN	ARGUMENT
+valley	valley	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+magadha	magadha	NN	CW	NOUN	ARGUMENT
+modern	modern	JJ	CW	ADJ
+bihar	bihar	NN	CW	NOUN	ARGUMENT
+emerge	emerge	VBP	CW	VERB
+dominant	dominant	JJ	CW	ADJ
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+chandragupta	chandragupta	NN	CW	NOUN	ARGUMENT
+maurya	maurya	NN	CW	NOUN	ARGUMENT
+321	321	CD	FW
+297	297	CD	FW
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+become	become	VBN	CW	VERB
+founder	founder	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+imperial	imperial	JJ	CW	ADJ
+dynasty	dynasty	NN	CW	NOUN	ARGUMENT
+pataliputra	pataliputra	NN	CW	NOUN	ARGUMENT
+modern	modern	JJ	CW	ADJ
+patna	patna	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+largest	largest	JJS	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+capital	capital	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+chandragupta	chandragupta	NN	CW	NOUN	ARGUMENT
+extend	extend	VBP	CW	VERB
+rule	rule	NN	CW	NOUN	ARGUMENT
+northwest	northwest	RB	ADV	FW
+rigorous	rigorous	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+force	force	NN	CW	NOUN	ARGUMENT
+seleucus	seleucus	NN	CW	NOUN	ARGUMENT
+nikator	nikator	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+profitable	profitable	JJ	CW	ADJ
+marriage	marriage	NN	CW	NOUN	ARGUMENT
+alliance	alliance	NN	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+later	later	JJ	CW	ADJ
+chandragupta	chandragupta	NN	CW	NOUN	ARGUMENT
+turn	turn	VB	CW	VERB
+more	more	RBR	ADV	CW
+sober	sober	JJ	CW	ADJ
+thought	thought	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+convert	convert	VB	CW	VERB
+jainism	jainism	NNP	CW	NOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+starve	starve	VBP	CW	VERB
+death	death	NN	CW	NOUN	ARGUMENT
+temple	temple	NN	CW	NOUN	ARGUMENT
+sravanabelagolum	sravanabelagolum	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+son	son	NN	CW	NOUN	ARGUMENT
+bindusara	bindusara	NN	CW	NOUN	ARGUMENT
+combine	combine	VBP	CW	VERB
+father	father	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+ambition	ambition	NN	CW	NOUN	ARGUMENT
+taste	taste	NN	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+philosophy	philosophy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+expand	expand	VB	CW	VERB
+empire	empire	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+far	far	RB	ADV	CW
+down	down	IN	FW
+mysore	mysore	NN	CW	NOUN	ARGUMENT
+stun	stun	NN	CW	NOUN	ARGUMENT
+western	western	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+ask	ask	VB	CW	VERB
+king	king	NN	CW	NOUN	ARGUMENT
+antiochus	antiochus	JJ	CW	ADJ
+greek	greek	JJ	CW	ADJ
+wine	wine	NN	CW	NOUN	ARGUMENT
+fig	fig	NN	CW	NOUN	ARGUMENT
+sophist	sophist	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+king	king	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+happy	happy	JJ	CW	ADJ
+send	send	VB	CW	VERB
+wine	wine	NN	CW	NOUN	ARGUMENT
+fig	fig	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+however	however	RB	ADV	FW
+consent	consent	NN	CW	NOUN	ARGUMENT
+bindusara	bindusara	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+request	request	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+control	control	JJ	CW	ADJ
+land	land	NN	CW	NOUN	ARGUMENT
+sea	sea	NN	CW	NOUN	ARGUMENT
+route	route	NN	CW	NOUN	ARGUMENT
+south	south	RB	ADV	CW
+maurya	maurya	NNP	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+need	need	VBP	CW	VERB
+conquer	conquer	VB	CW	VERB
+eastern	eastern	JJ	CW	ADJ
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+kalinga	kalinga	NN	CW	NOUN	ARGUMENT
+modern	modern	JJ	CW	ADJ
+orissa	orissa	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+task	task	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+leave	leave	VB	CW	VERB
+bindusara	bindusara	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+heir	heir	NN	CW	NOUN	ARGUMENT
+ashoka	ashoka	FW	FW
+269	269	CD	FW
+232	232	CD	FW
+admire	admire	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+greatest	greatest	JJS	CW	ADJ
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+perhap	perhap	NN	CW	NOUN	ARGUMENT
+special	special	JJ	CW	ADJ
+combination	combination	NN	CW	NOUN	ARGUMENT
+tough	tough	JJ	CW	ADJ
+authoritarianism	authoritarianism	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+sense	sense	NN	CW	NOUN	ARGUMENT
+moral	moral	JJ	CW	ADJ
+righteousness	righteousness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ashoka	ashoka	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+kill	kill	VB	CW	VERB
+rival	rival	JJ	CW	ADJ
+conquer	conquer	VBP	CW	VERB
+kalinga	kalinga	NN	CW	NOUN	ARGUMENT
+260	260	CD	FW
+leave	leave	VBP	FW	aux_or_cop
+100	100	CD	FW
+000	000	CD	FW
+dead	dead	JJ	CW	ADJ
+even	even	RB	ADV	CW
+more	more	RBR	ADV	CW
+die	die	VB	CW	VERB
+famine	famine	NN	CW	NOUN	ARGUMENT
+disease	disease	NN	CW	NOUN	ARGUMENT
+150	150	CD	FW
+000	000	CD	FW
+be	be	VB	FW	aux_or_cop
+take	take	VB	CW	VERB
+captive	captive	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+famous	famous	JJ	CW	ADJ
+inscription	inscription	NN	CW	NOUN	ARGUMENT
+rock	rock	NN	CW	NOUN	ARGUMENT
+pillar	pillar	NN	CW	NOUN	ARGUMENT
+everywhere	everywhere	RB	ADV	CW
+bear	bear	VBP	CW	VERB
+testimony	testimony	NN	CW	NOUN	ARGUMENT
+ashoka	ashoka	FW	FW
+s	s	VBZ	CW	VERB
+reign	reign	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+inscription	inscription	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+gentle	gentle	JJ	CW	ADJ
+visage	visage	NN	CW	NOUN	ARGUMENT
+beloved	beloved	JJ	CW	ADJ
+god	god	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+fill	fill	NN	CW	NOUN	ARGUMENT
+remorse	remorse	NN	CW	NOUN	ARGUMENT
+convert	convert	VBP	CW	VERB
+non-violent	non-violent	JJ	CW	ADJ
+teaching	teaching	NN	CW	NOUN	ARGUMENT
+buddha	buddha	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+metaphysical	metaphysical	JJ	CW	ADJ
+implication	implication	NN	CW	NOUN	ARGUMENT
+seem	seem	VBP	CW	VERB
+have	have	VBP	FW	aux_or_cop
+interested	interest	VBN	CW	VERB
+less	less	RBR	ADV	CW
+enforce	enforce	VB	CW	VERB
+moral	moral	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+unite	unite	VB	CW	VERB
+far-flung	far-flung	JJ	CW	ADJ
+subject	subject	JJ	CW	ADJ
+peace	peace	NN	CW	NOUN	ARGUMENT
+fellowship	fellowship	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+oversee	oversee	VB	CW	VERB
+mass	mass	NN	CW	NOUN	ARGUMENT
+conversion	conversion	NN	CW	NOUN	ARGUMENT
+ashoka	ashoka	FW	FW
+turn	turn	VB	CW	VERB
+brahmanic	brahmanic	JJ	CW	ADJ
+concept	concept	NN	CW	NOUN	ARGUMENT
+dharma	dharma	NN	CW	NOUN	ARGUMENT
+righteousness	righteousness	NN	CW	NOUN	ARGUMENT
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+public	public	JJ	CW	ADJ
+policy	policy	NN	CW	NOUN	ARGUMENT
+enforce	enforce	VB	CW	VERB
+officer	officer	NN	CW	NOUN	ARGUMENT
+righteousness	righteousness	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+appoint	appoint	VB	CW	VERB
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+imperial	imperial	JJ	CW	ADJ
+administration	administration	NN	CW	NOUN	ARGUMENT
+undertake	undertake	VB	CW	VERB
+demand	demand	NN	CW	NOUN	ARGUMENT
+huge	huge	JJ	CW	ADJ
+bureaucracy	bureaucracy	NN	CW	NOUN	ARGUMENT
+superintendent	superintendent	NN	CW	NOUN	ARGUMENT
+accountant	accountant	NN	CW	NOUN	ARGUMENT
+clerk	clerk	NN	CW	NOUN	ARGUMENT
+oversee	oversee	VBP	CW	VERB
+commerce	commerce	NN	CW	NOUN	ARGUMENT
+forestry	forestry	NN	CW	NOUN	ARGUMENT
+armory	armory	NN	CW	NOUN	ARGUMENT
+weight	weight	NN	CW	NOUN	ARGUMENT
+measure	measure	NN	CW	NOUN	ARGUMENT
+goldsmith	goldsmith	NN	CW	NOUN	ARGUMENT
+prostitute	prostitute	NN	CW	NOUN	ARGUMENT
+ship	ship	NN	CW	NOUN	ARGUMENT
+cow	cow	NN	CW	NOUN	ARGUMENT
+horse	horse	NN	CW	NOUN	ARGUMENT
+elephant	elephant	NN	CW	NOUN	ARGUMENT
+chariot	chariot	NN	CW	NOUN	ARGUMENT
+infantry	infantry	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+southern	southern	JJ	CW	ADJ
+indium	indium	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+independent	independent	JJ	CW	ADJ
+ashoka	ashoka	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+hand	hand	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+large	large	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+extend	extend	VBP	CW	VERB
+as	as	IN	FW
+far	far	RB	ADV	CW
+north	north	JJ	CW	ADJ
+kashmir	kashmir	FW	FW
+east	east	JJ	CW	ADJ
+bengal	bengal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+50	50	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+ashoka	ashoka	FW	FW
+s	s	VBZ	CW	VERB
+death	death	NN	CW	NOUN	ARGUMENT
+mauryan	mauryan	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+decline	decline	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+agriculture	agriculture	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+productive	productive	JJ	CW	ADJ
+enough	enough	JJ	CW	ADJ
+finance	finance	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+expansion	expansion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+unwieldy	unwieldy	JJ	CW	ADJ
+bureaucracy	bureaucracy	NN	CW	NOUN	ARGUMENT
+couldn	couldn	NN	CW	NOUN	ARGUMENT
+t	t	NN	CW	NOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+loyalty	loyalty	NN	CW	NOUN	ARGUMENT
+straight	straight	JJ	CW	ADJ
+too-rapid	too-rapid	JJ	CW	ADJ
+turnover	turnover	NN	CW	NOUN	ARGUMENT
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+vie	vie	NN	CW	NOUN	ARGUMENT
+ashoka	ashoka	FW	FW
+s	s	VBZ	CW	VERB
+throne	throne	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+break-up	break-up	NN	CW	NOUN	ARGUMENT
+mauryan	mauryan	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+invader	invader	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+northwest	northwest	RB	ADV	FW
+frontier	frontier	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+arrive	arrive	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+bactrian	bactrian	JJ	CW	ADJ
+greek	greek	JJ	CW	ADJ
+leave	leave	NN	CW	NOUN	ARGUMENT
+afghan	afghan	JJ	CW	ADJ
+hill	hill	NN	CW	NOUN	ARGUMENT
+alexander	alexander	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+successor	successor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+welcome	welcome	JJ	CW	ADJ
+erudite	erudite	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+medicine	medicine	NN	CW	NOUN	ARGUMENT
+astronomy	astronomy	NN	CW	NOUN	ARGUMENT
+astrology	astrology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+joined	join	VBD	CW	VERB
+iranian	iranian	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+pahlava	pahlava	NN	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+be	be	VB	CW	VERB
+overrun	overrun	VBN	CW	VERB
+first	first	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+band	band	NN	CW	NOUN	ARGUMENT
+scythian	scythian	JJ	CW	ADJ
+nomad	nomad	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+shaka	shaka	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+move	move	NN	CW	NOUN	ARGUMENT
+ganga	ganga	NN	CW	NOUN	ARGUMENT
+valley	valley	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+nomad	nomad	NN	CW	NOUN	ARGUMENT
+yueh-chus	yueh-chus	NN	CW	NOUN	ARGUMENT
+central	central	JJ	CW	ADJ
+asium	asium	NN	CW	NOUN	ARGUMENT
+sweep	sweep	NN	CW	NOUN	ARGUMENT
+frontier	frontier	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+emerge	emerge	VB	CW	VERB
+victorious	victorious	JJ	CW	ADJ
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+yueh-chus	yueh-chus	NN	CW	NOUN	ARGUMENT
+shaka	shaka	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+kanishka	kanishka	FW	FW
+kushan	kushan	FW	FW
+establish	establish	VB	CW	VERB
+empire	empire	NN	CW	NOUN	ARGUMENT
+northern	northern	JJ	CW	ADJ
+half	half	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+central	central	JJ	CW	ADJ
+asium	asium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+reign	reign	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+one	one	CD	FW
+prosperity	prosperity	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+trade	trade	NN	CW	NOUN	ARGUMENT
+center	center	NN	CW	NOUN	ARGUMENT
+east	east	JJ	CW	ADJ
+west	west	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+kanishka	kanishka	FW	FW
+be	be	VB	FW	aux_or_cop
+champion	champion	JJ	CW	ADJ
+mahayana	mahayana	NN	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+vehicle	vehicle	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+attribute	attribute	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+quasi-divinity	quasi-divinity	JJ	CW	ADJ
+buddha	buddha	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+active	active	JJ	CW	ADJ
+patronage	patronage	NN	CW	NOUN	ARGUMENT
+art	art	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+creation	creation	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+bronze	bronze	NN	CW	NOUN	ARGUMENT
+stone	stone	NN	CW	NOUN	ARGUMENT
+sculpture	sculpture	NN	CW	NOUN	ARGUMENT
+buddha	buddha	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+buddhist	buddhist	JJ	CW	ADJ
+jain	jain	NN	CW	NOUN	ARGUMENT
+merchant	merchant	NN	CW	NOUN	ARGUMENT
+prosper	prosper	VB	CW	VERB
+new	new	JJ	CW	ADJ
+east	east	JJ	CW	ADJ
+west	west	JJ	CW	ADJ
+trade	trade	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+finance	finance	NN	CW	NOUN	ARGUMENT
+magnificently	magnificently	RB	ADV	CW
+sculpted	sculpt	VBD	CW	VERB
+cave-temple	cave-temple	JJ	CW	ADJ
+deccan	deccan	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+ajanta	ajanta	NN	CW	NOUN	ARGUMENT
+ellora	ellora	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+art	art	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+flourish	flourish	VB	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+maduraus	maduraus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+lively	lively	JJ	CW	ADJ
+cultural	cultural	JJ	CW	ADJ
+center	center	NN	CW	NOUN	ARGUMENT
+dravidian	dravidian	JJ	CW	ADJ
+artist	artist	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+poet	poet	NN	CW	NOUN	ARGUMENT
+actor	actor	NN	CW	NOUN	ARGUMENT
+singer	singer	NN	CW	NOUN	ARGUMENT
+musician	musician	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+dancer	dancer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+precursor	precursor	JJ	CW	ADJ
+hindu	hindu	NN	CW	NOUN	ARGUMENT
+devadasus	devadasus	NN	CW	NOUN	ARGUMENT
+temple	temple	NN	CW	NOUN	ARGUMENT
+prostitute	prostitute	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gupta	gupta	NN	CW	NOUN	ARGUMENT
+dynasty	dynasty	NN	CW	NOUN	ARGUMENT
+found	find	VBD	CW	VERB
+obscure	obscure	JJ	CW	ADJ
+biharus	biharus	NN	CW	NOUN	ARGUMENT
+landowner	landowner	NN	CW	NOUN	ARGUMENT
+chandra	chandra	NN	CW	NOUN	ARGUMENT
+gupta	gupta	NN	CW	NOUN	ARGUMENT
+rise	rise	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+fourth	fourth	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+marriage-alliance	marriage-alliance	NN	CW	NOUN	ARGUMENT
+conquest	conquest	NN	CW	NOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+gupta	gupta	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+empire	empire	NN	CW	NOUN	ARGUMENT
+bengal	bengal	JJ	CW	ADJ
+punjab	punjab	NN	CW	NOUN	ARGUMENT
+kashmir	kashmir	NN	CW	NOUN	ARGUMENT
+deccan	deccan	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+samudra	samudra	NN	CW	NOUN	ARGUMENT
+gupta	gupta	NN	CW	NOUN	ARGUMENT
+warrior	warrior	NN	CW	NOUN	ARGUMENT
+clan	clan	NN	CW	NOUN	ARGUMENT
+launch	launch	NN	CW	NOUN	ARGUMENT
+lightning	lightning	NN	CW	NOUN	ARGUMENT
+raid	raid	NN	CW	NOUN	ARGUMENT
+jungle	jungle	NN	CW	NOUN	ARGUMENT
+snatch	snatch	VBP	CW	VERB
+gold	gold	NN	CW	NOUN	ARGUMENT
+south	south	RB	ADV	CW
+
+sentence break
+
+gupta	gupta	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+capture	capture	VBP	CW	VERB
+western	western	JJ	CW	ADJ
+sea	sea	NN	CW	NOUN	ARGUMENT
+port	port	NN	CW	NOUN	ARGUMENT
+trade	trade	NN	CW	NOUN	ARGUMENT
+arab	arab	JJ	CW	ADJ
+
+sentence break
+
+turn	turn	NN	CW	NOUN	ARGUMENT
+nose	nose	NN	CW	NOUN	ARGUMENT
+up	up	IN	FW
+trade	trade	NN	CW	NOUN	ARGUMENT
+roman	roman	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+offer	offer	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+bounty	bounty	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+silk	silk	NN	CW	NOUN	ARGUMENT
+musk	musk	NN	CW	NOUN	ARGUMENT
+amber	amber	NN	CW	NOUN	ARGUMENT
+exchange	exchange	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+spice	spice	NN	CW	NOUN	ARGUMENT
+jewel	jewel	NN	CW	NOUN	ARGUMENT
+perfume	perfume	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+parakeet	parakeet	NN	CW	NOUN	ARGUMENT
+lady	lady	NN	CW	NOUN	ARGUMENT
+boudoir	boudoir	JJ	CW	ADJ
+monkey	monkey	NN	CW	NOUN	ARGUMENT
+cooking	cooking	NN	CW	NOUN	ARGUMENT
+pot	pot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gupta	gupta	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+crumble	crumble	VB	CW	VERB
+fifth	fifth	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+onslaught	onslaught	NN	CW	NOUN	ARGUMENT
+so-called	so-called	JJ	CW	ADJ
+white	white	JJ	CW	ADJ
+hun	hun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+clearly	clearly	RB	ADV	CW
+link	link	VB	CW	VERB
+attilum	attilum	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+hun	hun	VBP	CW	VERB
+harsh	harsh	JJ	CW	ADJ
+agenda	agenda	NN	CW	NOUN	ARGUMENT
+exterminate	exterminate	VBP	CW	VERB
+buddhist	buddhist	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+suggest	suggest	VB	CW	VERB
+affinity	affinity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+white	white	JJ	CW	ADJ
+hun	hun	NN	CW	NOUN	ARGUMENT
+seize	seize	VB	CW	VERB
+punjab	punjab	JJ	CW	ADJ
+kashmir	kashmir	NN	CW	NOUN	ARGUMENT
+large	large	JJ	CW	ADJ
+portion	portion	NN	CW	NOUN	ARGUMENT
+western	western	JJ	CW	ADJ
+ganga	ganga	NN	CW	NOUN	ARGUMENT
+plain	plain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+chase	chase	JJ	CW	ADJ
+again	again	RB	ADV	CW
+
+sentence break
+
+seventh	seventh	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+strong	strong	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+harshavardhana	harshavardhana	NN	CW	NOUN	ARGUMENT
+reign	reign	NN	CW	NOUN	ARGUMENT
+40	40	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+northern	northern	JJ	CW	ADJ
+indium	indium	NN	CW	NOUN	ARGUMENT
+encourage	encourage	VBP	CW	VERB
+buddhist	buddhist	JJ	CW	ADJ
+monk	monk	NN	CW	NOUN	ARGUMENT
+brahman	brahman	NN	CW	NOUN	ARGUMENT
+priest	priest	NN	CW	NOUN	ARGUMENT
+participate	participate	VBP	CW	VERB
+philosophical	philosophical	JJ	CW	ADJ
+discussion	discussion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sage	sage	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+strict	strict	JJ	CW	ADJ
+discipline	discipline	NN	CW	NOUN	ARGUMENT
+yoga	yoga	NN	CW	NOUN	ARGUMENT
+profound	profound	JJ	CW	ADJ
+metaphysical	metaphysical	JJ	CW	ADJ
+speculation	speculation	NN	CW	NOUN	ARGUMENT
+vedanta	vedanta	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+southern	southern	JJ	CW	ADJ
+indium	indium	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+share	share	NN	CW	NOUN	ARGUMENT
+pallava	pallava	NN	CW	NOUN	ARGUMENT
+kanchipuram	kanchipuram	NN	CW	NOUN	ARGUMENT
+pandya	pandya	NN	CW	NOUN	ARGUMENT
+chola	cholum	NN	CW	NOUN	ARGUMENT
+vie	vie	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+thanjavur	thanjavur	NN	CW	NOUN	ARGUMENT
+tanjore	tanjore	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bhaktus	bhaktus	NN	CW	NOUN	ARGUMENT
+movement	movement	NN	CW	NOUN	ARGUMENT
+tamil	tamil	NN	CW	NOUN	ARGUMENT
+bring	bring	VB	CW	VERB
+new	new	JJ	CW	ADJ
+warmth	warmth	NN	CW	NOUN	ARGUMENT
+hitherto	hitherto	RB	ADV	FW
+rigid	rigid	JJ	CW	ADJ
+brahmanic	brahmanic	JJ	CW	ADJ
+ritual	ritual	NN	CW	NOUN	ARGUMENT
+hinduism	hinduism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+temple	temple	NN	CW	NOUN	ARGUMENT
+mahabalipuram	mahabalipuram	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+high	high	JJ	CW	ADJ
+point	point	NN	CW	NOUN	ARGUMENT
+southern	southern	JJ	CW	ADJ
+architecture	architecture	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+pallavan	pallavan	JJ	CW	ADJ
+artist	artist	NN	CW	NOUN	ARGUMENT
+influence	influence	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+help	help	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+temple	temple	NN	CW	NOUN	ARGUMENT
+angkor	angkor	NN	CW	NOUN	ARGUMENT
+wat	wat	VBD	CW	VERB
+cambodium	cambodium	NN	CW	NOUN	ARGUMENT
+borobudur	borobudur	NN	CW	NOUN	ARGUMENT
+java	java	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+arab	arab	JJ	CW	ADJ
+trade	trade	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+long	long	RB	ADV	CW
+whetted	whet	VBN	CW	VERB
+appetite	appetite	NN	CW	NOUN	ARGUMENT
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+pirate	pirate	NN	CW	NOUN	ARGUMENT
+plundered	plunder	VBD	CW	VERB
+ship	ship	NN	CW	NOUN	ARGUMENT
+coast	coast	NN	CW	NOUN	ARGUMENT
+sind	sind	NN	CW	NOUN	ARGUMENT
+711	711	CD	FW
+provoke	provoke	VBP	CW	VERB
+governor	governor	NN	CW	NOUN	ARGUMENT
+chaldea	chaldea	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+iraq	iraq	RB	ADV	FW
+send	send	VB	CW	VERB
+troops	troops	NNS	CW	NOUN	ARGUMENT
+6	6	CD	FW
+000	000	CD	FW
+horse	horse	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+000	000	CD	FW
+camel	camel	NN	CW	NOUN	ARGUMENT
+conquer	conquer	VBP	CW	VERB
+sind	sind	NN	CW	NOUN	ARGUMENT
+raja	raja	NN	CW	NOUN	ARGUMENT
+offer	offer	NN	CW	NOUN	ARGUMENT
+alternative	alternative	NN	CW	NOUN	ARGUMENT
+convert	convert	VBP	CW	VERB
+islam	islam	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+reveal	reveal	VB	CW	VERB
+governor	governor	NN	CW	NOUN	ARGUMENT
+chaldea	chaldea	NN	CW	NOUN	ARGUMENT
+hinduism	hinduism	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fact	fact	NN	CW	NOUN	ARGUMENT
+serious	serious	JJ	CW	ADJ
+religion	religion	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+many	many	JJ	CW	ADJ
+faithful	faithful	JJ	CW	ADJ
+treat	treat	NN	CW	NOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+solution	solution	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+find	find	VB	CW	VERB
+
+sentence break
+
+hindus	hindu	NNS	CW	NOUN	ARGUMENT
+parsis	parsis	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+flee	flee	VB	CW	VERB
+earlier	earlier	JJR	CW	ADJ
+muslim	muslim	JJ	CW	ADJ
+persecution	persecution	NN	CW	NOUN	ARGUMENT
+persium	persium	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+give	give	VB	CW	VERB
+privileged	privileged	JJ	CW	ADJ
+status	status	NN	CW	NOUN	ARGUMENT
+dhimmus	dhimmus	NN	CW	NOUN	ARGUMENT
+dues-paying	dues-paying	JJ	CW	ADJ
+non-believer	non-believer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nearly	nearly	RB	ADV	CW
+300	300	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+islamic	islamic	JJ	CW	ADJ
+conquest	conquest	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+confine	confine	JJ	CW	ADJ
+trading	trading	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+sind	sind	VBD	CW	VERB
+tenth	tenth	NN	CW	NOUN	ARGUMENT
+century	century	NN	CW	NOUN	ARGUMENT
+tribesman	tribesman	NN	CW	NOUN	ARGUMENT
+turkistan	turkistan	NN	CW	NOUN	ARGUMENT
+drive	drive	NN	CW	NOUN	ARGUMENT
+west	west	NN	CW	NOUN	ARGUMENT
+chinese	chinese	JJ	CW	ADJ
+expansion	expansion	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+ghaznus	ghaznus	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+raid	raid	NN	CW	NOUN	ARGUMENT
+border	border	NN	CW	NOUN	ARGUMENT
+plunder	plunder	NN	CW	NOUN	ARGUMENT
+hindu	hindu	NN	CW	NOUN	ARGUMENT
+temple	temple	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sweeping	sweeping	JJ	CW	ADJ
+punjab	punjab	NN	CW	NOUN	ARGUMENT
+gujarat	gujarat	NN	CW	NOUN	ARGUMENT
+western	western	JJ	CW	ADJ
+end	end	NN	CW	NOUN	ARGUMENT
+ganga	ganga	NN	CW	NOUN	ARGUMENT
+valley	valley	NN	CW	NOUN	ARGUMENT
+mahmud	mahmud	NN	CW	NOUN	ARGUMENT
+ghaznus	ghaznus	NN	CW	NOUN	ARGUMENT
+997	997	CD	FW
+1030	1030	CD	FW
+use	use	NN	CW	NOUN	ARGUMENT
+raid	raid	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+finance	finance	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+persium	persium	NN	CW	NOUN	ARGUMENT
+turkistan	turkistan	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+permanent	permanent	JJ	CW	ADJ
+foothold	foothold	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mahmud	mahmud	NN	CW	NOUN	ARGUMENT
+smash	smash	NN	CW	NOUN	ARGUMENT
+infidel	infidel	NN	CW	NOUN	ARGUMENT
+idol	idol	NN	CW	NOUN	ARGUMENT
+destroy	destroy	VBP	CW	VERB
+temple	temple	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+be	be	VB	CW	VERB
+nonetheless	nonetheless	RB	ADV	CW
+cultured	culture	VBN	CW	VERB
+enough	enough	JJ	CW	ADJ
+use	use	NN	CW	NOUN	ARGUMENT
+booty	booty	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+library	library	NN	CW	NOUN	ARGUMENT
+museum	museum	NN	CW	NOUN	ARGUMENT
+splendid	splendid	JJ	CW	ADJ
+mosque	mosque	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+back	back	RB	ADV	CW
+ghaznus	ghaznus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+righteous	righteous	JJ	CW	ADJ
+militant	militant	JJ	CW	ADJ
+hindus	hindu	NNS	CW	NOUN	ARGUMENT
+brutal	brutal	JJ	CW	ADJ
+monster	monster	NN	CW	NOUN	ARGUMENT
+deny	deny	VBP	CW	VERB
+title	title	NN	CW	NOUN	ARGUMENT
+sword	sword	NN	CW	NOUN	ARGUMENT
+islam	islam	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+order	order	NN	CW	NOUN	ARGUMENT
+understand	understand	VBP	CW	VERB
+ambiguous	ambiguous	JJ	CW	ADJ
+image	image	NN	CW	NOUN	ARGUMENT
+compare	compare	VB	CW	VERB
+europe	europe	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+heroic	heroic	JJ	CW	ADJ
+crusader	crusader	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+rampage	rampage	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+concerted	concerted	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+response	response	NN	CW	NOUN	ARGUMENT
+invasion	invasion	NN	CW	NOUN	ARGUMENT
+various	various	JJ	CW	ADJ
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+busy	busy	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+
+sentence break
+
+rajput	rajput	NN	CW	NOUN	ARGUMENT
+warrior	warrior	NN	CW	NOUN	ARGUMENT
+clan	clan	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+control	control	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+rajasthan	rajasthan	JJ	CW	ADJ
+kathiawar	kathiawar	NN	CW	NOUN	ARGUMENT
+peninsula	peninsula	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+far	far	RB	ADV	CW
+east	east	JJ	CW	ADJ
+khajuraho	khajuraho	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+turco	turco	NN	CW	NOUN	ARGUMENT
+afghan	afghan	JJ	CW	ADJ
+invader	invader	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+regard	regard	NN	CW	NOUN	ARGUMENT
+transient	transient	JJ	CW	ADJ
+phenomenon	phenomenon	NN	CW	NOUN	ARGUMENT
+soon	soon	RB	ADV	CW
+disappear	disappear	VB	CW	VERB
+just	just	RB	ADV	CW
+other	other	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+swallow	swallow	VB	CW	VERB
+great	great	JJ	CW	ADJ
+subcontinent	subcontinent	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+turk	turk	NN	CW	NOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+
+sentence break
+
+sultan	sultan	NN	CW	NOUN	ARGUMENT
+mohammed	mohamm	VBD	CW	VERB
+ghur	ghur	NN	CW	NOUN	ARGUMENT
+mameluke	mameluke	JJ	CW	ADJ
+slave	slave	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+qutb-ud-din	qutb-ud-din	NN	CW	NOUN	ARGUMENT
+aybak	aybak	NN	CW	NOUN	ARGUMENT
+seize	seize	VB	CW	VERB
+ghaznus	ghaznus	NN	CW	NOUN	ARGUMENT
+1173	1173	CD	FW
+invade	invade	VB	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rajput	rajput	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+belated	belated	JJ	CW	ADJ
+alliance	alliance	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+valiantly	valiantly	RB	ADV	CW
+one	one	CD	FW
+desert	desert	NN	CW	NOUN	ARGUMENT
+fortress	fortress	NN	CW	NOUN	ARGUMENT
+elephant	elephant	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+match	match	VB	CW	VERB
+opponent	opponent	NN	CW	NOUN	ARGUMENT
+fast	fast	JJ	CW	ADJ
+horse	horse	NN	CW	NOUN	ARGUMENT
+afghan	afghan	JJ	CW	ADJ
+cavalry	cavalry	JJ	CW	ADJ
+fire	fire	NN	CW	NOUN	ARGUMENT
+superior	superior	JJ	CW	ADJ
+crossbow	crossbow	NN	CW	NOUN	ARGUMENT
+gallop	gallop	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1193	1193	CD	FW
+turk	turk	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+master	master	JJ	CW	ADJ
+peshawar	peshawar	NN	CW	NOUN	ARGUMENT
+lahore	lahore	NN	CW	NOUN	ARGUMENT
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sultan	sultan	NN	CW	NOUN	ARGUMENT
+return	return	NN	CW	NOUN	ARGUMENT
+ghaznus	ghaznus	NNS	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+qutb-ud-din	qutb-ud-din	JJ	CW	ADJ
+charge	charge	NN	CW	NOUN	ARGUMENT
+move	move	NN	CW	NOUN	ARGUMENT
+east	east	JJ	CW	ADJ
+bengal	bengal	NN	CW	NOUN	ARGUMENT
+destroy	destroy	VB	CW	VERB
+center	center	NN	CW	NOUN	ARGUMENT
+buddhism	buddhism	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+university	university	NN	CW	NOUN	ARGUMENT
+nalanda	nalanda	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+master	master	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+assassination	assassination	NN	CW	NOUN	ARGUMENT
+1206	1206	CD	FW
+qutb-ud-din	qutb-ud-din	NN	CW	NOUN	ARGUMENT
+proclaim	proclaim	VBP	CW	VERB
+sultan	sultan	NN	CW	NOUN	ARGUMENT
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+islamic	islamic	JJ	CW	ADJ
+dynasty	dynasty	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sultanate	sultanate	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+320	320	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+sultan	sultan	NN	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+four	four	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+die	die	VB	CW	VERB
+fall	fall	NN	CW	NOUN	ARGUMENT
+pony	pony	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+shock	shock	NN	CW	NOUN	ARGUMENT
+invasion	invasion	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+pass	pass	NN	CW	NOUN	ARGUMENT
+turk	turk	NN	CW	NOUN	ARGUMENT
+prove	prove	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+shoot	shoot	NN	CW	NOUN	ARGUMENT
+arm	arm	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+persian	persian	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+court	court	NN	CW	NOUN	ARGUMENT
+enriched	enriched	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+literature	literature	NN	CW	NOUN	ARGUMENT
+combine	combine	VBP	CW	VERB
+sanskrit-based	sanskrit-based	JJ	CW	ADJ
+dialect	dialect	NN	CW	NOUN	ARGUMENT
+northern	northern	JJ	CW	ADJ
+indium	indium	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+hindustanus	hindustanus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+painting	painting	NN	CW	NOUN	ARGUMENT
+architecture	architecture	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+infuse	infuse	VB	CW	VERB
+life	life	NN	CW	NOUN	ARGUMENT
+road	road	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+paved	pave	VBN	CW	VERB
+14	14	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+pronounce	pronounce	VB	CW	VERB
+arab	arab	JJ	CW	ADJ
+traveller	traveller	NN	CW	NOUN	ARGUMENT
+ibn	ibn	NN	CW	NOUN	ARGUMENT
+batuta	batuta	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+most	most	RBS	ADV	CW
+magnificent	magnificent	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+whole	whole	JJ	CW	ADJ
+muslim	muslim	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+conversion	conversion	NN	CW	NOUN	ARGUMENT
+islamic	islamic	JJ	CW	ADJ
+faith	faith	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+see	see	VB	CW	VERB
+means	means	NNS	CW	NOUN	ARGUMENT
+advancement	advancement	NN	CW	NOUN	ARGUMENT
+rajput	rajput	NN	CW	NOUN	ARGUMENT
+didn	didn	NN	CW	NOUN	ARGUMENT
+t	t	NN	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+offer	offer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+sharpen	sharpen	VB	CW	VERB
+martial	martial	JJ	CW	ADJ
+skill	skill	NN	CW	NOUN	ARGUMENT
+constant	constant	JJ	CW	ADJ
+guerrilla	guerrilla	NN	CW	NOUN	ARGUMENT
+warfare	warfare	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+turk	turk	NN	CW	NOUN	ARGUMENT
+adopt	adopt	VB	CW	VERB
+indian	indian	JJ	CW	ADJ
+cuisine	cuisine	NN	CW	NOUN	ARGUMENT
+costume	costume	NN	CW	NOUN	ARGUMENT
+well	well	RB	ADV	CW
+modify	modify	VB	CW	VERB
+form	form	NN	CW	NOUN	ARGUMENT
+hindu	hindu	NN	CW	NOUN	ARGUMENT
+caste	caste	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+highest	highest	JJS	CW	ADJ
+be	be	VB	FW	aux_or_cop
+foreign	foreign	JJ	CW	ADJ
+extraction	extraction	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+turk	turk	NN	CW	NOUN	ARGUMENT
+arab	arab	JJ	CW	ADJ
+afghan	afghan	JJ	CW	ADJ
+persian	persian	JJ	CW	ADJ
+know	know	VBP	CW	VERB
+ashraf	ashraf	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+honorable	honorable	JJ	CW	ADJ
+
+sentence break
+
+then	then	RB	ADV	CW
+come	come	VB	CW	VERB
+upper-caste	upper-caste	JJ	CW	ADJ
+convert	convert	VBP	CW	VERB
+hinduism	hinduism	NN	CW	NOUN	ARGUMENT
+clean	clean	JJ	CW	ADJ
+cast	cast	NN	CW	NOUN	ARGUMENT
+merchant	merchant	NN	CW	NOUN	ARGUMENT
+artisan	artisan	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+unclean	unclean	JJ	CW	ADJ
+occupation	occupation	NN	CW	NOUN	ARGUMENT
+scavenger	scavenger	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+s	s	NNS	CW	NOUN	ARGUMENT
+worth	worth	JJ	CW	ADJ
+note	note	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+last	last	JJ	CW	ADJ
+muslim	muslim	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+qutb-ud-din	qutb-ud-din	JJ	CW	ADJ
+s	s	NNS	CW	NOUN	ARGUMENT
+granddaughter	granddaughter	NN	CW	NOUN	ARGUMENT
+raziyya	raziyya	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+wise	wise	JJ	CW	ADJ
+just	just	RB	ADV	CW
+generous	generous	JJ	CW	ADJ
+contemporary	contemporary	JJ	CW	ADJ
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+historian	historian	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+bear	bear	VB	CW	VERB
+right	right	JJ	CW	ADJ
+sex	sex	NN	CW	NOUN	ARGUMENT
+virtue	virtue	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+worthless	worthless	JJ	CW	ADJ
+
+sentence break
+
+three	three	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+wisdom	wisdom	NN	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+generosity	generosity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+take	take	VB	CW	VERB
+murder	murder	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+seem	seem	VB	CW	VERB
+want	want	VB	CW	VERB
+be	be	VB	CW	VERB
+despot	despot	VBN	CW	VERB
+ala-ud-din	ala-ud-din	JJ	CW	ADJ
+khaljus	khaljus	NN	CW	NOUN	ARGUMENT
+1296	1296	CD	FW
+1316	1316	CD	FW
+force	force	NN	CW	NOUN	ARGUMENT
+mongol	mongol	JJ	CW	ADJ
+invader	invader	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+afghan	afghan	JJ	CW	ADJ
+frontier	frontier	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+move	move	VB	CW	VERB
+peninsula	peninsula	NN	CW	NOUN	ARGUMENT
+southern	southern	JJ	CW	ADJ
+tip	tip	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ala-ud-din	ala-ud-din	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+successor	successor	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+assert	assert	VB	CW	VERB
+control	control	NN	CW	NOUN	ARGUMENT
+territory	territory	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+south	south	RB	ADV	CW
+remain	remain	VBP	CW	VERB
+dominate	dominate	VB	CW	VERB
+hindu	hindu	NN	CW	NOUN	ARGUMENT
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+vijayanagar	vijayanagar	NN	CW	NOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+250	250	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+sultanate	sultanate	NN	CW	NOUN	ARGUMENT
+tughlaq	tughlaq	NN	CW	NOUN	ARGUMENT
+dynasty	dynasty	NN	CW	NOUN	ARGUMENT
+no	no	RB	ADV	CW
+longer	longer	RB	ADV	CW
+hold	hold	VB	CW	VERB
+own	own	JJ	CW	ADJ
+north	north	RB	ADV	CW
+so	so	RB	ADV	CW
+muslim	muslim	JJ	CW	ADJ
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+form	form	NN	CW	NOUN	ARGUMENT
+bengal	bengal	JJ	CW	ADJ
+deccan	deccan	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hasten	hasten	VB	CW	VERB
+man	man	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+other	other	JJ	CW	ADJ
+muslim	muslim	JJ	CW	ADJ
+invader	invader	NN	CW	NOUN	ARGUMENT
+seem	seem	VBP	CW	VERB
+pussy	pussy	NN	CW	NOUN	ARGUMENT
+cat	cat	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mongol	mongol	NN	CW	NOUN	ARGUMENT
+timur	timur	NN	CW	NOUN	ARGUMENT
+lame	lame	JJ	CW	ADJ
+barbarous	barbarous	JJ	CW	ADJ
+bloody	bloody	JJ	CW	ADJ
+tamburlaine	tamburlaine	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+write	write	VB	CW	VERB
+elizabethan	elizabethan	JJ	CW	ADJ
+playwright	playwright	NN	CW	NOUN	ARGUMENT
+christopher	christopher	NN	CW	NOUN	ARGUMENT
+marlowe	marlowe	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+grounds	grounds	NNS	CW	NOUN	ARGUMENT
+sultan	sultan	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+too	too	RB	ADV	CW
+soft	soft	JJ	CW	ADJ
+cut	cut	NN	CW	NOUN	ARGUMENT
+delhus	delhus	NNS	CW	NOUN	ARGUMENT
+1398	1398	CD	FW
+slaughter	slaughter	NN	CW	NOUN	ARGUMENT
+thousand	thousand	CD	FW
+hindus	hindu	NNS	CW	NOUN	ARGUMENT
+carry	carry	VBP	CW	VERB
+thousand	thousand	CD	FW
+more	more	JJR	CW	ADJ
+slave	slave	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+leave	leave	VB	CW	VERB
+famine	famine	NN	CW	NOUN	ARGUMENT
+pestilence	pestilence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+turk	turk	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+splinter	splinter	NN	CW	NOUN	ARGUMENT
+pass	pass	VBP	CW	VERB
+hand	hand	NN	CW	NOUN	ARGUMENT
+afghan	afghan	JJ	CW	ADJ
+horse-breeder	horse-breeder	NN	CW	NOUN	ARGUMENT
+lodus	lodus	NN	CW	NOUN	ARGUMENT
+later	later	JJ	CW	ADJ
+succumb	succumb	VBP	CW	VERB
+descendant	descendant	NN	CW	NOUN	ARGUMENT
+mughal	mughal	JJ	CW	ADJ
+
+sentence break
+
+malabar	malabar	NN	CW	NOUN	ARGUMENT
+coast	coast	NN	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+portuguese	portuguese	JJ	CW	ADJ
+explorer	explorer	NN	CW	NOUN	ARGUMENT
+vasco	vasco	NN	CW	NOUN	ARGUMENT
+da	da	NN	CW	NOUN	ARGUMENT
+gama	gama	NN	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+1498	1498	CD	FW
+pave	pave	VBP	CW	VERB
+way	way	NN	CW	NOUN	ARGUMENT
+countryman	countryman	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+settlement	settlement	NN	CW	NOUN	ARGUMENT
+goa	goa	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+merchant	merchant	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+divert	divert	VB	CW	VERB
+trade	trade	NN	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+arab	arab	JJ	CW	ADJ
+fear	fear	NN	CW	NOUN	ARGUMENT
+enrichment	enrichment	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+african	african	JJ	CW	ADJ
+maghreb	maghreb	JJ	CW	ADJ
+threat	threat	NN	CW	NOUN	ARGUMENT
+christian	christian	JJ	CW	ADJ
+europe	europe	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+come	come	VBN	CW	VERB
+catholic	catholic	JJ	CW	ADJ
+missionary	missionary	JJ	CW	ADJ
+find	find	VB	CW	VERB
+best	best	JJS	CW	ADJ
+subject	subject	JJ	CW	ADJ
+teaching	teaching	NN	CW	NOUN	ARGUMENT
+low-caste	low-caste	JJ	CW	ADJ
+hindus	hindu	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+1548	1548	CD	FW
+st.	st.	NNP	CW	NOUN	ARGUMENT
+franci	francus	NNS	CW	NOUN	ARGUMENT
+xavier	xavier	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+mission	mission	NN	CW	NOUN	ARGUMENT
+pearl	pearl	NN	CW	NOUN	ARGUMENT
+fisherman	fisherman	NN	CW	NOUN	ARGUMENT
+goa	goa	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+sail	sail	NN	CW	NOUN	ARGUMENT
+japan	japan	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+deal	deal	NN	CW	NOUN	ARGUMENT
+small	small	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+jew	jew	NN	CW	NOUN	ARGUMENT
+nestorian	nestorian	JJ	CW	ADJ
+christian	christian	JJ	CW	ADJ
+heretic	heretic	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+settle	settle	VB	CW	VERB
+down	down	RP	FW
+malabar	malabar	NN	CW	NOUN	ARGUMENT
+coast	coast	NN	CW	NOUN	ARGUMENT
+mist	mist	NN	CW	NOUN	ARGUMENT
+antiquity	antiquity	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+archbishop	archbishop	VBD	CW	VERB
+goa	goa	NN	CW	NOUN	ARGUMENT
+open	open	JJ	CW	ADJ
+local	local	JJ	CW	ADJ
+branch	branch	NN	CW	NOUN	ARGUMENT
+holy	holy	JJ	CW	ADJ
+inquisition	inquisition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+merchant	merchant	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+try	try	VB	CW	VERB
+soft	soft	JJ	CW	ADJ
+sell	sell	NN	CW	NOUN	ARGUMENT
+offering	offering	NN	CW	NOUN	ARGUMENT
+cloth	cloth	NN	CW	NOUN	ARGUMENT
+wine	wine	NN	CW	NOUN	ARGUMENT
+necklace	necklace	NN	CW	NOUN	ARGUMENT
+ivory	ivory	NN	CW	NOUN	ARGUMENT
+gold	gold	NN	CW	NOUN	ARGUMENT
+trader	trader	NN	CW	NOUN	ARGUMENT
+calicut	calicut	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+insulted	insult	VBN	CW	VERB
+be	be	VB	FW	aux_or_cop
+take	take	VB	CW	VERB
+native	native	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+buy	buy	VB	CW	VERB
+cheap	cheap	JJ	CW	ADJ
+hooch	hooch	NN	CW	NOUN	ARGUMENT
+glass	glass	NN	CW	NOUN	ARGUMENT
+bauble	bauble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+portuguese	portuguese	JJ	CW	ADJ
+turn	turn	NN	CW	NOUN	ARGUMENT
+harder	harder	RBR	ADV	CW
+sell	sell	VB	CW	VERB
+naval	naval	JJ	CW	ADJ
+battery	battery	NN	CW	NOUN	ARGUMENT
+drive	drive	NN	CW	NOUN	ARGUMENT
+trading	trading	NN	CW	NOUN	ARGUMENT
+fleet	fleet	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+1509	1509	CD	FW
+order	order	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+malabar	malabar	NN	CW	NOUN	ARGUMENT
+coast	coast	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hardly	hardly	RB	ADV	CW
+woman	woman	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+colony	colony	NN	CW	NOUN	ARGUMENT
+portuguese	portuguese	NN	CW	NOUN	ARGUMENT
+soldier	soldier	NN	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+indian	indian	JJ	CW	ADJ
+wife	wife	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+goan	goan	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+descend	descend	VBN	CW	VERB
+convert	convert	VBP	CW	VERB
+take	take	VB	CW	VERB
+name	name	NN	CW	NOUN	ARGUMENT
+portuguese	portuguese	JJ	CW	ADJ
+sponsor	sponsor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+conqueror	conqueror	NN	CW	NOUN	ARGUMENT
+northern	northern	JJ	CW	ADJ
+indium	indium	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+come	come	VB	CW	VERB
+uninvited	uninvited	JJ	CW	ADJ
+
+sentence break
+
+afghan	afghan	JJ	CW	ADJ
+governor	governor	NN	CW	NOUN	ARGUMENT
+sind	sind	NN	CW	NOUN	ARGUMENT
+punjab	punjab	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hop	hop	VB	CW	VERB
+more	more	JJR	CW	ADJ
+autonomy	autonomy	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+lofty	lofty	JJ	CW	ADJ
+sultan	sultan	NN	CW	NOUN	ARGUMENT
+ibrahim	ibrahim	NN	CW	NOUN	ARGUMENT
+lodus	lodus	NN	CW	NOUN	ARGUMENT
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+therefore	therefore	RB	ADV	FW
+call	call	JJ	CW	ADJ
+babur	babur	NN	CW	NOUN	ARGUMENT
+tiger	tiger	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+kabul	kabul	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+babur	babur	NN	CW	NOUN	ARGUMENT
+tiger	tiger	NN	CW	NOUN	ARGUMENT
+descendant	descendant	NN	CW	NOUN	ARGUMENT
+timur	timur	NN	CW	NOUN	ARGUMENT
+lame	lame	JJ	CW	ADJ
+genghi	genghus	NNS	CW	NOUN	ARGUMENT
+khan	khan	JJ	CW	ADJ
+accept	accept	VB	CW	VERB
+welcome	welcome	JJ	CW	ADJ
+make	make	VBP	CW	VERB
+promise	promise	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+man	man	NN	CW	NOUN	ARGUMENT
+crush	crush	NN	CW	NOUN	ARGUMENT
+sultan	sultan	NN	CW	NOUN	ARGUMENT
+ibrahim	ibrahim	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+50	50	CD	FW
+000	000	CD	FW
+cannon	cannon	NN	CW	NOUN	ARGUMENT
+hitherto	hitherto	RB	ADV	FW
+unknown	unknown	JJ	CW	ADJ
+indium	indium	NN	CW	NOUN	ARGUMENT
+panipat	panipat	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+delhus	delhus	VBZ	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+morning	morning	NN	CW	NOUN	ARGUMENT
+21	21	CD	FW
+april	april	NNP	CW	NOUN	ARGUMENT
+1526	1526	CD	FW
+beginning	begin	VBG	CW	VERB
+empire	empire	NN	CW	NOUN	ARGUMENT
+mughal	mughal	JJ	CW	ADJ
+term	term	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+descendant	descendant	NN	CW	NOUN	ARGUMENT
+babur	babur	NN	CW	NOUN	ARGUMENT
+distinct	distinct	JJ	CW	ADJ
+genghi	genghus	NNS	CW	NOUN	ARGUMENT
+khan	khan	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+refer	refer	VB	CW	VERB
+mongol	mongol	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+term	term	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+etymologically	etymologically	RB	ADV	CW
+same	same	JJ	CW	ADJ
+
+sentence break
+
+babur	babur	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+resistance	resistance	NN	CW	NOUN	ARGUMENT
+rajput	rajput	NN	CW	NOUN	ARGUMENT
+capture	capture	NN	CW	NOUN	ARGUMENT
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+agra	agra	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+conquered	conquer	VBD	CW	VERB
+afghan	afghan	JJ	CW	ADJ
+chief	chief	NN	CW	NOUN	ARGUMENT
+1529	1529	CD	FW
+
+sentence break
+
+die	die	VB	CW	VERB
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+
+sentence break
+
+heir	heir	NN	CW	NOUN	ARGUMENT
+humayun	humayun	NN	CW	NOUN	ARGUMENT
+prefer	prefer	VBP	CW	VERB
+opium	opium	NN	CW	NOUN	ARGUMENT
+astrology	astrology	NN	CW	NOUN	ARGUMENT
+complex	complex	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+affair	affair	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+drive	drive	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+persium	persium	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+sher	sher	NN	CW	NOUN	ARGUMENT
+shah	shah	NN	CW	NOUN	ARGUMENT
+prove	prove	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+much	much	RB	ADV	CW
+more	more	RBR	ADV	CW
+able	able	JJ	CW	ADJ
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+five	five	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+build	build	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+road	road	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+royal	royal	NN	CW	NOUN	ARGUMENT
+postal	postal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+set	set	NN	CW	NOUN	ARGUMENT
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+mughal	mughal	JJ	CW	ADJ
+administration	administration	NN	CW	NOUN	ARGUMENT
+next	next	IN	FW	SUBORDINATOR
+two	two	CD	FW
+century	century	NN	CW	NOUN	ARGUMENT
+die	die	NN	CW	NOUN	ARGUMENT
+battle	battle	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+throne	throne	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+inept	inept	JJ	CW	ADJ
+successor	successor	NN	CW	NOUN	ARGUMENT
+eventually	eventually	RB	ADV	CW
+return	return	VB	CW	VERB
+humayun	humayun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+straightened	straighten	VBN	CW	VERB
+while	while	IN	FW	SUBORDINATOR
+humayun	humayun	JJ	CW	ADJ
+come	come	VBN	CW	VERB
+back	back	RB	ADV	CW
+1555	1555	CD	FW
+persian	persian	JJ	CW	ADJ
+army	army	NN	CW	NOUN	ARGUMENT
+recapture	recapture	VB	CW	VERB
+punjab	punjab	JJ	CW	ADJ
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+agra	agra	NN	CW	NOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+opium	opium	NN	CW	NOUN	ARGUMENT
+habit	habit	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+page	page	NN	CW	NOUN	ARGUMENT
+64	64	CD	FW
+
+sentence break
+
+do	do	VB	CW	VERB
+however	however	RB	ADV	FW
+leave	leave	VBP	CW	VERB
+son	son	NN	CW	NOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+akbar	akbar	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+jalal-ud-din	jalal-ud-din	NN	CW	NOUN	ARGUMENT
+mohammed	mohamm	VBD	CW	VERB
+akbar	akbar	JJ	CW	ADJ
+1556	1556	CD	FW
+1605	1605	CD	FW
+be	be	VB	FW	aux_or_cop
+real	real	JJ	CW	ADJ
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+typical	typical	JJ	CW	ADJ
+genius	genius	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+new	new	JJ	CW	ADJ
+religion	religion	NN	CW	NOUN	ARGUMENT
+offer	offer	NN	CW	NOUN	ARGUMENT
+subject	subject	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+divine	divine	JJ	CW	ADJ
+faith	faith	NN	CW	NOUN	ARGUMENT
+din	din	NN	CW	NOUN	ARGUMENT
+ilahus	ilahus	NN	CW	NOUN	ARGUMENT
+intend	intend	VBP	CW	VERB
+satisfy	satisfy	VB	CW	VERB
+orthodox	orthodox	JJ	CW	ADJ
+muslim	muslim	JJ	CW	ADJ
+just	just	RB	ADV	CW
+hindus	hindu	NNS	CW	NOUN	ARGUMENT
+appreciate	appreciate	VBP	CW	VERB
+idea	idea	NN	CW	NOUN	ARGUMENT
+semi-divine	semi-divine	JJ	CW	ADJ
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+keen	keen	JJ	CW	ADJ
+win	win	VB	CW	VERB
+allegiance	allegiance	NN	CW	NOUN	ARGUMENT
+hindus	hindu	NN	CW	NOUN	ARGUMENT
+akbar	akbar	NN	CW	NOUN	ARGUMENT
+abolish	abolish	VBP	CW	VERB
+most	most	RBS	ADV	CW
+discriminatory	discriminatory	JJ	CW	ADJ
+tax	tax	NN	CW	NOUN	ARGUMENT
+non	non	JJ	CW	ADJ
+muslim	muslim	JJ	CW	ADJ
+recruit	recruit	VB	CW	VERB
+rajput	rajput	NN	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+marry	marry	VB	CW	VERB
+daughter	daughter	NN	CW	NOUN	ARGUMENT
+raja	raja	NN	CW	NOUN	ARGUMENT
+bharmal	bharmal	JJ	CW	ADJ
+amber	amber	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+flinch	flinch	VB	CW	VERB
+massacre	massacre	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+000	000	CD	FW
+rajput	rajput	NN	CW	NOUN	ARGUMENT
+soldier	soldier	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+repeat	repeat	NN	CW	NOUN	ARGUMENT
+effort	effort	NN	CW	NOUN	ARGUMENT
+akbar	akbar	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+extend	extend	VB	CW	VERB
+empire	empire	NN	CW	NOUN	ARGUMENT
+south	south	RB	ADV	CW
+
+sentence break
+
+1565	1565	CD	FW
+muslim	muslim	JJ	CW	ADJ
+sultanate	sultanate	NN	CW	NOUN	ARGUMENT
+deccan	deccan	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+take	take	VB	CW	VERB
+hindu	hindu	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+vijayanagar	vijayanagar	NN	CW	NOUN	ARGUMENT
+means	mean	VBZ	FW	aux_or_cop
+slaughter	slaughter	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+go	go	VB	CW	VERB
+hand	hand	NN	CW	NOUN	ARGUMENT
+akbar	akbar	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+illiterate	illiterate	JJ	CW	ADJ
+akbar	akbar	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+enormous	enormous	JJ	CW	ADJ
+intellectual	intellectual	JJ	CW	ADJ
+curiosity	curiosity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+prefer	prefer	VBP	CW	VERB
+sufi	sufi	JJ	CW	ADJ
+mysticism	mysticism	NN	CW	NOUN	ARGUMENT
+orthodox	orthodox	NN	CW	NOUN	ARGUMENT
+islam	islam	NN	CW	NOUN	ARGUMENT
+hold	hold	VB	CW	VERB
+debate	debate	NN	CW	NOUN	ARGUMENT
+brahmin	brahmin	JJ	CW	ADJ
+jain	jain	NN	CW	NOUN	ARGUMENT
+monk	monk	NN	CW	NOUN	ARGUMENT
+parsus	parsus	VBZ	CW	VERB
+zoroastrian	zoroastrian	JJ	CW	ADJ
+jesuit	jesuit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+more	more	RBR	ADV	CW
+orthodox	orthodox	JJ	CW	ADJ
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+concern	concern	NN	CW	NOUN	ARGUMENT
+islam	islam	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+abandon	abandon	VB	CW	VERB
+rebellion	rebellion	NN	CW	NOUN	ARGUMENT
+spring	spring	NN	CW	NOUN	ARGUMENT
+up	up	IN	FW
+bengal	bengal	JJ	CW	ADJ
+bihar	bihar	NN	CW	NOUN	ARGUMENT
+punjab	punjab	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+akbar	akbar	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fight	fight	NN	CW	NOUN	ARGUMENT
+deccan	deccan	JJ	CW	ADJ
+1601	1601	CD	FW
+son	son	NN	CW	NOUN	ARGUMENT
+claim	claim	NN	CW	NOUN	ARGUMENT
+throne	throne	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+akbar	akbar	JJ	CW	ADJ
+rush	rush	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+reassert	reassert	VB	CW	VERB
+power	power	NN	CW	NOUN	ARGUMENT
+die	die	VB	CW	VERB
+soon	soon	RB	ADV	CW
+after	after	IN	FW	SUBORDINATOR
+poison	poison	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+rumor	rumor	NN	CW	NOUN	ARGUMENT
+son	son	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+jahangir	jahangir	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+seizer	seizer	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+power	power	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+affair	affair	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+wife	wife	NN	CW	NOUN	ARGUMENT
+nur	nur	NN	CW	NOUN	ARGUMENT
+jahan	jahan	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+interested	interested	JJ	CW	ADJ
+write	write	VB	CW	VERB
+poetry	poetry	NN	CW	NOUN	ARGUMENT
+drink	drink	NN	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+deal	deal	NN	CW	NOUN	ARGUMENT
+wine	wine	NN	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+excursion	excursion	NN	CW	NOUN	ARGUMENT
+kashmir	kashmir	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+here	here	RB	ADV	CW
+rich	rich	JJ	CW	ADJ
+persian	persian	JJ	CW	ADJ
+culture	culture	NN	CW	NOUN	ARGUMENT
+dictate	dictate	VBP	CW	VERB
+taste	taste	NN	CW	NOUN	ARGUMENT
+dress	dress	NN	CW	NOUN	ARGUMENT
+encoding error!
+manners	manners	NNS	CW	NOUN	ARGUMENT
+morals	moral	NNS	CW	NOUN	ARGUMENT
+enriched	enriched	JJ	CW	ADJ
+hindu	hindu	NN	CW	NOUN	ARGUMENT
+culture	culture	NN	CW	NOUN	ARGUMENT
+rajput	rajput	NN	CW	NOUN	ARGUMENT
+literature	literature	NN	CW	NOUN	ARGUMENT
+cuisine	cuisine	NN	CW	NOUN	ARGUMENT
+sexuality	sexuality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+peasant	peasant	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+squeeze	squeeze	NN	CW	NOUN	ARGUMENT
+tax	tax	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+luxury	luxury	NN	CW	NOUN	ARGUMENT
+mughal	mughal	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+boon	boon	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+artisan	artisan	NN	CW	NOUN	ARGUMENT
+goldsmith	goldsmith	NN	CW	NOUN	ARGUMENT
+jeweler	jeweler	NN	CW	NOUN	ARGUMENT
+weaver	weaver	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+such	such	JJ	CW	ADJ
+atmosphere	atmosphere	NN	CW	NOUN	ARGUMENT
+incident	incident	NN	CW	NOUN	ARGUMENT
+highway	highway	NN	CW	NOUN	ARGUMENT
+banditry	banditry	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+district	district	NN	CW	NOUN	ARGUMENT
+governor	governor	NN	CW	NOUN	ARGUMENT
+share	share	NN	CW	NOUN	ARGUMENT
+rich	rich	JJ	CW	ADJ
+booty	booty	NN	CW	NOUN	ARGUMENT
+exchange	exchange	NN	CW	NOUN	ARGUMENT
+pardon	pardon	NN	CW	NOUN	ARGUMENT
+bandit	bandit	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+capture	capture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+jahangir	jahangir	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+son	son	NN	CW	NOUN	ARGUMENT
+shahjahan	shahjahan	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+biggest	biggest	JJS	CW	ADJ
+spender	spender	NN	CW	NOUN	ARGUMENT
+mughal	mughal	JJ	CW	ADJ
+
+sentence break
+
+lavish	lavish	JJ	CW	ADJ
+million	million	CD	FW
+palace	palace	NN	CW	NOUN	ARGUMENT
+mosque	mosque	NN	CW	NOUN	ARGUMENT
+blow	blow	NN	CW	NOUN	ARGUMENT
+least	least	JJS	CW	ADJ
+one	one	CD	FW
+million	million	CD	FW
+pound	pound	NN	CW	NOUN	ARGUMENT
+sterling	sterling	NN	CW	NOUN	ARGUMENT
+gold	gold	NN	CW	NOUN	ARGUMENT
+jewel	jewel	NN	CW	NOUN	ARGUMENT
+peacock	peacock	NN	CW	NOUN	ARGUMENT
+throne	throne	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+imperial	imperial	JJ	CW	ADJ
+treasury	treasury	NN	CW	NOUN	ARGUMENT
+allotted	allot	VBD	CW	VERB
+only	only	RB	ADV	CW
+5	5	CD	FW
+000	000	CD	FW
+rupee	rupee	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+plague	plague	VBP	CW	VERB
+famine	famine	NN	CW	NOUN	ARGUMENT
+victim	victim	NN	CW	NOUN	ARGUMENT
+1631	1631	CD	FW
+
+sentence break
+
+several	several	JJ	CW	ADJ
+hundred	hundred	CD	FW
+woman	woman	NN	CW	NOUN	ARGUMENT
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+harem	harem	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+love	love	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+legendary	legendary	JJ	CW	ADJ
+mumtaz	mumtaz	NN	CW	NOUN	ARGUMENT
+mahal	mahal	JJ	CW	ADJ
+exalted	exalted	JJ	CW	ADJ
+palace	palace	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+14	14	CD	FW
+child	child	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+die	die	VB	CW	VERB
+childbirth	childbirth	NN	CW	NOUN	ARGUMENT
+shahjahan	shahjahan	NN	CW	NOUN	ARGUMENT
+build	build	VBP	CW	VERB
+most	most	RBS	ADV	CW
+famous	famous	JJ	CW	ADJ
+memorial	memorial	NN	CW	NOUN	ARGUMENT
+man	man	NN	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+offer	offer	VBP	CW	VERB
+woman	woman	NN	CW	NOUN	ARGUMENT
+love	love	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+taj	taj	NN	CW	NOUN	ARGUMENT
+mahal	mahal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+shahjahan	shahjahan	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+son	son	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+aurangzeb	aurangzeb	JJ	CW	ADJ
+1658	1658	CD	FW
+1707	1707	CD	FW
+overthrew	overthrow	VBD	CW	VERB
+father	father	NN	CW	NOUN	ARGUMENT
+imprison	imprison	VB	CW	VERB
+agra	agra	NN	CW	NOUN	ARGUMENT
+fort	fort	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pious	pious	JJ	CW	ADJ
+muslim	muslim	JJ	CW	ADJ
+puritanical	puritanical	JJ	CW	ADJ
+clothes	clothes	NNS	CW	NOUN	ARGUMENT
+personal	personal	JJ	CW	ADJ
+taste	taste	NN	CW	NOUN	ARGUMENT
+banish	banish	VBP	CW	VERB
+music	music	NN	CW	NOUN	ARGUMENT
+court	court	NN	CW	NOUN	ARGUMENT
+burn	burn	VBP	CW	VERB
+portrait	portrait	NN	CW	NOUN	ARGUMENT
+prince	prince	NN	CW	NOUN	ARGUMENT
+breach	breach	NN	CW	NOUN	ARGUMENT
+islamic	islamic	JJ	CW	ADJ
+taboo	taboo	JJ	CW	ADJ
+graven	graven	NN	CW	NOUN	ARGUMENT
+image	image	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+go	go	VB	CW	VERB
+too	too	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+notion	notion	NN	CW	NOUN	ARGUMENT
+religious	religious	JJ	CW	ADJ
+tolerance	tolerance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sikh	sikh	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+slaughter	slaughter	NN	CW	NOUN	ARGUMENT
+hindu	hindu	NN	CW	NOUN	ARGUMENT
+temple	temple	NN	CW	NOUN	ARGUMENT
+varanasus	varanasus	NN	CW	NOUN	ARGUMENT
+mathura	mathura	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+destroy	destroy	VB	CW	VERB
+building	build	VBG	CW	VERB
+new	new	JJ	CW	ADJ
+temple	temple	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+forbid	forbid	VBN	CW	VERB
+
+sentence break
+
+tax	tax	NN	CW	NOUN	ARGUMENT
+non	non	JJ	CW	ADJ
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+back	back	RP	FW
+
+sentence break
+
+hindu	hindu	NN	CW	NOUN	ARGUMENT
+merchant	merchant	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+force	force	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+double	double	JJ	CW	ADJ
+duty	duty	NN	CW	NOUN	ARGUMENT
+goods	goods	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+aurangzeb	aurangzeb	NN	CW	NOUN	ARGUMENT
+streamline	streamline	VB	CW	VERB
+lax	lax	JJ	CW	ADJ
+administration	administration	NN	CW	NOUN	ARGUMENT
+predecessor	predecessor	NN	CW	NOUN	ARGUMENT
+almost	almost	RB	ADV	FW
+bankrupted	bankrupt	VBD	CW	VERB
+realm	realm	NN	CW	NOUN	ARGUMENT
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+expand	expand	VB	CW	VERB
+empire	empire	NN	CW	NOUN	ARGUMENT
+south	south	JJ	CW	ADJ
+battle	battle	NN	CW	NOUN	ARGUMENT
+rebel	rebel	NN	CW	NOUN	ARGUMENT
+north	north	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	RBS	ADV	CW
+significant	significant	JJ	CW	ADJ
+resistance	resistance	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+maratha	maratha	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+maharashtra	maharashtra	NN	CW	NOUN	ARGUMENT
+mumbaus	mumbaus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+lead	lead	JJ	CW	ADJ
+fighter	fighter	NN	CW	NOUN	ARGUMENT
+shivajus	shivajus	VBZ	CW	VERB
+1627	1627	CD	FW
+1680	1680	CD	FW
+bandit	bandit	NN	CW	NOUN	ARGUMENT
+brave	brave	VBP	CW	VERB
+military	military	JJ	CW	ADJ
+commander	commander	NN	CW	NOUN	ARGUMENT
+authentic	authentic	JJ	CW	ADJ
+hindu	hindu	NN	CW	NOUN	ARGUMENT
+folk	folk	NN	CW	NOUN	ARGUMENT
+hero	hero	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+start	start	VB	CW	VERB
+pune	pune	NN	CW	NOUN	ARGUMENT
+shivajus	shivajus	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+maratha	maratha	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+deccan	deccan	NN	CW	NOUN	ARGUMENT
+sultan	sultan	NN	CW	NOUN	ARGUMENT
+bijapur	bijapur	NN	CW	NOUN	ARGUMENT
+mughal	mughal	JJ	CW	ADJ
+purandar	purandar	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+aurangzeb	aurangzeb	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+submit	submit	VB	CW	VERB
+humiliating	humiliating	JJ	CW	ADJ
+reception	reception	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+give	give	VB	CW	VERB
+court	court	NN	CW	NOUN	ARGUMENT
+send	send	VB	CW	VERB
+back	back	RB	ADV	CW
+warpath	warpath	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+shivajus	shivajus	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+have	have	VBP	CW	VERB
+crown	crown	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+maratha	maratha	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+soldier	soldier	NN	CW	NOUN	ARGUMENT
+plundered	plunder	VBD	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+east	east	JJ	CW	ADJ
+madra	madra	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+meanwhile	meanwhile	RB	ADV	FW
+middle	middle	JJ	CW	ADJ
+17	17	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+dutch	dutch	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+arm	arm	NN	CW	NOUN	ARGUMENT
+merchant	merchant	NN	CW	NOUN	ARGUMENT
+ship	ship	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+break	break	NN	CW	NOUN	ARGUMENT
+portuguese	portuguese	JJ	CW	ADJ
+blockade	blockade	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+east	east	JJ	CW	ADJ
+indium	indium	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+coast	coast	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+arriving	arrive	VBG	CW	VERB
+1608	1608	CD	FW
+british	british	JJ	CW	ADJ
+take	take	VB	CW	VERB
+five	five	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+get	get	VBP	CW	VERB
+foot	foot	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+door	door	NN	CW	NOUN	ARGUMENT
+western	western	JJ	CW	ADJ
+port	port	NN	CW	NOUN	ARGUMENT
+surat	surat	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+bombay	bombay	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+company	company	NN	CW	NOUN	ARGUMENT
+destroy	destroy	VB	CW	VERB
+portuguese	portuguese	JJ	CW	ADJ
+fleet	fleet	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+protection	protection	NN	CW	NOUN	ARGUMENT
+muslim	muslim	JJ	CW	ADJ
+pilgrimage	pilgrimage	NN	CW	NOUN	ARGUMENT
+ship	ship	NN	CW	NOUN	ARGUMENT
+mecca	mecca	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+feeling	feeling	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+portuguese	portuguese	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+gift	gift	NN	CW	NOUN	ARGUMENT
+bombay	bombay	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+charle	charle	NN	CW	NOUN	ARGUMENT
+ius	ius	VBZ	CW	VERB
+1661	1661	CD	FW
+part	part	NN	CW	NOUN	ARGUMENT
+dowry	dowry	NN	CW	NOUN	ARGUMENT
+catherine	catherine	NN	CW	NOUN	ARGUMENT
+braganza	braganza	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+be	be	VB	CW	VERB
+not	not	RB	ADV	CW
+consult	consult	VB	CW	VERB
+
+sentence break
+
+company	company	NN	CW	NOUN	ARGUMENT
+erect	erect	VB	CW	VERB
+east-coast	east-coast	JJ	CW	ADJ
+installation	installation	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+1642	1642	CD	FW
+just	just	RB	ADV	CW
+road	road	NN	CW	NOUN	ARGUMENT
+dutch	dutch	JJ	CW	ADJ
+mandaraz	mandaraz	NN	CW	NOUN	ARGUMENT
+pronounce	pronounce	VBP	CW	VERB
+madra	madra	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+
+sentence break
+
+further	further	RB	ADV	CW
+north	north	RB	ADV	CW
+british	british	JJ	CW	ADJ
+gradually	gradually	RB	ADV	CW
+gain	gain	VB	CW	VERB
+upper	upper	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+rival	rival	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+include	include	VBP	CW	VERB
+french	french	JJ	CW	ADJ
+bengalus	bengalus	NN	CW	NOUN	ARGUMENT
+trade	trade	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+create	create	VB	CW	VERB
+calcutta	calcutta	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mughal	mughal	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+five	five	CD	FW
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+aurangzeb	aurangzeb	NN	CW	NOUN	ARGUMENT
+die	die	VB	CW	VERB
+
+sentence break
+
+bihar	bihar	NN	CW	NOUN	ARGUMENT
+bengal	bengal	NN	CW	NOUN	ARGUMENT
+rajputana	rajputana	NN	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+separate	separate	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sikh	sikh	NN	CW	NOUN	ARGUMENT
+react	react	VBP	CW	VERB
+violently	violently	RB	ADV	CW
+persecution	persecution	NN	CW	NOUN	ARGUMENT
+maratha	maratha	NN	CW	NOUN	ARGUMENT
+spread	spread	NN	CW	NOUN	ARGUMENT
+orissa	orissa	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+1739	1739	CD	FW
+nadir	nadir	NN	CW	NOUN	ARGUMENT
+shah	shah	NN	CW	NOUN	ARGUMENT
+persium	persium	NN	CW	NOUN	ARGUMENT
+invade	invade	VB	CW	VERB
+carry	carry	VB	CW	VERB
+peacock	peacock	NN	CW	NOUN	ARGUMENT
+throne	throne	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+assassination	assassination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+meanwhile	meanwhile	RB	ADV	FW
+british	british	JJ	CW	ADJ
+clerk-turned-soldier	clerk-turned-soldier	NN	CW	NOUN	ARGUMENT
+robert	robert	NN	CW	NOUN	ARGUMENT
+clive	clive	JJ	CW	ADJ
+win	win	VB	CW	VERB
+long	long	RB	ADV	CW
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+madra	madra	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fearing	fear	VBG	CW	VERB
+european	european	JJ	CW	ADJ
+start	start	NN	CW	NOUN	ARGUMENT
+carve	carve	VBP	CW	VERB
+bengal	bengal	JJ	CW	ADJ
+nawab	nawab	NN	CW	NOUN	ARGUMENT
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+prince	prince	NN	CW	NOUN	ARGUMENT
+siraj-ud-daulum	siraj-ud-daulum	NN	CW	NOUN	ARGUMENT
+set	set	VBD	CW	VERB
+attack	attack	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+settlement	settlement	NN	CW	NOUN	ARGUMENT
+calcutta	calcutta	NN	CW	NOUN	ARGUMENT
+hot	hot	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+june	june	NNP	CW	NOUN	ARGUMENT
+1756	1756	CD	FW
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+flee	flee	VB	CW	VERB
+sea	sea	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+throw	throw	VB	CW	VERB
+fort	fort	NN	CW	NOUN	ARGUMENT
+william	william	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+prison	prison	NN	CW	NOUN	ARGUMENT
+already	already	RB	ADV	CW
+know	know	VB	CW	VERB
+black	black	JJ	CW	ADJ
+hole	hole	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+s	s	NNS	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+debate	debate	NN	CW	NOUN	ARGUMENT
+123	123	CD	FW
+suffocated	suffocate	VBN	CW	VERB
+23	23	CD	FW
+survive	survive	VBP	CW	VERB
+only	only	RB	ADV	CW
+43	43	CD	FW
+die	die	VB	CW	VERB
+leave	leave	VB	CW	VERB
+21	21	CD	FW
+survivor	survivor	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+many	many	JJ	CW	ADJ
+die	die	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+enough	enough	JJ	CW	ADJ
+impetus	impetus	NN	CW	NOUN	ARGUMENT
+clive	clive	JJ	CW	ADJ
+crush	crush	NN	CW	NOUN	ARGUMENT
+siraj-ud-daulum	siraj-ud-daulum	NN	CW	NOUN	ARGUMENT
+battle	battle	NN	CW	NOUN	ARGUMENT
+plassey	plassey	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+clive	clive	JJ	CW	ADJ
+become	become	VBN	CW	VERB
+governor	governor	NN	CW	NOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+nawab	nawab	NN	CW	NOUN	ARGUMENT
+throne	throne	NN	CW	NOUN	ARGUMENT
+exchange	exchange	NN	CW	NOUN	ARGUMENT
+#	#	#	FW
+500	500	CD	FW
+000	000	CD	FW
+company	company	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+annexed	annex	VBN	CW	VERB
+2	2	CD	FW
+330	330	CD	FW
+sq	sq	NN	CW	NOUN	ARGUMENT
+km	km	NN	CW	NOUN	ARGUMENT
+900	900	CD	FW
+sq	sq	NN	CW	NOUN	ARGUMENT
+mile	mile	NN	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+due	due	JJ	CW	ADJ
+south	south	RB	ADV	CW
+calcutta	calcutta	NNP	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+rent	rent	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+settlement	settlement	NN	CW	NOUN	ARGUMENT
+guarantee	guarantee	NN	CW	NOUN	ARGUMENT
+income	income	NN	CW	NOUN	ARGUMENT
+#	#	#	FW
+30	30	CD	FW
+000	000	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rise	rise	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+begin	begin	VB	CW	VERB
+
+sentence break
+
+arrival	arrival	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+merchant	merchant	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+jain	jain	NN	CW	NOUN	ARGUMENT
+parsis	parsis	NN	CW	NOUN	ARGUMENT
+jew	jew	NN	CW	NOUN	ARGUMENT
+turn	turn	NN	CW	NOUN	ARGUMENT
+bombay	bombay	NN	CW	NOUN	ARGUMENT
+madra	madra	NN	CW	NOUN	ARGUMENT
+calcutta	calcutta	NN	CW	NOUN	ARGUMENT
+large	large	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+company	company	NN	CW	NOUN	ARGUMENT
+discover	discover	VBP	CW	VERB
+knack	knack	NN	CW	NOUN	ARGUMENT
+large-scale	large-scale	JJ	CW	ADJ
+administration	administration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+high	high	JJ	CW	ADJ
+sense	sense	NN	CW	NOUN	ARGUMENT
+integrity	integrity	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+place	place	NN	CW	NOUN	ARGUMENT
+clive	clive	JJ	CW	ADJ
+call	call	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+chicanery	chicanery	NN	CW	NOUN	ARGUMENT
+intrigue	intrigue	NN	CW	NOUN	ARGUMENT
+politics	politics	NNS	CW	NOUN	ARGUMENT
+lord	lord	VBD	CW	VERB
+know	know	VB	CW	VERB
+
+sentence break
+
+return	return	NN	CW	NOUN	ARGUMENT
+fix	fix	NN	CW	NOUN	ARGUMENT
+payment	payment	NN	CW	NOUN	ARGUMENT
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+official	official	NN	CW	NOUN	ARGUMENT
+collect	collect	VB	CW	VERB
+revenue	revenue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+well-paid	well-paid	JJ	CW	ADJ
+civil	civil	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+clive	clive	VBP	CW	VERB
+s	s	NNS	CW	NOUN	ARGUMENT
+successor	successor	NN	CW	NOUN	ARGUMENT
+warren	warren	NN	CW	NOUN	ARGUMENT
+hasting	hasting	NN	CW	NOUN	ARGUMENT
+lord	lord	NN	CW	NOUN	ARGUMENT
+cornwalli	cornwallus	NNS	CW	NOUN	ARGUMENT
+avoid	avoid	VB	CW	VERB
+collector	collector	NN	CW	NOUN	ARGUMENT
+padding	padding	NN	CW	NOUN	ARGUMENT
+salary	salary	NN	CW	NOUN	ARGUMENT
+private	private	JJ	CW	ADJ
+deal	deal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+title	title	NN	CW	NOUN	ARGUMENT
+governor	governor	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+hasting	hasting	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+cornwalli	cornwalli	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+responsible	responsible	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+company	company	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+britain	britain	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+take	take	VB	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+seriously	seriously	RB	ADV	CW
+
+sentence break
+
+new	new	JJ	CW	ADJ
+high-mindedness	high-mindedness	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+seed	seed	NN	CW	NOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+discontent	discontent	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+remove	remove	VB	CW	VERB
+key	key	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+administration	administration	NN	CW	NOUN	ARGUMENT
+cornwalli	cornwallus	NNS	CW	NOUN	ARGUMENT
+consider	consider	VBP	CW	VERB
+not	not	RB	ADV	CW
+yet	yet	RB	ADV	CW
+stricter	stricter	JJR	CW	ADJ
+ethical	ethical	JJ	CW	ADJ
+standard	standard	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+introduce	introduce	VB	CW	VERB
+
+sentence break
+
+take	take	VB	CW	VERB
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+readmitted	readmit	VBN	CW	VERB
+position	position	NN	CW	NOUN	ARGUMENT
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+clive	clive	JJ	CW	ADJ
+s	s	NNS	CW	NOUN	ARGUMENT
+example	example	NN	CW	NOUN	ARGUMENT
+calcutta	calcutta	NN	CW	NOUN	ARGUMENT
+set	set	NN	CW	NOUN	ARGUMENT
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+territorial	territorial	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+south	south	RB	ADV	CW
+tipu	tipu	NNP	CW	NOUN	ARGUMENT
+sultan	sultan	NN	CW	NOUN	ARGUMENT
+mysore	mysore	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+menace	menace	NN	CW	NOUN	ARGUMENT
+madra	madra	NN	CW	NOUN	ARGUMENT
+governor	governor	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+arthur	arthur	NN	CW	NOUN	ARGUMENT
+wellesley	wellesley	JJ	CW	ADJ
+future	future	JJ	CW	ADJ
+duke	duke	NN	CW	NOUN	ARGUMENT
+wellington	wellington	NN	CW	NOUN	ARGUMENT
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+wellesley	wellesley	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+turn	turn	VB	CW	VERB
+maratha	maratha	NN	CW	NOUN	ARGUMENT
+clan	clan	NN	CW	NOUN	ARGUMENT
+controll	controll	NN	CW	NOUN	ARGUMENT
+puppet	puppet	NN	CW	NOUN	ARGUMENT
+mughal	mughal	JJ	CW	ADJ
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+much	much	JJ	CW	ADJ
+central	central	JJ	CW	ADJ
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+few	few	JJ	CW	ADJ
+brilliant	brilliant	JJ	CW	ADJ
+victory	victory	NN	CW	NOUN	ARGUMENT
+gain	gain	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+orissa	orissa	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+territory	territory	NN	CW	NOUN	ARGUMENT
+britain	britain	NN	CW	NOUN	ARGUMENT
+london	london	NN	CW	NOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+energy	energy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+best	best	RB	ADV	CW
+direct	direct	JJ	CW	ADJ
+napoleon	napoleon	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+wellesley	wellesley	JJ	CW	ADJ
+home	home	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+territory	territory	NN	CW	NOUN	ARGUMENT
+wasn	wasn	NN	CW	NOUN	ARGUMENT
+t	t	NN	CW	NOUN	ARGUMENT
+acquire	acquire	NN	CW	NOUN	ARGUMENT
+conquest	conquest	NN	CW	NOUN	ARGUMENT
+sind	sind	JJ	CW	ADJ
+baluchus	baluchus	NN	CW	NOUN	ARGUMENT
+prince	prince	NN	CW	NOUN	ARGUMENT
+punjab	punjab	NN	CW	NOUN	ARGUMENT
+kashmir	kashmir	NN	CW	NOUN	ARGUMENT
+sikh	sikh	NN	CW	NOUN	ARGUMENT
+maharashtra	maharashtra	NN	CW	NOUN	ARGUMENT
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+maratha	maratha	NN	CW	NOUN	ARGUMENT
+assam	assam	NN	CW	NOUN	ARGUMENT
+burma	burma	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+annexed	annexed	JJ	CW	ADJ
+so-called	so-called	JJ	CW	ADJ
+principle	principle	NN	CW	NOUN	ARGUMENT
+lapse	lapse	NN	CW	NOUN	ARGUMENT
+paramountcy	paramountcy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+die	die	VB	CW	VERB
+direct	direct	JJ	CW	ADJ
+heir	heir	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+lapse	lapse	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+repeat	repeat	NN	CW	NOUN	ARGUMENT
+warning	warning	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+judge	judge	NN	CW	NOUN	ARGUMENT
+guilty	guilty	JJ	CW	ADJ
+misgovernment	misgovernment	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+simply	simply	RB	ADV	CW
+annexed	annex	VBN	CW	VERB
+paramount	paramount	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+
+sentence break
+
+school	school	NN	CW	NOUN	ARGUMENT
+college	college	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+establish	establish	VB	CW	VERB
+
+sentence break
+
+calcutta	calcutta	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+center	center	NN	CW	NOUN	ARGUMENT
+vigorous	vigorous	JJ	CW	ADJ
+free	free	JJ	CW	ADJ
+press	press	NN	CW	NOUN	ARGUMENT
+intellectual	intellectual	JJ	CW	ADJ
+capital	capital	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1834	1834	CD	FW
+regional	regional	JJ	CW	ADJ
+rupee	rupee	NN	CW	NOUN	ARGUMENT
+differ	differ	VBP	CW	VERB
+value	value	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+mint	mint	NN	CW	NOUN	ARGUMENT
+portrait	portrait	NN	CW	NOUN	ARGUMENT
+mughal	mughal	JJ	CW	ADJ
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+national	national	JJ	CW	ADJ
+rupee	rupee	NN	CW	NOUN	ARGUMENT
+unitary	unitary	JJ	CW	ADJ
+value	value	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+issue	issue	NN	CW	NOUN	ARGUMENT
+face	face	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+run	run	VB	CW	VERB
+empire	empire	NN	CW	NOUN	ARGUMENT
+effectively	effectively	RB	ADV	CW
+british	british	JJ	CW	ADJ
+install	install	VB	CW	VERB
+railway	railway	NN	CW	NOUN	ARGUMENT
+better	better	JJR	CW	ADJ
+road	road	NN	CW	NOUN	ARGUMENT
+telegraph	telegraph	NN	CW	NOUN	ARGUMENT
+stamp-post	stamp-post	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+also	also	RB	ADV	CW
+see	see	VB	CW	VERB
+other	other	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+industrial	industrial	JJ	CW	ADJ
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+cotton	cotton	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+manchester	manchester	NN	CW	NOUN	ARGUMENT
+come	come	VB	CW	VERB
+back	back	RB	ADV	CW
+cloth	cloth	NN	CW	NOUN	ARGUMENT
+cheaper	cheaper	JJR	CW	ADJ
+own	own	JJ	CW	ADJ
+
+sentence break
+
+man	man	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+governor	governor	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+william	william	NN	CW	NOUN	ARGUMENT
+bentinck	bentinck	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+missionary	missionary	JJ	CW	ADJ
+reformer	reformer	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+brahman	brahman	NN	CW	NOUN	ARGUMENT
+ram	ram	NN	CW	NOUN	ARGUMENT
+mohan	mohan	NN	CW	NOUN	ARGUMENT
+roy	roy	NN	CW	NOUN	ARGUMENT
+legislate	legislate	VB	CW	VERB
+practice	practice	NN	CW	NOUN	ARGUMENT
+widow	widow	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+satus	satus	NN	CW	NOUN	ARGUMENT
+climb	climb	NN	CW	NOUN	ARGUMENT
+funeral	funeral	NN	CW	NOUN	ARGUMENT
+pyre	pyre	NN	CW	NOUN	ARGUMENT
+respective	respective	JJ	CW	ADJ
+husband	husband	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+launch	launch	NN	CW	NOUN	ARGUMENT
+female	female	JJ	CW	ADJ
+infanticide	infanticide	NN	CW	NOUN	ARGUMENT
+slavery	slavery	NN	CW	NOUN	ARGUMENT
+band	band	NN	CW	NOUN	ARGUMENT
+thug	thug	NN	CW	NOUN	ARGUMENT
+devotee	devotee	JJ	CW	ADJ
+kalus	kalus	NN	CW	NOUN	ARGUMENT
+rang	ring	VBD	CW	VERB
+countryside	countryside	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+assimilated	assimilated	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+most	most	RBS	ADV	CW
+imperialist	imperialist	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+offensively	offensively	RB	ADV	CW
+aloof	aloof	JJ	CW	ADJ
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+have	have	VBP	FW	aux_or_cop
+know	know	VB	CW	VERB
+other	other	JJ	CW	ADJ
+conqueror	conqueror	NN	CW	NOUN	ARGUMENT
+least	least	JJS	CW	ADJ
+have	have	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+gain	gain	NN	CW	NOUN	ARGUMENT
+sense	sense	NN	CW	NOUN	ARGUMENT
+human	human	JJ	CW	ADJ
+being	being	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+british	british	JJ	CW	ADJ
+raj	raj	NN	CW	NOUN	ARGUMENT
+though	though	IN	FW
+be	be	VB	FW	aux_or_cop
+firmly	firmly	RB	ADV	CW
+entrench	entrench	VB	CW	VERB
+club	club	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+resolutely	resolutely	RB	ADV	FW
+separate	separate	JJ	CW	ADJ
+
+sentence break
+
+cause	cause	VB	CW	VERB
+mutiny	mutiny	NN	CW	NOUN	ARGUMENT
+1857	1857	CD	FW
+war	war	NN	CW	NOUN	ARGUMENT
+independence	independence	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+know	know	VB	CW	VERB
+indian	indian	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+symptomatic	symptomatic	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+insensitivity	insensitivity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+troops	troops	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+train	train	NN	CW	NOUN	ARGUMENT
+bite	bite	NN	CW	NOUN	ARGUMENT
+cartridge	cartridge	NN	CW	NOUN	ARGUMENT
+load	load	NN	CW	NOUN	ARGUMENT
+rifle	rifle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+greased	grease	VBN	CW	VERB
+animal	animal	JJ	CW	ADJ
+fat	fat	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+feel	feel	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+ingest	ingest	VB	CW	VERB
+fat	fat	JJ	CW	ADJ
+cow	cow	NN	CW	NOUN	ARGUMENT
+sacred	sacred	JJ	CW	ADJ
+hindus	hindu	NNS	CW	NOUN	ARGUMENT
+lard	lard	NN	CW	NOUN	ARGUMENT
+pig	pig	NN	CW	NOUN	ARGUMENT
+abomination	abomination	NN	CW	NOUN	ARGUMENT
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+suffer	suffer	VBP	CW	VERB
+slight	slight	JJ	CW	ADJ
+incomprehension	incomprehension	NN	CW	NOUN	ARGUMENT
+contempt	contempt	NN	CW	NOUN	ARGUMENT
+religious	religious	JJ	CW	ADJ
+custom	custom	NN	CW	NOUN	ARGUMENT
+before	before	IN	FW	SUBORDINATOR
+simply	simply	RB	ADV	CW
+not	not	RB	ADV	CW
+believe	believe	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+deliberate	deliberate	JJ	CW	ADJ
+mutiny	mutiny	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+out	out	IN	FW
+meerut	meerut	NN	CW	NOUN	ARGUMENT
+40	40	CD	FW
+km	km	NN	CW	NOUN	ARGUMENT
+25	25	CD	FW
+mile	mile	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+delhus	delhus	VBZ	CW	VERB
+
+sentence break
+
+cartridge	cartridge	NN	CW	NOUN	ARGUMENT
+blunder	blunder	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+pretext	pretext	NN	CW	NOUN	ARGUMENT
+avenge	avenge	VB	CW	VERB
+other	other	JJ	CW	ADJ
+grievance	grievance	NN	CW	NOUN	ARGUMENT
+troops	troops	NNS	CW	NOUN	ARGUMENT
+rally	rally	VBP	CW	VERB
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+dispossessed	dispossessed	JJ	CW	ADJ
+lapse	lapse	NN	CW	NOUN	ARGUMENT
+paramountcy	paramountcy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mutineer	mutineer	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+invade	invade	VB	CW	VERB
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+kanpur	kanpur	NN	CW	NOUN	ARGUMENT
+cawnpore	cawnpore	NN	CW	NOUN	ARGUMENT
+lucknow	lucknow	NN	CW	NOUN	ARGUMENT
+looting	looting	NN	CW	NOUN	ARGUMENT
+treasury	treasury	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+open	open	JJ	CW	ADJ
+jail	jail	NN	CW	NOUN	ARGUMENT
+kill	kill	VBP	CW	VERB
+british	british	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+british	british	JJ	CW	ADJ
+retaliated	retaliate	VBN	CW	VERB
+equal	equal	JJ	CW	ADJ
+savagery	savagery	NN	CW	NOUN	ARGUMENT
+mutineer	mutineer	NN	CW	NOUN	ARGUMENT
+civilian	civilian	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+relief	relief	NN	CW	NOUN	ARGUMENT
+column	column	NN	CW	NOUN	ARGUMENT
+pass	pass	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+last	last	JJ	CW	ADJ
+proud	proud	JJ	CW	ADJ
+mughal	mughal	JJ	CW	ADJ
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+bahadur	bahadur	NN	CW	NOUN	ARGUMENT
+shah	shah	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+condemn	condemn	VB	CW	VERB
+exile	exile	NN	CW	NOUN	ARGUMENT
+burma	burma	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+more	more	JJR	CW	ADJ
+aptly	aptly	RB	ADV	CW
+epitomize	epitomize	VB	CW	VERB
+mutiny	mutiny	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+good	good	JJ	CW	ADJ
+bad	bad	JJ	CW	ADJ
+result	result	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+point	point	NN	CW	NOUN	ARGUMENT
+view	view	NN	CW	NOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+legislation	legislation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+
+sentence break
+
+1858	1858	CD	FW
+act	act	NN	CW	NOUN	ARGUMENT
+better	better	JJR	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+british	british	JJ	CW	ADJ
+evidently	evidently	RB	ADV	CW
+see	see	VB	CW	VERB
+need	need	VB	CW	VERB
+improve	improve	VB	CW	VERB
+thing	thing	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+also	also	RB	ADV	CW
+decide	decide	VB	CW	VERB
+tighten	tighten	VB	CW	VERB
+imperial	imperial	JJ	CW	ADJ
+hold	hold	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+east	east	JJ	CW	ADJ
+indium	indium	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+replace	replace	VB	CW	VERB
+government	government	NN	CW	NOUN	ARGUMENT
+viceroy	viceroy	NN	CW	NOUN	ARGUMENT
+answer	answer	NN	CW	NOUN	ARGUMENT
+secretary	secretary	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+london	london	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bureaucracy	bureaucracy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+streamlined	streamlined	JJ	CW	ADJ
+army	army	NN	CW	NOUN	ARGUMENT
+reorganize	reorganize	VB	CW	VERB
+raise	raise	VB	CW	VERB
+ratio	ratio	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+greatly	greatly	RB	ADV	CW
+expand	expand	VB	CW	VERB
+less	less	JJR	CW	ADJ
+successfully	successfully	RB	ADV	CW
+rural	rural	JJ	CW	ADJ
+area	area	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+better	better	JJR	CW	ADJ
+be	be	VB	FW	aux_or_cop
+good	good	JJ	CW	ADJ
+peasant	peasant	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+clerk	clerk	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+queen	queen	NN	CW	NOUN	ARGUMENT
+victorium	victorium	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+1876	1876	CD	FW
+add	add	VBP	CW	VERB
+title	title	NN	CW	NOUN	ARGUMENT
+empress	empress	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+roll	roll	NN	CW	NOUN	ARGUMENT
+honor	honor	NN	CW	NOUN	ARGUMENT
+proclaim	proclaim	VBP	CW	VERB
+indian	indian	JJ	CW	ADJ
+civil	civil	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+open	open	JJ	CW	ADJ
+subject	subject	JJ	CW	ADJ
+race	race	NN	CW	NOUN	ARGUMENT
+creed	creed	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+lot	lot	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+however	however	RB	ADV	FW
+afford	afford	VB	CW	VERB
+trip	trip	NN	CW	NOUN	ARGUMENT
+britain	britain	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+examination	examination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+meanwhile	meanwhile	RB	ADV	FW
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+premium	premium	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+love	love	NN	CW	NOUN	ARGUMENT
+litigation	litigation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+ideal	ideal	JJ	CW	ADJ
+training	training	NN	CW	NOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+politician	politician	NN	CW	NOUN	ARGUMENT
+politics	politics	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+clandestine	clandestine	JJ	CW	ADJ
+be	be	VB	CW	VERB
+so	so	RB	ADV	CW
+often	often	RB	ADV	FW
+fatal	fatal	JJ	CW	ADJ
+express	express	VBP	CW	VERB
+opinion	opinion	NN	CW	NOUN	ARGUMENT
+wrong	wrong	JJ	CW	ADJ
+i	i	FW	FW
+lose	lose	VBP	CW	VERB
+side	side	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+open	open	JJ	CW	ADJ
+political	political	JJ	CW	ADJ
+debate	debate	NN	CW	NOUN	ARGUMENT
+flourish	flourish	VB	CW	VERB
+especially	especially	RB	ADV	FW
+calcutta	calcutta	JJ	CW	ADJ
+karl	karl	NN	CW	NOUN	ARGUMENT
+marx	marx	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+much	much	RB	ADV	CW
+appreciate	appreciate	VB	CW	VERB
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+entrepreneur	entrepreneur	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+own	own	JJ	CW	ADJ
+cotton	cotton	NN	CW	NOUN	ARGUMENT
+mill	mill	NN	CW	NOUN	ARGUMENT
+bombay	bombay	NN	CW	NOUN	ARGUMENT
+ahmedabad	ahmedabad	NN	CW	NOUN	ARGUMENT
+kanpur	kanpur	NN	CW	NOUN	ARGUMENT
+madra	madra	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+tea	tea	NN	CW	NOUN	ARGUMENT
+garden	garden	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+strictly	strictly	RB	ADV	CW
+british	british	JJ	CW	ADJ
+affair	affair	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+agricultural	agricultural	JJ	CW	ADJ
+product	product	NN	CW	NOUN	ARGUMENT
+soon	soon	RB	ADV	CW
+find	find	VB	CW	VERB
+new	new	JJ	CW	ADJ
+market	market	NN	CW	NOUN	ARGUMENT
+europe	europe	NN	CW	NOUN	ARGUMENT
+suez	suez	NN	CW	NOUN	ARGUMENT
+canal	canal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+open	open	JJ	CW	ADJ
+1869	1869	CD	FW
+
+sentence break
+
+art	art	NN	CW	NOUN	ARGUMENT
+architecture	architecture	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+often	often	RB	ADV	FW
+work	work	VBP	CW	VERB
+engineer	engineer	NN	CW	NOUN	ARGUMENT
+huge	huge	JJ	CW	ADJ
+sculpture	sculpture	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+order	order	NN	CW	NOUN	ARGUMENT
+victorian	victorian	JJ	CW	ADJ
+britain	britain	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+local	local	JJ	CW	ADJ
+artist	artist	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bright	bright	JJ	CW	ADJ
+spot	spot	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+archaeological	archaeological	JJ	CW	ADJ
+survey	survey	NN	CW	NOUN	ARGUMENT
+1871	1871	CD	FW
+preserve	preserve	VBP	CW	VERB
+ancient	ancient	JJ	CW	ADJ
+monument	monument	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+british	british	JJ	CW	ADJ
+soldier	soldier	NN	CW	NOUN	ARGUMENT
+hunting	hunting	NN	CW	NOUN	ARGUMENT
+tiger	tiger	NN	CW	NOUN	ARGUMENT
+jungle	jungle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+find	find	VB	CW	VERB
+temple	temple	NN	CW	NOUN	ARGUMENT
+palace	palace	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+no	no	RB	ADV	CW
+longer	longer	RB	ADV	CW
+know	know	VB	CW	VERB
+exist	exist	VB	CW	VERB
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+national	national	JJ	CW	ADJ
+congress	congress	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+irst	irst	JJ	CW	ADJ
+political	political	JJ	CW	ADJ
+party	party	NN	CW	NOUN	ARGUMENT
+hold	hold	VBP	CW	VERB
+inaugural	inaugural	JJ	CW	ADJ
+meeting	meeting	NN	CW	NOUN	ARGUMENT
+bombay	bombay	NN	CW	NOUN	ARGUMENT
+1885	1885	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+group	group	NN	CW	NOUN	ARGUMENT
+liberal	liberal	JJ	CW	ADJ
+hindu	hindu	NN	CW	NOUN	ARGUMENT
+parsus	parsus	VBZ	CW	VERB
+intellectual	intellectual	JJ	CW	ADJ
+support	support	NN	CW	NOUN	ARGUMENT
+few	few	JJ	CW	ADJ
+progressive	progressive	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+national	national	JJ	CW	ADJ
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+representation	representation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lacking	lack	VBG	CW	VERB
+connection	connection	NN	CW	NOUN	ARGUMENT
+peasant	peasant	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+also	also	RB	ADV	CW
+distrusted	distrust	VBN	CW	VERB
+conservative	conservative	JJ	CW	ADJ
+landlord	landlord	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+muslim	muslim	JJ	CW	ADJ
+
+sentence break
+
+goal	goal	NN	CW	NOUN	ARGUMENT
+swaraj	swaraj	NN	CW	NOUN	ARGUMENT
+self-rule	self-rule	JJ	CW	ADJ
+proclaim	proclaim	VBP	CW	VERB
+1906	1906	CD	FW
+be	be	VB	FW	aux_or_cop
+see	see	VB	CW	VERB
+moderate	moderate	JJ	CW	ADJ
+left	left	JJ	CW	ADJ
+center	center	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+government	government	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+breakaway	breakaway	NN	CW	NOUN	ARGUMENT
+revolutionary	revolutionary	JJ	CW	ADJ
+extreme	extreme	JJ	CW	ADJ
+left	left	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+complete	complete	JJ	CW	ADJ
+independence	independence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+subservience	subservience	NN	CW	NOUN	ARGUMENT
+west	west	NN	CW	NOUN	ARGUMENT
+artist	artist	NN	CW	NOUN	ARGUMENT
+return	return	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+theme	theme	NN	CW	NOUN	ARGUMENT
+literature	literature	NN	CW	NOUN	ARGUMENT
+theatre	theatre	NN	CW	NOUN	ARGUMENT
+music	music	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+applaud	applaud	VBP	CW	VERB
+decision	decision	NN	CW	NOUN	ARGUMENT
+lord	lord	NN	CW	NOUN	ARGUMENT
+ripon	ripon	NN	CW	NOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+indian	indian	JJ	CW	ADJ
+magistrate	magistrate	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+british	british	JJ	CW	ADJ
+defendant	defendant	NN	CW	NOUN	ARGUMENT
+criminal	criminal	JJ	CW	ADJ
+case	case	NN	CW	NOUN	ARGUMENT
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+reform	reform	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+protect	protect	VBP	CW	VERB
+child	child	NN	CW	NOUN	ARGUMENT
+bride	bride	NN	CW	NOUN	ARGUMENT
+rape	rape	NN	CW	NOUN	ARGUMENT
+husband	husband	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fight	fight	NN	CW	NOUN	ARGUMENT
+traditionalist	traditionalist	NN	CW	NOUN	ARGUMENT
+hindus	hindu	NN	CW	NOUN	ARGUMENT
+calcutta	calcutta	NN	CW	NOUN	ARGUMENT
+pune	pune	NN	CW	NOUN	ARGUMENT
+cry	cry	NN	CW	NOUN	ARGUMENT
+religion	religion	NN	CW	NOUN	ARGUMENT
+danger	danger	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+self	self	NN	CW	NOUN	ARGUMENT
+assertion	assertion	NN	CW	NOUN	ARGUMENT
+reign	reign	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+peace	peace	NN	CW	NOUN	ARGUMENT
+hostilities	hostility	NNS	CW	NOUN	ARGUMENT
+break	break	VBP	CW	VERB
+hindus	hindus	JJ	CW	ADJ
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+maharashtra	maharashtra	NN	CW	NOUN	ARGUMENT
+cult	cult	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+maratha	maratha	NN	CW	NOUN	ARGUMENT
+leader	leader	NN	CW	NOUN	ARGUMENT
+shivajus	shivajus	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+page	page	NN	CW	NOUN	ARGUMENT
+42	42	CD	FW
+british	british	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+muslim	muslim	VBP	CW	VERB
+shivajus	shivajus	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+fight	fight	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fundamentalist	fundamentalist	JJ	CW	ADJ
+take	take	NN	CW	NOUN	ARGUMENT
+street	street	NN	CW	NOUN	ARGUMENT
+protest	protest	NN	CW	NOUN	ARGUMENT
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+slaughter	slaughter	NN	CW	NOUN	ARGUMENT
+cow	cow	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+movement	movement	NN	CW	NOUN	ARGUMENT
+convert	convert	VBP	CW	VERB
+muslim	muslim	JJ	CW	ADJ
+christian	christian	JJ	CW	ADJ
+back	back	JJ	CW	ADJ
+national	national	JJ	CW	ADJ
+religion	religion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+purify	purify	VB	CW	VERB
+islamic	islamic	JJ	CW	ADJ
+practice	practice	NN	CW	NOUN	ARGUMENT
+hindu	hindu	NN	CW	NOUN	ARGUMENT
+ritual	ritual	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+accrue	accrue	VBP	CW	VERB
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+caste	caste	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+affect	affect	VB	CW	VERB
+new	new	JJ	CW	ADJ
+spirit	spirit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+untouchable	untouchable	JJ	CW	ADJ
+press	press	NN	CW	NOUN	ARGUMENT
+better	better	RBR	ADV	CW
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+help	help	VB	CW	VERB
+activism	activism	NN	CW	NOUN	ARGUMENT
+american	american	JJ	CW	ADJ
+missionary	missionary	JJ	CW	ADJ
+salvation	salvation	NN	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+cast	cast	VBN	CW	VERB
+good	good	JJ	CW	ADJ
+excuse	excuse	NN	CW	NOUN	ARGUMENT
+resist	resist	VBP	CW	VERB
+foreign	foreign	JJ	CW	ADJ
+interference	interference	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+dynamic	dynamic	JJ	CW	ADJ
+lord	lord	NN	CW	NOUN	ARGUMENT
+curzon	curzon	NN	CW	NOUN	ARGUMENT
+viceroy	viceroy	NN	CW	NOUN	ARGUMENT
+1899	1899	CD	FW
+1905	1905	CD	FW
+be	be	VB	FW	aux_or_cop
+drive	drive	NN	CW	NOUN	ARGUMENT
+lofty	lofty	JJ	CW	ADJ
+imperial	imperial	JJ	CW	ADJ
+vision	vision	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+grandiose	grandiose	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+viceregal	viceregal	JJ	CW	ADJ
+residence	residence	NN	CW	NOUN	ARGUMENT
+calcutta	calcutta	NN	CW	NOUN	ARGUMENT
+palace	palace	NN	CW	NOUN	ARGUMENT
+simlum	simlum	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+worthy	worthy	JJ	CW	ADJ
+mughal	mughal	JJ	CW	ADJ
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+highly	highly	RB	ADV	CW
+active	active	JJ	CW	ADJ
+excavate	excavate	VBP	CW	VERB
+restore	restore	VB	CW	VERB
+temple	temple	NN	CW	NOUN	ARGUMENT
+palace	palace	NN	CW	NOUN	ARGUMENT
+curzon	curzon	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+do	do	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+predecessor	predecessor	NN	CW	NOUN	ARGUMENT
+add	add	VB	CW	VERB
+9	9	CD	FW
+000	000	CD	FW
+km	km	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+500	500	CD	FW
+mile	mile	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+railway	railway	NN	CW	NOUN	ARGUMENT
+line	line	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+modernize	modernize	VB	CW	VERB
+farming	farm	VBG	CW	VERB
+agricultural	agricultural	JJ	CW	ADJ
+research	research	NN	CW	NOUN	ARGUMENT
+institute	institute	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+irrigation	irrigation	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+model	model	NN	CW	NOUN	ARGUMENT
+asium	asium	NN	CW	NOUN	ARGUMENT
+africa	africa	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+however	however	RB	ADV	FW
+resent	resent	VBP	CW	VERB
+refusal	refusal	NN	CW	NOUN	ARGUMENT
+consult	consult	VB	CW	VERB
+rioted	riot	VBD	CW	VERB
+ill-considered	ill-considered	JJ	CW	ADJ
+partition	partition	NN	CW	NOUN	ARGUMENT
+bengal	bengal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1911	1911	CD	FW
+king	king	NN	CW	NOUN	ARGUMENT
+george	george	NN	CW	NOUN	ARGUMENT
+v	v	LS	FW
+become	become	VB	CW	VERB
+first	first	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+monarch	monarch	NN	CW	NOUN	ARGUMENT
+visit	visit	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+celebrate	celebrate	VB	CW	VERB
+fact	fact	NN	CW	NOUN	ARGUMENT
+announce	announce	VB	CW	VERB
+capital	capital	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+move	move	NN	CW	NOUN	ARGUMENT
+calcutta	calcutta	NN	CW	NOUN	ARGUMENT
+whole	whole	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+build	build	VB	CW	VERB
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+royal	royal	NN	CW	NOUN	ARGUMENT
+architect	architect	NN	CW	NOUN	ARGUMENT
+edwin	edwin	NN	CW	NOUN	ARGUMENT
+lutyen	lutyen	JJ	CW	ADJ
+herbert	herbert	NN	CW	NOUN	ARGUMENT
+baker	baker	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+monumental	monumental	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+triumphal	triumphal	JJ	CW	ADJ
+arch	arch	NN	CW	NOUN	ARGUMENT
+palace	palace	NN	CW	NOUN	ARGUMENT
+gigantic	gigantic	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+building	building	NN	CW	NOUN	ARGUMENT
+sweeping	sweeping	JJ	CW	ADJ
+avenue	avenue	NN	CW	NOUN	ARGUMENT
+radiate	radiate	VB	CW	VERB
+circle	circle	NN	CW	NOUN	ARGUMENT
+easy	easy	JJ	CW	ADJ
+riot	riot	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+mean	mean	VB	CW	VERB
+last	last	JJ	CW	ADJ
+forever	forever	RB	ADV	FW
+
+sentence break
+
+give	give	VB	CW	VERB
+demand	demand	NN	CW	NOUN	ARGUMENT
+self-determination	self-determination	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+britain	britain	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+side	side	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+one	one	CD	FW
+prussian	prussian	JJ	CW	ADJ
+general	general	JJ	CW	ADJ
+blink	blink	NN	CW	NOUN	ARGUMENT
+rajput	rajput	NN	CW	NOUN	ARGUMENT
+sikh	sikh	NN	CW	NOUN	ARGUMENT
+prince	prince	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+infantry	infantry	NN	CW	NOUN	ARGUMENT
+trench	trench	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1917	1917	CD	FW
+self-determination	self-determination	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+seem	seem	VBP	CW	VERB
+london	london	NN	CW	NOUN	ARGUMENT
+announce	announce	VB	CW	VERB
+plan	plan	NN	CW	NOUN	ARGUMENT
+progressive	progressive	JJ	CW	ADJ
+realization	realization	NN	CW	NOUN	ARGUMENT
+responsible	responsible	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+integral	integral	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+british	british	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+let	let	VB	CW	VERB
+go	go	VB	CW	VERB
+new	new	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+act	act	VBP	CW	VERB
+two	two	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+promise	promise	VBP	CW	VERB
+indian	indian	JJ	CW	ADJ
+real	real	JJ	CW	ADJ
+executive	executive	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+provincial	provincial	JJ	CW	ADJ
+ministry	ministry	NN	CW	NOUN	ARGUMENT
+education	education	NN	CW	NOUN	ARGUMENT
+public	public	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+agriculture	agriculture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+moderate	moderate	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+delighted	delighted	JJ	CW	ADJ
+revolutionary	revolutionary	JJ	CW	ADJ
+see	see	VBP	CW	VERB
+foot	foot	NN	CW	NOUN	ARGUMENT
+door	door	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+official	official	NN	CW	NOUN	ARGUMENT
+retire	retire	VBP	CW	VERB
+rather	rather	RB	ADV	FW
+serve	serve	VB	CW	VERB
+indian	indian	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+riot	riot	NN	CW	NOUN	ARGUMENT
+bengal	bengal	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+partition	partition	NN	CW	NOUN	ARGUMENT
+lead	lead	VB	CW	VERB
+new	new	JJ	CW	ADJ
+law	law	NN	CW	NOUN	ARGUMENT
+political	political	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+jury	jury	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+internment	internment	NN	CW	NOUN	ARGUMENT
+trial	trial	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+popular	popular	JJ	CW	ADJ
+protest	protest	NN	CW	NOUN	ARGUMENT
+big	big	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+1919	1919	CD	FW
+first	first	JJ	CW	ADJ
+take	take	VB	CW	VERB
+non-violent	non-violent	JJ	CW	ADJ
+form	form	NN	CW	NOUN	ARGUMENT
+hartal	hartal	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+strike	strike	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+soul	soul	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+shock	shock	NN	CW	NOUN	ARGUMENT
+injustice	injustice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+idea	idea	NN	CW	NOUN	ARGUMENT
+come	come	VB	CW	VERB
+new	new	JJ	CW	ADJ
+leader	leader	NN	CW	NOUN	ARGUMENT
+mohanda	mohanda	NN	CW	NOUN	ARGUMENT
+karamchand	karamchand	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+dub	dub	NN	CW	NOUN	ARGUMENT
+mahatma	mahatma	NN	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+soul	soul	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+poet	poet	NN	CW	NOUN	ARGUMENT
+rabindranath	rabindranath	NN	CW	NOUN	ARGUMENT
+tagore	tagore	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+return	return	NN	CW	NOUN	ARGUMENT
+1915	1915	CD	FW
+work	work	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+defend	defend	VB	CW	VERB
+rights	rights	NNS	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+south	south	RB	ADV	CW
+africa	africa	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+moral	moral	JJ	CW	ADJ
+strength	strength	NN	CW	NOUN	ARGUMENT
+non-violent	non-violent	JJ	CW	ADJ
+philosophy	philosophy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+immediately	immediately	RB	ADV	CW
+test	test	VB	CW	VERB
+punjab	punjab	JJ	CW	ADJ
+hartal	hartal	JJ	CW	ADJ
+erupt	erupt	VB	CW	VERB
+riot	riot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+amritsar	amritsar	JJ	CW	ADJ
+troops	troops	NNS	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+reginald	reginald	NN	CW	NOUN	ARGUMENT
+dyer	dyer	NN	CW	NOUN	ARGUMENT
+fire	fire	NN	CW	NOUN	ARGUMENT
+prohibit	prohibit	VBP	CW	VERB
+mass	mass	NN	CW	NOUN	ARGUMENT
+meeting	meeting	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+379	379	CD	FW
+dead	dead	JJ	CW	ADJ
+1	1	CD	FW
+200	200	CD	FW
+wound	wound	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+gradualist	gradualist	NN	CW	NOUN	ARGUMENT
+reform	reform	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+discredit	discredit	VBP	CW	VERB
+civil	civil	JJ	CW	ADJ
+unrest	unrest	NN	CW	NOUN	ARGUMENT
+feature	feature	NN	CW	NOUN	ARGUMENT
+everyday	everyday	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+declare	declare	VB	CW	VERB
+cooperation	cooperation	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+satanic	satanic	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sinful	sinful	JJ	CW	ADJ
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+advocate	advocate	NN	CW	NOUN	ARGUMENT
+boycott	boycott	NN	CW	NOUN	ARGUMENT
+election	election	NN	CW	NOUN	ARGUMENT
+withdrawal	withdrawal	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+government	government	NN	CW	NOUN	ARGUMENT
+office	office	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+moderate	moderate	JJ	CW	ADJ
+hold	hold	NN	CW	NOUN	ARGUMENT
+election	election	NN	CW	NOUN	ARGUMENT
+boycott	boycott	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+least	least	JJS	CW	ADJ
+33	33	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+successful	successful	JJ	CW	ADJ
+
+sentence break
+
+abandon	abandon	VB	CW	VERB
+european	european	JJ	CW	ADJ
+dress	dress	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+legendary	legendary	JJ	CW	ADJ
+white	white	JJ	CW	ADJ
+cotton	cotton	NN	CW	NOUN	ARGUMENT
+dhoti	dhoti	NN	CW	NOUN	ARGUMENT
+loincloth	loincloth	NN	CW	NOUN	ARGUMENT
+shawl	shawl	NN	CW	NOUN	ARGUMENT
+draw	draw	NN	CW	NOUN	ARGUMENT
+spiritual	spiritual	JJ	CW	ADJ
+guidance	guidance	NN	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+religion	religion	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+simple	simple	JJ	CW	ADJ
+powerful	powerful	JJ	CW	ADJ
+symbol	symbol	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+support	support	NN	CW	NOUN	ARGUMENT
+untouchable	untouchable	JJ	CW	ADJ
+defend	defend	VB	CW	VERB
+rights	rights	NNS	CW	NOUN	ARGUMENT
+village	village	NN	CW	NOUN	ARGUMENT
+artisan	artisan	NN	CW	NOUN	ARGUMENT
+peasant	peasant	NN	CW	NOUN	ARGUMENT
+non-violent	non-violent	JJ	CW	ADJ
+movement	movement	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+stop	stop	VB	CW	VERB
+escalate	escalate	VB	CW	VERB
+riot	riot	NN	CW	NOUN	ARGUMENT
+religious	religious	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+worry	worry	VB	CW	VERB
+spread	spread	VBN	CW	VERB
+civil	civil	JJ	CW	ADJ
+disobedience	disobedience	NN	CW	NOUN	ARGUMENT
+movement	movement	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+jail	jail	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+1922	1922	CD	FW
+two	two	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+jail	jail	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+incitement	incitement	NN	CW	NOUN	ARGUMENT
+rebellion	rebellion	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+congress	congress	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+member	member	NN	CW	NOUN	ARGUMENT
+jawaharlal	jawaharlal	NN	CW	NOUN	ARGUMENT
+nehru	nehru	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+british-educated	british-educate	VBN	CW	VERB
+also	also	RB	ADV	CW
+brahman	brahman	NN	CW	NOUN	ARGUMENT
+intellectual	intellectual	JJ	CW	ADJ
+honorary	honorary	JJ	CW	ADJ
+title	title	NN	CW	NOUN	ARGUMENT
+pandit	pandit	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+mahatma	mahatma	FW	FW
+s	s	VBZ	CW	VERB
+favorite	favorite	JJ	CW	ADJ
+lead	lead	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+independence	independence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+british	british	JJ	CW	ADJ
+begin	begin	VB	CW	VERB
+see	see	VB	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+independence	independence	NN	CW	NOUN	ARGUMENT
+inevitable	inevitable	JJ	CW	ADJ
+
+sentence break
+
+however	however	RB	ADV	FW
+only	only	RB	ADV	CW
+few	few	JJ	CW	ADJ
+seem	seem	VBP	CW	VERB
+understand	understand	VB	CW	VERB
+vital	vital	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+religious	religious	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+britain	britain	NN	CW	NOUN	ARGUMENT
+prepare	prepare	VBP	CW	VERB
+parliamentary	parliamentary	JJ	CW	ADJ
+democracy	democracy	NN	CW	NOUN	ARGUMENT
+majority	majority	NN	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+majority	majority	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hindus	hindu	NNS	CW	NOUN	ARGUMENT
+hindus	hindu	NNS	CW	NOUN	ARGUMENT
+muslim	muslim	VBP	CW	VERB
+sikh	sikh	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+kill	kill	VB	CW	VERB
+other	other	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nehru	nehru	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+congress	congress	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+largely	largely	RB	ADV	CW
+hindu	hindu	JJ	CW	ADJ
+socialist	socialist	JJ	CW	ADJ
+leadership	leadership	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+parliamentary	parliamentary	JJ	CW	ADJ
+democracy	democracy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+counterweight	counterweight	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+legislation	legislation	NN	CW	NOUN	ARGUMENT
+reserve	reserve	NN	CW	NOUN	ARGUMENT
+parliamentary	parliamentary	JJ	CW	ADJ
+seat	seat	NN	CW	NOUN	ARGUMENT
+religious	religious	JJ	CW	ADJ
+minority	minority	NN	CW	NOUN	ARGUMENT
+punjab	punjab	NN	CW	NOUN	ARGUMENT
+bengal	bengal	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+such	such	JJ	CW	ADJ
+complicate	complicate	VBP	CW	VERB
+mixture	mixture	NN	CW	NOUN	ARGUMENT
+hindus	hindu	NNS	CW	NOUN	ARGUMENT
+muslim	muslim	VBP	CW	VERB
+sikh	sikh	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+possible	possible	JJ	CW	ADJ
+avoid	avoid	VB	CW	VERB
+fight	fight	NN	CW	NOUN	ARGUMENT
+separate	separate	JJ	CW	ADJ
+constituency	constituency	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+form	form	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+seed	seed	NN	CW	NOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+sown	sow	VBN	CW	VERB
+
+sentence break
+
+legislation	legislation	NN	CW	NOUN	ARGUMENT
+reserve	reserve	NN	CW	NOUN	ARGUMENT
+seat	seat	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+muslim	muslim	JJ	CW	ADJ
+basis	basis	NN	CW	NOUN	ARGUMENT
+alternative	alternative	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+quarter	quarter	NN	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+partition	partition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1930	1930	CD	FW
+poet	poet	NN	CW	NOUN	ARGUMENT
+muhammad	muhammad	NN	CW	NOUN	ARGUMENT
+iqbal	iqbal	NN	CW	NOUN	ARGUMENT
+propose	propose	VBP	CW	VERB
+separate	separate	JJ	CW	ADJ
+muslim	muslim	JJ	CW	ADJ
+homeland	homeland	NN	CW	NOUN	ARGUMENT
+northwest	northwest	RB	ADV	FW
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+small	small	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+cambridge	cambridge	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+up	up	RP	FW
+name	name	NN	CW	NOUN	ARGUMENT
+pakistan	pakistan	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+initial	initial	JJ	CW	ADJ
+punjab	punjab	NN	CW	NOUN	ARGUMENT
+afghanium	afghanium	NN	CW	NOUN	ARGUMENT
+n	n	NN	CW	NOUN	ARGUMENT
+w	w	NN	CW	NOUN	ARGUMENT
+frontier	frontier	NN	CW	NOUN	ARGUMENT
+province	province	NN	CW	NOUN	ARGUMENT
+kashmir	kashmir	NN	CW	NOUN	ARGUMENT
+sind	sind	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	CW	VERB
+word	word	NN	CW	NOUN	ARGUMENT
+pak	pak	FW	FW
+mean	mean	VB	CW	VERB
+pure	pure	JJ	CW	ADJ
+add	add	VB	CW	VERB
+stan	stan	NN	CW	NOUN	ARGUMENT
+persian	persian	JJ	CW	ADJ
+suffix	suffix	NN	CW	NOUN	ARGUMENT
+word	word	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+muslim	muslim	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+partition	partition	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+lead	lead	JJ	CW	ADJ
+london-trained	london-trained	JJ	CW	ADJ
+bombay	bombay	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+muhammad	muhammad	NN	CW	NOUN	ARGUMENT
+alus	alus	NN	CW	NOUN	ARGUMENT
+jinnah	jinnah	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+meanwhile	meanwhile	RB	ADV	FW
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+vehemently	vehemently	RB	ADV	CW
+oppose	oppose	VBP	CW	VERB
+dismemberment	dismemberment	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+keep	keep	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+unit	unit	NN	CW	NOUN	ARGUMENT
+fast	fast	RB	ADV	CW
+uphold	uphold	VBP	CW	VERB
+spirit	spirit	NN	CW	NOUN	ARGUMENT
+love	love	NN	CW	NOUN	ARGUMENT
+focus	focus	NN	CW	NOUN	ARGUMENT
+common	common	JJ	CW	ADJ
+adversary	adversary	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+british	british	JJ	CW	ADJ
+
+sentence break
+
+advocating	advocate	VBG	CW	VERB
+civil	civil	JJ	CW	ADJ
+disobedience	disobedience	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+famous	famous	JJ	CW	ADJ
+salt	salt	NN	CW	NOUN	ARGUMENT
+march	march	VB	CW	VERB
+sea	sea	NN	CW	NOUN	ARGUMENT
+scoop	scoop	NN	CW	NOUN	ARGUMENT
+salt	salt	NN	CW	NOUN	ARGUMENT
+circumvent	circumvent	VBP	CW	VERB
+hate	hate	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+salt	salt	NN	CW	NOUN	ARGUMENT
+tax	tax	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+put	put	VB	CW	VERB
+more	more	RBR	ADV	CW
+60	60	CD	FW
+000	000	CD	FW
+jail	jail	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+militancy	militancy	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+ius	ius	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+elicit	elicit	VB	CW	VERB
+solidarity	solidarity	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+
+sentence break
+
+indian	indian	JJ	CW	ADJ
+courageously	courageously	RB	ADV	CW
+fight	fight	VB	CW	VERB
+british	british	JJ	CW	ADJ
+troops	troops	NNS	CW	NOUN	ARGUMENT
+burma	burma	VBP	CW	VERB
+middle	middle	JJ	CW	ADJ
+east	east	JJ	CW	ADJ
+europe	europe	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+british	british	JJ	CW	ADJ
+provocation	provocation	NN	CW	NOUN	ARGUMENT
+japanese	japanese	JJ	CW	ADJ
+invasion	invasion	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+jail	jail	NN	CW	NOUN	ARGUMENT
+yet	yet	RB	ADV	CW
+again	again	RB	ADV	CW
+launch	launch	VB	CW	VERB
+quit	quit	VB	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+1942	1942	CD	FW
+
+sentence break
+
+anti-	anti-	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+extremist	extremist	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+japanese	japanese	JJ	CW	ADJ
+asian	asian	JJ	CW	ADJ
+liberator	liberator	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+winston	winston	NN	CW	NOUN	ARGUMENT
+churchill	churchill	NN	CW	NOUN	ARGUMENT
+didn	didn	NN	CW	NOUN	ARGUMENT
+t	t	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+indian	indian	JJ	CW	ADJ
+independence	independence	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+indium	indium	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+defeat	defeat	VB	CW	VERB
+attlee	attlee	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+labor	labor	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+1945	1945	CD	FW
+
+sentence break
+
+riot	riot	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+ever	ever	RB	ADV	CW
+more	more	RBR	ADV	CW
+bloody	bloody	JJ	CW	ADJ
+bengal	bengal	JJ	CW	ADJ
+bihar	bihar	NN	CW	NOUN	ARGUMENT
+punjab	punjab	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+viceroy	viceroy	NN	CW	NOUN	ARGUMENT
+lord	lord	NN	CW	NOUN	ARGUMENT
+mountbatten	mountbatten	NN	CW	NOUN	ARGUMENT
+keep	keep	VBP	CW	VERB
+mandate	mandate	NN	CW	NOUN	ARGUMENT
+make	make	VB	CW	VERB
+british	british	JJ	CW	ADJ
+departure	departure	NN	CW	NOUN	ARGUMENT
+quick	quick	JJ	CW	ADJ
+as	as	IN	FW
+smooth	smooth	JJ	CW	ADJ
+possible	possible	JJ	CW	ADJ
+
+sentence break
+
+quick	quick	JJ	CW	ADJ
+be	be	VB	CW	VERB
+six	six	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+arrival	arrival	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+smooth	smooth	VB	CW	VERB
+
+sentence break
+
+midnight	midnight	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+15	15	CD	FW
+august	august	NNP	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+1947	1947	CD	FW
+be	be	VB	CW	VERB
+moment	moment	NN	CW	NOUN	ARGUMENT
+word	word	NN	CW	NOUN	ARGUMENT
+prime	prime	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+nehru	nehru	NN	CW	NOUN	ARGUMENT
+step	step	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+soul	soul	NN	CW	NOUN	ARGUMENT
+nation	nation	NN	CW	NOUN	ARGUMENT
+long	long	RB	ADV	CW
+suppress	suppress	VBP	CW	VERB
+find	find	VB	CW	VERB
+utterance	utterance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nehru	nehru	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+independence	independence	NN	CW	NOUN	ARGUMENT
+jinnah	jinnah	NN	CW	NOUN	ARGUMENT
+partition	partition	NN	CW	NOUN	ARGUMENT
+pakistan	pakistan	NN	CW	NOUN	ARGUMENT
+eastern	eastern	JJ	CW	ADJ
+bengalus	bengalus	JJ	CW	ADJ
+portion	portion	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+break	break	VB	CW	VERB
+away	away	RP	FW
+24	24	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+become	become	VBP	CW	VERB
+bangladesh	bangladesh	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bloodshed	bloodshed	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+as	as	RB	ADV	CW
+soon	soon	RB	ADV	CW
+partition	partition	NN	CW	NOUN	ARGUMENT
+boundary	boundary	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+set	set	VBN	CW	VERB
+
+sentence break
+
+east	east	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+punjab	punjab	NN	CW	NOUN	ARGUMENT
+hindus	hindu	NNS	CW	NOUN	ARGUMENT
+sikh	sikh	VBP	CW	VERB
+massacred	massacred	JJ	CW	ADJ
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+west	west	NN	CW	NOUN	ARGUMENT
+pakistani	pakistanus	NNS	CW	NOUN	ARGUMENT
+punjab	punjab	VBP	CW	VERB
+muslim	muslim	JJ	CW	ADJ
+massacred	massacred	JJ	CW	ADJ
+sikh	sikh	JJ	CW	ADJ
+hindus	hindu	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+mass	mass	NN	CW	NOUN	ARGUMENT
+exodus	exodus	NN	CW	NOUN	ARGUMENT
+million	million	CD	FW
+one	one	CD	FW
+country	country	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+convoy	convoy	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+end	end	VBP	CW	VERB
+slaughter	slaughter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+tear	tear	VB	CW	VERB
+apart	apart	RB	ADV	FW
+communal	communal	JJ	CW	ADJ
+rampage	rampage	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+overall	overall	JJ	CW	ADJ
+death	death	NN	CW	NOUN	ARGUMENT
+toll	toll	NN	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+least	least	JJS	CW	ADJ
+500	500	CD	FW
+000	000	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+mahatma	mahatma	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+immediately	immediately	RB	ADV	CW
+rush	rush	VB	CW	VERB
+calcutta	calcutta	NN	CW	NOUN	ARGUMENT
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+defend	defend	VBP	CW	VERB
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+further	further	JJ	CW	ADJ
+slaughter	slaughter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+january	january	NNP	CW	NOUN	ARGUMENT
+1948	1948	CD	FW
+fasted	fast	VBD	CW	VERB
+peace	peace	NN	CW	NOUN	ARGUMENT
+capital	capital	NN	CW	NOUN	ARGUMENT
+city	city	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+pakistan	pakistan	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+due	due	JJ	CW	ADJ
+partition	partition	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+division	division	NN	CW	NOUN	ARGUMENT
+asset	asset	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hindu	hindu	NN	CW	NOUN	ARGUMENT
+fanatic	fanatic	JJ	CW	ADJ
+enrage	enrage	NN	CW	NOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+excessively	excessively	RB	ADV	CW
+fervent	fervent	JJ	CW	ADJ
+defense	defense	NN	CW	NOUN	ARGUMENT
+muslim	muslim	JJ	CW	ADJ
+interest	interest	NN	CW	NOUN	ARGUMENT
+assassinate	assassinate	VBP	CW	VERB
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+prayer	prayer	NN	CW	NOUN	ARGUMENT
+meeting	meeting	NN	CW	NOUN	ARGUMENT
+30	30	CD	FW
+january	january	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+sensitive	sensitive	JJ	CW	ADJ
+sophisticated	sophisticated	JJ	CW	ADJ
+pandit	pandit	NN	CW	NOUN	ARGUMENT
+nehru	nehru	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+strongest	strongest	JJS	CW	ADJ
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+know	know	VB	CW	VERB
+great	great	JJ	CW	ADJ
+mughal	mughal	JJ	CW	ADJ
+create	create	VB	CW	VERB
+powerful	powerful	JJ	CW	ADJ
+dynasty	dynasty	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rejecting	reject	VBG	CW	VERB
+mentor	mentor	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+faith	faith	NN	CW	NOUN	ARGUMENT
+village-based	village-based	JJ	CW	ADJ
+democracy	democracy	NN	CW	NOUN	ARGUMENT
+nehru	nehru	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+fully	fully	RB	ADV	CW
+industrialize	industrialize	VB	CW	VERB
+society	society	NN	CW	NOUN	ARGUMENT
+basis	basis	NN	CW	NOUN	ARGUMENT
+democratic	democratic	JJ	CW	ADJ
+socialism	socialism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+establish	establish	VB	CW	VERB
+industry	industry	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+tax	tax	NN	CW	NOUN	ARGUMENT
+raise	raise	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+not	not	RB	ADV	CW
+nationalize	nationalize	VB	CW	VERB
+
+sentence break
+
+company	company	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+foreign	foreign	JJ	CW	ADJ
+have	have	VBP	FW	aux_or_cop
+accept	accept	VB	CW	VERB
+indian	indian	JJ	CW	ADJ
+financial	financial	JJ	CW	ADJ
+participation	participation	NN	CW	NOUN	ARGUMENT
+management	management	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+appropriate	appropriate	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+much	much	JJ	CW	ADJ
+personal	personal	JJ	CW	ADJ
+fortune	fortune	NN	CW	NOUN	ARGUMENT
+prince	prince	NN	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+harder	harder	RBR	ADV	CW
+curtail	curtail	VB	CW	VERB
+power	power	NN	CW	NOUN	ARGUMENT
+land-owner	land-owner	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+extensive	extensive	JJ	CW	ADJ
+contact	contact	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+conservative	conservative	JJ	CW	ADJ
+element	element	NN	CW	NOUN	ARGUMENT
+congress	congress	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+kashmir	kashmir	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+unresolved	unresolved	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+partition	partition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+muslim	muslim	JJ	CW	ADJ
+majority	majority	NN	CW	NOUN	ARGUMENT
+vale	vale	NN	CW	NOUN	ARGUMENT
+kashmir	kashmir	FW	FW
+gilgit	gilgit	FW	FW
+make	make	VBP	CW	VERB
+part	part	NN	CW	NOUN	ARGUMENT
+pakistan	pakistan	NN	CW	NOUN	ARGUMENT
+greater	greater	JJR	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+eastern	eastern	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+jammu	jammu	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hindu	hindu	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+maharaja	maharaja	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+backed	back	VBN	CW	VERB
+pakistan	pakistan	NN	CW	NOUN	ARGUMENT
+pathan	pathan	NN	CW	NOUN	ARGUMENT
+tribesman	tribesman	NN	CW	NOUN	ARGUMENT
+invade	invade	VB	CW	VERB
+kashmir	kashmir	FW	FW
+1947	1947	CD	FW
+force	force	NN	CW	NOUN	ARGUMENT
+issue	issue	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+soon	soon	RB	ADV	CW
+repulsed	repulsed	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+troops	troops	NNS	CW	NOUN	ARGUMENT
+fly	fly	VBP	CW	VERB
+maharaja	maharaja	NN	CW	NOUN	ARGUMENT
+hastily	hastily	RB	ADV	FW
+accede	accede	VBP	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+kashmir	kashmir	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+divide	divide	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+pakistan	pakistan	NN	CW	NOUN	ARGUMENT
+pend	pend	NN	CW	NOUN	ARGUMENT
+plebiscite	plebiscite	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+never	never	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+hold	hold	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+invasion	invasion	NN	CW	NOUN	ARGUMENT
+pakistan	pakistan	NN	CW	NOUN	ARGUMENT
+1965	1965	CD	FW
+be	be	VB	CW	VERB
+aborted	abort	VBN	CW	VERB
+have	have	VBP	FW	aux_or_cop
+leave	leave	NN	CW	NOUN	ARGUMENT
+issue	issue	NN	CW	NOUN	ARGUMENT
+distinctly	distinctly	RB	ADV	CW
+moot	moot	JJ	CW	ADJ
+
+sentence break
+
+apply	apply	VB	CW	VERB
+principle	principle	NN	CW	NOUN	ARGUMENT
+geographical	geographical	JJ	CW	ADJ
+integrity	integrity	NN	CW	NOUN	ARGUMENT
+nehru	nehru	NN	CW	NOUN	ARGUMENT
+regain	regain	VBP	CW	VERB
+french	french	JJ	CW	ADJ
+pondicherry	pondicherry	NN	CW	NOUN	ARGUMENT
+negotiation	negotiation	NN	CW	NOUN	ARGUMENT
+independence	independence	NN	CW	NOUN	ARGUMENT
+portuguese	portuguese	NN	CW	NOUN	ARGUMENT
+goa	goa	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+1961	1961	CD	FW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+less	less	RBR	ADV	CW
+successful	successful	JJ	CW	ADJ
+fight	fight	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+territory	territory	NN	CW	NOUN	ARGUMENT
+tibetan	tibetan	NN	CW	NOUN	ARGUMENT
+frontier	frontier	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+egalitarian	egalitarian	JJ	CW	ADJ
+agnostic	agnostic	JJ	CW	ADJ
+nehru	nehru	NN	CW	NOUN	ARGUMENT
+pass	pass	NN	CW	NOUN	ARGUMENT
+law	law	NN	CW	NOUN	ARGUMENT
+injustice	injustice	NN	CW	NOUN	ARGUMENT
+caste	caste	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+child-marriage	child-marriage	JJ	CW	ADJ
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+hindu	hindu	JJ	CW	ADJ
+household	household	NN	CW	NOUN	ARGUMENT
+century-old	century-old	JJ	CW	ADJ
+custom	custom	NN	CW	NOUN	ARGUMENT
+die	die	VB	CW	VERB
+hard	hard	RB	ADV	CW
+
+sentence break
+
+death	death	NN	CW	NOUN	ARGUMENT
+1964	1964	CD	FW
+ask	ask	VBP	CW	VERB
+ash	ash	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+scatter	scatter	JJ	CW	ADJ
+yamuna	yamuna	NN	CW	NOUN	ARGUMENT
+river	river	NN	CW	NOUN	ARGUMENT
+delhus	delhus	NN	CW	NOUN	ARGUMENT
+ganga	ganga	NN	CW	NOUN	ARGUMENT
+allahabad	allahabad	NN	CW	NOUN	ARGUMENT
+ritual	ritual	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mourn	mourn	VB	CW	VERB
+crowd	crowd	NN	CW	NOUN	ARGUMENT
+though	though	IN	FW	SUBORDINATOR
+ignore	ignore	VB	CW	VERB
+last	last	JJ	CW	ADJ
+wish	wish	NN	CW	NOUN	ARGUMENT
+utter	utter	JJ	CW	ADJ
+prayer	prayer	NN	CW	NOUN	ARGUMENT
+cry	cry	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+panditjus	panditjus	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+become	become	VBN	CW	VERB
+immortal	immortal	JJ	CW	ADJ
+
+sentence break
+
+come	come	VBN	CW	VERB
+power	power	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+1966	1966	CD	FW
+brief	brief	JJ	CW	ADJ
+ministry	ministry	NN	CW	NOUN	ARGUMENT
+lal	lal	NN	CW	NOUN	ARGUMENT
+bahadur	bahadur	NN	CW	NOUN	ARGUMENT
+shastrus	shastrus	NN	CW	NOUN	ARGUMENT
+indira	indira	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+prove	prove	VBP	CW	VERB
+strong	strong	JJ	CW	ADJ
+enough	enough	RB	ADV	CW
+own	own	VB	CW	VERB
+right	right	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+stop	stop	VBP	CW	VERB
+describe	describe	VBP	CW	VERB
+nehru	nehru	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+daughter	daughter	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+not	not	RB	ADV	CW
+relate	relate	VB	CW	VERB
+mahatma	mahatma	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fact	fact	NN	CW	NOUN	ARGUMENT
+learn	learn	VB	CW	VERB
+much	much	JJ	CW	ADJ
+knack	knack	NN	CW	NOUN	ARGUMENT
+power-politic	power-politic	JJ	CW	ADJ
+one	one	CD	FW
+massive	massive	JJ	CW	ADJ
+popular	popular	JJ	CW	ADJ
+appeal	appeal	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+
+sentence break
+
+accelerate	accelerate	VB	CW	VERB
+industrialization	industrialization	NN	CW	NOUN	ARGUMENT
+particular	particular	JJ	CW	ADJ
+nuclear	nuclear	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+industry	industry	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+first	first	JJ	CW	ADJ
+atomic	atomic	JJ	CW	ADJ
+explosion	explosion	NN	CW	NOUN	ARGUMENT
+desert	desert	NN	CW	NOUN	ARGUMENT
+1974	1974	CD	FW
+
+sentence break
+
+proudest	proudest	JJS	CW	ADJ
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+though	though	IN	FW
+be	be	VB	FW	aux_or_cop
+green	green	JJ	CW	ADJ
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+modernized	modernize	VBN	CW	VERB
+wheat	wheat	NN	CW	NOUN	ARGUMENT
+rice	rice	NN	CW	NOUN	ARGUMENT
+farming	farm	VBG	CW	VERB
+give	give	VB	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+history	history	NN	CW	NOUN	ARGUMENT
+self-sufficiency	self-sufficiency	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+production	production	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+old	old	JJ	CW	ADJ
+entrench	entrench	VB	CW	VERB
+conservatism	conservatism	NN	CW	NOUN	ARGUMENT
+hamper	hamper	VBP	CW	VERB
+birth-control	birth-control	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+check	check	NN	CW	NOUN	ARGUMENT
+rocket	rocket	NN	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+growth	growth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indira	indira	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+tendency	tendency	NN	CW	NOUN	ARGUMENT
+tough	tough	JJ	CW	ADJ
+authoritarianism	authoritarianism	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+highlight	highlight	NN	CW	NOUN	ARGUMENT
+repressive	repressive	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+emergency	emergency	NN	CW	NOUN	ARGUMENT
+declare	declare	VB	CW	VERB
+1975	1975	CD	FW
+describe	describe	VBP	CW	VERB
+discipline	discipline	NN	CW	NOUN	ARGUMENT
+democracy	democracy	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+mass	mass	NN	CW	NOUN	ARGUMENT
+arrest	arrest	NN	CW	NOUN	ARGUMENT
+opposition	opposition	NN	CW	NOUN	ARGUMENT
+leader	leader	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+charge	charge	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+malpractice	malpractice	NN	CW	NOUN	ARGUMENT
+corruption	corruption	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+electorate	electorate	NN	CW	NOUN	ARGUMENT
+punish	punish	VB	CW	VERB
+1977	1977	CD	FW
+three	three	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+wilderness	wilderness	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+bring	bring	VB	CW	VERB
+back	back	RP	FW
+huge	huge	JJ	CW	ADJ
+majority	majority	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+second	second	JJ	CW	ADJ
+term	term	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+beset	beset	VBN	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+regional	regional	JJ	CW	ADJ
+unrest	unrest	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+notably	notably	RB	ADV	FW
+assam	assam	JJ	CW	ADJ
+northeastern	northeastern	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+local	local	JJ	CW	ADJ
+massacre	massacre	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+3	3	CD	FW
+000	000	CD	FW
+dead	dead	JJ	CW	ADJ
+punjab	punjab	NN	CW	NOUN	ARGUMENT
+sikh	sikh	JJ	CW	ADJ
+militant	militant	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+violent	violent	JJ	CW	ADJ
+demonstration	demonstration	NN	CW	NOUN	ARGUMENT
+greater	greater	JJR	CW	ADJ
+autonomy	autonomy	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+independence	independence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+order	order	NN	CW	NOUN	ARGUMENT
+indian	indian	JJ	CW	ADJ
+army	army	NN	CW	NOUN	ARGUMENT
+1984	1984	CD	FW
+attack	attack	NN	CW	NOUN	ARGUMENT
+arm	arm	NN	CW	NOUN	ARGUMENT
+militant	militant	JJ	CW	ADJ
+sikh	sikh	NN	CW	NOUN	ARGUMENT
+sacred	sacred	JJ	CW	ADJ
+golden	golden	JJ	CW	ADJ
+temple	temple	NN	CW	NOUN	ARGUMENT
+amritsar	amritsar	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+800	800	CD	FW
+dead	dead	JJ	CW	ADJ
+lead	lead	NN	CW	NOUN	ARGUMENT
+assassination	assassination	NN	CW	NOUN	ARGUMENT
+delhus	delhus	VBZ	CW	VERB
+five	five	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+two	two	CD	FW
+sikh	sikh	JJ	CW	ADJ
+member	member	NN	CW	NOUN	ARGUMENT
+security	security	NN	CW	NOUN	ARGUMENT
+guard	guard	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hindus	hindu	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+go	go	VB	CW	VERB
+rampage	rampage	NN	CW	NOUN	ARGUMENT
+sikh	sikh	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+round	round	JJ	CW	ADJ
+communal	communal	JJ	CW	ADJ
+violence	violence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+spirit	spirit	NN	CW	NOUN	ARGUMENT
+grandfather	grandfather	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+rajiv	rajiv	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+congress	congress	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+seek	seek	VBP	CW	VERB
+improve	improve	VB	CW	VERB
+lot	lot	RB	ADV	CW
+lower	lower	JJR	CW	ADJ
+cast	cast	NN	CW	NOUN	ARGUMENT
+minority	minority	NN	CW	NOUN	ARGUMENT
+modernize	modernize	VB	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+addition	addition	NN	CW	NOUN	ARGUMENT
+gas	gas	NN	CW	NOUN	ARGUMENT
+leak	leak	NN	CW	NOUN	ARGUMENT
+union	union	NN	CW	NOUN	ARGUMENT
+carbide	carbide	NN	CW	NOUN	ARGUMENT
+chemical	chemical	NN	CW	NOUN	ARGUMENT
+plant	plant	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+thousand	thousand	CD	FW
+dead	dead	JJ	CW	ADJ
+bhopal	bhopal	NN	CW	NOUN	ARGUMENT
+shortly	shortly	RB	ADV	CW
+gandhus	gandhus	VBZ	CW	VERB
+s	s	NNS	CW	NOUN	ARGUMENT
+election	election	NN	CW	NOUN	ARGUMENT
+office	office	NN	CW	NOUN	ARGUMENT
+1984	1984	CD	FW
+numerous	numerous	JJ	CW	ADJ
+regional	regional	JJ	CW	ADJ
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+somewhat	somewhat	RB	ADV	FW
+schizophrenic	schizophrenic	JJ	CW	ADJ
+foreign	foreign	JJ	CW	ADJ
+policy	policy	NN	CW	NOUN	ARGUMENT
+troubled	trouble	VBD	CW	VERB
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+term	term	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+election	election	NN	CW	NOUN	ARGUMENT
+november	november	NNP	CW	NOUN	ARGUMENT
+1989	1989	CD	FW
+national	national	JJ	CW	ADJ
+front	front	NN	CW	NOUN	ARGUMENT
+compose	compose	VB	CW	VERB
+five	five	CD	FW
+party	party	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+hindu	hindu	NN	CW	NOUN	ARGUMENT
+nationalist	nationalist	JJ	CW	ADJ
+bharatiya	bharatiya	NN	CW	NOUN	ARGUMENT
+jana	jana	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+bjp	bjp	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+national	national	JJ	CW	ADJ
+front	front	JJ	CW	ADJ
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+set	set	VBD	CW	VERB
+new	new	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+v	v	LS	FW
+p	p	NN	CW	NOUN	ARGUMENT
+singh	singh	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+1991	1991	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+chandra	chandra	VBP	CW	VERB
+shekhar	shekhar	JJ	CW	ADJ
+prime	prime	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+congress	congress	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+regain	regain	VBP	CW	VERB
+power	power	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+follow	follow	VBP	CW	VERB
+rajiv	rajiv	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+assassination	assassination	NN	CW	NOUN	ARGUMENT
+tamil	tamil	NN	CW	NOUN	ARGUMENT
+suicide	suicide	NN	CW	NOUN	ARGUMENT
+bomber	bomber	NN	CW	NOUN	ARGUMENT
+election	election	NN	CW	NOUN	ARGUMENT
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+1991	1991	CD	FW
+
+sentence break
+
+p	p	NN	CW	NOUN	ARGUMENT
+v	v	LS	FW
+narasimha	narasimha	NN	CW	NOUN	ARGUMENT
+rao	rao	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+prime	prime	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+adopt	adopt	VB	CW	VERB
+aggressive	aggressive	JJ	CW	ADJ
+economic	economic	JJ	CW	ADJ
+reform	reform	NN	CW	NOUN	ARGUMENT
+combat	combat	NN	CW	NOUN	ARGUMENT
+loom	loom	VBP	CW	VERB
+financial	financial	JJ	CW	ADJ
+crisis	crisis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bjp	bjp	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+role	role	NN	CW	NOUN	ARGUMENT
+provoke	provoke	VB	CW	VERB
+1992	1992	CD	FW
+demolition	demolition	NN	CW	NOUN	ARGUMENT
+hindus	hindu	NNS	CW	NOUN	ARGUMENT
+mosque	mosque	NN	CW	NOUN	ARGUMENT
+ayodhya	ayodhya	NN	CW	NOUN	ARGUMENT
+say	say	VBP	FW	aux_or_cop
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+build	build	VB	CW	VERB
+ground	ground	NN	CW	NOUN	ARGUMENT
+sacred	sacred	JJ	CW	ADJ
+widespread	widespread	JJ	CW	ADJ
+racial	racial	JJ	CW	ADJ
+violence	violence	NN	CW	NOUN	ARGUMENT
+ensue	ensue	VBP	CW	VERB
+cause	cause	NN	CW	NOUN	ARGUMENT
+pm	pm	NN	CW	NOUN	ARGUMENT
+rao	rao	NN	CW	NOUN	ARGUMENT
+ban	ban	NN	CW	NOUN	ARGUMENT
+bjp	bjp	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+party	party	NN	CW	NOUN	ARGUMENT
+fall	fall	NN	CW	NOUN	ARGUMENT
+disfavor	disfavor	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+fundamentalist	fundamentalist	JJ	CW	ADJ
+concern	concern	NN	CW	NOUN	ARGUMENT
+share	share	NN	CW	NOUN	ARGUMENT
+member	member	NN	CW	NOUN	ARGUMENT
+shiv	shiv	NN	CW	NOUN	ARGUMENT
+sena	sena	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+popularity	popularity	NN	CW	NOUN	ARGUMENT
+subsequent	subsequent	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+accusation	accusation	NN	CW	NOUN	ARGUMENT
+corruption	corruption	NN	CW	NOUN	ARGUMENT
+official	official	JJ	CW	ADJ
+rao	rao	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+administration	administration	NN	CW	NOUN	ARGUMENT
+1995	1995	CD	FW
+also	also	RB	ADV	CW
+pave	pave	VBP	CW	VERB
+way	way	NN	CW	NOUN	ARGUMENT
+comeback	comeback	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bjp	bjp	NN	CW	NOUN	ARGUMENT
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+congress	congress	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+election	election	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+1996	1996	CD	FW
+win	win	VBP	CW	VERB
+largest	largest	JJS	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+seat	seat	NN	CW	NOUN	ARGUMENT
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+represented	represent	VBN	CW	VERB
+prime	prime	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+atal	atal	JJ	CW	ADJ
+beharus	beharus	NN	CW	NOUN	ARGUMENT
+vajpayee	vajpayee	NN	CW	NOUN	ARGUMENT
+bjp	bjp	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+force	force	NN	CW	NOUN	ARGUMENT
+cede	cede	VBP	CW	VERB
+seat	seat	NN	CW	NOUN	ARGUMENT
+less	less	RBR	ADV	CW
+two	two	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+have	have	VBP	FW	aux_or_cop
+fail	fail	VBP	CW	VERB
+effort	effort	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+coalition	coalition	NN	CW	NOUN	ARGUMENT
+government	government	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+united	unite	VBN	CW	VERB
+front	front	JJ	CW	ADJ
+compose	compose	VB	CW	VERB
+thirteen	thirteen	CD	FW
+party	party	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+congress	congress	NN	CW	NOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+h	h	NN	CW	NOUN	ARGUMENT
+d	d	NN	CW	NOUN	ARGUMENT
+deve	deve	VBP	CW	VERB
+gowda	gowda	NN	CW	NOUN	ARGUMENT
+helm	helm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+backing	back	VBG	CW	VERB
+congress	congress	NN	CW	NOUN	ARGUMENT
+pm	pm	NN	CW	NOUN	ARGUMENT
+gowda	gowda	NN	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+may	may	MD	CW	VERB
+1997	1997	CD	FW
+congress	congress	NN	CW	NOUN	ARGUMENT
+unseate	unseate	JJ	CW	ADJ
+appoint	appoint	VB	CW	VERB
+inder	inder	JJR	CW	ADJ
+kurnal	kurnal	JJ	CW	ADJ
+gujral	gujral	NN	CW	NOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+instability	instability	NN	CW	NOUN	ARGUMENT
+nation	nation	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+government	government	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+remarkable	remarkable	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+celebrated	celebrate	VBD	CW	VERB
+50	50	CD	FW
+th	th	DT	FW
+anniversary	anniversary	NN	CW	NOUN	ARGUMENT
+independence	independence	NN	CW	NOUN	ARGUMENT
+dalit	dalit	NN	CW	NOUN	ARGUMENT
+member	member	NN	CW	NOUN	ARGUMENT
+oppressed	oppressed	JJ	CW	ADJ
+caste	caste	NN	CW	NOUN	ARGUMENT
+k	k	NN	CW	NOUN	ARGUMENT
+r	r	NN	CW	NOUN	ARGUMENT
+narayan	narayan	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+appoint	appoint	VB	CW	VERB
+president	president	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+early	early	RB	ADV	CW
+1998	1998	CD	FW
+political	political	JJ	CW	ADJ
+volatility	volatility	NN	CW	NOUN	ARGUMENT
+necessitate	necessitate	VB	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+ever	ever	RB	ADV	CW
+mid-term	mid-term	JJ	CW	ADJ
+parliamentary	parliamentary	JJ	CW	ADJ
+election	election	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+congress	congress	NN	CW	NOUN	ARGUMENT
+withdraw	withdraw	VBP	CW	VERB
+support	support	NN	CW	NOUN	ARGUMENT
+pm	pm	NN	CW	NOUN	ARGUMENT
+gujral	gujral	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+atal	atal	JJ	CW	ADJ
+beharus	beharus	NN	CW	NOUN	ARGUMENT
+vajpayee	vajpayee	NN	CW	NOUN	ARGUMENT
+bjp	bjp	NN	CW	NOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+multi-party	multi-party	JJ	CW	ADJ
+coalition	coalition	NN	CW	NOUN	ARGUMENT
+government	government	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+may	may	MD	FW	aux_or_cop
+vajpayee	vajpayee	VB	FW	aux_or_cop
+announce	announce	VB	CW	VERB
+successful	successful	JJ	CW	ADJ
+completion	completion	NN	CW	NOUN	ARGUMENT
+nuclear	nuclear	JJ	CW	ADJ
+test	test	NN	CW	NOUN	ARGUMENT
+tout	tout	VB	CW	VERB
+indian	indian	JJ	CW	ADJ
+sign	sign	NN	CW	NOUN	ARGUMENT
+sovereignty	sovereignty	NN	CW	NOUN	ARGUMENT
+complicate	complicate	VBP	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+relation	relation	NN	CW	NOUN	ARGUMENT
+neighbor	neighbor	NN	CW	NOUN	ARGUMENT
+west	west	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+strength	strength	NN	CW	NOUN	ARGUMENT
+bjp	bjp	NN	CW	NOUN	ARGUMENT
+emergence	emergence	NN	CW	NOUN	ARGUMENT
+rajiv	rajiv	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+italian-born	italian-born	JJ	CW	ADJ
+widow	widow	NN	CW	NOUN	ARGUMENT
+sonium	sonium	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+congress	congress	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+president	president	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+legacy	legacy	NN	CW	NOUN	ARGUMENT
+nehru	nehru	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+dynasty	dynasty	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fa	fa	NN	CW	NOUN	ARGUMENT
+forget	forget	VB	CW	VERB
+
+sentence break
+
+goal	goal	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+influential	influential	JJ	CW	ADJ
+indium	indium	NN	CW	NOUN	ARGUMENT
+approach	approach	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+millennium	millennium	JJ	CW	ADJ
+continue	continue	VBP	CW	VERB
+modernize	modernize	VB	CW	VERB
+industry	industry	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+agricultural	agricultural	JJ	CW	ADJ
+output	output	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+face	face	NN	CW	NOUN	ARGUMENT
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+ever-growing	ever-growing	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+outnumber	outnumber	VB	CW	VERB
+even	even	RB	ADV	CW
+china	china	NN	CW	NOUN	ARGUMENT
+beginning	begin	VBG	CW	VERB
+next	next	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+largest	largest	JJS	CW	ADJ
+democracy	democracy	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+top	top	JJ	CW	ADJ
+ten	ten	CD	FW
+industrial	industrial	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

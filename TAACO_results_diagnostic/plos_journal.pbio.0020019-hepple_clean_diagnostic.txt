@@ -1,0 +1,1280 @@
+word	lemma	POS	CW\FW	other categories
+individual	individual	JJ	CW	ADJ
+wild	wild	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+remarkably	remarkably	RB	ADV	FW
+little	little	JJ	CW	ADJ
+morphological	morphological	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+amount	amount	NN	CW	NOUN	ARGUMENT
+environmental	environmental	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+encounter	encounter	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+amount	amount	NN	CW	NOUN	ARGUMENT
+genetic	genetic	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+phenotypic	phenotypic	JJ	CW	ADJ
+constancy	constancy	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+proposal	proposal	NN	CW	NOUN	ARGUMENT
+individual	individual	JJ	CW	ADJ
+be	be	VB	CW	VERB
+somehow	somehow	RB	ADV	FW
+buffered	buffer	VBN	CW	VERB
+canalized	canalized	JJ	CW	ADJ
+genetic	genetic	JJ	CW	ADJ
+environmental	environmental	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+waddington	waddington	NN	CW	NOUN	ARGUMENT
+1942	1942	CD	FW
+
+sentence break
+
+clearly	clearly	RB	ADV	CW
+such	such	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+important	important	JJ	CW	ADJ
+evolutionary	evolutionary	JJ	CW	ADJ
+consequence	consequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+natural	natural	JJ	CW	ADJ
+selection	selection	NN	CW	NOUN	ARGUMENT
+act	act	NN	CW	NOUN	ARGUMENT
+phenotypic	phenotypic	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+canalization	canalization	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+appear	appear	VBP	CW	VERB
+reduce	reduce	VB	CW	VERB
+evolvability	evolvability	NN	CW	NOUN	ARGUMENT
+trait	trait	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+act	act	NN	CW	NOUN	ARGUMENT
+gibson	gibson	NN	CW	NOUN	ARGUMENT
+wagner	wagner	NN	CW	NOUN	ARGUMENT
+2000	2000	CD	FW
+
+sentence break
+
+however	however	RB	ADV	FW
+canalization	canalization	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+reduce	reduce	VB	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+deleterious	deleterious	JJ	CW	ADJ
+potentially	potentially	RB	ADV	CW
+allow	allow	VBP	CW	VERB
+individual	individual	JJ	CW	ADJ
+store	store	NN	CW	NOUN	ARGUMENT
+genetic	genetic	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+suffer	suffer	VBP	CW	VERB
+consequence	consequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+canalization	canalization	NN	CW	NOUN	ARGUMENT
+break	break	VB	CW	VERB
+down	down	RP	FW
+due	due	JJ	CW	ADJ
+genetic	genetic	JJ	CW	ADJ
+environmental	environmental	JJ	CW	ADJ
+circumstance	circumstance	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+store	store	VBP	CW	VERB
+genetic	genetic	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+release	release	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+additional	additional	JJ	CW	ADJ
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+natural	natural	JJ	CW	ADJ
+selection	selection	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+way	way	NN	CW	NOUN	ARGUMENT
+individual	individual	JJ	CW	ADJ
+potentially	potentially	RB	ADV	CW
+undergo	undergo	VBP	CW	VERB
+large	large	JJ	CW	ADJ
+rapid	rapid	JJ	CW	ADJ
+phenotypic	phenotypic	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+drosophilum	drosophilum	NN	CW	NOUN	ARGUMENT
+arabidopsis	arabidopsis	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+suggest	suggest	VBP	CW	VERB
+hsp	hsp	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+heat	heat	NN	CW	NOUN	ARGUMENT
+shock	shock	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+member	member	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+express	express	VBP	CW	VERB
+high	high	JJ	CW	ADJ
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+heat	heat	NN	CW	NOUN	ARGUMENT
+shock	shock	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+excellent	excellent	JJ	CW	ADJ
+candidate	candidate	NN	CW	NOUN	ARGUMENT
+bring	bring	VB	CW	VERB
+canalization	canalization	NN	CW	NOUN	ARGUMENT
+rutherford	rutherford	NN	CW	NOUN	ARGUMENT
+lindquist	lindquist	NN	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+
+sentence break
+
+queitsch	queitsch	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+several	several	JJ	CW	ADJ
+feature	feature	NN	CW	NOUN	ARGUMENT
+hsp	hsp	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+suggest	suggest	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+evolutionary	evolutionary	JJ	CW	ADJ
+buffer	buffer	NN	CW	NOUN	ARGUMENT
+capable	capable	JJ	CW	ADJ
+hide	hide	VB	CW	VERB
+then	then	RB	ADV	CW
+release	release	VB	CW	VERB
+genetic	genetic	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+individual	individual	JJ	CW	ADJ
+heterozygous	heterozygous	JJ	CW	ADJ
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+hsp	hsp	NN	CW	NOUN	ARGUMENT
+83	83	CD	FW
+gene	gene	NN	CW	NOUN	ARGUMENT
+encode	encode	VBP	CW	VERB
+hsp	hsp	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+morphological	morphological	JJ	CW	ADJ
+abnormality	abnormality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+individual	individual	JJ	CW	ADJ
+treat	treat	NN	CW	NOUN	ARGUMENT
+pharmacological	pharmacological	JJ	CW	ADJ
+inhibitor	inhibitor	NN	CW	NOUN	ARGUMENT
+hsp	hsp	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+show	show	NN	CW	NOUN	ARGUMENT
+severe	severe	JJ	CW	ADJ
+morphological	morphological	JJ	CW	ADJ
+abnormality	abnormality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+normal	normal	JJ	CW	ADJ
+function	function	NN	CW	NOUN	ARGUMENT
+hsp	hsp	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+be	be	VB	FW	aux_or_cop
+stabilise	stabilise	JJ	CW	ADJ
+tertiary	tertiary	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+signal	signal	NN	CW	NOUN	ARGUMENT
+transduction	transduction	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+developmental	developmental	JJ	CW	ADJ
+pathway	pathway	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+function	function	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+compromise	compromise	NN	CW	NOUN	ARGUMENT
+environmental	environmental	JJ	CW	ADJ
+factor	factor	NN	CW	NOUN	ARGUMENT
+heat	heat	NN	CW	NOUN	ARGUMENT
+shock	shock	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hsp	hsp	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+not	not	RB	ADV	CW
+however	however	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+uniquely	uniquely	RB	ADV	CW
+place	place	NN	CW	NOUN	ARGUMENT
+act	act	VBP	CW	VERB
+evolutionary	evolutionary	JJ	CW	ADJ
+buffer	buffer	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	CW	VERB
+canalization	canalization	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+recent	recent	JJ	CW	ADJ
+theoretical	theoretical	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+suggest	suggest	VBP	CW	VERB
+canalization	canalization	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+emergent	emergent	JJ	CW	ADJ
+property	property	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+require	require	VB	CW	VERB
+specific	specific	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+stabilisation	stabilisation	NN	CW	NOUN	ARGUMENT
+environmental	environmental	JJ	CW	ADJ
+coupling	coupling	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+provide	provide	VBP	CW	VERB
+hsp	hsp	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+siegal	siegal	NN	CW	NOUN	ARGUMENT
+bergman	bergman	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+siegal	siegal	JJ	CW	ADJ
+bergman	bergman	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+propose	propose	VBP	CW	VERB
+network	network	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+compromise	compromise	NN	CW	NOUN	ARGUMENT
+knock	knock	VB	CW	VERB
+one	one	CD	FW
+several	several	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+buffer	buffer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+lose	lose	VB	CW	VERB
+compromise	compromise	NN	CW	NOUN	ARGUMENT
+release	release	NN	CW	NOUN	ARGUMENT
+variation	variation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hide	hide	VB	CW	VERB
+intact	intact	JJ	CW	ADJ
+network	network	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+test	test	NN	CW	NOUN	ARGUMENT
+bergman	bergman	NN	CW	NOUN	ARGUMENT
+siegal	siegal	JJ	CW	ADJ
+2003	2003	CD	FW
+use	use	NN	CW	NOUN	ARGUMENT
+numerical	numerical	JJ	CW	ADJ
+simulation	simulation	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+ten	ten	CD	FW
+gene	gene	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+capable	capable	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+
+sentence break
+
+network	network	NN	CW	NOUN	ARGUMENT
+essentially	essentially	RB	ADV	CW
+define	define	VBP	CW	VERB
+genotype	genotype	NN	CW	NOUN	ARGUMENT
+individual	individual	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+amount	amount	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+equilibrium	equilibrium	NN	CW	NOUN	ARGUMENT
+define	define	VBP	CW	VERB
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+comparison	comparison	NN	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+found	find	VBD	CW	VERB
+wild-type	wild-type	JJ	CW	ADJ
+individual	individual	JJ	CW	ADJ
+single	single	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+knockout	knockout	NN	CW	NOUN	ARGUMENT
+reveal	reveal	VBP	CW	VERB
+much	much	RB	ADV	CW
+higher	higher	JJR	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+phenotypic	phenotypic	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+derive	derive	VBP	CW	VERB
+knockout	knockout	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+population	population	NN	CW	NOUN	ARGUMENT
+derive	derive	VBP	CW	VERB
+knockout	knockout	NN	CW	NOUN	ARGUMENT
+express	express	VBP	CW	VERB
+phenotypic	phenotypic	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+express	express	VB	CW	VERB
+wild-type	wild-type	JJ	CW	ADJ
+network	network	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+buffer	buffer	NN	CW	NOUN	ARGUMENT
+genetic	genetic	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+suggest	suggest	VB	CW	VERB
+least	least	JJS	CW	ADJ
+one	one	CD	FW
+aspect	aspect	NN	CW	NOUN	ARGUMENT
+generating	generate	VBG	CW	VERB
+evolutionary	evolutionary	JJ	CW	ADJ
+buffer	buffer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+unique	unique	JJ	CW	ADJ
+hsp	hsp	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+
+sentence break
+
+gene	gene	NN	CW	NOUN	ARGUMENT
+hsp	hsp	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+conditional	conditional	JJ	CW	ADJ
+environment	environment	NN	CW	NOUN	ARGUMENT
+act	act	NN	CW	NOUN	ARGUMENT
+evolutionary	evolutionary	JJ	CW	ADJ
+buffer	buffer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+test	test	NN	CW	NOUN	ARGUMENT
+bergman	bergman	NN	CW	NOUN	ARGUMENT
+siegal	siegal	JJ	CW	ADJ
+2003	2003	CD	FW
+simulated	simulated	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+incorporate	incorporate	VB	CW	VERB
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+single	single	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+knock	knock	VB	CW	VERB
+then	then	RB	ADV	CW
+later	later	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+restore	restore	VB	CW	VERB
+
+sentence break
+
+simulated	simulated	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+allow	allow	VB	CW	VERB
+evolve	evolve	VB	CW	VERB
+whilst	whilst	IN	FW
+be	be	VB	FW	aux_or_cop
+select	select	JJ	CW	ADJ
+optimum	optimum	JJ	CW	ADJ
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+ie	ie	FW	FW
+population	population	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+expose	expose	VB	CW	VERB
+environment	environment	NN	CW	NOUN	ARGUMENT
+particular	particular	JJ	CW	ADJ
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+optimal	optimal	JJ	CW	ADJ
+
+sentence break
+
+new	new	JJ	CW	ADJ
+optimum	optimum	JJ	CW	ADJ
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+then	then	RB	ADV	CW
+specify	specify	VB	CW	VERB
+expression	expression	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+ten	ten	CD	FW
+network	network	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+vice	vice	NN	CW	NOUN	ARGUMENT
+versa	versa	RB	ADV	FW
+ie	ie	FW	FW
+be	be	VB	FW	aux_or_cop
+shift	shift	NN	CW	NOUN	ARGUMENT
+environmental	environmental	JJ	CW	ADJ
+condition	condition	NN	CW	NOUN	ARGUMENT
+favour	favour	VBP	CW	VERB
+different	different	JJ	CW	ADJ
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+population	population	NN	CW	NOUN	ARGUMENT
+evolve	evolve	VB	CW	VERB
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+reach	reach	VB	CW	VERB
+new	new	JJ	CW	ADJ
+optimum	optimum	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+knockout	knockout	JJ	CW	ADJ
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+clearly	clearly	RB	ADV	CW
+beneficial	beneficial	JJ	CW	ADJ
+speed	speed	NN	CW	NOUN	ARGUMENT
+adaptation	adaptation	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+phenotypic	phenotypic	JJ	CW	ADJ
+optimum	optimum	NN	CW	NOUN	ARGUMENT
+release	release	NN	CW	NOUN	ARGUMENT
+hide	hide	VB	CW	VERB
+genetic	genetic	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+thereby	thereby	RB	ADV	FW
+provide	provide	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+natural	natural	JJ	CW	ADJ
+selection	selection	NN	CW	NOUN	ARGUMENT
+act	act	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+yet	yet	RB	ADV	CW
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+couple	couple	VB	CW	VERB
+new	new	JJ	CW	ADJ
+environment	environment	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+release	release	NN	CW	NOUN	ARGUMENT
+hide	hide	VB	CW	VERB
+genetic	genetic	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+link	link	NN	CW	NOUN	ARGUMENT
+environmental	environmental	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+beneficial	beneficial	JJ	CW	ADJ
+
+sentence break
+
+simulation	simulation	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+bergman	bergman	NN	CW	NOUN	ARGUMENT
+siegal	siegal	JJ	CW	ADJ
+2003	2003	CD	FW
+suggest	suggest	VBP	CW	VERB
+key	key	JJ	CW	ADJ
+property	property	NN	CW	NOUN	ARGUMENT
+evolutionary	evolutionary	JJ	CW	ADJ
+buffer	buffer	NN	CW	NOUN	ARGUMENT
+ability	ability	NN	CW	NOUN	ARGUMENT
+store	store	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+release	release	VBP	CW	VERB
+genetic	genetic	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+response	response	NN	CW	NOUN	ARGUMENT
+environmental	environmental	JJ	CW	ADJ
+genetic	genetic	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+unique	unique	JJ	CW	ADJ
+hsp	hsp	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+
+sentence break
+
+indeed	indeed	RB	ADV	CW
+simulation	simulation	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+evolutionary	evolutionary	JJ	CW	ADJ
+buffer	buffer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+widespread	widespread	JJ	CW	ADJ
+property	property	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+suggest	suggest	VBP	CW	VERB
+hide	hide	VB	FW	aux_or_cop
+genetic	genetic	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+reveal	reveal	VBP	CW	VERB
+environmental	environmental	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+produce	produce	VB	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+knockout	knockout	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+way	way	NN	CW	NOUN	ARGUMENT
+explain	explain	VB	CW	VERB
+original	original	JJ	CW	ADJ
+observation	observation	NN	CW	NOUN	ARGUMENT
+waddington	waddington	NN	CW	NOUN	ARGUMENT
+1942	1942	CD	FW
+phenotypic	phenotypic	JJ	CW	ADJ
+constancy	constancy	NN	CW	NOUN	ARGUMENT
+yet	yet	RB	ADV	CW
+many	many	JJ	CW	ADJ
+question	question	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+stearn	stearn	JJ	CW	ADJ
+2003	2003	CD	FW
+
+sentence break
+
+one	one	CD	FW
+major	major	JJ	CW	ADJ
+outstanding	outstanding	JJ	CW	ADJ
+question	question	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+verify	verify	VB	CW	VERB
+result	result	NN	CW	NOUN	ARGUMENT
+experimentally	experimentally	RB	ADV	CW
+
+sentence break
+
+bergman	bergman	NN	CW	NOUN	ARGUMENT
+siegal	siegal	JJ	CW	ADJ
+2003	2003	CD	FW
+use	use	NN	CW	NOUN	ARGUMENT
+datum	datum	NN	CW	NOUN	ARGUMENT
+yeast	yeast	NN	CW	NOUN	ARGUMENT
+sacchromyce	sacchromyce	JJ	CW	ADJ
+cerevisia	cerevisium	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+knock	knock	VB	CW	VERB
+turn	turn	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+determine	determine	VB	CW	VERB
+demonstrate	demonstrate	VBP	CW	VERB
+simulation	simulation	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+application	application	NN	CW	NOUN	ARGUMENT
+biological	biological	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+use	use	NN	CW	NOUN	ARGUMENT
+datum	datum	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+knockout	knockout	JJ	CW	ADJ
+show	show	NN	CW	NOUN	ARGUMENT
+greater	greater	JJR	CW	ADJ
+variability	variability	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+wild-type	wild-type	JJ	CW	ADJ
+yeast	yeast	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+buffer	buffer	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+disrupt	disrupt	VB	CW	VERB
+
+sentence break
+
+give	give	VB	FW	aux_or_cop
+result	result	VB	CW	VERB
+bergman	bergman	NN	CW	NOUN	ARGUMENT
+siegal	siegal	JJ	CW	ADJ
+2003	2003	CD	FW
+be	be	VB	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+find	find	VB	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+elimination	elimination	NN	CW	NOUN	ARGUMENT
+single	single	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+reveal	reveal	VBP	CW	VERB
+variation	variation	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+hence	hence	RB	ADV	FW
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+class	class	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+conform	conform	VB	CW	VERB
+structure	structure	NN	CW	NOUN	ARGUMENT
+outline	outline	NN	CW	NOUN	ARGUMENT
+bergman	bergman	NN	CW	NOUN	ARGUMENT
+siegal	siegal	JJ	CW	ADJ
+2003	2003	CD	FW
+be	be	VB	FW	aux_or_cop
+gene	gene	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+regulate	regulate	VBP	CW	VERB
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+array	array	NN	CW	NOUN	ARGUMENT
+voltage-dependent	voltage-dependent	JJ	CW	ADJ
+na	na	TO	FW
++	+	CC	FW
+k	k	NN	CW	NOUN	ARGUMENT
++	+	CC	FW
+channel	channel	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+numerous	numerous	JJ	CW	ADJ
+cl	cl	NN	CW	NOUN	ARGUMENT
+encoding error!
+2	2	CD	FW
++	+	CC	FW
+voltage-independent	voltage-independent	JJ	CW	ADJ
+leak	leak	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+electrical	electrical	JJ	CW	ADJ
+property	property	NN	CW	NOUN	ARGUMENT
+single	single	JJ	CW	ADJ
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+dependent	dependent	JJ	CW	ADJ
+not	not	RB	ADV	CW
+exclusively	exclusively	RB	ADV	CW
+suite	suite	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+express	express	VBP	CW	VERB
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+property	property	NN	CW	NOUN	ARGUMENT
+neural	neural	JJ	CW	ADJ
+network	network	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+behaviour	behaviour	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+determine	determine	VBN	CW	VERB
+intrinsic	intrinsic	JJ	CW	ADJ
+expression	expression	NN	CW	NOUN	ARGUMENT
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+connectivity	connectivity	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nervous	nervous	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+interaction	interaction	NN	CW	NOUN	ARGUMENT
+experience	experience	NN	CW	NOUN	ARGUMENT
+genetically	genetically	RB	ADV	CW
+program	program	NN	CW	NOUN	ARGUMENT
+event	event	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+interaction	interaction	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+compensation	compensation	NN	CW	NOUN	ARGUMENT
+turrigiano	turrigiano	NN	CW	NOUN	ARGUMENT
+1999	1999	CD	FW
+
+sentence break
+
+individual	individual	JJ	CW	ADJ
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+sensitivity	sensitivity	NN	CW	NOUN	ARGUMENT
+input	input	NN	CW	NOUN	ARGUMENT
+alter	alter	VBP	CW	VERB
+relative	relative	JJ	CW	ADJ
+proportion	proportion	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+enable	enable	VBP	CW	VERB
+maintain	maintain	VB	CW	VERB
+stable	stable	JJ	CW	ADJ
+property	property	NN	CW	NOUN	ARGUMENT
+face	face	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+experience	experience	NN	CW	NOUN	ARGUMENT
+turrigiano	turrigiano	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1994	1994	CD	FW
+
+sentence break
+
+brickley	brickley	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2001	2001	CD	FW
+
+sentence break
+
+maclean	maclean	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+niven	niven	JJ	CW	ADJ
+al	al	NNP	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+b.	b.	RB	ADV	FW
+many	many	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+knockout	knockout	JJ	CW	ADJ
+show	show	NN	CW	NOUN	ARGUMENT
+relatively	relatively	RB	ADV	CW
+little	little	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+overall	overall	JJ	CW	ADJ
+neuronal	neuronal	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+prediction	prediction	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+pharmacological	pharmacological	JJ	CW	ADJ
+blockade	blockade	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+severe	severe	JJ	CW	ADJ
+phenotypic	phenotypic	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+marder	marder	NN	CW	NOUN	ARGUMENT
+prinz	prinz	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+subsequent	subsequent	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+show	show	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+compensate	compensate	VB	CW	VERB
+change	change	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+example	example	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+drosophilum	drosophilum	NN	CW	NOUN	ARGUMENT
+photoreceptor	photoreceptor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+particular	particular	JJ	CW	ADJ
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+compensatory	compensatory	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+link	link	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+restore	restore	VB	CW	VERB
+ability	ability	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+visual	visual	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+niven	niven	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+2003	2003	CD	FW
+
+sentence break
+
+however	however	RB	ADV	FW
+change	change	VB	FW	aux_or_cop
+do	do	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+restore	restore	VB	CW	VERB
+original	original	JJ	CW	ADJ
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+completely	completely	RB	ADV	CW
+compensate	compensate	VB	CW	VERB
+photoreceptor	photoreceptor	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+show	show	VBP	CW	VERB
+reduce	reduce	VB	CW	VERB
+ability	ability	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+visual	visual	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+intracellular	intracellular	JJ	CW	ADJ
+2	2	CD	FW
++	+	CC	FW
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+act	act	VBP	CW	VERB
+internal	internal	JJ	CW	ADJ
+sensor	sensor	NN	CW	NOUN	ARGUMENT
+neural	neural	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+marder	marder	NN	CW	NOUN	ARGUMENT
+prinz	prinz	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+2	2	CD	FW
++	+	CC	FW
+other	other	JJ	CW	ADJ
+second	second	JJ	CW	ADJ
+messenger	messenger	NN	CW	NOUN	ARGUMENT
+influence	influence	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+encode	encode	VBP	CW	VERB
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+couple	couple	JJ	CW	ADJ
+neural	neural	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+berridge	berridge	NN	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+c.	c.	NN	CW	NOUN	ARGUMENT
+additionally	additionally	RB	ADV	CW
+activity-independent	activity-independent	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+compensation	compensation	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+describe	describe	VBP	CW	VERB
+expression	expression	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+link	link	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+oppose	oppose	VBP	CW	VERB
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+maclean	maclean	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+two	two	CD	FW
+system	system	NN	CW	NOUN	ARGUMENT
+activity-dependent	activity-dependent	JJ	CW	ADJ
+activity-independent	activity-independent	JJ	CW	ADJ
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+compensation	compensation	NN	CW	NOUN	ARGUMENT
+bear	bear	NN	CW	NOUN	ARGUMENT
+close	close	JJ	CW	ADJ
+resemblance	resemblance	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+simulated	simulated	JJ	CW	ADJ
+bergman	bergman	NN	CW	NOUN	ARGUMENT
+siegal	siegal	JJ	CW	ADJ
+2003	2003	CD	FW
+gene	gene	NN	CW	NOUN	ARGUMENT
+regulate	regulate	VBP	CW	VERB
+own	own	JJ	CW	ADJ
+expression	expression	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+network	network	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+therefore	therefore	RB	ADV	FW
+network	network	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+regulate	regulate	VBP	CW	VERB
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+act	act	VBP	CW	VERB
+evolutionary	evolutionary	JJ	CW	ADJ
+buffer	buffer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+neural	neural	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+encode	encode	VBP	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+stabilise	stabilise	NN	CW	NOUN	ARGUMENT
+neural	neural	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+relation	relation	NN	CW	NOUN	ARGUMENT
+genetic	genetic	JJ	CW	ADJ
+environmental	environmental	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+stabilisation	stabilisation	NN	CW	NOUN	ARGUMENT
+neural	neural	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+consequence	consequence	NN	CW	NOUN	ARGUMENT
+generation	generation	NN	CW	NOUN	ARGUMENT
+adaptive	adaptive	JJ	CW	ADJ
+behaviour	behaviour	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+construct	construct	NN	CW	NOUN	ARGUMENT
+neural	neural	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+canalize	canalize	NN	CW	NOUN	ARGUMENT
+evolution	evolution	NN	CW	NOUN	ARGUMENT
+nervous	nervous	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+reduce	reduce	VB	CW	VERB
+behavioural	behavioural	JJ	CW	ADJ
+variation	variation	NN	CW	NOUN	ARGUMENT
+therefore	therefore	RB	ADV	FW
+remove	remove	VB	CW	VERB
+substrate	substrate	JJ	CW	ADJ
+natural	natural	JJ	CW	ADJ
+selection	selection	NN	CW	NOUN	ARGUMENT
+act	act	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+example	example	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+voltage-dependent	voltage-dependent	JJ	CW	ADJ
+na	na	TO	FW
++	+	CC	FW
+channel	channel	NN	CW	NOUN	ARGUMENT
+property	property	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+activation	activation	NN	CW	NOUN	ARGUMENT
+voltage	voltage	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+compensate	compensate	VB	CW	VERB
+regulate	regulate	VB	CW	VERB
+expression	expression	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+knockout	knockout	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+compensate	compensate	VBP	CW	VERB
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+reveal	reveal	VBP	CW	VERB
+change	change	NN	CW	NOUN	ARGUMENT
+voltage-dependent	voltage-dependent	JJ	CW	ADJ
+na	na	TO	FW
++	+	CC	FW
+channel	channel	NN	CW	NOUN	ARGUMENT
+property	property	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+shift	shift	NN	CW	NOUN	ARGUMENT
+output	output	NN	CW	NOUN	ARGUMENT
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hypothesis	hypothesis	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+several	several	JJ	CW	ADJ
+testable	testable	JJ	CW	ADJ
+prediction	prediction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+example	example	NN	CW	NOUN	ARGUMENT
+knock	knock	VB	CW	VERB
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+variation	variation	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+particular	particular	JJ	CW	ADJ
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+individual	individual	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+variation	variation	NN	CW	NOUN	ARGUMENT
+neural	neural	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+behaviour	behaviour	NN	CW	NOUN	ARGUMENT
+whole	whole	JJ	CW	ADJ
+organism	organism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+studying	study	VBG	CW	VERB
+canalization	canalization	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+significant	significant	JJ	CW	ADJ
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+developmental	developmental	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+relatively	relatively	RB	ADV	CW
+straightforward	straightforward	JJ	CW	ADJ
+measure	measure	NN	CW	NOUN	ARGUMENT
+amount	amount	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+express	express	VBP	CW	VERB
+single	single	JJ	CW	ADJ
+identify	identify	VBP	CW	VERB
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+alter	alter	VB	CW	VERB
+expression	expression	NN	CW	NOUN	ARGUMENT
+individual	individual	JJ	CW	ADJ
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+relate	relate	VBP	CW	VERB
+alteration	alteration	NN	CW	NOUN	ARGUMENT
+behaviour	behaviour	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+currently	currently	RB	ADV	CW
+pursue	pursue	VB	CW	VERB
+impact	impact	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+compensation	compensation	NN	CW	NOUN	ARGUMENT
+drosophilum	drosophilum	NN	CW	NOUN	ARGUMENT
+photoreceptor	photoreceptor	NN	CW	NOUN	ARGUMENT
+niven	niven	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+encoding error!
+
+sentence break
+
+system	system	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	CW	VERB
+change	change	NN	CW	NOUN	ARGUMENT
+code	code	NN	CW	NOUN	ARGUMENT
+visual	visual	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+behavioural	behavioural	NN	CW	NOUN	ARGUMENT
+difference	difference	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+possible	possible	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+compensation	compensation	NN	CW	NOUN	ARGUMENT
+canalize	canalize	NN	CW	NOUN	ARGUMENT
+evolution	evolution	NN	CW	NOUN	ARGUMENT
+nervous	nervous	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+important	important	JJ	CW	ADJ
+implication	implication	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+just	just	RB	ADV	CW
+understand	understand	VB	CW	VERB
+system	system	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+understand	understand	VBP	CW	VERB
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+compensation	compensation	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+nervous	nervous	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+evolution	evolution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

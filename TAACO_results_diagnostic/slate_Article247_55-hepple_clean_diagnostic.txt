@@ -1,0 +1,195 @@
+word	lemma	POS	CW\FW	other categories
+never	never	RB	ADV	CW
+mind	mind	NN	CW	NOUN	ARGUMENT
+ethics	ethic	NNS	CW	NOUN	ARGUMENT
+paparazzus	paparazzus	NN	CW	NOUN	ARGUMENT
+torment	torment	VB	CW	VERB
+celebrity	celebrity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bill	bill	NN	CW	NOUN	ARGUMENT
+mckibben	mckibben	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+commercial	commercial	JJ	CW	ADJ
+photographer	photographer	NNP	CW	NOUN	ARGUMENT
+shoot	shoot	NN	CW	NOUN	ARGUMENT
+wildlife	wildlife	NN	CW	NOUN	ARGUMENT
+lie	lie	VBP	CW	VERB
+leica	leica	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+write	write	VB	CW	VERB
+fall	fall	NN	CW	NOUN	ARGUMENT
+issue	issue	NN	CW	NOUN	ARGUMENT
+doubletake	doubletake	NN	CW	NOUN	ARGUMENT
+robert	robert	NN	CW	NOUN	ARGUMENT
+cole	cole	JJ	CW	ADJ
+slick	slick	JJ	CW	ADJ
+magazine	magazine	NN	CW	NOUN	ARGUMENT
+essay	essay	NN	CW	NOUN	ARGUMENT
+photograph	photograph	NN	CW	NOUN	ARGUMENT
+reportage	reportage	NN	CW	NOUN	ARGUMENT
+poetry	poetry	NN	CW	NOUN	ARGUMENT
+mckibben	mckibben	NN	CW	NOUN	ARGUMENT
+accusee	accusee	NN	CW	NOUN	ARGUMENT
+commercial	commercial	JJ	CW	ADJ
+wildlife	wildlife	NN	CW	NOUN	ARGUMENT
+photographer	photographer	NNP	CW	NOUN	ARGUMENT
+needlessly	needlessly	RB	ADV	CW
+stress	stress	NN	CW	NOUN	ARGUMENT
+caribou	caribou	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+critter	critter	NN	CW	NOUN	ARGUMENT
+stalk	stalk	NN	CW	NOUN	ARGUMENT
+airplane	airplane	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+damn	damn	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+jillion	jillion	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+picture	picture	NN	CW	NOUN	ARGUMENT
+emerald	emerald	JJ	CW	ADJ
+boa	boa	NN	CW	NOUN	ARGUMENT
+eat	eat	VB	CW	VERB
+parrot	parrot	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+false	false	JJ	CW	ADJ
+expectation	expectation	NN	CW	NOUN	ARGUMENT
+wilderness	wilderness	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+
+sentence break
+
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+public	public	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+go	go	VB	CW	VERB
+mad	mad	JJ	CW	ADJ
+wildlife	wildlife	NN	CW	NOUN	ARGUMENT
+photography	photography	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+find	find	VB	CW	VERB
+yellowstone	yellowstone	JJ	CW	ADJ
+park	park	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+wildlife	wildlife	NN	CW	NOUN	ARGUMENT
+porn	porn	NN	CW	NOUN	ARGUMENT
+chatterbox	chatterbox	NN	CW	NOUN	ARGUMENT
+phrase	phrase	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+mckibben	mckibben	RB	ADV	FW
+have	have	VB	FW	aux_or_cop
+convince	convince	VB	CW	VERB
+tourist	tourist	NN	CW	NOUN	ARGUMENT
+bear	bear	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+approachable	approachable	JJ	CW	ADJ
+beast	beast	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fact	fact	NN	CW	NOUN	ARGUMENT
+bear	bear	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+habituated	habituated	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+end	end	VBP	CW	VERB
+get	get	VB	CW	VERB
+snuffed	snuff	VBN	CW	VERB
+ranger	ranger	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+dangerous	dangerous	JJ	CW	ADJ
+pest	pest	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mckibben	mckibben	NN	CW	NOUN	ARGUMENT
+solution	solution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+moratorium	moratorium	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+commercial	commercial	JJ	CW	ADJ
+wildlife	wildlife	NN	CW	NOUN	ARGUMENT
+photography	photography	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+call	call	VB	CW	VERB
+top	top	JJ	CW	ADJ
+nature	nature	NN	CW	NOUN	ARGUMENT
+magazine	magazine	NN	CW	NOUN	ARGUMENT
+tv	tv	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+pick	pick	NN	CW	NOUN	ARGUMENT
+date	date	NN	CW	NOUN	ARGUMENT
+refuse	refuse	VBP	FW	aux_or_cop
+purchase	purchase	NN	CW	NOUN	ARGUMENT
+photo	photo	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+n't	not	RB	ADV	CW
+enough	enough	JJ	CW	ADJ
+photograph	photograph	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+magazine	magazine	NN	CW	NOUN	ARGUMENT
+art	art	NN	CW	NOUN	ARGUMENT
+director	director	NN	CW	NOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+review	review	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+000	000	CD	FW
+slide	slide	NN	CW	NOUN	ARGUMENT
+elephant	elephant	NN	CW	NOUN	ARGUMENT
+few	few	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+ago	ago	IN	FW
+plan	plan	NN	CW	NOUN	ARGUMENT
+story	story	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+n't	not	RB	ADV	CW
+censorship	censorship	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+editing	editing	NN	CW	NOUN	ARGUMENT
+mckibben	mckibben	NN	CW	NOUN	ARGUMENT
+write	write	VB	CW	VERB
+
+sentence break
+
+self-restraint	self-restraint	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+uniquely	uniquely	RB	ADV	CW
+human	human	JJ	CW	ADJ
+gift	gift	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+talent	talent	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+creature	creature	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+possess	possess	VBP	CW	VERB
+even	even	RB	ADV	CW
+possibility	possibility	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,609 @@
+word	lemma	POS	CW\FW	other categories
+illinoi	illinous	NN	CW	NOUN	ARGUMENT
+supreme	supreme	NN	CW	NOUN	ARGUMENT
+court	court	NN	CW	NOUN	ARGUMENT
+friday	friday	NNP	CW	NOUN	ARGUMENT
+hike	hike	VBP	CW	VERB
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+registration	registration	NN	CW	NOUN	ARGUMENT
+fee	fee	NN	CW	NOUN	ARGUMENT
+49	49	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+boost	boost	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+support	support	VBP	CW	VERB
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+drug	drug	NN	CW	NOUN	ARGUMENT
+alcohol	alcohol	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+high	high	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+annual	annual	JJ	CW	ADJ
+fee	fee	NN	CW	NOUN	ARGUMENT
+active	active	JJ	CW	ADJ
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+rise	rise	NN	CW	NOUN	ARGUMENT
+229	229	CD	FW
+january	january	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+last	last	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+raise	raise	NN	CW	NOUN	ARGUMENT
+fee	fee	NN	CW	NOUN	ARGUMENT
+180	180	CD	FW
+140	140	CD	FW
+
+sentence break
+
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+three	three	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+practice	practice	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+inactive	inactive	JJ	CW	ADJ
+wish	wish	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	FW	aux_or_cop
+roll	roll	NN	CW	NOUN	ARGUMENT
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+
+sentence break
+
+most	most	RBS	ADV	CW
+latest	latest	JJS	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+42	42	CD	FW
+
+sentence break
+
+go	go	VB	CW	VERB
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+illinoi	illinous	NNS	CW	NOUN	ARGUMENT
+disburse	disburse	VBP	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+organization	organization	NN	CW	NOUN	ARGUMENT
+assist	assist	VB	CW	VERB
+low	low	JJ	CW	ADJ
+income	income	NN	CW	NOUN	ARGUMENT
+resident	resident	NN	CW	NOUN	ARGUMENT
+civil	civil	JJ	CW	ADJ
+matter	matter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+7	7	CD	FW
+go	go	VBP	CW	VERB
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+assistance	assistance	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+inc	inc	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+overcome	overcome	VBN	CW	VERB
+drug	drug	NN	CW	NOUN	ARGUMENT
+alcohol	alcohol	NN	CW	NOUN	ARGUMENT
+addiction	addiction	NN	CW	NOUN	ARGUMENT
+mental	mental	JJ	CW	ADJ
+illness	illness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+lap	lap	NN	CW	NOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+respectively	respectively	RB	ADV	CW
+improve	improve	VB	CW	VERB
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+poor	poor	JJ	CW	ADJ
+provide	provide	VBP	CW	VERB
+equal	equal	JJ	CW	ADJ
+justice	justice	NN	CW	NOUN	ARGUMENT
+law	law	NN	CW	NOUN	ARGUMENT
+increase	increase	VBP	CW	VERB
+public	public	JJ	CW	ADJ
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+administration	administration	NN	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+chief	chief	NN	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+mary	mary	NN	CW	NOUN	ARGUMENT
+ann	ann	NN	CW	NOUN	ARGUMENT
+g	g	NN	CW	NOUN	ARGUMENT
+mcmorrow	mcmorrow	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+two	two	CD	FW
+separate	separate	JJ	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+fee	fee	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+step	step	NN	CW	NOUN	ARGUMENT
+closer	closer	RBR	ADV	CW
+achieve	achieve	VB	CW	VERB
+two	two	CD	FW
+goal	goal	NN	CW	NOUN	ARGUMENT
+mcmorrow	mcmorrow	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+write	write	VB	CW	VERB
+statement	statement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+time	time	NN	CW	NOUN	ARGUMENT
+downturn	downturn	NN	CW	NOUN	ARGUMENT
+economy	economy	NN	CW	NOUN	ARGUMENT
+demonstrate	demonstrate	VBP	CW	VERB
+commitment	commitment	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+illinoi	illinous	NN	CW	NOUN	ARGUMENT
+assume	assume	VB	CW	VERB
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+unable	unable	JJ	CW	ADJ
+afford	afford	VB	CW	VERB
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+compassion	compassion	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+more	more	RBR	ADV	CW
+57	57	CD	FW
+000	000	CD	FW
+active	active	JJ	CW	ADJ
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+illinoi	illinous	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fee	fee	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+expect	expect	VB	CW	VERB
+generate	generate	VB	CW	VERB
+2	2	CD	FW
+million	million	CD	FW
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+400	400	CD	FW
+000	000	CD	FW
+lap	lap	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+additional	additional	JJ	CW	ADJ
+staff	staff	NN	CW	NOUN	ARGUMENT
+resource	resource	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+administer	administer	VBP	CW	VERB
+high	high	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+interest	interest	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+account	account	NN	CW	NOUN	ARGUMENT
+iolta	iolta	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+pool	pool	NN	CW	NOUN	ARGUMENT
+client	client	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+escrow	escrow	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+instance	instance	NN	CW	NOUN	ARGUMENT
+turn	turn	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+income	income	NN	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+low	low	JJ	CW	ADJ
+interest	interest	NN	CW	NOUN	ARGUMENT
+rate	rate	NN	CW	NOUN	ARGUMENT
+sag	sag	NN	CW	NOUN	ARGUMENT
+economy	economy	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+plague	plague	VB	CW	VERB
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+deposit	deposit	NN	CW	NOUN	ARGUMENT
+earn	earn	VBP	CW	VERB
+2	2	CD	FW
+5	5	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+interest	interest	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+now	now	RB	ADV	CW
+average	average	JJ	CW	ADJ
+0	0	CD	FW
+65	65	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+accord	accord	NN	CW	NOUN	ARGUMENT
+ruth	ruth	NN	CW	NOUN	ARGUMENT
+ann	ann	NN	CW	NOUN	ARGUMENT
+schmitt	schmitt	NN	CW	NOUN	ARGUMENT
+executive	executive	NN	CW	NOUN	ARGUMENT
+director	director	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+available	available	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+plummet	plummet	VB	CW	VERB
+more	more	JJR	CW	ADJ
+50	50	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+7	7	CD	FW
+million	million	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+million	million	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+accord	accord	NN	CW	NOUN	ARGUMENT
+schmitt	schmitt	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+supreme	supreme	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+action	action	NN	CW	NOUN	ARGUMENT
+raise	raise	VBP	CW	VERB
+fee	fee	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+lifesave	lifesave	JJ	CW	ADJ
+grantee	grantee	NN	CW	NOUN	ARGUMENT
+schmitt	schmitt	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+friday	friday	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+underwrite	underwrite	VB	CW	VERB
+operation	operation	NN	CW	NOUN	ARGUMENT
+34	34	CD	FW
+legal	legal	JJ	CW	ADJ
+agency	agency	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+legal	legal	JJ	CW	ADJ
+assistance	assistance	NN	CW	NOUN	ARGUMENT
+foundation	foundation	NN	CW	NOUN	ARGUMENT
+metropolitan	metropolitan	JJ	CW	ADJ
+chicago	chicago	NNP	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+lincoln	lincoln	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+assistance	assistance	NN	CW	NOUN	ARGUMENT
+foundation	foundation	NN	CW	NOUN	ARGUMENT
+inc	inc	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+springfield	springfield	NN	CW	NOUN	ARGUMENT
+prairie	prairie	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+rockford	rockford	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+big	big	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+supreme	supreme	NN	CW	NOUN	ARGUMENT
+court	court	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+take	take	VB	CW	VERB
+demonstrate	demonstrate	VBP	CW	VERB
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+aware	aware	JJ	CW	ADJ
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+ensure	ensure	VB	CW	VERB
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+leonard	leonard	NN	CW	NOUN	ARGUMENT
+f	f	FW	FW
+amarus	amarus	FW	FW
+past	past	JJ	CW	ADJ
+president	president	NN	CW	NOUN	ARGUMENT
+illinoi	illinoi	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+bar	bar	NN	CW	NOUN	ARGUMENT
+association	association	NN	CW	NOUN	ARGUMENT
+chair	chair	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+press	press	NN	CW	NOUN	ARGUMENT
+release	release	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fee	fee	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+judge	judge	NN	CW	NOUN	ARGUMENT
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+fully	fully	RB	ADV	CW
+recover	recover	VB	CW	VERB
+substance	substance	NN	CW	NOUN	ARGUMENT
+abuse	abuse	NN	CW	NOUN	ARGUMENT
+mental	mental	JJ	CW	ADJ
+illness	illness	NN	CW	NOUN	ARGUMENT
+perform	perform	VB	CW	VERB
+job	job	NN	CW	NOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+ability	ability	NN	CW	NOUN	ARGUMENT
+thereby	thereby	RB	ADV	FW
+assist	assist	VB	CW	VERB
+citizen	citizen	NN	CW	NOUN	ARGUMENT
+illinoi	illinous	NN	CW	NOUN	ARGUMENT
+sheila	sheila	NN	CW	NOUN	ARGUMENT
+m	m	NN	CW	NOUN	ARGUMENT
+murphy	murphy	NN	CW	NOUN	ARGUMENT
+former	former	JJ	CW	ADJ
+cook	cook	NN	CW	NOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+circuit	circuit	NN	CW	NOUN	ARGUMENT
+court	court	NN	CW	NOUN	ARGUMENT
+judge	judge	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+lap	lap	NN	CW	NOUN	ARGUMENT
+president	president	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+release	release	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+more	more	RBR	ADV	CW
+two	two	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+ago	ago	RB	ADV	CW
+high	high	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+establish	establish	VB	CW	VERB
+special	special	JJ	CW	ADJ
+committee	committee	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+assistance	assistance	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+chair	chair	NN	CW	NOUN	ARGUMENT
+timothy	timothy	NN	CW	NOUN	ARGUMENT
+l	l	NN	CW	NOUN	ARGUMENT
+bertschy	bertschy	NN	CW	NOUN	ARGUMENT
+peorium	peorium	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+former	former	JJ	CW	ADJ
+isba	isba	NN	CW	NOUN	ARGUMENT
+president	president	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+committee	committee	NN	CW	NOUN	ARGUMENT
+urge	urge	NN	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+additional	additional	JJ	CW	ADJ
+resource	resource	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+illinoi	illinoi	JJ	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+registration	registration	NN	CW	NOUN	ARGUMENT
+fee	fee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+go	go	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+suspect	suspect	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+go	go	VB	CW	VERB
+object	object	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+recommendation	recommendation	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+supreme	supreme	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+regard	regard	NN	CW	NOUN	ARGUMENT
+fee	fee	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+broad	broad	JJ	CW	ADJ
+support	support	NN	CW	NOUN	ARGUMENT
+bar	bar	NN	CW	NOUN	ARGUMENT
+association	association	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+bertschy	bertschy	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+release	release	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lap	lap	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+face	face	NN	CW	NOUN	ARGUMENT
+personal	personal	JJ	CW	ADJ
+crisis	crisis	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+20	20	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+additional	additional	JJ	CW	ADJ
+revenue	revenue	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+fee	fee	NN	CW	NOUN	ARGUMENT
+hike	hike	NN	CW	NOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+lap	lap	NN	CW	NOUN	ARGUMENT
+establish	establish	VB	CW	VERB
+office	office	NN	CW	NOUN	ARGUMENT
+central	central	JJ	CW	ADJ
+southern	southern	JJ	CW	ADJ
+illinoi	illinous	NN	CW	NOUN	ARGUMENT
+expand	expand	VB	CW	VERB
+outreach	outreach	NN	CW	NOUN	ARGUMENT
+law	law	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+accord	accord	NN	CW	NOUN	ARGUMENT
+murphy	murphy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+add	add	VB	CW	VERB
+additional	additional	JJ	CW	ADJ
+funding	funding	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+allow	allow	VBP	CW	VERB
+lap	lap	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+relapse	relapse	NN	CW	NOUN	ARGUMENT
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+complete	complete	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lap	lap	NN	CW	NOUN	ARGUMENT
+current	current	JJ	CW	ADJ
+funding	funding	NN	CW	NOUN	ARGUMENT
+primarily	primarily	RB	ADV	FW
+come	come	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+largest	largest	JJS	CW	ADJ
+bar	bar	NN	CW	NOUN	ARGUMENT
+association	association	NN	CW	NOUN	ARGUMENT
+private	private	JJ	CW	ADJ
+donation	donation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+high	high	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+friday	friday	NNP	CW	NOUN	ARGUMENT
+amends	amends	NNS	CW	NOUN	ARGUMENT
+supreme	supreme	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+751	751	CD	FW
+756	756	CD	FW
+authorize	authorize	VBP	CW	VERB
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+registration	registration	NN	CW	NOUN	ARGUMENT
+disciplinary	disciplinary	JJ	CW	ADJ
+commission	commission	NN	CW	NOUN	ARGUMENT
+collect	collect	VB	CW	VERB
+automatically	automatically	RB	ADV	CW
+pass	pass	VB	CW	VERB
+fee	fee	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+trust	trust	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+assistance	assistance	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+latter	latter	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+special	special	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+treasury	treasury	NN	CW	NOUN	ARGUMENT
+account	account	NN	CW	NOUN	ARGUMENT
+create	create	VBP	CW	VERB
+high	high	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+request	request	NN	CW	NOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+legislation	legislation	NN	CW	NOUN	ARGUMENT
+enact	enact	VB	CW	VERB
+earlier	earlier	JJR	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

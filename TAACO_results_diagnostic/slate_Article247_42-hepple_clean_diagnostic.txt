@@ -1,0 +1,210 @@
+word	lemma	POS	CW\FW	other categories
+conservative	conservative	JJ	CW	ADJ
+congress	congress	NN	CW	NOUN	ARGUMENT
+gutted	gut	VBN	CW	VERB
+national	national	JJ	CW	ADJ
+endowment	endowment	NN	CW	NOUN	ARGUMENT
+art	art	NN	CW	NOUN	ARGUMENT
+predict	predict	VBP	CW	VERB
+art	art	NN	CW	NOUN	ARGUMENT
+patron	patron	NN	CW	NOUN	ARGUMENT
+private	private	JJ	CW	ADJ
+sector	sector	NN	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+forward	forward	RB	ADV	CW
+fill	fill	VB	CW	VERB
+ensue	ensue	VB	CW	VERB
+culture	culture	NN	CW	NOUN	ARGUMENT
+gap	gap	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+balderdash	balderdash	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+art	art	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+prove	prove	VB	CW	VERB
+wrong	wrong	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+conservative	conservative	JJ	CW	ADJ
+american	american	JJ	CW	ADJ
+enterprise	enterprise	NN	CW	NOUN	ARGUMENT
+institute	institute	NN	CW	NOUN	ARGUMENT
+commission	commission	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+historical	historical	JJ	CW	ADJ
+portrait	portrait	NN	CW	NOUN	ARGUMENT
+minnesota	minnesota	NN	CW	NOUN	ARGUMENT
+artist	artist	NN	CW	NOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+balma	balma	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unveil	unveil	VB	CW	VERB
+next	next	JJ	CW	ADJ
+month	month	NN	CW	NOUN	ARGUMENT
+aeus	aeus	NN	CW	NOUN	ARGUMENT
+reception	reception	NN	CW	NOUN	ARGUMENT
+cannon	cannon	NN	CW	NOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+office	office	NN	CW	NOUN	ARGUMENT
+building	building	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+actually	actually	RB	ADV	CW
+view	view	VBP	CW	VERB
+chatterbox	chatterbox	NN	CW	NOUN	ARGUMENT
+n't	not	RB	ADV	CW
+comment	comment	VB	CW	VERB
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+painting	painting	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+prepare	prepare	VB	CW	VERB
+judge	judge	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+title	title	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+shared	share	VBN	CW	VERB
+vision	vision	NN	CW	NOUN	ARGUMENT
+pair	pair	NN	CW	NOUN	ARGUMENT
+ronald	ronald	NN	CW	NOUN	ARGUMENT
+reagan	reagan	JJ	CW	ADJ
+margaret	margaret	NN	CW	NOUN	ARGUMENT
+thatcher	thatcher	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+statesman	statesman	NN	CW	NOUN	ARGUMENT
+bring	bring	VB	CW	VERB
+compromise	compromise	NN	CW	NOUN	ARGUMENT
+tact	tact	NN	CW	NOUN	ARGUMENT
+everything	everything	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+share	share	NN	CW	NOUN	ARGUMENT
+vision	vision	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+historical	historical	JJ	CW	ADJ
+
+sentence break
+
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+aeus	aeus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+resolution	resolution	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+so	so	RB	ADV	CW
+sure	sure	JJ	CW	ADJ
+
+sentence break
+
+painting	painting	NN	CW	NOUN	ARGUMENT
+depict	depict	VB	CW	VERB
+gulf	gulf	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+all	all	DT	FW
+star	star	NN	CW	NOUN	ARGUMENT
+start	start	NN	CW	NOUN	ARGUMENT
+five	five	CD	FW
+george	george	NN	CW	NOUN	ARGUMENT
+bush	bush	JJ	CW	ADJ
+jame	jame	NN	CW	NOUN	ARGUMENT
+baker	baker	JJ	CW	ADJ
+dick	dick	NN	CW	NOUN	ARGUMENT
+cheney	cheney	NN	CW	NOUN	ARGUMENT
+brent	brent	NN	CW	NOUN	ARGUMENT
+scowcroft	scowcroft	NN	CW	NOUN	ARGUMENT
+colin	colin	NN	CW	NOUN	ARGUMENT
+powell	powell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+historical	historical	JJ	CW	ADJ
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+subject	subject	JJ	CW	ADJ
+crawl	crawl	NN	CW	NOUN	ARGUMENT
+consulting	consult	VBG	CW	VERB
+public-speaking	public-speaking	JJ	CW	ADJ
+book-promoting	book-promoting	JJ	CW	ADJ
+rock	rock	NN	CW	NOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+bush	bush	JJ	CW	ADJ
+administration	administration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+good	good	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+big	big	JJ	CW	ADJ
+a	a	DT	FW
+whopping	whopping	JJ	CW	ADJ
+144	144	CD	FW
+square	square	JJ	CW	ADJ
+foot	foot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+make	make	VB	FW	aux_or_cop
+strongest	strongest	JJS	CW	ADJ
+argument	argument	NN	CW	NOUN	ARGUMENT
+return	return	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+endowment	endowment	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+four	four	CD	FW
+statesman	statesman	NN	CW	NOUN	ARGUMENT
+depict	depict	VB	CW	VERB
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+favorite	favorite	JJ	CW	ADJ
+70	70	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+political	political	JJ	CW	ADJ
+hack	hack	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gerald	gerald	JJ	CW	ADJ
+ford	ford	NN	CW	NOUN	ARGUMENT
+valery	valery	NN	CW	NOUN	ARGUMENT
+giscard	giscard	NN	CW	NOUN	ARGUMENT
+estaing	estaing	NN	CW	NOUN	ARGUMENT
+jame	jame	NN	CW	NOUN	ARGUMENT
+callaghan	callaghan	JJ	CW	ADJ
+helmut	helmut	JJ	CW	ADJ
+schmidt	schmidt	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+karen	karen	VBN	CW	VERB
+finley	finley	JJ	CW	ADJ
+piss	piss	NN	CW	NOUN	ARGUMENT
+christ	christ	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+please	please	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,298 @@
+word	lemma	POS	CW\FW	other categories
+press	press	NN	CW	NOUN	ARGUMENT
+bear	bear	NN	CW	NOUN	ARGUMENT
+heavy	heavy	JJ	CW	ADJ
+burden	burden	NN	CW	NOUN	ARGUMENT
+responsibility	responsibility	NN	CW	NOUN	ARGUMENT
+crisis	crisis	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+engulf	engulf	VBP	CW	VERB
+white	white	JJ	CW	ADJ
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+imperative	imperative	JJ	CW	ADJ
+not	not	RB	ADV	CW
+get	get	VB	CW	VERB
+ahead	ahead	RB	ADV	FW
+avoid	avoid	VB	CW	VERB
+speculative	speculative	JJ	CW	ADJ
+rush	rush	NN	CW	NOUN	ARGUMENT
+judgment	judgment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hell	hell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+let	let	VB	CW	VERB
+speculate	speculate	VB	CW	VERB
+
+sentence break
+
+suppose	suppose	VB	CW	VERB
+clinton	clinton	NNP	CW	NOUN	ARGUMENT
+resign	resign	VB	CW	VERB
+week	week	NN	CW	NOUN	ARGUMENT
+gore	gore	VB	CW	VERB
+become	become	VBN	CW	VERB
+president	president	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+chatterbox	chatterbox	NN	CW	NOUN	ARGUMENT
+read	read	VBD	CW	VERB
+22	22	CD	FW
+nd	nd	NN	CW	NOUN	ARGUMENT
+amendment	amendment	NN	CW	NOUN	ARGUMENT
+constitution	constitution	NN	CW	NOUN	ARGUMENT
+correctly	correctly	RB	ADV	CW
+mean	mean	VB	CW	VERB
+gore	gore	VB	CW	VERB
+only	only	RB	ADV	CW
+run	run	VBP	CW	VERB
+presidency	presidency	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+2000	2000	CD	FW
+
+sentence break
+
+22	22	CD	FW
+nd	nd	NN	CW	NOUN	ARGUMENT
+amendment	amendment	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+only	only	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+elect	elect	VB	CW	VERB
+president	president	NN	CW	NOUN	ARGUMENT
+twice	twice	RB	ADV	CW
+serve	serve	VBP	CW	VERB
+more	more	RBR	ADV	CW
+two	two	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+term	term	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+elect	elect	VB	CW	VERB
+only	only	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+elect	elect	VB	CW	VERB
+once	once	RB	ADV	CW
+
+sentence break
+
+gore	gore	VB	CW	VERB
+want	want	VB	CW	VERB
+maximize	maximize	VB	CW	VERB
+potential	potential	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+presidency	presidency	NN	CW	NOUN	ARGUMENT
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+hang	hang	VBP	CW	VERB
+least	least	JJS	CW	ADJ
+january	january	NNP	CW	NOUN	ARGUMENT
+21	21	CD	FW
+1999	1999	CD	FW
+gore	gore	VBP	CW	VERB
+serve	serve	VB	CW	VERB
+less	less	JJR	CW	ADJ
+two	two	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+term	term	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+two	two	CD	FW
+full	full	JJ	CW	ADJ
+term	term	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+
+sentence break
+
+course	course	NN	CW	NOUN	ARGUMENT
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+drag	drag	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+quit	quit	VBD	CW	VERB
+probably	probably	RB	ADV	CW
+be	be	VB	CW	VERB
+so	so	RB	ADV	CW
+unpopular	unpopular	JJ	CW	ADJ
+pull	pull	NN	CW	NOUN	ARGUMENT
+gore	gore	VB	CW	VERB
+down	down	RB	ADV	CW
+
+sentence break
+
+deprive	deprive	VB	CW	VERB
+gore	gore	VB	CW	VERB
+crucial	crucial	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+own	own	JJ	CW	ADJ
+record	record	NN	CW	NOUN	ARGUMENT
+accomplishment	accomplishment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+memo	memo	NN	CW	NOUN	ARGUMENT
+martin	martin	NN	CW	NOUN	ARGUMENT
+peretz	peretz	NN	CW	NOUN	ARGUMENT
+owner	owner	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+republic	republic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+enthusiastically	enthusiastically	RB	ADV	FW
+support	support	VBP	CW	VERB
+ambition	ambition	NN	CW	NOUN	ARGUMENT
+gore	gore	VB	CW	VERB
+former	former	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+you	you	PRP	FW	PRONOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+say	say	VB	CW	VERB
+confidently	confidently	RB	ADV	CW
+intend	intend	VBP	CW	VERB
+own	own	JJ	CW	ADJ
+magazine	magazine	NN	CW	NOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+gore	gore	VB	CW	VERB
+second	second	JJ	CW	ADJ
+term	term	NN	CW	NOUN	ARGUMENT
+president	president	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+sack	sack	NN	CW	NOUN	ARGUMENT
+magazine	magazine	NN	CW	NOUN	ARGUMENT
+editor	editor	NN	CW	NOUN	ARGUMENT
+michael	michael	NN	CW	NOUN	ARGUMENT
+kelly	kelly	RB	ADV	FW
+least	least	JJS	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+obsessive	obsessive	JJ	CW	ADJ
+term	term	NN	CW	NOUN	ARGUMENT
+attack	attack	NN	CW	NOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+administration	administration	NN	CW	NOUN	ARGUMENT
+kelly	kelly	RB	ADV	FW
+
+sentence break
+
+put	put	VBN	CW	VERB
+
+sentence break
+
+fail	fail	VB	CW	VERB
+completely	completely	RB	ADV	CW
+appreciate	appreciate	VB	CW	VERB
+gore	gore	VB	CW	VERB
+virtue	virtue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+be	be	VB	CW	VERB
+read	read	VBN	CW	VERB
+22	22	CD	FW
+nd	nd	NN	CW	NOUN	ARGUMENT
+amendment	amendment	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+now	now	RB	ADV	CW
+be	be	VB	CW	VERB
+tempting	tempting	JJ	CW	ADJ
+use	use	NN	CW	NOUN	ARGUMENT
+magazine	magazine	NN	CW	NOUN	ARGUMENT
+least	least	JJS	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+prop	prop	VB	CW	VERB
+clinton	clinton	NNS	CW	NOUN	ARGUMENT
+up	up	IN	FW
+two-year	two-year	JJ	CW	ADJ
+deadline	deadline	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+past	past	JJ	CW	ADJ
+gore	gore	VB	CW	VERB
+run	run	VB	CW	VERB
+twice	twice	RB	ADV	CW
+
+sentence break
+
+above	above	IN	FW
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+correct	correct	JJ	CW	ADJ
+last	last	JJ	CW	ADJ
+thing	thing	NN	CW	NOUN	ARGUMENT
+gore	gore	VBP	CW	VERB
+need	need	MD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+clinton	clinton	JJ	CW	ADJ
+dangle	dangle	JJ	CW	ADJ
+injure	injure	NN	CW	NOUN	ARGUMENT
+nixon-like	nixon-like	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+
+sentence break
+
+need	need	VB	CW	VERB
+get	get	VB	CW	VERB
+rid	rid	JJ	CW	ADJ
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+even	even	RB	ADV	CW
+mean	mean	VB	CW	VERB
+gore	gore	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+one-and-a-half-term	one-and-a-half-term	JJ	CW	ADJ
+president	president	NN	CW	NOUN	ARGUMENT
+best	best	JJS	CW	ADJ
+
+sentence break
+
+obvious	obvious	JJ	CW	ADJ
+solution	solution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bring	bring	VB	CW	VERB
+back	back	RP	FW
+kelly	kelly	RB	ADV	FW
+
+sentence break
+
+go	go	VB	FW	aux_or_cop
+kill	kill	VB	CW	VERB
+
+sentence break
+
+anyway	anyway	RB	ADV	CW
+retrospect	retrospect	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+kelly	kelly	RB	ADV	FW
+obsessive	obsessive	JJ	CW	ADJ
+anti-	anti-	JJ	CW	ADJ
+clintonism	clintonism	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+wee	wee	JJ	CW	ADJ
+bit	bit	NN	CW	NOUN	ARGUMENT
+vindicate	vindicate	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

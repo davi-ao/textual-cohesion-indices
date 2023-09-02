@@ -1,0 +1,142 @@
+word	lemma	POS	CW\FW	other categories
+young	young	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+ever-changing	ever-changing	JJ	CW	ADJ
+society	society	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+contributor	contributor	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+past	past	JJ	CW	ADJ
+appeal	appeal	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+aware	aware	JJ	CW	ADJ
+mission	mission	NN	CW	NOUN	ARGUMENT
+to	to	TO	FW
+prepare	prepare	VB	CW	VERB
+girl	girl	NN	CW	NOUN	ARGUMENT
+ethical	ethical	JJ	CW	ADJ
+value	value	NN	CW	NOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+desire	desire	NN	CW	NOUN	ARGUMENT
+succeed	succeed	VB	CW	VERB
+commitment	commitment	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+letter	letter	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+1997	1997	CD	FW
+request	request	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+~	~	NN	CW	NOUN	ARGUMENT
+gift	gift	NN	CW	NOUN	ARGUMENT
+annual	annual	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+operate	operate	VBP	CW	VERB
+budget	budget	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+annual	annual	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+65	65	CD	FW
+000	000	CD	FW
+
+sentence break
+
+invite	invite	VB	CW	VERB
+consider	consider	VB	CW	VERB
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gift	gift	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+receive	receive	VBP	CW	VERB
+provide	provide	VBP	CW	VERB
+vital	vital	JJ	CW	ADJ
+resource	resource	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+tomorrow	tomorrow	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+business	business	NN	CW	NOUN	ARGUMENT
+leader	leader	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+investment	investment	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scouting	scout	VBG	CW	VERB
+be	be	VB	FW	aux_or_cop
+one	one	CD	FW
+pay	pay	NN	CW	NOUN	ARGUMENT
+dividend	dividend	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+community	community	NN	CW	NOUN	ARGUMENT
+workforce	workforce	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+recent	recent	JJ	CW	ADJ
+lou	lou	NN	CW	NOUN	ARGUMENT
+harri	harrus	NN	CW	NOUN	ARGUMENT
+poll	poll	NN	CW	NOUN	ARGUMENT
+indicate	indicate	VBP	CW	VERB
+66	66	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+female	female	JJ	CW	ADJ
+business	business	NN	CW	NOUN	ARGUMENT
+leader	leader	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+background	background	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+take	take	VB	CW	VERB
+step	step	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+difference	difference	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+young	young	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+recommit	recommit	VBP	CW	VERB
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+vision	vision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+investment	investment	NN	CW	NOUN	ARGUMENT
+annual	annual	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sure	sure	JJ	CW	ADJ
+yield	yield	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+returns	return	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

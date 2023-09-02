@@ -1,0 +1,4067 @@
+word	lemma	POS	CW\FW	other categories
+french	french	JJ	CW	ADJ
+have	have	VBP	FW	aux_or_cop
+alway	alway	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+know	know	VB	CW	VERB
+mean	mean	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+frenchman	frenchman	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+history	history	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+constant	constant	JJ	CW	ADJ
+quest	quest	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+identity	identity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+strong	strong	JJ	CW	ADJ
+regional	regional	JJ	CW	ADJ
+loyalty	loyalty	NN	CW	NOUN	ARGUMENT
+central	central	JJ	CW	ADJ
+authority	authority	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+2000	2000	CD	FW
+celtic	celtic	JJ	CW	ADJ
+tribe	tribe	NN	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+eastern	eastern	JJ	CW	ADJ
+europe	europe	NN	CW	NOUN	ARGUMENT
+come	come	VB	CW	VERB
+look	look	NN	CW	NOUN	ARGUMENT
+greener	greener	JJR	CW	ADJ
+pasture	pasture	NN	CW	NOUN	ARGUMENT
+area	area	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+now	now	RB	ADV	CW
+franche	franche	VBP	CW	VERB
+encoding error!
+alsace	alsace	NN	CW	NOUN	ARGUMENT
+burgundy	burgundy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+migrant	migrant	JJ	CW	ADJ
+mediterranean	mediterranean	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+trickle	trickle	VB	CW	VERB
+south	south	RB	ADV	CW
+
+sentence break
+
+first	first	RB	ADV	CW
+record	record	NN	CW	NOUN	ARGUMENT
+settlement	settlement	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+trading	trade	VBG	CW	VERB
+post	post	NN	CW	NOUN	ARGUMENT
+set	set	VBD	CW	VERB
+phocaean	phocaean	JJ	CW	ADJ
+greek	greek	JJ	CW	ADJ
+asium	asium	NN	CW	NOUN	ARGUMENT
+minor	minor	JJ	CW	ADJ
+massalium	massalium	NN	CW	NOUN	ARGUMENT
+marseilles	marseille	NNS	CW	NOUN	ARGUMENT
+600	600	CD	FW
+follow	follow	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+port	port	NN	CW	NOUN	ARGUMENT
+encoding error!
+antibe	antibe	JJ	CW	ADJ
+nice	nice	JJ	CW	ADJ
+
+sentence break
+
+greek	greek	JJ	CW	ADJ
+develop	develop	VB	CW	VERB
+few	few	JJ	CW	ADJ
+contact	contact	NN	CW	NOUN	ARGUMENT
+interior	interior	NN	CW	NOUN	ARGUMENT
+little	little	JJ	CW	ADJ
+commerce	commerce	NN	CW	NOUN	ARGUMENT
+olive	olive	NN	CW	NOUN	ARGUMENT
+wine	wine	NN	CW	NOUN	ARGUMENT
+celt	celt	NN	CW	NOUN	ARGUMENT
+burgundy	burgundy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+position	position	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+threaten	threaten	VB	CW	VERB
+ligurian	ligurian	JJ	CW	ADJ
+pirate	pirate	JJ	CW	ADJ
+sea	sea	NN	CW	NOUN	ARGUMENT
+warlike	warlike	JJ	CW	ADJ
+tribe	tribe	NN	CW	NOUN	ARGUMENT
+inland	inland	RB	ADV	FW
+merchant	merchant	NN	CW	NOUN	ARGUMENT
+marseille	marseille	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+rome	rome	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+125	125	CD	FW
+roman	roman	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+force	force	NN	CW	NOUN	ARGUMENT
+conquered	conquer	VBD	CW	VERB
+gallic	gallic	JJ	CW	ADJ
+barbarian	barbarian	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+fortress	fortress	NN	CW	NOUN	ARGUMENT
+aqua	aqua	NN	CW	NOUN	ARGUMENT
+sextia	sextium	NN	CW	NOUN	ARGUMENT
+aix-en	aix-en	NN	CW	NOUN	ARGUMENT
+provence	provence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+take	take	VB	CW	VERB
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+stronghold	stronghold	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+provincium	provincium	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+provence	provence	NN	CW	NOUN	ARGUMENT
+stretch	stretch	NN	CW	NOUN	ARGUMENT
+alp	alp	NN	CW	NOUN	ARGUMENT
+encoding error!
+order	order	NN	CW	NOUN	ARGUMENT
+guarantee	guarantee	NN	CW	NOUN	ARGUMENT
+communication	communication	NN	CW	NOUN	ARGUMENT
+italy	italy	RB	ADV	CW
+spain	spain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+province	province	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+endanger	endanger	VB	CW	VERB
+fresh	fresh	JJ	CW	ADJ
+attack	attack	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+julius	julius	VBZ	CW	VERB
+caesar	caesar	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+charge	charge	NN	CW	NOUN	ARGUMENT
+conquer	conquer	VB	CW	VERB
+practically	practically	RB	ADV	CW
+whole	whole	JJ	CW	ADJ
+gaul	gaul	NN	CW	NOUN	ARGUMENT
+50	50	CD	FW
+caesar	caesar	NN	CW	NOUN	ARGUMENT
+draw	draw	NN	CW	NOUN	ARGUMENT
+gaul	gaul	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+northeastern	northeastern	JJ	CW	ADJ
+frontier	frontier	NN	CW	NOUN	ARGUMENT
+rhine	rhine	NN	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+present-day	present-day	JJ	CW	ADJ
+belgium	belgium	NN	CW	NOUN	ARGUMENT
+warn	warn	VBP	CW	VERB
+germanic	germanic	JJ	CW	ADJ
+tribe	tribe	NN	CW	NOUN	ARGUMENT
+river	river	NN	CW	NOUN	ARGUMENT
+frank	frank	JJ	CW	ADJ
+france	france	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+name	name	NN	CW	NOUN	ARGUMENT
+alaman	alaman	JJ	CW	ADJ
+saxon	saxon	NN	CW	NOUN	ARGUMENT
+alway	alway	NN	CW	NOUN	ARGUMENT
+threaten	threaten	VBP	CW	VERB
+security	security	NN	CW	NOUN	ARGUMENT
+frontier	frontier	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+romanization	romanization	NN	CW	NOUN	ARGUMENT
+gaul	gaul	NN	CW	NOUN	ARGUMENT
+send	send	VBP	CW	VERB
+most	most	RBS	ADV	CW
+energetic	energetic	JJ	CW	ADJ
+warrior	warrior	NN	CW	NOUN	ARGUMENT
+defend	defend	VBP	CW	VERB
+outpost	outpost	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+settle	settle	VB	CW	VERB
+down	down	RP	FW
+work	work	NN	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+town	town	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+lyon	lyon	NN	CW	NOUN	ARGUMENT
+orange	orange	NN	CW	NOUN	ARGUMENT
+arle	arle	JJ	CW	ADJ
+encoding error!
+first	first	RB	ADV	CW
+great	great	JJ	CW	ADJ
+highway	highway	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+merchant	merchant	NN	CW	NOUN	ARGUMENT
+build	build	VBP	CW	VERB
+thrive	thrive	VBP	CW	VERB
+trade	trade	NN	CW	NOUN	ARGUMENT
+rest	rest	NN	CW	NOUN	ARGUMENT
+roman	roman	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+peasantry	peasantry	NN	CW	NOUN	ARGUMENT
+bourgeoisie	bourgeoisie	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+thus	thus	RB	ADV	FW
+establish	establish	VB	CW	VERB
+
+sentence break
+
+christianity	christianity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+introduce	introduce	VB	CW	VERB
+gaul	gaul	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+really	really	RB	ADV	CW
+accept	accept	VB	CW	VERB
+late	late	JJ	CW	ADJ
+fourth	fourth	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+empire	empire	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+official	official	JJ	CW	ADJ
+religion	religion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+large-scale	large-scale	JJ	CW	ADJ
+conversion	conversion	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+lead	lead	JJ	CW	ADJ
+martin	martin	NN	CW	NOUN	ARGUMENT
+tour	tour	NN	CW	NOUN	ARGUMENT
+soldier	soldier	NN	CW	NOUN	ARGUMENT
+turn	turn	NN	CW	NOUN	ARGUMENT
+cleric	cleric	JJ	CW	ADJ
+
+sentence break
+
+sword	sword	NN	CW	NOUN	ARGUMENT
+cross	cross	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+form	form	NN	CW	NOUN	ARGUMENT
+regular	regular	JJ	CW	ADJ
+alliance	alliance	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+religion	religion	NN	CW	NOUN	ARGUMENT
+soon	soon	RB	ADV	CW
+cement	cement	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+solidarity	solidarity	NN	CW	NOUN	ARGUMENT
+face	face	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+barbarian	barbarian	JJ	CW	ADJ
+invasion	invasion	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+frank	frank	JJ	CW	ADJ
+
+sentence break
+
+gallic	gallic	JJ	CW	ADJ
+unity	unity	NN	CW	NOUN	ARGUMENT
+collapse	collapse	NN	CW	NOUN	ARGUMENT
+crumble	crumble	VBP	CW	VERB
+roman	roman	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+king	king	NN	CW	NOUN	ARGUMENT
+clovi	clovus	NNS	CW	NOUN	ARGUMENT
+leader	leader	NN	CW	NOUN	ARGUMENT
+frank	frank	JJ	CW	ADJ
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+roman	roman	NN	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+soissons	soisson	NNS	CW	NOUN	ARGUMENT
+486	486	CD	FW
+win	win	VBP	CW	VERB
+allegiance	allegiance	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+gallo	gallo	JJ	CW	ADJ
+roman	roman	NN	CW	NOUN	ARGUMENT
+convert	convert	VBP	CW	VERB
+christianity	christianity	NN	CW	NOUN	ARGUMENT
+ten	ten	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+
+sentence break
+
+pari	pari	JJ	CW	ADJ
+capital	capital	NN	CW	NOUN	ARGUMENT
+extend	extend	VBP	CW	VERB
+rule	rule	NN	CW	NOUN	ARGUMENT
+mediterranean	mediterranean	JJ	CW	ADJ
+
+sentence break
+
+realm	realm	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+divide	divide	NN	CW	NOUN	ARGUMENT
+heir	heir	NN	CW	NOUN	ARGUMENT
+progressively	progressively	RB	ADV	CW
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+rivalry	rivalry	NN	CW	NOUN	ARGUMENT
+merovingian	merovingian	JJ	CW	ADJ
+dynasty	dynasty	NN	CW	NOUN	ARGUMENT
+battle	battle	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+300	300	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fragmentation	fragmentation	NN	CW	NOUN	ARGUMENT
+frank	frank	JJ	CW	ADJ
+deeply	deeply	RB	ADV	CW
+impact	impact	NN	CW	NOUN	ARGUMENT
+cultural	cultural	JJ	CW	ADJ
+linguistic	linguistic	JJ	CW	ADJ
+heritage	heritage	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+germanic	germanic	JJ	CW	ADJ
+tradition	tradition	NN	CW	NOUN	ARGUMENT
+language	language	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+become	become	VBP	CW	VERB
+distinct	distinct	JJ	CW	ADJ
+gallo	gallo	NN	CW	NOUN	ARGUMENT
+roman	roman	NN	CW	NOUN	ARGUMENT
+tradition	tradition	NN	CW	NOUN	ARGUMENT
+longer	longer	RBR	ADV	CW
+preserve	preserve	VB	CW	VERB
+mediterranean	mediterranean	JJ	CW	ADJ
+basin	basin	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+spain	spain	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+arab	arab	JJ	CW	ADJ
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+exploit	exploit	VBP	CW	VERB
+disunity	disunity	NN	CW	NOUN	ARGUMENT
+sweep	sweep	NN	CW	NOUN	ARGUMENT
+north	north	NN	CW	NOUN	ARGUMENT
+gaul	gaul	NN	CW	NOUN	ARGUMENT
+controll	controll	NN	CW	NOUN	ARGUMENT
+languedoc	languedoc	NN	CW	NOUN	ARGUMENT
+dordogne	dordogne	NN	CW	NOUN	ARGUMENT
+large	large	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+provence	provence	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+poitier	poitier	NN	CW	NOUN	ARGUMENT
+732	732	CD	FW
+army	army	NN	CW	NOUN	ARGUMENT
+charle	charle	NN	CW	NOUN	ARGUMENT
+martel	martel	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+mighty	mighty	JJ	CW	ADJ
+charlemagne	charlemagne	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+frank	frank	JJ	CW	ADJ
+768	768	CD	FW
+814	814	CD	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+manage	manage	VB	CW	VERB
+create	create	VB	CW	VERB
+endure	endure	VB	CW	VERB
+national	national	JJ	CW	ADJ
+unity	unity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+son	son	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+spoils	spoil	NNS	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+norman	norman	NN	CW	NOUN	ARGUMENT
+scandinavia	scandinavium	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+advantage	advantage	NN	CW	NOUN	ARGUMENT
+carolingian	carolingian	JJ	CW	ADJ
+dynasty	dynasty	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+divide	divide	VBP	CW	VERB
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+pillage	pillage	NN	CW	NOUN	ARGUMENT
+way	way	NN	CW	NOUN	ARGUMENT
+inland	inland	RB	ADV	FW
+loire	loire	VBD	CW	VERB
+seine	seine	NN	CW	NOUN	ARGUMENT
+plunder	plunder	NN	CW	NOUN	ARGUMENT
+pari	parus	NN	CW	NOUN	ARGUMENT
+845	845	CD	FW
+
+sentence break
+
+addition	addition	NN	CW	NOUN	ARGUMENT
+saracen	saracen	NN	CW	NOUN	ARGUMENT
+invade	invade	VB	CW	VERB
+encoding error!
+coast	coast	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+africa	africa	JJ	CW	ADJ
+magyar	magyar	NN	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+attack	attack	NN	CW	NOUN	ARGUMENT
+lorraine	lorraine	NN	CW	NOUN	ARGUMENT
+burgundy	burgundy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+keep	keep	VB	CW	VERB
+support	support	NN	CW	NOUN	ARGUMENT
+noble	noble	JJ	CW	ADJ
+army	army	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+give	give	VB	CW	VERB
+noble	noble	JJ	CW	ADJ
+more	more	RBR	ADV	CW
+more	more	RBR	ADV	CW
+land	land	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+consequently	consequently	RB	ADV	CW
+realm	realm	NN	CW	NOUN	ARGUMENT
+break	break	VB	CW	VERB
+up	up	RP	FW
+fiefdom	fiefdom	NN	CW	NOUN	ARGUMENT
+feudal	feudal	JJ	CW	ADJ
+middle	middle	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+precursor	precursor	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+classical	classical	JJ	CW	ADJ
+provinces	province	NNS	CW	NOUN	ARGUMENT
+provence	provence	NN	CW	NOUN	ARGUMENT
+burgundy	burgundy	NN	CW	NOUN	ARGUMENT
+normandy	normandy	NN	CW	NOUN	ARGUMENT
+brittany	brittany	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+forth	forth	RB	ADV	FW
+
+sentence break
+
+central	central	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+loire	loire	NN	CW	NOUN	ARGUMENT
+valley	valley	NN	CW	NOUN	ARGUMENT
+belgium	belgium	NN	CW	NOUN	ARGUMENT
+hugue	hugue	JJ	CW	ADJ
+capet	capet	NN	CW	NOUN	ARGUMENT
+succeed	succeed	VB	CW	VERB
+achieve	achieve	VB	CW	VERB
+precarious	precarious	JJ	CW	ADJ
+ascendancy	ascendancy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+crown	crown	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+987	987	CD	FW
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+fall	fall	NN	CW	NOUN	ARGUMENT
+roman	roman	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+christian	christian	JJ	CW	ADJ
+church	church	NN	CW	NOUN	ARGUMENT
+provide	provide	VB	CW	VERB
+essential	essential	JJ	CW	ADJ
+element	element	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+unity	unity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hugue	hugue	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+anointed	anoint	VBN	CW	VERB
+reim	reim	NN	CW	NOUN	ARGUMENT
+oil	oil	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+earth	earth	NN	CW	NOUN	ARGUMENT
+angel	angel	NN	CW	NOUN	ARGUMENT
+thus	thus	RB	ADV	FW
+establish	establish	VB	CW	VERB
+kingship	kingship	NN	CW	NOUN	ARGUMENT
+divine	divine	JJ	CW	ADJ
+right	right	JJ	CW	ADJ
+french	french	JJ	CW	ADJ
+
+sentence break
+
+alliance	alliance	NN	CW	NOUN	ARGUMENT
+church	church	NN	CW	NOUN	ARGUMENT
+serve	serve	VB	CW	VERB
+underpin	underpin	VB	CW	VERB
+regal	regal	JJ	CW	ADJ
+authority	authority	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+exchange	exchange	NN	CW	NOUN	ARGUMENT
+anointment	anointment	NN	CW	NOUN	ARGUMENT
+church	church	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+enriched	enriched	JJ	CW	ADJ
+land	land	NN	CW	NOUN	ARGUMENT
+right	right	NN	CW	NOUN	ARGUMENT
+taxation	taxation	NN	CW	NOUN	ARGUMENT
+tithe	tithe	VBP	CW	VERB
+percentage	percentage	NN	CW	NOUN	ARGUMENT
+farmer	farmer	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+seasonal	seasonal	JJ	CW	ADJ
+produce	produce	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+more	more	RBR	ADV	CW
+sober	sober	JJ	CW	ADJ
+spirituality	spirituality	NN	CW	NOUN	ARGUMENT
+romanesque	romanesque	NN	CW	NOUN	ARGUMENT
+church	church	NN	CW	NOUN	ARGUMENT
+soar	soar	VB	CW	VERB
+gothic	gothic	JJ	CW	ADJ
+cathedral	cathedral	NN	CW	NOUN	ARGUMENT
+chartr	chartr	NN	CW	NOUN	ARGUMENT
+pari	parus	NN	CW	NOUN	ARGUMENT
+notre	notre	NN	CW	NOUN	ARGUMENT
+dame	dame	NN	CW	NOUN	ARGUMENT
+bourge	bourge	NN	CW	NOUN	ARGUMENT
+amien	amien	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+once	once	RB	ADV	CW
+monument	monument	NN	CW	NOUN	ARGUMENT
+glory	glory	NN	CW	NOUN	ARGUMENT
+god	god	NN	CW	NOUN	ARGUMENT
+testimony	testimony	NN	CW	NOUN	ARGUMENT
+sheer	sheer	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+spiritual	spiritual	JJ	CW	ADJ
+temporal	temporal	JJ	CW	ADJ
+roman	roman	NN	CW	NOUN	ARGUMENT
+catholic	catholic	JJ	CW	ADJ
+church	church	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+france	france	NN	CW	NOUN	ARGUMENT
+dub	dub	NN	CW	NOUN	ARGUMENT
+pope	pope	NN	CW	NOUN	ARGUMENT
+eldest	eldest	JJ	CW	ADJ
+daughter	daughter	NN	CW	NOUN	ARGUMENT
+church	church	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+lead	lead	JJ	CW	ADJ
+crusade	crusade	NN	CW	NOUN	ARGUMENT
+infidel	infidel	NN	CW	NOUN	ARGUMENT
+palestine	palestine	NN	CW	NOUN	ARGUMENT
+stop	stop	VB	CW	VERB
+way	way	NN	CW	NOUN	ARGUMENT
+europe	europe	JJ	CW	ADJ
+massacre	massacre	NN	CW	NOUN	ARGUMENT
+heretic	heretic	JJ	CW	ADJ
+infidel	infidel	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+loui	louus	NN	CW	NOUN	ARGUMENT
+ix	ix	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+ideal	ideal	JJ	CW	ADJ
+christian	christian	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+hand	hand	NN	CW	NOUN	ARGUMENT
+down	down	RB	ADV	CW
+subject	subject	JJ	CW	ADJ
+crusade	crusade	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+holy	holy	JJ	CW	ADJ
+land	land	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sainted	sainted	JJ	CW	ADJ
+death	death	NN	CW	NOUN	ARGUMENT
+tuni	tunus	NNS	CW	NOUN	ARGUMENT
+1270	1270	CD	FW
+
+sentence break
+
+1309	1309	CD	FW
+1377	1377	CD	FW
+avignon	avignon	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+papal	papal	JJ	CW	ADJ
+seat	seat	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+france	france	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+major	major	JJ	CW	ADJ
+preoccupation	preoccupation	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+england	england	VBN	CW	VERB
+
+sentence break
+
+1066	1066	CD	FW
+duc	duc	NN	CW	NOUN	ARGUMENT
+guillaume	guillaume	NN	CW	NOUN	ARGUMENT
+normandy	normandy	NN	CW	NOUN	ARGUMENT
+cross	cross	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+channel	channel	NN	CW	NOUN	ARGUMENT
+successful	successful	JJ	CW	ADJ
+military	military	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+william	william	NN	CW	NOUN	ARGUMENT
+conqueror	conqueror	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+next	next	JJ	CW	ADJ
+400	400	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+french	french	JJ	CW	ADJ
+monarch	monarch	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+sovereignty	sovereignty	NN	CW	NOUN	ARGUMENT
+various	various	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+aquitaine	aquitaine	NN	CW	NOUN	ARGUMENT
+touraine	touraine	NN	CW	NOUN	ARGUMENT
+normandy	normandy	NN	CW	NOUN	ARGUMENT
+flander	flander	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+france	france	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+ensue	ensue	VBP	CW	VERB
+tangle	tangle	NN	CW	NOUN	ARGUMENT
+marital	marital	JJ	CW	ADJ
+alliance	alliance	NN	CW	NOUN	ARGUMENT
+military	military	JJ	CW	ADJ
+clash	clash	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+national	national	JJ	CW	ADJ
+morale	morale	NN	CW	NOUN	ARGUMENT
+resolve	resolve	NN	CW	NOUN	ARGUMENT
+perennial	perennial	JJ	CW	ADJ
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+bouvine	bouvine	JJ	CW	ADJ
+1214	1214	CD	FW
+victory	victory	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+encoding error!
+1346	1346	CD	FW
+agincourt	agincourt	NN	CW	NOUN	ARGUMENT
+1415	1415	CD	FW
+english	english	JJ	CW	ADJ
+
+sentence break
+
+finally	finally	RB	ADV	CW
+teenager	teenager	NN	CW	NOUN	ARGUMENT
+lorraine	lorraine	NN	CW	NOUN	ARGUMENT
+jeanne	jeanne	NN	CW	NOUN	ARGUMENT
+arc	arc	NN	CW	NOUN	ARGUMENT
+joan	joan	NN	CW	NOUN	ARGUMENT
+arc	arc	NN	CW	NOUN	ARGUMENT
+roused	rouse	VBD	CW	VERB
+french	french	JJ	CW	ADJ
+resist	resist	VBP	CW	VERB
+english	english	JJ	CW	ADJ
+encoding error!
+
+sentence break
+
+english	english	JJ	CW	ADJ
+capture	capture	NN	CW	NOUN	ARGUMENT
+burn	burn	VBP	CW	VERB
+stake	stake	NN	CW	NOUN	ARGUMENT
+rouen	rouen	NN	CW	NOUN	ARGUMENT
+1431	1431	CD	FW
+martyrdom	martyrdom	NN	CW	NOUN	ARGUMENT
+stir	stir	VBP	CW	VERB
+national	national	JJ	CW	ADJ
+pride	pride	NN	CW	NOUN	ARGUMENT
+sufficiently	sufficiently	RB	ADV	CW
+oust	oust	VBP	CW	VERB
+english	english	JJ	CW	ADJ
+france	france	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+
+sentence break
+
+dispute	dispute	NN	CW	NOUN	ARGUMENT
+noble	noble	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+first	first	JJ	CW	ADJ
+concern	concern	NN	CW	NOUN	ARGUMENT
+ordinary	ordinary	JJ	CW	ADJ
+french	french	JJ	CW	ADJ
+citizen	citizen	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+common	common	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+just	just	RB	ADV	CW
+hardship	hardship	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+son	son	NN	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+farm	farm	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+much	much	JJ	CW	ADJ
+foreign	foreign	JJ	CW	ADJ
+ravage	ravage	VBP	CW	VERB
+land	land	NN	CW	NOUN	ARGUMENT
+pillaged	pillage	VBD	CW	VERB
+town	town	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+war	war	NN	CW	NOUN	ARGUMENT
+peace	peace	NN	CW	NOUN	ARGUMENT
+alike	alike	RB	ADV	FW
+feudal	feudal	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+church	church	NN	CW	NOUN	ARGUMENT
+aristocracy	aristocracy	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+claim	claim	NN	CW	NOUN	ARGUMENT
+respective	respective	JJ	CW	ADJ
+portion	portion	NN	CW	NOUN	ARGUMENT
+peasant	peasant	NN	CW	NOUN	ARGUMENT
+labor	labor	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+barely	barely	RB	ADV	CW
+enough	enough	JJ	CW	ADJ
+subsistence	subsistence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+too	too	RB	ADV	CW
+frequently	frequently	RB	ADV	CW
+cycle	cycle	NN	CW	NOUN	ARGUMENT
+drought	drought	NN	CW	NOUN	ARGUMENT
+famine	famine	NN	CW	NOUN	ARGUMENT
+plague	plague	VB	CW	VERB
+decimate	decimate	VB	CW	VERB
+population	population	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+case	case	NN	CW	NOUN	ARGUMENT
+large	large	JJ	CW	ADJ
+portion	portion	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+independently	independently	RB	ADV	CW
+controll	controll	JJ	CW	ADJ
+powerful	powerful	JJ	CW	ADJ
+duke	duke	NN	CW	NOUN	ARGUMENT
+allegiance	allegiance	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+nominal	nominal	JJ	CW	ADJ
+
+sentence break
+
+modern	modern	JJ	CW	ADJ
+unity	unity	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+
+sentence break
+
+absolute	absolute	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+dominant	dominant	JJ	CW	ADJ
+feature	feature	NN	CW	NOUN	ARGUMENT
+post	post	NN	CW	NOUN	ARGUMENT
+revolutionary	revolutionary	JJ	CW	ADJ
+france	france	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+ancien	ancien	NN	CW	NOUN	ARGUMENT
+encoding error!
+
+sentence break
+
+monarchy	monarchy	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+noticeable	noticeable	JJ	CW	ADJ
+gain	gain	NN	CW	NOUN	ARGUMENT
+encoding error!
+1515	1515	CD	FW
+47	47	CD	FW
+
+sentence break
+
+strengthen	strengthen	VB	CW	VERB
+central	central	JJ	CW	ADJ
+administration	administration	NN	CW	NOUN	ARGUMENT
+abandon	abandon	VB	CW	VERB
+initially	initially	RB	ADV	CW
+tolerant	tolerant	JJ	CW	ADJ
+policy	policy	NN	CW	NOUN	ARGUMENT
+protestant	protestant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+debonair	debonair	JJ	CW	ADJ
+renaissance	renaissance	NN	CW	NOUN	ARGUMENT
+prince	prince	NN	CW	NOUN	ARGUMENT
+patron	patron	NN	CW	NOUN	ARGUMENT
+art	art	NN	CW	NOUN	ARGUMENT
+introduce	introduce	VB	CW	VERB
+grandiose	grandiose	JJ	CW	ADJ
+style	style	NN	CW	NOUN	ARGUMENT
+court	court	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+encoding error!
+bring	bring	VBP	CW	VERB
+leonardo	leonardo	NN	CW	NOUN	ARGUMENT
+da	da	NN	CW	NOUN	ARGUMENT
+vincus	vincus	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+bloi	blous	NN	CW	NOUN	ARGUMENT
+rosso	rosso	NN	CW	NOUN	ARGUMENT
+primaticcio	primaticcio	NN	CW	NOUN	ARGUMENT
+decorate	decorate	VB	CW	VERB
+fontainebleau	fontainebleau	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+commission	commission	NN	CW	NOUN	ARGUMENT
+painting	painting	NN	CW	NOUN	ARGUMENT
+raphael	raphael	NN	CW	NOUN	ARGUMENT
+titian	titian	JJ	CW	ADJ
+royal	royal	NN	CW	NOUN	ARGUMENT
+collection	collection	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+pride	pride	NN	CW	NOUN	ARGUMENT
+louvre	louvre	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+opulent	opulent	JJ	CW	ADJ
+architecture	architecture	NN	CW	NOUN	ARGUMENT
+blossom	blossom	NN	CW	NOUN	ARGUMENT
+encoding error!
+loire	loire	NN	CW	NOUN	ARGUMENT
+pari	parus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+foreign	foreign	JJ	CW	ADJ
+affair	affair	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+crush	crush	NN	CW	NOUN	ARGUMENT
+duke	duke	NN	CW	NOUN	ARGUMENT
+milan	milan	JJ	CW	ADJ
+s	s	NNS	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+marignano	marignano	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+showy	showy	JJ	CW	ADJ
+alliance	alliance	NN	CW	NOUN	ARGUMENT
+henry	henry	NN	CW	NOUN	ARGUMENT
+viius	viius	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+encoding error!
+s	s	NNS	CW	NOUN	ARGUMENT
+european	european	JJ	CW	ADJ
+ambition	ambition	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+halt	halt	NN	CW	NOUN	ARGUMENT
+german	german	JJ	CW	ADJ
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+charle	charle	NN	CW	NOUN	ARGUMENT
+v.	v.	CC	FW
+encoding error!
+even	even	RB	ADV	CW
+suffer	suffer	VBP	CW	VERB
+indignity	indignity	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+imprisonment	imprisonment	NN	CW	NOUN	ARGUMENT
+madrid	madrid	NN	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+resounding	resounding	JJ	CW	ADJ
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+pavium	pavium	NN	CW	NOUN	ARGUMENT
+1525	1525	CD	FW
+
+sentence break
+
+bloody	bloody	JJ	CW	ADJ
+16	16	CD	FW
+th-century	th-century	NN	CW	NOUN	ARGUMENT
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+catholic	catholic	JJ	CW	ADJ
+protestants	protestant	NNS	CW	NOUN	ARGUMENT
+europe	europe	VBP	CW	VERB
+center	center	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+political	political	JJ	CW	ADJ
+financial	financial	JJ	CW	ADJ
+intrigue	intrigue	NN	CW	NOUN	ARGUMENT
+question	question	NN	CW	NOUN	ARGUMENT
+theology	theology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+french	french	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+religion	religion	NN	CW	NOUN	ARGUMENT
+pit	pit	NN	CW	NOUN	ARGUMENT
+catholic	catholic	JJ	CW	ADJ
+force	force	NN	CW	NOUN	ARGUMENT
+regent	regent	NN	CW	NOUN	ARGUMENT
+catherine	catherine	NN	CW	NOUN	ARGUMENT
+encoding error!
+protestant	protestant	JJ	CW	ADJ
+huguenot	huguenot	JJ	CW	ADJ
+camp	camp	NN	CW	NOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+henrus	henrus	NN	CW	NOUN	ARGUMENT
+navarre	navarre	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+crisis	crisis	NN	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+24	24	CD	FW
+august	august	NNP	CW	NOUN	ARGUMENT
+1572	1572	CD	FW
+infamous	infamous	JJ	CW	ADJ
+saint	saint	NN	CW	NOUN	ARGUMENT
+bartholomew	bartholomew	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+day	day	NN	CW	NOUN	ARGUMENT
+massacre	massacre	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+two	two	CD	FW
+thousand	thousand	CD	FW
+protestant	protestant	JJ	CW	ADJ
+pari	parus	NN	CW	NOUN	ARGUMENT
+henrus	henrus	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+wedding	wedding	NN	CW	NOUN	ARGUMENT
+catherine	catherine	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+daughter	daughter	NN	CW	NOUN	ARGUMENT
+marguerite	marguerite	NN	CW	NOUN	ARGUMENT
+valoi	valous	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+kill	kill	VB	CW	VERB
+
+sentence break
+
+general	general	JJ	CW	ADJ
+massacre	massacre	NN	CW	NOUN	ARGUMENT
+protestant	protestant	JJ	CW	ADJ
+spread	spread	NN	CW	NOUN	ARGUMENT
+countryside	countryside	NN	CW	NOUN	ARGUMENT
+october	october	NNP	CW	NOUN	ARGUMENT
+30	30	CD	FW
+000	000	CD	FW
+have	have	VBP	FW	aux_or_cop
+lose	lose	VBP	CW	VERB
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+conciliatory	conciliatory	JJ	CW	ADJ
+policy	policy	NN	CW	NOUN	ARGUMENT
+painfully	painfully	RB	ADV	CW
+emerge	emerge	VBP	CW	VERB
+bloodshed	bloodshed	NN	CW	NOUN	ARGUMENT
+bring	bring	VB	CW	VERB
+protestant	protestant	JJ	CW	ADJ
+prince	prince	NN	CW	NOUN	ARGUMENT
+navarre	navarre	NN	CW	NOUN	ARGUMENT
+throne	throne	NN	CW	NOUN	ARGUMENT
+henrus	henrus	NN	CW	NOUN	ARGUMENT
+iv	iv	NN	CW	NOUN	ARGUMENT
+1589	1589	CD	FW
+1610	1610	CD	FW
+not	not	RB	ADV	CW
+promise	promise	NN	CW	NOUN	ARGUMENT
+convert	convert	VB	CW	VERB
+catholicism	catholicism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+enormous	enormous	JJ	CW	ADJ
+personal	personal	JJ	CW	ADJ
+popularity	popularity	NN	CW	NOUN	ARGUMENT
+good-natured	good-natured	JJ	CW	ADJ
+tough	tough	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+encoding error!
+prove	prove	VBP	CW	VERB
+vital	vital	JJ	CW	ADJ
+heal	heal	VBP	CW	VERB
+wound	wound	NN	CW	NOUN	ARGUMENT
+bitter	bitter	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+edict	edict	NN	CW	NOUN	ARGUMENT
+nant	nant	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sign	sign	NN	CW	NOUN	ARGUMENT
+1598	1598	CD	FW
+protect	protect	VBP	CW	VERB
+protestants	protestant	NNS	CW	NOUN	ARGUMENT
+five	five	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+jesuit	jesuit	VBD	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+allow	allow	VB	CW	VERB
+back	back	RP	FW
+france	france	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+henrus	henrus	NN	CW	NOUN	ARGUMENT
+maintain	maintain	VBP	CW	VERB
+reputation	reputation	NN	CW	NOUN	ARGUMENT
+worthy	worthy	JJ	CW	ADJ
+brave	brave	VBP	CW	VERB
+leader	leader	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+incorrigible	incorrigible	JJ	CW	ADJ
+womanizer	womanizer	NN	CW	NOUN	ARGUMENT
+assassination	assassination	NN	CW	NOUN	ARGUMENT
+1610	1610	CD	FW
+religious	religious	JJ	CW	ADJ
+zealot	zealot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+country	country	NN	CW	NOUN	ARGUMENT
+flounder	flounder	VB	CW	VERB
+uncertainty	uncertainty	NN	CW	NOUN	ARGUMENT
+regency	regency	NN	CW	NOUN	ARGUMENT
+marie	marie	NN	CW	NOUN	ARGUMENT
+encoding error!
+mother	mother	NN	CW	NOUN	ARGUMENT
+young	young	JJ	CW	ADJ
+loui	louus	NNS	CW	NOUN	ARGUMENT
+xiius	xiius	NN	CW	NOUN	ARGUMENT
+cardinal	cardinal	NN	CW	NOUN	ARGUMENT
+richelieu	richelieu	NN	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+charge	charge	NN	CW	NOUN	ARGUMENT
+prime	prime	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+1624	1624	CD	FW
+
+sentence break
+
+directing	direct	VBG	CW	VERB
+national	national	JJ	CW	ADJ
+policy	policy	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+1642	1642	CD	FW
+richelieu	richelieu	NN	CW	NOUN	ARGUMENT
+reasserted	reassert	VBN	CW	VERB
+authority	authority	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+conservative	conservative	JJ	CW	ADJ
+catholic	catholic	JJ	CW	ADJ
+surround	surround	VBP	CW	VERB
+queen	queen	NN	CW	NOUN	ARGUMENT
+mother	mother	NN	CW	NOUN	ARGUMENT
+protestant	protestant	JJ	CW	ADJ
+force	force	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fiercely	fiercely	RB	ADV	CW
+defend	defend	VB	CW	VERB
+privilege	privilege	NN	CW	NOUN	ARGUMENT
+grant	grant	NN	CW	NOUN	ARGUMENT
+edict	edict	NN	CW	NOUN	ARGUMENT
+nant	nant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+successful	successful	JJ	CW	ADJ
+siege	siege	NN	CW	NOUN	ARGUMENT
+protestant	protestant	JJ	CW	ADJ
+stronghold	stronghold	NN	CW	NOUN	ARGUMENT
+la	la	DT	FW
+rochelle	rochelle	NN	CW	NOUN	ARGUMENT
+cardinal	cardinal	NN	CW	NOUN	ARGUMENT
+neutralize	neutralize	VBP	CW	VERB
+threat	threat	NN	CW	NOUN	ARGUMENT
+military	military	JJ	CW	ADJ
+strength	strength	NN	CW	NOUN	ARGUMENT
+guarantee	guarantee	NN	CW	NOUN	ARGUMENT
+freedom	freedom	NN	CW	NOUN	ARGUMENT
+worship	worship	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+richelieu	richelieu	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+major	major	JJ	CW	ADJ
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+greater	greater	JJR	CW	ADJ
+centralization	centralization	NN	CW	NOUN	ARGUMENT
+royal	royal	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+lay	lay	VBD	CW	VERB
+foundation	foundation	NN	CW	NOUN	ARGUMENT
+strong	strong	JJ	CW	ADJ
+sense	sense	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+identity	identity	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+characterize	characterize	VBP	CW	VERB
+france	france	NN	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+
+sentence break
+
+tighten	tighten	VB	CW	VERB
+king	king	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+control	control	VBP	CW	VERB
+legislation	legislation	NN	CW	NOUN	ARGUMENT
+tax	tax	NN	CW	NOUN	ARGUMENT
+enrage	enrage	JJ	CW	ADJ
+vatican	vatican	NN	CW	NOUN	ARGUMENT
+daring	daring	JJ	CW	ADJ
+impose	impose	VB	CW	VERB
+new	new	JJ	CW	ADJ
+levy	levy	NN	CW	NOUN	ARGUMENT
+church	church	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+more	more	RBR	ADV	CW
+powerful	powerful	JJ	CW	ADJ
+royal	royal	JJ	CW	ADJ
+steward	steward	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+send	send	VB	CW	VERB
+diminish	diminish	VB	CW	VERB
+autonomy	autonomy	NN	CW	NOUN	ARGUMENT
+regional	regional	JJ	CW	ADJ
+parlement	parlement	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+judicial	judicial	JJ	CW	ADJ
+rather	rather	RB	ADV	FW
+legislative	legislative	JJ	CW	ADJ
+function	function	NN	CW	NOUN	ARGUMENT
+dominate	dominate	VB	CW	VERB
+high	high	JJ	CW	ADJ
+clergy	clergy	NNS	CW	NOUN	ARGUMENT
+noble	noble	JJ	CW	ADJ
+
+sentence break
+
+cardinal	cardinal	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+create	create	VBP	CW	VERB
+encoding error!
+encoding error!
+1635	1635	CD	FW
+ensure	ensure	VB	CW	VERB
+purity	purity	NN	CW	NOUN	ARGUMENT
+clarity	clarity	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+dictionnaire	dictionnaire	NN	CW	NOUN	ARGUMENT
+grammaire	grammaire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+promoting	promote	VBG	CW	VERB
+oversea	oversea	NN	CW	NOUN	ARGUMENT
+trade	trade	NN	CW	NOUN	ARGUMENT
+founding	found	VBG	CW	VERB
+navy	navy	NN	CW	NOUN	ARGUMENT
+richelieu	richelieu	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+launch	launch	VBP	CW	VERB
+france	france	NN	CW	NOUN	ARGUMENT
+road	road	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+colonization	colonization	NN	CW	NOUN	ARGUMENT
+guadeloupe	guadeloupe	NN	CW	NOUN	ARGUMENT
+martinique	martinique	NN	CW	NOUN	ARGUMENT
+caribbean	caribbean	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+europe	europe	NN	CW	NOUN	ARGUMENT
+catholic	catholic	JJ	CW	ADJ
+cardinal	cardinal	JJ	CW	ADJ
+master	master	NN	CW	NOUN	ARGUMENT
+practical	practical	JJ	CW	ADJ
+politics	politics	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+support	support	VB	CW	VERB
+protestant	protestant	JJ	CW	ADJ
+swedish	swedish	JJ	CW	ADJ
+danish	danish	JJ	CW	ADJ
+german	german	JJ	CW	ADJ
+force	force	NN	CW	NOUN	ARGUMENT
+thirty	thirty	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+catholic	catholic	JJ	CW	ADJ
+austrian	austrian	JJ	CW	ADJ
+italian	italian	JJ	CW	ADJ
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+matter	matter	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+serve	serve	VB	CW	VERB
+france	france	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+interest	interest	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+richelieu	richelieu	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+encoding error!
+mazarin	mazarin	NN	CW	NOUN	ARGUMENT
+cardinal	cardinal	NN	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+job	job	NN	CW	NOUN	ARGUMENT
+prime	prime	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+minority	minority	NN	CW	NOUN	ARGUMENT
+loui	louus	NN	CW	NOUN	ARGUMENT
+xiv	xiv	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+court	court	NN	CW	NOUN	ARGUMENT
+regional	regional	JJ	CW	ADJ
+aristocracy	aristocracy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+infuriate	infuriate	VB	CW	VERB
+italian-born	italian-born	JJ	CW	ADJ
+churchman	churchman	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+intimate	intimate	JJ	CW	ADJ
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+mother	mother	NN	CW	NOUN	ARGUMENT
+anne	anne	NN	CW	NOUN	ARGUMENT
+austrium	austrium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	CW	VERB
+like	like	IN	FW
+astounding	astounding	JJ	CW	ADJ
+knack	knack	NN	CW	NOUN	ARGUMENT
+amass	amass	VB	CW	VERB
+vast	vast	JJ	CW	ADJ
+personal	personal	JJ	CW	ADJ
+fortune	fortune	NN	CW	NOUN	ARGUMENT
+manage	manage	VBP	CW	VERB
+very	very	RB	ADV	CW
+efficiently	efficiently	RB	ADV	CW
+affair	affair	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	RBS	ADV	CW
+despise	despise	VBP	CW	VERB
+way	way	NN	CW	NOUN	ARGUMENT
+erode	erode	VB	CW	VERB
+noble	noble	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+smooth	smooth	JJ	CW	ADJ
+path	path	NN	CW	NOUN	ARGUMENT
+increasingly	increasingly	RB	ADV	CW
+absolutist	absolutist	JJ	CW	ADJ
+monarchy	monarchy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+revolt	revolt	NN	CW	NOUN	ARGUMENT
+fronde	fronde	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+mazarin	mazarin	NN	CW	NOUN	ARGUMENT
+anne	anne	NN	CW	NOUN	ARGUMENT
+boy-king	boy-king	JJ	CW	ADJ
+flee	flee	VBP	CW	VERB
+pari	parus	NNS	CW	NOUN	ARGUMENT
+1649	1649	CD	FW
+
+sentence break
+
+however	however	RB	ADV	FW
+royal	royal	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+triumphant	triumphant	JJ	CW	ADJ
+return	return	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+rebellious	rebellious	JJ	CW	ADJ
+noble	noble	JJ	CW	ADJ
+crush	crush	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+monarchy	monarchy	NN	CW	NOUN	ARGUMENT
+stronger	stronger	JJR	CW	ADJ
+ever	ever	RB	ADV	CW
+
+sentence break
+
+loui	louus	NN	CW	NOUN	ARGUMENT
+xiv	xiv	NN	CW	NOUN	ARGUMENT
+draw	draw	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+mazarin	mazarin	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+careful	careful	JJ	CW	ADJ
+coaching	coaching	NN	CW	NOUN	ARGUMENT
+affair	affair	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+begin	begin	VB	CW	VERB
+personal	personal	JJ	CW	ADJ
+rule	rule	NN	CW	NOUN	ARGUMENT
+1661	1661	CD	FW
+age	age	NN	CW	NOUN	ARGUMENT
+23	23	CD	FW
+be	be	VB	CW	VERB
+question	question	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+prime	prime	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+impinge	impinge	VBP	CW	VERB
+royal	royal	JJ	CW	ADJ
+prerogative	prerogative	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+adopt	adopt	VB	CW	VERB
+unequivocal	unequivocal	JJ	CW	ADJ
+emblem	emblem	NN	CW	NOUN	ARGUMENT
+sun	sun	NN	CW	NOUN	ARGUMENT
+loui	louus	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	CW	VERB
+outshone	outshine	VBN	CW	VERB
+one	one	CD	FW
+
+sentence break
+
+counselor	counselor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+wholly	wholly	RB	ADV	FW
+subservient	subservient	JJ	CW	ADJ
+
+sentence break
+
+loui	louus	NN	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+once	once	RB	ADV	CW
+call	call	VB	CW	VERB
+parliamentary	parliamentary	JJ	CW	ADJ
+assembly	assembly	NN	CW	NOUN	ARGUMENT
+etat	etat	NN	CW	NOUN	ARGUMENT
+encoding error!
+
+sentence break
+
+move	move	VB	CW	VERB
+court	court	NN	CW	NOUN	ARGUMENT
+versaille	versaille	NN	CW	NOUN	ARGUMENT
+impoverish	impoverish	JJ	CW	ADJ
+nobility	nobility	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+incredible	incredible	JJ	CW	ADJ
+luxury	luxury	NN	CW	NOUN	ARGUMENT
+palace	palace	NN	CW	NOUN	ARGUMENT
+impose	impose	VB	CW	VERB
+sole	sole	JJ	CW	ADJ
+function	function	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+versaille	versaille	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+truly	truly	RB	ADV	FW
+shine	shine	VB	CW	VERB
+star	star	NN	CW	NOUN	ARGUMENT
+europe	europe	NN	CW	NOUN	ARGUMENT
+architectural	architectural	JJ	CW	ADJ
+splendor	splendor	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+sheer	sheer	JJ	CW	ADJ
+hypnotic	hypnotic	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+loui	louus	NNS	CW	NOUN	ARGUMENT
+xiv	xiv	VBP	CW	VERB
+s	s	NNS	CW	NOUN	ARGUMENT
+cult	cult	NN	CW	NOUN	ARGUMENT
+self-glorification	self-glorification	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lifetime	lifetime	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+petty	petty	JJ	CW	ADJ
+european	european	NN	CW	NOUN	ARGUMENT
+prince	prince	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+imitate	imitate	VB	CW	VERB
+loui	louus	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+style	style	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+little	little	JJ	CW	ADJ
+versaille	versaille	NN	CW	NOUN	ARGUMENT
+complete	complete	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+artist	artist	NN	CW	NOUN	ARGUMENT
+sycophant	sycophant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+versaille	versaille	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+not	not	RB	ADV	CW
+cost	cost	VB	CW	VERB
+
+sentence break
+
+take	take	VB	CW	VERB
+french	french	JJ	CW	ADJ
+historian	historian	NN	CW	NOUN	ARGUMENT
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+come	come	VB	CW	VERB
+term	term	NN	CW	NOUN	ARGUMENT
+less	less	RBR	ADV	CW
+attractive	attractive	JJ	CW	ADJ
+reality	reality	NN	CW	NOUN	ARGUMENT
+loui	louus	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+style	style	NN	CW	NOUN	ARGUMENT
+cost	cost	NN	CW	NOUN	ARGUMENT
+nation	nation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+enhance	enhance	VB	CW	VERB
+glory	glory	NN	CW	NOUN	ARGUMENT
+sun	sun	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+turn	turn	VB	CW	VERB
+foreign	foreign	JJ	CW	ADJ
+conquest	conquest	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+devastating	devastate	VBG	CW	VERB
+military	military	JJ	CW	ADJ
+expedition	expedition	NN	CW	NOUN	ARGUMENT
+launch	launch	NN	CW	NOUN	ARGUMENT
+rhineland	rhineland	NN	CW	NOUN	ARGUMENT
+palatinate	palatinate	NN	CW	NOUN	ARGUMENT
+series	series	NN	CW	NOUN	ARGUMENT
+largely	largely	RB	ADV	CW
+fruitless	fruitless	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+spain	spain	NN	CW	NOUN	ARGUMENT
+holland	holland	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+sweden	sweden	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+endear	endear	VB	CW	VERB
+european	european	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+moreover	moreover	RB	ADV	FW
+venture	venture	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+france	france	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+once-thriving	once-thriving	JJ	CW	ADJ
+economy	economy	NN	CW	NOUN	ARGUMENT
+ruin	ruin	VBP	CW	VERB
+
+sentence break
+
+home	home	NN	CW	NOUN	ARGUMENT
+authoritarian	authoritarian	JJ	CW	ADJ
+rule	rule	NN	CW	NOUN	ARGUMENT
+require	require	VBP	CW	VERB
+brutal	brutal	JJ	CW	ADJ
+police	police	NNS	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+tax	tax	NN	CW	NOUN	ARGUMENT
+soar	soar	VB	CW	VERB
+pay	pay	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+more	more	RBR	ADV	CW
+peasant	peasant	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+abandon	abandon	VB	CW	VERB
+field	field	NN	CW	NOUN	ARGUMENT
+press-ganged	press-gang	VBD	CW	VERB
+army	army	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+influenced	influence	VBN	CW	VERB
+later	later	RB	ADV	CW
+life	life	NN	CW	NOUN	ARGUMENT
+catholic	catholic	JJ	CW	ADJ
+piety	piety	NN	CW	NOUN	ARGUMENT
+madame	madame	FW	FW
+maintenon	maintenon	FW	FW
+mistress	mistress	NN	CW	NOUN	ARGUMENT
+subsequently	subsequently	RB	ADV	CW
+secret	secret	JJ	CW	ADJ
+wife	wife	NN	CW	NOUN	ARGUMENT
+loui	louus	NN	CW	NOUN	ARGUMENT
+put	put	VBD	CW	VERB
+end	end	NN	CW	NOUN	ARGUMENT
+religious	religious	JJ	CW	ADJ
+freedom	freedom	NN	CW	NOUN	ARGUMENT
+protestant	protestant	NN	CW	NOUN	ARGUMENT
+revoke	revoke	VB	CW	VERB
+edict	edict	NN	CW	NOUN	ARGUMENT
+nant	nant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+face	face	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+conversion	conversion	NN	CW	NOUN	ARGUMENT
+protestant	protestant	JJ	CW	ADJ
+huguenot	huguenot	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+most	most	RBS	ADV	CW
+talented	talented	JJ	CW	ADJ
+banker	banker	NN	CW	NOUN	ARGUMENT
+merchant	merchant	NN	CW	NOUN	ARGUMENT
+artisan	artisan	NN	CW	NOUN	ARGUMENT
+generation	generation	NN	CW	NOUN	ARGUMENT
+flee	flee	VB	CW	VERB
+switzerland	switzerland	NN	CW	NOUN	ARGUMENT
+germany	germany	NN	CW	NOUN	ARGUMENT
+holland	holland	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+scandinavium	scandinavium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+loui	louus	NNS	CW	NOUN	ARGUMENT
+die	die	VBP	CW	VERB
+1715	1715	CD	FW
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+outlived	outlive	VBN	CW	VERB
+child	child	NN	CW	NOUN	ARGUMENT
+grandchildren	grandchild	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+succeed	succeed	VB	CW	VERB
+five-year-old	five-year-old	JJ	CW	ADJ
+great-grandson	great-grandson	NN	CW	NOUN	ARGUMENT
+loui	louus	NN	CW	NOUN	ARGUMENT
+xv	xv	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+government	government	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hand	hand	NN	CW	NOUN	ARGUMENT
+late	late	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+cultured	culture	VBN	CW	VERB
+libertine	libertine	NN	CW	NOUN	ARGUMENT
+atheist	atheist	NN	CW	NOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+philippe	philippe	NN	CW	NOUN	ARGUMENT
+encoding error!
+
+sentence break
+
+morose	morose	JJ	CW	ADJ
+twilight	twilight	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+sun	sun	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+societal	societal	JJ	CW	ADJ
+tone	tone	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+satiric	satiric	JJ	CW	ADJ
+pen	pen	NN	CW	NOUN	ARGUMENT
+voltaire	voltaire	NN	CW	NOUN	ARGUMENT
+erotic	erotic	JJ	CW	ADJ
+fantasy	fantasy	NN	CW	NOUN	ARGUMENT
+watteau	watteau	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+painting	paint	VBG	CW	VERB
+marivaux	marivaux	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+comedy	comedy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+court	court	NN	CW	NOUN	ARGUMENT
+move	move	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+versaille	versaille	JJ	CW	ADJ
+pari	parus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+generally	generally	RB	ADV	CW
+lazy	lazy	JJ	CW	ADJ
+regent	regent	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+incompetent	incompetent	JJ	CW	ADJ
+noble	noble	JJ	CW	ADJ
+too	too	RB	ADV	CW
+much	much	JJ	CW	ADJ
+say	say	VBP	CW	VERB
+running	run	VBG	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+regional	regional	JJ	CW	ADJ
+parlement	parlement	NN	CW	NOUN	ARGUMENT
+obtain	obtain	VB	CW	VERB
+right	right	RB	ADV	CW
+make	make	VB	CW	VERB
+protest	protest	NN	CW	NOUN	ARGUMENT
+monarchy	monarchy	NN	CW	NOUN	ARGUMENT
+gradually	gradually	RB	ADV	CW
+weaken	weaken	VBP	CW	VERB
+
+sentence break
+
+easy-going	easy-going	JJ	CW	ADJ
+loui	louus	NN	CW	NOUN	ARGUMENT
+xv	xv	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+call	call	JJ	CW	ADJ
+bien	bien	NN	CW	NOUN	ARGUMENT
+encoding error!
+beloved	beloved	JJ	CW	ADJ
+least	least	JJS	CW	ADJ
+first	first	JJ	CW	ADJ
+half	half	NN	CW	NOUN	ARGUMENT
+reign	reign	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+king	king	NN	CW	NOUN	ARGUMENT
+seem	seem	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+interest	interest	NN	CW	NOUN	ARGUMENT
+mistress	mistress	NN	CW	NOUN	ARGUMENT
+run	run	VBP	CW	VERB
+tight	tight	JJ	CW	ADJ
+ship	ship	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+perhap	perhap	JJ	CW	ADJ
+economy	economy	NN	CW	NOUN	ARGUMENT
+recover	recover	VB	CW	VERB
+middle	middle	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+strengthen	strengthen	VB	CW	VERB
+
+sentence break
+
+oversea	oversea	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+expand	expand	VB	CW	VERB
+east	east	JJ	CW	ADJ
+west	west	NN	CW	NOUN	ARGUMENT
+indy	indy	JJ	CW	ADJ
+art	art	NN	CW	NOUN	ARGUMENT
+letter	letter	NN	CW	NOUN	ARGUMENT
+flourish	flourish	VB	CW	VERB
+age	age	NN	CW	NOUN	ARGUMENT
+enlightenment	enlightenment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+voice	voice	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+clear	clear	JJ	CW	ADJ
+threat	threat	NN	CW	NOUN	ARGUMENT
+establish	establish	VB	CW	VERB
+order	order	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+diderot	diderot	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+encoding error!
+champion	champion	NN	CW	NOUN	ARGUMENT
+reason	reason	NN	CW	NOUN	ARGUMENT
+traditional	traditional	JJ	CW	ADJ
+religion	religion	NN	CW	NOUN	ARGUMENT
+rousseau	rousseau	NN	CW	NOUN	ARGUMENT
+discoursed	discourse	VBD	CW	VERB
+origin	origin	NN	CW	NOUN	ARGUMENT
+inequality	inequality	NN	CW	NOUN	ARGUMENT
+voltaire	voltaire	NN	CW	NOUN	ARGUMENT
+shot	shoot	VBD	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+didn	didn	NN	CW	NOUN	ARGUMENT
+t	t	NN	CW	NOUN	ARGUMENT
+move	move	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+loui	louus	NN	CW	NOUN	ARGUMENT
+xvus	xvus	NN	CW	NOUN	ARGUMENT
+grandson	grandson	NN	CW	NOUN	ARGUMENT
+loui	louus	NN	CW	NOUN	ARGUMENT
+xv	xv	NN	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+attack	attack	NN	CW	NOUN	ARGUMENT
+side	side	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+stubborn	stubborn	JJ	CW	ADJ
+aristocracy	aristocracy	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+clergy	clergy	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+anxious	anxious	JJ	CW	ADJ
+protect	protect	VBP	CW	VERB
+ancient	ancient	JJ	CW	ADJ
+privilege	privilege	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+burgeon	burgeon	NN	CW	NOUN	ARGUMENT
+bourgeoisie	bourgeoisie	NN	CW	NOUN	ARGUMENT
+longed	long	VBD	FW	aux_or_cop
+reform	reform	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+greater	greater	JJR	CW	ADJ
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+peasantry	peasantry	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+no	no	RB	ADV	CW
+longer	longer	RB	ADV	CW
+prepare	prepare	VB	CW	VERB
+bear	bear	NN	CW	NOUN	ARGUMENT
+burden	burden	NN	CW	NOUN	ARGUMENT
+feudal	feudal	JJ	CW	ADJ
+extortion	extortion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+grow	grow	VB	CW	VERB
+urban	urban	JJ	CW	ADJ
+populace	populace	NN	CW	NOUN	ARGUMENT
+artisan	artisan	NN	CW	NOUN	ARGUMENT
+groaned	groan	VBD	CW	VERB
+intolerable	intolerable	JJ	CW	ADJ
+hardship	hardship	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+etat	etat	NN	CW	NOUN	ARGUMENT
+encoding error!
+convene	convene	VBP	CW	VERB
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+175	175	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+clearly	clearly	RB	ADV	CW
+king	king	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+endure	endure	VBP	CW	VERB
+absolutism	absolutism	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+throne	throne	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fire	fire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+reactionary	reactionary	JJ	CW	ADJ
+noble	noble	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+guarantor	guarantor	NN	CW	NOUN	ARGUMENT
+hereditary	hereditary	JJ	CW	ADJ
+status	status	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+liberal	liberal	JJ	CW	ADJ
+reformer	reformer	JJ	CW	ADJ
+want	want	VBP	CW	VERB
+constitutional	constitutional	JJ	CW	ADJ
+monarchy	monarchy	NN	CW	NOUN	ARGUMENT
+similar	similar	JJ	CW	ADJ
+england	england	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+not	not	RB	ADV	CW
+republic	republic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+grievance	grievance	NN	CW	NOUN	ARGUMENT
+draw	draw	NN	CW	NOUN	ARGUMENT
+peasant	peasant	NN	CW	NOUN	ARGUMENT
+townspeople	townspeople	NN	CW	NOUN	ARGUMENT
+insist	insist	VBP	CW	VERB
+continue	continue	VBP	CW	VERB
+devotion	devotion	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+two	two	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+blindness	blindness	VBZ	CW	VERB
+king	king	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+conservative	conservative	JJ	CW	ADJ
+advisor	advisor	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+own	own	JJ	CW	ADJ
+weakness	weakness	NN	CW	NOUN	ARGUMENT
+vacillation	vacillation	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+explosion	explosion	NN	CW	NOUN	ARGUMENT
+century	century	NN	CW	NOUN	ARGUMENT
+frustration	frustration	NN	CW	NOUN	ARGUMENT
+rage	rage	NN	CW	NOUN	ARGUMENT
+culminate	culminate	VBP	CW	VERB
+storm	storm	NN	CW	NOUN	ARGUMENT
+bastille	bastille	NN	CW	NOUN	ARGUMENT
+regime	regime	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+prison-fortress	prison-fortress	VBP	CW	VERB
+pari	parus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fateful	fateful	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+july	july	NNP	CW	NOUN	ARGUMENT
+1789	1789	CD	FW
+king	king	NN	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+hunt	hunt	NN	CW	NOUN	ARGUMENT
+encoding error!
+versaille	versaille	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+loui	louus	NNS	CW	NOUN	ARGUMENT
+apparently	apparently	RB	ADV	CW
+oblivious	oblivious	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+pari	parus	NNS	CW	NOUN	ARGUMENT
+write	write	VB	CW	VERB
+diary	diary	NN	CW	NOUN	ARGUMENT
+rien	rien	NN	CW	NOUN	ARGUMENT
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+national	national	JJ	CW	ADJ
+assembly	assembly	NN	CW	NOUN	ARGUMENT
+vote	vote	NN	CW	NOUN	ARGUMENT
+charter	charter	NN	CW	NOUN	ARGUMENT
+liberty	liberty	NN	CW	NOUN	ARGUMENT
+equality	equality	NN	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+declaration	declaration	NN	CW	NOUN	ARGUMENT
+rights	rights	NNS	CW	NOUN	ARGUMENT
+man	man	NN	CW	NOUN	ARGUMENT
+citizen	citizen	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+aristocracy	aristocracy	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+feudal	feudal	JJ	CW	ADJ
+rights	rights	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+abolish	abolish	VB	CW	VERB
+church	church	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+massive	massive	JJ	CW	ADJ
+land-holding	land-holding	NN	CW	NOUN	ARGUMENT
+confiscate	confiscate	VBP	CW	VERB
+sell	sell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rather	rather	RB	ADV	FW
+compromise	compromise	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+flee	flee	VBP	CW	VERB
+pari	parus	NN	CW	NOUN	ARGUMENT
+vain	vain	JJ	CW	ADJ
+effort	effort	NN	CW	NOUN	ARGUMENT
+join	join	VB	CW	VERB
+arm	arm	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+hostile	hostile	JJ	CW	ADJ
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+austrian	austrian	JJ	CW	ADJ
+german	german	JJ	CW	ADJ
+army	army	NN	CW	NOUN	ARGUMENT
+mass	mass	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+frontier	frontier	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+counter-revolution	counter-revolution	NN	CW	NOUN	ARGUMENT
+gathering	gathering	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+militant	militant	JJ	CW	ADJ
+revolutionary	revolutionary	JJ	CW	ADJ
+jacobin	jacobin	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+maximilien	maximilien	NN	CW	NOUN	ARGUMENT
+robespierre	robespierre	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+king	king	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+flight	flight	NN	CW	NOUN	ARGUMENT
+ultimate	ultimate	JJ	CW	ADJ
+betrayal	betrayal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+republic	republic	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+declare	declare	VB	CW	VERB
+1792	1792	CD	FW
+loui	louus	NNS	CW	NOUN	ARGUMENT
+xvus	xvus	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+guillotined	guillotine	VBN	CW	VERB
+1793	1793	CD	FW
+
+sentence break
+
+son	son	NN	CW	NOUN	ARGUMENT
+loui	louus	NN	CW	NOUN	ARGUMENT
+xvius	xvius	VBZ	CW	VERB
+die	die	VB	CW	VERB
+obscure	obscure	JJ	CW	ADJ
+circumstance	circumstance	NN	CW	NOUN	ARGUMENT
+revolutionary	revolutionary	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+1795	1795	CD	FW
+
+sentence break
+
+pressure	pressure	NN	CW	NOUN	ARGUMENT
+poorer	poorer	JJR	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+want	want	VB	CW	VERB
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+appropriate	appropriate	JJ	CW	ADJ
+exclusive	exclusive	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+bourgeoisie	bourgeoisie	NN	CW	NOUN	ARGUMENT
+jacobin-led	jacobin-led	JJ	CW	ADJ
+revolutionary	revolutionary	JJ	CW	ADJ
+committee	committee	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+sweeping	sweeping	JJ	CW	ADJ
+measure	measure	NN	CW	NOUN	ARGUMENT
+economic	economic	JJ	CW	ADJ
+social	social	JJ	CW	ADJ
+reform	reform	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+accompany	accompany	VB	CW	VERB
+wave	wave	NN	CW	NOUN	ARGUMENT
+mass	mass	NN	CW	NOUN	ARGUMENT
+execution	execution	NN	CW	NOUN	ARGUMENT
+terror	terror	NN	CW	NOUN	ARGUMENT
+aim	aim	NN	CW	NOUN	ARGUMENT
+moderate	moderate	JJ	CW	ADJ
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+aristocrat	aristocrat	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+quell	quell	VBP	CW	VERB
+extremist	extremist	NN	CW	NOUN	ARGUMENT
+robespierre	robespierre	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+overthrow	overthrow	VB	CW	VERB
+guillotined	guillotine	VBN	CW	VERB
+counterattack	counterattack	NN	CW	NOUN	ARGUMENT
+propertied	property	VBD	CW	VERB
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+directoire	directoire	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+wave	wave	NN	CW	NOUN	ARGUMENT
+execution	execution	NN	CW	NOUN	ARGUMENT
+white	white	JJ	CW	ADJ
+royalist	royalist	JJ	CW	ADJ
+terror	terror	NN	CW	NOUN	ARGUMENT
+decimate	decimate	VB	CW	VERB
+jacobin	jacobin	NN	CW	NOUN	ARGUMENT
+supporter	supporter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bourgeoisie	bourgeoisie	NN	CW	NOUN	ARGUMENT
+fear	fear	NN	CW	NOUN	ARGUMENT
+royalist	royalist	NN	CW	NOUN	ARGUMENT
+foreign	foreign	JJ	CW	ADJ
+backer	backer	NN	CW	NOUN	ARGUMENT
+turn	turn	NN	CW	NOUN	ARGUMENT
+salvation	salvation	NN	CW	NOUN	ARGUMENT
+corsican	corsican	JJ	CW	ADJ
+soldier	soldier	NN	CW	NOUN	ARGUMENT
+triumphantly	triumphantly	RB	ADV	CW
+campaigning	campaign	VBG	CW	VERB
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+foreign	foreign	JJ	CW	ADJ
+enemy	enemy	NN	CW	NOUN	ARGUMENT
+napoleon	napoleon	NN	CW	NOUN	ARGUMENT
+bonaparte	bonaparte	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+austrians	austrian	NNS	CW	NOUN	ARGUMENT
+italy	italy	RB	ADV	CW
+less	less	RBR	ADV	CW
+successful	successful	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+egypt	egypt	JJ	CW	ADJ
+1795	1795	CD	FW
+bonaparte	bonaparte	NN	CW	NOUN	ARGUMENT
+returned	return	VBD	CW	VERB
+pari	parus	NN	CW	NOUN	ARGUMENT
+crush	crush	NN	CW	NOUN	ARGUMENT
+royalist	royalist	NN	CW	NOUN	ARGUMENT
+four	four	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+stage	stage	NN	CW	NOUN	ARGUMENT
+coup	coup	NN	CW	NOUN	ARGUMENT
+directoire	directoire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+just	just	RB	ADV	CW
+30	30	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+
+sentence break
+
+first	first	RB	ADV	CW
+flush	flush	JJ	CW	ADJ
+dictatorship	dictatorship	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+consul	consul	NN	CW	NOUN	ARGUMENT
+establish	establish	VB	CW	VERB
+banque	banque	FW	FW
+france	france	FW	FW
+create	create	VB	CW	VERB
+state-run	state-run	JJ	CW	ADJ
+encoding error!
+high	high	JJ	CW	ADJ
+school	school	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+national	national	JJ	CW	ADJ
+set	set	NN	CW	NOUN	ARGUMENT
+law	law	NN	CW	NOUN	ARGUMENT
+code	code	NN	CW	NOUN	ARGUMENT
+encoding error!
+
+sentence break
+
+centralization	centralization	NN	CW	NOUN	ARGUMENT
+dear	dear	RB	ADV	FW
+richelieu	richelieu	JJ	CW	ADJ
+loui	louus	NN	CW	NOUN	ARGUMENT
+xiv	xiv	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+become	become	VBN	CW	VERB
+reality	reality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+supreme	supreme	NN	CW	NOUN	ARGUMENT
+self-made	self-made	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+bonaparte	bonaparte	FW	FW
+1804	1804	CD	FW
+become	become	VBN	CW	VERB
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+napoleon	napoleon	NN	CW	NOUN	ARGUMENT
+coronation	coronation	NN	CW	NOUN	ARGUMENT
+ceremony	ceremony	NN	CW	NOUN	ARGUMENT
+audaciously	audaciously	RB	ADV	CW
+take	take	VB	CW	VERB
+crown	crown	NN	CW	NOUN	ARGUMENT
+golden	golden	JJ	CW	ADJ
+laurel	laurel	NN	CW	NOUN	ARGUMENT
+pope	pope	NN	CW	NOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+head	head	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+manage	manage	VB	CW	VERB
+simultaneously	simultaneously	RB	ADV	CW
+pursue	pursue	VB	CW	VERB
+foreign	foreign	JJ	CW	ADJ
+conquest	conquest	NN	CW	NOUN	ARGUMENT
+germany	germany	NN	CW	NOUN	ARGUMENT
+austrium	austrium	NN	CW	NOUN	ARGUMENT
+domestic	domestic	JJ	CW	ADJ
+reform	reform	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+modernized	modernized	JJ	CW	ADJ
+university	university	NN	CW	NOUN	ARGUMENT
+police	police	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+proper	proper	JJ	CW	ADJ
+supplies	supplies	NNS	CW	NOUN	ARGUMENT
+drinking	drink	VBG	CW	VERB
+water	water	NN	CW	NOUN	ARGUMENT
+parisians	parisian	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+disastrous	disastrous	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+russium	russium	NN	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+moscow	moscow	JJ	CW	ADJ
+draw	draw	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+statute	statute	NN	CW	NOUN	ARGUMENT
+encoding error!
+encoding error!
+national	national	JJ	CW	ADJ
+theater	theater	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+dissolve	dissolve	VB	CW	VERB
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nationalism	nationalism	NN	CW	NOUN	ARGUMENT
+napoleon	napoleon	NN	CW	NOUN	ARGUMENT
+invoke	invoke	VBP	CW	VERB
+conquest	conquest	NN	CW	NOUN	ARGUMENT
+europe	europe	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+ancien	ancien	JJ	CW	ADJ
+encoding error!
+turn	turn	NN	CW	NOUN	ARGUMENT
+spain	spain	NN	CW	NOUN	ARGUMENT
+russium	russium	NN	CW	NOUN	ARGUMENT
+germany	germany	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+monarchy	monarchy	NN	CW	NOUN	ARGUMENT
+regrouped	regroup	VBD	CW	VERB
+force	force	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+1814	1814	CD	FW
+
+sentence break
+
+nevertheless	nevertheless	RB	ADV	FW
+make	make	VB	CW	VERB
+brilliant	brilliant	JJ	CW	ADJ
+brief	brief	JJ	CW	ADJ
+comeback	comeback	NN	CW	NOUN	ARGUMENT
+follow	follow	VB	CW	VERB
+year	year	NN	CW	NOUN	ARGUMENT
+alliance	alliance	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+prussian	prussian	JJ	CW	ADJ
+belgian	belgian	JJ	CW	ADJ
+dutch	dutch	JJ	CW	ADJ
+troops	troops	NNS	CW	NOUN	ARGUMENT
+inflict	inflict	VBP	CW	VERB
+final	final	JJ	CW	ADJ
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+waterloo	waterloo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+napoleonic	napoleonic	JJ	CW	ADJ
+era	era	NN	CW	NOUN	ARGUMENT
+monarchy	monarchy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+restore	restore	VB	CW	VERB
+
+sentence break
+
+new	new	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+loui	louus	NN	CW	NOUN	ARGUMENT
+xviius	xviius	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+first	first	JJ	CW	ADJ
+reconcile	reconcile	VB	CW	VERB
+restore	restore	VB	CW	VERB
+monarchy	monarchy	NN	CW	NOUN	ARGUMENT
+reform	reform	NN	CW	NOUN	ARGUMENT
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+napoleon	napoleon	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+empire	empire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+noble	noble	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+intent	intent	JJ	CW	ADJ
+revenge	revenge	NN	CW	NOUN	ARGUMENT
+impose	impose	VB	CW	VERB
+second	second	JJ	CW	ADJ
+even	even	RB	ADV	CW
+more	more	RBR	ADV	CW
+violent	violent	JJ	CW	ADJ
+white	white	JJ	CW	ADJ
+terror	terror	NN	CW	NOUN	ARGUMENT
+jacobin	jacobin	NN	CW	NOUN	ARGUMENT
+bonapartist	bonapartist	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+napoleon	napoleon	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+greatest	greatest	JJS	CW	ADJ
+general	general	JJ	CW	ADJ
+
+sentence break
+
+loui	louus	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+reactionary	reactionary	JJ	CW	ADJ
+successor	successor	NN	CW	NOUN	ARGUMENT
+brother	brother	NN	CW	NOUN	ARGUMENT
+charle	charle	NN	CW	NOUN	ARGUMENT
+x	x	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+interested	interested	JJ	CW	ADJ
+only	only	RB	ADV	CW
+renew	renew	VB	CW	VERB
+tradition	tradition	NN	CW	NOUN	ARGUMENT
+ancien	ancien	NN	CW	NOUN	ARGUMENT
+encoding error!
+even	even	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+anointed	anoint	VBN	CW	VERB
+crown	crown	NN	CW	NOUN	ARGUMENT
+ancient	ancient	JJ	CW	ADJ
+cathedral	cathedral	NN	CW	NOUN	ARGUMENT
+reim	reim	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+middle	middle	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+no	no	RB	ADV	CW
+longer	longer	RB	ADV	CW
+prepare	prepare	VB	CW	VERB
+tolerate	tolerate	VB	CW	VERB
+restraint	restraint	NN	CW	NOUN	ARGUMENT
+freedom	freedom	NN	CW	NOUN	ARGUMENT
+worsen	worsen	VBP	CW	VERB
+condition	condition	NN	CW	NOUN	ARGUMENT
+economy	economy	NN	CW	NOUN	ARGUMENT
+hand	hand	NN	CW	NOUN	ARGUMENT
+incompetent	incompetent	JJ	CW	ADJ
+aristocracy	aristocracy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+reasserted	reassert	VBN	CW	VERB
+rights	rights	NNS	CW	NOUN	ARGUMENT
+insurrection	insurrection	NN	CW	NOUN	ARGUMENT
+july	july	NNP	CW	NOUN	ARGUMENT
+1830	1830	CD	FW
+kind	kind	JJ	CW	ADJ
+liberal	liberal	JJ	CW	ADJ
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+prefer	prefer	VBP	CW	VERB
+back	back	RB	ADV	CW
+1789	1789	CD	FW
+pave	pave	VBP	CW	VERB
+way	way	NN	CW	NOUN	ARGUMENT
+bourgeois	bourgeois	JJ	CW	ADJ
+monarchy	monarchy	NN	CW	NOUN	ARGUMENT
+louis	loui	NNS	CW	NOUN	ARGUMENT
+philippe	philippe	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+last	last	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+heir	heir	NN	CW	NOUN	ARGUMENT
+progressive	progressive	JJ	CW	ADJ
+encoding error!
+branch	branch	NN	CW	NOUN	ARGUMENT
+royal	royal	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+encourage	encourage	VBP	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+exploitation	exploitation	NN	CW	NOUN	ARGUMENT
+industrial	industrial	JJ	CW	ADJ
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+complementary	complementary	JJ	CW	ADJ
+extension	extension	NN	CW	NOUN	ARGUMENT
+oversea	oversea	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+asium	asium	NN	CW	NOUN	ARGUMENT
+africa	africa	NN	CW	NOUN	ARGUMENT
+algerium	algerium	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	CW	VERB
+occupied	occupy	VBN	CW	VERB
+just	just	RB	ADV	CW
+1830	1830	CD	FW
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+factory	factory	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+urban	urban	JJ	CW	ADJ
+working	work	VBG	CW	VERB
+class	class	NN	CW	NOUN	ARGUMENT
+clamor	clamor	NN	CW	NOUN	ARGUMENT
+improvement	improvement	NN	CW	NOUN	ARGUMENT
+miserable	miserable	JJ	CW	ADJ
+working	work	VBG	CW	VERB
+live	live	JJ	CW	ADJ
+condition	condition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+encoding error!
+s	s	NNS	CW	NOUN	ARGUMENT
+response	response	NN	CW	NOUN	ARGUMENT
+ferocious	ferocious	JJ	CW	ADJ
+repression	repression	NN	CW	NOUN	ARGUMENT
+numerous	numerous	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+ineptitude	ineptitude	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+third	third	JJ	CW	ADJ
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+1848	1848	CD	FW
+bonapartist	bonapartist	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+napoleon	napoleon	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+nephew	nephew	NN	CW	NOUN	ARGUMENT
+emerge	emerge	VBP	CW	VERB
+triumphant	triumphant	JJ	CW	ADJ
+
+sentence break
+
+second	second	JJ	CW	ADJ
+republic	republic	NN	CW	NOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+four	four	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+man	man	NN	CW	NOUN	ARGUMENT
+victor	victor	NN	CW	NOUN	ARGUMENT
+hugo	hugo	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+encoding error!
+petit	petit	NN	CW	NOUN	ARGUMENT
+stage	stage	NN	CW	NOUN	ARGUMENT
+coup	coup	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+napoleon	napoleon	NN	CW	NOUN	ARGUMENT
+iius	iius	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+determined	determine	VBN	CW	VERB
+cloak	cloak	NN	CW	NOUN	ARGUMENT
+legend	legend	NN	CW	NOUN	ARGUMENT
+uncle	uncle	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+grandeur	grandeur	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+own	own	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+champion	champion	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+use	use	NN	CW	NOUN	ARGUMENT
+harsh	harsh	JJ	CW	ADJ
+anti-press	anti-press	JJ	CW	ADJ
+law	law	NN	CW	NOUN	ARGUMENT
+loyalty	loyalty	NN	CW	NOUN	ARGUMENT
+oath	oath	NN	CW	NOUN	ARGUMENT
+quell	quell	VBP	CW	VERB
+libertarian	libertarian	JJ	CW	ADJ
+spirit	spirit	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+power	power	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+economy	economy	NN	CW	NOUN	ARGUMENT
+flourish	flourish	VB	CW	VERB
+thanks	thanks	NNS	CW	NOUN	ARGUMENT
+expansion	expansion	NN	CW	NOUN	ARGUMENT
+vigorous	vigorous	JJ	CW	ADJ
+entrepreneurial	entrepreneurial	JJ	CW	ADJ
+capitalism	capitalism	NN	CW	NOUN	ARGUMENT
+iron	iron	NN	CW	NOUN	ARGUMENT
+steel	steel	NN	CW	NOUN	ARGUMENT
+railway	railway	NN	CW	NOUN	ARGUMENT
+augmented	augment	VBD	CW	VERB
+oversea	oversea	NN	CW	NOUN	ARGUMENT
+venture	venture	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+suez	suez	JJ	CW	ADJ
+canal	canal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+obsession	obsession	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+red	red	JJ	CW	ADJ
+peril	peril	NN	CW	NOUN	ARGUMENT
+1848	1848	CD	FW
+communist	communist	NN	CW	NOUN	ARGUMENT
+manifesto	manifesto	NN	CW	NOUN	ARGUMENT
+marx	marx	NN	CW	NOUN	ARGUMENT
+engel	engel	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+circulate	circulate	VBP	CW	VERB
+pari	parus	NNS	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+prevent	prevent	VB	CW	VERB
+such	such	JJ	CW	ADJ
+social	social	JJ	CW	ADJ
+reform	reform	NN	CW	NOUN	ARGUMENT
+worker	worker	NN	CW	NOUN	ARGUMENT
+right	right	JJ	CW	ADJ
+form	form	NN	CW	NOUN	ARGUMENT
+union	union	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+strike	strike	VB	CW	VERB
+
+sentence break
+
+excessive	excessive	JJ	CW	ADJ
+enthusiasm	enthusiasm	NN	CW	NOUN	ARGUMENT
+characterize	characterize	VBP	CW	VERB
+age	age	NN	CW	NOUN	ARGUMENT
+baron	baron	NN	CW	NOUN	ARGUMENT
+haussmann	haussmann	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+urban	urban	JJ	CW	ADJ
+planning	planning	NN	CW	NOUN	ARGUMENT
+redeveloped	redevelop	VBD	CW	VERB
+old	old	JJ	CW	ADJ
+parisian	parisian	JJ	CW	ADJ
+neighborhood	neighborhood	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+more	more	JJR	CW	ADJ
+airy	airy	JJ	CW	ADJ
+spacious	spacious	JJ	CW	ADJ
+capital	capital	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+similarly	similarly	RB	ADV	CW
+architect	architect	NN	CW	NOUN	ARGUMENT
+viollet-le	viollet-le	JJ	CW	ADJ
+duc	duc	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+go	go	VBP	CW	VERB
+overboard	overboard	RB	ADV	FW
+restore	restore	VB	CW	VERB
+great	great	JJ	CW	ADJ
+gothic	gothic	JJ	CW	ADJ
+cathedral	cathedral	NN	CW	NOUN	ARGUMENT
+medieval	medieval	JJ	CW	ADJ
+encoding error!
+way	way	NN	CW	NOUN	ARGUMENT
+original	original	JJ	CW	ADJ
+creator	creator	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+never	never	RB	ADV	CW
+imagine	imagine	VB	CW	VERB
+
+sentence break
+
+victor	victor	NN	CW	NOUN	ARGUMENT
+hugo	hugo	NN	CW	NOUN	ARGUMENT
+exile	exile	NN	CW	NOUN	ARGUMENT
+guernsey	guernsey	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+write	write	VB	CW	VERB
+le	le	DT	FW
+encoding error!
+baudelaire	baudelaire	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+work	work	NN	CW	NOUN	ARGUMENT
+le	le	DT	FW
+fleur	fleur	NNP	CW	NOUN	ARGUMENT
+du	du	NNP	CW	NOUN	ARGUMENT
+mal	mal	NNP	CW	NOUN	ARGUMENT
+offenbach	offenbach	NNP	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+compose	compose	VB	CW	VERB
+jolly	jolly	RB	ADV	CW
+operetta	operetta	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+la	la	DT	FW
+belle	belle	FW	FW
+encoding error!
+
+sentence break
+
+courbet	courbet	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+paint	paint	NN	CW	NOUN	ARGUMENT
+vast	vast	JJ	CW	ADJ
+canvas	canvas	NN	CW	NOUN	ARGUMENT
+provincial	provincial	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+manet	manet	NN	CW	NOUN	ARGUMENT
+encoding error!
+sur	sur	NN	CW	NOUN	ARGUMENT
+l	l	NN	CW	NOUN	ARGUMENT
+herbe	herbe	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+society	society	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+optimistic	optimistic	JJ	CW	ADJ
+
+sentence break
+
+bourgeoisie	bourgeoisie	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+prosperity	prosperity	NN	CW	NOUN	ARGUMENT
+extravagant	extravagant	JJ	CW	ADJ
+furnishings	furnishings	NNS	CW	NOUN	ARGUMENT
+silk	silk	NN	CW	NOUN	ARGUMENT
+satin	satin	JJ	CW	ADJ
+bauble	bauble	NN	CW	NOUN	ARGUMENT
+1852	1852	CD	FW
+pari	parus	NNS	CW	NOUN	ARGUMENT
+open	open	JJ	CW	ADJ
+first	first	JJ	CW	ADJ
+department	department	NN	CW	NOUN	ARGUMENT
+store	store	NN	CW	NOUN	ARGUMENT
+au	au	NN	CW	NOUN	ARGUMENT
+bon	bon	FW	FW
+encoding error!
+
+sentence break
+
+france	france	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+develop	develop	VB	CW	VERB
+national	national	JJ	CW	ADJ
+identity	identity	NN	CW	NOUN	ARGUMENT
+optimism	optimism	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+critique	critique	NN	CW	NOUN	ARGUMENT
+constant	constant	JJ	CW	ADJ
+pressure	pressure	NN	CW	NOUN	ARGUMENT
+improvement	improvement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+germany	germany	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+account	account	NN	CW	NOUN	ARGUMENT
+settle	settle	VB	CW	VERB
+
+sentence break
+
+1870	1870	CD	FW
+prussian	prussian	JJ	CW	ADJ
+chancellor	chancellor	NN	CW	NOUN	ARGUMENT
+bismarck	bismarck	NN	CW	NOUN	ARGUMENT
+exploit	exploit	VBP	CW	VERB
+obscure	obscure	JJ	CW	ADJ
+diplomatic	diplomatic	JJ	CW	ADJ
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+unite	unite	VB	CW	VERB
+various	various	JJ	CW	ADJ
+german	german	JJ	CW	ADJ
+principality	principality	NN	CW	NOUN	ARGUMENT
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+well	well	RB	ADV	CW
+equip	equip	VB	CW	VERB
+war	war	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lightning	lightning	NN	CW	NOUN	ARGUMENT
+victory	victory	NN	CW	NOUN	ARGUMENT
+ill-prepared	ill-prepared	JJ	CW	ADJ
+french	french	JJ	CW	ADJ
+army	army	NN	CW	NOUN	ARGUMENT
+german	german	JJ	CW	ADJ
+march	march	NN	CW	NOUN	ARGUMENT
+pari	parus	NN	CW	NOUN	ARGUMENT
+lay	lay	VBD	CW	VERB
+siege	siege	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+capitulate	capitulate	VBP	CW	VERB
+january	january	NNP	CW	NOUN	ARGUMENT
+1871	1871	CD	FW
+face	face	NN	CW	NOUN	ARGUMENT
+dwindle	dwindle	VBP	CW	VERB
+food	food	NN	CW	NOUN	ARGUMENT
+supplies	supplies	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+part	part	NN	CW	NOUN	ARGUMENT
+settlement	settlement	NN	CW	NOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+alsace	alsace	NN	CW	NOUN	ARGUMENT
+portion	portion	NN	CW	NOUN	ARGUMENT
+lorraine	lorraine	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+cede	cede	VB	CW	VERB
+germany	germany	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+shatter	shatter	NN	CW	NOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+third	third	JJ	CW	ADJ
+republic	republic	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+government	government	NN	CW	NOUN	ARGUMENT
+adolphe	adolphe	NN	CW	NOUN	ARGUMENT
+thier	thier	NN	CW	NOUN	ARGUMENT
+negotiate	negotiate	VBP	CW	VERB
+term	term	NN	CW	NOUN	ARGUMENT
+surrender	surrender	NN	CW	NOUN	ARGUMENT
+worker	worker	NN	CW	NOUN	ARGUMENT
+commune	commune	NN	CW	NOUN	ARGUMENT
+refuse	refuse	VBP	FW	aux_or_cop
+give	give	VB	CW	VERB
+
+sentence break
+
+march	march	VB	CW	VERB
+1871	1871	CD	FW
+take	take	VBP	CW	VERB
+pari	pari	JJ	CW	ADJ
+few	few	JJ	CW	ADJ
+provincial	provincial	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+hold	hold	VBP	CW	VERB
+ten	ten	CD	FW
+brave	brave	VBP	CW	VERB
+desperately	desperately	RB	ADV	CW
+disorganized	disorganized	JJ	CW	ADJ
+week	week	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+brutally	brutally	RB	ADV	CW
+crush	crush	VB	CW	VERB
+government	government	NN	CW	NOUN	ARGUMENT
+troops	troops	NNS	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+restore	restore	VB	CW	VERB
+
+sentence break
+
+france	france	NN	CW	NOUN	ARGUMENT
+resume	resume	VB	CW	VERB
+industrial	industrial	JJ	CW	ADJ
+progress	progress	NN	CW	NOUN	ARGUMENT
+quickly	quickly	RB	ADV	CW
+pay	pay	VBP	CW	VERB
+enormous	enormous	JJ	CW	ADJ
+war-reparation	war-reparation	JJ	CW	ADJ
+debt	debt	NN	CW	NOUN	ARGUMENT
+germany	germany	NN	CW	NOUN	ARGUMENT
+expand	expand	VB	CW	VERB
+oversea	oversea	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+west	west	JJ	CW	ADJ
+africa	africa	NN	CW	NOUN	ARGUMENT
+indochina	indochina	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rediscovered	rediscovered	JJ	CW	ADJ
+national	national	JJ	CW	ADJ
+pride	pride	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+perfect	perfect	JJ	CW	ADJ
+expression	expression	NN	CW	NOUN	ARGUMENT
+eiffel	eiffel	NN	CW	NOUN	ARGUMENT
+tower	tower	NN	CW	NOUN	ARGUMENT
+thrust	thrust	NN	CW	NOUN	ARGUMENT
+pari	parus	NN	CW	NOUN	ARGUMENT
+sky	sky	NN	CW	NOUN	ARGUMENT
+international	international	JJ	CW	ADJ
+exhibition	exhibition	NN	CW	NOUN	ARGUMENT
+1889	1889	CD	FW
+
+sentence break
+
+1874	1874	CD	FW
+first	first	JJ	CW	ADJ
+exhibition	exhibition	NN	CW	NOUN	ARGUMENT
+impressionism	impressionism	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+blow	blow	NN	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+dust	dust	NN	CW	NOUN	ARGUMENT
+cobweb	cobweb	NN	CW	NOUN	ARGUMENT
+artistic	artistic	JJ	CW	ADJ
+establishment	establishment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+novelist	novelist	NN	CW	NOUN	ARGUMENT
+emile	emile	NN	CW	NOUN	ARGUMENT
+zolum	zolum	NN	CW	NOUN	ARGUMENT
+pour	pour	VBP	CW	VERB
+forth	forth	RB	ADV	FW
+argument	argument	NN	CW	NOUN	ARGUMENT
+industrial	industrial	JJ	CW	ADJ
+exploitation	exploitation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rodin	rodin	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+restrained	restrained	JJ	CW	ADJ
+sculpted	sculpted	JJ	CW	ADJ
+masterpiece	masterpiece	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+le	le	DT	FW
+penseur	penseur	JJ	CW	ADJ
+thinker	thinker	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lead	lead	JJ	CW	ADJ
+republican	republican	JJ	CW	ADJ
+hostility	hostility	NN	CW	NOUN	ARGUMENT
+church	church	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+entrench	entrench	VB	CW	VERB
+position	position	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+1882	1882	CD	FW
+jule	jule	NN	CW	NOUN	ARGUMENT
+ferry	ferry	NN	CW	NOUN	ARGUMENT
+enact	enact	VBP	CW	VERB
+legislation	legislation	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+form	form	NN	CW	NOUN	ARGUMENT
+basis	basis	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+formidable	formidable	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+education	education	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+
+sentence break
+
+right	right	RB	ADV	CW
+nationalist	nationalist	JJ	CW	ADJ
+force	force	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+motivate	motivate	VB	CW	VERB
+desire	desire	NN	CW	NOUN	ARGUMENT
+hit	hit	VBD	CW	VERB
+back	back	RB	ADV	CW
+germany	germany	JJ	CW	ADJ
+see	see	VBP	CW	VERB
+contact	contact	NN	CW	NOUN	ARGUMENT
+foreigner	foreigner	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+cosmopolitanism	cosmopolitanism	NN	CW	NOUN	ARGUMENT
+threat	threat	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+honor	honor	NN	CW	NOUN	ARGUMENT
+integrity	integrity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+jew	jew	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+embodiment	embodiment	JJ	CW	ADJ
+threat	threat	NN	CW	NOUN	ARGUMENT
+edouard	edouard	NN	CW	NOUN	ARGUMENT
+drumont	drumont	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+vehemently	vehemently	RB	ADV	CW
+anti-	anti-	JJ	CW	ADJ
+semitic	semitic	JJ	CW	ADJ
+la	la	NNP	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+juive	juive	JJ	CW	ADJ
+jewish	jewish	JJ	CW	ADJ
+france	france	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+runaway	runaway	JJ	CW	ADJ
+national	national	JJ	CW	ADJ
+bestseller	bestseller	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+appear	appear	VB	CW	VERB
+1886	1886	CD	FW
+eight	eight	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+captain	captain	NN	CW	NOUN	ARGUMENT
+alfred	alfr	VBD	CW	VERB
+dreyfus	dreyfus	NN	CW	NOUN	ARGUMENT
+alsatian	alsatian	JJ	CW	ADJ
+jew	jew	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+army	army	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+arrest	arrest	NN	CW	NOUN	ARGUMENT
+prove	prove	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+trumped-up	trumped-up	JJ	CW	ADJ
+charge	charge	NN	CW	NOUN	ARGUMENT
+spy	spy	NN	CW	NOUN	ARGUMENT
+german	german	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+case	case	NN	CW	NOUN	ARGUMENT
+pit	pit	NN	CW	NOUN	ARGUMENT
+fragile	fragile	JJ	CW	ADJ
+honor	honor	NN	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+survival	survival	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+republican	republican	JJ	CW	ADJ
+democracy	democracy	NN	CW	NOUN	ARGUMENT
+captain	captain	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+wait	wait	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+rehabilitation	rehabilitation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+desire	desire	NN	CW	NOUN	ARGUMENT
+revenge	revenge	NN	CW	NOUN	ARGUMENT
+germany	germany	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+
+sentence break
+
+germany	germany	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+own	own	VBP	CW	VERB
+imperial	imperial	JJ	CW	ADJ
+ambition	ambition	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+competition	competition	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+market	market	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+intense	intense	JJ	CW	ADJ
+
+sentence break
+
+most	most	RBS	ADV	CW
+france	france	RB	ADV	FW
+go	go	VB	CW	VERB
+enthusiastically	enthusiastically	RB	ADV	FW
+world	world	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+come	come	VBD	CW	VERB
+victorious	victorious	JJ	CW	ADJ
+yet	yet	RB	ADV	CW
+bleed	bleed	VB	CW	VERB
+white	white	JJ	CW	ADJ
+
+sentence break
+
+1919	1919	CD	FW
+treaty	treaty	NN	CW	NOUN	ARGUMENT
+versaille	versaille	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+recover	recover	VB	CW	VERB
+alsace	alsace	NN	CW	NOUN	ARGUMENT
+lorraine	lorraine	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1	1	CD	FW
+350	350	CD	FW
+000	000	CD	FW
+man	man	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+lose	lose	VB	CW	VERB
+four	four	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+national	national	JJ	CW	ADJ
+economy	economy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+shatter	shatter	VB	CW	VERB
+political	political	JJ	CW	ADJ
+division	division	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+extreme	extreme	JJ	CW	ADJ
+ever	ever	RB	ADV	CW
+
+sentence break
+
+face	face	NN	CW	NOUN	ARGUMENT
+fear	fear	NN	CW	NOUN	ARGUMENT
+arouse	arouse	VB	CW	VERB
+russian	russian	JJ	CW	ADJ
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+1917	1917	CD	FW
+conservative	conservative	JJ	CW	ADJ
+party	party	NN	CW	NOUN	ARGUMENT
+dominate	dominate	VB	CW	VERB
+immediate	immediate	JJ	CW	ADJ
+post-war	post-war	JJ	CW	ADJ
+period	period	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+french	french	JJ	CW	ADJ
+communist	communist	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+loyal	loyal	JJ	CW	ADJ
+moscow	moscow	NN	CW	NOUN	ARGUMENT
+split	split	NN	CW	NOUN	ARGUMENT
+socialist	socialist	JJ	CW	ADJ
+1920	1920	CD	FW
+
+sentence break
+
+france	france	NN	CW	NOUN	ARGUMENT
+seem	seem	VBP	CW	VERB
+less	less	JJR	CW	ADJ
+aware	aware	JJ	CW	ADJ
+threat	threat	NN	CW	NOUN	ARGUMENT
+nazus	nazus	NN	CW	NOUN	ARGUMENT
+germany	germany	NN	CW	NOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+hitler	hitler	NN	CW	NOUN	ARGUMENT
+remilitarize	remilitarize	VB	CW	VERB
+rhineland	rhineland	NN	CW	NOUN	ARGUMENT
+1936	1936	CD	FW
+breach	breach	NN	CW	NOUN	ARGUMENT
+versaille	versaille	NN	CW	NOUN	ARGUMENT
+treaty	treaty	NN	CW	NOUN	ARGUMENT
+step	step	NN	CW	NOUN	ARGUMENT
+hitler	hitler	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+say	say	VBP	CW	VERB
+have	have	VBP	CW	VERB
+never	never	RB	ADV	CW
+dream	dream	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+away	away	RB	ADV	CW
+
+sentence break
+
+1930	1930	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+extreme	extreme	JJ	CW	ADJ
+right-wing	right-wing	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+action	action	NN	CW	NOUN	ARGUMENT
+encoding error!
+croix-de	croix-de	NN	CW	NOUN	ARGUMENT
+feu	feu	NN	CW	NOUN	ARGUMENT
+cross	cross	NN	CW	NOUN	ARGUMENT
+fire	fire	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+strong	strong	JJ	CW	ADJ
+antidemocratic	antidemocratic	JJ	CW	ADJ
+undercurrent	undercurrent	NN	CW	NOUN	ARGUMENT
+political	political	JJ	CW	ADJ
+turmoil	turmoil	NN	CW	NOUN	ARGUMENT
+financial	financial	JJ	CW	ADJ
+scandal	scandal	NN	CW	NOUN	ARGUMENT
+parliamentary	parliamentary	JJ	CW	ADJ
+corruption	corruption	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bloody	bloody	JJ	CW	ADJ
+1934	1934	CD	FW
+riot	riot	NN	CW	NOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+la	la	NNP	CW	NOUN	ARGUMENT
+concorde	concorde	NNP	CW	NOUN	ARGUMENT
+pari	parus	NN	CW	NOUN	ARGUMENT
+offer	offer	NN	CW	NOUN	ARGUMENT
+disturbing	disturbing	JJ	CW	ADJ
+echo	echo	VBP	CW	VERB
+street	street	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+fascist	fascist	JJ	CW	ADJ
+italy	italy	RB	ADV	CW
+nazus	nazus	JJ	CW	ADJ
+germany	germany	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+left-wing	left-wing	JJ	CW	ADJ
+party	party	NN	CW	NOUN	ARGUMENT
+responded	respond	VBD	CW	VERB
+band	band	NN	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+popular	popular	JJ	CW	ADJ
+front	front	JJ	CW	ADJ
+socialist	socialist	JJ	CW	ADJ
+lead	lead	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+1936	1936	CD	FW
+
+sentence break
+
+first	first	RB	ADV	CW
+few	few	JJ	CW	ADJ
+week	week	NN	CW	NOUN	ARGUMENT
+encoding error!
+blum	blum	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+government	government	NN	CW	NOUN	ARGUMENT
+nationalize	nationalize	VB	CW	VERB
+railway	railway	NN	CW	NOUN	ARGUMENT
+bring	bring	VB	CW	VERB
+40	40	CD	FW
+
+sentence break
+
+hour	hour	NN	CW	NOUN	ARGUMENT
+week	week	NN	CW	NOUN	ARGUMENT
+institute	institute	NN	CW	NOUN	ARGUMENT
+worker	worker	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+holiday	holiday	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+communist	communist	JJ	CW	ADJ
+break	break	NN	CW	NOUN	ARGUMENT
+alliance	alliance	NN	CW	NOUN	ARGUMENT
+blum	blum	NN	CW	NOUN	ARGUMENT
+first	first	RB	ADV	CW
+fail	fail	VBP	CW	VERB
+support	support	NN	CW	NOUN	ARGUMENT
+republican	republican	JJ	CW	ADJ
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+civil	civil	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+face	face	NN	CW	NOUN	ARGUMENT
+financial	financial	JJ	CW	ADJ
+difficulty	difficulty	NN	CW	NOUN	ARGUMENT
+put	put	VBD	CW	VERB
+brake	brake	NNP	CW	NOUN	ARGUMENT
+reform	reform	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+blum	blum	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+government	government	NN	CW	NOUN	ARGUMENT
+collapse	collapse	NN	CW	NOUN	ARGUMENT
+1938	1938	CD	FW
+new	new	JJ	CW	ADJ
+prime	prime	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+edouard	edouard	NN	CW	NOUN	ARGUMENT
+daladier	daladier	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+negotiate	negotiate	VB	CW	VERB
+munich	munich	NNP	CW	NOUN	ARGUMENT
+agreement	agreement	NN	CW	NOUN	ARGUMENT
+hitler	hitler	NN	CW	NOUN	ARGUMENT
+mussolinus	mussolinus	NN	CW	NOUN	ARGUMENT
+britain	britain	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+neville	neville	VBP	CW	VERB
+chamberlain	chamberlain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+france	france	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+once	once	RB	ADV	CW
+again	again	RB	ADV	CW
+war	war	NN	CW	NOUN	ARGUMENT
+germany	germany	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+relie	relie	NN	CW	NOUN	ARGUMENT
+too	too	RB	ADV	CW
+complacently	complacently	RB	ADV	CW
+defensive	defensive	JJ	CW	ADJ
+strategy	strategy	NN	CW	NOUN	ARGUMENT
+fortify	fortify	NN	CW	NOUN	ARGUMENT
+maginot	maginot	NN	CW	NOUN	ARGUMENT
+line	line	NN	CW	NOUN	ARGUMENT
+northeast	northeast	NN	CW	NOUN	ARGUMENT
+frontier	frontier	NN	CW	NOUN	ARGUMENT
+germany	germany	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+face	face	VB	CW	VERB
+belgium	belgium	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+totally	totally	RB	ADV	CW
+unprepared	unprepared	JJ	CW	ADJ
+german	german	JJ	CW	ADJ
+invasion	invasion	NN	CW	NOUN	ARGUMENT
+ardenn	ardenn	NN	CW	NOUN	ARGUMENT
+may	may	MD	CW	VERB
+1940	1940	CD	FW
+
+sentence break
+
+fast-moving	fast-moving	JJ	CW	ADJ
+tank	tank	NN	CW	NOUN	ARGUMENT
+superior	superior	JJ	CW	ADJ
+air	air	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+german	german	JJ	CW	ADJ
+reach	reach	NN	CW	NOUN	ARGUMENT
+pari	parus	NN	CW	NOUN	ARGUMENT
+30	30	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+
+sentence break
+
+marshal	marshal	NN	CW	NOUN	ARGUMENT
+philippe	philippe	NN	CW	NOUN	ARGUMENT
+encoding error!
+hero	hero	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+capitulate	capitulate	VBP	CW	VERB
+behalf	behalf	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+june	june	NNP	CW	NOUN	ARGUMENT
+16	16	CD	FW
+
+sentence break
+
+two	two	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+bbc	bbc	VBD	CW	VERB
+radio	radio	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+london	london	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+gaulle	gaulle	NN	CW	NOUN	ARGUMENT
+appeal	appeal	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+resistance	resistance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+compare	compare	VB	CW	VERB
+other	other	JJ	CW	ADJ
+occupied	occupied	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+belgium	belgium	NN	CW	NOUN	ARGUMENT
+holland	holland	NN	CW	NOUN	ARGUMENT
+denmark	denmark	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+collaboration	collaboration	NN	CW	NOUN	ARGUMENT
+german	german	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+inglorious	inglorious	JJ	CW	ADJ
+story	story	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+base	base	NN	CW	NOUN	ARGUMENT
+auvergnat	auvergnat	NN	CW	NOUN	ARGUMENT
+spa	spa	NN	CW	NOUN	ARGUMENT
+town	town	NN	CW	NOUN	ARGUMENT
+vichy	vichy	JJ	CW	ADJ
+french	french	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+prove	prove	VBP	CW	VERB
+more	more	RBR	ADV	CW
+zealous	zealous	JJ	CW	ADJ
+master	master	NN	CW	NOUN	ARGUMENT
+suppress	suppress	VBP	CW	VERB
+civil	civil	JJ	CW	ADJ
+liberty	liberty	NN	CW	NOUN	ARGUMENT
+draw	draw	NN	CW	NOUN	ARGUMENT
+anti-	anti-	JJ	CW	ADJ
+jewish	jewish	JJ	CW	ADJ
+legislation	legislation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+french	french	JJ	CW	ADJ
+police	police	NN	CW	NOUN	ARGUMENT
+round	round	NN	CW	NOUN	ARGUMENT
+deportee	deportee	NN	CW	NOUN	ARGUMENT
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+camp	camp	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+denounce	denounce	VBP	CW	VERB
+french	french	JJ	CW	ADJ
+civilian	civilian	JJ	CW	ADJ
+seek	seek	VBP	CW	VERB
+profit	profit	NN	CW	NOUN	ARGUMENT
+confiscation	confiscation	NN	CW	NOUN	ARGUMENT
+property	property	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fighter	fighter	NN	CW	NOUN	ARGUMENT
+underground	underground	JJ	CW	ADJ
+resistance	resistance	NN	CW	NOUN	ARGUMENT
+movement	movement	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+heroic	heroic	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+tiny	tiny	JJ	CW	ADJ
+minority	minority	NN	CW	NOUN	ARGUMENT
+few	few	JJ	CW	ADJ
+conservative	conservative	JJ	CW	ADJ
+patriot	patriot	NN	CW	NOUN	ARGUMENT
+gaulle	gaulle	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+socialist	socialist	JJ	CW	ADJ
+communist	communist	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+handful	handful	NN	CW	NOUN	ARGUMENT
+refugee	refugee	NN	CW	NOUN	ARGUMENT
+eastern	eastern	JJ	CW	ADJ
+europe	europe	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+deliverance	deliverance	NN	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+ally	ally	NN	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+beach	beach	NN	CW	NOUN	ARGUMENT
+normandy	normandy	NN	CW	NOUN	ARGUMENT
+d-d	d-d	JJ	CW	ADJ
+ay	ay	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+june	june	NNP	CW	NOUN	ARGUMENT
+1944	1944	CD	FW
+
+sentence break
+
+de	de	IN	FW
+gaulle	gaulle	FW	FW
+canny	canny	JJ	CW	ADJ
+sense	sense	NN	CW	NOUN	ARGUMENT
+history	history	NN	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+important	important	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+rebuild	rebuild	VB	CW	VERB
+national	national	JJ	CW	ADJ
+self-confidence	self-confidence	NN	CW	NOUN	ARGUMENT
+insist	insist	VBP	FW	aux_or_cop
+french	french	JJ	CW	ADJ
+arm	arm	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+side	side	NN	CW	NOUN	ARGUMENT
+side	side	NN	CW	NOUN	ARGUMENT
+american	american	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+liberation	liberation	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+army	army	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+first	first	RB	ADV	CW
+enter	enter	VB	CW	VERB
+pari	parus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+high	high	JJ	CW	ADJ
+emotion	emotion	NN	CW	NOUN	ARGUMENT
+gaulle	gaulle	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+march	march	VB	CW	VERB
+champs	champ	NNS	CW	NOUN	ARGUMENT
+encoding error!
+business	business	NN	CW	NOUN	ARGUMENT
+post-war	post-war	JJ	CW	ADJ
+reconstruction	reconstruction	NN	CW	NOUN	ARGUMENT
+boost	boost	NN	CW	NOUN	ARGUMENT
+generous	generous	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+american	american	NN	CW	NOUN	ARGUMENT
+marshall	marshall	NN	CW	NOUN	ARGUMENT
+plan	plan	NN	CW	NOUN	ARGUMENT
+prove	prove	VBP	CW	VERB
+arduous	arduous	JJ	CW	ADJ
+wartime	wartime	JJ	CW	ADJ
+alliance	alliance	NN	CW	NOUN	ARGUMENT
+gaulle	gaulle	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+conservative	conservative	JJ	CW	ADJ
+communist	communist	JJ	CW	ADJ
+party	party	NN	CW	NOUN	ARGUMENT
+soon	soon	RB	ADV	CW
+break	break	VB	CW	VERB
+down	down	RP	FW
+
+sentence break
+
+general	general	JJ	CW	ADJ
+not	not	RB	ADV	CW
+tolerate	tolerate	VB	CW	VERB
+political	political	JJ	CW	ADJ
+squabble	squabble	NN	CW	NOUN	ARGUMENT
+fourth	fourth	JJ	CW	ADJ
+republic	republic	NN	CW	NOUN	ARGUMENT
+withdraw	withdraw	VB	CW	VERB
+public	public	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+government	government	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+repeatedly	repeatedly	RB	ADV	CW
+french	french	JJ	CW	ADJ
+muddle	muddle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+intellectual	intellectual	JJ	CW	ADJ
+debate	debate	NN	CW	NOUN	ARGUMENT
+existentialist	existentialist	NN	CW	NOUN	ARGUMENT
+merit	merit	NN	CW	NOUN	ARGUMENT
+albert	albert	NN	CW	NOUN	ARGUMENT
+camus	camus	NN	CW	NOUN	ARGUMENT
+jean	jean	NN	CW	NOUN	ARGUMENT
+paul	paul	NN	CW	NOUN	ARGUMENT
+sartre	sartre	NN	CW	NOUN	ARGUMENT
+pari	parus	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+left	leave	VBD	CW	VERB
+bank	bank	NN	CW	NOUN	ARGUMENT
+encoding error!
+
+sentence break
+
+french	french	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+collapse	collapse	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+france	france	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+fruitless	fruitless	JJ	CW	ADJ
+last	last	JJ	CW	ADJ
+stand	stand	NN	CW	NOUN	ARGUMENT
+vietnam	vietnam	NN	CW	NOUN	ARGUMENT
+pierre	pierre	NN	CW	NOUN	ARGUMENT
+encoding error!
+france	france	NN	CW	NOUN	ARGUMENT
+wisely	wisely	RB	ADV	CW
+negotiate	negotiate	VB	CW	VERB
+indochinese	indochinese	JJ	CW	ADJ
+peace	peace	NN	CW	NOUN	ARGUMENT
+settlement	settlement	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hand	hand	NN	CW	NOUN	ARGUMENT
+pondicherry	pondicherry	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+african	african	JJ	CW	ADJ
+colony	colony	NN	CW	NOUN	ARGUMENT
+give	give	VB	CW	VERB
+tunisium	tunisium	NN	CW	NOUN	ARGUMENT
+independence	independence	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+oust	oust	VB	CW	VERB
+office	office	NN	CW	NOUN	ARGUMENT
+hostilities	hostility	NNS	CW	NOUN	ARGUMENT
+break	break	VBP	CW	VERB
+algerium	algerium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+de	de	IN	FW
+gaulle	gaulle	FW	FW
+return	return	NN	CW	NOUN	ARGUMENT
+wilderness	wilderness	NN	CW	NOUN	ARGUMENT
+1958	1958	CD	FW
+ostensibly	ostensibly	RB	ADV	FW
+keep	keep	VB	CW	VERB
+algerium	algerium	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+
+sentence break
+
+see	see	VB	CW	VERB
+write	write	VB	FW	aux_or_cop
+wall	wall	NN	CW	NOUN	ARGUMENT
+bring	bring	VB	CW	VERB
+war	war	NN	CW	NOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+algerian	algerian	JJ	CW	ADJ
+independence	independence	NN	CW	NOUN	ARGUMENT
+1962	1962	CD	FW
+
+sentence break
+
+major	major	JJ	CW	ADJ
+task	task	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+rescue	rescue	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+chaos	chaos	NN	CW	NOUN	ARGUMENT
+fourth	fourth	JJ	CW	ADJ
+republic	republic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+constitution	constitution	NN	CW	NOUN	ARGUMENT
+tailor-made	tailor-made	JJ	CW	ADJ
+gaulle	gaulle	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+authoritarian	authoritarian	JJ	CW	ADJ
+requirement	requirement	NN	CW	NOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+president	president	NN	CW	NOUN	ARGUMENT
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+pursue	pursue	VB	CW	VERB
+own	own	JJ	CW	ADJ
+policy	policy	NN	CW	NOUN	ARGUMENT
+messy	messy	JJ	CW	ADJ
+arena	arena	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+politics	politics	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+colonial	colonial	JJ	CW	ADJ
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+algerium	algerium	NN	CW	NOUN	ARGUMENT
+morocco	morocco	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+have	have	VB	CW	VERB
+significant	significant	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+national	national	JJ	CW	ADJ
+identity	identity	NN	CW	NOUN	ARGUMENT
+later	later	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+empire	empire	NN	CW	NOUN	ARGUMENT
+receded	recede	VBD	CW	VERB
+colonized	colonize	VBN	CW	VERB
+population	population	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+central	central	JJ	CW	ADJ
+africa	africa	NN	CW	NOUN	ARGUMENT
+indochina	indochina	NN	CW	NOUN	ARGUMENT
+elsewhere	elsewhere	RB	ADV	CW
+begin	begin	VB	CW	VERB
+move	move	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+alter	alter	VBP	CW	VERB
+french	french	JJ	CW	ADJ
+identity	identity	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+more	more	RBR	ADV	CW
+
+sentence break
+
+de	de	IN	FW
+gaulle	gaulle	FW	FW
+s	s	VBZ	CW	VERB
+vision	vision	NN	CW	NOUN	ARGUMENT
+grandeur	grandeur	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+independent	independent	JJ	CW	ADJ
+nato	nato	JJ	CW	ADJ
+warsaw	warsaw	NN	CW	NOUN	ARGUMENT
+pact	pact	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+france	france	NN	CW	NOUN	ARGUMENT
+renew	renew	VB	CW	VERB
+self-confidence	self-confidence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+great	great	JJ	CW	ADJ
+achievement	achievement	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+close	close	JJ	CW	ADJ
+alliance	alliance	NN	CW	NOUN	ARGUMENT
+west	west	NN	CW	NOUN	ARGUMENT
+germany	germany	NN	CW	NOUN	ARGUMENT
+overcome	overcome	VBP	CW	VERB
+century	century	NN	CW	NOUN	ARGUMENT
+bloodshed	bloodshed	NN	CW	NOUN	ARGUMENT
+between	between	IN	FW
+two	two	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+self-confidence	self-confidence	NN	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+complacency	complacency	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+bourgeoisie	bourgeoisie	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+cast	cast	VBN	CW	VERB
+again	again	RB	ADV	CW
+shift	shift	NN	CW	NOUN	ARGUMENT
+ground	ground	NN	CW	NOUN	ARGUMENT
+massive	massive	JJ	CW	ADJ
+student	student	NN	CW	NOUN	ARGUMENT
+rebellion	rebellion	NN	CW	NOUN	ARGUMENT
+1968	1968	CD	FW
+
+sentence break
+
+event	event	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+erupt	erupt	VB	CW	VERB
+pari	parus	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+latin	latin	JJ	CW	ADJ
+quarter	quarter	NN	CW	NOUN	ARGUMENT
+swiftly	swiftly	RB	ADV	CW
+spread	spread	VBD	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+disturb	disturb	VBP	CW	VERB
+gaulle	gaulle	NN	CW	NOUN	ARGUMENT
+enough	enough	RB	ADV	CW
+seek	seek	VBP	CW	VERB
+reassurance	reassurance	NN	CW	NOUN	ARGUMENT
+troops	troops	NNS	CW	NOUN	ARGUMENT
+station	station	NN	CW	NOUN	ARGUMENT
+west	west	NN	CW	NOUN	ARGUMENT
+germany	germany	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+reluctant	reluctant	JJ	CW	ADJ
+make	make	VBP	CW	VERB
+complete	complete	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+1981	1981	CD	FW
+force	force	NN	CW	NOUN	ARGUMENT
+reform	reform	NN	CW	NOUN	ARGUMENT
+gather	gather	VBP	CW	VERB
+sufficient	sufficient	JJ	CW	ADJ
+strength	strength	NN	CW	NOUN	ARGUMENT
+elect	elect	VB	CW	VERB
+encoding error!
+mitterrand	mitterrand	NN	CW	NOUN	ARGUMENT
+fifth	fifth	JJ	CW	ADJ
+republic	republic	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+socialist	socialist	JJ	CW	ADJ
+president	president	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+popular	popular	JJ	CW	ADJ
+front	front	JJ	CW	ADJ
+1936	1936	CD	FW
+new	new	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+quick-fire	quick-fire	JJ	CW	ADJ
+set	set	NN	CW	NOUN	ARGUMENT
+reform	reform	NN	CW	NOUN	ARGUMENT
+broad	broad	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+nationalization	nationalization	NN	CW	NOUN	ARGUMENT
+abolition	abolition	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+penalty	penalty	NN	CW	NOUN	ARGUMENT
+raise	raise	VBP	CW	VERB
+minimum	minimum	JJ	CW	ADJ
+wage	wage	NN	CW	NOUN	ARGUMENT
+introduction	introduction	NN	CW	NOUN	ARGUMENT
+fifth	fifth	JJ	CW	ADJ
+week	week	NN	CW	NOUN	ARGUMENT
+holiday	holiday	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+impact	impact	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+economic	economic	JJ	CW	ADJ
+crisis	crisis	NN	CW	NOUN	ARGUMENT
+impose	impose	VB	CW	VERB
+necessary	necessary	JJ	CW	ADJ
+brake	brake	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+special	special	JJ	CW	ADJ
+emphasis	emphasis	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+place	place	NN	CW	NOUN	ARGUMENT
+cultural	cultural	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+generous	generous	JJ	CW	ADJ
+subsidy	subsidy	NN	CW	NOUN	ARGUMENT
+theater	theater	NN	CW	NOUN	ARGUMENT
+cinema	cinema	NN	CW	NOUN	ARGUMENT
+museum	museum	NN	CW	NOUN	ARGUMENT
+library	library	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+scientific	scientific	JJ	CW	ADJ
+research	research	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+probably	probably	RB	ADV	CW
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+reform	reform	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+least	least	JJS	CW	ADJ
+glamorous	glamorous	JJ	CW	ADJ
+
+sentence break
+
+decentralization	decentralization	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+regional	regional	JJ	CW	ADJ
+autonomy	autonomy	NN	CW	NOUN	ARGUMENT
+reverse	reverse	NN	CW	NOUN	ARGUMENT
+age-old	age-old	JJ	CW	ADJ
+trend	trend	NN	CW	NOUN	ARGUMENT
+concentrate	concentrate	NN	CW	NOUN	ARGUMENT
+political	political	JJ	CW	ADJ
+economic	economic	JJ	CW	ADJ
+administrative	administrative	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+capital	capital	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+allow	allow	VB	CW	VERB
+local	local	JJ	CW	ADJ
+pride	pride	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+historic	historic	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+provence	provence	NN	CW	NOUN	ARGUMENT
+normandy	normandy	NN	CW	NOUN	ARGUMENT
+brittany	brittany	NN	CW	NOUN	ARGUMENT
+languedoc	languedoc	NN	CW	NOUN	ARGUMENT
+reassert	reassert	VB	CW	VERB
+france	france	NN	CW	NOUN	ARGUMENT
+demonstrate	demonstrate	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+last	last	JJ	CW	ADJ
+secure	secure	JJ	CW	ADJ
+national	national	JJ	CW	ADJ
+identity	identity	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+secure	secure	JJ	CW	ADJ
+french	french	JJ	CW	ADJ
+citizen	citizen	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+begin	begin	VB	CW	VERB
+carry	carry	VB	CW	VERB
+european	european	JJ	CW	ADJ
+passport	passport	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+founding	found	VBG	CW	VERB
+member	member	NN	CW	NOUN	ARGUMENT
+european	european	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+look	look	NN	CW	NOUN	ARGUMENT
+wider	wider	JJR	CW	ADJ
+continental	continental	JJ	CW	ADJ
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+1990	1990	CD	FW
+s.	s.	NN	CW	NOUN	ARGUMENT
+yet	yet	RB	ADV	CW
+modern	modern	JJ	CW	ADJ
+france	france	NN	CW	NOUN	ARGUMENT
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+similar	similar	JJ	CW	ADJ
+identity	identity	NN	CW	NOUN	ARGUMENT
+issue	issue	NN	CW	NOUN	ARGUMENT
+european	european	JJ	CW	ADJ
+union	union	NN	CW	NOUN	ARGUMENT
+neighbor	neighbor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+number	number	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+citizen	citizen	NN	CW	NOUN	ARGUMENT
+non	non	JJ	CW	ADJ
+french	french	JJ	CW	ADJ
+heritage	heritage	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+substantial	substantial	JJ	CW	ADJ
+revive	revive	VB	CW	VERB
+nationalist	nationalist	JJ	CW	ADJ
+sentiment	sentiment	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+front	front	JJ	CW	ADJ
+national	national	JJ	CW	ADJ
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+experience	experience	NN	CW	NOUN	ARGUMENT
+diversity	diversity	NN	CW	NOUN	ARGUMENT
+tension	tension	NN	CW	NOUN	ARGUMENT
+cultural	cultural	JJ	CW	ADJ
+social	social	JJ	CW	ADJ
+political	political	JJ	CW	ADJ
+sphere	sphere	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+french	french	JJ	CW	ADJ
+team	team	NN	CW	NOUN	ARGUMENT
+win	win	VB	CW	VERB
+1998	1998	CD	FW
+world	world	NN	CW	NOUN	ARGUMENT
+cup	cup	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+deem	deem	VB	CW	VERB
+unsuitable	unsuitable	JJ	CW	ADJ
+represent	represent	VBP	CW	VERB
+france	france	NN	CW	NOUN	ARGUMENT
+mixed	mixed	JJ	CW	ADJ
+heritage	heritage	NN	CW	NOUN	ARGUMENT
+player	player	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+team	team	NN	CW	NOUN	ARGUMENT
+accurately	accurately	RB	ADV	CW
+reflect	reflect	VBP	CW	VERB
+social	social	JJ	CW	ADJ
+diversity	diversity	NN	CW	NOUN	ARGUMENT
+exist	exist	VBP	CW	VERB
+france	france	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+corporate	corporate	JJ	CW	ADJ
+fast-food	fast-food	NN	CW	NOUN	ARGUMENT
+culture	culture	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+freedom	freedom	NN	CW	NOUN	ARGUMENT
+movement	movement	NN	CW	NOUN	ARGUMENT
+european	european	JJ	CW	ADJ
+union	union	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+international	international	JJ	CW	ADJ
+perspective	perspective	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+further	further	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+landscape	landscape	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+today	today	NN	CW	NOUN	ARGUMENT
+onion	onion	NN	CW	NOUN	ARGUMENT
+seller	seller	NN	CW	NOUN	ARGUMENT
+beret	beret	NN	CW	NOUN	ARGUMENT
+bicycle	bicycle	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+become	become	VBN	CW	VERB
+much	much	JJ	CW	ADJ
+anomaly	anomaly	RB	ADV	FW
+france	france	JJ	CW	ADJ
+s	s	NNS	CW	NOUN	ARGUMENT
+urban	urban	JJ	CW	ADJ
+suburban	suburban	JJ	CW	ADJ
+setting	setting	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+america	america	IN	FW
+
+sentence break
+
+
+paragraph break
+

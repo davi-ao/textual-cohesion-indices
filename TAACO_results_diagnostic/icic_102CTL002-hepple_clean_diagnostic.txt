@@ -1,0 +1,298 @@
+word	lemma	POS	CW\FW	other categories
+one	one	CD	FW
+biggest	biggest	JJS	CW	ADJ
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+face	face	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+find	find	VB	CW	VERB
+qualify	qualify	VB	CW	VERB
+educate	educate	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+fill	fill	VB	CW	VERB
+position	position	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+number	number	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+report	report	NN	CW	NOUN	ARGUMENT
+shortage	shortage	NN	CW	NOUN	ARGUMENT
+skilled	skilled	JJ	CW	ADJ
+worker	worker	NN	CW	NOUN	ARGUMENT
+almost	almost	RB	ADV	FW
+double	double	JJ	CW	ADJ
+1995	1995	CD	FW
+1998	1998	CD	FW
+
+sentence break
+
+27	27	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+47	47	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+know	know	VB	CW	VERB
+20	20	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+worker	worker	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+low	low	JJ	CW	ADJ
+basic	basic	JJ	CW	ADJ
+skill	skill	NN	CW	NOUN	ARGUMENT
+75	75	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+unemployed	unemployed	JJ	CW	ADJ
+adult	adult	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+reading	reading	NN	CW	NOUN	ARGUMENT
+write	write	VB	CW	VERB
+difficulty	difficulty	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+work	work	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+literacy	literacy	NN	CW	NOUN	ARGUMENT
+statistics	statistics	NNS	CW	NOUN	ARGUMENT
+change	change	VBP	CW	VERB
+little	little	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+know	know	VB	CW	VERB
+combine	combine	VB	CW	VERB
+effort	effort	NN	CW	NOUN	ARGUMENT
+literacy	literacy	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+reach	reach	VBP	CW	VERB
+only	only	RB	ADV	CW
+ten	ten	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+adult	adult	JJ	CW	ADJ
+reading	reading	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+department	department	NN	CW	NOUN	ARGUMENT
+labor	labor	NN	CW	NOUN	ARGUMENT
+estimate	estimate	NN	CW	NOUN	ARGUMENT
+business	business	NN	CW	NOUN	ARGUMENT
+taxpayer	taxpayer	NN	CW	NOUN	ARGUMENT
+foot	foot	NN	CW	NOUN	ARGUMENT
+bill	bill	NN	CW	NOUN	ARGUMENT
+60	60	CD	FW
+billion	billion	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bill	bill	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+workplace	workplace	NN	CW	NOUN	ARGUMENT
+accident	accident	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+productivity	productivity	NN	CW	NOUN	ARGUMENT
+unrealized	unrealized	JJ	CW	ADJ
+tax	tax	NN	CW	NOUN	ARGUMENT
+revenue	revenue	NN	CW	NOUN	ARGUMENT
+welfare	welfare	NN	CW	NOUN	ARGUMENT
+payment	payment	NN	CW	NOUN	ARGUMENT
+crime	crime	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+work	work	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+statistics	statistics	NNS	CW	NOUN	ARGUMENT
+one	one	CD	FW
+life	life	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1984	1984	CD	FW
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+formerly	formerly	RB	ADV	CW
+greater	greater	JJR	CW	ADJ
+indianapoli	indianapolus	NN	CW	NOUN	ARGUMENT
+literacy	literacy	NN	CW	NOUN	ARGUMENT
+league	league	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+provide	provide	VBP	CW	VERB
+tutor	tutor	NN	CW	NOUN	ARGUMENT
+adult	adult	JJ	CW	ADJ
+marion	marion	NN	CW	NOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+reading	reading	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+lowest	lowest	JJS	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+literacy	literacy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+today	today	NN	CW	NOUN	ARGUMENT
+addition	addition	NN	CW	NOUN	ARGUMENT
+one-on-one	one-on-one	JJ	CW	ADJ
+tutor	tutor	NN	CW	NOUN	ARGUMENT
+offer	offer	NN	CW	NOUN	ARGUMENT
+small	small	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+second	second	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+tutor	tutor	NN	CW	NOUN	ARGUMENT
+video-based	video-based	JJ	CW	ADJ
+instruction	instruction	NN	CW	NOUN	ARGUMENT
+adult	adult	JJ	CW	ADJ
+learn	learn	VBP	CW	VERB
+disability	disability	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bring	bring	VB	CW	VERB
+together	together	RB	ADV	CW
+dedicate	dedicate	VB	CW	VERB
+adult	adult	JJ	CW	ADJ
+learner	learner	NN	CW	NOUN	ARGUMENT
+commit	commit	VB	CW	VERB
+well-trained	well-trained	JJ	CW	ADJ
+volunteer	volunteer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+believe	believe	VB	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+learn	learn	VBP	FW	aux_or_cop
+read	read	VBN	FW	aux_or_cop
+write	write	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+ask	ask	VB	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+send	send	VB	CW	VERB
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+student	student	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+gain	gain	NN	CW	NOUN	ARGUMENT
+reading	reading	NN	CW	NOUN	ARGUMENT
+write	write	VB	CW	VERB
+language	language	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gain	gain	NN	CW	NOUN	ARGUMENT
+organization	organization	NN	CW	NOUN	ARGUMENT
+leadership	leadership	NN	CW	NOUN	ARGUMENT
+skill	skill	NN	CW	NOUN	ARGUMENT
+continually	continually	RB	ADV	CW
+strive	strive	VBP	CW	VERB
+change	change	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+skill	skill	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+help	help	NN	CW	NOUN	ARGUMENT
+change	change	VB	CW	VERB
+
+sentence break
+
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+change	change	VB	CW	VERB
+life	life	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+employment	employment	NN	CW	NOUN	ARGUMENT
+prospects	prospects	NNS	CW	NOUN	ARGUMENT
+hundred	hundred	CD	FW
+man	man	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+need	need	VB	CW	VERB
+support	support	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+please	please	VB	CW	VERB
+consider	consider	VB	CW	VERB
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+corporate	corporate	JJ	CW	ADJ
+contributor	contributor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+acknowledge	acknowledge	VBP	CW	VERB
+newsletter	newsletter	NN	CW	NOUN	ARGUMENT
+annual	annual	JJ	CW	ADJ
+report	report	NN	CW	NOUN	ARGUMENT
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+webpage	webpage	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hope	hope	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+partner	partner	NN	CW	NOUN	ARGUMENT
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+community	community	NN	CW	NOUN	ARGUMENT
+literacy	literacy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thank	thank	VB	CW	VERB
+concern	concern	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+indy	indy	JJ	CW	ADJ
+read	read	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

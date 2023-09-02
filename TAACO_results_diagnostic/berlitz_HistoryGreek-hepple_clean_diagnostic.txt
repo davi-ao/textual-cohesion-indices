@@ -1,0 +1,2013 @@
+word	lemma	POS	CW\FW	other categories
+prehistoric	prehistoric	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+asium	asium	NN	CW	NOUN	ARGUMENT
+minor	minor	JJ	CW	ADJ
+now	now	RB	ADV	CW
+modern	modern	JJ	CW	ADJ
+turkey	turkey	NN	CW	NOUN	ARGUMENT
+greece	greece	NN	CW	NOUN	ARGUMENT
+look	look	VBP	CW	VERB
+aegean	aegean	JJ	CW	ADJ
+horizon	horizon	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+faint	faint	JJ	CW	ADJ
+silhouette	silhouette	NN	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+curiosity	curiosity	NN	CW	NOUN	ARGUMENT
+push	push	NN	CW	NOUN	ARGUMENT
+build	build	VB	FW	aux_or_cop
+vessel	vessel	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+strong	strong	JJ	CW	ADJ
+enough	enough	JJ	CW	ADJ
+ford	ford	NN	CW	NOUN	ARGUMENT
+open	open	JJ	CW	ADJ
+sea	sea	NN	CW	NOUN	ARGUMENT
+reach	reach	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+start	start	NN	CW	NOUN	ARGUMENT
+long	long	RB	ADV	CW
+legacy	legacy	NN	CW	NOUN	ARGUMENT
+mediterranean	mediterranean	JJ	CW	ADJ
+seafare	seafare	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+7000	7000	CD	FW
+phoenician	phoenician	JJ	CW	ADJ
+set	set	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+iran	iran	JJ	CW	ADJ
+explore	explore	VB	CW	VERB
+surroundings	surroundings	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+eventually	eventually	RB	ADV	CW
+reach	reach	VB	CW	VERB
+island	island	NN	CW	NOUN	ARGUMENT
+found	find	VBN	CW	VERB
+colony	colony	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+northernmost	northernmost	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+aegean	aegean	JJ	CW	ADJ
+sea	sea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+important	important	JJ	CW	ADJ
+early	early	JJ	CW	ADJ
+material	material	NN	CW	NOUN	ARGUMENT
+obsidian	obsidian	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+discover	discover	VBP	CW	VERB
+island	island	NN	CW	NOUN	ARGUMENT
+milo	milo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+obsidian	obsidian	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hard	hard	JJ	CW	ADJ
+vitreous	vitreous	JJ	CW	ADJ
+volcanic	volcanic	JJ	CW	ADJ
+rock	rock	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fashion	fashion	NN	CW	NOUN	ARGUMENT
+tool	tool	NN	CW	NOUN	ARGUMENT
+cut	cut	VBD	CW	VERB
+stab	stab	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+high	high	JJ	CW	ADJ
+quality	quality	NN	CW	NOUN	ARGUMENT
+seam	seam	NN	CW	NOUN	ARGUMENT
+milo	milo	NN	CW	NOUN	ARGUMENT
+ensured	ensure	VBD	CW	VERB
+area	area	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+popular	popular	JJ	CW	ADJ
+early	early	JJ	CW	ADJ
+traveler	traveler	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+basic	basic	JJ	CW	ADJ
+element	element	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+aegean	aegean	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+come	come	VBN	CW	VERB
+together	together	RB	ADV	CW
+as	as	RB	ADV	CW
+early	early	JJ	CW	ADJ
+5000	5000	CD	FW
+be	be	VB	FW	aux_or_cop
+already	already	RB	ADV	CW
+place	place	NN	CW	NOUN	ARGUMENT
+late	late	JJ	CW	ADJ
+bronze	bronze	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+2700	2700	CD	FW
+
+sentence break
+
+major	major	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+daily	daily	JJ	CW	ADJ
+task	task	NN	CW	NOUN	ARGUMENT
+routine	routine	JJ	CW	ADJ
+political	political	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+regularly	regularly	RB	ADV	CW
+not	not	RB	ADV	CW
+necessarily	necessarily	RB	ADV	FW
+peacefully	peacefully	RB	ADV	CW
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+3500	3500	CD	FW
+sophisticated	sophisticated	JJ	CW	ADJ
+culture	culture	NN	CW	NOUN	ARGUMENT
+evolve	evolve	VBP	CW	VERB
+cyclade	cyclade	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+distinctive	distinctive	JJ	CW	ADJ
+sculpted	sculpted	JJ	CW	ADJ
+marble	marble	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+era	era	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+reproduce	reproduce	VB	CW	VERB
+vast	vast	JJ	CW	ADJ
+quantity	quantity	NN	CW	NOUN	ARGUMENT
+souvenir	souvenir	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+find	find	VB	CW	VERB
+original	original	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+archaeological	archaeological	JJ	CW	ADJ
+museum	museum	NN	CW	NOUN	ARGUMENT
+cyclade	cyclade	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+earliest	earliest	JJS	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+museum	museum	NN	CW	NOUN	ARGUMENT
+paro	paro	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+farmed	farm	VBD	CW	VERB
+fished	fish	VBN	CW	VERB
+
+sentence break
+
+dawn	dawn	NN	CW	NOUN	ARGUMENT
+bronze	bronze	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+2700	2700	CD	FW
+begin	begin	VBP	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+metal	metal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cycladic	cycladic	JJ	CW	ADJ
+culture	culture	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+influence	influence	NN	CW	NOUN	ARGUMENT
+society	society	NN	CW	NOUN	ARGUMENT
+east	east	JJ	CW	ADJ
+import	import	NN	CW	NOUN	ARGUMENT
+pottery	pottery	NN	CW	NOUN	ARGUMENT
+wheel	wheel	NN	CW	NOUN	ARGUMENT
+mesopotamium	mesopotamium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+continue	continue	VBP	CW	VERB
+trade	trade	NN	CW	NOUN	ARGUMENT
+obsidian	obsidian	JJ	CW	ADJ
+local	local	JJ	CW	ADJ
+marble	marble	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+farther	farther	RBR	ADV	FW
+south	south	JJ	CW	ADJ
+crete	crete	NNP	CW	NOUN	ARGUMENT
+minoan	minoan	JJ	CW	ADJ
+culture	culture	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+2000	2000	CD	FW
+most	most	RBS	ADV	CW
+significant	significant	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+spread	spread	NN	CW	NOUN	ARGUMENT
+influence	influence	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+trade	trade	NN	CW	NOUN	ARGUMENT
+diplomacy	diplomacy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+santorinus	santorinus	NN	CW	NOUN	ARGUMENT
+thira	thira	NN	CW	NOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+major	major	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+heavily	heavily	RB	ADV	FW
+influence	influence	VB	CW	VERB
+crete	crete	NN	CW	NOUN	ARGUMENT
+settlement	settlement	NN	CW	NOUN	ARGUMENT
+thira	thira	NN	CW	NOUN	ARGUMENT
+akrotirus	akrotirus	NN	CW	NOUN	ARGUMENT
+thrive	thrive	VBP	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+magnificent	magnificent	JJ	CW	ADJ
+fresco	fresco	NN	CW	NOUN	ARGUMENT
+mosaic	mosaic	NN	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+akrotirus	akrotirus	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+athen	athen	VBN	CW	VERB
+present	present	JJ	CW	ADJ
+remains	remains	NNS	CW	NOUN	ARGUMENT
+building	build	VBG	CW	VERB
+site	site	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+ample	ample	JJ	CW	ADJ
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+sophistication	sophistication	NN	CW	NOUN	ARGUMENT
+culture	culture	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+
+sentence break
+
+1500	1500	CD	FW
+massive	massive	JJ	CW	ADJ
+volcanic	volcanic	JJ	CW	ADJ
+eruption	eruption	NN	CW	NOUN	ARGUMENT
+santorinus	santorinus	NN	CW	NOUN	ARGUMENT
+destroy	destroy	VBP	CW	VERB
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+akrotirus	akrotirus	NN	CW	NOUN	ARGUMENT
+foot	foot	NN	CW	NOUN	ARGUMENT
+ash	ash	JJ	CW	ADJ
+pumice	pumice	NN	CW	NOUN	ARGUMENT
+whole	whole	JJ	CW	ADJ
+minoan	minoan	JJ	CW	ADJ
+civilization	civilization	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+massive	massive	JJ	CW	ADJ
+tidal	tidal	JJ	CW	ADJ
+wave	wave	NN	CW	NOUN	ARGUMENT
+sweep	sweep	NN	CW	NOUN	ARGUMENT
+crete	crete	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+mediterranean	mediterranean	JJ	CW	ADJ
+smashing	smashing	NN	CW	NOUN	ARGUMENT
+building	building	NN	CW	NOUN	ARGUMENT
+drown	drown	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+thousand	thousand	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+wake	wake	NN	CW	NOUN	ARGUMENT
+tremendous	tremendous	JJ	CW	ADJ
+natural	natural	JJ	CW	ADJ
+upheaval	upheaval	NN	CW	NOUN	ARGUMENT
+aegean	aegean	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+next	next	IN	FW	SUBORDINATOR
+come	come	VBN	CW	VERB
+influence	influence	NN	CW	NOUN	ARGUMENT
+mycenaean	mycenaean	JJ	CW	ADJ
+1300	1300	CD	FW
+have	have	VBP	CW	VERB
+base	base	NN	CW	NOUN	ARGUMENT
+peloponnese	peloponnese	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+mainland	mainland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mycenaean	mycenaean	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+acquisitive	acquisitive	JJ	CW	ADJ
+race	race	NN	CW	NOUN	ARGUMENT
+come	come	VBN	FW	aux_or_cop
+conquer	conquer	VBP	CW	VERB
+not	not	RB	ADV	CW
+trade	trade	VB	CW	VERB
+
+sentence break
+
+extensive	extensive	JJ	CW	ADJ
+military	military	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+later	later	RB	ADV	CW
+chronicled	chronicle	VBD	CW	VERB
+homer	homer	NN	CW	NOUN	ARGUMENT
+epic	epic	NN	CW	NOUN	ARGUMENT
+poem	poem	NN	CW	NOUN	ARGUMENT
+odyssey	odyssey	NN	CW	NOUN	ARGUMENT
+iliad	iliad	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+dorian	dorian	JJ	CW	ADJ
+come	come	VBN	CW	VERB
+overland	overland	NN	CW	NOUN	ARGUMENT
+northern	northern	JJ	CW	ADJ
+europe	europe	NN	CW	NOUN	ARGUMENT
+conquered	conquer	VBD	CW	VERB
+mycenaean	mycenaean	JJ	CW	ADJ
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+barbaric	barbaric	JJ	CW	ADJ
+race	race	NN	CW	NOUN	ARGUMENT
+custody	custody	NN	CW	NOUN	ARGUMENT
+area	area	NN	CW	NOUN	ARGUMENT
+bring	bring	VBP	CW	VERB
+dark	dark	JJ	CW	ADJ
+period	period	NN	CW	NOUN	ARGUMENT
+write	write	VB	FW	aux_or_cop
+word	word	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+forget	forget	VB	CW	VERB
+art	art	NN	CW	NOUN	ARGUMENT
+disappear	disappear	VBP	CW	VERB
+
+sentence break
+
+hold	hold	VB	CW	VERB
+sway	sway	VB	CW	VERB
+island	island	NN	CW	NOUN	ARGUMENT
+northern	northern	JJ	CW	ADJ
+greek	greek	JJ	CW	ADJ
+coast	coast	NN	CW	NOUN	ARGUMENT
+phoenician	phoenician	JJ	CW	ADJ
+keep	keep	VB	CW	VERB
+control	control	NN	CW	NOUN	ARGUMENT
+main	main	JJ	CW	ADJ
+sea	sea	NN	CW	NOUN	ARGUMENT
+route	route	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+south	south	RB	ADV	CW
+area	area	NN	CW	NOUN	ARGUMENT
+trade	trade	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+usual	usual	JJ	CW	ADJ
+
+sentence break
+
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+city-state	city-state	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+grow	grow	VB	CW	VERB
+influence	influence	NN	CW	NOUN	ARGUMENT
+southern	southern	JJ	CW	ADJ
+greek	greek	JJ	CW	ADJ
+mainland	mainland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+athen	athen	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+most	most	RBS	ADV	CW
+powerful	powerful	JJ	CW	ADJ
+herald	herald	VBP	CW	VERB
+start	start	NN	CW	NOUN	ARGUMENT
+classical	classical	JJ	CW	ADJ
+greek	greek	JJ	CW	ADJ
+period	period	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+greece	greece	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+yet	yet	RB	ADV	CW
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+city-state	city-state	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+self-governing	self-governing	JJ	CW	ADJ
+autonomous	autonomous	JJ	CW	ADJ
+
+sentence break
+
+new	new	JJ	CW	ADJ
+culture	culture	NN	CW	NOUN	ARGUMENT
+spread	spread	NN	CW	NOUN	ARGUMENT
+mediterranean	mediterranean	JJ	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+huge	huge	JJ	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+mainland	mainland	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+settlement	settlement	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+carthage	carthage	NN	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+african	african	JJ	CW	ADJ
+coast	coast	NN	CW	NOUN	ARGUMENT
+mediterranean	mediterranean	JJ	CW	ADJ
+
+sentence break
+
+culture	culture	NN	CW	NOUN	ARGUMENT
+art	art	NN	CW	NOUN	ARGUMENT
+flourish	flourish	VB	CW	VERB
+once	once	RB	ADV	CW
+again	again	RB	ADV	CW
+
+sentence break
+
+athletic	athletic	JJ	CW	ADJ
+prowess	prowess	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+admire	admire	JJ	CW	ADJ
+olympic	olympic	JJ	CW	ADJ
+game	game	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+constitute	constitute	VBP	CW	VERB
+776	776	CD	FW
+promote	promote	VBP	CW	VERB
+friendly	friendly	JJ	CW	ADJ
+competition	competition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+homer	homer	NN	CW	NOUN	ARGUMENT
+write	write	VB	CW	VERB
+epic	epic	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+chio	chio	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lyrical	lyrical	JJ	CW	ADJ
+poetry	poetry	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+much	much	JJ	CW	ADJ
+admire	admire	JJ	CW	ADJ
+particularly	particularly	RB	ADV	CW
+work	work	VB	CW	VERB
+poet	poet	NN	CW	NOUN	ARGUMENT
+archilocho	archilocho	NN	CW	NOUN	ARGUMENT
+paro	paro	NN	CW	NOUN	ARGUMENT
+sappho	sappho	NN	CW	NOUN	ARGUMENT
+lesvo	lesvo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+preeminent	preeminent	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+era	era	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+delo	delo	JJ	CW	ADJ
+sacred	sacred	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+center	center	NN	CW	NOUN	ARGUMENT
+religion	religion	NN	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+athen	athen	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+samo	samo	NN	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+tyrant	tyrant	NN	CW	NOUN	ARGUMENT
+polycrate	polycrate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+naxo	naxo	NN	CW	NOUN	ARGUMENT
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+lygdami	lygdamus	NN	CW	NOUN	ARGUMENT
+undertake	undertake	VB	CW	VERB
+major	major	JJ	CW	ADJ
+building	building	NN	CW	NOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+archaeology	archaeology	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+society	society	NN	CW	NOUN	ARGUMENT
+live	live	VBP	CW	VERB
+mainly	mainly	RB	ADV	CW
+coastal	coastal	JJ	CW	ADJ
+trading	trading	NN	CW	NOUN	ARGUMENT
+town	town	NN	CW	NOUN	ARGUMENT
+little	little	JJ	CW	ADJ
+settlement	settlement	NN	CW	NOUN	ARGUMENT
+inland	inland	RB	ADV	FW
+
+sentence break
+
+athen	athen	NN	CW	NOUN	ARGUMENT
+rise	rise	NN	CW	NOUN	ARGUMENT
+influence	influence	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+west	west	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+match	match	NN	CW	NOUN	ARGUMENT
+east	east	JJ	CW	ADJ
+rise	rise	NN	CW	NOUN	ARGUMENT
+persian	persian	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+power	power	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+anatolium	anatolium	NN	CW	NOUN	ARGUMENT
+persian	persian	JJ	CW	ADJ
+overran	overran	NN	CW	NOUN	ARGUMENT
+eastern	eastern	JJ	CW	ADJ
+aegean	aegean	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+sight	sight	NN	CW	NOUN	ARGUMENT
+cyclade	cyclade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+490	490	CD	FW
+capture	capture	NN	CW	NOUN	ARGUMENT
+sacred	sacred	JJ	CW	ADJ
+delo	delo	JJ	CW	ADJ
+raze	raze	NN	CW	NOUN	ARGUMENT
+settlement	settlement	NN	CW	NOUN	ARGUMENT
+naxo	naxo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+island	island	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+undecided	undecided	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+paro	paro	NN	CW	NOUN	ARGUMENT
+andro	andro	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+persian	persian	JJ	CW	ADJ
+armory	armory	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+support	support	NN	CW	NOUN	ARGUMENT
+athen	athen	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+two	two	CD	FW
+superpower	superpower	NN	CW	NOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+clash	clash	VBP	CW	VERB
+epic	epic	NN	CW	NOUN	ARGUMENT
+battle	battle	NN	CW	NOUN	ARGUMENT
+marathon	marathon	NN	CW	NOUN	ARGUMENT
+salami	salami	NN	CW	NOUN	ARGUMENT
+480	480	CD	FW
+persian	persian	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+athen	athen	NN	CW	NOUN	ARGUMENT
+duly	duly	RB	ADV	FW
+punish	punish	VBP	CW	VERB
+island	island	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+turn	turn	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+follow	follow	VB	CW	VERB
+victory	victory	NN	CW	NOUN	ARGUMENT
+athen	athen	NN	CW	NOUN	ARGUMENT
+introduce	introduce	VB	CW	VERB
+concept	concept	NN	CW	NOUN	ARGUMENT
+mutual	mutual	JJ	CW	ADJ
+protection	protection	NN	CW	NOUN	ARGUMENT
+alliance	alliance	NN	CW	NOUN	ARGUMENT
+kind	kind	NN	CW	NOUN	ARGUMENT
+nato	nato	NN	CW	NOUN	ARGUMENT
+ancient	ancient	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+several	several	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+city-state	city-state	NN	CW	NOUN	ARGUMENT
+agree	agree	VBP	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+create	create	VBP	FW	aux_or_cop
+treasury	treasury	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+plan	plan	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hold	hold	VB	CW	VERB
+island	island	NN	CW	NOUN	ARGUMENT
+delo	delo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+alliance	alliance	NN	CW	NOUN	ARGUMENT
+become	become	VB	CW	VERB
+know	know	VB	CW	VERB
+delian	delian	JJ	CW	ADJ
+league	league	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+minor	minor	JJ	CW	ADJ
+internal	internal	JJ	CW	ADJ
+wrangle	wrangle	NN	CW	NOUN	ARGUMENT
+league	league	NN	CW	NOUN	ARGUMENT
+controll	controll	NN	CW	NOUN	ARGUMENT
+aegean	aegean	NN	CW	NOUN	ARGUMENT
+greater	greater	JJR	CW	ADJ
+athenian	athenian	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+fifth	fifth	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+454	454	CD	FW
+treasury	treasury	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+transfer	transfer	NN	CW	NOUN	ARGUMENT
+athen	athen	NN	CW	NOUN	ARGUMENT
+deposit	deposit	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+finance	finance	NN	CW	NOUN	ARGUMENT
+construction	construction	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+major	major	JJ	CW	ADJ
+building	building	NN	CW	NOUN	ARGUMENT
+temple	temple	NN	CW	NOUN	ARGUMENT
+classical	classical	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+431	431	CD	FW
+athen	athen	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+war	war	NN	CW	NOUN	ARGUMENT
+neighbor	neighbor	NN	CW	NOUN	ARGUMENT
+league	league	NN	CW	NOUN	ARGUMENT
+member	member	NN	CW	NOUN	ARGUMENT
+sparta	sparta	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+island	island	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+little	little	JJ	CW	ADJ
+action	action	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+see	see	VB	FW	aux_or_cop
+athen	athen	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+slowly	slowly	RB	ADV	CW
+lose	lose	VB	CW	VERB
+power	power	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	VB	CW	VERB
+war	war	NN	CW	NOUN	ARGUMENT
+401	401	CD	FW
+many	many	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+transfer	transfer	VB	CW	VERB
+allegiance	allegiance	NN	CW	NOUN	ARGUMENT
+victor	victor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+lead	lead	JJ	CW	ADJ
+philip	philip	NN	CW	NOUN	ARGUMENT
+ius	ius	JJ	CW	ADJ
+macedon	macedon	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+336	336	CD	FW
+son	son	NN	CW	NOUN	ARGUMENT
+alexander	alexander	RB	ADV	FW
+great	great	JJ	CW	ADJ
+one	one	CD	FW
+most	most	RBS	ADV	CW
+remarkable	remarkable	JJ	CW	ADJ
+leader	leader	NN	CW	NOUN	ARGUMENT
+history	history	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rise	rise	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+usher	usher	NN	CW	NOUN	ARGUMENT
+hellenistic	hellenistic	JJ	CW	ADJ
+period	period	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+alexander	alexander	RB	ADV	FW
+go	go	VB	CW	VERB
+conquer	conquer	VB	CW	VERB
+land	land	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+far	far	RB	ADV	CW
+east	east	JJ	CW	ADJ
+indium	indium	NN	CW	NOUN	ARGUMENT
+aegean	aegean	JJ	CW	ADJ
+become	become	VBN	CW	VERB
+crossroads	crossroads	NNS	CW	NOUN	ARGUMENT
+long	long	RB	ADV	CW
+trading	trade	VBG	CW	VERB
+route	route	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+delo	delo	JJ	CW	ADJ
+become	become	VBN	CW	VERB
+one	one	CD	FW
+largest	largest	JJS	CW	ADJ
+marketplace	marketplace	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+follow	follow	VB	CW	VERB
+alexander	alexander	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+divide	divide	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+
+sentence break
+
+much	much	RB	ADV	CW
+aegean	aegean	JJ	CW	ADJ
+come	come	VBN	CW	VERB
+rule	rule	NN	CW	NOUN	ARGUMENT
+ptolemy	ptolemy	NN	CW	NOUN	ARGUMENT
+egypt	egypt	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cleopatra	cleopatra	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+member	member	NN	CW	NOUN	ARGUMENT
+famous	famous	JJ	CW	ADJ
+ruling	ruling	NN	CW	NOUN	ARGUMENT
+clan	clan	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+88	88	CD	FW
+mithradate	mithradate	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+swift	swift	JJ	CW	ADJ
+successful	successful	JJ	CW	ADJ
+raid	raid	NN	CW	NOUN	ARGUMENT
+east	east	JJ	CW	ADJ
+asium	asium	NN	CW	NOUN	ARGUMENT
+minor	minor	JJ	CW	ADJ
+aegean	aegean	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+next	next	IN	FW
+major	major	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+bring	bring	VBP	CW	VERB
+influence	influence	NN	CW	NOUN	ARGUMENT
+west	west	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+greek	greek	JJ	CW	ADJ
+hellenistic	hellenistic	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+gradually	gradually	RB	ADV	CW
+peacefully	peacefully	RB	ADV	CW
+absorb	absorb	VB	CW	VERB
+roman	roman	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+roman	roman	NN	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+pagan	pagan	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+aegean	aegean	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+important	important	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+christianity	christianity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+95	95	CD	FW
+st	st	NN	CW	NOUN	ARGUMENT
+john	john	NN	CW	NOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+patmo	patmo	NN	CW	NOUN	ARGUMENT
+small	small	JJ	CW	ADJ
+rocky	rocky	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+dodecanese	dodecanese	JJ	CW	ADJ
+political	political	JJ	CW	ADJ
+prisoner	prisoner	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+here	here	RB	ADV	CW
+write	write	VB	CW	VERB
+be	be	VB	CW	VERB
+become	become	VBN	CW	VERB
+final	final	JJ	CW	ADJ
+book	book	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+testament	testament	NN	CW	NOUN	ARGUMENT
+book	book	NN	CW	NOUN	ARGUMENT
+revelation	revelation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+wasn	wasn	NN	CW	NOUN	ARGUMENT
+t	t	NN	CW	NOUN	ARGUMENT
+330	330	CD	FW
+however	however	RB	ADV	FW
+newly	newly	RB	ADV	CW
+convert	convert	VB	CW	VERB
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+constantine	constantine	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+byzantium	byzantium	NN	CW	NOUN	ARGUMENT
+rename	rename	VB	CW	VERB
+constantinople	constantinople	JJ	CW	ADJ
+capital	capital	NN	CW	NOUN	ARGUMENT
+eastern	eastern	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+christianity	christianity	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+assure	assure	VB	CW	VERB
+dominant	dominant	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+life	life	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+byzantine	byzantine	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+powerful	powerful	JJ	CW	ADJ
+well-fortified	well-fortified	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+countryside	countryside	NN	CW	NOUN	ARGUMENT
+outlying	outlying	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+ravage	ravage	JJ	CW	ADJ
+wave	wave	NN	CW	NOUN	ARGUMENT
+invader	invader	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+counter	counter	RB	ADV	CW
+threat	threat	NN	CW	NOUN	ARGUMENT
+saracen	saracen	JJ	CW	ADJ
+muslim	muslim	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+potent	potent	JJ	CW	ADJ
+religious	religious	JJ	CW	ADJ
+force	force	NN	CW	NOUN	ARGUMENT
+east	east	JJ	CW	ADJ
+byzantine	byzantine	JJ	CW	ADJ
+army	army	NN	CW	NOUN	ARGUMENT
+forcefully	forcefully	RB	ADV	CW
+enlist	enlist	VB	CW	VERB
+man	man	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+disease	disease	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+further	further	RB	ADV	CW
+toll	toll	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+time	time	NN	CW	NOUN	ARGUMENT
+crusade	crusade	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+aegean	aegean	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	CW	VERB
+practically	practically	RB	ADV	CW
+depopulated	depopulate	VBN	CW	VERB
+
+sentence break
+
+byzantine	byzantine	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+weaken	weaken	VBP	CW	VERB
+end	end	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+millennium	millennium	JJ	CW	ADJ
+crusader	crusader	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+send	send	VB	CW	VERB
+western	western	JJ	CW	ADJ
+europe	europe	JJ	CW	ADJ
+counter	counter	NN	CW	NOUN	ARGUMENT
+muslim	muslim	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+retake	retake	VBP	CW	VERB
+jerusalem	jerusalem	NN	CW	NOUN	ARGUMENT
+christian	christian	JJ	CW	ADJ
+faith	faith	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+unfortunately	unfortunately	RB	ADV	CW
+zeal	zeal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+match	match	VB	CW	VERB
+discrimination	discrimination	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+crusader	crusader	JJR	CW	ADJ
+sweep	sweep	NN	CW	NOUN	ARGUMENT
+l.	l.	NN	CW	NOUN	ARGUMENT
+byzantium	byzantium	NN	CW	NOUN	ARGUMENT
+slaughter	slaughter	NN	CW	NOUN	ARGUMENT
+christian	christian	JJ	CW	ADJ
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+muslim	muslim	JJ	CW	ADJ
+civilian	civilian	JJ	CW	ADJ
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+soldier	soldier	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+constantinople	constantinople	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+take	take	VB	CW	VERB
+crusader	crusader	JJ	CW	ADJ
+force	force	NN	CW	NOUN	ARGUMENT
+1204	1204	CD	FW
+strip	strip	NN	CW	NOUN	ARGUMENT
+city	city	NN	CW	NOUN	ARGUMENT
+manyof	manyof	NN	CW	NOUN	ARGUMENT
+finest	finest	JJS	CW	ADJ
+treasure	treasure	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+grace	grace	NN	CW	NOUN	ARGUMENT
+public	public	JJ	CW	ADJ
+building	building	NN	CW	NOUN	ARGUMENT
+venice	venice	NN	CW	NOUN	ARGUMENT
+large	large	JJ	CW	ADJ
+consignment	consignment	NN	CW	NOUN	ARGUMENT
+book	book	NN	CW	NOUN	ARGUMENT
+manuscript	manuscript	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+transfer	transfer	NN	CW	NOUN	ARGUMENT
+monastery	monastery	NN	CW	NOUN	ARGUMENT
+patmo	patmo	NN	CW	NOUN	ARGUMENT
+city	city	NN	CW	NOUN	ARGUMENT
+fall	fall	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+byzantine	byzantine	JJ	CW	ADJ
+land	land	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+divide	divide	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+one	one	CD	FW
+control	control	NN	CW	NOUN	ARGUMENT
+sea	sea	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+pirate	pirate	JJ	CW	ADJ
+raid	raid	NN	CW	NOUN	ARGUMENT
+town	town	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+counter	counter	RB	ADV	CW
+population	population	NN	CW	NOUN	ARGUMENT
+move	move	VB	CW	VERB
+home	home	RB	ADV	CW
+coast	coast	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+settlement	settlement	NN	CW	NOUN	ARGUMENT
+inland	inland	RB	ADV	FW
+sight	sight	NN	CW	NOUN	ARGUMENT
+raid	raid	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+create	create	VB	CW	VERB
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+today	today	NN	CW	NOUN	ARGUMENT
+aegean	aegean	JJ	CW	ADJ
+small	small	JJ	CW	ADJ
+port	port	NN	CW	NOUN	ARGUMENT
+skalum	skalum	NN	CW	NOUN	ARGUMENT
+serve	serve	VBP	CW	VERB
+inland	inland	RB	ADV	FW
+settlement	settlement	NN	CW	NOUN	ARGUMENT
+chora	chora	NNS	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+easier	easier	JJR	CW	ADJ
+protect	protect	VBP	CW	VERB
+island	island	NN	CW	NOUN	ARGUMENT
+attack	attack	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+minor	minor	JJ	CW	ADJ
+aegean	aegean	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+take	take	VB	CW	VERB
+various	various	JJ	CW	ADJ
+powerful	powerful	JJ	CW	ADJ
+european	european	JJ	CW	ADJ
+nobleman	nobleman	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+genoese	genoese	JJ	CW	ADJ
+venetian	venetian	JJ	CW	ADJ
+such	such	JJ	CW	ADJ
+marco	marco	NN	CW	NOUN	ARGUMENT
+sanudo	sanudo	NN	CW	NOUN	ARGUMENT
+naxo	naxo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nobleman	nobleman	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+free	free	JJ	CW	ADJ
+rein	rein	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+own	own	JJ	CW	ADJ
+fiefdom	fiefdom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+venetian	venetian	JJ	CW	ADJ
+fortify	fortify	NN	CW	NOUN	ARGUMENT
+main	main	JJ	CW	ADJ
+town	town	NN	CW	NOUN	ARGUMENT
+naxo	naxo	JJ	CW	ADJ
+town	town	NN	CW	NOUN	ARGUMENT
+antiparo	antiparo	NN	CW	NOUN	ARGUMENT
+town	town	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+wonderful	wonderful	JJ	CW	ADJ
+example	example	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+labyrinth	labyrinth	NN	CW	NOUN	ARGUMENT
+narrow	narrow	JJ	CW	ADJ
+alley	alley	NN	CW	NOUN	ARGUMENT
+cul-de-sac	cul-de-sac	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+design	design	NN	CW	NOUN	ARGUMENT
+confuse	confuse	VB	CW	VERB
+demoralize	demoralize	VB	CW	VERB
+invader	invader	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+genoese	genoese	JJ	CW	ADJ
+take	take	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+eastern	eastern	JJ	CW	ADJ
+aegean	aegean	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+consider	consider	VB	CW	VERB
+most	most	RBS	ADV	CW
+valuable	valuable	JJ	CW	ADJ
+agriculture	agriculture	NN	CW	NOUN	ARGUMENT
+trade	trade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+final	final	JJ	CW	ADJ
+bloody	bloody	JJ	CW	ADJ
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+muslim	muslim	VBP	CW	VERB
+1309	1309	CD	FW
+christian	christian	JJ	CW	ADJ
+force	force	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+force	force	NN	CW	NOUN	ARGUMENT
+holy	holy	JJ	CW	ADJ
+land	land	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+knight	knight	NN	CW	NOUN	ARGUMENT
+st	st	NN	CW	NOUN	ARGUMENT
+john	john	NN	CW	NOUN	ARGUMENT
+holy	holy	JJ	CW	ADJ
+military	military	JJ	CW	ADJ
+force	force	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+way	way	NN	CW	NOUN	ARGUMENT
+rhode	rhode	NN	CW	NOUN	ARGUMENT
+ko	ko	NN	CW	NOUN	ARGUMENT
+dodecanese	dodecanese	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+begin	begin	VB	CW	VERB
+process	process	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+strong	strong	JJ	CW	ADJ
+citadel	citadel	NN	CW	NOUN	ARGUMENT
+reinforce	reinforce	VB	CW	VERB
+christian	christian	JJ	CW	ADJ
+faith	faith	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+have	have	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+see	see	VB	CW	VERB
+last	last	JJ	CW	ADJ
+muslim	muslim	JJ	CW	ADJ
+foe	foe	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+force	force	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+gain	gain	NN	CW	NOUN	ARGUMENT
+strength	strength	NN	CW	NOUN	ARGUMENT
+east	east	JJ	CW	ADJ
+threaten	threaten	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+base	base	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ottoman	ottoman	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+rove	rove	JJ	CW	ADJ
+invader	invader	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+east	east	JJ	CW	ADJ
+take	take	NN	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+turkey	turkey	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+13	13	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+first	first	JJ	CW	ADJ
+raid	raid	NN	CW	NOUN	ARGUMENT
+aegean	aegean	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1453	1453	CD	FW
+take	take	VBP	CW	VERB
+constantinople	constantinople	NN	CW	NOUN	ARGUMENT
+immediately	immediately	RB	ADV	CW
+make	make	VB	CW	VERB
+capital	capital	NN	CW	NOUN	ARGUMENT
+rename	rename	VB	CW	VERB
+istanbul	istanbul	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+set	set	VBN	CW	VERB
+sight	sight	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+knight	knight	NN	CW	NOUN	ARGUMENT
+st	st	NN	CW	NOUN	ARGUMENT
+john	john	NN	CW	NOUN	ARGUMENT
+unsuccessful	unsuccessful	JJ	CW	ADJ
+siege	siege	NN	CW	NOUN	ARGUMENT
+1480	1480	CD	FW
+finally	finally	RB	ADV	CW
+eject	eject	VB	CW	VERB
+knight	knight	NN	CW	NOUN	ARGUMENT
+dodecanese	dodecanese	JJ	CW	ADJ
+1522	1522	CD	FW
+
+sentence break
+
+1566	1566	CD	FW
+wrest	wrest	NN	CW	NOUN	ARGUMENT
+chio	chio	NN	CW	NOUN	ARGUMENT
+genoese	genoese	JJ	CW	ADJ
+bolster	bolster	VB	CW	VERB
+hold	hold	VB	CW	VERB
+eastern	eastern	JJ	CW	ADJ
+aegean	aegean	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+cyclade	cyclade	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+venetian	venetian	JJ	CW	ADJ
+hand	hand	NN	CW	NOUN	ARGUMENT
+generation	generation	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+tino	tino	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+last	last	JJ	CW	ADJ
+fall	fall	NN	CW	NOUN	ARGUMENT
+1715	1715	CD	FW
+
+sentence break
+
+ottoman	ottoman	NN	CW	NOUN	ARGUMENT
+bring	bring	VB	CW	VERB
+new	new	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+controll	controll	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+large	large	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+stretch	stretch	NN	CW	NOUN	ARGUMENT
+eastern	eastern	JJ	CW	ADJ
+mediterranean	mediterranean	JJ	CW	ADJ
+
+sentence break
+
+however	however	RB	ADV	FW
+movement	movement	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+greek	greek	JJ	CW	ADJ
+peninsula	peninsula	NN	CW	NOUN	ARGUMENT
+ottoman	ottoman	NN	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+independent	independent	JJ	CW	ADJ
+greek	greek	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1770	1770	CD	FW
+russium	russium	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+aid	aid	NN	CW	NOUN	ARGUMENT
+greek	greek	NN	CW	NOUN	ARGUMENT
+define	define	VBP	CW	VERB
+orthodox	orthodox	JJ	CW	ADJ
+religion	religion	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+historical	historical	JJ	CW	ADJ
+geographical	geographical	JJ	CW	ADJ
+boundary	boundary	NN	CW	NOUN	ARGUMENT
+declare	declare	VB	CW	VERB
+war	war	NN	CW	NOUN	ARGUMENT
+ottoman	ottoman	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+occupy	occupy	VBP	CW	VERB
+several	several	JJ	CW	ADJ
+aegean	aegean	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+1774	1774	CD	FW
+
+sentence break
+
+graffitus	graffitus	NN	CW	NOUN	ARGUMENT
+write	write	VB	CW	VERB
+russian	russian	JJ	CW	ADJ
+soldier	soldier	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+see	see	VB	CW	VERB
+cave	cave	NN	CW	NOUN	ARGUMENT
+antiparo	antiparo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unsuccessful	unsuccessful	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+19	19	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+grow	grow	VB	CW	VERB
+strength	strength	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+aegean	aegean	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+play	play	NN	CW	NOUN	ARGUMENT
+part	part	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lesvo	lesvo	NN	CW	NOUN	ARGUMENT
+chio	chio	NN	CW	NOUN	ARGUMENT
+samo	samo	NNS	CW	NOUN	ARGUMENT
+lie	lie	VBP	CW	VERB
+important	important	JJ	CW	ADJ
+shipping	shipping	NN	CW	NOUN	ARGUMENT
+lane	lane	NN	CW	NOUN	ARGUMENT
+patriot	patriot	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+disrupt	disrupt	VB	CW	VERB
+ottoman	ottoman	JJ	CW	ADJ
+cargo	cargo	NN	CW	NOUN	ARGUMENT
+traffic	traffic	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+return	return	NN	CW	NOUN	ARGUMENT
+turk	turk	NN	CW	NOUN	ARGUMENT
+violently	violently	RB	ADV	CW
+put	put	VBD	CW	VERB
+insurrection	insurrection	NNS	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+massacre	massacre	NN	CW	NOUN	ARGUMENT
+chio	chio	NN	CW	NOUN	ARGUMENT
+22	22	CD	FW
+000	000	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+slaughter	slaughter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ottoman	ottoman	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+weaken	weaken	VB	CW	VERB
+however	however	RB	ADV	FW
+1821	1821	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+mainland	mainland	NN	CW	NOUN	ARGUMENT
+achieve	achieve	VB	CW	VERB
+nationhood	nationhood	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cyclade	cyclade	NN	CW	NOUN	ARGUMENT
+sporade	sporade	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+include	include	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+sense	sense	NN	CW	NOUN	ARGUMENT
+identity	identity	NN	CW	NOUN	ARGUMENT
+enveloped	envelop	VBD	CW	VERB
+greek	greek	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+aegean	aegean	JJ	CW	ADJ
+thus	thus	RB	ADV	FW
+commence	commence	VBP	CW	VERB
+movement	movement	NN	CW	NOUN	ARGUMENT
+expand	expand	VB	CW	VERB
+greece	greece	NN	CW	NOUN	ARGUMENT
+unify	unify	JJ	CW	ADJ
+disparate	disparate	JJ	CW	ADJ
+orthodox	orthodox	NN	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+series	series	NN	CW	NOUN	ARGUMENT
+disastrous	disastrous	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+beginning	begin	VBG	CW	VERB
+20	20	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+sound	sound	JJ	CW	ADJ
+death	death	NN	CW	NOUN	ARGUMENT
+knell	knell	NN	CW	NOUN	ARGUMENT
+ottoman	ottoman	NN	CW	NOUN	ARGUMENT
+empire	empire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+turk	turk	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+short	short	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+italy	italy	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+force	force	NN	CW	NOUN	ARGUMENT
+relinquish	relinquish	VBP	CW	VERB
+dodecanese	dodecanese	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+italian	italian	JJ	CW	ADJ
+
+sentence break
+
+greece	greece	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+absorb	absorb	VB	CW	VERB
+island	island	NN	CW	NOUN	ARGUMENT
+northern	northern	JJ	CW	ADJ
+eastern	eastern	JJ	CW	ADJ
+aegean	aegean	JJ	CW	ADJ
+add	add	VB	CW	VERB
+macedonium	macedonium	NN	CW	NOUN	ARGUMENT
+mainland	mainland	NN	CW	NOUN	ARGUMENT
+territory	territory	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+follow	follow	VB	CW	VERB
+debacle	debacle	NN	CW	NOUN	ARGUMENT
+ottoman	ottoman	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+ally	ally	NN	CW	NOUN	ARGUMENT
+germany	germany	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+territory	territory	NN	CW	NOUN	ARGUMENT
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+german	german	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+greece	greece	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hand	hand	NN	CW	NOUN	ARGUMENT
+strip	strip	NN	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+western	western	JJ	CW	ADJ
+coast	coast	NN	CW	NOUN	ARGUMENT
+asium	asium	NN	CW	NOUN	ARGUMENT
+minor	minor	JJ	CW	ADJ
+2	2	CD	FW
+000	000	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+have	have	VBP	CW	VERB
+substantial	substantial	JJ	CW	ADJ
+greek	greek	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+greece	greece	NN	CW	NOUN	ARGUMENT
+move	move	NN	CW	NOUN	ARGUMENT
+administer	administer	VBP	CW	VERB
+land	land	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+influence	influence	NN	CW	NOUN	ARGUMENT
+upset	upset	JJ	CW	ADJ
+grand	grand	JJ	CW	ADJ
+dream	dream	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+part	part	NN	CW	NOUN	ARGUMENT
+greater	greater	JJR	CW	ADJ
+greece	greece	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1923	1923	CD	FW
+turkey	turkey	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+away	away	RB	ADV	CW
+tired	tired	JJ	CW	ADJ
+ottoman	ottoman	NN	CW	NOUN	ARGUMENT
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+kemal	kemal	JJ	CW	ADJ
+ataturk	ataturk	NN	CW	NOUN	ARGUMENT
+rise	rise	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+wave	wave	NN	CW	NOUN	ARGUMENT
+popular	popular	JJ	CW	ADJ
+support	support	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+promise	promise	NN	CW	NOUN	ARGUMENT
+modern	modern	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+situation	situation	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+volatile	volatile	JJ	CW	ADJ
+civil	civil	JJ	CW	ADJ
+strife	strife	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+turkish	turkish	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+consider	consider	VBP	CW	VERB
+greek	greek	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+victim	victim	NN	CW	NOUN	ARGUMENT
+threat	threat	NN	CW	NOUN	ARGUMENT
+violence	violence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+have	have	VBP	FW	aux_or_cop
+leave	leave	NN	CW	NOUN	ARGUMENT
+birthplace	birthplace	NN	CW	NOUN	ARGUMENT
+flee	flee	VBP	CW	VERB
+lesvo	lesvo	NN	CW	NOUN	ARGUMENT
+chio	chio	NN	CW	NOUN	ARGUMENT
+samo	samo	VBP	CW	VERB
+greek-ruled	greek-ruled	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+offshore	offshore	RB	ADV	CW
+
+sentence break
+
+thousand	thousand	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+little	little	RB	ADV	CW
+more	more	RBR	ADV	CW
+clothes	clothes	NNS	CW	NOUN	ARGUMENT
+wear	wear	VBP	CW	VERB
+put	put	VBN	CW	VERB
+great	great	JJ	CW	ADJ
+strain	strain	NN	CW	NOUN	ARGUMENT
+resource	resource	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+greece	greece	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+oust	oust	VB	CW	VERB
+new	new	JJ	CW	ADJ
+territory	territory	NN	CW	NOUN	ARGUMENT
+asium	asium	NN	CW	NOUN	ARGUMENT
+minor	minor	JJ	CW	ADJ
+become	become	VBN	CW	VERB
+part	part	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+turkish	turkish	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+greece	greece	NN	CW	NOUN	ARGUMENT
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+stay	stay	VBP	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+mussolinus	mussolinus	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+greece	greece	NN	CW	NOUN	ARGUMENT
+ideal	ideal	JJ	CW	ADJ
+addition	addition	NN	CW	NOUN	ARGUMENT
+italian	italian	JJ	CW	ADJ
+empire	empire	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+force	force	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+series	series	NN	CW	NOUN	ARGUMENT
+attack	attack	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+dodecanese	dodecanese	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+sink	sink	NN	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+naval	naval	JJ	CW	ADJ
+vessel	vessel	NN	CW	NOUN	ARGUMENT
+harbor	harbor	NN	CW	NOUN	ARGUMENT
+tino	tino	NN	CW	NOUN	ARGUMENT
+town	town	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+succeed	succeed	VB	CW	VERB
+strengthen	strengthen	VB	CW	VERB
+resolve	resolve	VB	CW	VERB
+population	population	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+later	later	RB	ADV	CW
+german	german	JJ	CW	ADJ
+come	come	VBN	CW	VERB
+force	force	NN	CW	NOUN	ARGUMENT
+occupied	occupy	VBD	CW	VERB
+many	many	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+war	war	NN	CW	NOUN	ARGUMENT
+1949	1949	CD	FW
+dodecanese	dodecanese	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+become	become	VB	CW	VERB
+part	part	NN	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+nation	nation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+country	country	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+politically	politically	RB	ADV	CW
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+argument	argument	NN	CW	NOUN	ARGUMENT
+monarchist	monarchist	NN	CW	NOUN	ARGUMENT
+republican	republican	JJ	CW	ADJ
+right	right	JJ	CW	ADJ
+leave	leave	NN	CW	NOUN	ARGUMENT
+tension	tension	NN	CW	NOUN	ARGUMENT
+escalate	escalate	VBP	CW	VERB
+civil	civil	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+bypassed	bypass	VBD	CW	VERB
+most	most	JJS	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fierce	fierce	JJ	CW	ADJ
+fighting	fighting	NN	CW	NOUN	ARGUMENT
+samo	samo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+fight	fight	VB	CW	VERB
+stop	stop	VB	CW	VERB
+more	more	JJR	CW	ADJ
+decade	decade	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+country	country	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+stable	stable	JJ	CW	ADJ
+
+sentence break
+
+same	same	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+massive	massive	JJ	CW	ADJ
+growth	growth	NN	CW	NOUN	ARGUMENT
+air	air	NN	CW	NOUN	ARGUMENT
+road	road	NN	CW	NOUN	ARGUMENT
+transport	transport	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+ship	ship	NN	CW	NOUN	ARGUMENT
+decline	decline	NN	CW	NOUN	ARGUMENT
+importance	importance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+aegean	aegean	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+century	century	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+port	port	NN	CW	NOUN	ARGUMENT
+trading	trading	NN	CW	NOUN	ARGUMENT
+route	route	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+backwater	backwater	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+transport	transport	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+economy	economy	NN	CW	NOUN	ARGUMENT
+several	several	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+close	close	RB	ADV	CW
+collapse	collapse	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1967	1967	CD	FW
+military	military	JJ	CW	ADJ
+take	take	NN	CW	NOUN	ARGUMENT
+rein	rein	NN	CW	NOUN	ARGUMENT
+power	power	NN	CW	NOUN	ARGUMENT
+athen	athen	IN	FW	SUBORDINATOR
+1974	1974	CD	FW
+colonel	colonel	NNS	CW	NOUN	ARGUMENT
+hold	hold	VBP	CW	VERB
+sway	sway	VB	CW	VERB
+repressive	repressive	JJ	CW	ADJ
+brutal	brutal	JJ	CW	ADJ
+regime	regime	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+greek	greek	JJ	CW	ADJ
+islander	islander	NN	CW	NOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+leave	leave	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+live	live	JJ	CW	ADJ
+poverty	poverty	NN	CW	NOUN	ARGUMENT
+terror	terror	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+make	make	VBP	CW	VERB
+new	new	JJ	CW	ADJ
+home	home	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+australium	australium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+expansion	expansion	NN	CW	NOUN	ARGUMENT
+air	air	NN	CW	NOUN	ARGUMENT
+travel	travel	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+age	age	NN	CW	NOUN	ARGUMENT
+mass	mass	NN	CW	NOUN	ARGUMENT
+tourism	tourism	NN	CW	NOUN	ARGUMENT
+greece	greece	NN	CW	NOUN	ARGUMENT
+aegean	aegean	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+exciting	exciting	JJ	CW	ADJ
+destination	destination	NN	CW	NOUN	ARGUMENT
+northern	northern	JJ	CW	ADJ
+european	european	JJ	CW	ADJ
+escape	escape	NN	CW	NOUN	ARGUMENT
+damp	damp	JJ	CW	ADJ
+cool	cool	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1982	1982	CD	FW
+greece	greece	NN	CW	NOUN	ARGUMENT
+join	join	VB	CW	VERB
+european	european	JJ	CW	ADJ
+common	common	JJ	CW	ADJ
+market	market	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+european	european	JJ	CW	ADJ
+union	union	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+time	time	NN	CW	NOUN	ARGUMENT
+membership	membership	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+monetary	monetary	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+eu	eu	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+give	give	VB	CW	VERB
+large	large	JJ	CW	ADJ
+subsidy	subsidy	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+greece	greece	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+infrastructure	infrastructure	NN	CW	NOUN	ARGUMENT
+grant	grant	NN	CW	NOUN	ARGUMENT
+excavate	excavate	VBP	CW	VERB
+protect	protect	VB	CW	VERB
+ancient	ancient	JJ	CW	ADJ
+monument	monument	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+airfield	airfield	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+construct	construct	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+road	road	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+expand	expand	VB	CW	VERB
+im	im	NN	CW	NOUN	ARGUMENT
+prove	prove	VBP	CW	VERB
+
+sentence break
+
+private	private	JJ	CW	ADJ
+investment	investment	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+even	even	RB	ADV	CW
+make	make	VB	CW	VERB
+increasingly	increasingly	RB	ADV	CW
+modern	modern	JJ	CW	ADJ
+ferry	ferry	NN	CW	NOUN	ARGUMENT
+fleet	fleet	NN	CW	NOUN	ARGUMENT
+possible	possible	JJ	CW	ADJ
+
+sentence break
+
+politically	politically	RB	ADV	CW
+1990	1990	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+relatively	relatively	RB	ADV	CW
+quite	quite	RB	ADV	FW
+time	time	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+divorce	divorce	NN	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+prime	prime	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+andrea	andrea	NN	CW	NOUN	ARGUMENT
+papandreou	papandreou	NN	CW	NOUN	ARGUMENT
+subsequent	subsequent	JJ	CW	ADJ
+marriage	marriage	NN	CW	NOUN	ARGUMENT
+much	much	JJ	CW	ADJ
+younger	younger	JJR	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+consternation	consternation	NN	CW	NOUN	ARGUMENT
+conservative	conservative	JJ	CW	ADJ
+greek	greek	JJ	CW	ADJ
+society	society	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+balkan	balkan	NN	CW	NOUN	ARGUMENT
+flare	flare	VB	CW	VERB
+war	war	NN	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+again	again	RB	ADV	CW
+greek	greek	JJ	CW	ADJ
+nationalism	nationalism	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+stir	stir	VB	CW	VERB
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+discussion	discussion	NN	CW	NOUN	ARGUMENT
+kafeneion	kafeneion	NN	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+macedonium	macedonium	NN	CW	NOUN	ARGUMENT
+return	return	NN	CW	NOUN	ARGUMENT
+fold	fold	NN	CW	NOUN	ARGUMENT
+forefather	forefather	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ever	ever	RB	ADV	CW
+happen	happen	VB	CW	VERB
+remain	remain	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+see	see	VB	CW	VERB
+perhap	perhap	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+offer	offer	NN	CW	NOUN	ARGUMENT
+greece	greece	NN	CW	NOUN	ARGUMENT
+turkey	turkey	NN	CW	NOUN	ARGUMENT
+1999	1999	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+devastating	devastate	VBG	CW	VERB
+earthquake	earthquake	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sign	sign	NN	CW	NOUN	ARGUMENT
+animosity	animosity	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+traditional	traditional	JJ	CW	ADJ
+enemy	enemy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+begin	begin	VB	CW	VERB
+diminish	diminish	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

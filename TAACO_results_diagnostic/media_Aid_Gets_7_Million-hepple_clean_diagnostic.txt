@@ -1,0 +1,400 @@
+word	lemma	POS	CW\FW	other categories
+day	day	NN	CW	NOUN	ARGUMENT
+celebrated	celebrate	VBD	CW	VERB
+50	50	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+free	free	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+advice	advice	NN	CW	NOUN	ARGUMENT
+southern	southern	JJ	CW	ADJ
+arizona	arizona	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+announce	announce	VB	CW	VERB
+have	have	VB	FW	aux_or_cop
+receive	receive	VB	CW	VERB
+two	two	CD	FW
+grant	grant	NN	CW	NOUN	ARGUMENT
+total	total	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+7	7	CD	FW
+million	million	CD	FW
+
+sentence break
+
+one	one	CD	FW
+grant	grant	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+creation	creation	NN	CW	NOUN	ARGUMENT
+web	web	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+advice	advice	NN	CW	NOUN	ARGUMENT
+poor	poor	JJ	CW	ADJ
+
+sentence break
+
+three-year	three-year	JJ	CW	ADJ
+grant	grant	NN	CW	NOUN	ARGUMENT
+worth	worth	JJ	CW	ADJ
+6	6	CD	FW
+6	6	CD	FW
+million	million	CD	FW
+separate	separate	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+grant	grant	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+announce	announce	VB	CW	VERB
+press	press	NN	CW	NOUN	ARGUMENT
+conference	conference	NN	CW	NOUN	ARGUMENT
+dinner	dinner	NN	CW	NOUN	ARGUMENT
+hold	hold	VBP	CW	VERB
+thursday	thursday	NNP	CW	NOUN	ARGUMENT
+evo	evo	NN	CW	NOUN	ARGUMENT
+deconcinus	deconcinus	NN	CW	NOUN	ARGUMENT
+federal	federal	JJ	CW	ADJ
+courthouse	courthouse	NN	CW	NOUN	ARGUMENT
+405	405	CD	FW
+w	w	NN	CW	NOUN	ARGUMENT
+congress	congress	NN	CW	NOUN	ARGUMENT
+street	street	NN	CW	NOUN	ARGUMENT
+deconcinus	deconcinus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+one	one	CD	FW
+organization	organization	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+board	board	NN	CW	NOUN	ARGUMENT
+member	member	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thursday	thursday	NNP	CW	NOUN	ARGUMENT
+celebration	celebration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+first	first	RB	ADV	CW
+public	public	JJ	CW	ADJ
+even	even	RB	ADV	CW
+hold	hold	VB	CW	VERB
+courthouse	courthouse	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+100	100	CD	FW
+member	member	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+attend	attend	VB	CW	VERB
+include	include	VBP	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+janet	janet	NN	CW	NOUN	ARGUMENT
+napolitano	napolitano	NN	CW	NOUN	ARGUMENT
+arizona	arizona	NN	CW	NOUN	ARGUMENT
+supreme	supreme	NN	CW	NOUN	ARGUMENT
+court	court	NN	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+thoma	thoma	NN	CW	NOUN	ARGUMENT
+zlaket	zlaket	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+grant	grant	NN	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+private	private	JJ	CW	ADJ
+nonprofit	nonprofit	JJ	CW	ADJ
+corporation	corporation	NN	CW	NOUN	ARGUMENT
+establish	establish	VB	CW	VERB
+congress	congress	NN	CW	NOUN	ARGUMENT
+1974	1974	CD	FW
+offer	offer	NN	CW	NOUN	ARGUMENT
+poor	poor	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+equal	equal	JJ	CW	ADJ
+access	access	NN	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+fund	fund	NN	CW	NOUN	ARGUMENT
+congressional	congressional	JJ	CW	ADJ
+appropriation	appropriation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+6	6	CD	FW
+6	6	CD	FW
+million	million	CD	FW
+grant	grant	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+staffing	staffing	NN	CW	NOUN	ARGUMENT
+operation	operation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+web	web	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+create	create	VB	CW	VERB
+50	50	CD	FW
+000	000	CD	FW
+grant	grant	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+intend	intend	VBP	CW	VERB
+offer	offer	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+advice	advice	NN	CW	NOUN	ARGUMENT
+poor	poor	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+arizona	arizona	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+paul	paul	NN	CW	NOUN	ARGUMENT
+julian	julian	JJ	CW	ADJ
+chief	chief	NN	CW	NOUN	ARGUMENT
+executive	executive	NN	CW	NOUN	ARGUMENT
+officer	officer	NN	CW	NOUN	ARGUMENT
+southern	southern	JJ	CW	ADJ
+arizona	arizona	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+say	say	VB	CW	VERB
+want	want	VBP	CW	VERB
+poor	poor	JJ	CW	ADJ
+person	person	NN	CW	NOUN	ARGUMENT
+arizona	arizona	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+legal	legal	JJ	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+step	step	NN	CW	NOUN	ARGUMENT
+try	try	VB	CW	VERB
+realize	realize	VB	CW	VERB
+
+sentence break
+
+feel	feel	VB	CW	VERB
+do	do	VB	FW	aux_or_cop
+pretty	pretty	RB	ADV	CW
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+julian	julian	JJ	CW	ADJ
+say	say	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+julian	julian	JJ	CW	ADJ
+say	say	VBP	CW	VERB
+most	most	JJS	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+own	own	JJ	CW	ADJ
+computer	computer	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+access	access	NN	CW	NOUN	ARGUMENT
+library	library	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+courthouse	courthouse	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+say	say	VB	CW	VERB
+web	web	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+bridge	bridge	NN	CW	NOUN	ARGUMENT
+digital	digital	JJ	CW	ADJ
+divide	divide	NN	CW	NOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+poor	poor	JJ	CW	ADJ
+use	use	NN	CW	NOUN	ARGUMENT
+internet	internet	NN	CW	NOUN	ARGUMENT
+resource	resource	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+southern	southern	JJ	CW	ADJ
+arizona	arizona	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+found	find	VBN	CW	VERB
+1951	1951	CD	FW
+legal	legal	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+society	society	NN	CW	NOUN	ARGUMENT
+pima	pima	NN	CW	NOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+bar	bar	NN	CW	NOUN	ARGUMENT
+association	association	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+offer	offer	NN	CW	NOUN	ARGUMENT
+free	free	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+advice	advice	NN	CW	NOUN	ARGUMENT
+civil	civil	JJ	CW	ADJ
+matter	matter	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+dispute	dispute	NN	CW	NOUN	ARGUMENT
+small	small	JJ	CW	ADJ
+claim	claim	NN	CW	NOUN	ARGUMENT
+court	court	NN	CW	NOUN	ARGUMENT
+divorce	divorce	NN	CW	NOUN	ARGUMENT
+proceedings	proceedings	NNS	CW	NOUN	ARGUMENT
+obtain	obtain	VB	CW	VERB
+social	social	JJ	CW	ADJ
+security	security	NN	CW	NOUN	ARGUMENT
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+charle	charle	NN	CW	NOUN	ARGUMENT
+are	be	VBP	FW	aux_or_cop
+member	member	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+director	director	NN	CW	NOUN	ARGUMENT
+1950	1950	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+office	office	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+kind	kind	JJ	CW	ADJ
+charity	charity	NN	CW	NOUN	ARGUMENT
+operation	operation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bare	bare	JJ	CW	ADJ
+bone	bone	NN	CW	NOUN	ARGUMENT
+operation	operation	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+today	today	NN	CW	NOUN	ARGUMENT
+staffer	staffer	NN	CW	NOUN	ARGUMENT
+volunteer	volunteer	NN	CW	NOUN	ARGUMENT
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+12	12	CD	FW
+000	000	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+organization	organization	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+10	10	CD	FW
+office	office	NN	CW	NOUN	ARGUMENT
+nine	nine	CD	FW
+county	county	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+group	group	NN	CW	NOUN	ARGUMENT
+run	run	NN	CW	NOUN	ARGUMENT
+toll	toll	NN	CW	NOUN	ARGUMENT
+free	free	JJ	CW	ADJ
+elder	elder	JJR	CW	ADJ
+hotline	hotline	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+60	60	CD	FW
+older	older	JJR	CW	ADJ
+
+sentence break
+
+group	group	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+receive	receive	VBP	CW	VERB
+national	national	JJ	CW	ADJ
+acclaim	acclaim	NN	CW	NOUN	ARGUMENT
+advocate	advocate	NN	CW	NOUN	ARGUMENT
+american	american	JJ	CW	ADJ
+indian	indian	JJ	CW	ADJ
+cause	cause	NN	CW	NOUN	ARGUMENT
+effort	effort	NN	CW	NOUN	ARGUMENT
+protect	protect	VBP	CW	VERB
+batter	batter	NN	CW	NOUN	ARGUMENT
+immigrant	immigrant	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+staffer	staffer	NN	CW	NOUN	ARGUMENT
+volunteer	volunteer	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+city	city	NN	CW	NOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+tribal	tribal	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+federal	federal	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+organizer	organizer	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+anniversary	anniversary	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+particularly	particularly	RB	ADV	CW
+sweet	sweet	JJ	CW	ADJ
+office	office	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+survive	survive	VBP	CW	VERB
+federal	federal	JJ	CW	ADJ
+funding	funding	NN	CW	NOUN	ARGUMENT
+crisis	crisis	NN	CW	NOUN	ARGUMENT
+similar	similar	JJ	CW	ADJ
+organization	organization	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+not	not	RB	ADV	CW
+
+sentence break
+
+1995	1995	CD	FW
+congress	congress	NN	CW	NOUN	ARGUMENT
+cut	cut	NN	CW	NOUN	ARGUMENT
+third	third	JJ	CW	ADJ
+funding	funding	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+corporation	corporation	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+southern	southern	JJ	CW	ADJ
+arizona	arizona	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+roughly	roughly	RB	ADV	CW
+quarter	quarter	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+million	million	CD	FW
+operate	operate	VBP	CW	VERB
+budget	budget	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

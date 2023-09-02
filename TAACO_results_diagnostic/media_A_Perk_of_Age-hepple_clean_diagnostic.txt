@@ -1,0 +1,313 @@
+word	lemma	POS	CW\FW	other categories
+free	free	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+advice	advice	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+phone	phone	NN	CW	NOUN	ARGUMENT
+call	call	VB	CW	VERB
+away	away	RB	ADV	CW
+
+sentence break
+
+hot	hot	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+expand	expand	VB	CW	VERB
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+little	little	JJ	CW	ADJ
+know	know	VBP	CW	VERB
+perk	perk	JJ	CW	ADJ
+available	available	JJ	CW	ADJ
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+60	60	CD	FW
+older	older	JJR	CW	ADJ
+
+sentence break
+
+21	21	CD	FW
+state	state	NN	CW	NOUN	ARGUMENT
+washington	washington	NN	CW	NOUN	ARGUMENT
+dc	dc	NN	CW	NOUN	ARGUMENT
+puerto	puerto	NN	CW	NOUN	ARGUMENT
+rico	rico	NN	CW	NOUN	ARGUMENT
+operate	operate	VBP	CW	VERB
+legal-assistance	legal-assistance	JJ	CW	ADJ
+hot	hot	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+most	most	RBS	ADV	CW
+take	take	VB	CW	VERB
+call	call	NN	CW	NOUN	ARGUMENT
+younger	younger	JJR	CW	ADJ
+caregiver	caregiver	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+volunteer	volunteer	NN	CW	NOUN	ARGUMENT
+offer	offer	NN	CW	NOUN	ARGUMENT
+advice	advice	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+question	question	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+self-help	self-help	JJ	CW	ADJ
+material	material	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+referral	referral	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+office	office	NN	CW	NOUN	ARGUMENT
+pro	pro	FW	FW
+bono	bono	FW	FW
+reduced-fee	reduced-fee	JJ	CW	ADJ
+private	private	JJ	CW	ADJ
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+live	live	VB	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+hot	hot	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+local	local	JJ	CW	ADJ
+agency	agency	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+referral	referral	NN	CW	NOUN	ARGUMENT
+nearby	nearby	JJ	CW	ADJ
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hot	hot	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+referral	referral	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+tackle	tackle	VBP	CW	VERB
+estate	estate	NN	CW	NOUN	ARGUMENT
+planning	planning	NN	CW	NOUN	ARGUMENT
+pension	pension	NN	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+elder	elder	JJR	CW	ADJ
+abuse	abuse	NN	CW	NOUN	ARGUMENT
+neglect	neglect	NN	CW	NOUN	ARGUMENT
+guardianship	guardianship	NN	CW	NOUN	ARGUMENT
+custodial	custodial	JJ	CW	ADJ
+issue	issue	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+grandchild	grandchild	NN	CW	NOUN	ARGUMENT
+consumer	consumer	NN	CW	NOUN	ARGUMENT
+protection	protection	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+elder-law	elder-law	NN	CW	NOUN	ARGUMENT
+issue	issue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+us	we	PRP	FW	PRONOUN	ARGUMENT
+administration	administration	NN	CW	NOUN	ARGUMENT
+aging	aging	NN	CW	NOUN	ARGUMENT
+coordinate	coordinate	JJ	CW	ADJ
+loosely	loosely	RB	ADV	CW
+knit	knit	VBN	CW	VERB
+legal-service	legal-service	JJ	CW	ADJ
+network	network	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+anyone	anyone	NN	CW	NOUN	ARGUMENT
+meet	meet	VBP	CW	VERB
+age	age	NN	CW	NOUN	ARGUMENT
+requirement	requirement	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+hot	hot	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+hands-on	hands-on	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+counsel	counsel	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+first	first	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+greatest	greatest	JJS	CW	ADJ
+financial	financial	JJ	CW	ADJ
+social	social	JJ	CW	ADJ
+need	need	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+federal	federal	JJ	CW	ADJ
+agency	agency	NN	CW	NOUN	ARGUMENT
+recently	recently	RB	ADV	CW
+award	award	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+million	million	CD	FW
+grant	grant	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+elder-law	elder-law	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+largest	largest	JJS	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+bolster	bolster	VB	CW	VERB
+12	12	CD	FW
+hotline	hotline	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+add	add	VB	CW	VERB
+web-based	web-based	JJ	CW	ADJ
+questionnaire	questionnaire	NN	CW	NOUN	ARGUMENT
+outreach	outreach	NN	CW	NOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+rural	rural	JJ	CW	ADJ
+area	area	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+speak	speak	VB	CW	VERB
+english	english	JJ	CW	ADJ
+
+sentence break
+
+list	list	NN	CW	NOUN	ARGUMENT
+hotline	hotline	NN	CW	NOUN	ARGUMENT
+operate	operate	VBP	CW	VERB
+phone	phone	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+hour	hour	NN	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+www	www	NN	CW	NOUN	ARGUMENT
+aoa	aoa	NN	CW	NOUN	ARGUMENT
+gov	gov	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+hotline	hotline	NN	CW	NOUN	ARGUMENT
+html	html	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+federal	federal	JJ	CW	ADJ
+eldercare	eldercare	NN	CW	NOUN	ARGUMENT
+locator	locator	NN	CW	NOUN	ARGUMENT
+800	800	CD	FW
+
+sentence break
+
+677	677	CD	FW
+
+sentence break
+
+1116	1116	CD	FW
+
+sentence break
+
+live	live	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+hot	hot	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+locator	locator	NN	CW	NOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+local	local	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+assistance	assistance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+source	source	NN	CW	NOUN	ARGUMENT
+low-cost	low-cost	JJ	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+expand	expand	VBP	CW	VERB
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+aarp	aarp	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+available	available	JJ	CW	ADJ
+46	46	CD	FW
+state	state	NN	CW	NOUN	ARGUMENT
+expect	expect	VBP	CW	VERB
+reach	reach	NN	CW	NOUN	ARGUMENT
+50	50	CD	FW
+end	end	NN	CW	NOUN	ARGUMENT
+march	march	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	CW	VERB
+pay	pay	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+dues	due	NNS	CW	NOUN	ARGUMENT
+10	10	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+get	get	VB	CW	VERB
+30	30	CD	FW
+minute	minute	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+counseling	counseling	NN	CW	NOUN	ARGUMENT
+face-to-face	face-to-face	JJ	CW	ADJ
+phone	phone	NN	CW	NOUN	ARGUMENT
+cost	cost	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+discount	discount	NN	CW	NOUN	ARGUMENT
+usual	usual	JJ	CW	ADJ
+rate	rate	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+simple	simple	JJ	CW	ADJ
+will	will	MD	FW	aux_or_cop
+cost	cost	VB	CW	VERB
+75	75	CD	FW
+apiece	apiece	RB	ADV	FW
+
+sentence break
+
+reach	reach	VB	CW	VERB
+service	service	NN	CW	NOUN	ARGUMENT
+800	800	CD	FW
+
+sentence break
+
+424	424	CD	FW
+
+sentence break
+
+3410	3410	CD	FW
+go	go	VBP	CW	VERB
+www	www	NN	CW	NOUN	ARGUMENT
+aarp	aarp	NN	CW	NOUN	ARGUMENT
+org	org	NN	CW	NOUN	ARGUMENT
+lsn	lsn	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+nearby	nearby	RB	ADV	CW
+
+sentence break
+
+
+paragraph break
+

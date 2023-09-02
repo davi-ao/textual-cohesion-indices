@@ -1,0 +1,2376 @@
+word	lemma	POS	CW\FW	other categories
+city	city	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+steep	steep	JJ	CW	ADJ
+ragged	ragged	JJ	CW	ADJ
+cliff	cliff	NN	CW	NOUN	ARGUMENT
+castle	castle	NN	CW	NOUN	ARGUMENT
+rock	rock	NN	CW	NOUN	ARGUMENT
+easily	easily	RB	ADV	FW
+defend	defend	VBP	CW	VERB
+summit	summit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+archaeological	archaeological	JJ	CW	ADJ
+excavation	excavation	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+reveal	reveal	VBP	CW	VERB
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+habitation	habitation	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+long	long	RB	ADV	CW
+ago	ago	RB	ADV	CW
+900	900	CD	FW
+very	very	RB	ADV	CW
+little	little	JJ	CW	ADJ
+however	however	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+know	know	VB	CW	VERB
+rock	rock	NN	CW	NOUN	ARGUMENT
+inhabitant	inhabitant	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+occupation	occupation	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+macalpin	macalpin	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+few	few	JJ	CW	ADJ
+shadowy	shadowy	JJ	CW	ADJ
+detail	detail	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+leave	leave	VB	CW	VERB
+roman	roman	NN	CW	NOUN	ARGUMENT
+epic	epic	NN	CW	NOUN	ARGUMENT
+poem	poem	NN	CW	NOUN	ARGUMENT
+seventh	seventh	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+roman	roman	NN	CW	NOUN	ARGUMENT
+invade	invade	VB	CW	VERB
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+78	78	CD	FW
+84	84	CD	FW
+meet	meet	VBP	CW	VERB
+fierce	fierce	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+pict	pict	NN	CW	NOUN	ARGUMENT
+drive	drive	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+
+sentence break
+
+consolidated	consolidated	JJ	CW	ADJ
+gain	gain	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+antonine	antonine	JJ	CW	ADJ
+s	s	NNS	CW	NOUN	ARGUMENT
+wall	wall	NN	CW	NOUN	ARGUMENT
+waist	waist	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+firth	firth	NN	CW	NOUN	ARGUMENT
+forth	forth	RB	ADV	FW
+river	river	NN	CW	NOUN	ARGUMENT
+clyde	clyde	NN	CW	NOUN	ARGUMENT
+150	150	CD	FW
+
+sentence break
+
+roman	roman	NN	CW	NOUN	ARGUMENT
+legion	legion	NN	CW	NOUN	ARGUMENT
+encounter	encounter	NN	CW	NOUN	ARGUMENT
+stronghold	stronghold	NN	CW	NOUN	ARGUMENT
+castle	castle	NN	CW	NOUN	ARGUMENT
+rock	rock	NN	CW	NOUN	ARGUMENT
+arthur	arthur	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+seat	seat	NN	CW	NOUN	ARGUMENT
+hold	hold	VBP	CW	VERB
+tribe	tribe	NN	CW	NOUN	ARGUMENT
+ancient	ancient	JJ	CW	ADJ
+briton	briton	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+votadinus	votadinus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+little	little	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+record	record	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+probably	probably	RB	ADV	CW
+ancestor	ancestor	NN	CW	NOUN	ARGUMENT
+gododdin	gododdin	NN	CW	NOUN	ARGUMENT
+feat	feat	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+tell	tell	VB	CW	VERB
+seventh-century	seventh-century	JJ	CW	ADJ
+old	old	JJ	CW	ADJ
+welsh	welsh	NN	CW	NOUN	ARGUMENT
+manuscript	manuscript	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+capital	capital	NN	CW	NOUN	ARGUMENT
+gododdin	gododdin	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+din	din	JJ	CW	ADJ
+eidyn	eidyn	NN	CW	NOUN	ARGUMENT
+fort	fort	NN	CW	NOUN	ARGUMENT
+eidyn	eidyn	NN	CW	NOUN	ARGUMENT
+almost	almost	RB	ADV	FW
+certainly	certainly	RB	ADV	CW
+castle	castle	NN	CW	NOUN	ARGUMENT
+rock	rock	NN	CW	NOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+edin	edin	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+din	din	NN	CW	NOUN	ARGUMENT
+eidyn	eidyn	NN	CW	NOUN	ARGUMENT
+fall	fall	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+638	638	CD	FW
+become	become	VBP	CW	VERB
+part	part	NN	CW	NOUN	ARGUMENT
+anglian	anglian	JJ	CW	ADJ
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+northumbrium	northumbrium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+first	first	RB	ADV	CW
+many	many	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+fort	fort	NN	CW	NOUN	ARGUMENT
+eidyn	eidyn	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+hand	hand	NN	CW	NOUN	ARGUMENT
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+south	south	RB	ADV	CW
+
+sentence break
+
+four	four	CD	FW
+distinct	distinct	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+once	once	RB	ADV	CW
+inhabit	inhabit	VBP	CW	VERB
+land	land	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+know	know	VBP	CW	VERB
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pict	pict	NN	CW	NOUN	ARGUMENT
+north	north	NN	CW	NOUN	ARGUMENT
+briton	briton	NN	CW	NOUN	ARGUMENT
+southwest	southwest	NN	CW	NOUN	ARGUMENT
+invade	invade	VB	CW	VERB
+angle	angle	NN	CW	NOUN	ARGUMENT
+southeast	southeast	NN	CW	NOUN	ARGUMENT
+scot	scot	NN	CW	NOUN	ARGUMENT
+west	west	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+scot	scot	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+gaelic-speaking	gaelic-speaking	JJ	CW	ADJ
+immigrant	immigrant	JJ	CW	ADJ
+north	north	NN	CW	NOUN	ARGUMENT
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+kenneth	kenneth	NN	CW	NOUN	ARGUMENT
+macalpin	macalpin	NN	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+scot	scot	NN	CW	NOUN	ARGUMENT
+dunadd	dunadd	NN	CW	NOUN	ARGUMENT
+acquire	acquire	NN	CW	NOUN	ARGUMENT
+pictish	pictish	NN	CW	NOUN	ARGUMENT
+throne	throne	NN	CW	NOUN	ARGUMENT
+843	843	CD	FW
+unit	unit	NN	CW	NOUN	ARGUMENT
+scotland	scotland	VBD	CW	VERB
+north	north	RB	ADV	CW
+river	river	NN	CW	NOUN	ARGUMENT
+forth	forth	RB	ADV	FW
+single	single	JJ	CW	ADJ
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+move	move	VB	CW	VERB
+capital	capital	NN	CW	NOUN	ARGUMENT
+stone	stone	NN	CW	NOUN	ARGUMENT
+destiny	destiny	NN	CW	NOUN	ARGUMENT
+scottish	scottish	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+crown	crown	NN	CW	NOUN	ARGUMENT
+sacred	sacred	JJ	CW	ADJ
+pict	pict	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+scone	scone	NN	CW	NOUN	ARGUMENT
+close	close	JJ	CW	ADJ
+perth	perth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+great-great-great-grandson	great-great-great-grandson	NN	CW	NOUN	ARGUMENT
+malcolm	malcolm	NN	CW	NOUN	ARGUMENT
+ius	ius	JJ	CW	ADJ
+1005	1005	CD	FW
+1034	1034	CD	FW
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+battle	battle	NN	CW	NOUN	ARGUMENT
+carham	carham	NN	CW	NOUN	ARGUMENT
+1018	1018	CD	FW
+extend	extend	VBP	CW	VERB
+scottish	scottish	JJ	CW	ADJ
+territory	territory	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+far	far	RB	ADV	CW
+south	south	JJ	CW	ADJ
+river	river	NN	CW	NOUN	ARGUMENT
+tweed	tweed	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+land	land	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+stronghold	stronghold	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+malcolm	malcolm	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+own	own	JJ	CW	ADJ
+grandson	grandson	NN	CW	NOUN	ARGUMENT
+malcolm	malcolm	NN	CW	NOUN	ARGUMENT
+canmore	canmore	JJ	CW	ADJ
+1058	1058	CD	FW
+1093	1093	CD	FW
+often	often	RB	ADV	FW
+visit	visit	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+wife	wife	NN	CW	NOUN	ARGUMENT
+margaret	margaret	NN	CW	NOUN	ARGUMENT
+saxon	saxon	NN	CW	NOUN	ARGUMENT
+princess	princess	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cross	cross	VB	CW	VERB
+forth	forth	RB	ADV	FW
+dunfermline	dunfermline	JJ	CW	ADJ
+narrow	narrow	JJ	CW	ADJ
+know	know	VBP	CW	VERB
+day	day	NN	CW	NOUN	ARGUMENT
+queensferry	queensferry	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+margaret	margaret	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+deeply	deeply	RB	ADV	CW
+pious	pious	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+subsequently	subsequently	RB	ADV	CW
+canonized	canonize	VBN	CW	VERB
+youngest	youngest	JJS	CW	ADJ
+son	son	NN	CW	NOUN	ARGUMENT
+david	david	NN	CW	NOUN	ARGUMENT
+1124	1124	CD	FW
+1153	1153	CD	FW
+found	find	VBN	CW	VERB
+church	church	NN	CW	NOUN	ARGUMENT
+name	name	NN	CW	NOUN	ARGUMENT
+highest	highest	JJS	CW	ADJ
+point	point	NN	CW	NOUN	ARGUMENT
+castle	castle	NN	CW	NOUN	ARGUMENT
+rock	rock	NN	CW	NOUN	ARGUMENT
+st	st	NN	CW	NOUN	ARGUMENT
+margaret	margaret	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+chapel	chapel	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+david	david	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+found	find	VBD	CW	VERB
+abbey	abbey	NN	CW	NOUN	ARGUMENT
+holyrood	holyrood	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+several	several	JJ	CW	ADJ
+royal	royal	JJ	CW	ADJ
+burgh	burgh	NN	CW	NOUN	ARGUMENT
+town	town	NN	CW	NOUN	ARGUMENT
+special	special	JJ	CW	ADJ
+trading	trading	NN	CW	NOUN	ARGUMENT
+privilege	privilege	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+canongate	canongate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+latter	latter	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+jurisdiction	jurisdiction	NN	CW	NOUN	ARGUMENT
+monk	monk	NN	CW	NOUN	ARGUMENT
+canon	canon	NN	CW	NOUN	ARGUMENT
+holyrood	holyrood	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+time	time	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+very	very	RB	ADV	CW
+modest	modest	JJ	CW	ADJ
+town	town	NN	CW	NOUN	ARGUMENT
+david	david	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+successor	successor	NN	CW	NOUN	ARGUMENT
+malcolm	malcolm	NN	CW	NOUN	ARGUMENT
+iv	iv	NN	CW	NOUN	ARGUMENT
+1153	1153	CD	FW
+1165	1165	CD	FW
+make	make	VBP	CW	VERB
+castle	castle	NN	CW	NOUN	ARGUMENT
+main	main	JJ	CW	ADJ
+residence	residence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+castle	castle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+use	use	VB	CW	VERB
+royal	royal	JJ	CW	ADJ
+treasury	treasury	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+town	town	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+high	high	JJ	CW	ADJ
+street	street	NN	CW	NOUN	ARGUMENT
+stretch	stretch	NN	CW	NOUN	ARGUMENT
+castle	castle	NN	CW	NOUN	ARGUMENT
+ridge	ridge	NN	CW	NOUN	ARGUMENT
+east	east	JJ	CW	ADJ
+today	today	NN	CW	NOUN	ARGUMENT
+royal	royal	NN	CW	NOUN	ARGUMENT
+mile	mile	NN	CW	NOUN	ARGUMENT
+past	past	IN	FW	SUBORDINATOR
+parish	parish	JJ	CW	ADJ
+church	church	NN	CW	NOUN	ARGUMENT
+st	st	NN	CW	NOUN	ARGUMENT
+gile	gile	NN	CW	NOUN	ARGUMENT
+netherbow	netherbow	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+canongate	canongate	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+
+sentence break
+
+1286	1286	CD	FW
+macalpin	macalpin	NN	CW	NOUN	ARGUMENT
+dynasty	dynasty	NN	CW	NOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+leave	leave	VBP	CW	VERB
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+number	number	NN	CW	NOUN	ARGUMENT
+claimant	claimant	JJ	CW	ADJ
+throne	throne	NN	CW	NOUN	ARGUMENT
+john	john	NN	CW	NOUN	ARGUMENT
+balliol	balliol	JJ	CW	ADJ
+lord	lord	NN	CW	NOUN	ARGUMENT
+galloway	galloway	NN	CW	NOUN	ARGUMENT
+robert	robert	NN	CW	NOUN	ARGUMENT
+brus	brus	JJ	CW	ADJ
+lord	lord	NN	CW	NOUN	ARGUMENT
+annandale	annandale	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+guardian	guardian	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unable	unable	JJ	CW	ADJ
+decide	decide	VBP	CW	VERB
+succeed	succeed	VB	CW	VERB
+ask	ask	VB	CW	VERB
+english	english	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+edward	edward	NN	CW	NOUN	ARGUMENT
+adjudicate	adjudicate	JJ	CW	ADJ
+
+sentence break
+
+edward	edward	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+invitation	invitation	NN	CW	NOUN	ARGUMENT
+chance	chance	NN	CW	NOUN	ARGUMENT
+assert	assert	VBP	CW	VERB
+claim	claim	NN	CW	NOUN	ARGUMENT
+overlord	overlord	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+john	john	NN	CW	NOUN	ARGUMENT
+balliol	balliol	JJ	CW	ADJ
+judge	judge	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+weaker	weaker	JJR	CW	ADJ
+two	two	CD	FW
+
+sentence break
+
+edward	edward	JJ	CW	ADJ
+treat	treat	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+john	john	NN	CW	NOUN	ARGUMENT
+vassal	vassal	JJ	CW	ADJ
+
+sentence break
+
+however	however	RB	ADV	FW
+edward	edward	RB	ADV	FW
+go	go	VB	CW	VERB
+war	war	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+1294	1294	CD	FW
+summon	summon	VBP	CW	VERB
+john	john	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+knight	knight	NN	CW	NOUN	ARGUMENT
+scottish	scottish	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+decide	decide	VBP	CW	VERB
+have	have	VBP	FW	aux_or_cop
+have	have	VB	CW	VERB
+enough	enough	RB	ADV	CW
+
+sentence break
+
+ignore	ignore	VB	CW	VERB
+edward	edward	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+summons	summons	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+negotiate	negotiate	VB	CW	VERB
+treaty	treaty	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+beginning	begin	VBG	CW	VERB
+long	long	JJ	CW	ADJ
+association	association	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+know	know	VBP	CW	VERB
+auld	auld	JJ	CW	ADJ
+alliance	alliance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+edward	edward	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+furious	furious	JJ	CW	ADJ
+reprisal	reprisal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+swift	swift	JJ	CW	ADJ
+bloody	bloody	JJ	CW	ADJ
+
+sentence break
+
+1296	1296	CD	FW
+lead	lead	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+nearly	nearly	RB	ADV	CW
+30	30	CD	FW
+000	000	CD	FW
+man	man	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+capture	capture	NN	CW	NOUN	ARGUMENT
+castle	castle	NN	CW	NOUN	ARGUMENT
+roxburgh	roxburgh	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+stirling	stirling	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+stone	stone	NN	CW	NOUN	ARGUMENT
+destiny	destiny	NN	CW	NOUN	ARGUMENT
+scottish	scottish	JJ	CW	ADJ
+crown	crown	NN	CW	NOUN	ARGUMENT
+jewel	jewel	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+steal	steal	VB	CW	VERB
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+seal	seal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+break	break	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+oath	oath	NN	CW	NOUN	ARGUMENT
+fealty	fealty	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+demand	demand	NN	CW	NOUN	ARGUMENT
+scottish	scottish	JJ	CW	ADJ
+noble	noble	JJ	CW	ADJ
+english	english	JJ	CW	ADJ
+official	official	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+install	install	VB	CW	VERB
+oversee	oversee	VB	CW	VERB
+running	run	VBG	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+little	little	RB	ADV	CW
+more	more	RBR	ADV	CW
+english	english	JJ	CW	ADJ
+county	county	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+scot	scot	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+take	take	VB	CW	VERB
+insult	insult	NN	CW	NOUN	ARGUMENT
+lie	lie	VBP	CW	VERB
+down	down	RB	ADV	CW
+
+sentence break
+
+band	band	NN	CW	NOUN	ARGUMENT
+rebel	rebel	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+lead	lead	NN	CW	NOUN	ARGUMENT
+william	william	NN	CW	NOUN	ARGUMENT
+wallace	wallace	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+attack	attack	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+garrison	garrison	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+raid	raid	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+territory	territory	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+wallace	wallace	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+capture	capture	NN	CW	NOUN	ARGUMENT
+scot	scot	NN	CW	NOUN	ARGUMENT
+look	look	VB	CW	VERB
+new	new	JJ	CW	ADJ
+leader	leader	NN	CW	NOUN	ARGUMENT
+discover	discover	VBP	CW	VERB
+one	one	CD	FW
+robert	robert	NN	CW	NOUN	ARGUMENT
+bruce	bruce	JJ	CW	ADJ
+grandson	grandson	NN	CW	NOUN	ARGUMENT
+robert	robert	NN	CW	NOUN	ARGUMENT
+brus	brus	NN	CW	NOUN	ARGUMENT
+reject	reject	VBP	CW	VERB
+edward	edward	JJ	CW	ADJ
+1292	1292	CD	FW
+
+sentence break
+
+be	be	VB	CW	VERB
+crown	crown	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+scot	scot	NN	CW	NOUN	ARGUMENT
+scone	scone	VBP	CW	VERB
+1306	1306	CD	FW
+begin	begin	VB	CW	VERB
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+drive	drive	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+edward	edward	JJ	CW	ADJ
+die	die	NN	CW	NOUN	ARGUMENT
+1307	1307	CD	FW
+be	be	VB	FW	aux_or_cop
+succeed	succeed	VB	CW	VERB
+ineffectual	ineffectual	JJ	CW	ADJ
+son	son	NN	CW	NOUN	ARGUMENT
+edward	edward	NN	CW	NOUN	ARGUMENT
+ius	ius	JJ	CW	ADJ
+1314	1314	CD	FW
+lead	lead	NN	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+25	25	CD	FW
+000	000	CD	FW
+man	man	NN	CW	NOUN	ARGUMENT
+confront	confront	VB	CW	VERB
+bruce	bruce	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+bannockburn	bannockburn	NN	CW	NOUN	ARGUMENT
+stirling	stirling	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+outnumber	outnumber	VB	CW	VERB
+scot	scot	NN	CW	NOUN	ARGUMENT
+gain	gain	NN	CW	NOUN	ARGUMENT
+famous	famous	JJ	CW	ADJ
+victory	victory	NN	CW	NOUN	ARGUMENT
+send	send	VB	CW	VERB
+english	english	JJ	CW	ADJ
+pack	pack	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+robert	robert	NN	CW	NOUN	ARGUMENT
+bruce	bruce	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+harass	harass	VBP	CW	VERB
+english	english	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+force	force	NN	CW	NOUN	ARGUMENT
+sue	sue	VB	CW	VERB
+peace	peace	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+truce	truce	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+declare	declare	VB	CW	VERB
+treaty	treaty	NN	CW	NOUN	ARGUMENT
+northampton	northampton	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+negotiate	negotiate	VB	CW	VERB
+edinburgh	edinburgh	NNP	CW	NOUN	ARGUMENT
+1328	1328	CD	FW
+
+sentence break
+
+two	two	CD	FW
+recur	recur	JJ	CW	ADJ
+theme	theme	NN	CW	NOUN	ARGUMENT
+scottish	scottish	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+minor	minor	JJ	CW	ADJ
+inherit	inherit	VB	CW	VERB
+throne	throne	NN	CW	NOUN	ARGUMENT
+divide	divide	NN	CW	NOUN	ARGUMENT
+loyalty	loyalty	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+scottish	scottish	JJ	CW	ADJ
+noble	noble	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+dedicate	dedicate	JJ	CW	ADJ
+cause	cause	NN	CW	NOUN	ARGUMENT
+independence	independence	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+bear	bear	NN	CW	NOUN	ARGUMENT
+grudge	grudge	NN	CW	NOUN	ARGUMENT
+ruling	ruling	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+hold	hold	VBP	CW	VERB
+land	land	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+fear	fear	NN	CW	NOUN	ARGUMENT
+lose	lose	VBP	CW	VERB
+
+sentence break
+
+division	division	NN	CW	NOUN	ARGUMENT
+later	later	JJ	CW	ADJ
+harden	harden	NN	CW	NOUN	ARGUMENT
+religious	religious	JJ	CW	ADJ
+schism	schism	NN	CW	NOUN	ARGUMENT
+forever	forever	RB	ADV	FW
+deny	deny	VBP	CW	VERB
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+truly	truly	RB	ADV	FW
+unit	unit	NN	CW	NOUN	ARGUMENT
+voice	voice	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+robert	robert	NN	CW	NOUN	ARGUMENT
+bruce	bruce	JJ	CW	ADJ
+die	die	NN	CW	NOUN	ARGUMENT
+1329	1329	CD	FW
+son	son	NN	CW	NOUN	ARGUMENT
+heir	heir	NN	CW	NOUN	ARGUMENT
+david	david	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+five	five	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+
+sentence break
+
+few	few	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+resume	resume	VBP	CW	VERB
+aggravate	aggravate	VBP	CW	VERB
+civil	civil	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+edward	edward	NN	CW	NOUN	ARGUMENT
+balliol	balliol	JJ	CW	ADJ
+son	son	NN	CW	NOUN	ARGUMENT
+john	john	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+take	take	VB	CW	VERB
+scottish	scottish	JJ	CW	ADJ
+throne	throne	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+edward	edward	NN	CW	NOUN	ARGUMENT
+iius	iius	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+stormy	stormy	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+castle	castle	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+occupied	occupy	VBN	CW	VERB
+several	several	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+garrison	garrison	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1341	1341	CD	FW
+be	be	VB	FW	aux_or_cop
+take	take	VB	CW	VERB
+english	english	JJ	CW	ADJ
+william	william	NN	CW	NOUN	ARGUMENT
+dougla	douglum	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+young	young	JJ	CW	ADJ
+david	david	JJ	CW	ADJ
+ius	ius	NN	CW	NOUN	ARGUMENT
+return	return	NN	CW	NOUN	ARGUMENT
+exile	exile	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+principal	principal	JJ	CW	ADJ
+royal	royal	NN	CW	NOUN	ARGUMENT
+residence	residence	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+tower	tower	NN	CW	NOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+david	david	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+tower	tower	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+half	half	JJ	CW	ADJ
+moon	moon	NN	CW	NOUN	ARGUMENT
+battery	battery	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+die	die	VB	CW	VERB
+1371	1371	CD	FW
+be	be	VB	FW	aux_or_cop
+succeed	succeed	VB	CW	VERB
+nephew	nephew	NN	CW	NOUN	ARGUMENT
+robert	robert	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+david	david	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+sister	sister	NN	CW	NOUN	ARGUMENT
+marjory	marjory	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+marry	marry	VB	CW	VERB
+walter	walter	NN	CW	NOUN	ARGUMENT
+steward	steward	JJ	CW	ADJ
+son	son	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+first	first	RB	ADV	CW
+long	long	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+stewart	stewart	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+spell	spell	VBP	CW	VERB
+stuart	stuart	NN	CW	NOUN	ARGUMENT
+monarch	monarch	NN	CW	NOUN	ARGUMENT
+reign	reign	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+subsequently	subsequently	RB	ADV	CW
+great	great	JJ	CW	ADJ
+britain	britain	NN	CW	NOUN	ARGUMENT
+glorious	glorious	JJ	CW	ADJ
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+1688	1688	CD	FW
+
+sentence break
+
+strength	strength	NN	CW	NOUN	ARGUMENT
+wealth	wealth	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+reign	reign	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+stewart	stewart	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+castle	castle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+build	build	VB	CW	VERB
+new	new	JJ	CW	ADJ
+weapon	weapon	NN	CW	NOUN	ARGUMENT
+acquire	acquire	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+famous	famous	JJ	CW	ADJ
+gun	gun	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+mon	mon	NN	CW	NOUN	ARGUMENT
+meg	meg	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+emerge	emerge	VBP	CW	VERB
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+main	main	JJ	CW	ADJ
+political	political	JJ	CW	ADJ
+center	center	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+declare	declare	VB	CW	VERB
+jame	jame	NN	CW	NOUN	ARGUMENT
+iius	iius	JJ	CW	ADJ
+1460	1460	CD	FW
+1488	1488	CD	FW
+be	be	VB	FW	aux_or_cop
+principal	principal	JJ	CW	ADJ
+burgh	burgh	NN	CW	NOUN	ARGUMENT
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+jame	jame	NN	CW	NOUN	ARGUMENT
+iv	iv	NN	CW	NOUN	ARGUMENT
+1488	1488	CD	FW
+1513	1513	CD	FW
+confirm	confirm	VBP	CW	VERB
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+status	status	NN	CW	NOUN	ARGUMENT
+capital	capital	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+construct	construct	NN	CW	NOUN	ARGUMENT
+royal	royal	NN	CW	NOUN	ARGUMENT
+palace	palace	NN	CW	NOUN	ARGUMENT
+holyrood	holyrood	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cement	cement	NN	CW	NOUN	ARGUMENT
+peace	peace	NN	CW	NOUN	ARGUMENT
+treaty	treaty	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+marry	marry	VB	CW	VERB
+margaret	margaret	NNP	CW	NOUN	ARGUMENT
+tudor	tudor	NNP	CW	NOUN	ARGUMENT
+daughter	daughter	NN	CW	NOUN	ARGUMENT
+henry	henry	NN	CW	NOUN	ARGUMENT
+vius	vius	NN	CW	NOUN	ARGUMENT
+so-called	so-called	JJ	CW	ADJ
+marriage	marriage	NN	CW	NOUN	ARGUMENT
+thistle	thistle	NN	CW	NOUN	ARGUMENT
+rose	rise	VBD	CW	VERB
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+prevent	prevent	VB	CW	VERB
+make	make	VB	CW	VERB
+raid	raid	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+1513	1513	CD	FW
+
+sentence break
+
+attack	attack	NN	CW	NOUN	ARGUMENT
+culminate	culminate	VBP	CW	VERB
+disastrous	disastrous	JJ	CW	ADJ
+battle	battle	NN	CW	NOUN	ARGUMENT
+flodden	flodden	NN	CW	NOUN	ARGUMENT
+river	river	NN	CW	NOUN	ARGUMENT
+tweed	tweed	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+kill	kill	VB	CW	VERB
+
+sentence break
+
+fearing	fear	VBG	CW	VERB
+invasion	invasion	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+town	town	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+protective	protective	JJ	CW	ADJ
+wall	wall	NN	CW	NOUN	ARGUMENT
+flodden	flodden	NN	CW	NOUN	ARGUMENT
+wall	wall	NN	CW	NOUN	ARGUMENT
+city	city	NN	CW	NOUN	ARGUMENT
+boundary	boundary	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+yet	yet	RB	ADV	CW
+again	again	RB	ADV	CW
+minor	minor	JJ	CW	ADJ
+infant	infant	NN	CW	NOUN	ARGUMENT
+jame	jame	NN	CW	NOUN	ARGUMENT
+v	v	LS	FW
+succeed	succeed	VB	CW	VERB
+throne	throne	NN	CW	NOUN	ARGUMENT
+scot	scot	NN	CW	NOUN	ARGUMENT
+noble	noble	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+divide	divide	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+draw	draw	NN	CW	NOUN	ARGUMENT
+closer	closer	RBR	ADV	CW
+england	england	JJ	CW	ADJ
+seek	seek	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+ally	ally	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+adult	adult	JJ	CW	ADJ
+jame	jame	NN	CW	NOUN	ARGUMENT
+lean	lean	JJ	CW	ADJ
+france	france	NN	CW	NOUN	ARGUMENT
+1537	1537	CD	FW
+take	take	VBP	CW	VERB
+french	french	JJ	CW	ADJ
+wife	wife	NN	CW	NOUN	ARGUMENT
+mary	mary	NN	CW	NOUN	ARGUMENT
+guise	guise	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bear	bear	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+son	son	NN	CW	NOUN	ARGUMENT
+die	die	VB	CW	VERB
+infancy	infancy	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+give	give	VB	CW	VERB
+birth	birth	NN	CW	NOUN	ARGUMENT
+third	third	JJ	CW	ADJ
+child	child	NN	CW	NOUN	ARGUMENT
+husband	husband	NN	CW	NOUN	ARGUMENT
+lie	lie	VBP	CW	VERB
+die	die	VB	CW	VERB
+falkland	falkland	NN	CW	NOUN	ARGUMENT
+palace	palace	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+8	8	CD	FW
+december	december	NNP	CW	NOUN	ARGUMENT
+1542	1542	CD	FW
+messenger	messenger	NN	CW	NOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+news	news	NN	CW	NOUN	ARGUMENT
+queen	queen	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+produce	produce	VBP	CW	VERB
+daughter	daughter	NN	CW	NOUN	ARGUMENT
+palace	palace	NN	CW	NOUN	ARGUMENT
+linlithgow	linlithgow	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+few	few	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+king	king	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+dead	dead	JJ	CW	ADJ
+leave	leave	NN	CW	NOUN	ARGUMENT
+week-old	week-old	JJ	CW	ADJ
+baby	baby	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+inherit	inherit	VB	CW	VERB
+scottish	scottish	JJ	CW	ADJ
+crown	crown	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+baby	baby	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+mary	mary	JJ	CW	ADJ
+stuart	stuart	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+nine	nine	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+crown	crown	NN	CW	NOUN	ARGUMENT
+queen	queen	NN	CW	NOUN	ARGUMENT
+scot	scot	NN	CW	NOUN	ARGUMENT
+chapel	chapel	NN	CW	NOUN	ARGUMENT
+royal	royal	JJ	CW	ADJ
+stirling	stirling	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+news	news	NN	CW	NOUN	ARGUMENT
+reach	reach	NN	CW	NOUN	ARGUMENT
+london	london	NN	CW	NOUN	ARGUMENT
+henry	henry	NN	CW	NOUN	ARGUMENT
+viius	viius	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+chance	chance	NN	CW	NOUN	ARGUMENT
+subdue	subdue	VBP	CW	VERB
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+negotiate	negotiate	VB	CW	VERB
+marriage	marriage	NN	CW	NOUN	ARGUMENT
+infant	infant	NN	CW	NOUN	ARGUMENT
+mary	mary	JJ	CW	ADJ
+son	son	NN	CW	NOUN	ARGUMENT
+edward	edward	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+scot	scot	NN	CW	NOUN	ARGUMENT
+refuse	refuse	NN	CW	NOUN	ARGUMENT
+henry	henry	NN	CW	NOUN	ARGUMENT
+send	send	VBP	CW	VERB
+army	army	NN	CW	NOUN	ARGUMENT
+rampage	rampage	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+rough	rough	JJ	CW	ADJ
+wooing	woo	VBG	CW	VERB
+
+sentence break
+
+english	english	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+burn	burn	VBP	CW	VERB
+edinburgh	edinburgh	JJ	CW	ADJ
+town	town	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+forever	forever	RB	ADV	FW
+perpetual	perpetual	JJ	CW	ADJ
+memory	memory	NN	CW	NOUN	ARGUMENT
+vengeance	vengeance	NN	CW	NOUN	ARGUMENT
+god	god	NN	CW	NOUN	ARGUMENT
+lighten	lighten	VB	CW	VERB
+scot	scot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+more	more	RBR	ADV	CW
+be	be	VB	FW	aux_or_cop
+stake	stake	NN	CW	NOUN	ARGUMENT
+simply	simply	RB	ADV	CW
+scotland	scotland	VBD	CW	VERB
+s	s	NNS	CW	NOUN	ARGUMENT
+independence	independence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+religious	religious	JJ	CW	ADJ
+schism	schism	NN	CW	NOUN	ARGUMENT
+britain	britain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+order	order	NN	CW	NOUN	ARGUMENT
+divorce	divorce	NN	CW	NOUN	ARGUMENT
+catherine	catherine	NN	CW	NOUN	ARGUMENT
+aragon	aragon	NNP	CW	NOUN	ARGUMENT
+marry	marry	VB	CW	VERB
+anne	anne	NN	CW	NOUN	ARGUMENT
+boleyn	boleyn	NN	CW	NOUN	ARGUMENT
+henry	henry	NN	CW	NOUN	ARGUMENT
+viius	viius	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+break	break	NN	CW	NOUN	ARGUMENT
+rome	rome	NN	CW	NOUN	ARGUMENT
+bring	bring	VBP	CW	VERB
+english	english	JJ	CW	ADJ
+church	church	NN	CW	NOUN	ARGUMENT
+own	own	VB	CW	VERB
+control	control	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+england	england	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+thus	thus	RB	ADV	FW
+now	now	RB	ADV	CW
+protestant	protestant	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+catch	catch	NN	CW	NOUN	ARGUMENT
+catholic	catholic	JJ	CW	ADJ
+france	france	NN	CW	NOUN	ARGUMENT
+scot	scot	VBD	CW	VERB
+new	new	JJ	CW	ADJ
+catholic	catholic	JJ	CW	ADJ
+queen	queen	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+scot	scot	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+divide	divide	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+embrace	embrace	VBP	CW	VERB
+protestantism	protestantism	NN	CW	NOUN	ARGUMENT
+spirit	spirit	NN	CW	NOUN	ARGUMENT
+reformation	reformation	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+remain	remain	VBP	CW	VERB
+staunchly	staunchly	RB	ADV	CW
+catholic	catholic	JJ	CW	ADJ
+
+sentence break
+
+however	however	RB	ADV	FW
+fear	fear	VBP	CW	VERB
+rampage	rampage	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+army	army	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+scot	scot	NN	CW	NOUN	ARGUMENT
+again	again	RB	ADV	CW
+seek	seek	VBP	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+ally	ally	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+young	young	JJ	CW	ADJ
+queen	queen	NN	CW	NOUN	ARGUMENT
+marry	marry	VB	CW	VERB
+dauphin	dauphin	NNP	CW	NOUN	ARGUMENT
+encoding error!
+son	son	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+encoding error!
+ius	ius	NNS	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+king	king	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+1559	1559	CD	FW
+die	die	VBP	CW	VERB
+soon	soon	RB	ADV	CW
+
+sentence break
+
+1561	1561	CD	FW
+18	18	CD	FW
+
+sentence break
+
+year-old	year-old	JJ	CW	ADJ
+mary	mary	JJ	CW	ADJ
+return	return	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+grip	grip	NN	CW	NOUN	ARGUMENT
+reformation	reformation	NN	CW	NOUN	ARGUMENT
+protestant	protestant	JJ	CW	ADJ
+leader	leader	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+take	take	VB	CW	VERB
+control	control	NN	CW	NOUN	ARGUMENT
+scottish	scottish	JJ	CW	ADJ
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+abolish	abolish	VB	CW	VERB
+authority	authority	NN	CW	NOUN	ARGUMENT
+pope	pope	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+protestant	protestant	JJ	CW	ADJ
+cousin	cousin	NN	CW	NOUN	ARGUMENT
+elizabeth	elizabeth	NN	CW	NOUN	ARGUMENT
+tudor	tudor	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+english	english	JJ	CW	ADJ
+throne	throne	NN	CW	NOUN	ARGUMENT
+elizabeth	elizabeth	NN	CW	NOUN	ARGUMENT
+virgin	virgin	JJ	CW	ADJ
+queen	queen	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+heir	heir	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mary	mary	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+next	next	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+crown	crown	NN	CW	NOUN	ARGUMENT
+elizabeth	elizabeth	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+suspicious	suspicious	JJ	CW	ADJ
+intention	intention	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+six	six	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+mary	mary	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+reign	reign	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+turbulent	turbulent	JJ	CW	ADJ
+one	one	CD	FW
+
+sentence break
+
+clash	clash	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+famous	famous	JJ	CW	ADJ
+protestant	protestant	JJ	CW	ADJ
+reformer	reformer	JJ	CW	ADJ
+john	john	NN	CW	NOUN	ARGUMENT
+knox	knox	JJ	CW	ADJ
+hold	hold	NN	CW	NOUN	ARGUMENT
+sway	sway	VB	CW	VERB
+st	st	NN	CW	NOUN	ARGUMENT
+gile	gile	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+adopt	adopt	VB	CW	VERB
+uneasy	uneasy	JJ	CW	ADJ
+policy	policy	NN	CW	NOUN	ARGUMENT
+religious	religious	JJ	CW	ADJ
+tolerance	tolerance	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1565	1565	CD	FW
+marry	marry	VB	CW	VERB
+young	young	JJ	CW	ADJ
+cousin	cousin	NN	CW	NOUN	ARGUMENT
+henry	henry	NN	CW	NOUN	ARGUMENT
+lord	lord	NN	CW	NOUN	ARGUMENT
+darnley	darnley	NN	CW	NOUN	ARGUMENT
+much	much	JJ	CW	ADJ
+chagrin	chagrin	NN	CW	NOUN	ARGUMENT
+elizabeth	elizabeth	NN	CW	NOUN	ARGUMENT
+darnley	darnley	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+grandson	grandson	NN	CW	NOUN	ARGUMENT
+margaret	margaret	NN	CW	NOUN	ARGUMENT
+tudor	tudor	NN	CW	NOUN	ARGUMENT
+thus	thus	RB	ADV	FW
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+claim	claim	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+throne	throne	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+19	19	CD	FW
+june	june	NNP	CW	NOUN	ARGUMENT
+1566	1566	CD	FW
+royal	royal	JJ	CW	ADJ
+apartment	apartment	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+castle	castle	NN	CW	NOUN	ARGUMENT
+mary	mary	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+birth	birth	NN	CW	NOUN	ARGUMENT
+son	son	NN	CW	NOUN	ARGUMENT
+prince	prince	NN	CW	NOUN	ARGUMENT
+jame	jame	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+darnley	darnley	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+murder	murder	NN	CW	NOUN	ARGUMENT
+mary	mary	NN	CW	NOUN	ARGUMENT
+immediately	immediately	RB	ADV	CW
+immerse	immerse	VB	CW	VERB
+controversy	controversy	NN	CW	NOUN	ARGUMENT
+marry	marry	VB	CW	VERB
+earl	earl	NN	CW	NOUN	ARGUMENT
+bothwell	bothwell	NN	CW	NOUN	ARGUMENT
+chief	chief	NN	CW	NOUN	ARGUMENT
+suspect	suspect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mary	mary	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+forcedto	forcedto	JJ	CW	ADJ
+abdicate	abdicate	VBP	FW	aux_or_cop
+1567	1567	CD	FW
+infant	infant	JJ	CW	ADJ
+prince	prince	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+crown	crown	NN	CW	NOUN	ARGUMENT
+jame	jame	NN	CW	NOUN	ARGUMENT
+vus	vus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mary	mary	JJ	CW	ADJ
+seek	seek	VBP	CW	VERB
+asylum	asylum	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+imprison	imprison	VB	CW	VERB
+elizabeth	elizabeth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+english	english	JJ	CW	ADJ
+queen	queen	NN	CW	NOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+cousin	cousin	NN	CW	NOUN	ARGUMENT
+captivity	captivity	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+beheaded	behead	VBN	CW	VERB
+trumped-up	trumped-up	JJ	CW	ADJ
+charge	charge	NN	CW	NOUN	ARGUMENT
+treason	treason	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+bitterly	bitterly	RB	ADV	CW
+ironic	ironic	JJ	CW	ADJ
+elizabeth	elizabeth	NN	CW	NOUN	ARGUMENT
+die	die	VB	CW	VERB
+heir	heir	NN	CW	NOUN	ARGUMENT
+jame	jame	NN	CW	NOUN	ARGUMENT
+mary	mary	JJ	CW	ADJ
+s	s	NNS	CW	NOUN	ARGUMENT
+catholic	catholic	JJ	CW	ADJ
+son	son	NN	CW	NOUN	ARGUMENT
+inherit	inherit	VB	CW	VERB
+english	english	JJ	CW	ADJ
+throne	throne	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1603	1603	CD	FW
+jame	jame	NN	CW	NOUN	ARGUMENT
+vus	vus	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+thus	thus	RB	ADV	FW
+crown	crown	NN	CW	NOUN	ARGUMENT
+jame	jame	NN	CW	NOUN	ARGUMENT
+england	england	JJ	CW	ADJ
+mark	mark	NN	CW	NOUN	ARGUMENT
+union	union	NN	CW	NOUN	ARGUMENT
+crown	crown	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+separate	separate	JJ	CW	ADJ
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+country	country	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+rule	rule	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+monarch	monarch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+fast	fast	JJ	CW	ADJ
+1500	1500	CD	FW
+1650	1650	CD	FW
+maze	maze	NN	CW	NOUN	ARGUMENT
+tall	tall	JJ	CW	ADJ
+unsanitary	unsanitary	JJ	CW	ADJ
+tenement	tenement	NN	CW	NOUN	ARGUMENT
+sprouted	sprout	VBD	CW	VERB
+spine	spine	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+street	street	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+castle	castle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+extend	extend	VB	CW	VERB
+1582	1582	CD	FW
+town	town	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+college	college	NN	CW	NOUN	ARGUMENT
+precursor	precursor	NN	CW	NOUN	ARGUMENT
+university	university	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+found	find	VBN	CW	VERB
+
+sentence break
+
+jame	jame	NN	CW	NOUN	ARGUMENT
+die	die	VB	CW	VERB
+1625	1625	CD	FW
+succeed	succeed	VB	CW	VERB
+son	son	NN	CW	NOUN	ARGUMENT
+charle	charle	NN	CW	NOUN	ARGUMENT
+prove	prove	VBP	CW	VERB
+incompetent	incompetent	JJ	CW	ADJ
+ruler	ruler	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1637	1637	CD	FW
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+scottish	scottish	JJ	CW	ADJ
+presbyterian	presbyterian	JJ	CW	ADJ
+church	church	NN	CW	NOUN	ARGUMENT
+accept	accept	VB	CW	VERB
+english	english	JJ	CW	ADJ
+liturgy	liturgy	NN	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+bishop	bishop	NN	CW	NOUN	ARGUMENT
+lead	lead	VBP	CW	VERB
+civil	civil	JJ	CW	ADJ
+revolt	revolt	NN	CW	NOUN	ARGUMENT
+rioting	rioting	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+next	next	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+large	large	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+scottish	scottish	JJ	CW	ADJ
+churchman	churchman	NN	CW	NOUN	ARGUMENT
+noble	noble	JJ	CW	ADJ
+sign	sign	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+covenant	covenant	NN	CW	NOUN	ARGUMENT
+declaration	declaration	NN	CW	NOUN	ARGUMENT
+condemn	condemn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+liturgy	liturgy	NN	CW	NOUN	ARGUMENT
+pledge	pledge	NN	CW	NOUN	ARGUMENT
+allegiance	allegiance	NN	CW	NOUN	ARGUMENT
+presbyterian	presbyterian	JJ	CW	ADJ
+faith	faith	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+covenanter	covenanter	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+call	call	JJ	CW	ADJ
+first	first	JJ	CW	ADJ
+side	side	NN	CW	NOUN	ARGUMENT
+oliver	oliver	NN	CW	NOUN	ARGUMENT
+cromwell	cromwell	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+parliamentarian	parliamentarian	NN	CW	NOUN	ARGUMENT
+civil	civil	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+erupt	erupt	VB	CW	VERB
+border	border	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+english	english	JJ	CW	ADJ
+revolutionary	revolutionary	JJ	CW	ADJ
+beheaded	behead	VBN	CW	VERB
+charle	charle	NN	CW	NOUN	ARGUMENT
+1649	1649	CD	FW
+scot	scot	NN	CW	NOUN	ARGUMENT
+rally	rally	NN	CW	NOUN	ARGUMENT
+round	round	JJ	CW	ADJ
+son	son	NN	CW	NOUN	ARGUMENT
+charle	charle	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cromwell	cromwell	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+force	force	VBP	CW	VERB
+then	then	RB	ADV	CW
+invade	invade	VB	CW	VERB
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+crush	crush	NN	CW	NOUN	ARGUMENT
+covenanter	covenanter	NN	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+take	take	VB	CW	VERB
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+suffer	suffer	VBP	CW	VERB
+ten	ten	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+military	military	JJ	CW	ADJ
+rule	rule	NN	CW	NOUN	ARGUMENT
+cromwell	cromwell	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+commonwealth	commonwealth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+trouble	trouble	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+charle	charle	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+restoration	restoration	NN	CW	NOUN	ARGUMENT
+throne	throne	NN	CW	NOUN	ARGUMENT
+1660	1660	CD	FW
+
+sentence break
+
+covenanter	covenanter	NN	CW	NOUN	ARGUMENT
+face	face	NN	CW	NOUN	ARGUMENT
+severe	severe	JJ	CW	ADJ
+persecution	persecution	NN	CW	NOUN	ARGUMENT
+hand	hand	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+supporter	supporter	NN	CW	NOUN	ARGUMENT
+have	have	VB	FW	aux_or_cop
+decide	decide	VB	CW	VERB
+follow	follow	VB	CW	VERB
+father	father	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+policy	policy	NN	CW	NOUN	ARGUMENT
+impose	impose	VB	CW	VERB
+bishop	bishop	NN	CW	NOUN	ARGUMENT
+scot	scot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hundred	hundred	CD	FW
+covenanter	covenanter	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+imprison	imprison	VB	CW	VERB
+execute	execute	VB	CW	VERB
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+undergo	undergo	VBP	CW	VERB
+glorious	glorious	JJ	CW	ADJ
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+1688	1688	CD	FW
+catholic	catholic	JJ	CW	ADJ
+jame	jame	NN	CW	NOUN	ARGUMENT
+ius	ius	JJ	CW	ADJ
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+jame	jame	VBP	CW	VERB
+vius	vius	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+depose	depose	JJ	CW	ADJ
+protestant	protestant	JJ	CW	ADJ
+william	william	NN	CW	NOUN	ARGUMENT
+orange	orange	NN	CW	NOUN	ARGUMENT
+1689	1689	CD	FW
+1702	1702	CD	FW
+take	take	VBP	CW	VERB
+british	british	JJ	CW	ADJ
+crown	crown	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+presbyterianism	presbyterianism	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+establish	establish	VB	CW	VERB
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+official	official	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+church	church	NN	CW	NOUN	ARGUMENT
+covenanter	covenanter	NN	CW	NOUN	ARGUMENT
+prevail	prevail	VBP	CW	VERB
+
+sentence break
+
+1	1	CD	FW
+may	may	MD	FW	aux_or_cop
+1707	1707	RB	ADV	FW
+england	england	VB	CW	VERB
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+formally	formally	RB	ADV	CW
+join	join	VB	CW	VERB
+together	together	RB	ADV	CW
+act	act	VBP	CW	VERB
+union	union	NN	CW	NOUN	ARGUMENT
+establish	establish	VB	CW	VERB
+union	union	NN	CW	NOUN	ARGUMENT
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+bear	bear	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fact	fact	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+allow	allow	VB	CW	VERB
+retain	retain	VB	CW	VERB
+own	own	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+education	education	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+presbyterian	presbyterian	JJ	CW	ADJ
+church	church	NN	CW	NOUN	ARGUMENT
+move	move	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+oppose	oppose	VBP	CW	VERB
+great	great	JJ	CW	ADJ
+majority	majority	NN	CW	NOUN	ARGUMENT
+scot	scot	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+supporter	supporter	NN	CW	NOUN	ARGUMENT
+depose	depose	NN	CW	NOUN	ARGUMENT
+jame	jame	NN	CW	NOUN	ARGUMENT
+vius	vius	JJ	CW	ADJ
+successor	successor	NN	CW	NOUN	ARGUMENT
+exile	exile	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+know	know	VB	CW	VERB
+jacobite	jacobite	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+several	several	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+40	40	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+restore	restore	VB	CW	VERB
+stuart	stuart	NN	CW	NOUN	ARGUMENT
+dynasty	dynasty	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+throne	throne	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+crown	crown	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+pass	pass	NN	CW	NOUN	ARGUMENT
+german	german	JJ	CW	ADJ
+house	house	NN	CW	NOUN	ARGUMENT
+hanover	hanover	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+jame	jame	NN	CW	NOUN	ARGUMENT
+edward	edward	JJ	CW	ADJ
+stuart	stuart	JJ	CW	ADJ
+know	know	VBP	CW	VERB
+old	old	JJ	CW	ADJ
+pretender	pretender	NN	CW	NOUN	ARGUMENT
+travel	travel	NN	CW	NOUN	ARGUMENT
+firth	firth	VBP	CW	VERB
+forth	forth	RB	ADV	FW
+1708	1708	CD	FW
+be	be	VB	FW	aux_or_cop
+drive	drive	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+british	british	JJ	CW	ADJ
+ship	ship	NN	CW	NOUN	ARGUMENT
+bad	bad	JJ	CW	ADJ
+weather	weather	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hold	hold	VB	CW	VERB
+1715	1715	CD	FW
+jacobite	jacobite	JJ	CW	ADJ
+earl	earl	NN	CW	NOUN	ARGUMENT
+mar	mar	FW	FW
+be	be	VB	FW	aux_or_cop
+1745	1745	CD	FW
+rising	rise	VBG	CW	VERB
+prince	prince	NN	CW	NOUN	ARGUMENT
+charle	charle	NN	CW	NOUN	ARGUMENT
+edward	edward	NN	CW	NOUN	ARGUMENT
+stuart	stuart	JJ	CW	ADJ
+young	young	JJ	CW	ADJ
+pretender	pretender	JJ	CW	ADJ
+become	become	VBN	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+legend	legend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+prince	prince	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+bonnie	bonnie	NN	CW	NOUN	ARGUMENT
+prince	prince	NN	CW	NOUN	ARGUMENT
+charlie	charlie	NN	CW	NOUN	ARGUMENT
+grandson	grandson	NN	CW	NOUN	ARGUMENT
+jame	jame	NN	CW	NOUN	ARGUMENT
+vius	vius	JJ	CW	ADJ
+raise	raise	NN	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+jacobite	jacobite	NN	CW	NOUN	ARGUMENT
+highlander	highlander	NN	CW	NOUN	ARGUMENT
+sweep	sweep	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+occupied	occupied	JJ	CW	ADJ
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+castle	castle	NN	CW	NOUN	ARGUMENT
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+government	government	NN	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+battle	battle	NN	CW	NOUN	ARGUMENT
+prestonpan	prestonpan	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+november	november	NNP	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+invade	invade	VB	CW	VERB
+england	england	NN	CW	NOUN	ARGUMENT
+capture	capture	NN	CW	NOUN	ARGUMENT
+carlisle	carlisle	NN	CW	NOUN	ARGUMENT
+drive	drive	NN	CW	NOUN	ARGUMENT
+south	south	RB	ADV	CW
+as	as	IN	FW
+far	far	RB	ADV	CW
+derby	derby	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+200	200	CD	FW
+km	km	NN	CW	NOUN	ARGUMENT
+130	130	CD	FW
+mile	mile	NN	CW	NOUN	ARGUMENT
+short	short	JJ	CW	ADJ
+london	london	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+find	find	VB	CW	VERB
+force	force	NN	CW	NOUN	ARGUMENT
+outnumber	outnumber	NN	CW	NOUN	ARGUMENT
+overextended	overextend	VBN	CW	VERB
+here	here	RB	ADV	CW
+young	young	JJ	CW	ADJ
+prince	prince	NN	CW	NOUN	ARGUMENT
+beat	beat	NN	CW	NOUN	ARGUMENT
+tactical	tactical	JJ	CW	ADJ
+retreat	retreat	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+army	army	NN	CW	NOUN	ARGUMENT
+hound	hound	VBP	CW	VERB
+relentlessly	relentlessly	RB	ADV	CW
+
+sentence break
+
+final	final	JJ	CW	ADJ
+showdown	showdown	NN	CW	NOUN	ARGUMENT
+culloden	culloden	JJ	CW	ADJ
+1746	1746	CD	FW
+see	see	VB	CW	VERB
+jacobite	jacobite	JJ	CW	ADJ
+army	army	NN	CW	NOUN	ARGUMENT
+slaughter	slaughter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+prince	prince	NN	CW	NOUN	ARGUMENT
+charlie	charlie	NN	CW	NOUN	ARGUMENT
+flee	flee	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+pursue	pursue	VB	CW	VERB
+highland	highland	NN	CW	NOUN	ARGUMENT
+escape	escape	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+ship	ship	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+die	die	VB	CW	VERB
+rome	rome	NNP	CW	NOUN	ARGUMENT
+1788	1788	CD	FW
+disillusioned	disillusioned	JJ	CW	ADJ
+drunk	drunk	JJ	CW	ADJ
+
+sentence break
+
+jacobite	jacobite	JJ	CW	ADJ
+uprising	uprising	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+little	little	JJ	CW	ADJ
+support	support	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+lowland	lowland	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+here	here	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+sense	sense	NN	CW	NOUN	ARGUMENT
+union	union	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+stay	stay	VB	CW	VERB
+
+sentence break
+
+ten	ten	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+young	young	JJ	CW	ADJ
+pretender	pretender	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+occupation	occupation	NN	CW	NOUN	ARGUMENT
+holyrood	holyrood	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+town	town	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+propose	propose	VBP	CW	VERB
+plan	plan	NN	CW	NOUN	ARGUMENT
+relieve	relieve	VBP	CW	VERB
+chronic	chronic	JJ	CW	ADJ
+overcrowding	overcrowding	NN	CW	NOUN	ARGUMENT
+royal	royal	NN	CW	NOUN	ARGUMENT
+mile	mile	NN	CW	NOUN	ARGUMENT
+tenement	tenement	NN	CW	NOUN	ARGUMENT
+construct	construct	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+town	town	NN	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+castle	castle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1767	1767	CD	FW
+design	design	NN	CW	NOUN	ARGUMENT
+young	young	JJ	CW	ADJ
+previously	previously	RB	ADV	CW
+unknown	unknown	JJ	CW	ADJ
+architect	architect	NN	CW	NOUN	ARGUMENT
+jame	jame	NN	CW	NOUN	ARGUMENT
+craig	craig	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+approve	approve	VB	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+
+sentence break
+
+architectural	architectural	JJ	CW	ADJ
+renaissance	renaissance	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+follow	follow	VB	CW	VERB
+intellectual	intellectual	JJ	CW	ADJ
+flower	flower	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+philosophy	philosophy	NN	CW	NOUN	ARGUMENT
+medicine	medicine	NN	CW	NOUN	ARGUMENT
+revolutionize	revolutionize	VBP	CW	VERB
+western	western	JJ	CW	ADJ
+society	society	NN	CW	NOUN	ARGUMENT
+late	late	JJ	CW	ADJ
+18	18	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+city	city	NN	CW	NOUN	ARGUMENT
+dub	dub	NN	CW	NOUN	ARGUMENT
+athen	athen	NN	CW	NOUN	ARGUMENT
+north	north	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+famous	famous	JJ	CW	ADJ
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+resident	resident	JJ	CW	ADJ
+period	period	NN	CW	NOUN	ARGUMENT
+later	later	JJ	CW	ADJ
+know	know	VBP	CW	VERB
+scottish	scottish	JJ	CW	ADJ
+enlightenment	enlightenment	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+david	david	NN	CW	NOUN	ARGUMENT
+hume	hume	NN	CW	NOUN	ARGUMENT
+author	author	NN	CW	NOUN	ARGUMENT
+treatise	treatise	NN	CW	NOUN	ARGUMENT
+human	human	JJ	CW	ADJ
+nature	nature	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+britain	britain	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+greatest	greatest	JJS	CW	ADJ
+philosopher	philosopher	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+adam	adam	NN	CW	NOUN	ARGUMENT
+smith	smith	NN	CW	NOUN	ARGUMENT
+author	author	NN	CW	NOUN	ARGUMENT
+wealth	wealth	NN	CW	NOUN	ARGUMENT
+nation	nation	NN	CW	NOUN	ARGUMENT
+pioneer	pioneer	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+political	political	JJ	CW	ADJ
+economy	economy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+joseph	joseph	NN	CW	NOUN	ARGUMENT
+black	black	JJ	CW	ADJ
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+discover	discover	VBP	CW	VERB
+concept	concept	NN	CW	NOUN	ARGUMENT
+latent	latent	JJ	CW	ADJ
+heat	heat	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+robert	robert	NN	CW	NOUN	ARGUMENT
+burn	burn	VBP	CW	VERB
+s	s	NNS	CW	NOUN	ARGUMENT
+poem	poem	NN	CW	NOUN	ARGUMENT
+walter	walter	NN	CW	NOUN	ARGUMENT
+scott	scott	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+novel	novel	JJ	CW	ADJ
+rekindle	rekindle	VB	CW	VERB
+interest	interest	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+history	history	NN	CW	NOUN	ARGUMENT
+nationhood	nationhood	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+scott	scott	NN	CW	NOUN	ARGUMENT
+especially	especially	RB	ADV	FW
+work	work	VB	CW	VERB
+hard	hard	JJ	CW	ADJ
+raise	raise	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+profile	profile	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+19	19	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sweep	sweep	NN	CW	NOUN	ARGUMENT
+up	up	IN	FW
+industrial	industrial	JJ	CW	ADJ
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+coalfield	coalfield	JJ	CW	ADJ
+lothian	lothian	JJ	CW	ADJ
+fife	fife	NN	CW	NOUN	ARGUMENT
+fuel	fuel	NN	CW	NOUN	ARGUMENT
+growth	growth	NN	CW	NOUN	ARGUMENT
+bake	bake	NN	CW	NOUN	ARGUMENT
+distill	distill	NN	CW	NOUN	ARGUMENT
+printing	printing	NN	CW	NOUN	ARGUMENT
+machine-making	machine-making	NN	CW	NOUN	ARGUMENT
+industry	industry	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+epithet	epithet	NN	CW	NOUN	ARGUMENT
+auld	auld	NN	CW	NOUN	ARGUMENT
+reekie	reekie	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+smoky	smoky	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+arrival	arrival	NN	CW	NOUN	ARGUMENT
+railway	railway	NN	CW	NOUN	ARGUMENT
+mid	mid	JJ	CW	ADJ
+1800	1800	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+city	city	NN	CW	NOUN	ARGUMENT
+grow	grow	VBP	CW	VERB
+almost	almost	RB	ADV	FW
+exponentially	exponentially	RB	ADV	FW
+new	new	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+spread	spread	NN	CW	NOUN	ARGUMENT
+victorian	victorian	JJ	CW	ADJ
+suburb	suburb	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+marchmont	marchmont	NN	CW	NOUN	ARGUMENT
+morningside	morningside	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+20	20	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+european	european	JJ	CW	ADJ
+center	center	NN	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+culture	culture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+university	university	NN	CW	NOUN	ARGUMENT
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+make	make	VB	CW	VERB
+outstanding	outstanding	JJ	CW	ADJ
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+various	various	JJ	CW	ADJ
+field	field	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+edinburgh	edinburgh	JJ	CW	ADJ
+international	international	JJ	CW	ADJ
+festival	festival	NN	CW	NOUN	ARGUMENT
+hold	hold	VB	CW	VERB
+annually	annually	RB	ADV	CW
+1947	1947	CD	FW
+be	be	VB	FW	aux_or_cop
+acknowledge	acknowledge	VBP	CW	VERB
+one	one	CD	FW
+world	world	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+art	art	NN	CW	NOUN	ARGUMENT
+festival	festival	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+addition	addition	NN	CW	NOUN	ARGUMENT
+city	city	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+rich	rich	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+architecture	architecture	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+make	make	VB	CW	VERB
+one	one	CD	FW
+most	most	RBS	ADV	CW
+popular	popular	JJ	CW	ADJ
+tourist	tourist	NN	CW	NOUN	ARGUMENT
+destination	destination	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nationalism	nationalism	NN	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+completely	completely	RB	ADV	CW
+disappear	disappear	VB	CW	VERB
+however	however	RB	ADV	FW
+latter	latter	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+century	century	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+concerted	concerted	JJ	CW	ADJ
+peaceful	peaceful	JJ	CW	ADJ
+effort	effort	NN	CW	NOUN	ARGUMENT
+gain	gain	NN	CW	NOUN	ARGUMENT
+self-determination	self-determination	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1979	1979	CD	FW
+nationalist	nationalist	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+disarray	disarray	NN	CW	NOUN	ARGUMENT
+referendum	referendum	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+defeat	defeat	VB	CW	VERB
+further	further	JJ	CW	ADJ
+effort	effort	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+nought	nought	RB	ADV	FW
+conservative	conservative	JJ	CW	ADJ
+rule	rule	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+westminster	westminster	NN	CW	NOUN	ARGUMENT
+1980	1980	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+1990	1990	CD	FW
+s.	s.	NN	CW	NOUN	ARGUMENT
+stone	stone	NN	CW	NOUN	ARGUMENT
+destiny	destiny	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+return	return	NN	CW	NOUN	ARGUMENT
+scottish	scottish	JJ	CW	ADJ
+soil	soil	NN	CW	NOUN	ARGUMENT
+1996	1996	CD	FW
+700	700	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+take	take	VB	CW	VERB
+south	south	RB	ADV	CW
+english	english	JJ	CW	ADJ
+
+sentence break
+
+general	general	JJ	CW	ADJ
+election	election	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+1997	1997	CD	FW
+prove	prove	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+turning	turn	VBG	CW	VERB
+point	point	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+british	british	JJ	CW	ADJ
+labour	labour	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+return	return	NN	CW	NOUN	ARGUMENT
+domestic	domestic	JJ	CW	ADJ
+policy-making	policy-making	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+victorious	victorious	JJ	CW	ADJ
+ballot	ballot	NN	CW	NOUN	ARGUMENT
+box	box	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+task	task	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+organize	organize	VB	CW	VERB
+referendum	referendum	NN	CW	NOUN	ARGUMENT
+scottish	scottish	JJ	CW	ADJ
+devolution	devolution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+take	take	VB	CW	VERB
+place	place	NN	CW	NOUN	ARGUMENT
+september	september	NNP	CW	NOUN	ARGUMENT
+1997	1997	CD	FW
+majority	majority	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+creation	creation	NN	CW	NOUN	ARGUMENT
+scottish	scottish	JJ	CW	ADJ
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+strident	strident	JJ	CW	ADJ
+nationalist	nationalist	JJ	CW	ADJ
+think	think	NN	CW	NOUN	ARGUMENT
+proposal	proposal	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+go	go	VB	CW	VERB
+far	far	RB	ADV	CW
+enough	enough	RB	ADV	CW
+
+sentence break
+
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+bill	bill	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+put	put	VBN	CW	VERB
+british	british	JJ	CW	ADJ
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+january	january	NNP	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+become	become	VB	CW	VERB
+law	law	NN	CW	NOUN	ARGUMENT
+scotland	scotland	NN	CW	NOUN	ARGUMENT
+act	act	VBP	CW	VERB
+november	november	NNP	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+
+sentence break
+
+political	political	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+thus	thus	RB	ADV	FW
+return	return	VB	CW	VERB
+edinburgh	edinburgh	NN	CW	NOUN	ARGUMENT
+nearly	nearly	RB	ADV	CW
+300	300	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+election	election	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hold	hold	NN	CW	NOUN	ARGUMENT
+may	may	MD	CW	VERB
+1999	1999	CD	FW
+new	new	JJ	CW	ADJ
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+open	open	JJ	CW	ADJ
+first	first	JJ	CW	ADJ
+july	july	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+city	city	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+buzz	buzz	VBP	CW	VERB
+energy	energy	NN	CW	NOUN	ARGUMENT
+confidence	confidence	NN	CW	NOUN	ARGUMENT
+mp	mp	NN	CW	NOUN	ARGUMENT
+policy	policy	NN	CW	NOUN	ARGUMENT
+maker	maker	NN	CW	NOUN	ARGUMENT
+gather	gather	VB	CW	VERB
+make	make	VB	CW	VERB
+plan	plan	NN	CW	NOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+scottish	scottish	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

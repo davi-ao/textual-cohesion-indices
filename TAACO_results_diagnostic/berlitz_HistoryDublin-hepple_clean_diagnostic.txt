@@ -1,0 +1,1790 @@
+word	lemma	POS	CW\FW	other categories
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+inhabit	inhabit	VB	CW	VERB
+very	very	RB	ADV	CW
+ancient	ancient	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+really	really	RB	ADV	CW
+begin	begin	VB	CW	VERB
+arrival	arrival	NN	CW	NOUN	ARGUMENT
+celt	celt	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+document	document	NN	CW	NOUN	ARGUMENT
+invasion	invasion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bring	bring	VB	CW	VERB
+iron	iron	NN	CW	NOUN	ARGUMENT
+weapon	weapon	NN	CW	NOUN	ARGUMENT
+chariot	chariot	NN	CW	NOUN	ARGUMENT
+code	code	NN	CW	NOUN	ARGUMENT
+custom	custom	NN	CW	NOUN	ARGUMENT
+conduct	conduct	NN	CW	NOUN	ARGUMENT
+quickly	quickly	RB	ADV	CW
+become	become	VBP	CW	VERB
+dominant	dominant	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+period	period	NN	CW	NOUN	ARGUMENT
+myth	myth	NN	CW	NOUN	ARGUMENT
+legend	legend	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+romanticize	romanticize	VBP	CW	VERB
+irish	irish	JJ	CW	ADJ
+writer	writer	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+exercise	exercise	VBP	CW	VERB
+power	power	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+celt	celt	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+organize	organize	VB	CW	VERB
+family	family	NN	CW	NOUN	ARGUMENT
+clan-based	clan-based	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+celtic	celtic	JJ	CW	ADJ
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+series	series	NN	CW	NOUN	ARGUMENT
+independent	independent	JJ	CW	ADJ
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nominally	nominally	RB	ADV	CW
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+acknowledge	acknowledge	VBP	CW	VERB
+elect	elect	VB	CW	VERB
+high	high	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+seat	seat	NN	CW	NOUN	ARGUMENT
+fabled	fabled	JJ	CW	ADJ
+tara	tara	NN	CW	NOUN	ARGUMENT
+overlord	overlord	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+town	town	NN	CW	NOUN	ARGUMENT
+cow	cow	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+medium	medium	JJ	CW	ADJ
+exchange	exchange	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+learning	learn	VBG	CW	VERB
+be	be	VB	FW	aux_or_cop
+revered	revere	VBN	CW	VERB
+game	game	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+play	play	VB	CW	VERB
+poet	poet	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hold	hold	VB	CW	VERB
+awe	awe	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+law	law	NN	CW	NOUN	ARGUMENT
+religion	religion	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+celtic	celtic	JJ	CW	ADJ
+culture	culture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+religion	religion	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+druidic	druidic	JJ	CW	ADJ
+law	law	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+elaborate	elaborate	JJ	CW	ADJ
+write	write	VB	CW	VERB
+code	code	NN	CW	NOUN	ARGUMENT
+interpret	interpret	VB	CW	VERB
+class	class	NN	CW	NOUN	ARGUMENT
+professional	professional	JJ	CW	ADJ
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+brehon	brehon	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+brehon	brehon	NN	CW	NOUN	ARGUMENT
+law	law	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+woman	woman	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+status	status	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+property	property	NN	CW	NOUN	ARGUMENT
+divorce	divorce	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+enter	enter	VB	CW	VERB
+profession	profession	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+st	st	NN	CW	NOUN	ARGUMENT
+patrick	patrick	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+come	come	VBN	CW	VERB
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+prisoner	prisoner	NN	CW	NOUN	ARGUMENT
+capture	capture	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+raid	raid	NN	CW	NOUN	ARGUMENT
+roman	roman	NN	CW	NOUN	ARGUMENT
+settlement	settlement	NN	CW	NOUN	ARGUMENT
+britain	britain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+eventually	eventually	RB	ADV	CW
+escape	escape	VB	CW	VERB
+return	return	NN	CW	NOUN	ARGUMENT
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+missionary	missionary	JJ	CW	ADJ
+432	432	CD	FW
+
+sentence break
+
+time	time	NN	CW	NOUN	ARGUMENT
+patrick	patrick	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+death	death	NN	CW	NOUN	ARGUMENT
+465	465	CD	FW
+whole	whole	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+effectively	effectively	RB	ADV	CW
+christianized	christianize	VBN	CW	VERB
+peaceful	peaceful	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+single	single	JJ	CW	ADJ
+martyr	martyr	NN	CW	NOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+patrick	patrick	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+natural	natural	JJ	CW	ADJ
+diplomacy	diplomacy	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+power	power	NN	CW	NOUN	ARGUMENT
+persuasion	persuasion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+legend	legend	NN	CW	NOUN	ARGUMENT
+surround	surround	VBP	CW	VERB
+mission	mission	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+st	st	VBN	CW	VERB
+patrick	patrick	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+example	example	NN	CW	NOUN	ARGUMENT
+shamrock	shamrock	NN	CW	NOUN	ARGUMENT
+explain	explain	VBP	CW	VERB
+christian	christian	JJ	CW	ADJ
+trinity	trinity	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+laoghaire	laoghaire	NN	CW	NOUN	ARGUMENT
+assemble	assemble	VB	CW	VERB
+crowd	crowd	NN	CW	NOUN	ARGUMENT
+tara	tara	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+king	king	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+convert	convert	VB	CW	VERB
+plant	plant	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+symbol	symbol	NN	CW	NOUN	ARGUMENT
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+ever	ever	RB	ADV	CW
+
+sentence break
+
+christianity	christianity	NN	CW	NOUN	ARGUMENT
+sophisticated	sophisticated	JJ	CW	ADJ
+celtic	celtic	JJ	CW	ADJ
+culture	culture	NN	CW	NOUN	ARGUMENT
+successfully	successfully	RB	ADV	CW
+fused	fuse	VBN	CW	VERB
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+enter	enter	VBP	CW	VERB
+golden	golden	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+500	500	CD	FW
+800	800	CD	FW
+
+sentence break
+
+irish	irish	JJ	CW	ADJ
+monastery	monastery	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+major	major	JJ	CW	ADJ
+preserver	preserver	NN	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+literacy	literacy	NN	CW	NOUN	ARGUMENT
+so-called	so-called	JJ	CW	ADJ
+dark	dark	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+become	become	VB	CW	VERB
+light	light	JJ	CW	ADJ
+know	know	VB	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+send	send	VB	CW	VERB
+saint	saint	NN	CW	NOUN	ARGUMENT
+scholar	scholar	NN	CW	NOUN	ARGUMENT
+europe	europe	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+importance	importance	NN	CW	NOUN	ARGUMENT
+phase	phase	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+civilization	civilization	NN	CW	NOUN	ARGUMENT
+general	general	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	CW	VERB
+overrated	overrate	VBN	CW	VERB
+
+sentence break
+
+however	however	RB	ADV	FW
+irish	irish	JJ	CW	ADJ
+church	church	NN	CW	NOUN	ARGUMENT
+celtic	celtic	JJ	CW	ADJ
+cultural	cultural	JJ	CW	ADJ
+base	base	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+differently	differently	RB	ADV	CW
+emerge	emerge	VBP	FW	aux_or_cop
+christian	christian	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+europe	europe	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+eventually	eventually	RB	ADV	CW
+supersede	supersede	VB	CW	VERB
+rome	rome	NN	CW	NOUN	ARGUMENT
+centralize	centralize	VB	CW	VERB
+administration	administration	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+period	period	NN	CW	NOUN	ARGUMENT
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+political	political	JJ	CW	ADJ
+organization	organization	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+much	much	RB	ADV	CW
+have	have	VB	CW	VERB
+pagan	pagan	JJ	CW	ADJ
+celtic	celtic	JJ	CW	ADJ
+rule	rule	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+town	town	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+site	site	NN	CW	NOUN	ARGUMENT
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+crossroads	crossroads	NNS	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+baile	baile	JJ	CW	ADJ
+atha	atha	NN	CW	NOUN	ARGUMENT
+cliath	cliath	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+hurdle	hurdle	NN	CW	NOUN	ARGUMENT
+designation	designation	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+see	see	VB	CW	VERB
+bus	bus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+community	community	NN	CW	NOUN	ARGUMENT
+cluster	cluster	NN	CW	NOUN	ARGUMENT
+monastery	monastery	NN	CW	NOUN	ARGUMENT
+castle	castle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+795	795	CD	FW
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+subject	subject	JJ	CW	ADJ
+repeat	repeat	NN	CW	NOUN	ARGUMENT
+viking	vike	VBG	CW	VERB
+raid	raid	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+viking	vike	VBG	CW	VERB
+sack	sack	NN	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+center	center	NN	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+treasure	treasure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ninth	ninth	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+fort	fort	JJ	CW	ADJ
+liffey	liffey	NN	CW	NOUN	ARGUMENT
+found	find	VBD	CW	VERB
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+town	town	NN	CW	NOUN	ARGUMENT
+dubh	dubh	JJ	CW	ADJ
+linn	linn	NN	CW	NOUN	ARGUMENT
+black	black	JJ	CW	ADJ
+pool	pool	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+remains	remain	VBZ	FW	aux_or_cop
+viking	viking	JJ	CW	ADJ
+fortification	fortification	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+see	see	VB	CW	VERB
+today	today	NN	CW	NOUN	ARGUMENT
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+castle	castle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+viking	vike	VBG	FW	aux_or_cop
+also	also	RB	ADV	CW
+introduce	introduce	VB	CW	VERB
+coinage	coinage	NN	CW	NOUN	ARGUMENT
+better	better	JJR	CW	ADJ
+ship-building	ship-building	NN	CW	NOUN	ARGUMENT
+technique	technique	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+988	988	CD	FW
+irish	irish	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+unit	unit	NN	CW	NOUN	ARGUMENT
+king	king	NN	CW	NOUN	ARGUMENT
+munster	munster	NN	CW	NOUN	ARGUMENT
+brian	brian	NN	CW	NOUN	ARGUMENT
+encoding error!
+great	great	JJ	CW	ADJ
+battle	battle	NN	CW	NOUN	ARGUMENT
+drive	drive	NN	CW	NOUN	ARGUMENT
+viking	vike	VBG	CW	VERB
+north	north	NN	CW	NOUN	ARGUMENT
+liffey	liffey	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+influence	influence	NN	CW	NOUN	ARGUMENT
+wan	wan	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+absorb	absorb	VB	CW	VERB
+general	general	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+irish	irish	JJ	CW	ADJ
+now	now	RB	ADV	CW
+hold	hold	VBP	CW	VERB
+dublin	dublin	NNP	CW	NOUN	ARGUMENT
+1038	1038	CD	FW
+first	first	JJ	CW	ADJ
+christ	christ	NN	CW	NOUN	ARGUMENT
+church	church	NN	CW	NOUN	ARGUMENT
+cathedral	cathedral	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+found	find	VBN	CW	VERB
+
+sentence break
+
+1169	1169	CD	FW
+norman	norman	NN	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+wexford	wexford	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+dominate	dominate	VB	CW	VERB
+irish	irish	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+independence	independence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+norman	norman	NN	CW	NOUN	ARGUMENT
+incursion	incursion	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+internal	internal	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+king	king	NN	CW	NOUN	ARGUMENT
+leinster	leinster	NN	CW	NOUN	ARGUMENT
+invite	invite	VB	CW	VERB
+richard	richard	NN	CW	NOUN	ARGUMENT
+clare	clare	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+strongbow	strongbow	NN	CW	NOUN	ARGUMENT
+come	come	VB	CW	VERB
+ireland	ireland	RB	ADV	FW
+help	help	VB	CW	VERB
+reclaim	reclaim	VB	CW	VERB
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+strongbow	strongbow	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+tomb	tomb	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+see	see	VB	CW	VERB
+christ	christ	JJ	CW	ADJ
+church	church	NN	CW	NOUN	ARGUMENT
+cathedral	cathedral	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+norman	norman	NN	CW	NOUN	ARGUMENT
+invader	invader	NN	CW	NOUN	ARGUMENT
+bring	bring	VBP	CW	VERB
+armor	armor	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+horse	horse	NN	CW	NOUN	ARGUMENT
+battle	battle	NN	CW	NOUN	ARGUMENT
+feudal	feudal	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+successive	successive	JJ	CW	ADJ
+wave	wave	NN	CW	NOUN	ARGUMENT
+norman	norman	NN	CW	NOUN	ARGUMENT
+invader	invader	NN	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+strongbow	strongbow	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+irish	irish	JJ	CW	ADJ
+favor	favor	NN	CW	NOUN	ARGUMENT
+centralize	centralize	VBP	CW	VERB
+administration	administration	NN	CW	NOUN	ARGUMENT
+enforce	enforce	VB	CW	VERB
+rule	rule	NN	CW	NOUN	ARGUMENT
+building	building	NN	CW	NOUN	ARGUMENT
+fortify	fortify	NN	CW	NOUN	ARGUMENT
+castle	castle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1171	1171	CD	FW
+english	english	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+henry	henry	NN	CW	NOUN	ARGUMENT
+ius	ius	NNS	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+grant	grant	NN	CW	NOUN	ARGUMENT
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+charter	charter	NN	CW	NOUN	ARGUMENT
+1174	1174	CD	FW
+give	give	VBP	CW	VERB
+city	city	NN	CW	NOUN	ARGUMENT
+rights	rights	NNS	CW	NOUN	ARGUMENT
+free	free	JJ	CW	ADJ
+trade	trade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1204	1204	CD	FW
+dublin	dublin	JJ	CW	ADJ
+castle	castle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+center	center	JJ	CW	ADJ
+english	english	JJ	CW	ADJ
+administrative	administrative	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+city	city	NN	CW	NOUN	ARGUMENT
+elect	elect	VB	CW	VERB
+first	first	JJ	CW	ADJ
+mayor	mayor	NN	CW	NOUN	ARGUMENT
+1229	1229	CD	FW
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hold	hold	VB	CW	VERB
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+1297	1297	CD	FW
+
+sentence break
+
+norman	norman	NN	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+earlier	earlier	RBR	ADV	CW
+invader	invader	JJ	CW	ADJ
+become	become	VBN	CW	VERB
+rapidly	rapidly	RB	ADV	CW
+assimilated	assimilate	VBN	CW	VERB
+
+sentence break
+
+next	next	IN	FW
+two	two	CD	FW
+century	century	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+characterize	characterize	VBP	CW	VERB
+unrest	unrest	NN	CW	NOUN	ARGUMENT
+repeat	repeat	NN	CW	NOUN	ARGUMENT
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+rid	rid	JJ	CW	ADJ
+norman	norman	NN	CW	NOUN	ARGUMENT
+overlord	overlord	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+15	15	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+hold	hold	VBP	CW	VERB
+only	only	RB	ADV	CW
+small	small	JJ	CW	ADJ
+area	area	NN	CW	NOUN	ARGUMENT
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+walled	wall	VBD	CW	VERB
+norman	norman	NN	CW	NOUN	ARGUMENT
+inner	inner	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+pale	pale	JJ	CW	ADJ
+irish	irish	JJ	CW	ADJ
+
+sentence break
+
+changed	change	VBN	CW	VERB
+tudor	tudor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+henry	henry	NN	CW	NOUN	ARGUMENT
+viius	viius	NN	CW	NOUN	ARGUMENT
+elizabeth	elizabeth	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+determine	determine	VBN	CW	VERB
+subdue	subdue	JJ	CW	ADJ
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+send	send	VB	CW	VERB
+massive	massive	JJ	CW	ADJ
+military	military	JJ	CW	ADJ
+expedition	expedition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+henry	henry	NN	CW	NOUN	ARGUMENT
+viius	viius	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+break	break	NN	CW	NOUN	ARGUMENT
+rome	rome	NN	CW	NOUN	ARGUMENT
+dissolution	dissolution	NN	CW	NOUN	ARGUMENT
+monastery	monastery	NN	CW	NOUN	ARGUMENT
+mean	mean	VB	CW	VERB
+1558	1558	CD	FW
+dublin	dublin	NNP	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+two	two	CD	FW
+cathedral	cathedral	NN	CW	NOUN	ARGUMENT
+christ	christ	NN	CW	NOUN	ARGUMENT
+church	church	NN	CW	NOUN	ARGUMENT
+st	st	NN	CW	NOUN	ARGUMENT
+patrick	patrick	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+become	become	VBN	CW	VERB
+protestant	protestant	JJ	CW	ADJ
+remain	remain	VBP	CW	VERB
+today	today	NN	CW	NOUN	ARGUMENT
+sometime	sometime	RB	ADV	CW
+surprise	surprise	JJ	CW	ADJ
+visitor	visitor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+elizabeth	elizabeth	JJ	CW	ADJ
+leave	leave	NN	CW	NOUN	ARGUMENT
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+trinity	trinity	NN	CW	NOUN	ARGUMENT
+college	college	NN	CW	NOUN	ARGUMENT
+legacy	legacy	NN	CW	NOUN	ARGUMENT
+found	find	VBN	CW	VERB
+seat	seat	NN	CW	NOUN	ARGUMENT
+protestant	protestant	JJ	CW	ADJ
+learning	learning	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+just	just	RB	ADV	CW
+well	well	RB	ADV	CW
+mid	mid	JJ	CW	ADJ
+20	20	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+irish	irish	JJ	CW	ADJ
+continue	continue	VBP	CW	VERB
+fight	fight	NN	CW	NOUN	ARGUMENT
+semi-independent	semi-independent	JJ	CW	ADJ
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+never	never	RB	ADV	CW
+able	able	JJ	CW	ADJ
+achieve	achieve	VB	CW	VERB
+real	real	JJ	CW	ADJ
+cohesion	cohesion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1607	1607	CD	FW
+be	be	VB	FW	aux_or_cop
+leave	leave	VB	CW	VERB
+leaderless	leaderless	JJ	CW	ADJ
+flight	flight	NN	CW	NOUN	ARGUMENT
+earl	earl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+two	two	CD	FW
+ulster	ulster	JJ	CW	ADJ
+earl	earl	NN	CW	NOUN	ARGUMENT
+o	o	NN	CW	NOUN	ARGUMENT
+neill	neill	NN	CW	NOUN	ARGUMENT
+o	o	NN	CW	NOUN	ARGUMENT
+donnell	donnell	NN	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+exile	exile	NN	CW	NOUN	ARGUMENT
+continent	continent	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+irish	irish	JJ	CW	ADJ
+lord	lord	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1649	1649	CD	FW
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+hate	hate	VB	CW	VERB
+conqueror	conqueror	NN	CW	NOUN	ARGUMENT
+oliver	oliver	NN	CW	NOUN	ARGUMENT
+cromwell	cromwell	NN	CW	NOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ruthless	ruthless	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+600	600	CD	FW
+000	000	CD	FW
+irish	irish	JJ	CW	ADJ
+dead	dead	JJ	CW	ADJ
+deport	deport	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+massive	massive	JJ	CW	ADJ
+dispossession	dispossession	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+fertile	fertile	JJ	CW	ADJ
+land	land	NN	CW	NOUN	ARGUMENT
+east	east	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+drive	drive	NN	CW	NOUN	ARGUMENT
+west	west	NN	CW	NOUN	ARGUMENT
+shannon	shannon	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cromwell	cromwell	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+phrase	phrase	NN	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+hell	hell	NN	CW	NOUN	ARGUMENT
+connaught	connaught	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+irish	irish	JJ	CW	ADJ
+still	still	RB	ADV	CW
+spit	spit	VB	CW	VERB
+hear	hear	VB	CW	VERB
+name	name	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+century	century	NN	CW	NOUN	ARGUMENT
+catholic	catholic	JJ	CW	ADJ
+king	king	NN	CW	NOUN	ARGUMENT
+jame	jame	NN	CW	NOUN	ARGUMENT
+ius	ius	JJ	CW	ADJ
+come	come	VBN	CW	VERB
+throne	throne	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+feel	feel	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+choice	choice	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+
+sentence break
+
+jame	jame	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+william	william	NN	CW	NOUN	ARGUMENT
+orange	orange	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+north	north	RB	ADV	CW
+dublin	dublin	JJ	CW	ADJ
+battle	battle	NN	CW	NOUN	ARGUMENT
+boyne	boyne	NN	CW	NOUN	ARGUMENT
+1690	1690	CD	FW
+
+sentence break
+
+defeat	defeat	NN	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+straggled	straggle	VBD	CW	VERB
+dublin	dublin	JJ	CW	ADJ
+jame	jame	NN	CW	NOUN	ARGUMENT
+ius	ius	NNS	CW	NOUN	ARGUMENT
+flee	flee	VBP	CW	VERB
+france	france	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+enact	enact	VBP	CW	VERB
+penal	penal	JJ	CW	ADJ
+law	law	NN	CW	NOUN	ARGUMENT
+1704	1704	CD	FW
+disenfranchised	disenfranchised	JJ	CW	ADJ
+catholic	catholic	JJ	CW	ADJ
+irish	irish	JJ	CW	ADJ
+
+sentence break
+
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+majority	majority	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+poor	poor	JJ	CW	ADJ
+powerless	powerless	JJ	CW	ADJ
+
+sentence break
+
+18	18	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+good	good	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+native	native	JJ	CW	ADJ
+irish	irish	JJ	CW	ADJ
+protestant	protestant	JJ	CW	ADJ
+ascendancy	ascendancy	NN	CW	NOUN	ARGUMENT
+flourish	flourish	VB	CW	VERB
+
+sentence break
+
+however	however	RB	ADV	FW
+other	other	JJ	CW	ADJ
+have	have	VBP	FW	aux_or_cop
+come	come	VBN	CW	VERB
+identify	identify	VBP	CW	VERB
+irish	irish	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+anxious	anxious	JJ	CW	ADJ
+achieve	achieve	VB	CW	VERB
+least	least	JJS	CW	ADJ
+measure	measure	NN	CW	NOUN	ARGUMENT
+self-government	self-government	NN	CW	NOUN	ARGUMENT
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1782	1782	CD	FW
+irish	irish	JJ	CW	ADJ
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+protestant	protestant	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+form	form	NN	CW	NOUN	ARGUMENT
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+largely	largely	RB	ADV	CW
+energy	energy	NN	CW	NOUN	ARGUMENT
+henry	henry	NN	CW	NOUN	ARGUMENT
+grattan	grattan	NN	CW	NOUN	ARGUMENT
+mp	mp	NN	CW	NOUN	ARGUMENT
+city	city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+grattan	grattan	NN	CW	NOUN	ARGUMENT
+succeed	succeed	VB	CW	VERB
+have	have	VBP	CW	VERB
+most	most	RBS	ADV	CW
+penal	penal	JJ	CW	ADJ
+law	law	NN	CW	NOUN	ARGUMENT
+catholic	catholic	NN	CW	NOUN	ARGUMENT
+repeal	repeal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+independent	independent	JJ	CW	ADJ
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+short-lived	short-lived	JJ	CW	ADJ
+grattan	grattan	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+opposition	opposition	NN	CW	NOUN	ARGUMENT
+bribery	bribery	NN	CW	NOUN	ARGUMENT
+corruption	corruption	NN	CW	NOUN	ARGUMENT
+vote	vote	NN	CW	NOUN	ARGUMENT
+dissolve	dissolve	VBP	CW	VERB
+1800	1800	CD	FW
+
+sentence break
+
+meantime	meantime	NN	CW	NOUN	ARGUMENT
+influential	influential	JJ	CW	ADJ
+idea	idea	NN	CW	NOUN	ARGUMENT
+french	french	JJ	CW	ADJ
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+spread	spread	VBN	CW	VERB
+
+sentence break
+
+united	unite	VBN	CW	VERB
+irishman	irishman	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+wolfe	wolfe	NN	CW	NOUN	ARGUMENT
+tone	tone	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+found	find	VBN	CW	VERB
+1791	1791	CD	FW
+nonsectarian	nonsectarian	JJ	CW	ADJ
+movement	movement	NN	CW	NOUN	ARGUMENT
+seek	seek	VB	CW	VERB
+freedom	freedom	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+catholic	catholic	JJ	CW	ADJ
+protestant	protestant	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+wolfe	wolfe	NN	CW	NOUN	ARGUMENT
+tone	tone	NN	CW	NOUN	ARGUMENT
+secure	secure	JJ	CW	ADJ
+aid	aid	NN	CW	NOUN	ARGUMENT
+france	france	NN	CW	NOUN	ARGUMENT
+storm	storm	NN	CW	NOUN	ARGUMENT
+scatter	scatter	NN	CW	NOUN	ARGUMENT
+ship	ship	NN	CW	NOUN	ARGUMENT
+invade	invade	VB	CW	VERB
+force	force	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+tone	tone	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+capture	capture	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+murder	murder	NN	CW	NOUN	ARGUMENT
+commit	commit	VB	CW	VERB
+suicide	suicide	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+remain	remain	VB	CW	VERB
+revered	revered	JJ	CW	ADJ
+figure	figure	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+pantheon	pantheon	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ascendancy	ascendancy	NN	CW	NOUN	ARGUMENT
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+enjoy	enjoy	VBP	CW	VERB
+elegant	elegant	JJ	CW	ADJ
+lifestyle	lifestyle	NN	CW	NOUN	ARGUMENT
+period	period	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+theater	theater	NN	CW	NOUN	ARGUMENT
+music	music	NN	CW	NOUN	ARGUMENT
+flourish	flourish	VB	CW	VERB
+
+sentence break
+
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+importance	importance	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+dramatically	dramatically	RB	ADV	FW
+city	city	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+center	center	NN	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+business	business	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+great	great	JJ	CW	ADJ
+public	public	JJ	CW	ADJ
+building	building	NN	CW	NOUN	ARGUMENT
+custom	custom	NN	CW	NOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+four	four	CD	FW
+court	court	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+construct	construct	NN	CW	NOUN	ARGUMENT
+private	private	JJ	CW	ADJ
+mansion	mansion	NN	CW	NOUN	ARGUMENT
+powerscourt	powerscourt	NN	CW	NOUN	ARGUMENT
+leinster	leinster	NN	CW	NOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+build	build	VB	CW	VERB
+
+sentence break
+
+craftsman	craftsman	NN	CW	NOUN	ARGUMENT
+architect	architect	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+import	import	NN	CW	NOUN	ARGUMENT
+europe	europe	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+georgian	georgian	JJ	CW	ADJ
+square	square	JJ	CW	ADJ
+merrion	merrion	NN	CW	NOUN	ARGUMENT
+square	square	NN	CW	NOUN	ARGUMENT
+south	south	RB	ADV	CW
+dublin	dublin	NNP	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+create	create	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+glory	glory	NN	CW	NOUN	ARGUMENT
+lively	lively	JJ	CW	ADJ
+cosmopolitan	cosmopolitan	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+1801	1801	CD	FW
+act	act	NN	CW	NOUN	ARGUMENT
+union	union	NN	CW	NOUN	ARGUMENT
+bring	bring	VBP	CW	VERB
+ireland	ireland	JJ	CW	ADJ
+direct	direct	JJ	CW	ADJ
+rule	rule	NN	CW	NOUN	ARGUMENT
+london	london	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+quite	quite	RB	ADV	FW
+suddenly	suddenly	RB	ADV	CW
+everything	everything	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+standstill	standstill	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rich	rich	JJ	CW	ADJ
+powerful	powerful	JJ	CW	ADJ
+leave	leave	NN	CW	NOUN	ARGUMENT
+england	england	NN	CW	NOUN	ARGUMENT
+city	city	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+provincial	provincial	JJ	CW	ADJ
+capital	capital	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+long	long	RB	ADV	CW
+slow	slow	JJ	CW	ADJ
+decline	decline	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+act	act	NN	CW	NOUN	ARGUMENT
+union	union	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+member	member	NN	CW	NOUN	ARGUMENT
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+serve	serve	VBP	CW	VERB
+london	london	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1803	1803	CD	FW
+be	be	VB	CW	VERB
+yet	yet	RB	ADV	CW
+fail	fail	VBP	CW	VERB
+rebellion	rebellion	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+irish	irish	JJ	CW	ADJ
+hero	hero	NN	CW	NOUN	ARGUMENT
+robert	robert	NN	CW	NOUN	ARGUMENT
+emmet	emmet	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+speech	speech	NN	CW	NOUN	ARGUMENT
+dock	dock	NN	CW	NOUN	ARGUMENT
+horrendous	horrendous	JJ	CW	ADJ
+execution	execution	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+become	become	VBN	CW	VERB
+stuff	stuff	NN	CW	NOUN	ARGUMENT
+legend	legend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+daniel	daniel	NN	CW	NOUN	ARGUMENT
+o	o	NN	CW	NOUN	ARGUMENT
+connell	connell	NN	CW	NOUN	ARGUMENT
+carry	carry	VBP	CW	VERB
+struggle	struggle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+form	form	NN	CW	NOUN	ARGUMENT
+peaceful	peaceful	JJ	CW	ADJ
+powerful	powerful	JJ	CW	ADJ
+catholic	catholic	JJ	CW	ADJ
+association	association	NN	CW	NOUN	ARGUMENT
+1829	1829	CD	FW
+duke	duke	NN	CW	NOUN	ARGUMENT
+wellington	wellington	JJ	CW	ADJ
+bid	bid	NN	CW	NOUN	ARGUMENT
+avoid	avoid	VBP	CW	VERB
+civil	civil	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+pass	pass	NN	CW	NOUN	ARGUMENT
+catholic	catholic	JJ	CW	ADJ
+emancipation	emancipation	NN	CW	NOUN	ARGUMENT
+bill	bill	NN	CW	NOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+irish	irish	JJ	CW	ADJ
+catholic	catholic	JJ	CW	ADJ
+sit	sit	VBP	CW	VERB
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+westminster	westminster	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+o	o	NN	CW	NOUN	ARGUMENT
+connell	connell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+lord	lord	NN	CW	NOUN	ARGUMENT
+mayor	mayor	NN	CW	NOUN	ARGUMENT
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+1841	1841	CD	FW
+fail	fail	VBP	CW	VERB
+bid	bid	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+act	act	NN	CW	NOUN	ARGUMENT
+union	union	NN	CW	NOUN	ARGUMENT
+repeal	repeal	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+re-established	re-establish	VBD	CW	VERB
+
+sentence break
+
+great	great	JJ	CW	ADJ
+famine	famine	NN	CW	NOUN	ARGUMENT
+strike	strike	NN	CW	NOUN	ARGUMENT
+1845	1845	CD	FW
+blight	blight	NN	CW	NOUN	ARGUMENT
+staple	staple	NN	CW	NOUN	ARGUMENT
+food	food	NN	CW	NOUN	ARGUMENT
+poor	poor	JJ	CW	ADJ
+potato	potato	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+last	last	JJ	CW	ADJ
+1848	1848	CD	FW
+be	be	VB	FW	aux_or_cop
+estimate	estimate	VB	CW	VERB
+more	more	JJR	CW	ADJ
+one	one	CD	FW
+million	million	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+die	die	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+emigrate	emigrate	VBP	CW	VERB
+escape	escape	NN	CW	NOUN	ARGUMENT
+ravages	ravages	NNS	CW	NOUN	ARGUMENT
+catastrophe	catastrophe	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+1800	1800	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+virtually	virtually	RB	ADV	CW
+halve	halve	VBP	CW	VERB
+
+sentence break
+
+ironically	ironically	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+plenty	plenty	JJ	CW	ADJ
+food	food	NN	CW	NOUN	ARGUMENT
+corn	corn	NN	CW	NOUN	ARGUMENT
+cattle	cattle	NNS	CW	NOUN	ARGUMENT
+sheep	sheep	NN	CW	NOUN	ARGUMENT
+flour	flour	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+available	available	JJ	CW	ADJ
+poor	poor	JJ	CW	ADJ
+
+sentence break
+
+america	america	IN	FW	SUBORDINATOR
+new	new	JJ	CW	ADJ
+organization	organization	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+form	form	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+republican	republican	JJ	CW	ADJ
+brotherhood	brotherhood	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+fenian	fenian	JJ	CW	ADJ
+
+sentence break
+
+rebellion	rebellion	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+aborted	aborted	JJ	CW	ADJ
+society	society	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+active	active	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+influential	influential	JJ	CW	ADJ
+effort	effort	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+land	land	NN	CW	NOUN	ARGUMENT
+league	league	NN	CW	NOUN	ARGUMENT
+found	find	VBD	CW	VERB
+1879	1879	NNS	CW	NOUN	ARGUMENT
+seek	seek	VB	CW	VERB
+change	change	NN	CW	NOUN	ARGUMENT
+tenant	tenant	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+charle	charle	NN	CW	NOUN	ARGUMENT
+stewart	stewart	NN	CW	NOUN	ARGUMENT
+parnell	parnell	NN	CW	NOUN	ARGUMENT
+irish	irish	JJ	CW	ADJ
+member	member	NN	CW	NOUN	ARGUMENT
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+cause	cause	NN	CW	NOUN	ARGUMENT
+land	land	NN	CW	NOUN	ARGUMENT
+act	act	NN	CW	NOUN	ARGUMENT
+enable	enable	VBP	FW	aux_or_cop
+hard-pressed	hard-pressed	JJ	CW	ADJ
+tenant	tenant	NN	CW	NOUN	ARGUMENT
+buy	buy	VB	CW	VERB
+land	land	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+pass	pass	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+parnell	parnell	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+cause	cause	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+demand	demand	NN	CW	NOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+time	time	NN	CW	NOUN	ARGUMENT
+look	look	VB	CW	VERB
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+go	go	VB	CW	VERB
+succeed	succeed	VB	CW	VERB
+political	political	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+cite	cite	VBP	CW	VERB
+parnell	parnell	NN	CW	NOUN	ARGUMENT
+co-respondent	co-respondent	JJ	CW	ADJ
+scandalous	scandalous	JJ	CW	ADJ
+divorce	divorce	NN	CW	NOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+lead	lead	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+withdraw	withdraw	VBP	CW	VERB
+support	support	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bill	bill	NN	CW	NOUN	ARGUMENT
+home	home	NN	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+finally	finally	RB	ADV	CW
+become	become	VBN	CW	VERB
+law	law	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+world	world	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+proviso	proviso	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+enact	enact	VB	CW	VERB
+hostilities	hostility	NNS	CW	NOUN	ARGUMENT
+end	end	VB	CW	VERB
+
+sentence break
+
+two	two	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+easter	easter	NN	CW	NOUN	ARGUMENT
+monday	monday	NNP	CW	NOUN	ARGUMENT
+24	24	CD	FW
+april	april	NNP	CW	NOUN	ARGUMENT
+1916	1916	CD	FW
+easter	easter	NN	CW	NOUN	ARGUMENT
+rise	rise	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+citizen	citizen	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+trade	trade	NN	CW	NOUN	ARGUMENT
+unionist	unionist	JJ	CW	ADJ
+jame	jame	NN	CW	NOUN	ARGUMENT
+connolly	connolly	JJ	CW	ADJ
+irish	irish	JJ	CW	ADJ
+republican	republican	JJ	CW	ADJ
+brotherhood	brotherhood	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+poet	poet	NN	CW	NOUN	ARGUMENT
+encoding error!
+pearse	pearse	NN	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+control	control	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+key	key	JJ	CW	ADJ
+building	building	NN	CW	NOUN	ARGUMENT
+capital	capital	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pearse	pearse	NN	CW	NOUN	ARGUMENT
+read	read	VBD	CW	VERB
+declaration	declaration	NN	CW	NOUN	ARGUMENT
+independence	independence	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+post	post	NN	CW	NOUN	ARGUMENT
+office	office	NN	CW	NOUN	ARGUMENT
+o	o	NN	CW	NOUN	ARGUMENT
+connell	connell	NN	CW	NOUN	ARGUMENT
+street	street	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+countess	countess	NN	CW	NOUN	ARGUMENT
+constance	constance	NN	CW	NOUN	ARGUMENT
+markievicz	markievicz	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+band	band	NN	CW	NOUN	ARGUMENT
+rebel	rebel	NN	CW	NOUN	ARGUMENT
+occupy	occupy	VBP	CW	VERB
+building	building	NN	CW	NOUN	ARGUMENT
+st	st	NN	CW	NOUN	ARGUMENT
+stephen	stephen	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+green	green	JJ	CW	ADJ
+
+sentence break
+
+irish	irish	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+urge	urge	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+dubliner	dubliner	NN	CW	NOUN	ARGUMENT
+seem	seem	VBP	CW	VERB
+rather	rather	RB	ADV	FW
+unreal	unreal	JJ	CW	ADJ
+fact	fact	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+happen	happen	VB	CW	VERB
+receive	receive	VB	CW	VERB
+little	little	JJ	CW	ADJ
+public	public	JJ	CW	ADJ
+support	support	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+more	more	RBR	ADV	CW
+500	500	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+kill	kill	VB	CW	VERB
+many	many	JJ	CW	ADJ
+building	building	NN	CW	NOUN	ARGUMENT
+damage	damage	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+bullet	bullet	NN	CW	NOUN	ARGUMENT
+hole	hole	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+post	post	NN	CW	NOUN	ARGUMENT
+office	office	NN	CW	NOUN	ARGUMENT
+building	building	NN	CW	NOUN	ARGUMENT
+royal	royal	NN	CW	NOUN	ARGUMENT
+college	college	NN	CW	NOUN	ARGUMENT
+surgeon	surgeon	NN	CW	NOUN	ARGUMENT
+rise	rise	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+put	put	VBN	CW	VERB
+down	down	RP	FW
+
+sentence break
+
+fifteen	fifteen	CD	FW
+leader	leader	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+execute	execute	VB	CW	VERB
+include	include	VBP	CW	VERB
+pearse	pearse	NN	CW	NOUN	ARGUMENT
+wound	wound	NN	CW	NOUN	ARGUMENT
+connolly	connolly	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+bring	bring	VB	CW	VERB
+execution	execution	NN	CW	NOUN	ARGUMENT
+ambulance	ambulance	NN	CW	NOUN	ARGUMENT
+shot	shot	NN	CW	NOUN	ARGUMENT
+tie	tie	NN	CW	NOUN	ARGUMENT
+chair	chair	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+leader	leader	NN	CW	NOUN	ARGUMENT
+eamon	eamon	NNP	CW	NOUN	ARGUMENT
+de	de	IN	FW
+valera	valera	NNP	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+spare	spare	JJ	CW	ADJ
+probably	probably	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+american	american	JJ	CW	ADJ
+citizen	citizen	NN	CW	NOUN	ARGUMENT
+markievicz	markievicz	NN	CW	NOUN	ARGUMENT
+british	british	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+want	want	VB	CW	VERB
+execute	execute	VB	CW	VERB
+woman	woman	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+british	british	JJ	CW	ADJ
+retribution	retribution	NN	CW	NOUN	ARGUMENT
+galvanize	galvanize	VB	CW	VERB
+irish	irish	JJ	CW	ADJ
+word	word	NN	CW	NOUN	ARGUMENT
+yeat	yeat	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+poem	poem	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+utterly	utterly	RB	ADV	CW
+
+sentence break
+
+general	general	JJ	CW	ADJ
+election	election	NN	CW	NOUN	ARGUMENT
+1919	1919	CD	FW
+overwhelming	overwhelming	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+sinn	sinn	NN	CW	NOUN	ARGUMENT
+encoding error!
+republican	republican	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+return	return	NN	CW	NOUN	ARGUMENT
+parliament	parliament	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+instead	instead	RB	ADV	FW
+go	go	VB	CW	VERB
+london	london	JJ	CW	ADJ
+however	however	RB	ADV	FW
+sinn	sinn	JJ	CW	ADJ
+encoding error!
+member	member	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+dail	dail	NN	CW	NOUN	ARGUMENT
+encoding error!
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+spark	spark	VB	CW	VERB
+war	war	NN	CW	NOUN	ARGUMENT
+independence	independence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1919	1919	CD	FW
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+partial	partial	JJ	CW	ADJ
+victory	victory	NN	CW	NOUN	ARGUMENT
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+1921	1921	CD	FW
+partition	partition	NN	CW	NOUN	ARGUMENT
+act	act	NN	CW	NOUN	ARGUMENT
+enable	enable	VBP	CW	VERB
+six	six	CD	FW
+county	county	NN	CW	NOUN	ARGUMENT
+northern	northern	JJ	CW	ADJ
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+union	union	NN	CW	NOUN	ARGUMENT
+britain	britain	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+26	26	CD	FW
+become	become	VBN	CW	VERB
+independent	independent	JJ	CW	ADJ
+
+sentence break
+
+follow	follow	VB	CW	VERB
+year	year	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+civil	civil	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+supporter	supporter	NN	CW	NOUN	ARGUMENT
+michael	michael	NN	CW	NOUN	ARGUMENT
+collin	collin	NN	CW	NOUN	ARGUMENT
+arthur	arthur	NN	CW	NOUN	ARGUMENT
+griffith	griffith	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+sign	sign	NN	CW	NOUN	ARGUMENT
+treaty	treaty	NN	CW	NOUN	ARGUMENT
+eamon	eamon	NN	CW	NOUN	ARGUMENT
+de	de	IN	FW
+valera	valera	FW	FW
+s	s	VBZ	CW	VERB
+follower	follower	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+civil	civil	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1922	1922	CD	FW
+new	new	JJ	CW	ADJ
+irish	irish	JJ	CW	ADJ
+free	free	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+bear	bear	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1937	1937	CD	FW
+de	de	IN	FW
+valera	valera	FW	FW
+s	s	VBZ	CW	VERB
+republican	republican	JJ	CW	ADJ
+constitution	constitution	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+ireland	ireland	JJ	CW	ADJ
+british	british	JJ	CW	ADJ
+commonwealth	commonwealth	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+republic	republic	NN	CW	NOUN	ARGUMENT
+elect	elect	VB	CW	VERB
+first	first	JJ	CW	ADJ
+president	president	NN	CW	NOUN	ARGUMENT
+dougla	douglum	NN	CW	NOUN	ARGUMENT
+hyde	hyde	VBP	CW	VERB
+1938	1938	CD	FW
+
+sentence break
+
+world	world	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+bomb	bomb	NN	CW	NOUN	ARGUMENT
+german	german	JJ	CW	ADJ
+plane	plane	NN	CW	NOUN	ARGUMENT
+fall	fall	NN	CW	NOUN	ARGUMENT
+twice	twice	RB	ADV	CW
+dublin	dublin	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+neutral	neutral	JJ	CW	ADJ
+
+sentence break
+
+1948	1948	CD	FW
+irish	irish	JJ	CW	ADJ
+republic	republic	NN	CW	NOUN	ARGUMENT
+sever	sever	VBP	CW	VERB
+last	last	JJ	CW	ADJ
+tie	tie	JJ	CW	ADJ
+britain	britain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+neglect	neglect	NN	CW	NOUN	ARGUMENT
+conquest	conquest	NN	CW	NOUN	ARGUMENT
+isolation	isolation	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+have	have	VBP	FW	aux_or_cop
+take	take	VB	CW	VERB
+toll	toll	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+independent	independent	JJ	CW	ADJ
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+characterize	characterize	VBP	CW	VERB
+parochial	parochial	JJ	CW	ADJ
+narrow-minded	narrow-minded	JJ	CW	ADJ
+approach	approach	NN	CW	NOUN	ARGUMENT
+affair	affair	NN	CW	NOUN	ARGUMENT
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+content	content	JJ	CW	ADJ
+let	let	VB	CW	VERB
+georgian	georgian	JJ	CW	ADJ
+heritage	heritage	NN	CW	NOUN	ARGUMENT
+decay	decay	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+case	case	NN	CW	NOUN	ARGUMENT
+modern	modern	JJ	CW	ADJ
+building	building	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+erect	erect	VB	CW	VERB
+place	place	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+admire	admire	VB	CW	VERB
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+alway	alway	JJ	CW	ADJ
+look	look	NN	CW	NOUN	ARGUMENT
+europe	europe	NN	CW	NOUN	ARGUMENT
+friendship	friendship	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+gradually	gradually	RB	ADV	CW
+begin	begin	VB	CW	VERB
+define	define	VB	CW	VERB
+european	european	JJ	CW	ADJ
+nation	nation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+join	join	VB	CW	VERB
+european	european	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+1972	1972	CD	FW
+
+sentence break
+
+1988	1988	CD	FW
+dublin	dublin	NNP	CW	NOUN	ARGUMENT
+city	city	NN	CW	NOUN	ARGUMENT
+millennium	millennium	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+mark	mark	NN	CW	NOUN	ARGUMENT
+restoration	restoration	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+fine	fine	JJ	CW	ADJ
+building	building	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+statue	statue	NN	CW	NOUN	ARGUMENT
+monument	monument	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+irish	irish	JJ	CW	ADJ
+artist	artist	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+successful	successful	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+celebration	celebration	NN	CW	NOUN	ARGUMENT
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+elect	elect	VB	CW	VERB
+first	first	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+mayor	mayor	NN	CW	NOUN	ARGUMENT
+1990	1990	CD	FW
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+choose	choose	VB	CW	VERB
+dynamic	dynamic	JJ	CW	ADJ
+mary	mary	JJ	CW	ADJ
+robinson	robinson	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+president	president	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ultimate	ultimate	JJ	CW	ADJ
+accolade	accolade	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+1991	1991	CD	FW
+dublin	dublin	NNP	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+designate	designate	JJ	CW	ADJ
+european	european	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+culture	culture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+capital	capital	NN	CW	NOUN	ARGUMENT
+europe	europe	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+fastest	fastest	JJS	CW	ADJ
+grow	grow	VB	CW	VERB
+economy	economy	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+self-assured	self-assured	JJ	CW	ADJ
+dublin	dublin	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+very	very	RB	ADV	CW
+much	much	JJ	CW	ADJ
+european	european	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,1738 @@
+word	lemma	POS	CW\FW	other categories
+popular	popular	JJ	CW	ADJ
+mind	mind	NN	CW	NOUN	ARGUMENT
+history	history	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+long	long	JJ	CW	ADJ
+entryway	entryway	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+westerner	westerner	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+1841	1841	CD	FW
+british	british	JJ	CW	ADJ
+occupation	occupation	NN	CW	NOUN	ARGUMENT
+territory	territory	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+wrong	wrong	JJ	CW	ADJ
+dismiss	dismiss	VB	CW	VERB
+long	long	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+archaeologist	archaeologist	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+work	work	NN	CW	NOUN	ARGUMENT
+uncover	uncover	VBP	CW	VERB
+hong	hong	JJ	CW	ADJ
+kong	kong	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+past	past	IN	FW
+stretch	stretch	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+thousand	thousand	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+get	get	VB	CW	VERB
+glimpse	glimpse	NN	CW	NOUN	ARGUMENT
+past	past	IN	FW
+lei	lei	FW	FW
+cheng	cheng	FW	FW
+uk	uk	NN	CW	NOUN	ARGUMENT
+museum	museum	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+1	1	CD	FW
+600	600	CD	FW
+
+sentence break
+
+year-old	year-old	JJ	CW	ADJ
+burial	burial	NN	CW	NOUN	ARGUMENT
+vault	vault	NN	CW	NOUN	ARGUMENT
+mainland	mainland	NN	CW	NOUN	ARGUMENT
+just	just	RB	ADV	CW
+north	north	RB	ADV	CW
+kowloon	kowloon	VB	CW	VERB
+see	see	VB	CW	VERB
+page	page	NN	CW	NOUN	ARGUMENT
+38	38	CD	FW
+
+sentence break
+
+1992	1992	CD	FW
+construction	construction	NN	CW	NOUN	ARGUMENT
+airport	airport	NN	CW	NOUN	ARGUMENT
+chek	chek	NN	CW	NOUN	ARGUMENT
+lap	lap	NN	CW	NOUN	ARGUMENT
+kok	kok	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+begin	begin	VB	CW	VERB
+2	2	CD	FW
+000	000	CD	FW
+
+sentence break
+
+year-old	year-old	JJ	CW	ADJ
+village	village	NN	CW	NOUN	ARGUMENT
+pak	pak	NN	CW	NOUN	ARGUMENT
+mong	mong	FW	FW
+be	be	VB	FW	aux_or_cop
+discover	discover	VBP	CW	VERB
+complete	complete	JJ	CW	ADJ
+artifact	artifact	NN	CW	NOUN	ARGUMENT
+indicate	indicate	VBP	CW	VERB
+sophisticated	sophisticated	JJ	CW	ADJ
+rural	rural	JJ	CW	ADJ
+society	society	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+older	older	JJR	CW	ADJ
+stone	stone	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+discover	discover	VBP	CW	VERB
+lamma	lamma	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+1996	1996	CD	FW
+
+sentence break
+
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+relative	relative	JJ	CW	ADJ
+backwater	backwater	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+nearby	nearby	JJ	CW	ADJ
+guangzhou	guangzhou	NN	CW	NOUN	ARGUMENT
+canton	canton	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+develop	develop	VB	CW	VERB
+great	great	JJ	CW	ADJ
+trading	trading	NN	CW	NOUN	ARGUMENT
+city	city	NN	CW	NOUN	ARGUMENT
+connection	connection	NN	CW	NOUN	ARGUMENT
+indium	indium	NN	CW	NOUN	ARGUMENT
+middle	middle	JJ	CW	ADJ
+east	east	JJ	CW	ADJ
+
+sentence break
+
+900	900	CD	FW
+hong	hong	JJ	CW	ADJ
+kong	kong	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+become	become	VBN	CW	VERB
+lair	lair	JJ	CW	ADJ
+pirate	pirate	NN	CW	NOUN	ARGUMENT
+prey	prey	NN	CW	NOUN	ARGUMENT
+ship	ship	NN	CW	NOUN	ARGUMENT
+pearl	pearl	NN	CW	NOUN	ARGUMENT
+river	river	NN	CW	NOUN	ARGUMENT
+delta	delta	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+major	major	JJ	CW	ADJ
+headache	headache	NN	CW	NOUN	ARGUMENT
+burgeon	burgeon	NN	CW	NOUN	ARGUMENT
+guangzhou	guangzhou	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+small	small	JJ	CW	ADJ
+band	band	NN	CW	NOUN	ARGUMENT
+pirate	pirate	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+operate	operate	VBP	CW	VERB
+early	early	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+meantime	meantime	NN	CW	NOUN	ARGUMENT
+mainland	mainland	NN	CW	NOUN	ARGUMENT
+area	area	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+settle	settle	VB	CW	VERB
+incomer	incomer	JJR	CW	ADJ
+five	five	CD	FW
+great	great	JJ	CW	ADJ
+clan	clan	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+tang	tang	NN	CW	NOUN	ARGUMENT
+hau	hau	NN	CW	NOUN	ARGUMENT
+pang	pang	NN	CW	NOUN	ARGUMENT
+liu	liu	NN	CW	NOUN	ARGUMENT
+man	man	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+arrive	arrive	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+tang	tang	JJ	CW	ADJ
+clan	clan	NN	CW	NOUN	ARGUMENT
+establish	establish	VB	CW	VERB
+number	number	NN	CW	NOUN	ARGUMENT
+walled	walled	JJ	CW	ADJ
+village	village	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+territory	territory	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+exist	exist	VBP	CW	VERB
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+visit	visit	NN	CW	NOUN	ARGUMENT
+kat	kat	NN	CW	NOUN	ARGUMENT
+hing	hing	NN	CW	NOUN	ARGUMENT
+waus	waus	NN	CW	NOUN	ARGUMENT
+lo	lo	NN	CW	NOUN	ARGUMENT
+waus	waus	NN	CW	NOUN	ARGUMENT
+village	village	NN	CW	NOUN	ARGUMENT
+wall	wall	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+intact	intact	JJ	CW	ADJ
+
+sentence break
+
+adjacent	adjacent	JJ	CW	ADJ
+lo	lo	NN	CW	NOUN	ARGUMENT
+waus	waus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+tang	tang	JJ	CW	ADJ
+chung	chung	NNP	CW	NOUN	ARGUMENT
+ling	ling	NN	CW	NOUN	ARGUMENT
+ancestral	ancestral	JJ	CW	ADJ
+hall	hall	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+16	16	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+center	center	JJ	CW	ADJ
+clan	clan	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+european	european	JJ	CW	ADJ
+arrive	arrive	VBP	CW	VERB
+pearl	pearl	NN	CW	NOUN	ARGUMENT
+river	river	NN	CW	NOUN	ARGUMENT
+delta	delta	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+portuguese	portuguese	JJ	CW	ADJ
+settle	settle	VB	CW	VERB
+macau	macau	FW	FW
+1557	1557	CD	FW
+several	several	JJ	CW	ADJ
+century	century	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+monopoly	monopoly	NN	CW	NOUN	ARGUMENT
+trade	trade	NN	CW	NOUN	ARGUMENT
+asium	asium	NN	CW	NOUN	ARGUMENT
+europe	europe	NN	CW	NOUN	ARGUMENT
+south	south	RB	ADV	CW
+america	america	NNP	CW	NOUN	ARGUMENT
+
+sentence break
+
+macau	macau	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+greatest	greatest	JJS	CW	ADJ
+port	port	NN	CW	NOUN	ARGUMENT
+east	east	JJ	CW	ADJ
+also	also	RB	ADV	CW
+become	become	VBP	CW	VERB
+base	base	NN	CW	NOUN	ARGUMENT
+jesuit	jesuit	NN	CW	NOUN	ARGUMENT
+missionary	missionary	JJ	CW	ADJ
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+later	later	RB	ADV	CW
+haven	haven	NN	CW	NOUN	ARGUMENT
+persecute	persecute	JJ	CW	ADJ
+japanese	japanese	JJ	CW	ADJ
+christian	christian	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+christianity	christianity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+great	great	JJ	CW	ADJ
+success	success	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+local	local	JJ	CW	ADJ
+headway	headway	NN	CW	NOUN	ARGUMENT
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+numerous	numerous	JJ	CW	ADJ
+catholic	catholic	JJ	CW	ADJ
+church	church	NN	CW	NOUN	ARGUMENT
+macau	macau	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+historic	historic	JJ	CW	ADJ
+center	center	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+intermarriage	intermarriage	NN	CW	NOUN	ARGUMENT
+local	local	JJ	CW	ADJ
+chinese	chinese	JJ	CW	ADJ
+create	create	VB	FW	aux_or_cop
+community	community	NN	CW	NOUN	ARGUMENT
+macanese	macanese	JJ	CW	ADJ
+culture	culture	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+see	see	VB	CW	VERB
+macau	macau	FW	FW
+s	s	VBZ	CW	VERB
+architecture	architecture	NN	CW	NOUN	ARGUMENT
+cuisine	cuisine	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+albert	albert	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+so	so	RB	ADV	CW
+amused	amuse	VBN	CW	VERB
+write	write	VB	CW	VERB
+queen	queen	NN	CW	NOUN	ARGUMENT
+victorium	victorium	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+get	get	VB	CW	VERB
+island	island	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+foreign	foreign	JJ	CW	ADJ
+secretary	secretary	NN	CW	NOUN	ARGUMENT
+lord	lord	NN	CW	NOUN	ARGUMENT
+palmerston	palmerston	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+not	not	RB	ADV	CW
+so	so	RB	ADV	CW
+amused	amuse	VBN	CW	VERB
+
+sentence break
+
+dismiss	dismiss	VB	CW	VERB
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+barren	barren	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+hardly	hardly	RB	ADV	CW
+house	house	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+formally	formally	RB	ADV	CW
+become	become	VBP	CW	VERB
+british	british	JJ	CW	ADJ
+possession	possession	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+1843	1843	CD	FW
+
+sentence break
+
+british	british	JJ	CW	ADJ
+now	now	RB	ADV	CW
+have	have	VBP	CW	VERB
+base	base	NN	CW	NOUN	ARGUMENT
+thrive	thrive	VBP	CW	VERB
+trade	trade	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+carry	carry	VBP	CW	VERB
+canton	canton	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+trading	trading	NN	CW	NOUN	ARGUMENT
+condition	condition	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+easy	easy	JJ	CW	ADJ
+
+sentence break
+
+attitude	attitude	NN	CW	NOUN	ARGUMENT
+express	express	VBP	CW	VERB
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+qianlong	qianlong	NN	CW	NOUN	ARGUMENT
+britian	britian	JJ	CW	ADJ
+s	s	NNS	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+open	open	JJ	CW	ADJ
+trade	trade	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+1793	1793	CD	FW
+continue	continue	VBP	CW	VERB
+prevail	prevail	VB	CW	VERB
+
+sentence break
+
+possess	possess	VB	CW	VERB
+thing	thing	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+set	set	VBN	CW	VERB
+value	value	NN	CW	NOUN	ARGUMENT
+object	object	NN	CW	NOUN	ARGUMENT
+strange	strange	JJ	CW	ADJ
+ingenious	ingenious	JJ	CW	ADJ
+have	have	VBP	CW	VERB
+use	use	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+manufacture	manufacture	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+moreover	moreover	RB	ADV	FW
+china	china	NN	CW	NOUN	ARGUMENT
+accept	accept	VB	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+silver	silver	JJ	CW	ADJ
+bullion	bullion	NN	CW	NOUN	ARGUMENT
+exchange	exchange	NN	CW	NOUN	ARGUMENT
+goods	goods	NNS	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+britian	britian	JJ	CW	ADJ
+have	have	VBP	FW	aux_or_cop
+look	look	VB	CW	VERB
+more	more	RBR	ADV	CW
+abundant	abundant	JJ	CW	ADJ
+commodity	commodity	NN	CW	NOUN	ARGUMENT
+square	square	NN	CW	NOUN	ARGUMENT
+account	account	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+trader	trader	NN	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+solution	solution	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+opium	opium	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+wonder	wonder	VB	CW	VERB
+drug	drug	NN	CW	NOUN	ARGUMENT
+solve	solve	VB	CW	VERB
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+grown	grow	VBN	CW	VERB
+indium	indium	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+deliver	deliver	VB	CW	VERB
+canton	canton	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+outlaw	outlaw	NN	CW	NOUN	ARGUMENT
+trade	trade	NN	CW	NOUN	ARGUMENT
+1799	1799	CD	FW
+local	local	JJ	CW	ADJ
+cantonese	cantonese	JJ	CW	ADJ
+official	official	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+alway	alway	JJ	CW	ADJ
+willing	willing	JJ	CW	ADJ
+look	look	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+squeeze	squeeze	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+term	term	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+use	use	VBP	CW	VERB
+hong	hong	JJ	CW	ADJ
+kong	kong	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1839	1839	CD	FW
+emperor	emperor	NN	CW	NOUN	ARGUMENT
+appoint	appoint	VB	CW	VERB
+incorruptible	incorruptible	JJ	CW	ADJ
+commissioner	commissioner	NN	CW	NOUN	ARGUMENT
+lin	lin	NN	CW	NOUN	ARGUMENT
+tse-hsu	tse-hsu	NN	CW	NOUN	ARGUMENT
+stamp	stamp	NN	CW	NOUN	ARGUMENT
+smuggling	smuggling	NN	CW	NOUN	ARGUMENT
+foreign	foreign	JJ	CW	ADJ
+mud	mud	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lin	lin	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+crackdown	crackdown	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+indeed	indeed	RB	ADV	CW
+severe	severe	JJ	CW	ADJ
+
+sentence break
+
+demand	demand	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+merchant	merchant	NN	CW	NOUN	ARGUMENT
+canton	canton	NN	CW	NOUN	ARGUMENT
+surrender	surrender	NN	CW	NOUN	ARGUMENT
+opium	opium	NN	CW	NOUN	ARGUMENT
+store	store	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+ultimatum	ultimatum	NN	CW	NOUN	ARGUMENT
+lay	lay	VBD	FW	aux_or_cop
+siege	siege	NN	CW	NOUN	ARGUMENT
+trader	trader	NN	CW	NOUN	ARGUMENT
+six	six	CD	FW
+tense	tense	JJ	CW	ADJ
+week	week	NN	CW	NOUN	ARGUMENT
+surrender	surrender	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+000	000	CD	FW
+chest	chest	NN	CW	NOUN	ARGUMENT
+opium	opium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+queen	queen	NN	CW	NOUN	ARGUMENT
+victorium	victorium	NN	CW	NOUN	ARGUMENT
+lin	lin	NN	CW	NOUN	ARGUMENT
+address	address	NN	CW	NOUN	ARGUMENT
+famous	famous	JJ	CW	ADJ
+letter	letter	NN	CW	NOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+harm	harm	NN	CW	NOUN	ARGUMENT
+poisonous	poisonous	JJ	CW	ADJ
+drug	drug	NN	CW	NOUN	ARGUMENT
+do	do	VBP	CW	VERB
+china	china	NN	CW	NOUN	ARGUMENT
+ask	ask	VB	CW	VERB
+end	end	NN	CW	NOUN	ARGUMENT
+opium	opium	NN	CW	NOUN	ARGUMENT
+trade	trade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+argument	argument	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unanswerable	unanswerable	JJ	CW	ADJ
+lofty	lofty	JJ	CW	ADJ
+heartfelt	heartfelt	JJ	CW	ADJ
+tone	tone	NN	CW	NOUN	ARGUMENT
+letter	letter	NN	CW	NOUN	ARGUMENT
+show	show	VBP	FW	aux_or_cop
+unprepared	unprepared	JJ	CW	ADJ
+chinese	chinese	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+negotiate	negotiate	VB	CW	VERB
+west	west	JJ	CW	ADJ
+realistic	realistic	JJ	CW	ADJ
+term	term	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+later	later	RB	ADV	CW
+june	june	NNP	CW	NOUN	ARGUMENT
+1840	1840	CD	FW
+come	come	VB	CW	VERB
+british	british	JJ	CW	ADJ
+retaliation	retaliation	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+first	first	RB	ADV	CW
+so-called	so-called	JJ	CW	ADJ
+opium	opium	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+few	few	JJ	CW	ADJ
+skirmish	skirmish	NN	CW	NOUN	ARGUMENT
+much	much	JJ	CW	ADJ
+negotiation	negotiation	NN	CW	NOUN	ARGUMENT
+peace	peace	NN	CW	NOUN	ARGUMENT
+agreement	agreement	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+reach	reach	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+convention	convention	NN	CW	NOUN	ARGUMENT
+chuenpus	chuenpus	NN	CW	NOUN	ARGUMENT
+britain	britain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+give	give	VB	CW	VERB
+island	island	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+26	26	CD	FW
+january	january	NNP	CW	NOUN	ARGUMENT
+1841	1841	CD	FW
+be	be	VB	FW	aux_or_cop
+proclaim	proclaim	VB	CW	VERB
+british	british	JJ	CW	ADJ
+colony	colony	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+peace	peace	NN	CW	NOUN	ARGUMENT
+plan	plan	NN	CW	NOUN	ARGUMENT
+achieve	achieve	VBP	CW	VERB
+chuenpus	chuenpus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+short-lived	short-lived	JJ	CW	ADJ
+
+sentence break
+
+peking	peking	JJ	CW	ADJ
+london	london	NN	CW	NOUN	ARGUMENT
+repudiated	repudiate	VBD	CW	VERB
+agreement	agreement	NN	CW	NOUN	ARGUMENT
+fight	fight	NN	CW	NOUN	ARGUMENT
+resume	resume	VBP	CW	VERB
+
+sentence break
+
+time	time	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+force	force	NN	CW	NOUN	ARGUMENT
+less	less	RBR	ADV	CW
+3	3	CD	FW
+000	000	CD	FW
+strong	strong	JJ	CW	ADJ
+possession	possession	NN	CW	NOUN	ARGUMENT
+superior	superior	JJ	CW	ADJ
+weapon	weapon	NN	CW	NOUN	ARGUMENT
+tactic	tactic	NN	CW	NOUN	ARGUMENT
+outfought	outfought	JJ	CW	ADJ
+chinese	chinese	JJ	CW	ADJ
+
+sentence break
+
+shanghaus	shanghaus	NN	CW	NOUN	ARGUMENT
+fall	fall	NN	CW	NOUN	ARGUMENT
+nanking	nanking	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+threaten	threaten	VB	CW	VERB
+
+sentence break
+
+treaty	treaty	NN	CW	NOUN	ARGUMENT
+nanking	nanking	NN	CW	NOUN	ARGUMENT
+1842	1842	CD	FW
+china	china	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+compell	compell	RB	ADV	FW
+open	open	JJ	CW	ADJ
+five	five	CD	FW
+port	port	NN	CW	NOUN	ARGUMENT
+foreign	foreign	JJ	CW	ADJ
+economic	economic	JJ	CW	ADJ
+political	political	JJ	CW	ADJ
+penetration	penetration	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+compensate	compensate	VB	CW	VERB
+opium	opium	NN	CW	NOUN	ARGUMENT
+smuggler	smuggler	NN	CW	NOUN	ARGUMENT
+loss	loss	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+status	status	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+colony	colony	NN	CW	NOUN	ARGUMENT
+free	free	JJ	CW	ADJ
+port	port	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+confirm	confirm	VBP	CW	VERB
+
+sentence break
+
+aftermath	aftermath	NN	CW	NOUN	ARGUMENT
+opium	opium	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+trade	trade	NN	CW	NOUN	ARGUMENT
+foreign	foreign	JJ	CW	ADJ
+mud	mud	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+resume	resume	VB	CW	VERB
+level	level	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+higher	higher	JJR	CW	ADJ
+before	before	IN	FW
+major	major	JJ	CW	ADJ
+trader	trader	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+respectable	respectable	JJ	CW	ADJ
+diversified	diversified	JJ	CW	ADJ
+stop	stop	NN	CW	NOUN	ARGUMENT
+trading	trade	VBG	CW	VERB
+1907	1907	CD	FW
+
+sentence break
+
+opium-smoking	opium-smoking	JJ	CW	ADJ
+continue	continue	VBP	CW	VERB
+openly	openly	RB	ADV	CW
+hong	hong	JJ	CW	ADJ
+kong	kong	JJ	CW	ADJ
+1946	1946	CD	FW
+
+sentence break
+
+mainland	mainland	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+communist	communist	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+abolish	abolish	VBP	CW	VERB
+come	come	VBN	CW	VERB
+power	power	NN	CW	NOUN	ARGUMENT
+1949	1949	CD	FW
+
+sentence break
+
+first	first	RB	ADV	CW
+governor	governor	NN	CW	NOUN	ARGUMENT
+hong	hong	JJ	CW	ADJ
+kong	kong	NN	CW	NOUN	ARGUMENT
+sir	sir	NN	CW	NOUN	ARGUMENT
+henry	henry	NN	CW	NOUN	ARGUMENT
+pottinger	pottinger	NN	CW	NOUN	ARGUMENT
+predict	predict	VBP	CW	VERB
+become	become	VBN	CW	VERB
+vast	vast	JJ	CW	ADJ
+emporium	emporium	NN	CW	NOUN	ARGUMENT
+commerce	commerce	NN	CW	NOUN	ARGUMENT
+wealth	wealth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+direction	direction	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+march	march	VB	CW	VERB
+prosperity	prosperity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+soon	soon	RB	ADV	CW
+flourishing	flourish	VBG	CW	VERB
+
+sentence break
+
+natural	natural	JJ	CW	ADJ
+harbor	harbor	NN	CW	NOUN	ARGUMENT
+attract	attract	VB	CW	VERB
+ship	ship	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+leap	leap	NN	CW	NOUN	ARGUMENT
+forefront	forefront	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+trade	trade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+population	population	NN	CW	NOUN	ARGUMENT
+economy	economy	NN	CW	NOUN	ARGUMENT
+begin	begin	VBP	CW	VERB
+grow	grow	VB	CW	VERB
+steadily	steadily	RB	ADV	FW
+
+sentence break
+
+surprise	surprise	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sizable	sizable	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+chinese	chinese	JJ	CW	ADJ
+choose	choose	VB	CW	VERB
+move	move	NN	CW	NOUN	ARGUMENT
+colony	colony	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+meantime	meantime	NN	CW	NOUN	ARGUMENT
+opening	opening	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+last	last	JJ	CW	ADJ
+blow	blow	NN	CW	NOUN	ARGUMENT
+macau	macau	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+prosperity	prosperity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+inroad	inroad	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+already	already	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+arrival	arrival	NN	CW	NOUN	ARGUMENT
+dutch	dutch	JJ	CW	ADJ
+macau	macau	FW	FW
+s	s	VBZ	CW	VERB
+loss	loss	NN	CW	NOUN	ARGUMENT
+profitable	profitable	JJ	CW	ADJ
+japanese	japanese	JJ	CW	ADJ
+trade	trade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+on	on	IN	FW
+1970	1970	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+comeback	comeback	NN	CW	NOUN	ARGUMENT
+electronic	electronic	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+export	export	NN	CW	NOUN	ARGUMENT
+goods	goods	NNS	CW	NOUN	ARGUMENT
+macau	macau	NN	CW	NOUN	ARGUMENT
+sink	sink	NN	CW	NOUN	ARGUMENT
+obscurity	obscurity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+difference	difference	NN	CW	NOUN	ARGUMENT
+chinese	chinese	JJ	CW	ADJ
+majority	majority	NN	CW	NOUN	ARGUMENT
+european	european	JJ	CW	ADJ
+minority	minority	NN	CW	NOUN	ARGUMENT
+relation	relation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+generally	generally	RB	ADV	CW
+cordial	cordial	JJ	CW	ADJ
+
+sentence break
+
+sir	sir	NN	CW	NOUN	ARGUMENT
+john	john	NN	CW	NOUN	ARGUMENT
+franci	franci	JJ	CW	ADJ
+davi	davus	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+governor	governor	NN	CW	NOUN	ARGUMENT
+disgust	disgust	NN	CW	NOUN	ARGUMENT
+squabbling	squabbling	NN	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+resident	resident	NN	CW	NOUN	ARGUMENT
+declare	declare	VB	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+much	much	RB	ADV	CW
+easier	easier	JJR	CW	ADJ
+task	task	NN	CW	NOUN	ARGUMENT
+govern	govern	VBP	CW	VERB
+20	20	CD	FW
+000	000	CD	FW
+chinese	chinese	JJ	CW	ADJ
+inhabitant	inhabitant	JJ	CW	ADJ
+colony	colony	NN	CW	NOUN	ARGUMENT
+few	few	JJ	CW	ADJ
+hundred	hundred	CD	FW
+english	english	JJ	CW	ADJ
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+few	few	JJ	CW	ADJ
+incident	incident	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+15	15	CD	FW
+january	january	NNP	CW	NOUN	ARGUMENT
+1857	1857	CD	FW
+somebody	somebody	NN	CW	NOUN	ARGUMENT
+add	add	VBP	CW	VERB
+extra	extra	JJ	CW	ADJ
+ingredient	ingredient	NN	CW	NOUN	ARGUMENT
+dough	dough	NN	CW	NOUN	ARGUMENT
+colony	colony	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+main	main	JJ	CW	ADJ
+bakery	bakery	NN	CW	NOUN	ARGUMENT
+arsenic	arsenic	JJ	CW	ADJ
+
+sentence break
+
+chinese	chinese	JJ	CW	ADJ
+continue	continue	VBP	CW	VERB
+enjoy	enjoy	VB	FW	aux_or_cop
+daily	daily	JJ	CW	ADJ
+rice	rice	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+eat	eat	VBP	CW	VERB
+daily	daily	JJ	CW	ADJ
+bread	bread	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+drop	drop	NN	CW	NOUN	ARGUMENT
+fly	fly	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+height	height	NN	CW	NOUN	ARGUMENT
+panic	panic	NN	CW	NOUN	ARGUMENT
+thousand	thousand	CD	FW
+chinese	chinese	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+deport	deport	JJ	CW	ADJ
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+ever	ever	RB	ADV	CW
+discover	discover	VBP	CW	VERB
+identity	identity	NN	CW	NOUN	ARGUMENT
+motive	motive	NN	CW	NOUN	ARGUMENT
+culprit	culprit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+condition	condition	NN	CW	NOUN	ARGUMENT
+colony	colony	NN	CW	NOUN	ARGUMENT
+19	19	CD	FW
+th	th	DT	FW
+century	century	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+favor	favor	VB	CW	VERB
+chinese	chinese	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+british	british	JJ	CW	ADJ
+live	live	JJ	CW	ADJ
+waterfront	waterfront	NN	CW	NOUN	ARGUMENT
+victorium	victorium	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+central	central	JJ	CW	ADJ
+cooler	cooler	JJR	CW	ADJ
+slope	slope	NN	CW	NOUN	ARGUMENT
+victorium	victorium	NN	CW	NOUN	ARGUMENT
+peak	peak	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+chinese	chinese	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+bar	bar	NN	CW	NOUN	ARGUMENT
+area	area	NN	CW	NOUN	ARGUMENT
+european	european	JJ	CW	ADJ
+neighborhood	neighborhood	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+settle	settle	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+know	know	VBP	CW	VERB
+western	western	JJ	CW	ADJ
+district	district	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+uncommon	uncommon	JJ	CW	ADJ
+several	several	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+share	share	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+room	room	NN	CW	NOUN	ARGUMENT
+crowd	crowd	NN	CW	NOUN	ARGUMENT
+shantytown	shantytown	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+surprising	surprising	JJ	CW	ADJ
+bubonic	bubonic	JJ	CW	ADJ
+plague	plague	VBP	CW	VERB
+strike	strike	NN	CW	NOUN	ARGUMENT
+1894	1894	CD	FW
+take	take	VBP	CW	VERB
+nearly	nearly	RB	ADV	CW
+30	30	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+fully	fully	RB	ADV	CW
+eradicate	eradicate	VB	CW	VERB
+
+sentence break
+
+today	today	NN	CW	NOUN	ARGUMENT
+western	western	JJ	CW	ADJ
+district	district	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+wander	wander	VBP	CW	VERB
+narrow	narrow	JJ	CW	ADJ
+street	street	NN	CW	NOUN	ARGUMENT
+line	line	NN	CW	NOUN	ARGUMENT
+small	small	JJ	CW	ADJ
+traditional	traditional	JJ	CW	ADJ
+shop	shop	NN	CW	NOUN	ARGUMENT
+sell	sell	NN	CW	NOUN	ARGUMENT
+ginseng	ginseng	NN	CW	NOUN	ARGUMENT
+medicinal	medicinal	JJ	CW	ADJ
+herb	herb	NN	CW	NOUN	ARGUMENT
+incense	incense	NN	CW	NOUN	ARGUMENT
+tea	tea	NN	CW	NOUN	ARGUMENT
+funeral	funeral	JJ	CW	ADJ
+object	object	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1860	1860	CD	FW
+treaty	treaty	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+britain	britain	NN	CW	NOUN	ARGUMENT
+permanent	permanent	JJ	CW	ADJ
+beach-head	beach-head	NN	CW	NOUN	ARGUMENT
+chinese	chinese	JJ	CW	ADJ
+mainland	mainland	NN	CW	NOUN	ARGUMENT
+kowloon	kowloon	NN	CW	NOUN	ARGUMENT
+peninsula	peninsula	NN	CW	NOUN	ARGUMENT
+directly	directly	RB	ADV	CW
+victorium	victorium	NN	CW	NOUN	ARGUMENT
+harbor	harbor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1898	1898	CD	FW
+convention	convention	NN	CW	NOUN	ARGUMENT
+peking	peking	JJ	CW	ADJ
+china	china	NN	CW	NOUN	ARGUMENT
+lease	lease	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+territory	territory	NN	CW	NOUN	ARGUMENT
+235	235	CD	FW
+more	more	JJR	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+britain	britain	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+seem	seem	VBP	CW	VERB
+eternity	eternity	NN	CW	NOUN	ARGUMENT
+99	99	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+colony	colony	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+alway	alway	NN	CW	NOUN	ARGUMENT
+fluctuate	fluctuate	VBP	CW	VERB
+accord	accord	NN	CW	NOUN	ARGUMENT
+event	event	NN	CW	NOUN	ARGUMENT
+border	border	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1911	1911	CD	FW
+chinese	chinese	JJ	CW	ADJ
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+overthrew	overthrow	VBD	CW	VERB
+manchus	manchus	NN	CW	NOUN	ARGUMENT
+refugee	refugee	NN	CW	NOUN	ARGUMENT
+flock	flock	NN	CW	NOUN	ARGUMENT
+safety	safety	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+arrive	arrive	VBP	CW	VERB
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+shirt	shirt	NN	CW	NOUN	ARGUMENT
+back	back	RB	ADV	CW
+bring	bring	VB	CW	VERB
+philosophy	philosophy	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+hard	hard	RB	ADV	CW
+seize	seize	VB	CW	VERB
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hundred	hundred	CD	FW
+thousand	thousand	CD	FW
+more	more	JJR	CW	ADJ
+arrive	arrive	VBP	CW	VERB
+1930	1930	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+japan	japan	JJ	CW	ADJ
+invade	invade	VB	CW	VERB
+china	china	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+eve	eve	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+ius	ius	NNS	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+more	more	RBR	ADV	CW
+one	one	CD	FW
+half	half	NN	CW	NOUN	ARGUMENT
+million	million	CD	FW
+
+sentence break
+
+few	few	JJ	CW	ADJ
+hour	hour	NN	CW	NOUN	ARGUMENT
+japan	japan	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+attack	attack	NN	CW	NOUN	ARGUMENT
+american	american	NN	CW	NOUN	ARGUMENT
+fleet	fleet	NN	CW	NOUN	ARGUMENT
+pearl	pearl	NN	CW	NOUN	ARGUMENT
+harbor	harbor	VBP	CW	VERB
+december	december	NNP	CW	NOUN	ARGUMENT
+1941	1941	CD	FW
+dozen	dozen	NN	CW	NOUN	ARGUMENT
+japanese	japanese	JJ	CW	ADJ
+battalion	battalion	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+assault	assault	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+minimal	minimal	JJ	CW	ADJ
+air	air	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+destroy	destroy	VB	CW	VERB
+airfield	airfield	JJ	CW	ADJ
+kaus	kaus	NN	CW	NOUN	ARGUMENT
+tak	tak	NN	CW	NOUN	ARGUMENT
+five	five	CD	FW
+minute	minute	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+abandon	abandon	VB	CW	VERB
+new	new	JJ	CW	ADJ
+territory	territory	NN	CW	NOUN	ARGUMENT
+kowloon	kowloon	NN	CW	NOUN	ARGUMENT
+defender	defender	NN	CW	NOUN	ARGUMENT
+retreat	retreat	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	JJ	CW	ADJ
+island	island	NN	CW	NOUN	ARGUMENT
+hop	hop	NN	CW	NOUN	ARGUMENT
+relief	relief	NN	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+come	come	VBN	CW	VERB
+
+sentence break
+
+finally	finally	RB	ADV	CW
+surrender	surrender	VB	CW	VERB
+christma	christma	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+1941	1941	CD	FW
+
+sentence break
+
+survivor	survivor	NN	CW	NOUN	ARGUMENT
+recall	recall	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+half	half	DT	FW
+year	year	NN	CW	NOUN	ARGUMENT
+hunger	hunger	NN	CW	NOUN	ARGUMENT
+hardship	hardship	NN	CW	NOUN	ARGUMENT
+occupation	occupation	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+deport	deport	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+hong	hong	JJ	CW	ADJ
+kong	kong	JJ	CW	ADJ
+chinese	chinese	JJ	CW	ADJ
+mainland	mainland	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+number	number	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+monument	monument	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+damage	damage	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+st	st	NN	CW	NOUN	ARGUMENT
+john	john	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+cathedral	cathedral	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+turn	turn	VBN	CW	VERB
+military	military	JJ	CW	ADJ
+club	club	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+governor	governor	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+lodge	lodge	VBP	CW	VERB
+peak	peak	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+burn	burn	VBP	CW	VERB
+down	down	RP	FW
+commandant	commandant	NN	CW	NOUN	ARGUMENT
+occupation	occupation	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+rebuild	rebuild	VB	CW	VERB
+colonial	colonial	JJ	CW	ADJ
+governor	governor	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+mansion	mansion	NN	CW	NOUN	ARGUMENT
+japanese	japanese	JJ	CW	ADJ
+style	style	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+end	end	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+war	war	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NNS	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+stock	stock	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+population	population	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+down	down	RB	ADV	CW
+million	million	CD	FW
+be	be	VB	FW	aux_or_cop
+industry	industry	NN	CW	NOUN	ARGUMENT
+fishing	fishing	NN	CW	NOUN	ARGUMENT
+fleet	fleet	NN	CW	NOUN	ARGUMENT
+few	few	JJ	CW	ADJ
+house	house	NN	CW	NOUN	ARGUMENT
+public	public	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+china	china	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+civil	civil	JJ	CW	ADJ
+war	war	NN	CW	NOUN	ARGUMENT
+send	send	VB	CW	VERB
+distressing	distressing	JJ	CW	ADJ
+echo	echo	VBP	CW	VERB
+hong	hong	JJ	CW	ADJ
+kong	kong	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+chinese	chinese	JJ	CW	ADJ
+communist	communist	NN	CW	NOUN	ARGUMENT
+army	army	NN	CW	NOUN	ARGUMENT
+drive	drive	NN	CW	NOUN	ARGUMENT
+south	south	RB	ADV	CW
+flow	flow	NN	CW	NOUN	ARGUMENT
+refugee	refugee	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+multiply	multiply	VBP	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+republic	republic	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+proclaim	proclaim	VB	CW	VERB
+1949	1949	CD	FW
+total	total	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+grow	grow	VB	CW	VERB
+more	more	JJR	CW	ADJ
+two	two	CD	FW
+million	million	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+fall	fall	NN	CW	NOUN	ARGUMENT
+shanghaus	shanghaus	NN	CW	NOUN	ARGUMENT
+1950	1950	CD	FW
+bring	bring	VBP	CW	VERB
+flood	flood	NN	CW	NOUN	ARGUMENT
+refugee	refugee	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+wealthy	wealthy	JJ	CW	ADJ
+people	people	NNS	CW	NOUN	ARGUMENT
+skilled	skilled	JJ	CW	ADJ
+artisan	artisan	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+shanghaus	shanghaus	NN	CW	NOUN	ARGUMENT
+industrialist	industrialist	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+founder	founder	NN	CW	NOUN	ARGUMENT
+hong	hong	JJ	CW	ADJ
+kong	kong	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+famous	famous	JJ	CW	ADJ
+textile	textile	NN	CW	NOUN	ARGUMENT
+industry	industry	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+late	late	RB	ADV	CW
+1970	1970	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+hong	hong	VBP	CW	VERB
+kong	kong	JJ	CW	ADJ
+become	become	VBN	CW	VERB
+conduit	conduit	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+goods	goods	NNS	CW	NOUN	ARGUMENT
+investment	investment	NN	CW	NOUN	ARGUMENT
+tourism	tourism	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+find	find	VB	CW	VERB
+famous	famous	JJ	CW	ADJ
+worldwide	worldwide	JJ	CW	ADJ
+bargain	bargain	NN	CW	NOUN	ARGUMENT
+shopping	shopping	NN	CW	NOUN	ARGUMENT
+center	center	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+housing	housing	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+desperately	desperately	RB	ADV	CW
+short	short	JJ	CW	ADJ
+supply	supply	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+housing	housing	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+alway	alway	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+scarce	scarce	JJ	CW	ADJ
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+chinese	chinese	JJ	CW	ADJ
+
+sentence break
+
+problem	problem	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+outright	outright	JJ	CW	ADJ
+disaster	disaster	NN	CW	NOUN	ARGUMENT
+christma	christma	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+1953	1953	CD	FW
+
+sentence break
+
+uncontrollable	uncontrollable	JJ	CW	ADJ
+fire	fire	NN	CW	NOUN	ARGUMENT
+devour	devour	VB	CW	VERB
+whole	whole	JJ	CW	ADJ
+city	city	NN	CW	NOUN	ARGUMENT
+squatter	squatter	NN	CW	NOUN	ARGUMENT
+shack	shack	NN	CW	NOUN	ARGUMENT
+kowloon	kowloon	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+50	50	CD	FW
+000	000	CD	FW
+refugee	refugee	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+deprive	deprive	VB	CW	VERB
+shelter	shelter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+calamity	calamity	NN	CW	NOUN	ARGUMENT
+spur	spur	VB	CW	VERB
+government	government	NN	CW	NOUN	ARGUMENT
+launch	launch	NN	CW	NOUN	ARGUMENT
+emergency	emergency	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+public-housing	public-housing	NN	CW	NOUN	ARGUMENT
+construction	construction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+spartan	spartan	VB	CW	VERB
+new	new	JJ	CW	ADJ
+block	block	NN	CW	NOUN	ARGUMENT
+apartment	apartment	NN	CW	NOUN	ARGUMENT
+put	put	VBD	CW	VERB
+cheap	cheap	JJ	CW	ADJ
+fireproof	fireproof	JJ	CW	ADJ
+roof	roof	NN	CW	NOUN	ARGUMENT
+hundred	hundred	CD	FW
+thousand	thousand	CD	FW
+head	head	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+new	new	JJ	CW	ADJ
+housing	housing	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+grimly	grimly	RB	ADV	CW
+overcrowded	overcrowded	JJ	CW	ADJ
+even	even	RB	ADV	CW
+frenzy	frenzy	NN	CW	NOUN	ARGUMENT
+construction	construction	NN	CW	NOUN	ARGUMENT
+couldn	couldn	NN	CW	NOUN	ARGUMENT
+t	t	NN	CW	NOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+pace	pace	NN	CW	NOUN	ARGUMENT
+demand	demand	NN	CW	NOUN	ARGUMENT
+live	live	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1962	1962	CD	FW
+colonial	colonial	JJ	CW	ADJ
+authority	authority	NN	CW	NOUN	ARGUMENT
+close	close	JJ	CW	ADJ
+border	border	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+do	do	VBP	CW	VERB
+not	not	RB	ADV	CW
+altogether	altogether	RB	ADV	FW
+stem	stem	NN	CW	NOUN	ARGUMENT
+flow	flow	NN	CW	NOUN	ARGUMENT
+refugee	refugee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+next	next	JJ	CW	ADJ
+arrival	arrival	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+vietnamese	vietnamese	JJ	CW	ADJ
+boat	boat	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+1997	1997	CD	FW
+draw	draw	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+clear	clear	JJ	CW	ADJ
+chinese	chinese	JJ	CW	ADJ
+government	government	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+intention	intention	NN	CW	NOUN	ARGUMENT
+renew	renew	VB	CW	VERB
+99	99	CD	FW
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+lease	lease	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+territory	territory	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+negotiation	negotiation	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+1984	1984	CD	FW
+prime	prime	JJ	CW	ADJ
+minister	minister	NN	CW	NOUN	ARGUMENT
+margaret	margaret	NN	CW	NOUN	ARGUMENT
+thatcher	thatcher	NN	CW	NOUN	ARGUMENT
+sign	sign	NN	CW	NOUN	ARGUMENT
+sino	sino	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+joint	joint	JJ	CW	ADJ
+declaration	declaration	NN	CW	NOUN	ARGUMENT
+britain	britain	NN	CW	NOUN	ARGUMENT
+confirm	confirm	VBP	CW	VERB
+transfer	transfer	VB	CW	VERB
+new	new	JJ	CW	ADJ
+territory	territory	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+1997	1997	CD	FW
+
+sentence break
+
+part	part	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+declare	declare	VB	CW	VERB
+hong	hong	JJ	CW	ADJ
+kong	kong	NN	CW	NOUN	ARGUMENT
+special	special	JJ	CW	ADJ
+administrative	administrative	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+guarantee	guarantee	VBP	CW	VERB
+civil	civil	JJ	CW	ADJ
+social	social	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+least	least	JJS	CW	ADJ
+50	50	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+1997	1997	CD	FW
+
+sentence break
+
+china	china	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+basic	basic	JJ	CW	ADJ
+law	law	NN	CW	NOUN	ARGUMENT
+promise	promise	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+exist	exist	VBP	CW	VERB
+law	law	NN	CW	NOUN	ARGUMENT
+civil	civil	JJ	CW	ADJ
+liberty	liberty	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+uphold	uphold	VB	CW	VERB
+refugee	refugee	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+flow	flow	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+british	british	JJ	CW	ADJ
+nationality	nationality	NN	CW	NOUN	ARGUMENT
+act	act	NN	CW	NOUN	ARGUMENT
+1981	1981	CD	FW
+have	have	VBP	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+prevent	prevent	VBP	CW	VERB
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	JJ	CW	ADJ
+citizen	citizen	NN	CW	NOUN	ARGUMENT
+acquire	acquire	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+citizenship	citizenship	NN	CW	NOUN	ARGUMENT
+thousand	thousand	CD	FW
+people	people	NNS	CW	NOUN	ARGUMENT
+anxious	anxious	JJ	CW	ADJ
+future	future	JJ	CW	ADJ
+china	china	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+rule	rule	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+prompt	prompt	JJ	CW	ADJ
+apply	apply	VB	CW	VERB
+citizenship	citizenship	NN	CW	NOUN	ARGUMENT
+elsewhere	elsewhere	RB	ADV	CW
+notably	notably	RB	ADV	FW
+canada	canada	JJ	CW	ADJ
+australium	australium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+protest	protest	NN	CW	NOUN	ARGUMENT
+1989	1989	CD	FW
+beijing	beijing	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+tiananman	tiananman	NN	CW	NOUN	ARGUMENT
+square	square	NN	CW	NOUN	ARGUMENT
+spark	spark	VB	CW	VERB
+sympathy	sympathy	NN	CW	NOUN	ARGUMENT
+march	march	VB	CW	VERB
+hong	hong	JJ	CW	ADJ
+kong	kong	NN	CW	NOUN	ARGUMENT
+further	further	JJ	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+tension	tension	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+company	company	NN	CW	NOUN	ARGUMENT
+move	move	NN	CW	NOUN	ARGUMENT
+headquarters	headquarters	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ironically	ironically	RB	ADV	CW
+handover	handover	NN	CW	NOUN	ARGUMENT
+approach	approach	NN	CW	NOUN	ARGUMENT
+british	british	JJ	CW	ADJ
+grant	grant	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	JJ	CW	ADJ
+chinese	chinese	JJ	CW	ADJ
+more	more	RBR	ADV	CW
+political	political	JJ	CW	ADJ
+autonomy	autonomy	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+do	do	VBP	FW	aux_or_cop
+colony	colony	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+found	find	VBN	CW	VERB
+include	include	VBP	CW	VERB
+such	such	JJ	CW	ADJ
+democratic	democratic	JJ	CW	ADJ
+reform	reform	NN	CW	NOUN	ARGUMENT
+election	election	NN	CW	NOUN	ARGUMENT
+legislative	legislative	JJ	CW	ADJ
+council	council	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+handover	handover	NN	CW	NOUN	ARGUMENT
+july	july	NNP	CW	NOUN	ARGUMENT
+1997	1997	CD	FW
+china	china	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+generally	generally	RB	ADV	CW
+follow	follow	VB	CW	VERB
+hands-off	hands-off	JJ	CW	ADJ
+policy	policy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+flee	flee	VBP	CW	VERB
+have	have	VBP	CW	VERB
+return	return	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+control	control	NN	CW	NOUN	ARGUMENT
+heartbeat	heartbeat	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fluctuation	fluctuation	NN	CW	NOUN	ARGUMENT
+hang	hang	VBP	CW	VERB
+seng	seng	NN	CW	NOUN	ARGUMENT
+index	index	NN	CW	NOUN	ARGUMENT
+foreign	foreign	JJ	CW	ADJ
+currency	currency	NN	CW	NOUN	ARGUMENT
+exchange	exchange	NN	CW	NOUN	ARGUMENT
+rate	rate	NN	CW	NOUN	ARGUMENT
+skyrocket	skyrocket	VB	CW	VERB
+property	property	NN	CW	NOUN	ARGUMENT
+price	price	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+short	short	JJ	CW	ADJ
+status	status	NN	CW	NOUN	ARGUMENT
+quo	quo	NN	CW	NOUN	ARGUMENT
+prevail	prevail	VB	CW	VERB
+
+sentence break
+
+everybody	everybody	NN	CW	NOUN	ARGUMENT
+hope	hope	NN	CW	NOUN	ARGUMENT
+hong	hong	NN	CW	NOUN	ARGUMENT
+kong	kong	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+stable	stable	JJ	CW	ADJ
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+doubt	doubt	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+meantime	meantime	NN	CW	NOUN	ARGUMENT
+philosophy	philosophy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+seize	seize	VB	CW	VERB
+present-day	present-day	JJ	CW	ADJ
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+thrive	thrive	VBP	CW	VERB
+economy	economy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,1101 @@
+word	lemma	POS	CW\FW	other categories
+henry	henry	NN	CW	NOUN	ARGUMENT
+viius	viius	NN	CW	NOUN	ARGUMENT
+elizabeth	elizabeth	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+determine	determine	VBN	CW	VERB
+subdue	subdue	JJ	CW	ADJ
+ireland	ireland	NN	CW	NOUN	ARGUMENT
+send	send	VB	CW	VERB
+massive	massive	JJ	CW	ADJ
+military	military	JJ	CW	ADJ
+expedition	expedition	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+next	next	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+large	large	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+scottish	scottish	JJ	CW	ADJ
+churchman	churchman	NN	CW	NOUN	ARGUMENT
+noble	noble	JJ	CW	ADJ
+sign	sign	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+covenant	covenant	NN	CW	NOUN	ARGUMENT
+declaration	declaration	NN	CW	NOUN	ARGUMENT
+condemn	condemn	VB	CW	VERB
+new	new	JJ	CW	ADJ
+liturgy	liturgy	NN	CW	NOUN	ARGUMENT
+pledge	pledge	NN	CW	NOUN	ARGUMENT
+allegiance	allegiance	NN	CW	NOUN	ARGUMENT
+presbyterian	presbyterian	JJ	CW	ADJ
+faith	faith	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+establish	establish	VB	CW	VERB
+capital	capital	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+qahira	qahira	NN	CW	NOUN	ARGUMENT
+city	city	NN	CW	NOUN	ARGUMENT
+victory	victory	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+modern	modern	JJ	CW	ADJ
+world	world	NN	CW	NOUN	ARGUMENT
+cairo	cairo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+diderot	diderot	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+encoding error!
+champion	champion	NN	CW	NOUN	ARGUMENT
+reason	reason	NN	CW	NOUN	ARGUMENT
+traditional	traditional	JJ	CW	ADJ
+religion	religion	NN	CW	NOUN	ARGUMENT
+rousseau	rousseau	NN	CW	NOUN	ARGUMENT
+discoursed	discourse	VBD	CW	VERB
+origin	origin	NN	CW	NOUN	ARGUMENT
+inequality	inequality	NN	CW	NOUN	ARGUMENT
+voltaire	voltaire	NN	CW	NOUN	ARGUMENT
+shot	shoot	VBD	CW	VERB
+everything	everything	NN	CW	NOUN	ARGUMENT
+didn	didn	NN	CW	NOUN	ARGUMENT
+t	t	NN	CW	NOUN	ARGUMENT
+move	move	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+french	french	JJ	CW	ADJ
+revolution	revolution	NN	CW	NOUN	ARGUMENT
+convention	convention	NN	CW	NOUN	ARGUMENT
+ambitiously	ambitiously	RB	ADV	CW
+declare	declare	VB	CW	VERB
+slavery	slavery	NN	CW	NOUN	ARGUMENT
+abolish	abolish	VB	CW	VERB
+martinique	martinique	NN	CW	NOUN	ARGUMENT
+s	s	NNS	CW	NOUN	ARGUMENT
+wealthy	wealthy	JJ	CW	ADJ
+plantation	plantation	NN	CW	NOUN	ARGUMENT
+owner	owner	NN	CW	NOUN	ARGUMENT
+frantically	frantically	RB	ADV	FW
+object	object	VBP	CW	VERB
+
+sentence break
+
+curiosity	curiosity	NN	CW	NOUN	ARGUMENT
+push	push	NN	CW	NOUN	ARGUMENT
+build	build	VB	FW	aux_or_cop
+vessel	vessel	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+strong	strong	JJ	CW	ADJ
+enough	enough	JJ	CW	ADJ
+ford	ford	NN	CW	NOUN	ARGUMENT
+open	open	JJ	CW	ADJ
+sea	sea	NN	CW	NOUN	ARGUMENT
+reach	reach	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+mark	mark	NN	CW	NOUN	ARGUMENT
+start	start	NN	CW	NOUN	ARGUMENT
+long	long	RB	ADV	CW
+legacy	legacy	NN	CW	NOUN	ARGUMENT
+mediterranean	mediterranean	JJ	CW	ADJ
+seafare	seafare	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+wave	wave	NN	CW	NOUN	ARGUMENT
+polynesian	polynesian	JJ	CW	ADJ
+settler	settler	NN	CW	NOUN	ARGUMENT
+cross	cross	NN	CW	NOUN	ARGUMENT
+equator	equator	NN	CW	NOUN	ARGUMENT
+arrive	arrive	VBP	CW	VERB
+marquesa	marquesa	NN	CW	NOUN	ARGUMENT
+south	south	RB	ADV	CW
+pacific	pacific	JJ	CW	ADJ
+perhap	perhap	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+early	early	JJ	CW	ADJ
+400	400	CD	FW
+
+sentence break
+
+foreign	foreign	JJ	CW	ADJ
+secretary	secretary	NN	CW	NOUN	ARGUMENT
+lord	lord	NN	CW	NOUN	ARGUMENT
+palmerston	palmerston	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+not	not	RB	ADV	CW
+so	so	RB	ADV	CW
+amused	amuse	VBN	CW	VERB
+
+sentence break
+
+call	call	NN	CW	NOUN	ARGUMENT
+garum	garum	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+consider	consider	VB	CW	VERB
+great	great	JJ	CW	ADJ
+delicacy	delicacy	NN	CW	NOUN	ARGUMENT
+roman	roman	NN	CW	NOUN	ARGUMENT
+greek	greek	JJ	CW	ADJ
+alike	alike	RB	ADV	FW
+
+sentence break
+
+strength	strength	NN	CW	NOUN	ARGUMENT
+bjp	bjp	NN	CW	NOUN	ARGUMENT
+emergence	emergence	NN	CW	NOUN	ARGUMENT
+rajiv	rajiv	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+italian-born	italian-born	JJ	CW	ADJ
+widow	widow	NN	CW	NOUN	ARGUMENT
+sonium	sonium	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+congress	congress	NN	CW	NOUN	ARGUMENT
+party	party	NN	CW	NOUN	ARGUMENT
+president	president	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+legacy	legacy	NN	CW	NOUN	ARGUMENT
+nehru	nehru	NN	CW	NOUN	ARGUMENT
+gandhus	gandhus	NN	CW	NOUN	ARGUMENT
+dynasty	dynasty	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fa	fa	NN	CW	NOUN	ARGUMENT
+forget	forget	VB	CW	VERB
+
+sentence break
+
+yol	yol	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+number	number	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+person	person	NN	CW	NOUN	ARGUMENT
+live	live	JJ	CW	ADJ
+7	7	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+evaluate	evaluate	VB	CW	VERB
+reality	reality	NN	CW	NOUN	ARGUMENT
+hf	hf	NN	CW	NOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+diagnosis	diagnosis	NN	CW	NOUN	ARGUMENT
+management	management	NN	CW	NOUN	ARGUMENT
+clinical	clinical	JJ	CW	ADJ
+course	course	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+expect	expect	VB	CW	VERB
+compare	compare	VB	CW	VERB
+feature	feature	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+furthermore	furthermore	RB	ADV	FW
+number	number	NN	CW	NOUN	ARGUMENT
+recent	recent	JJ	CW	ADJ
+trial	trial	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+suggest	suggest	VBP	CW	VERB
+higher	higher	JJR	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+patient	patient	NN	CW	NOUN	ARGUMENT
+non	non	JJ	CW	ADJ
+st	st	NN	CW	NOUN	ARGUMENT
+elevation	elevation	NN	CW	NOUN	ARGUMENT
+acute	acute	JJ	CW	ADJ
+coronary	coronary	JJ	CW	ADJ
+syndrome	syndrome	NN	CW	NOUN	ARGUMENT
+fair	fair	JJ	CW	ADJ
+better	better	RBR	ADV	CW
+early	early	JJ	CW	ADJ
+invasive	invasive	JJ	CW	ADJ
+strategy	strategy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+apply	apply	VB	CW	VERB
+12	12	CD	FW
+13	13	CD	FW
+14	14	CD	FW
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+uncommon	uncommon	JJ	CW	ADJ
+patient	patient	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+treat	treat	VB	CW	VERB
+fashion	fashion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+randomized	randomize	VBN	CW	VERB
+double-blind	double-blind	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+compare	compare	VBP	CW	VERB
+nifedipine	nifedipine	NN	CW	NOUN	ARGUMENT
+git	git	NN	CW	NOUN	ARGUMENT
+verapamil	verapamil	NN	CW	NOUN	ARGUMENT
+sr	sr	NN	CW	NOUN	ARGUMENT
+hemodynamic	hemodynamic	JJ	CW	ADJ
+leave	leave	NN	CW	NOUN	ARGUMENT
+ventricular	ventricular	JJ	CW	ADJ
+mass	mass	NN	CW	NOUN	ARGUMENT
+coronary	coronary	JJ	CW	ADJ
+vasodilatory	vasodilatory	JJ	CW	ADJ
+patient	patient	NN	CW	NOUN	ARGUMENT
+advanced	advance	VBD	CW	VERB
+hypertension	hypertension	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+
+sentence break
+
+1966	1966	CD	FW
+2001	2001	CD	FW
+be	be	VB	CW	VERB
+188	188	CD	FW
+publish	publish	VB	CW	VERB
+cardiovascular	cardiovascular	JJ	CW	ADJ
+randomized	randomize	VBN	CW	VERB
+controll	controll	NN	CW	NOUN	ARGUMENT
+trial	trial	NN	CW	NOUN	ARGUMENT
+relate	relate	VBP	CW	VERB
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+hypertension	hypertension	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+peripheral	peripheral	JJ	CW	ADJ
+alpha	alpha	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+antagonist	antagonist	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+detect	detect	VB	CW	VERB
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+please	please	VB	CW	VERB
+see	see	VB	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+aand	aand	NN	CW	NOUN	ARGUMENT
+datum	datum	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+
+sentence break
+
+thus	thus	RB	ADV	FW
+alm	alm	IN	FW
+bdu	bdu	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+division	division	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+take	take	VB	CW	VERB
+place	place	NN	CW	NOUN	ARGUMENT
+bdus	bdus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+migrate	migrate	VB	CW	VERB
+normally	normally	RB	ADV	CW
+strain	strain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+further	further	RB	ADV	CW
+investigate	investigate	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+develop	develop	VB	CW	VERB
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+fluorescent	fluorescent	JJ	CW	ADJ
+double	double	JJ	CW	ADJ
+label	label	NN	CW	NOUN	ARGUMENT
+assay	assay	NN	CW	NOUN	ARGUMENT
+identify	identify	VBP	CW	VERB
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+dna	dna	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+fluorescently	fluorescently	RB	ADV	FW
+label	label	NN	CW	NOUN	ARGUMENT
+dutp	dutp	NN	CW	NOUN	ARGUMENT
+detect	detect	VB	CW	VERB
+chromatin	chromatin	NN	CW	NOUN	ARGUMENT
+condensation	condensation	NN	CW	NOUN	ARGUMENT
+bind	bind	VBP	CW	VERB
+dye	dye	VB	CW	VERB
+yoyo	yoyo	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+
+sentence break
+
+expression	expression	NN	CW	NOUN	ARGUMENT
+ecfp	ecfp	NN	CW	NOUN	ARGUMENT
+prove	prove	VBP	CW	VERB
+more	more	RBR	ADV	CW
+difficult	difficult	JJ	CW	ADJ
+detect	detect	VB	CW	VERB
+fix	fix	NN	CW	NOUN	ARGUMENT
+sectioned	section	VBN	CW	VERB
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+datum	datum	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+clearly	clearly	RB	ADV	CW
+detectable	detectable	JJ	CW	ADJ
+unfixed	unfixed	JJ	CW	ADJ
+embryonic	embryonic	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+fig	fig	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+c.	c.	NN	CW	NOUN	ARGUMENT
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+regime	regime	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+necessity	necessity	NN	CW	NOUN	ARGUMENT
+weather-related	weather-related	JJ	CW	ADJ
+specimen	specimen	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+raise	raise	VB	CW	VERB
+water	water	NN	CW	NOUN	ARGUMENT
+table	table	NN	CW	NOUN	ARGUMENT
+run	run	VBP	CW	VERB
+lakewater	lakewater	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+department	department	NN	CW	NOUN	ARGUMENT
+labor	labor	NN	CW	NOUN	ARGUMENT
+estimate	estimate	NN	CW	NOUN	ARGUMENT
+business	business	NN	CW	NOUN	ARGUMENT
+taxpayer	taxpayer	NN	CW	NOUN	ARGUMENT
+foot	foot	NN	CW	NOUN	ARGUMENT
+bill	bill	NN	CW	NOUN	ARGUMENT
+60	60	CD	FW
+billion	billion	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+assign	assign	VB	CW	VERB
+first	first	JJ	CW	ADJ
+tutor	tutor	NN	CW	NOUN	ARGUMENT
+joe	joe	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+read	read	VBN	CW	VERB
+first	first	JJ	CW	ADJ
+grade	grade	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+people	people	NNS	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+read	read	VBN	CW	VERB
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+lifelong	lifelong	JJ	CW	ADJ
+dream	dream	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+summer	summer	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+300	300	CD	FW
+child	child	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+14	14	CD	FW
+attend	attend	VB	CW	VERB
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+indianapoli	indianapolus	NNS	CW	NOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+belong	belong	VBP	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+camp	camp	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+carry	carry	VB	CW	VERB
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+campus	campus	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+shelter	shelter	NN	CW	NOUN	ARGUMENT
+public	public	JJ	CW	ADJ
+housing	housing	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+correctional	correctional	JJ	CW	ADJ
+facility	facility	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+location	location	NN	CW	NOUN	ARGUMENT
+central	central	JJ	CW	ADJ
+indiana	indiana	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+past	past	JJ	CW	ADJ
+support	support	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+reach	reach	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+future	future	JJ	CW	ADJ
+leaders-our	leaders-our	JJ	CW	ADJ
+girl	girl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+take	take	VB	CW	VERB
+first	first	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+difference	difference	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+young	young	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+shareholder	shareholder	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+vision	vision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+preventive	preventive	JJ	CW	ADJ
+informal	informal	JJ	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scouting	scout	VBG	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+relate	relate	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+develop	develop	VBP	CW	VERB
+value	value	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+society	society	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+own	own	JJ	CW	ADJ
+potential	potential	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+investment	investment	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scouting	scout	VBG	CW	VERB
+be	be	VB	FW	aux_or_cop
+one	one	CD	FW
+pay	pay	NN	CW	NOUN	ARGUMENT
+dividend	dividend	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+community	community	NN	CW	NOUN	ARGUMENT
+workforce	workforce	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+keep	keep	VB	CW	VERB
+pace	pace	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+membership	membership	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+facet	facet	NN	CW	NOUN	ARGUMENT
+organization-board	organization-board	NN	CW	NOUN	ARGUMENT
+committee	committee	NN	CW	NOUN	ARGUMENT
+member	member	NN	CW	NOUN	ARGUMENT
+staff	staff	NN	CW	NOUN	ARGUMENT
+volunteer	volunteer	NN	CW	NOUN	ARGUMENT
+alumnus	alumnus	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+friend	friend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+hardwood	hardwood	NN	CW	NOUN	ARGUMENT
+floor	floor	NN	CW	NOUN	ARGUMENT
+wooden	wooden	JJ	CW	ADJ
+ceiling	ceiling	NN	CW	NOUN	ARGUMENT
+brick	brick	NN	CW	NOUN	ARGUMENT
+stone	stone	NN	CW	NOUN	ARGUMENT
+interior	interior	JJ	CW	ADJ
+wall	wall	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hide	hide	VB	CW	VERB
+covering	cover	VBG	CW	VERB
+old	old	JJ	CW	ADJ
+paint	paint	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+member	member	NN	CW	NOUN	ARGUMENT
+board	board	NN	CW	NOUN	ARGUMENT
+doctor	doctor	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+representative	representative	JJ	CW	ADJ
+christian	christian	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+recruit	recruit	VB	CW	VERB
+mentor	mentor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+21	21	CD	FW
+state	state	NN	CW	NOUN	ARGUMENT
+washington	washington	NN	CW	NOUN	ARGUMENT
+dc	dc	NN	CW	NOUN	ARGUMENT
+puerto	puerto	NN	CW	NOUN	ARGUMENT
+rico	rico	NN	CW	NOUN	ARGUMENT
+operate	operate	VBP	CW	VERB
+legal-assistance	legal-assistance	JJ	CW	ADJ
+hot	hot	JJ	CW	ADJ
+line	line	NN	CW	NOUN	ARGUMENT
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+most	most	RBS	ADV	CW
+take	take	VB	CW	VERB
+call	call	NN	CW	NOUN	ARGUMENT
+younger	younger	JJR	CW	ADJ
+caregiver	caregiver	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+find	find	VB	FW	aux_or_cop
+guilty	guilty	JJ	CW	ADJ
+majority	majority	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+order	order	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+court	court	NN	CW	NOUN	ARGUMENT
+cost	cost	NN	CW	NOUN	ARGUMENT
+100	100	CD	FW
+fine	fine	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+everything	everything	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+do	do	VB	CW	VERB
+here	here	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+be	be	VB	CW	VERB
+do	do	VB	CW	VERB
+properly	properly	RB	ADV	CW
+
+sentence break
+
+one	one	CD	FW
+13	13	CD	FW
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+hire	hire	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+irene	irene	JJ	CW	ADJ
+mak	mak	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+law	law	NN	CW	NOUN	ARGUMENT
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+cantonese	cantonese	JJ	CW	ADJ
+mandarin	mandarin	JJ	CW	ADJ
+thaus	thaus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+three-year	three-year	JJ	CW	ADJ
+grant	grant	NN	CW	NOUN	ARGUMENT
+worth	worth	JJ	CW	ADJ
+6	6	CD	FW
+6	6	CD	FW
+million	million	CD	FW
+separate	separate	JJ	CW	ADJ
+technology	technology	NN	CW	NOUN	ARGUMENT
+grant	grant	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+announce	announce	VB	CW	VERB
+press	press	NN	CW	NOUN	ARGUMENT
+conference	conference	NN	CW	NOUN	ARGUMENT
+dinner	dinner	NN	CW	NOUN	ARGUMENT
+hold	hold	VBP	CW	VERB
+thursday	thursday	NNP	CW	NOUN	ARGUMENT
+evo	evo	NN	CW	NOUN	ARGUMENT
+deconcinus	deconcinus	NN	CW	NOUN	ARGUMENT
+federal	federal	JJ	CW	ADJ
+courthouse	courthouse	NN	CW	NOUN	ARGUMENT
+405	405	CD	FW
+w	w	NN	CW	NOUN	ARGUMENT
+congress	congress	NN	CW	NOUN	ARGUMENT
+street	street	NN	CW	NOUN	ARGUMENT
+deconcinus	deconcinus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+one	one	CD	FW
+organization	organization	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+board	board	NN	CW	NOUN	ARGUMENT
+member	member	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+utah	utah	NN	CW	NOUN	ARGUMENT
+lawmaker	lawmaker	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+feel	feel	VB	CW	VERB
+need	need	VB	CW	VERB
+appropriate	appropriate	JJ	CW	ADJ
+money	money	NN	CW	NOUN	ARGUMENT
+poor	poor	JJ	CW	ADJ
+elderly	elderly	JJ	CW	ADJ
+afford	afford	VB	CW	VERB
+quality	quality	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+care	care	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+go	go	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+suspect	suspect	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+go	go	VB	CW	VERB
+object	object	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+recommendation	recommendation	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+supreme	supreme	JJ	CW	ADJ
+court	court	NN	CW	NOUN	ARGUMENT
+regard	regard	NN	CW	NOUN	ARGUMENT
+fee	fee	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+broad	broad	JJ	CW	ADJ
+support	support	NN	CW	NOUN	ARGUMENT
+bar	bar	NN	CW	NOUN	ARGUMENT
+association	association	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+bertschy	bertschy	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+release	release	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+concern	concern	NN	CW	NOUN	ARGUMENT
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+one	one	CD	FW
+be	be	VB	FW	aux_or_cop
+go	go	VB	CW	VERB
+mean	mean	VB	CW	VERB
+then	then	RB	ADV	CW
+two	two	CD	FW
+even	even	RB	ADV	CW
+know	know	VB	CW	VERB
+mean	mean	VB	CW	VERB
+n't	not	RB	ADV	CW
+know	know	VB	CW	VERB
+contact	contact	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+potentially	potentially	RB	ADV	CW
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+question	question	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+dollar	dollar	NN	CW	NOUN	ARGUMENT
+invest	invest	VBP	CW	VERB
+research	research	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+increase	increase	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+decrease	decrease	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+canada	canada	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+idea	idea	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+library	library	NN	CW	NOUN	ARGUMENT
+save	save	IN	FW
+space	space	NN	CW	NOUN	ARGUMENT
+remove	remove	VB	CW	VERB
+volumes	volume	NNS	CW	NOUN	ARGUMENT
+available	available	JJ	CW	ADJ
+electronic	electronic	JJ	CW	ADJ
+format	format	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+great	great	JJ	CW	ADJ
+just	just	RB	ADV	CW
+give	give	VB	CW	VERB
+people	people	NNS	CW	NOUN	ARGUMENT
+extra	extra	JJ	CW	ADJ
+five	five	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+less	less	JJR	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+less	less	JJR	CW	ADJ
+painful	painful	JJ	CW	ADJ
+say	say	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+multiprotein	multiprotein	JJ	CW	ADJ
+core	core	NN	CW	NOUN	ARGUMENT
+particle	particle	NN	CW	NOUN	ARGUMENT
+cp	cp	NN	CW	NOUN	ARGUMENT
+proteolysis	proteolysis	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+separate	separate	JJ	CW	ADJ
+multiprotein	multiprotein	JJ	CW	ADJ
+regulatory	regulatory	JJ	CW	ADJ
+particle	particle	NN	CW	NOUN	ARGUMENT
+rp	rp	NN	CW	NOUN	ARGUMENT
+recognize	recognize	VBP	CW	VERB
+prepare	prepare	VB	CW	VERB
+substrate	substrate	JJ	CW	ADJ
+degradation	degradation	NN	CW	NOUN	ARGUMENT
+cp	cp	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+simulated	simulated	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+allow	allow	VB	CW	VERB
+evolve	evolve	VB	CW	VERB
+whilst	whilst	IN	FW
+be	be	VB	FW	aux_or_cop
+select	select	JJ	CW	ADJ
+optimum	optimum	JJ	CW	ADJ
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+ie	ie	FW	FW
+population	population	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+expose	expose	VB	CW	VERB
+environment	environment	NN	CW	NOUN	ARGUMENT
+particular	particular	JJ	CW	ADJ
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+optimal	optimal	JJ	CW	ADJ
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+want	want	VB	CW	VERB
+take	take	VB	CW	VERB
+rna	rna	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+make	make	VBP	CW	VERB
+evolutionary	evolutionary	JJ	CW	ADJ
+sense	sense	NN	CW	NOUN	ARGUMENT
+extracellular	extracellular	JJ	CW	ADJ
+rna	rna	NN	CW	NOUN	ARGUMENT
+usually	usually	RB	ADV	CW
+signify	signify	VBP	CW	VERB
+viral	viral	JJ	CW	ADJ
+infection	infection	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+chain-extender	chain-extender	JJ	CW	ADJ
+unit	unit	NN	CW	NOUN	ARGUMENT
+instead	instead	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+malonyl	malonyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+methylmalonyl	methylmalonyl	NN	CW	NOUN	ARGUMENT
+coa	coa	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+four	four	CD	FW
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+atom	atom	NN	CW	NOUN	ARGUMENT
+linear	linear	JJ	CW	ADJ
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+extend	extend	VB	CW	VERB
+two	two	CD	FW
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+extra	extra	JJ	CW	ADJ
+carbon	carbon	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+methyl	methyl	NN	CW	NOUN	ARGUMENT
+side	side	JJ	CW	ADJ
+branch	branch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+two	two	CD	FW
+tumour	tumour	NN	CW	NOUN	ARGUMENT
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+sequenced	sequence	VBN	CW	VERB
+complete	complete	JJ	CW	ADJ
+code	code	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+wild-type	wild-type	JJ	CW	ADJ
+allele	allele	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+structurally	structurally	RB	ADV	CW
+intact	intact	JJ	CW	ADJ
+
+sentence break
+
+also	also	RB	ADV	CW
+encourage	encourage	VBP	CW	VERB
+biochemical	biochemical	JJ	CW	ADJ
+genetic	genetic	JJ	CW	ADJ
+approach	approach	NN	CW	NOUN	ARGUMENT
+never	never	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+certain	certain	JJ	CW	ADJ
+one	one	CD	FW
+method	method	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+better	better	RB	ADV	CW
+
+sentence break
+
+oocyte	oocyte	NN	CW	NOUN	ARGUMENT
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+less	less	RBR	ADV	CW
+closely	closely	RB	ADV	CW
+relate	relate	VB	CW	VERB
+two	two	CD	FW
+sibling	sibling	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+polar	polar	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+enriched	enriched	JJ	CW	ADJ
+chromosome	chromosome	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+present	present	JJ	CW	ADJ
+oocyte	oocyte	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+come	come	VB	CW	VERB
+right	right	RB	ADV	CW
+anger	anger	NN	CW	NOUN	ARGUMENT
+regular	regular	JJ	CW	ADJ
+man	man	NN	CW	NOUN	ARGUMENT
+mag	mag	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+hide	hide	VB	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+want	want	VBP	CW	VERB
+packet	packet	NN	CW	NOUN	ARGUMENT
+hot	hot	JJ	CW	ADJ
+mustard	mustard	NN	CW	NOUN	ARGUMENT
+open	open	JJ	CW	ADJ
+spread	spread	NN	CW	NOUN	ARGUMENT
+chicken	chicken	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+good	good	JJ	CW	ADJ
+job	job	NN	CW	NOUN	ARGUMENT
+aeus	aeus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+piece	piece	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+carry	carry	VB	CW	VERB
+dateline	dateline	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+case	case	NN	CW	NOUN	ARGUMENT
+m	m	NN	CW	NOUN	ARGUMENT
+rosenthal	rosenthal	NN	CW	NOUN	ARGUMENT
+column	column	NN	CW	NOUN	ARGUMENT
+august	august	NNP	CW	NOUN	ARGUMENT
+12	12	CD	FW
+section	section	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+find	find	VB	CW	VERB
+way	way	NN	CW	NOUN	ARGUMENT
+scald	scald	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+straphange	straphange	JJ	CW	ADJ
+august	august	NNP	CW	NOUN	ARGUMENT
+heat	heat	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+sinatra	sinatra	NN	CW	NOUN	ARGUMENT
+pack	pack	NN	CW	NOUN	ARGUMENT
+bad-boy	bad-boy	JJ	CW	ADJ
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+late	late	JJ	CW	ADJ
+90	90	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+ersatz	ersatz	JJ	CW	ADJ
+swell	swell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+celebrate	celebrate	VB	CW	VERB
+not	not	RB	ADV	CW
+fine	fine	JJ	CW	ADJ
+tailor	tailor	NN	CW	NOUN	ARGUMENT
+three-button	three-button	JJ	CW	ADJ
+suit	suit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+call	call	VB	CW	VERB
+top	top	JJ	CW	ADJ
+nature	nature	NN	CW	NOUN	ARGUMENT
+magazine	magazine	NN	CW	NOUN	ARGUMENT
+tv	tv	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+pick	pick	NN	CW	NOUN	ARGUMENT
+date	date	NN	CW	NOUN	ARGUMENT
+refuse	refuse	VBP	FW	aux_or_cop
+purchase	purchase	NN	CW	NOUN	ARGUMENT
+photo	photo	NN	CW	NOUN	ARGUMENT
+take	take	VB	CW	VERB
+
+sentence break
+
+bet	bet	VB	CW	VERB
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+wish	wish	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+rid	rid	JJ	CW	ADJ
+1993	1993	CD	FW
+travel-office	travel-office	NN	CW	NOUN	ARGUMENT
+staff	staff	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+sack	sack	NN	CW	NOUN	ARGUMENT
+magazine	magazine	NN	CW	NOUN	ARGUMENT
+editor	editor	NN	CW	NOUN	ARGUMENT
+michael	michael	NN	CW	NOUN	ARGUMENT
+kelly	kelly	RB	ADV	FW
+least	least	JJS	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+obsessive	obsessive	JJ	CW	ADJ
+term	term	NN	CW	NOUN	ARGUMENT
+attack	attack	NN	CW	NOUN	ARGUMENT
+character	character	NN	CW	NOUN	ARGUMENT
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+administration	administration	NN	CW	NOUN	ARGUMENT
+kelly	kelly	RB	ADV	FW
+
+sentence break
+
+6	6	CD	FW
+jordan	jordan	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+help	help	NN	CW	NOUN	ARGUMENT
+monica	monica	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+job	job	NN	CW	NOUN	ARGUMENT
+revlon	revlon	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+perjure	perjure	JJ	CW	ADJ
+request	request	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+construe	construe	VBP	CW	VERB
+bribe	bribe	NN	CW	NOUN	ARGUMENT
+facilitate	facilitate	VB	CW	VERB
+perjury	perjury	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lending	lend	VBG	CW	VERB
+credence	credence	NN	CW	NOUN	ARGUMENT
+lewinsky	lewinsky	NN	CW	NOUN	ARGUMENT
+charge	charge	NN	CW	NOUN	ARGUMENT
+treat	treat	NN	CW	NOUN	ARGUMENT
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+familiar	familiar	JJ	CW	ADJ
+defense	defense	NN	CW	NOUN	ARGUMENT
+lie	lie	NN	CW	NOUN	ARGUMENT
+half-ly	half-ly	RB	ADV	CW
+seem	seem	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+stephanopoulo	stephanopoulo	JJ	CW	ADJ
+show	show	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+fool	fool	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

@@ -1,0 +1,260 @@
+word	lemma	POS	CW\FW	other categories
+august	august	NNP	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+cruelest	cruelest	JJS	CW	ADJ
+month	month	NN	CW	NOUN	ARGUMENT
+reader	reader	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+york	york	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+op-ed	op-ed	JJ	CW	ADJ
+page	page	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+vacation	vacation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+listen	listen	VB	CW	VERB
+russell	russell	NN	CW	NOUN	ARGUMENT
+baker	baker	NN	CW	NOUN	ARGUMENT
+august	august	NNP	CW	NOUN	ARGUMENT
+19	19	CD	FW
+column	column	NN	CW	NOUN	ARGUMENT
+absolutely	absolutely	RB	ADV	CW
+nothing	nothing	NN	CW	NOUN	ARGUMENT
+save	save	VB	CW	VERB
+fact	fact	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+summered	summer	VBN	CW	VERB
+nantucket	nantucket	NN	CW	NOUN	ARGUMENT
+long	long	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+use	use	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+take	take	VB	CW	VERB
+ferry	ferry	NN	CW	NOUN	ARGUMENT
+nantucket	nantucket	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+really	really	RB	ADV	CW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+part	part	NN	CW	NOUN	ARGUMENT
+charm	charm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+baker	baker	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+complain	complain	VB	CW	VERB
+island	island	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+popularity	popularity	NN	CW	NOUN	ARGUMENT
+ostentatious	ostentatious	JJ	CW	ADJ
+display	display	NN	CW	NOUN	ARGUMENT
+wealth	wealth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+less	less	JJR	CW	ADJ
+fortunate	fortunate	JJ	CW	ADJ
+reader	reader	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+quite	quite	RB	ADV	FW
+share	share	NN	CW	NOUN	ARGUMENT
+baker	baker	NN	CW	NOUN	ARGUMENT
+indignation	indignation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+august	august	NNP	CW	NOUN	ARGUMENT
+27	27	CD	FW
+dateline	dateline	NN	CW	NOUN	ARGUMENT
+west	west	NN	CW	NOUN	ARGUMENT
+tisbury	tisbury	NN	CW	NOUN	ARGUMENT
+mass	mass	NN	CW	NOUN	ARGUMENT
+well-known	well-known	JJ	CW	ADJ
+news	news	NN	CW	NOUN	ARGUMENT
+hotspot	hotspot	NN	CW	NOUN	ARGUMENT
+ward	ward	VB	CW	VERB
+just	just	RB	ADV	CW
+take	take	VB	CW	VERB
+political	political	JJ	CW	ADJ
+pulse	pulse	NN	CW	NOUN	ARGUMENT
+find	find	VB	CW	VERB
+vineyarder	vineyarder	NN	CW	NOUN	ARGUMENT
+less	less	JJR	CW	ADJ
+excited	excited	JJ	CW	ADJ
+president	president	NN	CW	NOUN	ARGUMENT
+visit	visit	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+also	also	RB	ADV	CW
+describe	describe	VBP	CW	VERB
+detail	detail	NN	CW	NOUN	ARGUMENT
+moment	moment	NN	CW	NOUN	ARGUMENT
+island	island	NN	CW	NOUN	ARGUMENT
+milk	milk	NN	CW	NOUN	ARGUMENT
+meadow	meadow	NN	CW	NOUN	ARGUMENT
+golf	golf	NN	CW	NOUN	ARGUMENT
+course	course	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+same	same	JJ	CW	ADJ
+page	page	NN	CW	NOUN	ARGUMENT
+northeast	northeast	NN	CW	NOUN	ARGUMENT
+harbor	harbor	VBP	CW	VERB
+dateline	dateline	NN	CW	NOUN	ARGUMENT
+paul	paul	NN	CW	NOUN	ARGUMENT
+h	h	NN	CW	NOUN	ARGUMENT
+nitze	nitze	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+piece	piece	NN	CW	NOUN	ARGUMENT
+ostensibly	ostensibly	RB	ADV	FW
+industrial	industrial	JJ	CW	ADJ
+smog	smog	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lede	lede	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+past	past	IN	FW
+60	60	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+vacationed	vacation	VBN	CW	VERB
+maine	maine	NN	CW	NOUN	ARGUMENT
+summer	summer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+time	time	NN	CW	NOUN	ARGUMENT
+op-ed	op-ed	JJ	CW	ADJ
+page	page	NN	CW	NOUN	ARGUMENT
+turn	turn	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+subtle	subtle	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+taunting	taunt	VBG	CW	VERB
+work-bound	work-bound	JJ	CW	ADJ
+reader	reader	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+august	august	NNP	CW	NOUN	ARGUMENT
+24	24	CD	FW
+page	page	NN	CW	NOUN	ARGUMENT
+offer	offer	NN	CW	NOUN	ARGUMENT
+straight-ahead	straight-ahead	JJ	CW	ADJ
+piece	piece	NN	CW	NOUN	ARGUMENT
+up	up	IN	FW
+strike	strike	NN	CW	NOUN	ARGUMENT
+current	current	JJ	CW	ADJ
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+cosmos	cosmos	NNS	CW	NOUN	ARGUMENT
+dateline	dateline	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+east	east	JJ	CW	ADJ
+hampton	hampton	NN	CW	NOUN	ARGUMENT
+ny	ny	NN	CW	NOUN	ARGUMENT
+chilmark	chilmark	NN	CW	NOUN	ARGUMENT
+mass	mass	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+give	give	VB	CW	VERB
+page	page	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+publish	publish	VB	CW	VERB
+dateline	dateline	NN	CW	NOUN	ARGUMENT
+op-ed	op-ed	JJ	CW	ADJ
+reader	reader	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+sense	sense	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+mock	mock	JJ	CW	ADJ
+
+sentence break
+
+even	even	RB	ADV	CW
+piece	piece	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+carry	carry	VB	CW	VERB
+dateline	dateline	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+case	case	NN	CW	NOUN	ARGUMENT
+m	m	NN	CW	NOUN	ARGUMENT
+rosenthal	rosenthal	NN	CW	NOUN	ARGUMENT
+column	column	NN	CW	NOUN	ARGUMENT
+august	august	NNP	CW	NOUN	ARGUMENT
+12	12	CD	FW
+section	section	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+find	find	VB	CW	VERB
+way	way	NN	CW	NOUN	ARGUMENT
+scald	scald	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+straphange	straphange	JJ	CW	ADJ
+august	august	NNP	CW	NOUN	ARGUMENT
+heat	heat	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lovely	lovely	JJ	CW	ADJ
+day	day	NN	CW	NOUN	ARGUMENT
+shore	shore	NN	CW	NOUN	ARGUMENT
+warmed	warm	VBD	CW	VERB
+sun	sun	NN	CW	NOUN	ARGUMENT
+rosenthal	rosenthal	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+
+sentence break
+
+then	then	RB	ADV	CW
+jimmy	jimmy	NN	CW	NOUN	ARGUMENT
+carter	carter	JJ	CW	ADJ
+appear	appear	VBP	CW	VERB
+bring	bring	VB	CW	VERB
+shadow	shadow	NN	CW	NOUN	ARGUMENT
+travel	travel	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+
+sentence break
+
+jimmy	jimmy	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+just	just	RB	ADV	CW
+join	join	VB	CW	VERB
+abe	abe	NN	CW	NOUN	ARGUMENT
+beach	beach	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+39	39	CD	FW
+th	th	DT	FW
+president	president	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+reader	reader	NN	CW	NOUN	ARGUMENT
+i	i	FW	FW
+imagine	imagine	VBP	CW	VERB
+presence	presence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

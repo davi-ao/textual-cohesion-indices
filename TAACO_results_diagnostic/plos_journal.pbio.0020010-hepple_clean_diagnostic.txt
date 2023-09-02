@@ -1,0 +1,740 @@
+word	lemma	POS	CW\FW	other categories
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+successful	successful	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+founder	founder	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+intend	intend	VB	CW	VERB
+
+sentence break
+
+bill	bill	NN	CW	NOUN	ARGUMENT
+bowen	bowen	NN	CW	NOUN	ARGUMENT
+inspire	inspire	VB	CW	VERB
+vision	vision	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+solution	solution	NN	CW	NOUN	ARGUMENT
+library	library	NN	CW	NOUN	ARGUMENT
+ever-voracious	ever-voracious	JJ	CW	ADJ
+demand	demand	NN	CW	NOUN	ARGUMENT
+space	space	NN	CW	NOUN	ARGUMENT
+house	house	NN	CW	NOUN	ARGUMENT
+paper	paper	NN	CW	NOUN	ARGUMENT
+volumes	volume	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+idea	idea	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+library	library	NN	CW	NOUN	ARGUMENT
+save	save	IN	FW
+space	space	NN	CW	NOUN	ARGUMENT
+remove	remove	VB	CW	VERB
+volumes	volume	NNS	CW	NOUN	ARGUMENT
+available	available	JJ	CW	ADJ
+electronic	electronic	JJ	CW	ADJ
+format	format	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+few	few	JJ	CW	ADJ
+library	library	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+discard	discard	VB	CW	VERB
+volumes	volume	NNS	CW	NOUN	ARGUMENT
+digitised	digitise	VBN	CW	VERB
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+library	library	NN	CW	NOUN	ARGUMENT
+paper	paper	NN	CW	NOUN	ARGUMENT
+volumes	volume	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	CW	VERB
+able	able	JJ	CW	ADJ
+offer	offer	NN	CW	NOUN	ARGUMENT
+user	user	NN	CW	NOUN	ARGUMENT
+access	access	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+run	run	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+digitised	digitise	VBN	CW	VERB
+
+sentence break
+
+paper	paper	NN	CW	NOUN	ARGUMENT
+holding	holding	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+decrease	decrease	VB	CW	VERB
+dramatically	dramatically	RB	ADV	FW
+electronic	electronic	JJ	CW	ADJ
+holding	holding	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+increase	increase	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+space-saving	space-saving	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+access	access	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+access	access	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+creation	creation	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+understandable	understandable	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+page	page	NN	CW	NOUN	ARGUMENT
+image	image	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+be	be	VB	CW	VERB
+eight	eight	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+ago	ago	IN	FW
+future	future	JJ	CW	ADJ
+user-friendly	user-friendly	JJ	CW	ADJ
+access	access	NN	CW	NOUN	ARGUMENT
+require	require	VBP	CW	VERB
+search	search	NN	CW	NOUN	ARGUMENT
+capability	capability	NN	CW	NOUN	ARGUMENT
+full-text	full-text	JJ	CW	ADJ
+page	page	NN	CW	NOUN	ARGUMENT
+image	image	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+supply	supply	VB	CW	VERB
+
+sentence break
+
+likewise	likewise	RB	ADV	FW
+decision	decision	NN	CW	NOUN	ARGUMENT
+digitise	digitise	NN	CW	NOUN	ARGUMENT
+back-run	back-run	NN	CW	NOUN	ARGUMENT
+100	100	CD	FW
+now	now	RB	ADV	CW
+218	218	CD	FW
+paper	paper	NN	CW	NOUN	ARGUMENT
+journal	journal	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+bold	bold	JJ	CW	ADJ
+decision	decision	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+access	access	NN	CW	NOUN	ARGUMENT
+journal	journal	NN	CW	NOUN	ARGUMENT
+literature	literature	NN	CW	NOUN	ARGUMENT
+lie	lie	VBP	CW	VERB
+electronic	electronic	JJ	CW	ADJ
+version	version	NN	CW	NOUN	ARGUMENT
+thousand	thousand	CD	FW
+rather	rather	RB	ADV	FW
+hundred	hundred	CD	FW
+title	title	NN	CW	NOUN	ARGUMENT
+current	current	JJ	CW	ADJ
+retrospective	retrospective	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+reach	reach	VB	CW	VERB
+point	point	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+still	still	RB	ADV	CW
+have	have	VBP	CW	VERB
+value	value	NN	CW	NOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+content	content	NN	CW	NOUN	ARGUMENT
+offer	offer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+difficult	difficult	JJ	CW	ADJ
+see	see	VBP	CW	VERB
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+thousand	thousand	CD	FW
+rather	rather	RB	ADV	FW
+few	few	JJ	CW	ADJ
+hundred	hundred	CD	FW
+title	title	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+technical	technical	JJ	CW	ADJ
+solution	solution	NN	CW	NOUN	ARGUMENT
+financial	financial	JJ	CW	ADJ
+model	model	NN	CW	NOUN	ARGUMENT
+look	look	NN	CW	NOUN	ARGUMENT
+date	date	NN	CW	NOUN	ARGUMENT
+subscription-based	subscription-based	JJ	CW	ADJ
+open-access	open-access	NN	CW	NOUN	ARGUMENT
+publisher	publisher	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+service	service	NN	CW	NOUN	ARGUMENT
+author	author	NN	CW	NOUN	ARGUMENT
+reader	reader	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+number	number	NN	CW	NOUN	ARGUMENT
+journal	journal	NN	CW	NOUN	ARGUMENT
+article	article	NN	CW	NOUN	ARGUMENT
+accessible	accessible	JJ	CW	ADJ
+network	network	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+see	see	VB	CW	VERB
+small-scale	small-scale	JJ	CW	ADJ
+pioneer	pioneer	NN	CW	NOUN	ARGUMENT
+learn	learn	VBP	CW	VERB
+valuable	valuable	JJ	CW	ADJ
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+roger	roger	NN	CW	NOUN	ARGUMENT
+schonfeld	schonfeld	NN	CW	NOUN	ARGUMENT
+end	end	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+detailed	detailed	JJ	CW	ADJ
+description	description	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+chapter	chapter	NN	CW	NOUN	ARGUMENT
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+learned	learn	VBD	CW	VERB
+many	many	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+relevant	relevant	JJ	CW	ADJ
+current	current	JJ	CW	ADJ
+access	access	NN	CW	NOUN	ARGUMENT
+initiative	initiative	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+need	need	VB	CW	VERB
+grant	grant	NN	CW	NOUN	ARGUMENT
+funding	funding	NN	CW	NOUN	ARGUMENT
+launch	launch	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+initiative	initiative	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+accompany	accompany	VB	CW	VERB
+sound	sound	JJ	CW	ADJ
+business	business	NN	CW	NOUN	ARGUMENT
+plan	plan	NN	CW	NOUN	ARGUMENT
+ensure	ensure	VB	CW	VERB
+long-term	long-term	JJ	CW	ADJ
+economic	economic	JJ	CW	ADJ
+viability	viability	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+transition	transition	NN	CW	NOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+model	model	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+
+sentence break
+
+much	much	RB	ADV	CW
+credit	credit	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+enterprising	enterprising	JJ	CW	ADJ
+president	president	NN	CW	NOUN	ARGUMENT
+kevin	kevin	NN	CW	NOUN	ARGUMENT
+guthrie	guthrie	NN	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+quickest	quickest	JJS	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+maze	maze	NN	CW	NOUN	ARGUMENT
+conflicting	conflict	VBG	CW	VERB
+advice	advice	NN	CW	NOUN	ARGUMENT
+much	much	RB	ADV	CW
+have	have	VBP	CW	VERB
+result	result	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+reaching	reach	VBG	CW	VERB
+deadend	deadend	NN	CW	NOUN	ARGUMENT
+and	and	CC	FW
+convince	convince	VB	FW	aux_or_cop
+library	library	NN	CW	NOUN	ARGUMENT
+publishing	publishing	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+buy	buy	VB	CW	VERB
+product	product	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+promise	promise	VBP	CW	VERB
+
+sentence break
+
+meet	meet	VB	CW	VERB
+user	user	NN	CW	NOUN	ARGUMENT
+need	need	NN	CW	NOUN	ARGUMENT
+easy	easy	JJ	CW	ADJ
+access	access	NN	CW	NOUN	ARGUMENT
+high-quality	high-quality	JJ	CW	ADJ
+content	content	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+key	key	JJ	CW	ADJ
+fulfilment	fulfilment	NN	CW	NOUN	ARGUMENT
+promise	promise	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+public	public	JJ	CW	ADJ
+image	image	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+quality	quality	JJ	CW	ADJ
+depth	depth	NN	CW	NOUN	ARGUMENT
+long	long	JJ	CW	ADJ
+run	run	NN	CW	NOUN	ARGUMENT
+core	core	NN	CW	NOUN	ARGUMENT
+journals	journal	NNS	CW	NOUN	ARGUMENT
+and	and	CC	FW
+image	image	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+become	become	VBN	CW	VERB
+hallmark	hallmark	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+open-access	open-access	JJ	CW	ADJ
+initiative	initiative	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+understandable	understandable	JJ	CW	ADJ
+mistake	mistake	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+way	way	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+difficulty	difficulty	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+financial	financial	JJ	CW	ADJ
+planning	planning	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+come	come	VBN	CW	VERB
+term	term	NN	CW	NOUN	ARGUMENT
+consortial	consortial	JJ	CW	ADJ
+purchase	purchase	NN	CW	NOUN	ARGUMENT
+delay	delay	NN	CW	NOUN	ARGUMENT
+growth	growth	NN	CW	NOUN	ARGUMENT
+access	access	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sell	sell	VB	CW	VERB
+consortium	consortium	NN	CW	NOUN	ARGUMENT
+academic	academic	JJ	CW	ADJ
+library	library	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+have	have	VB	FW	aux_or_cop
+improve	improve	VB	CW	VERB
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+financial	financial	JJ	CW	ADJ
+position	position	NN	CW	NOUN	ARGUMENT
+short-term	short-term	JJ	CW	ADJ
+consortium	consortium	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+route	route	NN	CW	NOUN	ARGUMENT
+spread	spread	NN	CW	NOUN	ARGUMENT
+access	access	NN	CW	NOUN	ARGUMENT
+therefore	therefore	RB	ADV	FW
+secure	secure	JJ	CW	ADJ
+longer-term	longer-term	JJ	CW	ADJ
+financial	financial	JJ	CW	ADJ
+stability	stability	NN	CW	NOUN	ARGUMENT
+major	major	JJ	CW	ADJ
+publisher	publisher	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+realised	realise	VBN	CW	VERB
+big	big	JJ	CW	ADJ
+deal	deal	NN	CW	NOUN	ARGUMENT
+sell	sell	VB	CW	VERB
+hundred	hundred	CD	FW
+journal	journal	NN	CW	NOUN	ARGUMENT
+hundred	hundred	CD	FW
+library	library	NN	CW	NOUN	ARGUMENT
+consortium	consortium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+also	also	RB	ADV	CW
+delayed	delay	VBN	CW	VERB
+not	not	RB	ADV	CW
+lost	lose	VBN	CW	VERB
+through	through	IN	FW
+too	too	RB	ADV	CW
+slow	slow	JJ	CW	ADJ
+adaptation	adaptation	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+purchase	purchase	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+selling	sell	VBG	CW	VERB
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+kingdom	kingdom	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+exception	exception	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+uk	uk	NN	CW	NOUN	ARGUMENT
+deal	deal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+jisc	jisc	JJ	CW	ADJ
+joint	joint	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+committee	committee	NN	CW	NOUN	ARGUMENT
+uk	uk	NN	CW	NOUN	ARGUMENT
+higher	higher	JJR	CW	ADJ
+education	education	NN	CW	NOUN	ARGUMENT
+funding	funding	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+act	act	VBP	FW	aux_or_cop
+more	more	RBR	ADV	CW
+negotiate	negotiate	VB	CW	VERB
+agent	agent	NN	CW	NOUN	ARGUMENT
+consortium	consortium	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+apply	apply	VB	CW	VERB
+other	other	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+more	more	RBR	ADV	CW
+country	country	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+value	value	NN	CW	NOUN	ARGUMENT
+access	access	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+earlier	earlier	JJR	CW	ADJ
+approach	approach	NN	CW	NOUN	ARGUMENT
+non	non	JJ	CW	ADJ
+us	we	PRP	FW	PRONOUN	ARGUMENT
+deal	deal	VBP	FW	aux_or_cop
+have	have	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+imaginative	imaginative	JJ	CW	ADJ
+
+sentence break
+
+vendor	vendor	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+understanding	understand	VBG	CW	VERB
+political	political	JJ	CW	ADJ
+social	social	JJ	CW	ADJ
+economic	economic	JJ	CW	ADJ
+educational	educational	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+country	country	NN	CW	NOUN	ARGUMENT
+product	product	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+sell	sell	VB	CW	VERB
+understanding	understand	VBG	CW	VERB
+take	take	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+acquire	acquire	VB	CW	VERB
+pay	pay	NN	CW	NOUN	ARGUMENT
+dividend	dividend	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+open-access	open-access	NN	CW	NOUN	ARGUMENT
+publisher	publisher	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+have	have	VB	FW	aux_or_cop
+sell	sell	VB	CW	VERB
+product	product	NN	CW	NOUN	ARGUMENT
+user	user	NN	CW	NOUN	ARGUMENT
+journal	journal	NN	CW	NOUN	ARGUMENT
+local	local	JJ	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+essential	essential	JJ	CW	ADJ
+sell	sell	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+author	author	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+globalisation	globalisation	NN	CW	NOUN	ARGUMENT
+publishing	publishing	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+combine	combine	VBP	CW	VERB
+globalisation	globalisation	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+globalisation	globalisation	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+high-quality	high-quality	JJ	CW	ADJ
+research	research	NN	CW	NOUN	ARGUMENT
+conduct	conduct	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+america	america	JJ	CW	ADJ
+western	western	JJ	CW	ADJ
+europe	europe	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+publish	publish	VB	CW	VERB
+peer-reviewed	peer-reviewed	JJ	CW	ADJ
+open-access	open-access	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+readily	readily	RB	ADV	FW
+traditional	traditional	JJ	CW	ADJ
+subscription-based	subscription-based	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+roger	roger	NN	CW	NOUN	ARGUMENT
+schonfeld	schonfeld	NN	CW	NOUN	ARGUMENT
+book	book	NN	CW	NOUN	ARGUMENT
+draw	draw	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+significant	significant	JJ	CW	ADJ
+point	point	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+place	place	NN	CW	NOUN	ARGUMENT
+history	history	NN	CW	NOUN	ARGUMENT
+electronic	electronic	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+minute	minute	NN	CW	NOUN	ARGUMENT
+examination	examination	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+detail	detail	NN	CW	NOUN	ARGUMENT
+book	book	NN	CW	NOUN	ARGUMENT
+reader	reader	NN	CW	NOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+comprehensiveness	comprehensiveness	NN	CW	NOUN	ARGUMENT
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+question	question	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+small	small	JJ	CW	ADJ
+omission	omission	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+personal	personal	JJ	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+question	question	NN	CW	NOUN	ARGUMENT
+value	value	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+much	much	JJ	CW	ADJ
+detail	detail	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+omission	omission	NN	CW	NOUN	ARGUMENT
+concern	concern	NN	CW	NOUN	ARGUMENT
+interest	interest	NN	CW	NOUN	ARGUMENT
+institution	institution	NN	CW	NOUN	ARGUMENT
+university	university	NN	CW	NOUN	ARGUMENT
+college	college	NN	CW	NOUN	ARGUMENT
+london	london	NNP	CW	NOUN	ARGUMENT
+join	join	VB	CW	VERB
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+jisc	jisc	NN	CW	NOUN	ARGUMENT
+deal	deal	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+consider	consider	VB	CW	VERB
+
+sentence break
+
+not	not	RB	ADV	CW
+detail	detail	NN	CW	NOUN	ARGUMENT
+world-shattering	world-shattering	JJ	CW	ADJ
+significance	significance	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+illustrate	illustrate	VB	CW	VERB
+fact	fact	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+early	early	JJ	CW	ADJ
+interest	interest	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+come	come	VBP	CW	VERB
+individual	individual	JJ	CW	ADJ
+institution	institution	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+consortium	consortium	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+sympathise	sympathise	NN	CW	NOUN	ARGUMENT
+roger	roger	NN	CW	NOUN	ARGUMENT
+schonfeld	schonfeld	NN	CW	NOUN	ARGUMENT
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+write	write	VB	CW	VERB
+comprehensive	comprehensive	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+point	point	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+comprehensive	comprehensive	JJ	CW	ADJ
+comprehensiveness	comprehensiveness	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+impossible	impossible	JJ	CW	ADJ
+goal	goal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+briefer	briefer	JJR	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+just	just	RB	ADV	CW
+valuable	valuable	JJ	CW	ADJ
+
+sentence break
+
+leave	leave	VB	CW	VERB
+aside	aside	RB	ADV	FW
+quibble	quibble	JJ	CW	ADJ
+caveat	caveat	NN	CW	NOUN	ARGUMENT
+book	book	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+fascinating	fascinating	JJ	CW	ADJ
+instructive	instructive	JJ	CW	ADJ
+history	history	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+ground-breaking	ground-breaking	JJ	CW	ADJ
+initiative	initiative	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bill	bill	NN	CW	NOUN	ARGUMENT
+bowen	bowen	NN	CW	NOUN	ARGUMENT
+vision	vision	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+have	have	VB	FW	aux_or_cop
+develop	develop	VB	CW	VERB
+quite	quite	RB	ADV	FW
+way	way	NN	CW	NOUN	ARGUMENT
+expect	expect	VBP	CW	VERB
+bottom-line	bottom-line	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+vision	vision	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+become	become	VB	CW	VERB
+successful	successful	JJ	CW	ADJ
+reality	reality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+problem	problem	NN	CW	NOUN	ARGUMENT
+ever-expanding	ever-expanding	JJ	CW	ADJ
+library	library	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+go	go	VB	CW	VERB
+away	away	RB	ADV	CW
+ten	ten	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+jstor	jstor	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+conceive	conceive	VB	CW	VERB
+ultimate	ultimate	JJ	CW	ADJ
+solution	solution	NN	CW	NOUN	ARGUMENT
+the	the	DT	FW
+availability	availability	NN	CW	NOUN	ARGUMENT
+electronic	electronic	JJ	CW	ADJ
+content	content	NN	CW	NOUN	ARGUMENT
+has	have	VBZ	FW	aux_or_cop
+become	become	VBN	CW	VERB
+closer	closer	RBR	ADV	CW
+jstor	jstor	JJ	CW	ADJ
+success	success	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+encourage	encourage	VB	CW	VERB
+other	other	JJ	CW	ADJ
+develop	develop	VB	CW	VERB
+service	service	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+accord	accord	NN	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+1993	1993	CD	FW
+
+sentence break
+
+one	one	CD	FW
+lesson	lesson	NN	CW	NOUN	ARGUMENT
+roger	roger	NN	CW	NOUN	ARGUMENT
+schonfeld	schonfeld	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+draw	draw	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+pace	pace	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+electronic	electronic	JJ	CW	ADJ
+publishing	publishing	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+much	much	RB	ADV	CW
+have	have	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+achieve	achieve	VB	CW	VERB
+1993	1993	CD	FW
+promise	promise	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hold	hold	VB	CW	VERB
+next	next	JJ	CW	ADJ
+ten	ten	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

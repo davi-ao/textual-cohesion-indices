@@ -1,0 +1,4313 @@
+word	lemma	POS	CW\FW	other categories
+abnormal	abnormal	JJ	CW	ADJ
+anterior	anterior	JJ	CW	ADJ
+segment	segment	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+often	often	RB	ADV	FW
+associate	associate	JJ	CW	ADJ
+elevate	elevate	VBP	CW	VERB
+intraocular	intraocular	JJ	CW	ADJ
+pressure	pressure	NN	CW	NOUN	ARGUMENT
+iop	iop	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+risk	risk	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+blind	blind	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+glaucoma	glaucoma	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+
+sentence break
+
+anterior	anterior	JJ	CW	ADJ
+segment	segment	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fill	fill	NN	CW	NOUN	ARGUMENT
+clear	clear	JJ	CW	ADJ
+fluid	fluid	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+aqueous	aqueous	JJ	CW	ADJ
+humor	humor	NN	CW	NOUN	ARGUMENT
+aqueous	aqueous	JJ	CW	ADJ
+
+sentence break
+
+maintenance	maintenance	NN	CW	NOUN	ARGUMENT
+iop	iop	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+dependent	dependent	JJ	CW	ADJ
+balance	balance	NN	CW	NOUN	ARGUMENT
+aqueous	aqueous	JJ	CW	ADJ
+formation	formation	NN	CW	NOUN	ARGUMENT
+aqueous	aqueous	JJ	CW	ADJ
+outflow	outflow	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+primary	primary	JJ	CW	ADJ
+source	source	NN	CW	NOUN	ARGUMENT
+aqueous	aqueous	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+blood	blood	NN	CW	NOUN	ARGUMENT
+flow	flow	NN	CW	NOUN	ARGUMENT
+artery	artery	NN	CW	NOUN	ARGUMENT
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+
+sentence break
+
+aqueous	aqueous	JJ	CW	ADJ
+be	be	VB	CW	VERB
+secreted	secrete	VBN	CW	VERB
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+posterior	posterior	JJ	CW	ADJ
+chamber	chamber	NN	CW	NOUN	ARGUMENT
+iris	iri	VBZ	CW	VERB
+lens	lens	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+then	then	RB	ADV	CW
+flow	flow	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+chamber	chamber	NN	CW	NOUN	ARGUMENT
+space	space	NN	CW	NOUN	ARGUMENT
+cornea	cornea	NN	CW	NOUN	ARGUMENT
+iris	iris	NNS	CW	NOUN	ARGUMENT
+drain	drain	VBP	CW	VERB
+eye	eye	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+junction	junction	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+
+sentence break
+
+iridocorneal	iridocorneal	JJ	CW	ADJ
+junction	junction	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+locate	locate	VB	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+aqueous	aqueous	JJ	CW	ADJ
+fill	fill	NN	CW	NOUN	ARGUMENT
+angular	angular	JJ	CW	ADJ
+recess	recess	NN	CW	NOUN	ARGUMENT
+iris	iri	VBZ	CW	VERB
+root	root	NN	CW	NOUN	ARGUMENT
+cornea	cornea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+drainage	drainage	NN	CW	NOUN	ARGUMENT
+route	route	NN	CW	NOUN	ARGUMENT
+consist	consist	VBP	CW	VERB
+trabecular	trabecular	JJ	CW	ADJ
+meshwork	meshwork	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+connective	connective	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+cover	cover	NN	CW	NOUN	ARGUMENT
+endothelial	endothelial	JJ	CW	ADJ
+trabecular	trabecular	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+schlemm	schlemm	NN	CW	NOUN	ARGUMENT
+canal	canal	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+aqueous	aqueous	JJ	CW	ADJ
+percolate	percolate	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+intertrabecular	intertrabecular	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+enter	enter	VBP	CW	VERB
+sc	sc	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fluid	fluid	NN	CW	NOUN	ARGUMENT
+collect	collect	VB	CW	VERB
+sc	sc	NN	CW	NOUN	ARGUMENT
+drain	drain	NN	CW	NOUN	ARGUMENT
+aqueous	aqueous	JJ	CW	ADJ
+vein	vein	NN	CW	NOUN	ARGUMENT
+connect	connect	VB	CW	VERB
+canal	canal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+route	route	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+generally	generally	RB	ADV	CW
+accept	accept	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+major	major	JJ	CW	ADJ
+drainage	drainage	NN	CW	NOUN	ARGUMENT
+pathway	pathway	NN	CW	NOUN	ARGUMENT
+aqueous	aqueous	JJ	CW	ADJ
+3	3	CD	FW
+
+sentence break
+
+egress	egress	NN	CW	NOUN	ARGUMENT
+loose	loose	JJ	CW	ADJ
+connective	connective	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+meshwork	meshwork	NN	CW	NOUN	ARGUMENT
+blood	blood	NN	CW	NOUN	ARGUMENT
+vessel	vessel	NN	CW	NOUN	ARGUMENT
+uvea	uvea	NN	CW	NOUN	ARGUMENT
+choroid	choroid	NN	CW	NOUN	ARGUMENT
+iris	iri	VBZ	CW	VERB
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+outer	outer	JJ	CW	ADJ
+wall	wall	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+sclera	sclera	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+contribute	contribute	VBP	CW	VERB
+aqueous	aqueous	JJ	CW	ADJ
+drainage	drainage	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+4	4	CD	FW
+
+sentence break
+
+primary	primary	JJ	CW	ADJ
+access	access	NN	CW	NOUN	ARGUMENT
+aqueous	aqueous	JJ	CW	ADJ
+uveoscleral	uveoscleral	JJ	CW	ADJ
+route	route	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+likely	likely	RB	ADV	CW
+deep	deep	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+recess	recess	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+junction	junction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+resistance	resistance	NN	CW	NOUN	ARGUMENT
+aqueous	aqueous	JJ	CW	ADJ
+flow	flow	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+likely	likely	JJ	CW	ADJ
+uvea	uvea	NN	CW	NOUN	ARGUMENT
+sclera	sclera	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+determinant	determinant	NN	CW	NOUN	ARGUMENT
+rate	rate	NN	CW	NOUN	ARGUMENT
+aqueous	aqueous	JJ	CW	ADJ
+outflow	outflow	NN	CW	NOUN	ARGUMENT
+iop	iop	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+molecular	molecular	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+responsible	responsible	JJ	CW	ADJ
+normal	normal	JJ	CW	ADJ
+abnormal	abnormal	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+resistance	resistance	NN	CW	NOUN	ARGUMENT
+aqueous	aqueous	JJ	CW	ADJ
+drainage	drainage	NN	CW	NOUN	ARGUMENT
+glaucoma	glaucoma	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+not	not	RB	ADV	CW
+well	well	RB	ADV	CW
+define	define	VB	CW	VERB
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+proliferation	proliferation	NN	CW	NOUN	ARGUMENT
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+ocular	ocular	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+periocular	periocular	JJ	CW	ADJ
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+migrate	migrate	VB	CW	VERB
+develop	develop	VB	CW	VERB
+eye	eye	NN	CW	NOUN	ARGUMENT
+differentiate	differentiate	VBP	CW	VERB
+various	various	JJ	CW	ADJ
+anterior	anterior	JJ	CW	ADJ
+segment	segment	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+component	component	NN	CW	NOUN	ARGUMENT
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+iris	iris	NN	CW	NOUN	ARGUMENT
+stroma	stroma	NN	CW	NOUN	ARGUMENT
+corneal	corneal	NN	CW	NOUN	ARGUMENT
+endothelium	endothelium	NN	CW	NOUN	ARGUMENT
+corneal	corneal	NN	CW	NOUN	ARGUMENT
+stroma	stroma	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+origin	origin	NN	CW	NOUN	ARGUMENT
+periocular	periocular	JJ	CW	ADJ
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+originally	originally	RB	ADV	CW
+suggest	suggest	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+paraxial	paraxial	JJ	CW	ADJ
+mesoderm	mesoderm	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+
+sentence break
+
+later	later	RB	ADV	CW
+fate	fate	NN	CW	NOUN	ARGUMENT
+mapping	mapping	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+use	use	VBP	CW	VERB
+quail-chick	quail-chick	JJ	CW	ADJ
+chimera	chimera	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+extensive	extensive	JJ	CW	ADJ
+cranial	cranial	JJ	CW	ADJ
+neural	neural	JJ	CW	ADJ
+crest	crest	NN	CW	NOUN	ARGUMENT
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+7	7	CD	FW
+
+sentence break
+
+base	base	NN	CW	NOUN	ARGUMENT
+avian	avian	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+mammalian	mammalian	JJ	CW	ADJ
+periocular	periocular	JJ	CW	ADJ
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+generally	generally	RB	ADV	CW
+accept	accept	VB	CW	VERB
+neural	neural	JJ	CW	ADJ
+crest	crest	NN	CW	NOUN	ARGUMENT
+derive	derive	VBP	CW	VERB
+8	8	CD	FW
+9	9	CD	FW
+
+sentence break
+
+recent	recent	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+graft	graft	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+label	label	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+craniofacial	craniofacial	JJ	CW	ADJ
+morphogenesis	morphogenesis	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+confirm	confirm	VBP	CW	VERB
+neural	neural	JJ	CW	ADJ
+crest	crest	NN	CW	NOUN	ARGUMENT
+derivation	derivation	NN	CW	NOUN	ARGUMENT
+mammalian	mammalian	JJ	CW	ADJ
+periocular	periocular	JJ	CW	ADJ
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+additionally	additionally	RB	ADV	CW
+however	however	RB	ADV	FW
+demonstrate	demonstrate	VBP	CW	VERB
+presence	presence	NN	CW	NOUN	ARGUMENT
+cranial	cranial	JJ	CW	ADJ
+paraxial	paraxial	JJ	CW	ADJ
+mesoderm-derived	mesoderm-derived	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+aberration	aberration	NN	CW	NOUN	ARGUMENT
+neural	neural	JJ	CW	ADJ
+crest	crest	NN	CW	NOUN	ARGUMENT
+mesoderm	mesoderm	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+anterior	anterior	JJ	CW	ADJ
+segment	segment	NN	CW	NOUN	ARGUMENT
+dysgenesis	dysgenesis	NN	CW	NOUN	ARGUMENT
+glaucoma	glaucoma	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+migrate	migrate	VB	CW	VERB
+mesenchymal	mesenchymal	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+reach	reach	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+margin	margin	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+optic	optic	JJ	CW	ADJ
+cup	cup	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+initially	initially	RB	ADV	CW
+occupy	occupy	VBP	CW	VERB
+densely	densely	RB	ADV	CW
+pack	pack	NN	CW	NOUN	ARGUMENT
+mass	mass	NN	CW	NOUN	ARGUMENT
+mesenchymal	mesenchymal	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+tm	tm	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+proceed	proceed	VB	CW	VERB
+cellular	cellular	JJ	CW	ADJ
+mass	mass	NN	CW	NOUN	ARGUMENT
+differentiate	differentiate	VBP	CW	VERB
+organize	organize	VB	CW	VERB
+develop	develop	VB	CW	VERB
+channel	channel	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	CW	VERB
+mature	mature	JJ	CW	ADJ
+meshwork	meshwork	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+develop	develop	VB	CW	VERB
+tm	tm	NN	CW	NOUN	ARGUMENT
+iris	iris	NN	CW	NOUN	ARGUMENT
+separate	separate	JJ	CW	ADJ
+form	form	NN	CW	NOUN	ARGUMENT
+deep	deep	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+recess	recess	NN	CW	NOUN	ARGUMENT
+aqueous	aqueous	JJ	CW	ADJ
+pass	pass	NN	CW	NOUN	ARGUMENT
+access	access	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mature	mature	JJ	CW	ADJ
+meshwork	meshwork	NN	CW	NOUN	ARGUMENT
+consist	consist	VBP	CW	VERB
+trabecular	trabecular	JJ	CW	ADJ
+beam	beam	NN	CW	NOUN	ARGUMENT
+separate	separate	JJ	CW	ADJ
+intertrabecular	intertrabecular	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+aqueous	aqueous	JJ	CW	ADJ
+percolate	percolate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+trabecular	trabecular	JJ	CW	ADJ
+beam	beam	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+cover	cover	NN	CW	NOUN	ARGUMENT
+surface	surface	NN	CW	NOUN	ARGUMENT
+endothelial-like	endothelial-like	JJ	CW	ADJ
+trabecular	trabecular	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+core	core	NN	CW	NOUN	ARGUMENT
+beam	beam	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+compose	compose	VB	CW	VERB
+extracellular	extracellular	JJ	CW	ADJ
+matrix	matrix	NN	CW	NOUN	ARGUMENT
+component	component	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+collagen	collagen	NN	CW	NOUN	ARGUMENT
+elastic	elastic	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+
+sentence break
+
+complex	complex	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+space	space	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+initially	initially	RB	ADV	CW
+continuous	continuous	JJ	CW	ADJ
+cellular	cellular	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+clear	clear	JJ	CW	ADJ
+
+sentence break
+
+several	several	JJ	CW	ADJ
+theory	theory	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+attempt	attempt	NN	CW	NOUN	ARGUMENT
+explain	explain	VBP	FW	aux_or_cop
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+morphogenesis	morphogenesis	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+12	12	CD	FW
+13	13	CD	FW
+14	14	CD	FW
+15	15	CD	FW
+16	16	CD	FW
+17	17	CD	FW
+
+sentence break
+
+theory	theory	NN	CW	NOUN	ARGUMENT
+propose	propose	VBP	CW	VERB
+atrophy	atrophy	NN	CW	NOUN	ARGUMENT
+resorption	resorption	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+progress	progress	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+structure	structure	NN	CW	NOUN	ARGUMENT
+space	space	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+aqueous	aqueous	JJ	CW	ADJ
+drainage	drainage	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+propose	propose	VBP	CW	VERB
+reorganization	reorganization	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+atrophy	atrophy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+atrophy	atrophy	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+tm	tm	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+controversial	controversial	JJ	CW	ADJ
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+prominent	prominent	JJ	CW	ADJ
+rat	rat	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+monkey	monkey	NN	CW	NOUN	ARGUMENT
+human	human	JJ	CW	ADJ
+dog	dog	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+17	17	CD	FW
+18	18	CD	FW
+19	19	CD	FW
+20	20	CD	FW
+21	21	CD	FW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+clear	clear	JJ	CW	ADJ
+different	different	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+rodent	rodent	JJ	CW	ADJ
+compare	compare	VB	CW	VERB
+other	other	JJ	CW	ADJ
+species	species	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+something	something	NN	CW	NOUN	ARGUMENT
+unusual	unusual	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+species	species	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+detect	detect	VB	CW	VERB
+due	due	JJ	CW	ADJ	SUBORDINATOR
+inadequate	inadequate	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+sample	sample	NN	CW	NOUN	ARGUMENT
+stage	stage	NN	CW	NOUN	ARGUMENT
+analyze	analyze	VBP	CW	VERB
+
+sentence break
+
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+represent	represent	VBP	CW	VERB
+important	important	JJ	CW	ADJ
+experimental	experimental	JJ	CW	ADJ
+model	model	NN	CW	NOUN	ARGUMENT
+understanding	understanding	NN	CW	NOUN	ARGUMENT
+mammalian	mammalian	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+disease	disease	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+abnormality	abnormality	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+study	study	NN	CW	NOUN	ARGUMENT
+mammalian	mammalian	JJ	CW	ADJ
+species	species	NNS	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+incomplete	incomplete	JJ	CW	ADJ
+birth	birth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+various	various	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+characterize	characterize	VBP	CW	VERB
+detail	detail	NN	CW	NOUN	ARGUMENT
+prenatal	prenatal	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+very	very	RB	ADV	CW
+little	little	JJ	CW	ADJ
+publish	publish	VB	CW	VERB
+normal	normal	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+postnatal	postnatal	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+22	22	CD	FW
+23	23	CD	FW
+24	24	CD	FW
+25	25	CD	FW
+26	26	CD	FW
+27	27	CD	FW
+
+sentence break
+
+aim	aim	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+determine	determine	VBN	CW	VERB
+developmental	developmental	JJ	CW	ADJ
+profile	profile	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+mature	mature	JJ	CW	ADJ
+form	form	NN	CW	NOUN	ARGUMENT
+assess	assess	VB	CW	VERB
+role	role	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+recess	recess	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+present	present	JJ	CW	ADJ
+light	light	JJ	CW	ADJ
+electron	electron	NN	CW	NOUN	ARGUMENT
+microscopic	microscopic	JJ	CW	ADJ
+em	em	NN	CW	NOUN	ARGUMENT
+evaluation	evaluation	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+stage	stage	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+eight	eight	CD	FW
+postnatal	postnatal	JJ	CW	ADJ
+week	week	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+reach	reach	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+maturity	maturity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+human	human	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+similar	similar	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+developmental	developmental	JJ	CW	ADJ
+progression	progression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+similar	similar	JJ	CW	ADJ
+accelerate	accelerate	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+frame	frame	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+extensive	extensive	JJ	CW	ADJ
+use	use	NN	CW	NOUN	ARGUMENT
+light	light	NN	CW	NOUN	ARGUMENT
+microscopy	microscopy	NN	CW	NOUN	ARGUMENT
+em	em	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+assay	assay	NN	CW	NOUN	ARGUMENT
+section	section	NN	CW	NOUN	ARGUMENT
+span	span	NN	CW	NOUN	ARGUMENT
+complete	complete	JJ	CW	ADJ
+eye	eye	NN	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+identify	identify	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+various	various	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+substantiate	substantiate	VBP	CW	VERB
+model	model	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+mesenchymal	mesenchymal	JJ	CW	ADJ
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+modeling	modeling	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+organization	organization	NN	CW	NOUN	ARGUMENT
+cellular	cellular	JJ	CW	ADJ
+extracellular	extracellular	JJ	CW	ADJ
+matrix	matrix	NN	CW	NOUN	ARGUMENT
+component	component	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+atrophy	atrophy	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+conservation	conservation	NN	CW	NOUN	ARGUMENT
+developmental	developmental	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+non-rodent	non-rodent	JJ	CW	ADJ
+mammal	mammal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+study	study	NN	CW	NOUN	ARGUMENT
+prenatal	prenatal	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+57	57	CD	FW
+bl	bl	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+j	j	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+essentially	essentially	RB	ADV	CW
+agree	agree	VBP	CW	VERB
+publish	publish	VB	CW	VERB
+report	report	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+ocular	ocular	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+24	24	CD	FW
+ha	ha	FW	FW
+1	1	CD	FW
+cr	cr	NN	CW	NOUN	ARGUMENT
+22	22	CD	FW
+
+sentence break
+
+due	due	JJ	CW	ADJ
+previous	previous	JJ	CW	ADJ
+report	report	NN	CW	NOUN	ARGUMENT
+focus	focus	NN	CW	NOUN	ARGUMENT
+formation	formation	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+afor	afor	NN	CW	NOUN	ARGUMENT
+location	location	NN	CW	NOUN	ARGUMENT
+brief	brief	JJ	CW	ADJ
+mention	mention	NN	CW	NOUN	ARGUMENT
+adjacent	adjacent	JJ	CW	ADJ
+iris	iris	NNS	CW	NOUN	ARGUMENT
+cornea	cornea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+invagination	invagination	NN	CW	NOUN	ARGUMENT
+optic	optic	JJ	CW	ADJ
+vesicle	vesicle	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+optic	optic	JJ	CW	ADJ
+cup	cup	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+10	10	CD	FW
+lens	lens	NN	CW	NOUN	ARGUMENT
+vesicle	vesicle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+develop	develop	VB	CW	VERB
+22	22	CD	FW
+
+sentence break
+
+shortly	shortly	RB	ADV	CW
+stalk	stalk	VBP	CW	VERB
+lens	lens	NN	CW	NOUN	ARGUMENT
+vesicle	vesicle	NN	CW	NOUN	ARGUMENT
+disappear	disappear	VBP	CW	VERB
+10	10	CD	FW
+few	few	JJ	CW	ADJ
+undifferentiated	undifferentiated	JJ	CW	ADJ
+mesenchymal	mesenchymal	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+adjacent	adjacent	JJ	CW	ADJ
+anterior	anterior	JJ	CW	ADJ
+margin	margin	NN	CW	NOUN	ARGUMENT
+optic	optic	JJ	CW	ADJ
+cup	cup	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+prominent	prominent	JJ	CW	ADJ
+11	11	CD	FW
+be	be	VB	FW	aux_or_cop
+associate	associate	JJ	CW	ADJ
+blood	blood	NN	CW	NOUN	ARGUMENT
+vessel	vessel	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+source	source	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+vascular	vascular	JJ	CW	ADJ
+tunic	tunic	NN	CW	NOUN	ARGUMENT
+lens	lens	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+contribute	contribute	VB	CW	VERB
+future	future	JJ	CW	ADJ
+vascular	vascular	JJ	CW	ADJ
+supply	supply	NN	CW	NOUN	ARGUMENT
+iris	iri	VBZ	CW	VERB
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+time	time	NN	CW	NOUN	ARGUMENT
+progenitor	progenitor	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+corneal	corneal	NN	CW	NOUN	ARGUMENT
+stroma	stroma	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+migrated	migrate	VBN	CW	VERB
+develop	develop	VBP	CW	VERB
+cornea	cornea	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+
+sentence break
+
+14	14	CD	FW
+anterior	anterior	JJ	CW	ADJ
+margin	margin	NN	CW	NOUN	ARGUMENT
+optic	optic	JJ	CW	ADJ
+cup	cup	NN	CW	NOUN	ARGUMENT
+ultimately	ultimately	RB	ADV	CW
+form	form	VBP	CW	VERB
+iris	iris	NN	CW	NOUN	ARGUMENT
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+start	start	NN	CW	NOUN	ARGUMENT
+advance	advance	NN	CW	NOUN	ARGUMENT
+indicate	indicate	VBP	CW	VERB
+anterior	anterior	JJ	CW	ADJ
+uvea	uvea	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+start	start	VB	CW	VERB
+form	form	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+produce	produce	VBP	CW	VERB
+loosely	loosely	RB	ADV	CW
+arrange	arrange	VB	CW	VERB
+cluster	cluster	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+several	several	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+thick	thick	JJ	CW	ADJ
+extend	extend	VBP	CW	VERB
+anterior	anterior	JJ	CW	ADJ
+edge	edge	NN	CW	NOUN	ARGUMENT
+optic	optic	JJ	CW	ADJ
+cup	cup	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+termination	termination	NN	CW	NOUN	ARGUMENT
+retina	retina	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+characterize	characterize	VBP	CW	VERB
+plump	plump	JJ	CW	ADJ
+oval	oval	JJ	CW	ADJ
+nucleus	nucleus	NN	CW	NOUN	ARGUMENT
+multiple	multiple	JJ	CW	ADJ
+nucleolus	nucleolus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+clear	clear	JJ	CW	ADJ
+division	division	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+posterior	posterior	NN	CW	NOUN	ARGUMENT
+corneal	corneal	NN	CW	NOUN	ARGUMENT
+surface	surface	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+undifferentiated	undifferentiated	JJ	CW	ADJ
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+c.	c.	NN	CW	NOUN	ARGUMENT
+16	16	CD	FW
+anterior	anterior	JJ	CW	ADJ
+margin	margin	NN	CW	NOUN	ARGUMENT
+optic	optic	JJ	CW	ADJ
+cup	cup	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+extend	extend	VB	CW	VERB
+more	more	JJR	CW	ADJ
+anteriorly	anteriorly	JJ	CW	ADJ
+obvious	obvious	JJ	CW	ADJ
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+iris	iri	VBZ	CW	VERB
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+occur	occur	VBP	CW	VERB
+
+sentence break
+
+angle	angle	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+densely	densely	RB	ADV	CW
+pack	pack	VB	CW	VERB
+continuous	continuous	JJ	CW	ADJ
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+extend	extend	VBP	CW	VERB
+primitive	primitive	JJ	CW	ADJ
+iris	iris	NNS	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+iris	iris	NN	CW	NOUN	ARGUMENT
+stroma	stroma	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+d.	d.	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+clear	clear	JJ	CW	ADJ
+separation	separation	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+iris	iris	JJ	CW	ADJ
+cornea	cornea	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+appearance	appearance	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+recess	recess	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+d.	d.	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+obvious	obvious	JJ	CW	ADJ
+difference	difference	NN	CW	NOUN	ARGUMENT
+16	16	CD	FW
+18	18	CD	FW
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+start	start	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW
+previously	previously	RB	ADV	CW
+report	report	NN	CW	NOUN	ARGUMENT
+22	22	CD	FW
+
+sentence break
+
+birth	birth	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+19	19	CD	FW
+
+sentence break
+
+dpc	dpc	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+even	even	RB	ADV	CW
+more	more	RBR	ADV	CW
+densely	densely	RB	ADV	CW
+pack	pack	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+nucleus	nucleus	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+elongated	elongate	VBN	CW	VERB
+less	less	JJR	CW	ADJ
+rounded	round	VBD	CW	VERB
+earlier	earlier	JJR	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+e.	e.	NN	CW	NOUN	ARGUMENT
+iris	iris	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+more	more	RBR	ADV	CW
+differentiated	differentiate	VBN	CW	VERB
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+fact	fact	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+destine	destine	NN	CW	NOUN	ARGUMENT
+form	form	NN	CW	NOUN	ARGUMENT
+stroma	stroma	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+start	start	NN	CW	NOUN	ARGUMENT
+synthesize	synthesize	VBP	CW	VERB
+pigment	pigment	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+therefore	therefore	RB	ADV	FW
+distinguishable	distinguishable	JJ	CW	ADJ
+future	future	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+iris	iris	NN	CW	NOUN	ARGUMENT
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+separate	separate	JJ	CW	ADJ
+ciliary	ciliary	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+form	form	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+e.	e.	NN	CW	NOUN	ARGUMENT
+specialized	specialize	VBN	CW	VERB
+basal	basal	JJ	CW	ADJ
+lamina	lamina	NN	CW	NOUN	ARGUMENT
+corneal	corneal	NN	CW	NOUN	ARGUMENT
+endothelium	endothelium	NN	CW	NOUN	ARGUMENT
+descemet	descemet	NN	CW	NOUN	ARGUMENT
+membrane	membrane	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+first	first	RB	ADV	CW
+evident	evident	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+
+sentence break
+
+p	p	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+iris	iri	VBZ	CW	VERB
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+well	well	RB	ADV	CW
+develop	develop	VB	CW	VERB
+
+sentence break
+
+pigmented	pigmented	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+blood	blood	NN	CW	NOUN	ARGUMENT
+vessel	vessel	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+clearly	clearly	RB	ADV	CW
+evident	evident	JJ	CW	ADJ
+iris	iris	NN	CW	NOUN	ARGUMENT
+stroma	stroma	NN	CW	NOUN	ARGUMENT
+ciliary	ciliary	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+elongated	elongate	VBN	CW	VERB
+more	more	RBR	ADV	CW
+numerous	numerous	JJ	CW	ADJ
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+f.	f.	JJ	CW	ADJ
+future	future	NN	CW	NOUN	ARGUMENT
+location	location	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+clearly	clearly	RB	ADV	CW
+indicate	indicate	VBP	CW	VERB
+aggregation	aggregation	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+densely	densely	RB	ADV	CW
+stained	stain	VBD	CW	VERB
+plump	plump	JJ	CW	ADJ
+fusiform	fusiform	NN	CW	NOUN	ARGUMENT
+nucleus	nucleus	NN	CW	NOUN	ARGUMENT
+separated	separated	JJ	CW	ADJ
+develop	develop	VB	CW	VERB
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+cornea	cornea	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+f.	f.	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+extend	extend	VBP	CW	VERB
+termination	termination	NN	CW	NOUN	ARGUMENT
+descemet	descemet	JJ	CW	ADJ
+membrane	membrane	NN	CW	NOUN	ARGUMENT
+posterior	posterior	JJ	CW	ADJ
+termination	termination	NN	CW	NOUN	ARGUMENT
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+less	less	JJR	CW	ADJ
+densely	densely	RB	ADV	CW
+pack	pack	NN	CW	NOUN	ARGUMENT
+earlier	earlier	JJR	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+g.	g.	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+definitively	definitively	RB	ADV	CW
+identify	identify	VB	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+section	section	NN	CW	NOUN	ARGUMENT
+location	location	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+appear	appear	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+small	small	JJ	CW	ADJ
+vascular	vascular	JJ	CW	ADJ
+channel	channel	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+develop	develop	VB	CW	VERB
+tm	tm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ciliary	ciliary	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+iris	iris	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+apparently	apparently	RB	ADV	CW
+mature	mature	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+age	age	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+future	future	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+begin	begin	VB	CW	VERB
+separate	separate	JJ	CW	ADJ
+posterior	posterior	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	FW	aux_or_cop
+closely	closely	RB	ADV	CW
+pack	pack	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+h.	h.	NN	CW	NOUN	ARGUMENT
+first	first	JJ	CW	ADJ
+clear	clear	JJ	CW	ADJ
+indication	indication	NN	CW	NOUN	ARGUMENT
+schlemm	schlemm	NN	CW	NOUN	ARGUMENT
+canal	canal	NN	CW	NOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+develop	develop	VB	CW	VERB
+tm	tm	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+observe	observe	VB	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+multiple	multiple	JJ	CW	ADJ
+small	small	JJ	CW	ADJ
+endothelial-lined	endothelial-lined	JJ	CW	ADJ
+channel	channel	NN	CW	NOUN	ARGUMENT
+locate	locate	VBP	CW	VERB
+inner	inner	JJ	CW	ADJ
+sclera	sclera	NN	CW	NOUN	ARGUMENT
+posterior	posterior	NN	CW	NOUN	ARGUMENT
+aspect	aspect	NN	CW	NOUN	ARGUMENT
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+best	best	RB	ADV	CW
+see	see	VB	CW	VERB
+use	use	NN	CW	NOUN	ARGUMENT
+transmission	transmission	NN	CW	NOUN	ARGUMENT
+em	em	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+
+sentence break
+
+presence	presence	NN	CW	NOUN	ARGUMENT
+absence	absence	NN	CW	NOUN	ARGUMENT
+endothelial	endothelial	JJ	CW	ADJ
+channel	channel	NN	CW	NOUN	ARGUMENT
+location	location	NN	CW	NOUN	ARGUMENT
+vary	vary	VBP	CW	VERB
+ocular	ocular	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+anterior	anterior	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+start	start	NN	CW	NOUN	ARGUMENT
+separate	separate	JJ	CW	ADJ
+focally	focally	RB	ADV	CW
+iris	iris	FW	FW
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+extensive	extensive	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+
+sentence break
+
+angle	angle	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+further	further	JJ	CW	ADJ
+develop	develop	VB	CW	VERB
+beam	beam	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+small	small	JJ	CW	ADJ
+more	more	RBR	ADV	CW
+open	open	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+apparent	apparent	JJ	CW	ADJ
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+
+sentence break
+
+p	p	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+endothelial-lined	endothelial-lined	JJ	CW	ADJ
+vessel	vessel	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+mature	mature	JJ	CW	ADJ
+sc	sc	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+most	most	RBS	ADV	CW
+section	section	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+p	p	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+further	further	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+open	open	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+especially	especially	RB	ADV	FW
+anteriorly	anteriorly	JJ	CW	ADJ
+first	first	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+consistent	consistent	JJ	CW	ADJ
+separation	separation	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+iris	iris	NN	CW	NOUN	ARGUMENT
+root	root	NN	CW	NOUN	ARGUMENT
+form	form	VBP	CW	VERB
+deep	deep	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+recess	recess	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+
+sentence break
+
+age	age	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+extend	extend	VBP	CW	VERB
+posterior	posterior	JJ	CW	ADJ
+end	end	NN	CW	NOUN	ARGUMENT
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+slightly	slightly	RB	ADV	CW
+posterior	posterior	JJ	CW	ADJ
+end	end	NN	CW	NOUN	ARGUMENT
+descemet	descemet	NN	CW	NOUN	ARGUMENT
+membrane	membrane	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+consistently	consistently	RB	ADV	CW
+observe	observe	VBP	CW	VERB
+ocular	ocular	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+additionally	additionally	RB	ADV	CW
+separation	separation	NN	CW	NOUN	ARGUMENT
+iris	iri	VBZ	CW	VERB
+away	away	RB	ADV	CW
+tm	tm	RB	ADV	FW
+give	give	VB	CW	VERB
+appearance	appearance	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+move	move	NN	CW	NOUN	ARGUMENT
+anteriorly	anteriorly	RB	ADV	FW
+
+sentence break
+
+giant	giant	JJ	CW	ADJ
+vacuole	vacuole	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+important	important	JJ	CW	ADJ
+aqueous	aqueous	JJ	CW	ADJ
+movement	movement	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+canal	canal	NN	CW	NOUN	ARGUMENT
+luman	luman	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+clearly	clearly	RB	ADV	CW
+observe	observe	VBP	CW	VERB
+indicate	indicate	VBP	CW	VERB
+sc	sc	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+functional	functional	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+
+sentence break
+
+three	three	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+extend	extend	VB	CW	VERB
+forward	forward	RB	ADV	CW
+posterior	posterior	JJ	CW	ADJ
+termination	termination	NN	CW	NOUN	ARGUMENT
+descemet	descemet	NN	CW	NOUN	ARGUMENT
+membrane	membrane	NN	CW	NOUN	ARGUMENT
+large	large	JJ	CW	ADJ
+open	open	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+anterior	anterior	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fewer	fewer	JJR	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+evident	evident	JJ	CW	ADJ
+posterior	posterior	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+b.	b.	NN	CW	NOUN	ARGUMENT
+next	next	JJ	CW	ADJ
+few	few	JJ	CW	ADJ
+week	week	NN	CW	NOUN	ARGUMENT
+space	space	NN	CW	NOUN	ARGUMENT
+trabecular	trabecular	JJ	CW	ADJ
+beam	beam	NN	CW	NOUN	ARGUMENT
+gradually	gradually	RB	ADV	CW
+become	become	VB	CW	VERB
+more	more	RBR	ADV	CW
+open	open	JJ	CW	ADJ
+extend	extend	VB	CW	VERB
+further	further	RB	ADV	CW
+posterior	posterior	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+depend	depend	VB	CW	VERB
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+ocular	ocular	JJ	CW	ADJ
+location	location	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+typically	typically	RB	ADV	CW
+reach	reach	VBP	CW	VERB
+mature	mature	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+35	35	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+42	42	CD	FW
+compare	compare	VBP	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+cand	cand	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+d.	d.	NN	CW	NOUN	ARGUMENT
+mature	mature	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+intertrabecular	intertrabecular	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+alway	alway	RB	ADV	FW
+most	most	RBS	ADV	CW
+prominent	prominent	JJ	CW	ADJ
+anterior	anterior	JJ	CW	ADJ
+aspect	aspect	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+less	less	RBR	ADV	CW
+so	so	RB	ADV	CW
+posteriorly	posteriorly	JJ	CW	ADJ
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+cand	cand	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+d.	d.	NN	CW	NOUN	ARGUMENT
+postnatal	postnatal	JJ	CW	ADJ
+developmental	developmental	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+frame	frame	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+essentially	essentially	RB	ADV	CW
+same	same	JJ	CW	ADJ
+observe	observe	VBP	CW	VERB
+by	by	IN	FW
+snj	snj	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+
+sentence break
+
+be	be	VB	CW	VERB
+major	major	JJ	CW	ADJ
+difference	difference	NN	CW	NOUN	ARGUMENT
+mature	mature	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+background	background	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+posterior	posterior	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+difference	difference	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+be	be	VB	FW	aux_or_cop
+evident	evident	JJ	CW	ADJ
+strain	strain	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+3	3	CD	FW
+h.	h.	NN	CW	NOUN	ARGUMENT
+biggest	biggest	JJS	CW	ADJ
+difference	difference	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+background	background	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+consistently	consistently	RB	ADV	CW
+more	more	RBR	ADV	CW
+robust	robust	JJ	CW	ADJ
+ciliary	ciliary	JJ	CW	ADJ
+muscle	muscle	NN	CW	NOUN	ARGUMENT
+129	129	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+further	further	RB	ADV	CW
+understand	understand	VB	CW	VERB
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+analyze	analyze	VBP	CW	VERB
+stage	stage	NN	CW	NOUN	ARGUMENT
+involve	involve	VB	CW	VERB
+significant	significant	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+em	em	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ultrastructural	ultrastructural	JJ	CW	ADJ
+evaluation	evaluation	NN	CW	NOUN	ARGUMENT
+demonstrate	demonstrate	VBP	CW	VERB
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+well	well	RB	ADV	CW
+underway	underway	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+trabecular	trabecular	JJ	CW	ADJ
+beam	beam	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+recognizable	recognizable	JJ	CW	ADJ
+not	not	RB	ADV	CW
+fully	fully	RB	ADV	CW
+develop	develop	VB	CW	VERB
+
+sentence break
+
+separation	separation	NN	CW	NOUN	ARGUMENT
+individual	individual	JJ	CW	ADJ
+trabecular	trabecular	JJ	CW	ADJ
+beam	beam	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+begin	begin	VB	CW	VERB
+extracellular	extracellular	JJ	CW	ADJ
+matrix	matrix	NN	CW	NOUN	ARGUMENT
+deposition	deposition	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+evident	evident	JJ	CW	ADJ
+
+sentence break
+
+present	present	JJ	CW	ADJ
+trabecular	trabecular	JJ	CW	ADJ
+beam	beam	NN	CW	NOUN	ARGUMENT
+collagen	collagen	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+less	less	RBR	ADV	CW
+abundant	abundant	JJ	CW	ADJ
+mature	mature	JJ	CW	ADJ
+eye	eye	NN	CW	NOUN	ARGUMENT
+elastic	elastic	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+relatively	relatively	RB	ADV	CW
+more	more	RBR	ADV	CW
+abundant	abundant	JJ	CW	ADJ
+compare	compare	VB	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+dand	dand	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+eto	eto	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+fand	fand	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+g.	g.	NN	CW	NOUN	ARGUMENT
+trabecular	trabecular	JJ	CW	ADJ
+beam	beam	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+separated	separated	JJ	CW	ADJ
+anterior	anterior	JJ	CW	ADJ
+posterior	posterior	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+presence	presence	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+precursor	precursor	NN	CW	NOUN	ARGUMENT
+vary	vary	VBP	CW	VERB
+section	section	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+location	location	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+trace	trace	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+other	other	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+relatively	relatively	RB	ADV	CW
+well	well	RB	ADV	CW
+form	form	VB	CW	VERB
+thin	thin	JJ	CW	ADJ
+endothelial	endothelial	JJ	CW	ADJ
+lining	lining	JJ	CW	ADJ
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+b.	b.	NN	CW	NOUN	ARGUMENT
+giant	giant	JJ	CW	ADJ
+vacuole	vacuole	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+observe	observe	VB	CW	VERB
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+section	section	NN	CW	NOUN	ARGUMENT
+early	early	JJ	CW	ADJ
+sc	sc	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+more	more	RBR	ADV	CW
+primitive	primitive	JJ	CW	ADJ
+vascular	vascular	JJ	CW	ADJ
+appearance	appearance	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+c	c	NN	CW	NOUN	ARGUMENT
+consistent	consistent	JJ	CW	ADJ
+likely	likely	JJ	CW	ADJ
+derivation	derivation	NN	CW	NOUN	ARGUMENT
+coalesce	coalesce	NN	CW	NOUN	ARGUMENT
+venule	venule	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+p	p	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+space	space	NN	CW	NOUN	ARGUMENT
+trabecular	trabecular	JJ	CW	ADJ
+beam	beam	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+typically	typically	RB	ADV	CW
+more	more	RBR	ADV	CW
+prominent	prominent	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+posterior	posterior	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+remain	remain	VBP	CW	VERB
+relatively	relatively	RB	ADV	CW
+compress	compress	JJ	CW	ADJ
+compare	compare	VBP	CW	VERB
+anterior	anterior	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+smaller	smaller	JJR	CW	ADJ
+intertrabecular	intertrabecular	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+5	5	CD	FW
+b.	b.	NN	CW	NOUN	ARGUMENT
+extracellular	extracellular	JJ	CW	ADJ
+matrix	matrix	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+prominent	prominent	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+compare	compare	VBP	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+ato	ato	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+
+sentence break
+
+well	well	RB	ADV	CW
+develop	develop	VB	CW	VERB
+endothelial-lined	endothelial-lined	JJ	CW	ADJ
+sc	sc	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+consistently	consistently	RB	ADV	CW
+present	present	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+giant	giant	JJ	CW	ADJ
+vacuole	vacuole	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+relatively	relatively	RB	ADV	CW
+infrequent	infrequent	JJ	CW	ADJ
+compare	compare	VBP	CW	VERB
+older	older	JJR	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+p	p	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+intertrabecular	intertrabecular	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+enlarge	enlarge	VB	CW	VERB
+adult	adult	JJ	CW	ADJ
+size	size	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+region	region	NN	CW	NOUN	ARGUMENT
+posterior	posterior	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+giant	giant	JJ	CW	ADJ
+vacuole	vacuole	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+abundant	abundant	JJ	CW	ADJ
+figure	figure	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+c.	c.	NN	CW	NOUN	ARGUMENT
+smooth	smooth	JJ	CW	ADJ
+muscle	muscle	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+d	d	NN	CW	NOUN	ARGUMENT
+locate	locate	VBP	CW	VERB
+inner	inner	JJ	CW	ADJ
+wall	wall	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+close	close	RB	ADV	CW
+posterior	posterior	JJ	CW	ADJ
+termination	termination	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+first	first	JJ	CW	ADJ
+note	note	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+
+sentence break
+
+major	major	JJ	CW	ADJ
+developmental	developmental	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+occur	occur	VBP	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+subsequent	subsequent	JJ	CW	ADJ
+maturation	maturation	NN	CW	NOUN	ARGUMENT
+primarily	primarily	RB	ADV	FW
+involve	involve	VBP	CW	VERB
+final	final	JJ	CW	ADJ
+enlargement	enlargement	NN	CW	NOUN	ARGUMENT
+space	space	NN	CW	NOUN	ARGUMENT
+posterior	posterior	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+adult	adult	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+line	line	NN	CW	NOUN	ARGUMENT
+attenuated	attenuate	VBD	CW	VERB
+endothelial	endothelial	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+low	low	JJ	CW	ADJ
+power	power	NN	CW	NOUN	ARGUMENT
+several	several	JJ	CW	ADJ
+giant	giant	JJ	CW	ADJ
+vacuole	vacuole	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+alway	alway	JJ	CW	ADJ
+present	present	JJ	CW	ADJ
+figure	figure	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+e.	e.	NN	CW	NOUN	ARGUMENT
+giant	giant	JJ	CW	ADJ
+vacuole	vacuole	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+evenly	evenly	RB	ADV	CW
+distribute	distribute	VB	CW	VERB
+entire	entire	JJ	CW	ADJ
+length	length	NN	CW	NOUN	ARGUMENT
+schlemm	schlemm	NN	CW	NOUN	ARGUMENT
+canal	canal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+3	3	CD	FW
+
+sentence break
+
+4	4	CD	FW
+trabecular	trabecular	JJ	CW	ADJ
+beam	beam	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+meshwork	meshwork	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+
+sentence break
+
+10	10	CD	FW
+posterior	posterior	JJ	CW	ADJ
+meshwork	meshwork	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+posterior	posterior	JJ	CW	ADJ
+adult	adult	JJ	CW	ADJ
+meshwork	meshwork	NN	CW	NOUN	ARGUMENT
+extracellular	extracellular	JJ	CW	ADJ
+matrix	matrix	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+prominent	prominent	JJ	CW	ADJ
+intertrabecular	intertrabecular	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+smaller	smaller	JJR	CW	ADJ
+anteriorly	anteriorly	JJ	CW	ADJ
+figure	figure	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+5	5	CD	FW
+g.	g.	NN	CW	NOUN	ARGUMENT
+review	review	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+section	section	NN	CW	NOUN	ARGUMENT
+examine	examine	VBP	CW	VERB
+light	light	JJ	CW	ADJ
+microscopy	microscopy	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+identify	identify	VB	CW	VERB
+dead	dead	JJ	CW	ADJ
+pyknotic	pyknotic	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+po	po	NN	CW	NOUN	ARGUMENT
+adult	adult	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+similar	similar	JJ	CW	ADJ
+review	review	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+section	section	NN	CW	NOUN	ARGUMENT
+em	em	NN	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+demonstrate	demonstrate	VBP	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+necrotic	necrotic	JJ	CW	ADJ
+apoptotic	apoptotic	JJ	CW	ADJ
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+multiple	multiple	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+method	method	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+probable	probable	JJ	CW	ADJ
+normal	normal	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+utilize	utilize	VBP	CW	VERB
+pathway	pathway	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+pcd	pcd	NN	CW	NOUN	ARGUMENT
+28	28	CD	FW
+
+sentence break
+
+further	further	RB	ADV	CW
+investigate	investigate	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+develop	develop	VB	CW	VERB
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+fluorescent	fluorescent	JJ	CW	ADJ
+double	double	JJ	CW	ADJ
+label	label	NN	CW	NOUN	ARGUMENT
+assay	assay	NN	CW	NOUN	ARGUMENT
+identify	identify	VBP	CW	VERB
+fragment	fragment	NN	CW	NOUN	ARGUMENT
+dna	dna	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+fluorescently	fluorescently	RB	ADV	FW
+label	label	NN	CW	NOUN	ARGUMENT
+dutp	dutp	NN	CW	NOUN	ARGUMENT
+detect	detect	VB	CW	VERB
+chromatin	chromatin	NN	CW	NOUN	ARGUMENT
+condensation	condensation	NN	CW	NOUN	ARGUMENT
+bind	bind	VBP	CW	VERB
+dye	dye	VB	CW	VERB
+yoyo	yoyo	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+identify	identify	VB	CW	VERB
+apoptotic	apoptotic	JJ	CW	ADJ
+only	only	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+doubly	doubly	RB	ADV	FW
+label	label	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+
+sentence break
+
+assay	assay	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+sensitive	sensitive	JJ	CW	ADJ
+light	light	NN	CW	NOUN	ARGUMENT
+microscopy	microscopy	NN	CW	NOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+more	more	RBR	ADV	CW
+widespread	widespread	JJ	CW	ADJ
+testing	testing	NN	CW	NOUN	ARGUMENT
+em	em	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+show	show	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+formation	formation	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+start	start	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+be	be	VB	FW	aux_or_cop
+mostly	mostly	RB	ADV	CW
+complete	complete	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+subtle	subtle	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+extend	extend	VBP	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+35	35	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+42	42	CD	FW
+
+sentence break
+
+assay	assay	NN	CW	NOUN	ARGUMENT
+investigate	investigate	VBP	CW	VERB
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+span	span	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+period	period	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+method	method	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+four	four	CD	FW
+time	time	NN	CW	NOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+critical	critical	JJ	CW	ADJ
+period	period	NN	CW	NOUN	ARGUMENT
+surround	surround	VBP	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+
+sentence break
+
+majority	majority	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+assess	assess	VB	CW	VERB
+analyze	analyze	VB	CW	VERB
+many	many	JJ	CW	ADJ
+section	section	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+obtain	obtain	VB	CW	VERB
+20	20	CD	FW
+encoding error!
+interval	interval	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+trabecular	trabecular	JJ	CW	ADJ
+anlage	anlage	NN	CW	NOUN	ARGUMENT
+mature	mature	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+2	2	CD	FW
+doubly	doubly	RB	ADV	FW
+label	label	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+identify	identify	VB	CW	VERB
+angle	angle	NN	CW	NOUN	ARGUMENT
+approximately	approximately	RB	ADV	CW
+600	600	CD	FW
+analyze	analyze	VBP	CW	VERB
+section	section	NN	CW	NOUN	ARGUMENT
+approximately	approximately	RB	ADV	CW
+120	120	CD	FW
+000	000	CD	FW
+analyze	analyze	VBP	CW	VERB
+tm	tm	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+positive	positive	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+locate	locate	VB	CW	VERB
+luman	luman	NN	CW	NOUN	ARGUMENT
+schlemm	schlemm	NN	CW	NOUN	ARGUMENT
+canal	canal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+likely	likely	JJ	CW	ADJ
+blood	blood	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+apoptotic	apoptotic	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+detect	detect	VB	CW	VERB
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+iris	iris	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+contrast	contrast	NN	CW	NOUN	ARGUMENT
+apoptotic	apoptotic	JJ	CW	ADJ
+retinal	retinal	JJ	CW	ADJ
+ganglion	ganglion	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+be	be	VB	FW	aux_or_cop
+frequently	frequently	RB	ADV	CW
+identify	identify	VBP	CW	VERB
+often	often	RB	ADV	FW
+2	2	CD	FW
+more	more	JJR	CW	ADJ
+apoptotic	apoptotic	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+section	section	NN	CW	NOUN	ARGUMENT
+establish	establish	VB	CW	VERB
+period	period	NN	CW	NOUN	ARGUMENT
+developmental	developmental	JJ	CW	ADJ
+ganglion	ganglion	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+assess	assess	VB	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+21	21	CD	FW
+less	less	JJR	CW	ADJ
+abundantly	abundantly	RB	ADV	CW
+afterward	afterward	RB	ADV	FW
+
+sentence break
+
+testis	testis	NN	CW	NOUN	ARGUMENT
+section	section	NN	CW	NOUN	ARGUMENT
+serve	serve	VBP	CW	VERB
+additional	additional	JJ	CW	ADJ
+positive	positive	JJ	CW	ADJ
+control	control	NN	CW	NOUN	ARGUMENT
+batch	batch	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+slide	slide	NN	CW	NOUN	ARGUMENT
+abundant	abundant	JJ	CW	ADJ
+apoptotic	apoptotic	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+alway	alway	JJ	CW	ADJ
+detect	detect	VB	CW	VERB
+
+sentence break
+
+final	final	JJ	CW	ADJ
+assessment	assessment	NN	CW	NOUN	ARGUMENT
+role	role	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+pathway	pathway	NN	CW	NOUN	ARGUMENT
+determine	determine	VBP	CW	VERB
+absence	absence	NN	CW	NOUN	ARGUMENT
+fa	fa	NN	CW	NOUN	ARGUMENT
+fasl	fasl	NN	CW	NOUN	ARGUMENT
+initiator	initiator	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+alter	alter	VBP	CW	VERB
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fa	fa	NN	CW	NOUN	ARGUMENT
+fasl	fasl	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+express	express	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+fas-stimulating	fas-stimulating	JJ	CW	ADJ
+monoclonal	monoclonal	JJ	CW	ADJ
+antibody	antibody	NN	CW	NOUN	ARGUMENT
+cause	cause	NN	CW	NOUN	ARGUMENT
+pcd	pcd	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+29	29	CD	FW
+30	30	CD	FW
+
+sentence break
+
+assess	assess	VB	CW	VERB
+five	five	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+mutant	mutant	JJ	CW	ADJ
+strain	strain	NN	CW	NOUN	ARGUMENT
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+mrl	mrl	NN	CW	NOUN	ARGUMENT
+fa	fa	NN	CW	NOUN	ARGUMENT
+lpr	lpr	NN	CW	NOUN	ARGUMENT
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+smn	smn	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+h	h	NN	CW	NOUN	ARGUMENT
+fasl	fasl	NN	CW	NOUN	ARGUMENT
+gld	gld	NN	CW	NOUN	ARGUMENT
+respectively	respectively	RB	ADV	CW
+lack	lack	VBP	CW	VERB
+functional	functional	JJ	CW	ADJ
+fa	fa	NN	CW	NOUN	ARGUMENT
+fasl	fasl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+eye	eye	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+lack	lack	VBP	CW	VERB
+functional	functional	JJ	CW	ADJ
+fa	fa	NN	CW	NOUN	ARGUMENT
+fasl	fasl	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+similar	similar	JJ	CW	ADJ
+appearance	appearance	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+age-matched	age-matched	JJ	CW	ADJ
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+
+sentence break
+
+indicate	indicate	VBP	FW	aux_or_cop
+pro-apoptotic	pro-apoptotic	JJ	CW	ADJ
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+require	require	VB	CW	VERB
+normal	normal	JJ	CW	ADJ
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+study	study	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+morphogenesis	morphogenesis	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+prenatal	prenatal	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+maturity	maturity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finding	find	VBG	CW	VERB
+extend	extend	VB	CW	VERB
+previous	previous	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+focus	focus	VB	CW	VERB
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+study	study	VB	CW	VERB
+development	development	NN	CW	NOUN	ARGUMENT
+maturity	maturity	NN	CW	NOUN	ARGUMENT
+22	22	CD	FW
+23	23	CD	FW
+24	24	CD	FW
+25	25	CD	FW
+26	26	CD	FW
+
+sentence break
+
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+timing	timing	NN	CW	NOUN	ARGUMENT
+morphogenic	morphogenic	JJ	CW	ADJ
+event	event	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+57	57	CD	FW
+bl	bl	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+j	j	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+snj	snj	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+summarize	summarize	VB	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+similar	similar	JJ	CW	ADJ
+rat	rat	NN	CW	NOUN	ARGUMENT
+31	31	CD	FW
+
+sentence break
+
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+similar	similar	JJ	CW	ADJ
+human	human	JJ	CW	ADJ
+
+sentence break
+
+major	major	JJ	CW	ADJ
+difference	difference	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+age	age	NN	CW	NOUN	ARGUMENT
+specific	specific	JJ	CW	ADJ
+developmental	developmental	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	FW	aux_or_cop
+begin	begin	VB	CW	VERB
+prenatally	prenatally	RB	ADV	CW
+extend	extend	VB	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+42	42	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+possibly	possibly	RB	ADV	FW
+8	8	CD	FW
+postnatal	postnatal	JJ	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+human	human	JJ	CW	ADJ
+16	16	CD	FW
+19	19	CD	FW
+
+sentence break
+
+briefly	briefly	RB	ADV	CW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+migrate	migrate	VB	CW	VERB
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+fill	fill	NN	CW	NOUN	ARGUMENT
+space	space	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+edge	edge	NN	CW	NOUN	ARGUMENT
+optic	optic	JJ	CW	ADJ
+cup	cup	NN	CW	NOUN	ARGUMENT
+surface	surface	NN	CW	NOUN	ARGUMENT
+ectoderm	ectoderm	NN	CW	NOUN	ARGUMENT
+lens	lens	NN	CW	NOUN	ARGUMENT
+vesicle	vesicle	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+12	12	CD	FW
+
+sentence break
+
+anlage	anlage	NN	CW	NOUN	ARGUMENT
+formation	formation	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+complete	complete	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+anlage	anlage	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+start	start	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+
+sentence break
+
+trabecular	trabecular	JJ	CW	ADJ
+beam	beam	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+recognizable	recognizable	JJ	CW	ADJ
+not	not	RB	ADV	CW
+fully	fully	RB	ADV	CW
+develop	develop	VB	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+sc	sc	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+first	first	RB	ADV	CW
+evident	evident	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+appear	appear	VBP	CW	VERB
+structurally	structurally	RB	ADV	CW
+mature	mature	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+
+sentence break
+
+sc	sc	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+functional	functional	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+giant	giant	JJ	CW	ADJ
+vacuole	vacuole	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+rare	rare	JJ	CW	ADJ
+
+sentence break
+
+p	p	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+21	21	CD	FW
+major	major	JJ	CW	ADJ
+developmental	developmental	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+occur	occur	VBP	CW	VERB
+intertrabecular	intertrabecular	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+enlarge	enlarge	VB	CW	VERB
+adult	adult	JJ	CW	ADJ
+size	size	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+part	part	NN	CW	NOUN	ARGUMENT
+posterior	posterior	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+giant	giant	JJ	CW	ADJ
+vacuole	vacuole	NN	CW	NOUN	ARGUMENT
+become	become	VB	CW	VERB
+more	more	RBR	ADV	CW
+abundant	abundant	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+trabecular	trabecular	JJ	CW	ADJ
+beam	beam	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+abundant	abundant	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+21	21	CD	FW
+
+sentence break
+
+p	p	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+
+sentence break
+
+p	p	NN	CW	NOUN	ARGUMENT
+21	21	CD	FW
+maturation	maturation	NN	CW	NOUN	ARGUMENT
+primarily	primarily	RB	ADV	FW
+involve	involve	VBP	CW	VERB
+enlargement	enlargement	NN	CW	NOUN	ARGUMENT
+space	space	NN	CW	NOUN	ARGUMENT
+posterior	posterior	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+different	different	JJ	CW	ADJ
+theory	theory	NN	CW	NOUN	ARGUMENT
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+morphogenesis	morphogenesis	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+mature	mature	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+review	review	NN	CW	NOUN	ARGUMENT
+elsewhere	elsewhere	RB	ADV	CW
+12	12	CD	FW
+13	13	CD	FW
+14	14	CD	FW
+15	15	CD	FW
+16	16	CD	FW
+17	17	CD	FW
+
+sentence break
+
+important	important	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+participate	participate	VB	CW	VERB
+complex	complex	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+formation	formation	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+
+sentence break
+
+proliferation	proliferation	NN	CW	NOUN	ARGUMENT
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+differential	differential	JJ	CW	ADJ
+growth	growth	NN	CW	NOUN	ARGUMENT
+rate	rate	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+modulation	modulation	NN	CW	NOUN	ARGUMENT
+extracellular	extracellular	JJ	CW	ADJ
+matrix	matrix	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+role	role	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+process	process	VB	CW	VERB
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+intertrabecular	intertrabecular	JJ	CW	ADJ
+space	space	NN	CW	NOUN	ARGUMENT
+opening	opening	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+17	17	CD	FW
+role	role	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+atrophy	atrophy	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+controversial	controversial	JJ	CW	ADJ
+
+sentence break
+
+sprague	sprague	NN	CW	NOUN	ARGUMENT
+dawley	dawley	NN	CW	NOUN	ARGUMENT
+sd	sd	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+die	die	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+readily	readily	RB	ADV	FW
+identify	identify	VB	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+100	100	CD	FW
+average	average	JJ	CW	ADJ
+10	10	CD	FW
+20	20	CD	FW
+die	die	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+section	section	NN	CW	NOUN	ARGUMENT
+less	less	RBR	ADV	CW
+abundantly	abundantly	RB	ADV	CW
+older	older	JJR	CW	ADJ
+adult	adult	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+3	3	CD	FW
+section	section	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+200	200	CD	FW
+18	18	CD	FW
+
+sentence break
+
+time	time	NN	CW	NOUN	ARGUMENT
+frame	frame	NN	CW	NOUN	ARGUMENT
+encompass	encompass	VBP	CW	VERB
+period	period	NN	CW	NOUN	ARGUMENT
+mesenchymal	mesenchymal	JJ	CW	ADJ
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+formation	formation	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+60	60	CD	FW
+
+sentence break
+
+due	due	JJ	CW	ADJ
+fact	fact	NN	CW	NOUN	ARGUMENT
+die	die	VB	FW	aux_or_cop
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+identify	identify	VB	CW	VERB
+tm	tm	NN	CW	NOUN	ARGUMENT
+iris	iris	NN	CW	NOUN	ARGUMENT
+iris	iri	VBZ	CW	VERB
+root	root	NN	CW	NOUN	ARGUMENT
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+propose	propose	VBP	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+serve	serve	VBP	CW	VERB
+open	open	JJ	CW	ADJ
+deep	deep	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+recess	recess	NN	CW	NOUN	ARGUMENT
+create	create	VB	CW	VERB
+space	space	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+uveoscleral	uveoscleral	JJ	CW	ADJ
+outflow	outflow	NN	CW	NOUN	ARGUMENT
+route	route	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+die	die	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+frequently	frequently	RB	ADV	CW
+associate	associate	JJ	CW	ADJ
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+establish	establish	VB	CW	VERB
+function	function	NN	CW	NOUN	ARGUMENT
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+engulfment	engulfment	JJ	CW	ADJ
+cellular	cellular	JJ	CW	ADJ
+debris	debris	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+elicit	elicit	VBP	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+normal	normal	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+see	see	VB	CW	VERB
+32	32	CD	FW
+
+sentence break
+
+develop	develop	VB	CW	VERB
+eye	eye	NN	CW	NOUN	ARGUMENT
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+require	require	VB	CW	VERB
+induce	induce	VB	CW	VERB
+death	death	NN	CW	NOUN	ARGUMENT
+vascular	vascular	JJ	CW	ADJ
+endothelial	endothelial	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+capillary	capillary	JJ	CW	ADJ
+regression	regression	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+disruption	disruption	NN	CW	NOUN	ARGUMENT
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+prevent	prevent	VBP	CW	VERB
+endothelial	endothelial	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+abnormal	abnormal	JJ	CW	ADJ
+persistence	persistence	NN	CW	NOUN	ARGUMENT
+capillary	capillary	JJ	CW	ADJ
+network	network	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+pupillary	pupillary	JJ	CW	ADJ
+membrane	membrane	NN	CW	NOUN	ARGUMENT
+hyaloid	hyaloid	NN	CW	NOUN	ARGUMENT
+vasculature	vasculature	NN	CW	NOUN	ARGUMENT
+33	33	CD	FW
+34	34	CD	FW
+
+sentence break
+
+together	together	RB	ADV	CW
+observation	observation	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+induce	induce	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+morphogenesis	morphogenesis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+contrast	contrast	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+trabecular	trabecular	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+not	not	RB	ADV	CW
+observe	observe	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+rare	rare	JJ	CW	ADJ
+develop	develop	VBP	CW	VERB
+human	human	JJ	CW	ADJ
+monkey	monkey	NN	CW	NOUN	ARGUMENT
+dog	dog	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+16	16	CD	FW
+17	17	CD	FW
+20	20	CD	FW
+21	21	CD	FW
+even	even	RB	ADV	CW
+small	small	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+present	present	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+human	human	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+consider	consider	VBP	CW	VERB
+total	total	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+oppose	oppose	VBP	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+density	density	NN	CW	NOUN	ARGUMENT
+total	total	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+mature	mature	VBP	CW	VERB
+
+sentence break
+
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+report	report	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+anterior	anterior	JJ	CW	ADJ
+chamber	chamber	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+include	include	VBP	FW	aux_or_cop
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+propose	propose	VBP	FW	aux_or_cop
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+record	record	JJ	CW	ADJ
+26	26	CD	FW
+
+sentence break
+
+reason	reason	NN	CW	NOUN	ARGUMENT
+differ	differ	VBP	CW	VERB
+result	result	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+unclear	unclear	JJ	CW	ADJ
+reflect	reflect	VBP	CW	VERB
+factor	factor	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+age	age	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+sample	sample	NN	CW	NOUN	ARGUMENT
+amount	amount	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+available	available	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+report	report	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+extensive	extensive	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+light	light	JJ	CW	ADJ
+microscopy	microscopy	NN	CW	NOUN	ARGUMENT
+fail	fail	VBP	CW	VERB
+detect	detect	VB	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+tm	tm	NN	CW	NOUN	ARGUMENT
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+by	by	IN	FW
+snj	snj	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+dying	die	VBG	CW	VERB
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+detect	detect	VB	CW	VERB
+angle	angle	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+additional	additional	JJ	CW	ADJ
+5	5	CD	FW
+inbred	inbred	JJ	CW	ADJ
+strain	strain	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+mixed	mixed	JJ	CW	ADJ
+genetic	genetic	JJ	CW	ADJ
+background	background	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+63	63	CD	FW
+
+sentence break
+
+cell	cell	NN	CW	NOUN	ARGUMENT
+characteristic	characteristic	JJ	CW	ADJ
+morphologic	morphologic	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+apoptosis	apoptosis	NN	CW	NOUN	ARGUMENT
+necrosis	necrosis	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+observe	observe	VB	CW	VERB
+em	em	NN	CW	NOUN	ARGUMENT
+35	35	CD	FW
+36	36	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+5	5	CD	FW
+other	other	JJ	CW	ADJ
+inbred	inbred	JJ	CW	ADJ
+strain	strain	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+mixed	mixed	JJ	CW	ADJ
+genetic	genetic	JJ	CW	ADJ
+background	background	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+63	63	CD	FW
+
+sentence break
+
+similarly	similarly	RB	ADV	CW
+only	only	RB	ADV	CW
+2	2	CD	FW
+apoptotic	apoptotic	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+detect	detect	VB	CW	VERB
+develop	develop	VB	CW	VERB
+sc	sc	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+iris	iris	NN	CW	NOUN	ARGUMENT
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+eye	eye	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+assay	assay	NN	CW	NOUN	ARGUMENT
+section	section	NN	CW	NOUN	ARGUMENT
+collect	collect	VB	CW	VERB
+entire	entire	JJ	CW	ADJ
+eye	eye	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+contrast	contrast	NN	CW	NOUN	ARGUMENT
+apoptotic	apoptotic	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+frequently	frequently	RB	ADV	CW
+identify	identify	VBP	CW	VERB
+develop	develop	VB	CW	VERB
+retina	retina	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+section	section	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+importantly	importantly	RB	ADV	CW
+great	great	JJ	CW	ADJ
+majority	majority	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+formation	formation	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+8	8	CD	FW
+10	10	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+period	period	NN	CW	NOUN	ARGUMENT
+surround	surround	VBP	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+
+sentence break
+
+em	em	NN	CW	NOUN	ARGUMENT
+fluorescent	fluorescent	JJ	CW	ADJ
+pcd	pcd	NN	CW	NOUN	ARGUMENT
+assay	assay	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+three	three	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+four	four	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+time	time	NN	CW	NOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+respectively	respectively	RB	ADV	CW
+critical	critical	JJ	CW	ADJ
+period	period	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rare	rare	JJ	CW	ADJ
+case	case	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+miss	miss	VB	CW	VERB
+absence	absence	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+approximately	approximately	RB	ADV	CW
+600	600	CD	FW
+analyze	analyze	VBP	CW	VERB
+section	section	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+role	role	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+morphogenesis	morphogenesis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+finally	finally	RB	ADV	CW
+development	development	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+fa	fa	NN	CW	NOUN	ARGUMENT
+fasl	fasl	NN	CW	NOUN	ARGUMENT
+null	null	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+normal	normal	JJ	CW	ADJ
+indicate	indicate	VBP	CW	VERB
+system	system	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+regulator	regulator	NN	CW	NOUN	ARGUMENT
+kill	kill	VBP	CW	VERB
+tm	tm	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+30	30	CD	FW
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+require	require	VB	CW	VERB
+tm	tm	NN	CW	NOUN	ARGUMENT
+channel	channel	NN	CW	NOUN	ARGUMENT
+formation	formation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+base	base	NN	CW	NOUN	ARGUMENT
+observation	observation	NN	CW	NOUN	ARGUMENT
+conclude	conclude	VBP	CW	VERB
+apoptosis	apoptosis	NN	CW	NOUN	ARGUMENT
+necrosis	necrosis	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+datum	datum	NN	CW	NOUN	ARGUMENT
+together	together	RB	ADV	CW
+rare	rare	JJ	CW	ADJ
+occurrence	occurrence	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+various	various	JJ	CW	ADJ
+mammalian	mammalian	JJ	CW	ADJ
+species	species	NNS	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+human	human	JJ	CW	ADJ
+suggest	suggest	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+mammal	mammal	NN	CW	NOUN	ARGUMENT
+general	general	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+absence	absence	NN	CW	NOUN	ARGUMENT
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+tm	tm	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+current	current	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+conflict	conflict	NN	CW	NOUN	ARGUMENT
+previous	previous	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+study	study	NN	CW	NOUN	ARGUMENT
+report	report	NN	CW	NOUN	ARGUMENT
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+corneal	corneal	NN	CW	NOUN	ARGUMENT
+endothelium	endothelium	NN	CW	NOUN	ARGUMENT
+iris	iri	VBZ	CW	VERB
+surface	surface	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+26	26	CD	FW
+
+sentence break
+
+abundance	abundance	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+report	report	VB	CW	VERB
+statement	statement	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+observe	observe	VB	CW	VERB
+favorable	favorable	JJ	CW	ADJ
+section	section	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+common	common	JJ	CW	ADJ
+
+sentence break
+
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+mediated	mediate	VBD	CW	VERB
+regression	regression	NN	CW	NOUN	ARGUMENT
+pupillary	pupillary	JJ	CW	ADJ
+membrane	membrane	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+33	33	CD	FW
+37	37	CD	FW
+
+sentence break
+
+current	current	JJ	CW	ADJ
+investigation	investigation	NN	CW	NOUN	ARGUMENT
+observe	observe	VBP	CW	VERB
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+chamber	chamber	NN	CW	NOUN	ARGUMENT
+iris	iri	VBZ	CW	VERB
+cornea	cornea	NN	CW	NOUN	ARGUMENT
+associate	associate	JJ	CW	ADJ
+pupillary	pupillary	JJ	CW	ADJ
+membrane	membrane	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+thus	thus	RB	ADV	FW
+suggest	suggest	VBP	CW	VERB
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+previously	previously	RB	ADV	CW
+report	report	VBP	CW	VERB
+tm	tm	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+possibly	possibly	RB	ADV	FW
+other	other	JJ	CW	ADJ
+species	species	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+process	process	NN	CW	NOUN	ARGUMENT
+pupillary	pupillary	JJ	CW	ADJ
+membrane	membrane	NN	CW	NOUN	ARGUMENT
+regression	regression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sometime	sometime	RB	ADV	CW
+deposit	deposit	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+significant	significant	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+tm	tm	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+record	record	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+demonstration	demonstration	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+sd	sd	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+fuel	fuel	NN	CW	NOUN	ARGUMENT
+debate	debate	NN	CW	NOUN	ARGUMENT
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+18	18	CD	FW
+
+sentence break
+
+report	report	NN	CW	NOUN	ARGUMENT
+disagree	disagree	VBP	CW	VERB
+finding	find	VBG	CW	VERB
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+warrant	warrant	NN	CW	NOUN	ARGUMENT
+further	further	RB	ADV	CW
+discussion	discussion	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+rat	rat	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+conspicuous	conspicuous	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+note	note	NN	CW	NOUN	ARGUMENT
+associate	associate	JJ	CW	ADJ
+die	die	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+iris	iris	NN	CW	NOUN	ARGUMENT
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+give	give	VB	CW	VERB
+similarity	similarity	NN	CW	NOUN	ARGUMENT
+developmental	developmental	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+by	by	IN	FW
+snj	snj	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+human	human	JJ	CW	ADJ
+similar	similar	JJ	CW	ADJ
+timing	timing	NN	CW	NOUN	ARGUMENT
+progression	progression	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+seem	seem	VBP	CW	VERB
+unlikely	unlikely	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+morphogenesis	morphogenesis	NN	CW	NOUN	ARGUMENT
+differ	differ	VBP	CW	VERB
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+therefore	therefore	RB	ADV	FW
+difficult	difficult	JJ	CW	ADJ
+reconcile	reconcile	VB	CW	VERB
+frequent	frequent	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+adult	adult	JJ	CW	ADJ
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+sd	sd	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+absence	absence	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+multiple	multiple	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+current	current	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+structural	structural	JJ	CW	ADJ
+feature	feature	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+morphogenesis	morphogenesis	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+focus	focus	VB	CW	VERB
+other	other	JJ	CW	ADJ
+rat	rat	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+report	report	VB	CW	VERB
+em	em	NN	CW	NOUN	ARGUMENT
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+adult	adult	JJ	CW	ADJ
+tm	tm	NN	CW	NOUN	ARGUMENT
+swiss	swiss	JJ	CW	ADJ
+albino	albino	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+adult	adult	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+unspecified	unspecified	JJ	CW	ADJ
+strain	strain	NN	CW	NOUN	ARGUMENT
+pigmented	pigment	VBD	CW	VERB
+lab	lab	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+38	38	CD	FW
+39	39	CD	FW
+
+sentence break
+
+finding	find	VBG	CW	VERB
+suggest	suggest	VBP	CW	VERB
+sd	sd	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+atypical	atypical	JJ	CW	ADJ
+excessive	excessive	JJ	CW	ADJ
+intraocular	intraocular	JJ	CW	ADJ
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+recruitment	recruitment	NN	CW	NOUN	ARGUMENT
+formation	formation	NN	CW	NOUN	ARGUMENT
+stimulation	stimulation	NN	CW	NOUN	ARGUMENT
+persistence	persistence	NN	CW	NOUN	ARGUMENT
+explain	explain	VBP	CW	VERB
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+abundance	abundance	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+spontaneous	spontaneous	JJ	CW	ADJ
+axonal	axonal	JJ	CW	ADJ
+regeneration	regeneration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+recently	recently	RB	ADV	CW
+report	report	NN	CW	NOUN	ARGUMENT
+transected	transected	JJ	CW	ADJ
+optic	optic	JJ	CW	ADJ
+nerve	nerve	NN	CW	NOUN	ARGUMENT
+adult	adult	JJ	CW	ADJ
+sd	sd	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+40	40	CD	FW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+unexpected	unexpected	JJ	CW	ADJ
+contrast	contrast	NN	CW	NOUN	ARGUMENT
+peripheral	peripheral	JJ	CW	ADJ
+nerve	nerve	NN	CW	NOUN	ARGUMENT
+axon	axon	NN	CW	NOUN	ARGUMENT
+adult	adult	JJ	CW	ADJ
+mammalian	mammalian	JJ	CW	ADJ
+central	central	JJ	CW	ADJ
+nervous	nervous	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+typically	typically	RB	ADV	CW
+fail	fail	VBP	CW	VERB
+regenerate	regenerate	VB	CW	VERB
+follow	follow	VB	CW	VERB
+injury	injury	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+regeneration	regeneration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+complex	complex	JJ	CW	ADJ
+poorly	poorly	RB	ADV	CW
+understand	understand	VBP	CW	VERB
+process	process	NN	CW	NOUN	ARGUMENT
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+know	know	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+
+sentence break
+
+addition	addition	NN	CW	NOUN	ARGUMENT
+appropriately	appropriately	RB	ADV	CW
+stimulate	stimulate	VBP	CW	VERB
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+induce	induce	VBP	CW	VERB
+peripheral	peripheral	JJ	CW	ADJ
+nerve-like	nerve-like	JJ	CW	ADJ
+regenerative	regenerative	JJ	CW	ADJ
+response	response	NN	CW	NOUN	ARGUMENT
+damage	damage	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+optic	optic	JJ	CW	ADJ
+nerve	nerve	NN	CW	NOUN	ARGUMENT
+41	41	CD	FW
+42	42	CD	FW
+43	43	CD	FW
+
+sentence break
+
+spontaneous	spontaneous	JJ	CW	ADJ
+axonal	axonal	JJ	CW	ADJ
+regeneration	regeneration	NN	CW	NOUN	ARGUMENT
+sd	sd	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+consistent	consistent	JJ	CW	ADJ
+atypical	atypical	JJ	CW	ADJ
+macrophage	macrophage	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+further	further	RB	ADV	CW
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+need	need	MD	FW	aux_or_cop
+test	test	VB	CW	VERB
+
+sentence break
+
+result	result	VB	CW	VERB
+support	support	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+mesenchymal	mesenchymal	JJ	CW	ADJ
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+reorganization	reorganization	NN	CW	NOUN	ARGUMENT
+cellular	cellular	JJ	CW	ADJ
+extracellular	extracellular	JJ	CW	ADJ
+matrix	matrix	NN	CW	NOUN	ARGUMENT
+component	component	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+atrophy	atrophy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+use	use	NN	CW	NOUN	ARGUMENT
+genetically	genetically	RB	ADV	CW
+different	different	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+indicate	indicate	VBP	CW	VERB
+absence	absence	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+typical	typical	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+unique	unique	JJ	CW	ADJ
+individual	individual	JJ	CW	ADJ
+strain	strain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lack	lack	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+similar	similar	JJ	CW	ADJ
+developmental	developmental	JJ	CW	ADJ
+profile	profile	NN	CW	NOUN	ARGUMENT
+similarity	similarity	NN	CW	NOUN	ARGUMENT
+mature	mature	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+human	human	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+conservation	conservation	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+developmental	developmental	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+non-rodent	non-rodent	JJ	CW	ADJ
+mammal	mammal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+general	general	JJ	CW	ADJ
+anterior	anterior	JJ	CW	ADJ
+segment	segment	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+support	support	NN	CW	NOUN	ARGUMENT
+observation	observation	NN	CW	NOUN	ARGUMENT
+genetic	genetic	JJ	CW	ADJ
+deficiency	deficiency	NN	CW	NOUN	ARGUMENT
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+pax	pax	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+pitx	pitx	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+foxc	foxc	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+44	44	CD	FW
+45	45	CD	FW
+lmx	lmx	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+express	express	JJ	CW	ADJ
+periocular	periocular	JJ	CW	ADJ
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+anterior	anterior	JJ	CW	ADJ
+segment	segment	NN	CW	NOUN	ARGUMENT
+dysgenesis	dysgenesis	NN	CW	NOUN	ARGUMENT
+human	human	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+46	46	CD	FW
+47	47	CD	FW
+48	48	CD	FW
+49	49	CD	FW
+50	50	CD	FW
+51	51	CD	FW
+52	52	CD	FW
+53	53	CD	FW
+54	54	CD	FW
+
+sentence break
+
+general	general	JJ	CW	ADJ
+however	however	RB	ADV	FW
+previous	previous	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+examine	examine	VB	CW	VERB
+effect	effect	NN	CW	NOUN	ARGUMENT
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+partly	partly	RB	ADV	CW
+due	due	JJ	CW	ADJ
+limited	limited	JJ	CW	ADJ
+documentation	documentation	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+event	event	NN	CW	NOUN	ARGUMENT
+underlie	underlie	VBP	CW	VERB
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+limited	limited	JJ	CW	ADJ
+documentation	documentation	NN	CW	NOUN	ARGUMENT
+mature	mature	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+current	current	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+important	important	JJ	CW	ADJ
+baseline	baseline	NN	CW	NOUN	ARGUMENT
+information	information	NN	CW	NOUN	ARGUMENT
+mechanistic	mechanistic	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+exist	exist	VBP	CW	VERB
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+segment	segment	NN	CW	NOUN	ARGUMENT
+dysgenesis	dysgenesis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+additionally	additionally	RB	ADV	CW
+facilitate	facilitate	VB	CW	VERB
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+mutant	mutant	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+determine	determine	VB	CW	VERB
+newly	newly	RB	ADV	CW
+identify	identify	VB	CW	VERB
+gene	gene	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+pathway	pathway	NN	CW	NOUN	ARGUMENT
+participate	participate	VBP	CW	VERB
+overlap	overlap	VBP	CW	VERB
+interact	interact	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+
+sentence break
+
+experiment	experiment	NN	CW	NOUN	ARGUMENT
+enhance	enhance	VBP	CW	VERB
+understand	understand	VB	CW	VERB
+developmental	developmental	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+anterior	anterior	JJ	CW	ADJ
+segment	segment	NN	CW	NOUN	ARGUMENT
+formation	formation	NN	CW	NOUN	ARGUMENT
+glaucoma	glaucoma	NN	CW	NOUN	ARGUMENT
+associate	associate	NN	CW	NOUN	ARGUMENT
+anterior	anterior	JJ	CW	ADJ
+segment	segment	NN	CW	NOUN	ARGUMENT
+dysgenesis	dysgenesis	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+light	light	JJ	CW	ADJ
+microscopy	microscopy	NN	CW	NOUN	ARGUMENT
+least	least	JJS	CW	ADJ
+three	three	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+57	57	CD	FW
+bl	bl	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+j	j	NN	CW	NOUN	ARGUMENT
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+be	be	VB	FW	aux_or_cop
+evaluate	evaluate	VB	CW	VERB
+postnatal	postnatal	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+period	period	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+newborn	newborn	JJ	CW	ADJ
+p	p	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+4	4	CD	FW
+6	6	CD	FW
+8	8	CD	FW
+10	10	CD	FW
+12	12	CD	FW
+14	14	CD	FW
+21	21	CD	FW
+28	28	CD	FW
+35	35	CD	FW
+42	42	CD	FW
+49	49	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+56	56	CD	FW
+
+sentence break
+
+adult	adult	JJ	CW	ADJ
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+rang	ring	VBD	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+60	60	CD	FW
+12	12	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+prenatal	prenatal	JJ	CW	ADJ
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+stage	stage	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+18	18	CD	FW
+be	be	VB	CW	VERB
+also	also	RB	ADV	CW
+examine	examine	VBP	CW	VERB
+
+sentence break
+
+additionally	additionally	RB	ADV	CW
+progressive	progressive	JJ	CW	ADJ
+developmental	developmental	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+strain	strain	NN	CW	NOUN	ARGUMENT
+by	by	IN	FW
+snj	snj	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+evaluate	evaluate	VB	CW	VERB
+p	p	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+7	7	CD	FW
+14	14	CD	FW
+21	21	CD	FW
+28	28	CD	FW
+35	35	CD	FW
+42	42	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+60	60	CD	FW
+2	2	CD	FW
+6	6	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+by	by	IN	FW	SUBORDINATOR
+snj	snj	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+normal	normal	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+derive	derive	VBP	CW	VERB
+by	by	IN	FW
+corn	corn	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+strain	strain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+least	least	JJS	CW	ADJ
+2	2	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+9	9	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+use	use	VB	CW	VERB
+follow	follow	VB	CW	VERB
+strain	strain	NN	CW	NOUN	ARGUMENT
+mixed	mixed	JJ	CW	ADJ
+background	background	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+dba	dba	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+j	j	NN	CW	NOUN	ARGUMENT
+balb	balb	NN	CW	NOUN	ARGUMENT
+cbyj	cbyj	NN	CW	NOUN	ARGUMENT
+129	129	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+j	j	NN	CW	NOUN	ARGUMENT
+former	former	JJ	CW	ADJ
+name	name	NN	CW	NOUN	ARGUMENT
+129	129	CD	FW
+j	j	NN	CW	NOUN	ARGUMENT
+129	129	CD	FW
+svevtac	svevtac	NN	CW	NOUN	ARGUMENT
+129	129	CD	FW
+svb	svb	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+2	2	CD	FW
+129	129	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+1	1	CD	FW
+129	129	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+129	129	CD	FW
+svevtac	svevtac	NN	CW	NOUN	ARGUMENT
+x	x	CC	FW
+black	black	JJ	CW	ADJ
+swiss	swiss	JJ	CW	ADJ
+>	>	JJR	CW	ADJ
+f.	f.	NN	CW	NOUN	ARGUMENT
+four	four	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+dba	dba	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+j	j	NN	CW	NOUN	ARGUMENT
+sb	sb	NN	CW	NOUN	ARGUMENT
+le	le	DT	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+determine	determine	VB	CW	VERB
+absence	absence	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+mediator	mediator	NN	CW	NOUN	ARGUMENT
+fa	fa	NN	CW	NOUN	ARGUMENT
+fasl	fasl	NN	CW	NOUN	ARGUMENT
+alter	alter	VBP	CW	VERB
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+morphology	morphology	NN	CW	NOUN	ARGUMENT
+assess	assess	VB	CW	VERB
+five	five	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+approximately	approximately	RB	ADV	CW
+p	p	NN	CW	NOUN	ARGUMENT
+70	70	CD	FW
+mutant	mutant	JJ	CW	ADJ
+strain	strain	NN	CW	NOUN	ARGUMENT
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+mrl	mrl	NN	CW	NOUN	ARGUMENT
+fa	fa	NN	CW	NOUN	ARGUMENT
+lpr	lpr	NN	CW	NOUN	ARGUMENT
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+smn	smn	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+h	h	NN	CW	NOUN	ARGUMENT
+fasl	fasl	NN	CW	NOUN	ARGUMENT
+gld	gld	NN	CW	NOUN	ARGUMENT
+respectively	respectively	RB	ADV	CW
+lack	lack	VBP	CW	VERB
+functional	functional	JJ	CW	ADJ
+fa	fa	NN	CW	NOUN	ARGUMENT
+fasl	fasl	NN	CW	NOUN	ARGUMENT
+55	55	CD	FW
+56	56	CD	FW
+57	57	CD	FW
+58	58	CD	FW
+
+sentence break
+
+stage	stage	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+whole	whole	JJ	CW	ADJ
+head	head	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fix	fix	NN	CW	NOUN	ARGUMENT
+bouin	bouin	NN	CW	NOUN	ARGUMENT
+solution	solution	NN	CW	NOUN	ARGUMENT
+paraffin	paraffin	NN	CW	NOUN	ARGUMENT
+embed	embed	VBN	CW	VERB
+sectioned	section	VBD	CW	VERB
+5	5	CD	FW
+encoding error!
+thickness	thickness	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+eye	eye	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+older	older	JJR	CW	ADJ
+be	be	VB	FW	aux_or_cop
+fix	fix	NN	CW	NOUN	ARGUMENT
+glutaraldehyde-paraformaldehyde	glutaraldehyde-paraformaldehyde	NN	CW	NOUN	ARGUMENT
+solution	solution	NN	CW	NOUN	ARGUMENT
+53	53	CD	FW
+plastic	plastic	NN	CW	NOUN	ARGUMENT
+embed	embed	VBD	CW	VERB
+sectioned	section	VBN	CW	VERB
+1	1	CD	FW
+5	5	CD	FW
+encoding error!
+thickness	thickness	NN	CW	NOUN	ARGUMENT
+stained	stain	VBD	CW	VERB
+hematoxylin	hematoxylin	NN	CW	NOUN	ARGUMENT
+eosin	eosin	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+paraffin	paraffin	NN	CW	NOUN	ARGUMENT
+plastic-embedded	plastic-embedded	JJ	CW	ADJ
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+eye	eye	NN	CW	NOUN	ARGUMENT
+25	25	CD	FW
+40	40	CD	FW
+section	section	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+collect	collect	VB	CW	VERB
+3	3	CD	FW
+different	different	JJ	CW	ADJ
+ocular	ocular	JJ	CW	ADJ
+location	location	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+lens	lens	NN	CW	NOUN	ARGUMENT
+landmark	landmark	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+75	75	CD	FW
+120	120	CD	FW
+section	section	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+collected	collect	VBN	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+lens	lens	NN	CW	NOUN	ARGUMENT
+periphery	periphery	NN	CW	NOUN	ARGUMENT
+central	central	JJ	CW	ADJ
+lens	lens	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+halfway	halfway	RB	ADV	FW
+center	center	JJ	CW	ADJ
+lens	lens	NN	CW	NOUN	ARGUMENT
+lens	lens	NN	CW	NOUN	ARGUMENT
+periphery	periphery	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+somewhat	somewhat	RB	ADV	FW
+variable	variable	JJ	CW	ADJ
+temporally	temporally	RB	ADV	CW
+spatially	spatially	RB	ADV	FW
+single	single	JJ	CW	ADJ
+eye	eye	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+necessitate	necessitate	VB	CW	VERB
+careful	careful	JJ	CW	ADJ
+scan	scan	VB	CW	VERB
+section	section	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+eye	eye	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+strain	strain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+process	process	NN	CW	NOUN	ARGUMENT
+identically	identically	RB	ADV	CW
+30	30	CD	FW
+40	40	CD	FW
+section	section	NN	CW	NOUN	ARGUMENT
+pupil	pupil	NN	CW	NOUN	ARGUMENT
+optic	optic	JJ	CW	ADJ
+nerve	nerve	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+typically	typically	RB	ADV	CW
+collect	collect	VB	CW	VERB
+analyze	analyze	VB	CW	VERB
+
+sentence break
+
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+true	true	JJ	CW	ADJ
+adult	adult	JJ	CW	ADJ
+eye	eye	NN	CW	NOUN	ARGUMENT
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+p	p	NN	CW	NOUN	ARGUMENT
+60	60	CD	FW
+older	older	JJR	CW	ADJ
+
+sentence break
+
+developmental	developmental	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+consistently	consistently	RB	ADV	CW
+present	present	JJ	CW	ADJ
+multiple	multiple	JJ	CW	ADJ
+section	section	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+regard	regard	NN	CW	NOUN	ARGUMENT
+real	real	JJ	CW	ADJ
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+draw	draw	VB	CW	VERB
+only	only	RB	ADV	CW
+high	high	JJ	CW	ADJ
+quality	quality	NN	CW	NOUN	ARGUMENT
+section	section	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+approach	approach	NN	CW	NOUN	ARGUMENT
+guard	guard	NN	CW	NOUN	ARGUMENT
+potential	potential	JJ	CW	ADJ
+distortion	distortion	NN	CW	NOUN	ARGUMENT
+artifact	artifact	NN	CW	NOUN	ARGUMENT
+delicate	delicate	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+analyze	analyze	VBP	CW	VERB
+
+sentence break
+
+assess	assess	VB	CW	VERB
+developmental	developmental	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+check	check	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+death	death	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+more	more	JJR	CW	ADJ
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+14	14	CD	FW
+18	18	CD	FW
+21	21	CD	FW
+35	35	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+60	60	CD	FW
+
+sentence break
+
+2	2	CD	FW
+dba	dba	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+j	j	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+sb	sb	NN	CW	NOUN	ARGUMENT
+le	le	DT	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+least	least	JJS	CW	ADJ
+two	two	CD	FW
+7	7	CD	FW
+9	9	CD	FW
+week	week	NN	CW	NOUN	ARGUMENT
+old	old	JJ	CW	ADJ
+dba	dba	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+j	j	NN	CW	NOUN	ARGUMENT
+balb	balb	NN	CW	NOUN	ARGUMENT
+cj	cj	NN	CW	NOUN	ARGUMENT
+129	129	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+j	j	NN	CW	NOUN	ARGUMENT
+129	129	CD	FW
+svevtac	svevtac	NN	CW	NOUN	ARGUMENT
+129	129	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+1	1	CD	FW
+129	129	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+eye	eye	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+process	process	NN	CW	NOUN	ARGUMENT
+as	as	IN	FW	SUBORDINATOR
+previously	previously	RB	ADV	CW
+describe	describe	VBP	CW	VERB
+53	53	CD	FW
+
+sentence break
+
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+block	block	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+8	8	CD	FW
+different	different	JJ	CW	ADJ
+location	location	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+sectioned	section	VBN	CW	VERB
+analyze	analyze	VBP	CW	VERB
+eye	eye	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+b	b	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+eye	eye	NN	CW	NOUN	ARGUMENT
+p	p	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+12	12	CD	FW
+14	14	CD	FW
+18	18	CD	FW
+21	21	CD	FW
+29	29	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+36	36	CD	FW
+be	be	VB	CW	VERB
+immediately	immediately	RB	ADV	CW
+fix	fix	VB	CW	VERB
+4	4	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+paraformaldehyde	paraformaldehyde	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+1	1	CD	FW
+m	m	NN	CW	NOUN	ARGUMENT
+phosphate	phosphate	NN	CW	NOUN	ARGUMENT
+buffer	buffer	NN	CW	NOUN	ARGUMENT
+ph	ph	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+2	2	CD	FW
+3	3	CD	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+transfer	transfer	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+4	4	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+paraformaldehyde	paraformaldehyde	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+1	1	CD	FW
+m	m	NN	CW	NOUN	ARGUMENT
+phosphate	phosphate	NN	CW	NOUN	ARGUMENT
+buffer	buffer	NN	CW	NOUN	ARGUMENT
+48	48	CD	FW
+hr	hr	NN	CW	NOUN	ARGUMENT
+infiltrate	infiltrate	NN	CW	NOUN	ARGUMENT
+paraffin	paraffin	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+eye	eye	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+different	different	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+sectioned	section	VBN	CW	VERB
+5	5	CD	FW
+encoding error!
+thickness	thickness	NN	CW	NOUN	ARGUMENT
+section	section	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+collect	collect	VB	CW	VERB
+20	20	CD	FW
+encoding error!
+interval	interval	NN	CW	NOUN	ARGUMENT
+entire	entire	JJ	CW	ADJ
+eye	eye	NN	CW	NOUN	ARGUMENT
+very	very	RB	ADV	CW
+peripheral	peripheral	JJ	CW	ADJ
+location	location	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+contain	contain	VB	CW	VERB
+iridocorneal	iridocorneal	JJ	CW	ADJ
+angle	angle	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+depend	depend	VB	FW	aux_or_cop
+size	size	NN	CW	NOUN	ARGUMENT
+eye	eye	NN	CW	NOUN	ARGUMENT
+30	30	CD	FW
+81	81	CD	FW
+section	section	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+collect	collect	VB	CW	VERB
+eye	eye	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+analyze	analyze	VB	CW	VERB
+approximately	approximately	RB	ADV	CW
+600	600	CD	FW
+section	section	NN	CW	NOUN	ARGUMENT
+estimate	estimate	NN	CW	NOUN	ARGUMENT
+consider	consider	VBP	CW	VERB
+age	age	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+average	average	JJ	CW	ADJ
+100	100	CD	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+angle	angle	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+section	section	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+analyze	analyze	VBP	CW	VERB
+approximately	approximately	RB	ADV	CW
+120	120	CD	FW
+000	000	CD	FW
+develop	develop	VBP	CW	VERB
+tm	tm	NN	CW	NOUN	ARGUMENT
+sc	sc	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+100	100	CD	FW
+cell	cell	NN	CW	NOUN	ARGUMENT
+x	x	NN	CW	NOUN	ARGUMENT
+600	600	CD	FW
+section	section	NN	CW	NOUN	ARGUMENT
+x	x	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+angle	angle	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+section	section	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+modify	modify	VB	CW	VERB
+double	double	JJ	CW	ADJ
+label	label	NN	CW	NOUN	ARGUMENT
+protocol	protocol	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+situ	situ	FW	FW
+end-labeling	end-labeling	JJ	CW	ADJ
+fragmented	fragmented	JJ	CW	ADJ
+dna	dna	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+bodipy	bodipy	NN	CW	NOUN	ARGUMENT
+fluorophore	fluorophore	NN	CW	NOUN	ARGUMENT
+molecular	molecular	JJ	CW	ADJ
+probe	probe	NN	CW	NOUN	ARGUMENT
+eugene	eugene	NN	CW	NOUN	ARGUMENT
+detection	detection	NN	CW	NOUN	ARGUMENT
+condensed	condensed	JJ	CW	ADJ
+chromatin	chromatin	NN	CW	NOUN	ARGUMENT
+dimeric	dimeric	JJ	CW	ADJ
+cyanine	cyanine	NN	CW	NOUN	ARGUMENT
+dye	dye	VB	CW	VERB
+yoyo	yoyo	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+molecular	molecular	JJ	CW	ADJ
+probe	probe	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+analyze	analyze	VBP	CW	VERB
+section	section	NN	CW	NOUN	ARGUMENT
+59	59	CD	FW
+
+sentence break
+
+sample	sample	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+analyze	analyze	VB	CW	VERB
+confocal	confocal	JJ	CW	ADJ
+microscope	microscope	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+identify	identify	VB	CW	VERB
+apoptotic	apoptotic	JJ	CW	ADJ
+only	only	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+double	double	JJ	CW	ADJ
+label	label	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+occurrence	occurrence	NN	CW	NOUN	ARGUMENT
+pcd	pcd	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+evaluate	evaluate	VB	CW	VERB
+iris	iris	NN	CW	NOUN	ARGUMENT
+ciliary	ciliary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+tm	tm	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

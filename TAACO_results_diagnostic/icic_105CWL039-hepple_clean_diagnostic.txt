@@ -1,0 +1,192 @@
+word	lemma	POS	CW\FW	other categories
+please	please	VB	FW	aux_or_cop
+join	join	VB	CW	VERB
+shareholder	shareholder	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+hoosier	hoosier	JJ	CW	ADJ
+capital	capital	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+inc.	inc.	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+assure	assure	VB	CW	VERB
+donation	donation	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sound	sound	JJ	CW	ADJ
+investment	investment	NN	CW	NOUN	ARGUMENT
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+use	use	NN	CW	NOUN	ARGUMENT
+cover	cover	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+membership	membership	NN	CW	NOUN	ARGUMENT
+cost	cost	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+financial	financial	JJ	CW	ADJ
+need	need	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+subsidize	subsidize	VB	CW	VERB
+cost	cost	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+camp	camp	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+provide	provide	VB	CW	VERB
+training	training	NN	CW	NOUN	ARGUMENT
+resource	resource	NN	CW	NOUN	ARGUMENT
+leader	leader	NN	CW	NOUN	ARGUMENT
+parent	parent	NN	CW	NOUN	ARGUMENT
+adult	adult	JJ	CW	ADJ
+volunteer	volunteer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+additionally	additionally	RB	ADV	CW
+help	help	VB	CW	VERB
+provide	provide	VB	CW	VERB
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+experience	experience	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+risk	risk	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+hard	hard	JJ	CW	ADJ
+serve	serve	VBP	CW	VERB
+area	area	NN	CW	NOUN	ARGUMENT
+indiana	indiana	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+school	school	NN	CW	NOUN	ARGUMENT
+juvenile	juvenile	JJ	CW	ADJ
+justice	justice	NN	CW	NOUN	ARGUMENT
+center	center	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+annual	annual	JJ	CW	ADJ
+appeal	appeal	NN	CW	NOUN	ARGUMENT
+goal	goal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+65	65	CD	FW
+000	000	CD	FW
+
+sentence break
+
+please	please	VB	FW	aux_or_cop
+consider	consider	VB	CW	VERB
+corporate	corporate	JJ	CW	ADJ
+donation	donation	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+million	million	CD	FW
+more	more	JJR	CW	ADJ
+support	support	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+central	central	JJ	CW	ADJ
+indiana	indiana	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+annual	annual	JJ	CW	ADJ
+appeal	appeal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+one	one	CD	FW
+two	two	CD	FW
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+initiative	initiative	NN	CW	NOUN	ARGUMENT
+hear	hear	VBP	CW	VERB
+1996	1996	CD	FW
+
+sentence break
+
+addition	addition	NN	CW	NOUN	ARGUMENT
+appeal	appeal	NN	CW	NOUN	ARGUMENT
+operating	operate	VBG	CW	VERB
+fund	fund	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+contact	contact	NN	CW	NOUN	ARGUMENT
+consider	consider	VB	CW	VERB
+make	make	VB	CW	VERB
+three	three	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+commitment	commitment	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+2	2	CD	FW
+million	million	CD	FW
+capital	capital	NN	CW	NOUN	ARGUMENT
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+provide	provide	VB	CW	VERB
+resource	resource	NN	CW	NOUN	ARGUMENT
+library	library	NN	CW	NOUN	ARGUMENT
+training	training	NN	CW	NOUN	ARGUMENT
+material	material	NN	CW	NOUN	ARGUMENT
+equipment	equipment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+development	development	NN	CW	NOUN	ARGUMENT
+progressive	progressive	JJ	CW	ADJ
+math	math	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+construction	construction	NN	CW	NOUN	ARGUMENT
+new	new	JJ	CW	ADJ
+center	center	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+camp	camp	NN	CW	NOUN	ARGUMENT
+property	property	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+take	take	VB	CW	VERB
+first	first	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+difference	difference	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+young	young	JJ	CW	ADJ
+woman	woman	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+shareholder	shareholder	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+vision	vision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+investment	investment	NN	CW	NOUN	ARGUMENT
+annual	annual	JJ	CW	ADJ
+appeal	appeal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sure	sure	JJ	CW	ADJ
+yield	yield	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+returns	return	NNS	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

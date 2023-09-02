@@ -1,0 +1,343 @@
+word	lemma	POS	CW\FW	other categories
+neighborhood	neighborhood	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+free	free	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+poor	poor	JJ	CW	ADJ
+have	have	VBP	FW	aux_or_cop
+expand	expand	VB	CW	VERB
+san	san	NN	CW	NOUN	ARGUMENT
+gabriel	gabriel	NN	CW	NOUN	ARGUMENT
+pomona	pomona	NN	CW	NOUN	ARGUMENT
+valley	valley	NN	CW	NOUN	ARGUMENT
+area	area	NN	CW	NOUN	ARGUMENT
+large	large	JJ	CW	ADJ
+asian	asian	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+limited	limited	JJ	CW	ADJ
+english	english	JJ	CW	ADJ
+
+sentence break
+
+language	language	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+biggest	biggest	JJS	CW	ADJ
+obstacle	obstacle	NN	CW	NOUN	ARGUMENT
+asian	asian	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+cultural	cultural	JJ	CW	ADJ
+isolation	isolation	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+provider	provider	NN	CW	NOUN	ARGUMENT
+lack	lack	NN	CW	NOUN	ARGUMENT
+cultural	cultural	JJ	CW	ADJ
+expertise	expertise	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+play	play	VBP	CW	VERB
+part	part	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+nl	nl	NN	CW	NOUN	ARGUMENT
+executive	executive	JJ	CW	ADJ
+director	director	NN	CW	NOUN	ARGUMENT
+neal	neal	NN	CW	NOUN	ARGUMENT
+dubovitz	dubovitz	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+13	13	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+15	15	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+asian	asian	JJ	CW	ADJ
+population	population	NN	CW	NOUN	ARGUMENT
+u	u	FW	FW
+s	s	VBZ	CW	VERB
+live	live	JJ	CW	ADJ
+poverty	poverty	NN	CW	NOUN	ARGUMENT
+line	line	NN	CW	NOUN	ARGUMENT
+nl	nl	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+badly	badly	RB	ADV	CW
+need	need	VBP	CW	VERB
+dubovitz	dubovitz	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+significant	significant	JJ	CW	ADJ
+part	part	NN	CW	NOUN	ARGUMENT
+poverty	poverty	NN	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+asian	asian	JJ	CW	ADJ
+historically	historically	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+participate	participate	VBP	CW	VERB
+service	service	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+available	available	JJ	CW	ADJ
+poor	poor	JJ	CW	ADJ
+say	say	VBP	CW	VERB
+
+sentence break
+
+simple	simple	JJ	CW	ADJ
+telephone	telephone	NN	CW	NOUN	ARGUMENT
+advice	advice	NN	CW	NOUN	ARGUMENT
+complete	complete	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+representation	representation	NN	CW	NOUN	ARGUMENT
+court	court	NN	CW	NOUN	ARGUMENT
+agency	agency	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+free	free	JJ	CW	ADJ
+consumer	consumer	NN	CW	NOUN	ARGUMENT
+health	health	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+immigration	immigration	NN	CW	NOUN	ARGUMENT
+housing	housing	NN	CW	NOUN	ARGUMENT
+public	public	JJ	CW	ADJ
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+labor	labor	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+earn	earn	VBP	CW	VERB
+1	1	CD	FW
+380	380	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+provider	provider	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+long	long	JJ	CW	ADJ
+serve	serve	VB	CW	VERB
+large	large	JJ	CW	ADJ
+latino	latino	NN	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+cultural	cultural	JJ	CW	ADJ
+diversity	diversity	NN	CW	NOUN	ARGUMENT
+share	share	NN	CW	NOUN	ARGUMENT
+common	common	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+remember	remember	VB	CW	VERB
+day	day	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+handful	handful	NN	CW	NOUN	ARGUMENT
+people	people	NNS	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+office	office	NN	CW	NOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+dudovitz	dudovitz	NNP	CW	NOUN	ARGUMENT
+say	say	VB	CW	VERB
+
+sentence break
+
+now	now	RB	ADV	CW
+spanish	spanish	NNP	CW	NOUN	ARGUMENT
+english	english	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+interchangeable	interchangeable	JJ	CW	ADJ
+
+sentence break
+
+goal	goal	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+have	have	VBP	CW	VERB
+major	major	JJ	CW	ADJ
+asian	asian	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+expansion	expansion	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+few	few	JJ	CW	ADJ
+nl	nl	NN	CW	NOUN	ARGUMENT
+lawyer	lawyer	NN	CW	NOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+asian	asian	JJ	CW	ADJ
+language	language	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+rebecca	rebecca	NN	CW	NOUN	ARGUMENT
+yee	yee	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+hire	hire	VB	CW	VERB
+nl	nl	NN	CW	NOUN	ARGUMENT
+april	april	NNP	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+design	design	NN	CW	NOUN	ARGUMENT
+head	head	NN	CW	NOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+have	have	VBP	FW	aux_or_cop
+people	people	NNS	CW	NOUN	ARGUMENT
+speak	speak	VB	CW	VERB
+cantonese	cantonese	JJ	CW	ADJ
+mandarin	mandarin	JJ	CW	ADJ
+thaus	thaus	NN	CW	NOUN	ARGUMENT
+khmer	khmer	NN	CW	NOUN	ARGUMENT
+cambodium	cambodium	NN	CW	NOUN	ARGUMENT
+korean	korean	JJ	CW	ADJ
+vietnamese	vietnamese	JJ	CW	ADJ
+japanese	japanese	JJ	CW	ADJ
+tagalog	tagalog	NN	CW	NOUN	ARGUMENT
+yee	yee	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+one	one	CD	FW
+13	13	CD	FW
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+hire	hire	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+irene	irene	JJ	CW	ADJ
+mak	mak	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+law	law	NN	CW	NOUN	ARGUMENT
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+speak	speak	VBP	CW	VERB
+cantonese	cantonese	JJ	CW	ADJ
+mandarin	mandarin	JJ	CW	ADJ
+thaus	thaus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mak	mak	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+partner	partner	NN	CW	NOUN	ARGUMENT
+private	private	JJ	CW	ADJ
+law	law	NN	CW	NOUN	ARGUMENT
+firm	firm	NN	CW	NOUN	ARGUMENT
+go	go	VBP	CW	VERB
+work	work	NN	CW	NOUN	ARGUMENT
+nl	nl	RB	ADV	FW
+two	two	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+ago	ago	IN	FW
+earn	earn	VBP	CW	VERB
+20	20	CD	FW
+000	000	CD	FW
+less	less	JJR	CW	ADJ
+year	year	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+domestic	domestic	JJ	CW	ADJ
+violence	violence	NN	CW	NOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+job	job	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+satisfy	satisfy	VB	CW	VERB
+money	money	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+mak	mak	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+up	up	RP	FW
+hong	hong	JJ	CW	ADJ
+kong	kong	NN	CW	NOUN	ARGUMENT
+thailand	thailand	NN	CW	NOUN	ARGUMENT
+come	come	VBN	CW	VERB
+united	united	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+use	use	NN	CW	NOUN	ARGUMENT
+language	language	NN	CW	NOUN	ARGUMENT
+skill	skill	NN	CW	NOUN	ARGUMENT
+want	want	VBP	CW	VERB
+give	give	VB	CW	VERB
+back	back	RP	FW
+asian	asian	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+nl	nl	NN	CW	NOUN	ARGUMENT
+expand	expand	VB	CW	VERB
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+corp	corp	NN	CW	NOUN	ARGUMENT
+federal	federal	JJ	CW	ADJ
+agency	agency	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+provider	provider	NN	CW	NOUN	ARGUMENT
+free	free	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+nationwide	nationwide	JJ	CW	ADJ
+reduce	reduce	VB	CW	VERB
+number	number	NN	CW	NOUN	ARGUMENT
+grantee	grantee	NN	CW	NOUN	ARGUMENT
+lo	lo	FW	FW
+angele	angele	FW	FW
+area	area	NN	CW	NOUN	ARGUMENT
+five	five	CD	FW
+three	three	CD	FW
+dudovitz	dudovitz	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+nl	nl	NN	CW	NOUN	ARGUMENT
+win	win	VB	CW	VERB
+competitive	competitive	JJ	CW	ADJ
+grant	grant	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+pasadena	pasadena	NN	CW	NOUN	ARGUMENT
+san	san	NN	CW	NOUN	ARGUMENT
+gabriel	gabriel	NN	CW	NOUN	ARGUMENT
+pomona	pomona	NN	CW	NOUN	ARGUMENT
+valley	valley	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+boost	boost	NN	CW	NOUN	ARGUMENT
+client	client	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+16	16	CD	FW
+000	000	CD	FW
+25	25	CD	FW
+000	000	CD	FW
+nl	nl	NN	CW	NOUN	ARGUMENT
+open	open	JJ	CW	ADJ
+office	office	NN	CW	NOUN	ARGUMENT
+el	el	NN	CW	NOUN	ARGUMENT
+monte	monte	FW	FW
+
+sentence break
+
+
+paragraph break
+

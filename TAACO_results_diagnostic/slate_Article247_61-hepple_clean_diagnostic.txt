@@ -1,0 +1,285 @@
+word	lemma	POS	CW\FW	other categories
+do	do	VB	CW	VERB
+clinton-hating	clinton-hating	JJ	CW	ADJ
+gossipmonger	gossipmonger	NN	CW	NOUN	ARGUMENT
+matt	matt	NN	CW	NOUN	ARGUMENT
+drudge	drudge	NN	CW	NOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+do	do	VBP	CW	VERB
+president	president	NN	CW	NOUN	ARGUMENT
+favor	favor	NN	CW	NOUN	ARGUMENT
+force	force	NN	CW	NOUN	ARGUMENT
+monica	monica	NN	CW	NOUN	ARGUMENT
+lewinsky	lewinsky	NN	CW	NOUN	ARGUMENT
+story	story	NN	CW	NOUN	ARGUMENT
+open	open	JJ	CW	ADJ
+special	special	JJ	CW	ADJ
+prosecutor	prosecutor	NN	CW	NOUN	ARGUMENT
+kenneth	kenneth	NN	CW	NOUN	ARGUMENT
+starr	starr	NN	CW	NOUN	ARGUMENT
+wire	wire	NN	CW	NOUN	ARGUMENT
+up	up	IN	FW
+get	get	VB	CW	VERB
+clinton	clinton	JJ	CW	ADJ
+say	say	VBP	CW	VERB
+something	something	NN	CW	NOUN	ARGUMENT
+damaging	damaging	JJ	CW	ADJ
+tape	tape	NN	CW	NOUN	ARGUMENT
+starr	starr	NN	CW	NOUN	ARGUMENT
+apparently	apparently	RB	ADV	CW
+plan	plan	VBP	CW	VERB
+do	do	VBP	CW	VERB
+
+sentence break
+
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+have	have	VBP	CW	VERB
+affair	affair	NN	CW	NOUN	ARGUMENT
+dozen	dozen	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+woman	woman	NN	CW	NOUN	ARGUMENT
+hit	hit	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+affair	affair	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+score	score	VB	CW	VERB
+time	time	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+chatterbox	chatterbox	NN	CW	NOUN	ARGUMENT
+hit	hit	VBD	CW	VERB
+woman	woman	NN	CW	NOUN	ARGUMENT
+success	success	NN	CW	NOUN	ARGUMENT
+rate	rate	NN	CW	NOUN	ARGUMENT
+is	be	VBZ	CW	VERB
+well	well	RB	ADV	CW
+let	let	VB	CW	VERB
+not	not	RB	ADV	CW
+say	say	VB	CW	VERB
+rate	rate	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+less	less	RBR	ADV	CW
+100	100	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+less	less	JJR	CW	ADJ
+50	50	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+even	even	RB	ADV	CW
+
+sentence break
+
+american	american	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+happiest	happiest	JJS	CW	ADJ
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+current	current	JJ	CW	ADJ
+predicament	predicament	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+chatterbox	chatterbox	NN	CW	NOUN	ARGUMENT
+nominate	nominate	VB	CW	VERB
+gary	gary	NN	CW	NOUN	ARGUMENT
+hart	hart	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+spend	spend	VBP	CW	VERB
+past	past	JJ	CW	ADJ
+five	five	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+wonder	wonder	VBP	CW	VERB
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+away	away	RB	ADV	CW
+
+sentence break
+
+paranoid	paranoid	JJ	CW	ADJ
+corner	corner	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+few	few	JJ	CW	ADJ
+week	week	NN	CW	NOUN	ARGUMENT
+front-page	front-page	JJ	CW	ADJ
+new	new	JJ	CW	ADJ
+york	york	NN	CW	NOUN	ARGUMENT
+time	time	NN	CW	NOUN	ARGUMENT
+story	story	NN	CW	NOUN	ARGUMENT
+disappearance	disappearance	NN	CW	NOUN	ARGUMENT
+lucrative	lucrative	JJ	CW	ADJ
+speaking	speaking	NN	CW	NOUN	ARGUMENT
+engagement	engagement	NN	CW	NOUN	ARGUMENT
+washington	washington	NN	CW	NOUN	ARGUMENT
+pundit	pundit	NN	CW	NOUN	ARGUMENT
+huge	huge	JJ	CW	ADJ
+scandal	scandal	NN	CW	NOUN	ARGUMENT
+break	break	NN	CW	NOUN	ARGUMENT
+surely	surely	RB	ADV	CW
+revive	revive	VB	CW	VERB
+demand	demand	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+speech	speech	NN	CW	NOUN	ARGUMENT
+washington	washington	NN	CW	NOUN	ARGUMENT
+pundit	pundit	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+retail	retail	JJ	CW	ADJ
+titillate	titillate	VB	CW	VERB
+tidbit	tidbit	NN	CW	NOUN	ARGUMENT
+let	let	VB	CW	VERB
+tell	tell	VB	CW	VERB
+vernon	vernon	NN	CW	NOUN	ARGUMENT
+jordan	jordan	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+
+sentence break
+
+mere	mere	JJ	CW	ADJ
+coincidence	coincidence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+chatterbox	chatterbox	NN	CW	NOUN	ARGUMENT
+friend	friend	NN	CW	NOUN	ARGUMENT
+walter	walter	NN	CW	NOUN	ARGUMENT
+point	point	NN	CW	NOUN	ARGUMENT
+think	think	VBP	CW	VERB
+not	not	RB	ADV	CW
+
+sentence break
+
+1994	1994	CD	FW
+defend	defend	VBP	CW	VERB
+president	president	NN	CW	NOUN	ARGUMENT
+clinton	clinton	JJ	CW	ADJ
+right-wing	right-wing	JJ	CW	ADJ
+hit	hit	NN	CW	NOUN	ARGUMENT
+man	man	NN	CW	NOUN	ARGUMENT
+david	david	VBN	CW	VERB
+brock	brock	NN	CW	NOUN	ARGUMENT
+liberal	liberal	JJ	CW	ADJ
+pundit	pundit	NN	CW	NOUN	ARGUMENT
+write	write	VB	CW	VERB
+
+sentence break
+
+bother	bother	VB	CW	VERB
+greatly	greatly	RB	ADV	CW
+clinton	clinton	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+mess	mess	NN	CW	NOUN	ARGUMENT
+60	60	CD	FW
+minute	minute	NN	CW	NOUN	ARGUMENT
+interview	interview	NN	CW	NOUN	ARGUMENT
+let	let	VB	CW	VERB
+alone	alone	JJ	CW	ADJ
+election	election	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+reveal	reveal	VB	CW	VERB
+brutal	brutal	JJ	CW	ADJ
+willingness	willingness	NN	CW	NOUN	ARGUMENT
+deceive	deceive	VB	CW	VERB
+public	public	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+normal	normal	JJ	CW	ADJ
+politician	politician	NN	CW	NOUN	ARGUMENT
+cynicism	cynicism	NN	CW	NOUN	ARGUMENT
+a	a	DT	FW
+well	well	RB	ADV	CW
+frightening	frightening	JJ	CW	ADJ
+lack	lack	NN	CW	NOUN	ARGUMENT
+self-control	self-control	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+liberal	liberal	JJ	CW	ADJ
+pundit	pundit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+michael	michael	NN	CW	NOUN	ARGUMENT
+kinsley	kinsley	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+slate	slate	NN	CW	NOUN	ARGUMENT
+editor	editor	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+prepare	prepare	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+bother	bother	VB	CW	VERB
+greatly	greatly	RB	ADV	CW
+buddy	buddy	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+speaking	speak	VBG	CW	VERB
+paranoia	paranoia	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+retrospect	retrospect	NN	CW	NOUN	ARGUMENT
+maybe	maybe	RB	ADV	FW
+hillary	hillary	JJ	CW	ADJ
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+n't	not	RB	ADV	CW
+so	so	RB	ADV	CW
+crazy	crazy	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+concern	concern	NN	CW	NOUN	ARGUMENT
+rid	rid	JJ	CW	ADJ
+white	white	JJ	CW	ADJ
+house	house	NN	CW	NOUN	ARGUMENT
+bush	bush	NN	CW	NOUN	ARGUMENT
+holdover	holdover	NN	CW	NOUN	ARGUMENT
+husband	husband	NN	CW	NOUN	ARGUMENT
+take	take	VBP	CW	VERB
+office	office	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+holdover	holdover	NN	CW	NOUN	ARGUMENT
+linda	linda	NN	CW	NOUN	ARGUMENT
+tripp	tripp	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+tape	tape	NN	CW	NOUN	ARGUMENT
+now	now	RB	ADV	CW
+threaten	threaten	VBP	CW	VERB
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+presidency	presidency	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+bet	bet	VB	CW	VERB
+clinton	clinton	NN	CW	NOUN	ARGUMENT
+wish	wish	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+rid	rid	JJ	CW	ADJ
+1993	1993	CD	FW
+travel-office	travel-office	NN	CW	NOUN	ARGUMENT
+staff	staff	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

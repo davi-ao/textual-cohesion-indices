@@ -1,0 +1,1916 @@
+word	lemma	POS	CW\FW	other categories
+glutamate	glutamate	NN	CW	NOUN	ARGUMENT
+decarboxylase	decarboxylase	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+catalyze	catalyze	VBP	CW	VERB
+formation	formation	NN	CW	NOUN	ARGUMENT
+inhibitory	inhibitory	JJ	CW	ADJ
+neurotransmitter	neurotransmitter	NN	CW	NOUN	ARGUMENT
+encoding error!
+butyric	butyric	JJ	CW	ADJ
+acid	acid	NN	CW	NOUN	ARGUMENT
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+glutamate	glutamate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mammal	mammal	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+isoform	isoform	NN	CW	NOUN	ARGUMENT
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+67	67	CD	FW
+gad	gad	NN	CW	NOUN	ARGUMENT
+65	65	CD	FW
+be	be	VB	FW	aux_or_cop
+express	express	VB	CW	VERB
+two	two	CD	FW
+separate	separate	JJ	CW	ADJ
+gene	gene	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+gad	gad	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+respectively	respectively	RB	ADV	CW
+1	1	CD	FW
+2	2	CD	FW
+3	3	CD	FW
+
+sentence break
+
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+signal	signal	NN	CW	NOUN	ARGUMENT
+play	play	VB	CW	VERB
+several	several	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+neuronal	neuronal	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+early	early	RB	ADV	CW
+cn	cn	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+modulate	modulate	VBP	CW	VERB
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+progenitor	progenitor	NN	CW	NOUN	ARGUMENT
+proliferation	proliferation	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+migration	migration	NN	CW	NOUN	ARGUMENT
+survival	survival	NN	CW	NOUN	ARGUMENT
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+5	5	CD	FW
+6	6	CD	FW
+7	7	CD	FW
+8	8	CD	FW
+9	9	CD	FW
+10	10	CD	FW
+11	11	CD	FW
+12	12	CD	FW
+13	13	CD	FW
+14	14	CD	FW
+
+sentence break
+
+class	class	NN	CW	NOUN	ARGUMENT
+neural	neural	JJ	CW	ADJ
+progenitor	progenitor	NN	CW	NOUN	ARGUMENT
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+stimulate	stimulate	VBP	CW	VERB
+process	process	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+have	have	VBP	CW	VERB
+antagonistic	antagonistic	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+example	example	NN	CW	NOUN	ARGUMENT
+recent	recent	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+demonstrate	demonstrate	VBP	CW	VERB
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+act	act	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+neocortex	neocortex	NN	CW	NOUN	ARGUMENT
+stimulate	stimulate	VBP	CW	VERB
+proliferation	proliferation	NN	CW	NOUN	ARGUMENT
+progenitor	progenitor	NN	CW	NOUN	ARGUMENT
+ventricular	ventricular	JJ	CW	ADJ
+zone	zone	NN	CW	NOUN	ARGUMENT
+inhibit	inhibit	VBP	CW	VERB
+proliferation	proliferation	NN	CW	NOUN	ARGUMENT
+progenitor	progenitor	NN	CW	NOUN	ARGUMENT
+subventricular	subventricular	JJ	CW	ADJ
+zone	zone	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+
+sentence break
+
+later	later	RB	ADV	CW
+postnatal	postnatal	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+normal	normal	JJ	CW	ADJ
+gabaergic	gabaergic	JJ	CW	ADJ
+input	input	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+require	require	VB	CW	VERB
+activity-dependent	activity-dependent	JJ	CW	ADJ
+plasticity	plasticity	NN	CW	NOUN	ARGUMENT
+visual	visual	JJ	CW	ADJ
+cortex	cortex	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+knockout	knockout	JJ	CW	ADJ
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+15	15	CD	FW
+16	16	CD	FW
+
+sentence break
+
+addition	addition	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+cn	cn	NN	CW	NOUN	ARGUMENT
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+signal	signal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+require	require	VBP	CW	VERB
+normal	normal	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+non-neural	non-neural	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+targeted	target	VBN	CW	VERB
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+gene	gene	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+defective	defective	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+secondary	secondary	JJ	CW	ADJ
+palate	palate	NN	CW	NOUN	ARGUMENT
+17	17	CD	FW
+18	18	CD	FW
+
+sentence break
+
+cleft	cleft	NN	CW	NOUN	ARGUMENT
+palate	palate	NN	CW	NOUN	ARGUMENT
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+mutant	mutant	JJ	CW	ADJ
+suggest	suggest	VBP	CW	VERB
+involvement	involvement	NN	CW	NOUN	ARGUMENT
+gaba-mediated	gaba-mediated	JJ	CW	ADJ
+signal	signal	NN	CW	NOUN	ARGUMENT
+normal	normal	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+derive	derive	VBP	CW	VERB
+oral	oral	JJ	CW	ADJ
+epithelium	epithelium	NN	CW	NOUN	ARGUMENT
+neural	neural	JJ	CW	ADJ
+crest	crest	NN	CW	NOUN	ARGUMENT
+ecto-mesenchyme	ecto-mesenchyme	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+conclusion	conclusion	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+further	further	JJ	CW	ADJ
+support	support	NN	CW	NOUN	ARGUMENT
+similar	similar	JJ	CW	ADJ
+cleft	cleft	NN	CW	NOUN	ARGUMENT
+palate	palate	NN	CW	NOUN	ARGUMENT
+defect	defect	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+deletion	deletion	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+mutation	mutation	NN	CW	NOUN	ARGUMENT
+encoding error!
+3	3	CD	FW
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+19	19	CD	FW
+20	20	CD	FW
+21	21	CD	FW
+22	22	CD	FW
+
+sentence break
+
+intriguing	intriguing	JJ	CW	ADJ
+genetic	genetic	JJ	CW	ADJ
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+indicate	indicate	VBP	CW	VERB
+role	role	NN	CW	NOUN	ARGUMENT
+gaba-mediated	gaba-mediated	JJ	CW	ADJ
+signal	signal	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+non-neural	non-neural	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+secondary	secondary	JJ	CW	ADJ
+palate	palate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+potential	potential	JJ	CW	ADJ
+pathway	pathway	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+early	early	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+additional	additional	JJ	CW	ADJ
+non-neural	non-neural	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+yet	yet	RB	ADV	CW
+be	be	VB	CW	VERB
+thoroughly	thoroughly	RB	ADV	CW
+explored	explore	VBN	CW	VERB
+23	23	CD	FW
+
+sentence break
+
+address	address	NN	CW	NOUN	ARGUMENT
+question	question	NN	CW	NOUN	ARGUMENT
+survey	survey	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+transcript	transcript	NN	CW	NOUN	ARGUMENT
+distribution	distribution	NN	CW	NOUN	ARGUMENT
+non	non	JJ	CW	ADJ
+cn	cn	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+use	use	NN	CW	NOUN	ARGUMENT
+whole	whole	NN	CW	NOUN	ARGUMENT
+mount	mount	VBP	CW	VERB
+situ	situ	FW	FW
+hybridization	hybridization	NN	CW	NOUN	ARGUMENT
+approach	approach	NN	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+indeed	indeed	RB	ADV	CW
+express	express	VBP	CW	VERB
+number	number	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+notable	notable	JJ	CW	ADJ
+feature	feature	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+gad	gad	VBN	CW	VERB
+1	1	CD	FW
+transcript	transcript	NN	CW	NOUN	ARGUMENT
+accumulate	accumulate	VBP	FW	aux_or_cop
+specialized	specialize	VBN	CW	VERB
+ectodermal	ectodermal	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+involve	involve	VB	CW	VERB
+formation	formation	NN	CW	NOUN	ARGUMENT
+mystacial	mystacial	JJ	CW	ADJ
+vibrissa	vibrissa	NN	CW	NOUN	ARGUMENT
+limb	limb	NN	CW	NOUN	ARGUMENT
+outgrowth	outgrowth	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+specialized	specialize	VBN	CW	VERB
+ectodermal	ectodermal	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+know	know	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+source	source	NN	CW	NOUN	ARGUMENT
+developmental	developmental	JJ	CW	ADJ
+signal	signal	NN	CW	NOUN	ARGUMENT
+24	24	CD	FW
+25	25	CD	FW
+26	26	CD	FW
+
+sentence break
+
+addition	addition	NN	CW	NOUN	ARGUMENT
+transcript	transcript	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+express	express	JJ	CW	ADJ
+mesenchymal	mesenchymal	JJ	CW	ADJ
+stem	stem	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+tailbud	tailbud	VBD	CW	VERB
+pharyngeal	pharyngeal	JJ	CW	ADJ
+endoderm	endoderm	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+expression	expression	NN	CW	NOUN	ARGUMENT
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+show	show	VBP	CW	VERB
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+express	express	VB	CW	VERB
+several	several	JJ	CW	ADJ
+non	non	JJ	CW	ADJ
+cn	cn	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+derive	derive	VB	CW	VERB
+three	three	CD	FW
+germ	germ	NN	CW	NOUN	ARGUMENT
+layer	layer	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+gene	gene	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+widely	widely	RB	ADV	CW
+express	express	VBP	CW	VERB
+embryonic	embryonic	JJ	CW	ADJ
+central	central	JJ	CW	ADJ
+nervous	nervous	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+27	27	CD	FW
+
+sentence break
+
+define	define	VB	CW	VERB
+additional	additional	JJ	CW	ADJ
+site	site	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+cn	cn	NN	CW	NOUN	ARGUMENT
+analyze	analyze	VBP	CW	VERB
+distribution	distribution	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+transcript	transcript	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+14	14	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+whole	whole	NN	CW	NOUN	ARGUMENT
+mount	mount	VBP	CW	VERB
+situ	situ	FW	FW
+hybridization	hybridization	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+transcript	transcript	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+detect	detect	VB	CW	VERB
+8	8	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+datum	datum	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+
+sentence break
+
+e	e	LS	FW
+9	9	CD	FW
+0	0	CD	FW
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+readily	readily	RB	ADV	FW
+detect	detect	VB	CW	VERB
+tailbud	tailbud	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+
+sentence break
+
+expression	expression	NN	CW	NOUN	ARGUMENT
+tail	tail	NN	CW	NOUN	ARGUMENT
+continue	continue	VBP	CW	VERB
+12	12	CD	FW
+be	be	VB	FW	aux_or_cop
+undetectable	undetectable	JJ	CW	ADJ
+13	13	CD	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+dand	dand	JJ	CW	ADJ
+datum	datum	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+period	period	NN	CW	NOUN	ARGUMENT
+corresponding	corresponding	JJ	CW	ADJ
+secondary	secondary	JJ	CW	ADJ
+body	body	NN	CW	NOUN	ARGUMENT
+axis	axis	NN	CW	NOUN	ARGUMENT
+formation	formation	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+28	28	CD	FW
+
+sentence break
+
+examination	examination	NN	CW	NOUN	ARGUMENT
+section	section	NN	CW	NOUN	ARGUMENT
+9	9	CD	FW
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+reveal	reveal	VBP	CW	VERB
+high	high	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+neural	neural	JJ	CW	ADJ
+epithelium	epithelium	NN	CW	NOUN	ARGUMENT
+caudal	caudal	JJ	CW	ADJ
+portion	portion	NN	CW	NOUN	ARGUMENT
+tailbud	tailbud	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+f.	f.	NN	CW	NOUN	ARGUMENT
+transcript	transcript	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+detect	detect	VB	CW	VERB
+surface	surface	NN	CW	NOUN	ARGUMENT
+ectoderm	ectoderm	NN	CW	NOUN	ARGUMENT
+surround	surround	VBP	CW	VERB
+tailbud	tailbud	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+f.	f.	RB	ADV	FW
+more	more	RBR	ADV	CW
+cranial	cranial	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+tail	tail	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+localize	localize	VB	CW	VERB
+paraxial	paraxial	JJ	CW	ADJ
+mesoderm	mesoderm	NN	CW	NOUN	ARGUMENT
+ventral	ventral	JJ	CW	ADJ
+neural	neural	JJ	CW	ADJ
+tube	tube	NN	CW	NOUN	ARGUMENT
+notochord	notochord	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+dorsal	dorsal	NN	CW	NOUN	ARGUMENT
+hindgut	hindgut	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+e.	e.	NN	CW	NOUN	ARGUMENT
+paraxial	paraxial	JJ	CW	ADJ
+mesoderm	mesoderm	NN	CW	NOUN	ARGUMENT
+highest	highest	JJS	CW	ADJ
+expression	expression	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+localized	localized	JJ	CW	ADJ
+ventrally	ventrally	RB	ADV	FW
+adjacent	adjacent	JJ	CW	ADJ
+notochord	notochord	JJ	CW	ADJ
+figure	figure	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+e.	e.	NN	CW	NOUN	ARGUMENT
+pharyngeal	pharyngeal	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+9	9	CD	FW
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+rna	rna	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+detect	detect	VB	CW	VERB
+second	second	JJ	CW	ADJ
+third	third	JJ	CW	ADJ
+fourth	fourth	JJ	CW	ADJ
+pharyngeal	pharyngeal	NN	CW	NOUN	ARGUMENT
+pouch	pouch	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+
+sentence break
+
+section	section	NN	CW	NOUN	ARGUMENT
+third	third	JJ	CW	ADJ
+pouch	pouch	NN	CW	NOUN	ARGUMENT
+confirm	confirm	VBP	CW	VERB
+presence	presence	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+pouch	pouch	NN	CW	NOUN	ARGUMENT
+endoderm	endoderm	NN	CW	NOUN	ARGUMENT
+datum	datum	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+
+sentence break
+
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+particularly	particularly	RB	ADV	CW
+strong	strong	JJ	CW	ADJ
+dorsal	dorsal	NN	CW	NOUN	ARGUMENT
+portion	portion	NN	CW	NOUN	ARGUMENT
+pouch	pouch	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+b.	b.	NN	CW	NOUN	ARGUMENT
+additional	additional	JJ	CW	ADJ
+diffuse	diffuse	JJ	CW	ADJ
+stain	stain	VBP	CW	VERB
+appear	appear	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+pharyngeal	pharyngeal	JJ	CW	ADJ
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+b.	b.	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+pharyngeal	pharyngeal	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+very	very	RB	ADV	CW
+transient	transient	JJ	CW	ADJ
+
+sentence break
+
+transcript	transcript	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+easily	easily	RB	ADV	FW
+detect	detect	VB	CW	VERB
+9	9	CD	FW
+only	only	RB	ADV	CW
+faintly	faintly	RB	ADV	CW
+9	9	CD	FW
+0	0	CD	FW
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+detectable	detectable	JJ	CW	ADJ
+10	10	CD	FW
+
+sentence break
+
+limb	limb	NN	CW	NOUN	ARGUMENT
+bud	bud	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+rna	rna	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+detect	detect	VB	CW	VERB
+9	9	CD	FW
+0	0	CD	FW
+11	11	CD	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+d	d	NN	CW	NOUN	ARGUMENT
+f	f	FW	FW
+g	g	NN	CW	NOUN	ARGUMENT
+h.	h.	NN	CW	NOUN	ARGUMENT
+transcript	transcript	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+initially	initially	RB	ADV	CW
+express	express	VBP	CW	VERB
+pre-apical	pre-apical	JJ	CW	ADJ
+ectodermal	ectodermal	JJ	CW	ADJ
+ridge	ridge	NN	CW	NOUN	ARGUMENT
+pre	pre	JJ	CW	ADJ
+aer	aer	NN	CW	NOUN	ARGUMENT
+9	9	CD	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+be	be	VB	FW	aux_or_cop
+see	see	VB	CW	VERB
+definitive	definitive	JJ	CW	ADJ
+aer	aer	NN	CW	NOUN	ARGUMENT
+forelimb	forelimb	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+d.	d.	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+express	express	VBP	CW	VERB
+diffuse	diffuse	JJ	CW	ADJ
+stripe	stripe	NN	CW	NOUN	ARGUMENT
+forelimb	forelimb	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+d	d	NN	CW	NOUN	ARGUMENT
+hindlimb	hindlimb	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+detect	detect	VB	CW	VERB
+apical	apical	JJ	CW	ADJ
+ectoderm	ectoderm	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+e.	e.	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+forelimb	forelimb	NN	CW	NOUN	ARGUMENT
+aer	aer	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fade	fade	VB	CW	VERB
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+see	see	VB	CW	VERB
+diffuse	diffuse	JJ	CW	ADJ
+stripe	stripe	NN	CW	NOUN	ARGUMENT
+proximal	proximal	JJ	CW	ADJ
+forelimb	forelimb	RB	ADV	FW
+diffuse	diffuse	JJ	CW	ADJ
+crescent	crescent	NN	CW	NOUN	ARGUMENT
+proximal	proximal	JJ	CW	ADJ
+hindlimb	hindlimb	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+g	g	NN	CW	NOUN	ARGUMENT
+h.	h.	NN	CW	NOUN	ARGUMENT
+earlier	earlier	RBR	ADV	CW
+activation	activation	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+forelimb	forelimb	NN	CW	NOUN	ARGUMENT
+reflect	reflect	VBP	CW	VERB
+normal	normal	JJ	CW	ADJ
+temporal	temporal	JJ	CW	ADJ
+order	order	NN	CW	NOUN	ARGUMENT
+event	event	NN	CW	NOUN	ARGUMENT
+limb	limb	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+section	section	NN	CW	NOUN	ARGUMENT
+indicate	indicate	VBP	CW	VERB
+expression	expression	NN	CW	NOUN	ARGUMENT
+limb	limb	NN	CW	NOUN	ARGUMENT
+bud	bud	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+surface	surface	NN	CW	NOUN	ARGUMENT
+ectoderm	ectoderm	NN	CW	NOUN	ARGUMENT
+adjacent	adjacent	JJ	CW	ADJ
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+datum	datum	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+
+sentence break
+
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+rna	rna	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+detect	detect	VB	CW	VERB
+limb	limb	NN	CW	NOUN	ARGUMENT
+whole	whole	JJ	CW	ADJ
+mount	mount	VBP	CW	VERB
+situ	situ	FW	FW
+hybridization	hybridization	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+
+sentence break
+
+dynamic	dynamic	JJ	CW	ADJ
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+detect	detect	VB	CW	VERB
+develop	develop	VB	CW	VERB
+vibrissa	vibrissa	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+14	14	CD	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+b	b	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+d	d	NN	CW	NOUN	ARGUMENT
+f	f	FW	FW
+g	g	NN	CW	NOUN	ARGUMENT
+h.	h.	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+first	first	RB	ADV	CW
+detect	detect	VB	CW	VERB
+supra-orbital	supra-orbital	JJ	CW	ADJ
+infra-orbital	infra-orbital	JJ	CW	ADJ
+post-oral	post-oral	JJ	CW	ADJ
+vibrissa	vibrissa	NN	CW	NOUN	ARGUMENT
+posterior	posterior	NN	CW	NOUN	ARGUMENT
+vibrissa	vibrissa	NN	CW	NOUN	ARGUMENT
+lateral	lateral	JJ	CW	ADJ
+nasal	nasal	JJ	CW	ADJ
+maxillary	maxillary	JJ	CW	ADJ
+row	row	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+b.	b.	NN	CW	NOUN	ARGUMENT
+nomenclature	nomenclature	NN	CW	NOUN	ARGUMENT
+29	29	CD	FW
+
+sentence break
+
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+rna	rna	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+detect	detect	VB	CW	VERB
+posterior	posterior	JJ	CW	ADJ
+labial	labial	JJ	CW	ADJ
+vibrissa	vibrissa	NN	CW	NOUN	ARGUMENT
+stage	stage	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+activate	activate	VBP	CW	VERB
+posterior	posterior	JJ	CW	ADJ
+anterior	anterior	JJ	CW	ADJ
+nose	nose	NN	CW	NOUN	ARGUMENT
+progression	progression	NN	CW	NOUN	ARGUMENT
+lateral	lateral	JJ	CW	ADJ
+nasal	nasal	JJ	CW	ADJ
+maxillary	maxillary	JJ	CW	ADJ
+row	row	NN	CW	NOUN	ARGUMENT
+reflect	reflect	VBP	CW	VERB
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+vibrissal	vibrissal	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+29	29	CD	FW
+
+sentence break
+
+13	13	CD	FW
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+detect	detect	VB	CW	VERB
+anterior	anterior	JJ	CW	ADJ
+lateral	lateral	JJ	CW	ADJ
+nasal	nasal	JJ	CW	ADJ
+maxillary	maxillary	JJ	CW	ADJ
+row	row	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+activate	activate	VBP	CW	VERB
+rhinal	rhinal	JJ	CW	ADJ
+labial	labial	JJ	CW	ADJ
+submental	submental	JJ	CW	ADJ
+vibrissa	vibrissa	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+c	c	NN	CW	NOUN	ARGUMENT
+d.	d.	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+strong	strong	JJ	CW	ADJ
+labial	labial	JJ	CW	ADJ
+submental	submental	JJ	CW	ADJ
+rhinal	rhinal	JJ	CW	ADJ
+vibrissa	vibrissa	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+f.	f.	FW	FW
+section	section	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+whole	whole	JJ	CW	ADJ
+mount	mount	VBP	CW	VERB
+show	show	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+localize	localize	VB	CW	VERB
+epidermal	epidermal	JJ	CW	ADJ
+placode	placode	NN	CW	NOUN	ARGUMENT
+mystacial	mystacial	JJ	CW	ADJ
+vibrissa	vibrissa	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+g	g	NN	CW	NOUN	ARGUMENT
+h	h	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+maintain	maintain	VB	CW	VERB
+placode	placode	NN	CW	NOUN	ARGUMENT
+begin	begin	VB	CW	VERB
+invaginate	invaginate	JJ	CW	ADJ
+figure	figure	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+g.	g.	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+hybridization	hybridization	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+sense	sense	NN	CW	NOUN	ARGUMENT
+strand	strand	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+probe	probe	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+perform	perform	VB	CW	VERB
+
+sentence break
+
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+hybridized	hybridize	VBD	CW	VERB
+sense	sense	NN	CW	NOUN	ARGUMENT
+probe	probe	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+reveal	reveal	VB	CW	VERB
+stain	stain	VB	CW	VERB
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+stage	stage	NN	CW	NOUN	ARGUMENT
+test	test	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+
+sentence break
+
+14	14	CD	FW
+
+sentence break
+
+sense	sense	NN	CW	NOUN	ARGUMENT
+strand	strand	NN	CW	NOUN	ARGUMENT
+hybridization	hybridization	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+10	10	CD	FW
+11	11	CD	FW
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+show	show	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+
+sentence break
+
+expression	expression	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+report	report	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+show	show	VBP	CW	VERB
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+activate	activate	VB	CW	VERB
+several	several	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+central	central	JJ	CW	ADJ
+nervous	nervous	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+transcript	transcript	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+see	see	VB	CW	VERB
+8	8	CD	FW
+be	be	VB	FW	aux_or_cop
+first	first	JJ	CW	ADJ
+detect	detect	VB	CW	VERB
+9	9	CD	FW
+0	0	CD	FW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+surprise	surprise	RB	ADV	CW
+very	very	RB	ADV	CW
+early	early	JJ	CW	ADJ
+phase	phase	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+largely	largely	RB	ADV	CW
+develop	develop	VB	CW	VERB
+cn	cn	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+localized	localized	JJ	CW	ADJ
+tail	tail	NN	CW	NOUN	ARGUMENT
+bud	bud	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+pre-apical	pre-apical	JJ	CW	ADJ
+ectodermal	ectodermal	JJ	CW	ADJ
+ridge	ridge	NN	CW	NOUN	ARGUMENT
+pre	pre	JJ	CW	ADJ
+aer	aer	NN	CW	NOUN	ARGUMENT
+forelimb	forelimb	NN	CW	NOUN	ARGUMENT
+bud	bud	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+development	development	NN	CW	NOUN	ARGUMENT
+proceed	proceed	VB	CW	VERB
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+detect	detect	VB	CW	VERB
+pharyngeal	pharyngeal	JJ	CW	ADJ
+endoderm	endoderm	NN	CW	NOUN	ARGUMENT
+ectodermal	ectodermal	JJ	CW	ADJ
+placode	placode	NN	CW	NOUN	ARGUMENT
+vibrissa	vibrissa	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+datum	datum	NN	CW	NOUN	ARGUMENT
+demonstrate	demonstrate	VBP	CW	VERB
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+express	express	VB	CW	VERB
+several	several	JJ	CW	ADJ
+site	site	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+cn	cn	NN	CW	NOUN	ARGUMENT
+derivative	derivative	JJ	CW	ADJ
+three	three	CD	FW
+germ	germ	NN	CW	NOUN	ARGUMENT
+layer	layer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+detect	detect	VB	CW	VERB
+expression	expression	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+
+sentence break
+
+lacz	lacz	NN	CW	NOUN	ARGUMENT
+transgene	transgene	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+vibrissa	vibrissa	NN	CW	NOUN	ARGUMENT
+limb	limb	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+novel	novel	JJ	CW	ADJ
+surprising	surprising	JJ	CW	ADJ
+situ	situ	FW	FW
+hybridization	hybridization	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+report	report	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+j	j	RB	ADV	FW
+j	j	JJ	CW	ADJ
+westmoreland	westmoreland	NN	CW	NOUN	ARGUMENT
+b	b	NN	CW	NOUN	ARGUMENT
+g	g	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+unpublished	unpublished	JJ	CW	ADJ
+result	result	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+previous	previous	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+show	show	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+regulate	regulate	VB	CW	VERB
+post-transcriptional	post-transcriptional	JJ	CW	ADJ
+translational	translational	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+mrna	mrna	NN	CW	NOUN	ARGUMENT
+translation	translation	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+stability	stability	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+regulate	regulate	VB	CW	VERB
+mature	mature	JJ	CW	ADJ
+neuron	neuron	NN	CW	NOUN	ARGUMENT
+level	level	NN	CW	NOUN	ARGUMENT
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+30	30	CD	FW
+31	31	CD	FW
+
+sentence break
+
+embryogenesis	embryogenesis	NN	CW	NOUN	ARGUMENT
+post-transcriptional	post-transcriptional	JJ	CW	ADJ
+regulation	regulation	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+alternative	alternative	JJ	CW	ADJ
+splice	splice	NN	CW	NOUN	ARGUMENT
+embryonic	embryonic	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+rat	rat	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+32	32	CD	FW
+33	33	CD	FW
+
+sentence break
+
+alternate	alternate	JJ	CW	ADJ
+embryonic	embryonic	JJ	CW	ADJ
+transcript	transcript	NN	CW	NOUN	ARGUMENT
+insert	insert	NN	CW	NOUN	ARGUMENT
+stop	stop	VB	CW	VERB
+codon	codon	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+mrna	mrna	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	CW	VERB
+truncated	truncate	VBN	CW	VERB
+protein	protein	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+25	25	CD	FW
+gad	gad	NN	CW	NOUN	ARGUMENT
+44	44	CD	FW
+5	5	CD	FW
+
+sentence break
+
+3	3	CD	FW
+end	end	NN	CW	NOUN	ARGUMENT
+respectively	respectively	RB	ADV	CW
+
+sentence break
+
+study	study	NN	CW	NOUN	ARGUMENT
+report	report	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+use	use	VBP	CW	VERB
+probe	probe	NN	CW	NOUN	ARGUMENT
+detect	detect	VB	CW	VERB
+adult	adult	JJ	CW	ADJ
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+mrna	mrna	NN	CW	NOUN	ARGUMENT
+encode	encode	VBP	CW	VERB
+gad	gad	NN	CW	NOUN	ARGUMENT
+67	67	CD	FW
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+embryonic	embryonic	JJ	CW	ADJ
+alternatively	alternatively	RB	ADV	CW
+spliced	splice	VBN	CW	VERB
+mrna	mrna	NN	CW	NOUN	ARGUMENT
+encode	encode	VBP	CW	VERB
+gad	gad	NN	CW	NOUN	ARGUMENT
+25	25	CD	FW
+gad	gad	NN	CW	NOUN	ARGUMENT
+44	44	CD	FW
+
+sentence break
+
+additional	additional	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+regulation	regulation	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+production	production	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+synthesis	synthesis	NN	CW	NOUN	ARGUMENT
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+non-neural	non-neural	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+type	type	NN	CW	NOUN	ARGUMENT
+detect	detect	VB	CW	VERB
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+whole	whole	JJ	CW	ADJ
+mount	mount	VBP	CW	VERB
+situ	situ	FW	FW
+hybridization	hybridization	NN	CW	NOUN	ARGUMENT
+datum	datum	NN	CW	NOUN	ARGUMENT
+report	report	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+extend	extend	VBP	CW	VERB
+result	result	NN	CW	NOUN	ARGUMENT
+recently	recently	RB	ADV	CW
+publish	publish	VB	CW	VERB
+section	section	NN	CW	NOUN	ARGUMENT
+situ	situ	FW	FW
+hybridization	hybridization	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+
+sentence break
+
+12	12	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+27	27	CD	FW
+
+sentence break
+
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+show	show	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+first	first	RB	ADV	CW
+detectable	detectable	JJ	CW	ADJ
+earlier	earlier	JJR	CW	ADJ
+9	9	CD	FW
+0	0	CD	FW
+reveal	reveal	VBP	CW	VERB
+novel	novel	JJ	CW	ADJ
+non	non	JJ	CW	ADJ
+cn	cn	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+pharyngeal	pharyngeal	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+vibrissa	vibrissa	JJ	CW	ADJ
+tail	tail	NN	CW	NOUN	ARGUMENT
+bud	bud	NN	CW	NOUN	ARGUMENT
+limb	limb	NN	CW	NOUN	ARGUMENT
+bud	bud	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+previous	previous	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+27	27	CD	FW
+together	together	RB	ADV	CW
+datum	datum	VBP	CW	VERB
+report	report	NN	CW	NOUN	ARGUMENT
+herein	herein	RB	ADV	FW
+provide	provide	VBP	CW	VERB
+comprehensive	comprehensive	JJ	CW	ADJ
+picture	picture	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+9	9	CD	FW
+0	0	CD	FW
+
+sentence break
+
+12	12	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+previous	previous	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+note	note	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+cn	cn	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+adult	adult	JJ	CW	ADJ
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+gad	gad	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+detect	detect	VB	CW	VERB
+number	number	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+kidney	kidney	NN	CW	NOUN	ARGUMENT
+testis	testis	NN	CW	NOUN	ARGUMENT
+oviduct	oviduct	NN	CW	NOUN	ARGUMENT
+pancreatic	pancreatic	JJ	CW	ADJ
+islet	islet	NN	CW	NOUN	ARGUMENT
+adrenal	adrenal	JJ	CW	ADJ
+cortex	cortex	NN	CW	NOUN	ARGUMENT
+34	34	CD	FW
+35	35	CD	FW
+36	36	CD	FW
+37	37	CD	FW
+
+sentence break
+
+previously	previously	RB	ADV	CW
+report	report	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+embryonic	embryonic	JJ	CW	ADJ
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+brain	brain	NN	CW	NOUN	ARGUMENT
+spinal	spinal	JJ	CW	ADJ
+cord	cord	NN	CW	NOUN	ARGUMENT
+rodent	rodent	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+lens	lens	NN	CW	NOUN	ARGUMENT
+fiber	fiber	NN	CW	NOUN	ARGUMENT
+olfactory	olfactory	JJ	CW	ADJ
+pit	pit	NN	CW	NOUN	ARGUMENT
+38	38	CD	FW
+39	39	CD	FW
+
+sentence break
+
+10	10	CD	FW
+
+sentence break
+
+12	12	CD	FW
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+express	express	VB	CW	VERB
+olfactory	olfactory	JJ	CW	ADJ
+lens	lens	NN	CW	NOUN	ARGUMENT
+placode	placode	NN	CW	NOUN	ARGUMENT
+anlagen	anlagen	NN	CW	NOUN	ARGUMENT
+olfactory	olfactory	JJ	CW	ADJ
+pit	pit	NN	CW	NOUN	ARGUMENT
+lens	lens	NN	CW	NOUN	ARGUMENT
+fiber	fiber	NN	CW	NOUN	ARGUMENT
+27	27	CD	FW
+
+sentence break
+
+also	also	RB	ADV	CW
+detect	detect	VB	CW	VERB
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+expression	expression	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+please	please	VB	CW	VERB
+see	see	VB	CW	VERB
+figure	figure	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+aand	aand	NN	CW	NOUN	ARGUMENT
+datum	datum	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+show	show	VB	CW	VERB
+
+sentence break
+
+expression	expression	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+heart	heart	NN	CW	NOUN	ARGUMENT
+blood	blood	NN	CW	NOUN	ARGUMENT
+vessel	vessel	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+report	report	NN	CW	NOUN	ARGUMENT
+27	27	CD	FW
+
+sentence break
+
+detect	detect	VB	CW	VERB
+weak	weak	JJ	CW	ADJ
+stain	stain	VB	CW	VERB
+heart	heart	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+detect	detect	VB	CW	VERB
+blood	blood	NN	CW	NOUN	ARGUMENT
+vessel	vessel	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+perhap	perhap	NN	CW	NOUN	ARGUMENT
+due	due	JJ	CW	ADJ
+very	very	RB	ADV	CW
+low	low	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+vasculature	vasculature	NN	CW	NOUN	ARGUMENT
+27	27	CD	FW
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+document	document	NN	CW	NOUN	ARGUMENT
+localized	localized	JJ	CW	ADJ
+expression	expression	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+additional	additional	JJ	CW	ADJ
+non	non	JJ	CW	ADJ
+cn	cn	NN	CW	NOUN	ARGUMENT
+site	site	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+potential	potential	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+signal	signal	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+interest	interest	NN	CW	NOUN	ARGUMENT
+role	role	NN	CW	NOUN	ARGUMENT
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+signal	signal	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+central	central	JJ	CW	ADJ
+nervous	nervous	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+stem	stem	NN	CW	NOUN	ARGUMENT
+cleft	cleft	NN	CW	NOUN	ARGUMENT
+palate	palate	NN	CW	NOUN	ARGUMENT
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+encoding error!
+3	3	CD	FW
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+mutant	mutant	JJ	CW	ADJ
+17	17	CD	FW
+18	18	CD	FW
+19	19	CD	FW
+21	21	CD	FW
+22	22	CD	FW
+
+sentence break
+
+genetic	genetic	JJ	CW	ADJ
+datum	datum	NN	CW	NOUN	ARGUMENT
+strongly	strongly	RB	ADV	CW
+suggest	suggest	VBP	CW	VERB
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+act	act	NN	CW	NOUN	ARGUMENT
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+modulate	modulate	VBP	CW	VERB
+development	development	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+datum	datum	NN	CW	NOUN	ARGUMENT
+report	report	NN	CW	NOUN	ARGUMENT
+here	here	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+explain	explain	VB	CW	VERB
+origin	origin	NN	CW	NOUN	ARGUMENT
+cleft	cleft	NN	CW	NOUN	ARGUMENT
+palate	palate	NN	CW	NOUN	ARGUMENT
+phenotype	phenotype	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+indicate	indicate	VB	CW	VERB
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+be	be	VB	FW	aux_or_cop
+express	express	VB	CW	VERB
+several	several	JJ	CW	ADJ
+additional	additional	JJ	CW	ADJ
+non	non	JJ	CW	ADJ
+cn	cn	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+particularly	particularly	RB	ADV	CW
+noteworthy	noteworthy	JJ	CW	ADJ
+include	include	VBP	CW	VERB
+aer	aer	NN	CW	NOUN	ARGUMENT
+limb	limb	NN	CW	NOUN	ARGUMENT
+bud	bud	NN	CW	NOUN	ARGUMENT
+ectodermal	ectodermal	JJ	CW	ADJ
+placode	placode	NN	CW	NOUN	ARGUMENT
+vibrissa	vibrissa	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+ectodermal	ectodermal	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+know	know	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+source	source	NN	CW	NOUN	ARGUMENT
+developmental	developmental	JJ	CW	ADJ
+signal	signal	NN	CW	NOUN	ARGUMENT
+require	require	VBP	CW	VERB
+morphogenesis	morphogenesis	NN	CW	NOUN	ARGUMENT
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+24	24	CD	FW
+25	25	CD	FW
+26	26	CD	FW
+40	40	CD	FW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+interest	interest	NN	CW	NOUN	ARGUMENT
+examine	examine	VB	CW	VERB
+expression	expression	NN	CW	NOUN	ARGUMENT
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+adjacent	adjacent	JJ	CW	ADJ
+ectodermal	ectodermal	JJ	CW	ADJ
+signal	signal	NN	CW	NOUN	ARGUMENT
+center	center	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+expression	expression	NN	CW	NOUN	ARGUMENT
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+adjacent	adjacent	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+indicate	indicate	VBP	CW	VERB
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+read	read	NN	CW	NOUN	ARGUMENT
+developmental	developmental	JJ	CW	ADJ
+signal	signal	NN	CW	NOUN	ARGUMENT
+mediated	mediate	VBN	CW	VERB
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+structure	structure	NN	CW	NOUN	ARGUMENT
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+gene	gene	NN	CW	NOUN	ARGUMENT
+encode	encode	VBP	CW	VERB
+67	67	CD	FW
+kda	kda	NN	CW	NOUN	ARGUMENT
+isoform	isoform	NN	CW	NOUN	ARGUMENT
+glutamate	glutamate	NN	CW	NOUN	ARGUMENT
+decarboxylase	decarboxylase	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+express	express	JJ	CW	ADJ
+tail	tail	NN	CW	NOUN	ARGUMENT
+bud	bud	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+vibrissal	vibrissal	NN	CW	NOUN	ARGUMENT
+placode	placode	NN	CW	NOUN	ARGUMENT
+pharyngeal	pharyngeal	NN	CW	NOUN	ARGUMENT
+arch	arch	NN	CW	NOUN	ARGUMENT
+pouch	pouch	NN	CW	NOUN	ARGUMENT
+apical	apical	JJ	CW	ADJ
+ectodermal	ectodermal	JJ	CW	ADJ
+ridge	ridge	NN	CW	NOUN	ARGUMENT
+aer	aer	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+ectoderm	ectoderm	NN	CW	NOUN	ARGUMENT
+limb	limb	NN	CW	NOUN	ARGUMENT
+bud	bud	NN	CW	NOUN	ARGUMENT
+mouse	mouse	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+9	9	CD	FW
+0	0	CD	FW
+
+sentence break
+
+14	14	CD	FW
+
+sentence break
+
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+express	express	VBP	CW	VERB
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+vibrissal	vibrissal	JJ	CW	ADJ
+placode	placode	NN	CW	NOUN	ARGUMENT
+aer	aer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+know	know	VB	CW	VERB
+source	source	NN	CW	NOUN	ARGUMENT
+developmental	developmental	JJ	CW	ADJ
+signal	signal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+site	site	NN	CW	NOUN	ARGUMENT
+expression	expression	NN	CW	NOUN	ARGUMENT
+correspond	correspond	VBP	CW	VERB
+stem	stem	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+population	population	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+rise	rise	NN	CW	NOUN	ARGUMENT
+multiple	multiple	JJ	CW	ADJ
+differentiated	differentiate	VBN	CW	VERB
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+tail	tail	NN	CW	NOUN	ARGUMENT
+bud	bud	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+pharyngeal	pharyngeal	NN	CW	NOUN	ARGUMENT
+endoderm	endoderm	NN	CW	NOUN	ARGUMENT
+mesenchyme	mesenchyme	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+localized	localized	JJ	CW	ADJ
+dynamic	dynamic	JJ	CW	ADJ
+expression	expression	NN	CW	NOUN	ARGUMENT
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+suggest	suggest	VBP	CW	VERB
+wider	wider	JJR	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+gad	gad	NN	CW	NOUN	ARGUMENT
+gaba	gaba	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+non-neural	non-neural	JJ	CW	ADJ
+tissue	tissue	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+previously	previously	RB	ADV	CW
+know	know	VB	CW	VERB
+
+sentence break
+
+whole	whole	JJ	CW	ADJ
+mount	mount	VBP	CW	VERB
+situ	situ	FW	FW
+hybridization	hybridization	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+perform	perform	VB	CW	VERB
+swiss	swiss	JJ	CW	ADJ
+webster	webster	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+41	41	CD	FW
+42	42	CD	FW
+
+sentence break
+
+morning	morning	NN	CW	NOUN	ARGUMENT
+vaginal	vaginal	JJ	CW	ADJ
+plug	plug	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+find	find	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+consider	consider	VB	CW	VERB
+0	0	CD	FW
+5	5	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+gestation	gestation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+gad	gad	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+probe	probe	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+derive	derive	VB	CW	VERB
+est	est	NN	CW	NOUN	ARGUMENT
+clone	clone	NN	CW	NOUN	ARGUMENT
+accession	accession	NN	CW	NOUN	ARGUMENT
+w	w	NN	CW	NOUN	ARGUMENT
+59173	59173	CD	FW
+
+sentence break
+
+5	5	CD	FW
+end	end	NN	CW	NOUN	ARGUMENT
+correspond	correspond	VBP	CW	VERB
+nucleotide	nucleotide	NN	CW	NOUN	ARGUMENT
+142	142	CD	FW
+exon	exon	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+43	43	CD	FW
+3	3	CD	FW
+end	end	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+nucleotide	nucleotide	JJ	CW	ADJ
+2041	2041	CD	FW
+cdna	cdna	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+44	44	CD	FW
+
+sentence break
+
+digoxygenin	digoxygenin	NN	CW	NOUN	ARGUMENT
+sense	sense	NN	CW	NOUN	ARGUMENT
+antisense	antisense	JJ	CW	ADJ
+rna	rna	NN	CW	NOUN	ARGUMENT
+probe	probe	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+generate	generate	VB	CW	VERB
+label	label	NN	CW	NOUN	ARGUMENT
+digoxygenin	digoxygenin	NN	CW	NOUN	ARGUMENT
+utp	utp	NN	CW	NOUN	ARGUMENT
+transcription	transcription	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+remove	remove	VB	CW	VERB
+fix	fix	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+paraformaldehyde	paraformaldehyde	NN	CW	NOUN	ARGUMENT
+pb	pb	NN	CW	NOUN	ARGUMENT
+overnight	overnight	JJ	CW	ADJ
+use	use	NN	CW	NOUN	ARGUMENT
+immediately	immediately	RB	ADV	CW
+situ	situ	FW	FW
+hybridization	hybridization	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+process	process	NN	CW	NOUN	ARGUMENT
+describe	describe	VBP	CW	VERB
+previously	previously	RB	ADV	CW
+41	41	CD	FW
+hybridized	hybridize	VBD	CW	VERB
+probe	probe	NN	CW	NOUN	ARGUMENT
+overnight	overnight	JJ	CW	ADJ
+50	50	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+formamide	formamide	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+x	x	CC	FW
+ssc	ssc	NN	CW	NOUN	ARGUMENT
+ph	ph	VBP	CW	VERB
+5	5	CD	FW
+0	0	CD	FW
+50	50	CD	FW
+encoding error!
+ml	ml	NN	CW	NOUN	ARGUMENT
+torulum	torulum	NN	CW	NOUN	ARGUMENT
+rna	rna	NN	CW	NOUN	ARGUMENT
+50	50	CD	FW
+encoding error!
+ml	ml	NN	CW	NOUN	ARGUMENT
+heparin	heparin	NN	CW	NOUN	ARGUMENT
+70	70	CD	FW
+encoding error!
+c.	c.	NN	CW	NOUN	ARGUMENT
+final	final	JJ	CW	ADJ
+concentration	concentration	NN	CW	NOUN	ARGUMENT
+probe	probe	NN	CW	NOUN	ARGUMENT
+hybridization	hybridization	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+1	1	CD	FW
+encoding error!
+ml	ml	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+overnight	overnight	JJ	CW	ADJ
+hybridization	hybridization	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+wash	wash	NN	CW	NOUN	ARGUMENT
+high	high	JJ	CW	ADJ
+stringency	stringency	NN	CW	NOUN	ARGUMENT
+prewarmed	prewarm	VBD	CW	VERB
+50	50	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+formamide	formamide	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+x	x	CC	FW
+ssc	ssc	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+sd	sd	NN	CW	NOUN	ARGUMENT
+wash	wash	NN	CW	NOUN	ARGUMENT
+70	70	CD	FW
+encoding error!
+c	c	NN	CW	NOUN	ARGUMENT
+90	90	CD	FW
+minute	minute	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+then	then	RB	ADV	CW
+wash	wash	VB	CW	VERB
+1	1	CD	FW
+
+sentence break
+
+1	1	CD	FW
+mix	mix	NN	CW	NOUN	ARGUMENT
+wash	wash	NN	CW	NOUN	ARGUMENT
+wash	wash	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+0	0	CD	FW
+m	m	NN	CW	NOUN	ARGUMENT
+nacl	nacl	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+mm	mm	NN	CW	NOUN	ARGUMENT
+tri	tri	FW	FW
+ph	ph	FW	FW
+7	7	CD	FW
+5	5	CD	FW
+0	0	CD	FW
+1	1	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+tween	tween	NN	CW	NOUN	ARGUMENT
+20	20	CD	FW
+10	10	CD	FW
+minute	minute	NN	CW	NOUN	ARGUMENT
+70	70	CD	FW
+encoding error!
+c.	c.	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+wash	wash	VB	CW	VERB
+several	several	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+wash	wash	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+room	room	NN	CW	NOUN	ARGUMENT
+temperature	temperature	NN	CW	NOUN	ARGUMENT
+remove	remove	VB	CW	VERB
+formamide	formamide	NN	CW	NOUN	ARGUMENT
+then	then	RB	ADV	CW
+treat	treat	VB	CW	VERB
+100	100	CD	FW
+encoding error!
+ml	ml	NN	CW	NOUN	ARGUMENT
+rnase	rnase	NN	CW	NOUN	ARGUMENT
+100	100	CD	FW
+unit	unit	NN	CW	NOUN	ARGUMENT
+ml	ml	NN	CW	NOUN	ARGUMENT
+rnase	rnase	NN	CW	NOUN	ARGUMENT
+t	t	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+wash	wash	NN	CW	NOUN	ARGUMENT
+ius	ius	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+hour	hour	NN	CW	NOUN	ARGUMENT
+37	37	CD	FW
+encoding error!
+c.	c.	NNS	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+rnase	rnase	NN	CW	NOUN	ARGUMENT
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+wash	wash	NN	CW	NOUN	ARGUMENT
+three	three	CD	FW
+change	change	NN	CW	NOUN	ARGUMENT
+50	50	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+formamide	formamide	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+x	x	CC	FW
+ssc	ssc	NN	CW	NOUN	ARGUMENT
+ph	ph	VBP	CW	VERB
+5	5	CD	FW
+0	0	CD	FW
+70	70	CD	FW
+encoding error!
+c	c	NN	CW	NOUN	ARGUMENT
+total	total	JJ	CW	ADJ
+90	90	CD	FW
+minute	minute	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+detection	detection	NN	CW	NOUN	ARGUMENT
+hybridized	hybridize	VBD	CW	VERB
+rna	rna	NN	CW	NOUN	ARGUMENT
+probe	probe	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+describe	describe	VBP	CW	VERB
+previously	previously	RB	ADV	CW
+41	41	CD	FW
+
+sentence break
+
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+photograph	photograph	NN	CW	NOUN	ARGUMENT
+clearing	clearing	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+leica	leica	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+mzfl	mzfl	NN	CW	NOUN	ARGUMENT
+iius	iius	NN	CW	NOUN	ARGUMENT
+dissect	dissect	VBP	CW	VERB
+scope	scope	NN	CW	NOUN	ARGUMENT
+hamamatsu	hamamatsu	NN	CW	NOUN	ARGUMENT
+model	model	NN	CW	NOUN	ARGUMENT
+c	c	NN	CW	NOUN	ARGUMENT
+4742	4742	CD	FW
+
+sentence break
+
+95	95	CD	FW
+digital	digital	JJ	CW	ADJ
+camera	camera	NN	CW	NOUN	ARGUMENT
+openlab	openlab	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+0	0	CD	FW
+7	7	CD	FW
+software	software	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+section	section	NN	CW	NOUN	ARGUMENT
+embryo	embryo	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+embed	embed	VBN	CW	VERB
+immunobed	immunobed	JJ	CW	ADJ
+polyscience	polyscience	NN	CW	NOUN	ARGUMENT
+resin	resin	NN	CW	NOUN	ARGUMENT
+sectioned	section	VBN	CW	VERB
+10	10	CD	FW
+encoding error!
+
+sentence break
+
+section	section	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+phtotographed	phtotograph	VBN	CW	VERB
+use	use	NN	CW	NOUN	ARGUMENT
+olympus	olympus	NN	CW	NOUN	ARGUMENT
+bx	bx	NN	CW	NOUN	ARGUMENT
+60	60	CD	FW
+microscope	microscope	NN	CW	NOUN	ARGUMENT
+fitted	fit	VBN	CW	VERB
+spot	spot	NN	CW	NOUN	ARGUMENT
+digital	digital	JJ	CW	ADJ
+camera	camera	NN	CW	NOUN	ARGUMENT
+diagnostic	diagnostic	JJ	CW	ADJ
+instrument	instrument	NN	CW	NOUN	ARGUMENT
+inc	inc	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

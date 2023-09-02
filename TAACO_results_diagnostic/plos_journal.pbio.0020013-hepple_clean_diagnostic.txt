@@ -1,0 +1,1292 @@
+word	lemma	POS	CW\FW	other categories
+eukaryotic	eukaryotic	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+there	there	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+massive	massive	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+raison	raison	NN	CW	NOUN	ARGUMENT
+encoding error!
+be	be	VB	FW	aux_or_cop
+remove	remove	VB	CW	VERB
+unnecessary	unnecessary	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+break	break	VB	CW	VERB
+down	down	RP	FW
+short	short	JJ	CW	ADJ
+peptide	peptide	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+thus	thus	RB	ADV	FW
+responsible	responsible	JJ	CW	ADJ
+important	important	JJ	CW	ADJ
+aspect	aspect	NN	CW	NOUN	ARGUMENT
+cellular	cellular	JJ	CW	ADJ
+regulation	regulation	NN	CW	NOUN	ARGUMENT
+timely	timely	JJ	CW	ADJ
+controll	controll	NN	CW	NOUN	ARGUMENT
+proteolysis	proteolysis	NN	CW	NOUN	ARGUMENT
+key	key	JJ	CW	ADJ
+cellular	cellular	JJ	CW	ADJ
+factor	factor	NN	CW	NOUN	ARGUMENT
+regulate	regulate	VBP	CW	VERB
+numerous	numerous	JJ	CW	ADJ
+biological	biological	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+cycle	cycle	NN	CW	NOUN	ARGUMENT
+differentiation	differentiation	NN	CW	NOUN	ARGUMENT
+stress	stress	NN	CW	NOUN	ARGUMENT
+response	response	NN	CW	NOUN	ARGUMENT
+neuronal	neuronal	JJ	CW	ADJ
+morphogenesis	morphogenesis	NN	CW	NOUN	ARGUMENT
+cell	cell	NN	CW	NOUN	ARGUMENT
+surface	surface	NN	CW	NOUN	ARGUMENT
+receptor	receptor	NN	CW	NOUN	ARGUMENT
+modulation	modulation	NN	CW	NOUN	ARGUMENT
+secretion	secretion	NN	CW	NOUN	ARGUMENT
+dna	dna	NN	CW	NOUN	ARGUMENT
+repair	repair	NN	CW	NOUN	ARGUMENT
+transcriptional	transcriptional	JJ	CW	ADJ
+regulation	regulation	NN	CW	NOUN	ARGUMENT
+long-term	long-term	JJ	CW	ADJ
+memory	memory	NN	CW	NOUN	ARGUMENT
+circadian	circadian	JJ	CW	ADJ
+rhythm	rhythm	NN	CW	NOUN	ARGUMENT
+immune	immune	JJ	CW	ADJ
+response	response	NN	CW	NOUN	ARGUMENT
+biogenesis	biogenesis	NN	CW	NOUN	ARGUMENT
+organelle	organelle	NN	CW	NOUN	ARGUMENT
+glickman	glickman	NN	CW	NOUN	ARGUMENT
+ciechanover	ciechanover	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+multitude	multitude	NN	CW	NOUN	ARGUMENT
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+myriad	myriad	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+involve	involve	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+surprising	surprising	JJ	CW	ADJ
+aberration	aberration	NN	CW	NOUN	ARGUMENT
+pathway	pathway	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+implicate	implicate	VBP	CW	VERB
+pathogenesis	pathogenesis	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+disease	disease	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+cancer	cancer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+so	so	RB	ADV	CW
+many	many	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+degradation	degradation	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+subject	subject	JJ	CW	ADJ
+multiple	multiple	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+regulation	regulation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+overwhelming	overwhelming	JJ	CW	ADJ
+majority	majority	NN	CW	NOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+select	select	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+first	first	JJ	CW	ADJ
+label	label	NN	CW	NOUN	ARGUMENT
+addition	addition	NN	CW	NOUN	ARGUMENT
+several	several	JJ	CW	ADJ
+copy	copy	NN	CW	NOUN	ARGUMENT
+small	small	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+tag	tag	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+thus	thus	RB	ADV	FW
+target	target	NN	CW	NOUN	ARGUMENT
+degradation	degradation	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ubiquitination	ubiquitination	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+regulate	regulate	VB	CW	VERB
+precise	precise	JJ	CW	ADJ
+selection	selection	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+specific	specific	JJ	CW	ADJ
+3	3	CD	FW
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+ligase	ligase	NN	CW	NOUN	ARGUMENT
+pickart	pickart	NN	CW	NOUN	ARGUMENT
+2001	2001	CD	FW
+
+sentence break
+
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+recognize	recognize	VBP	CW	VERB
+subset	subset	NN	CW	NOUN	ARGUMENT
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+tag	tag	NN	CW	NOUN	ARGUMENT
+link	link	NN	CW	NOUN	ARGUMENT
+carboxyl	carboxyl	NN	CW	NOUN	ARGUMENT
+terminus	terminus	NN	CW	NOUN	ARGUMENT
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+amino	amino	NN	CW	NOUN	ARGUMENT
+group	group	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+amide	amide	NN	CW	NOUN	ARGUMENT
+bond	bond	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+interestingly	interestingly	RB	ADV	CW
+ubiquitination	ubiquitination	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+reversible	reversible	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+even	even	RB	ADV	CW
+protein	protein	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+tag	tag	NN	CW	NOUN	ARGUMENT
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+fate	fate	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+not	not	RB	ADV	CW
+sealed	seal	VBN	CW	VERB
+specific	specific	JJ	CW	ADJ
+hydrolytic	hydrolytic	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+call	call	NN	CW	NOUN	ARGUMENT
+deubiquitinase	deubiquitinase	NN	CW	NOUN	ARGUMENT
+remove	remove	VB	CW	VERB
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+label	label	NN	CW	NOUN	ARGUMENT
+intact	intact	JJ	CW	ADJ
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+deubiquitinate	deubiquitinate	JJ	CW	ADJ
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+compete	compete	VBP	CW	VERB
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+act	act	NN	CW	NOUN	ARGUMENT
+polyubiquitined	polyubiquitined	JJ	CW	ADJ
+form	form	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+competition	competition	NN	CW	NOUN	ARGUMENT
+proteolysis	proteolysis	NN	CW	NOUN	ARGUMENT
+deubiquitination	deubiquitination	NN	CW	NOUN	ARGUMENT
+polyubiquitinated	polyubiquitinate	VBN	CW	VERB
+protein	protein	NN	CW	NOUN	ARGUMENT
+rarely	rarely	RB	ADV	CW
+accumulate	accumulate	VBP	CW	VERB
+cytoplasm	cytoplasm	NN	CW	NOUN	ARGUMENT
+healthy	healthy	JJ	CW	ADJ
+cell	cell	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+irreversibly	irreversibly	RB	ADV	FW
+degraded	degrade	VBN	CW	VERB
+deubiquitinated	deubiquitinate	VBN	CW	VERB
+rescue	rescue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+think	think	VB	CW	VERB
+competition	competition	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+certain	certain	JJ	CW	ADJ
+level	level	NN	CW	NOUN	ARGUMENT
+stringency	stringency	NN	CW	NOUN	ARGUMENT
+quality	quality	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+base	base	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+homology	homology	NN	CW	NOUN	ARGUMENT
+deubiquitinate	deubiquitinate	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+traditionally	traditionally	RB	ADV	CW
+classify	classify	VB	CW	VERB
+two	two	CD	FW
+family	family	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ubiquitin-specific	ubiquitin-specific	JJ	CW	ADJ
+protease	protease	NN	CW	NOUN	ARGUMENT
+ubp	ubp	NN	CW	NOUN	ARGUMENT
+usp	usp	NN	CW	NOUN	ARGUMENT
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+carboxy-terminal	carboxy-terminal	JJ	CW	ADJ
+hydrolase	hydrolase	NN	CW	NOUN	ARGUMENT
+uch	uch	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+classify	classify	VB	CW	VERB
+cysteine	cysteine	NN	CW	NOUN	ARGUMENT
+protease	protease	NN	CW	NOUN	ARGUMENT
+employ	employ	VB	CW	VERB
+active	active	JJ	CW	ADJ
+site	site	NN	CW	NOUN	ARGUMENT
+thiol	thiol	NN	CW	NOUN	ARGUMENT
+cleave	cleave	VBP	CW	VERB
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+kim	kim	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+wing	wing	NN	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+multiprotein	multiprotein	JJ	CW	ADJ
+core	core	NN	CW	NOUN	ARGUMENT
+particle	particle	NN	CW	NOUN	ARGUMENT
+cp	cp	NN	CW	NOUN	ARGUMENT
+proteolysis	proteolysis	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+separate	separate	JJ	CW	ADJ
+multiprotein	multiprotein	JJ	CW	ADJ
+regulatory	regulatory	JJ	CW	ADJ
+particle	particle	NN	CW	NOUN	ARGUMENT
+rp	rp	NN	CW	NOUN	ARGUMENT
+recognize	recognize	VBP	CW	VERB
+prepare	prepare	VB	CW	VERB
+substrate	substrate	JJ	CW	ADJ
+degradation	degradation	NN	CW	NOUN	ARGUMENT
+cp	cp	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+base	base	NN	CW	NOUN	ARGUMENT
+subcomplex	subcomplex	NN	CW	NOUN	ARGUMENT
+rp	rp	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+pivotal	pivotal	JJ	CW	ADJ
+anchor	anchor	NN	CW	NOUN	ARGUMENT
+polyubiquitin	polyubiquitin	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+directly	directly	RB	ADV	CW
+auxiliary	auxiliary	JJ	CW	ADJ
+ubiquitin-binding	ubiquitin-binding	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+lam	lam	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+hartmann	hartmann	NN	CW	NOUN	ARGUMENT
+petersen	petersen	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+base	base	NN	CW	NOUN	ARGUMENT
+attach	attach	VBP	CW	VERB
+outer	outer	JJ	CW	ADJ
+surface	surface	NN	CW	NOUN	ARGUMENT
+cp	cp	NN	CW	NOUN	ARGUMENT
+usee	usee	NN	CW	NOUN	ARGUMENT
+energy	energy	NN	CW	NOUN	ARGUMENT
+unravel	unravel	VB	CW	VERB
+substrate	substrate	JJ	CW	ADJ
+simultaneously	simultaneously	RB	ADV	CW
+prepare	prepare	VB	CW	VERB
+channel	channel	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+proteolytic	proteolytic	JJ	CW	ADJ
+chamber	chamber	NN	CW	NOUN	ARGUMENT
+cp	cp	NN	CW	NOUN	ARGUMENT
+forster	forster	NN	CW	NOUN	ARGUMENT
+hill	hill	NN	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+lid	lid	NN	CW	NOUN	ARGUMENT
+subcomplex	subcomplex	NN	CW	NOUN	ARGUMENT
+rp	rp	NN	CW	NOUN	ARGUMENT
+attach	attach	VBP	CW	VERB
+base	base	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+require	require	VB	CW	VERB
+proteolysis	proteolysis	NN	CW	NOUN	ARGUMENT
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+conjugate	conjugate	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+unstructured	unstructured	JJ	CW	ADJ
+polypeptide	polypeptide	NN	CW	NOUN	ARGUMENT
+glickman	glickman	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+
+sentence break
+
+guterman	guterman	NN	CW	NOUN	ARGUMENT
+glickman	glickman	NN	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+size	size	NN	CW	NOUN	ARGUMENT
+complexity	complexity	NN	CW	NOUN	ARGUMENT
+protein-eating	protein-eating	JJ	CW	ADJ
+machine	machine	NN	CW	NOUN	ARGUMENT
+hint	hint	NN	CW	NOUN	ARGUMENT
+exquisite	exquisite	JJ	CW	ADJ
+control	control	NN	CW	NOUN	ARGUMENT
+rgulate	rgulate	JJ	CW	ADJ
+function	function	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+intriguing	intriguing	JJ	CW	ADJ
+evolutionary	evolutionary	JJ	CW	ADJ
+structural	structural	JJ	CW	ADJ
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+lid	lid	NN	CW	NOUN	ARGUMENT
+independent	independent	JJ	CW	ADJ
+complex	complex	JJ	CW	ADJ
+cop	cop	NN	CW	NOUN	ARGUMENT
+9	9	CD	FW
+signalosome	signalosome	NN	CW	NOUN	ARGUMENT
+csn	csn	NN	CW	NOUN	ARGUMENT
+shed	shed	VBD	CW	VERB
+light	light	JJ	CW	ADJ
+respective	respective	JJ	CW	ADJ
+role	role	NN	CW	NOUN	ARGUMENT
+regulate	regulate	VBP	CW	VERB
+protein	protein	NN	CW	NOUN	ARGUMENT
+degradation	degradation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+eight	eight	CD	FW
+homologous	homologous	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+similar	similar	JJ	CW	ADJ
+structural	structural	JJ	CW	ADJ
+functional	functional	JJ	CW	ADJ
+motif	motif	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lot	lot	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+still	still	RB	ADV	CW
+unknown	unknown	JJ	CW	ADJ
+csn	csn	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+mediate	mediate	VBP	CW	VERB
+response	response	NN	CW	NOUN	ARGUMENT
+signal	signal	NN	CW	NOUN	ARGUMENT
+light	light	NN	CW	NOUN	ARGUMENT
+hormone	hormone	NN	CW	NOUN	ARGUMENT
+adhesion	adhesion	NN	CW	NOUN	ARGUMENT
+nutrient	nutrient	NN	CW	NOUN	ARGUMENT
+dna	dna	NN	CW	NOUN	ARGUMENT
+damage	damage	NN	CW	NOUN	ARGUMENT
+manner	manner	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+intimately	intimately	RB	ADV	CW
+link	link	NN	CW	NOUN	ARGUMENT
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+accomplish	accomplish	VB	CW	VERB
+instance	instance	NN	CW	NOUN	ARGUMENT
+suppress	suppress	VBP	CW	VERB
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+ligase	ligase	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+interact	interact	VBP	CW	VERB
+various	various	JJ	CW	ADJ
+component	component	NN	CW	NOUN	ARGUMENT
+pathway	pathway	NN	CW	NOUN	ARGUMENT
+bech	bech	NN	CW	NOUN	ARGUMENT
+otschir	otschir	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+cope	cope	VB	CW	VERB
+deshai	deshai	FW	FW
+2003	2003	CD	FW
+
+sentence break
+
+lus	lus	NN	CW	NOUN	ARGUMENT
+deng	deng	NN	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+particular	particular	JJ	CW	ADJ
+one	one	CD	FW
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+csn	csn	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+moderate	moderate	JJ	CW	ADJ
+scf	scf	NN	CW	NOUN	ARGUMENT
+skp	skp	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+cullin	cullin	NN	CW	NOUN	ARGUMENT
+f	f	LS	FW
+box	box	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+cullin-based	cullin-based	JJ	CW	ADJ
+3	3	CD	FW
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+ligase	ligase	NN	CW	NOUN	ARGUMENT
+removal	removal	NN	CW	NOUN	ARGUMENT
+ubiquitin-like	ubiquitin-like	JJ	CW	ADJ
+rub	rub	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+nedd	nedd	CD	FW
+8	8	CD	FW
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+cullin	cullin	NN	CW	NOUN	ARGUMENT
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+ligase	ligase	NN	CW	NOUN	ARGUMENT
+complex	complex	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+further	further	JJ	CW	ADJ
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+csn	csn	NN	CW	NOUN	ARGUMENT
+doubt	doubt	NN	CW	NOUN	ARGUMENT
+uncover	uncover	VBP	CW	VERB
+additional	additional	JJ	CW	ADJ
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+ubiquitin-mediated	ubiquitin-mediated	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+degradation	degradation	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+controll	controll	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+surprisingly	surprisingly	RB	ADV	CW
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+harbor	harbor	VBP	CW	VERB
+intrinsic	intrinsic	JJ	CW	ADJ
+deubiquitination	deubiquitination	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+eytan	eytan	NNP	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1993	1993	CD	FW
+
+sentence break
+
+moreover	moreover	RB	ADV	FW
+lid	lid	NN	CW	NOUN	ARGUMENT
+base	base	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+independently	independently	RB	ADV	CW
+rp	rp	NN	CW	NOUN	ARGUMENT
+deubiquitination	deubiquitination	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+source	source	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+attribute	attribute	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+include	include	VBP	CW	VERB
+associate	associate	JJ	CW	ADJ
+cysteine	cysteine	NN	CW	NOUN	ARGUMENT
+protease	protease	NN	CW	NOUN	ARGUMENT
+ubp	ubp	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+usp	usp	NN	CW	NOUN	ARGUMENT
+14	14	CD	FW
+borodovsky	borodovsky	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2001	2001	CD	FW
+
+sentence break
+
+legget	legget	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+uch	uch	NN	CW	NOUN	ARGUMENT
+37	37	CD	FW
+p	p	NN	CW	NOUN	ARGUMENT
+37	37	CD	FW
+lam	lam	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1997	1997	CD	FW
+
+sentence break
+
+hoelzl	hoelzl	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2000	2000	CD	FW
+doa	doa	JJ	CW	ADJ
+4	4	CD	FW
+ubp	ubp	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+papa	papa	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1999	1999	CD	FW
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+intrinsic	intrinsic	JJ	CW	ADJ
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+rpn	rpn	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+poh	poh	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+verma	verma	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+yao	yao	NN	CW	NOUN	ARGUMENT
+cohen	cohen	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+importance	importance	NN	CW	NOUN	ARGUMENT
+component	component	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+function	function	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+apparent	apparent	JJ	CW	ADJ
+partially	partially	RB	ADV	CW
+overlap	overlap	VBP	CW	VERB
+property	property	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+groundbreak	groundbreak	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+intrinsic	intrinsic	JJ	CW	ADJ
+cryptic	cryptic	JJ	CW	ADJ
+deubiquitinate	deubiquitinate	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+sensitive	sensitive	JJ	CW	ADJ
+metal	metal	NN	CW	NOUN	ARGUMENT
+chelator	chelator	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+be	be	VB	CW	VERB
+report	report	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+addition	addition	NN	CW	NOUN	ARGUMENT
+classic	classic	JJ	CW	ADJ
+cysteine	cysteine	NN	CW	NOUN	ARGUMENT
+protease	protease	NN	CW	NOUN	ARGUMENT
+behavior	behavior	NN	CW	NOUN	ARGUMENT
+verma	verma	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+yao	yao	NN	CW	NOUN	ARGUMENT
+cohen	cohen	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+metalloprotease-like	metalloprotease-like	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+map	map	NN	CW	NOUN	ARGUMENT
+putative	putative	JJ	CW	ADJ
+catalytic	catalytic	JJ	CW	ADJ
+mpn	mpn	NN	CW	NOUN	ARGUMENT
++	+	CC	FW
+jamm	jamm	NN	CW	NOUN	ARGUMENT
+motif	motif	NN	CW	NOUN	ARGUMENT
+lid	lid	NN	CW	NOUN	ARGUMENT
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+rpn	rpn	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+lie	lie	NN	CW	NOUN	ARGUMENT
+heart	heart	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+mechanism	mechanism	NN	CW	NOUN	ARGUMENT
+link	link	NN	CW	NOUN	ARGUMENT
+deubiquitination	deubiquitination	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+degradation	degradation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+notably	notably	RB	ADV	FW
+rpn	rpn	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+shares	share	NNS	CW	NOUN	ARGUMENT
+close	close	JJ	CW	ADJ
+homology	homology	NN	CW	NOUN	ARGUMENT
+csn	csn	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+responsible	responsible	JJ	CW	ADJ
+proteolytic	proteolytic	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+respective	respective	JJ	CW	ADJ
+complex	complex	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+define	define	VB	CW	VERB
+new	new	JJ	CW	ADJ
+family	family	NN	CW	NOUN	ARGUMENT
+putative	putative	JJ	CW	ADJ
+metalloprotease	metalloprotease	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+proteasomal	proteasomal	JJ	CW	ADJ
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+csn	csn	NN	CW	NOUN	ARGUMENT
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+additional	additional	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+domain	domain	NN	CW	NOUN	ARGUMENT
+life	life	NN	CW	NOUN	ARGUMENT
+mpn	mpn	NN	CW	NOUN	ARGUMENT
++	+	CC	FW
+jamm	jamm	NN	CW	NOUN	ARGUMENT
+motif	motif	NN	CW	NOUN	ARGUMENT
+garner	garner	VB	CW	VERB
+great	great	JJ	CW	ADJ
+attention	attention	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+trademark	trademark	NN	CW	NOUN	ARGUMENT
+mpn	mpn	NN	CW	NOUN	ARGUMENT
++	+	CC	FW
+jamm	jamm	NN	CW	NOUN	ARGUMENT
+motif	motif	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+consensus	consensus	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+h	h	NN	CW	NOUN	ARGUMENT
+xhx	xhx	NN	CW	NOUN	ARGUMENT
+7	7	CD	FW
+sx	sx	NN	CW	NOUN	ARGUMENT
+d	d	NN	CW	NOUN	ARGUMENT
+bear	bear	NN	CW	NOUN	ARGUMENT
+resemblance	resemblance	NN	CW	NOUN	ARGUMENT
+active	active	JJ	CW	ADJ
+site	site	NN	CW	NOUN	ARGUMENT
+zinc	zinc	NN	CW	NOUN	ARGUMENT
+metalloprotease	metalloprotease	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+member	member	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+predict	predict	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+hydrolytic	hydrolytic	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+specific	specific	JJ	CW	ADJ
+removal	removal	NN	CW	NOUN	ARGUMENT
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+ubiquitin-like	ubiquitin-like	JJ	CW	ADJ
+domain	domain	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+maytal	maytal	JJ	CW	ADJ
+kivity	kivity	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+verma	verma	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+yao	yao	NN	CW	NOUN	ARGUMENT
+cohen	cohen	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+further	further	RB	ADV	CW
+development	development	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+independent	independent	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+determine	determine	VB	CW	VERB
+molecular	molecular	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+mpn	mpn	NN	CW	NOUN	ARGUMENT
++	+	CC	FW
+jamm	jamm	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+archaebacterium	archaebacterium	NN	CW	NOUN	ARGUMENT
+ambroggio	ambroggio	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+tran	tran	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+structure	structure	NN	CW	NOUN	ARGUMENT
+identify	identify	VBP	CW	VERB
+zinc	zinc	NN	CW	NOUN	ARGUMENT
+ion	ion	NN	CW	NOUN	ARGUMENT
+chelated	chelate	VBD	CW	VERB
+two	two	CD	FW
+histidine	histidine	NN	CW	NOUN	ARGUMENT
+aspartic	aspartic	JJ	CW	ADJ
+residue	residue	NN	CW	NOUN	ARGUMENT
+mpn	mpn	NN	CW	NOUN	ARGUMENT
++	+	CC	FW
+jamm	jamm	NN	CW	NOUN	ARGUMENT
+sequence	sequence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fourth	fourth	JJ	CW	ADJ
+ligand	ligand	NN	CW	NOUN	ARGUMENT
+appear	appear	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+water	water	NN	CW	NOUN	ARGUMENT
+molecule	molecule	NN	CW	NOUN	ARGUMENT
+activate	activate	VBP	CW	VERB
+interaction	interaction	NN	CW	NOUN	ARGUMENT
+conserved	conserve	VBN	CW	VERB
+glutamate	glutamate	JJ	CW	ADJ
+serve	serve	VB	CW	VERB
+active	active	JJ	CW	ADJ
+site	site	NN	CW	NOUN	ARGUMENT
+nucleophile	nucleophile	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+overall	overall	JJ	CW	ADJ
+protein	protein	NN	CW	NOUN	ARGUMENT
+certainly	certainly	RB	ADV	CW
+have	have	VBP	CW	VERB
+property	property	NN	CW	NOUN	ARGUMENT
+consistent	consistent	JJ	CW	ADJ
+metallohydrolase	metallohydrolase	NN	CW	NOUN	ARGUMENT
+serve	serve	VBP	CW	VERB
+prototype	prototype	NN	CW	NOUN	ARGUMENT
+deubiquitinate	deubiquitinate	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+class	class	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+revelation	revelation	NN	CW	NOUN	ARGUMENT
+add	add	VB	CW	VERB
+all-new	all-new	JJ	CW	ADJ
+enzymatic	enzymatic	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+additional	additional	JJ	CW	ADJ
+layer	layer	NN	CW	NOUN	ARGUMENT
+regulation	regulation	NN	CW	NOUN	ARGUMENT
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+now	now	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+evident	evident	JJ	CW	ADJ
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+contain	contain	VBP	CW	VERB
+member	member	NN	CW	NOUN	ARGUMENT
+novel	novel	JJ	CW	ADJ
+metalloprotease	metalloprotease	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+fundamental	fundamental	JJ	CW	ADJ
+question	question	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+raise	raise	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	FW	aux_or_cop
+proteolytic	proteolytic	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+need	need	VBP	CW	VERB
+auxiliary	auxiliary	JJ	CW	ADJ
+protease	protease	NN	CW	NOUN	ARGUMENT
+hydrolysis	hydrolysis	NN	CW	NOUN	ARGUMENT
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+domain	domain	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+first	first	RB	ADV	CW
+glance	glance	NN	CW	NOUN	ARGUMENT
+delegation	delegation	NN	CW	NOUN	ARGUMENT
+task	task	NN	CW	NOUN	ARGUMENT
+proteolytic	proteolytic	JJ	CW	ADJ
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+situate	situate	VBP	CW	VERB
+proteolytic	proteolytic	JJ	CW	ADJ
+core	core	NN	CW	NOUN	ARGUMENT
+particle	particle	NN	CW	NOUN	ARGUMENT
+auxiliary	auxiliary	JJ	CW	ADJ
+deubiquitinate	deubiquitinate	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+situate	situate	VB	CW	VERB
+regulatory	regulatory	JJ	CW	ADJ
+particle	particle	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+clear-cut	clear-cut	JJ	CW	ADJ
+
+sentence break
+
+latter	latter	JJ	CW	ADJ
+cleave	cleave	VBP	CW	VERB
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+domain	domain	NN	CW	NOUN	ARGUMENT
+core	core	NN	CW	NOUN	ARGUMENT
+proteolytic	proteolytic	JJ	CW	ADJ
+subunit	subunit	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+protein	protein	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+still	still	RB	ADV	CW
+do	do	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+explain	explain	VB	CW	VERB
+mechanistic	mechanistic	JJ	CW	ADJ
+rational	rational	JJ	CW	ADJ
+find	find	VB	CW	VERB
+deubiquitination	deubiquitination	JJ	CW	ADJ
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+principle	principle	NN	CW	NOUN	ARGUMENT
+deubiquitination	deubiquitination	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+use	use	VB	CW	VERB
+recycling	recycle	VBG	CW	VERB
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+abet	abet	VB	CW	VERB
+degradation	degradation	NN	CW	NOUN	ARGUMENT
+removal	removal	NN	CW	NOUN	ARGUMENT
+tightly	tightly	RB	ADV	CW
+fold	fold	JJ	CW	ADJ
+highly	highly	RB	ADV	CW
+stable	stable	JJ	CW	ADJ
+globular	globular	JJ	CW	ADJ
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+domain	domain	NN	CW	NOUN	ARGUMENT
+mitigating	mitigating	JJ	CW	ADJ
+degradation	degradation	NN	CW	NOUN	ARGUMENT
+removal	removal	NN	CW	NOUN	ARGUMENT
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+anchor	anchor	NN	CW	NOUN	ARGUMENT
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+easily	easily	RB	ADV	FW
+release	release	NN	CW	NOUN	ARGUMENT
+rescue	rescue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+recycling	recycle	VBG	CW	VERB
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+indeed	indeed	RB	ADV	CW
+crucial	crucial	JJ	CW	ADJ
+feature	feature	NN	CW	NOUN	ARGUMENT
+deubiquitination	deubiquitination	NN	CW	NOUN	ARGUMENT
+proper	proper	JJ	CW	ADJ
+cellular	cellular	JJ	CW	ADJ
+maintenance	maintenance	NN	CW	NOUN	ARGUMENT
+legget	legget	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+distinguishing	distinguish	VBG	CW	VERB
+option	option	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+3	3	CD	FW
+however	however	RB	ADV	FW
+depend	depend	VB	CW	VERB
+large	large	JJ	CW	ADJ
+extent	extent	NN	CW	NOUN	ARGUMENT
+delicate	delicate	JJ	CW	ADJ
+balance	balance	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+proteolytic	proteolytic	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+associate	associate	JJ	CW	ADJ
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+proteolysis	proteolysis	NN	CW	NOUN	ARGUMENT
+deubiquitination	deubiquitination	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+once	once	RB	ADV	CW
+bind	bind	VBP	CW	VERB
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+polyubiquitinated	polyubiquitinate	VBN	CW	VERB
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unfold	unfold	VB	CW	VERB
+rp	rp	NN	CW	NOUN	ARGUMENT
+irreversibly	irreversibly	RB	ADV	FW
+translocated	translocate	VBN	CW	VERB
+cp	cp	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+propose	propose	VBP	CW	VERB
+long	long	JJ	CW	ADJ
+polyubiquitin	polyubiquitin	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+commit	commit	VB	CW	VERB
+substrate	substrate	JJ	CW	ADJ
+unfold	unfold	VBP	CW	VERB
+degradation	degradation	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+short	short	JJ	CW	ADJ
+chain	chain	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+poor	poor	JJ	CW	ADJ
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+edited	edit	VBN	CW	VERB
+deubiquitinate	deubiquitinate	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+premature	premature	JJ	CW	ADJ
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+release	release	NN	CW	NOUN	ARGUMENT
+eytan	eytan	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1993	1993	CD	FW
+
+sentence break
+
+lam	lam	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1997	1997	CD	FW
+
+sentence break
+
+thrower	thrower	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2000	2000	CD	FW
+
+sentence break
+
+guterman	guterman	NN	CW	NOUN	ARGUMENT
+glickman	glickman	NN	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+
+sentence break
+
+extended	extend	VBN	CW	VERB
+polyubiquitin	polyubiquitin	NN	CW	NOUN	ARGUMENT
+chain	chain	NN	CW	NOUN	ARGUMENT
+slow	slow	VB	CW	VERB
+down	down	RP	FW
+chain	chain	NN	CW	NOUN	ARGUMENT
+disassembly	disassembly	NN	CW	NOUN	ARGUMENT
+thereby	thereby	RB	ADV	FW
+allow	allow	VBP	CW	VERB
+ample	ample	JJ	CW	ADJ
+time	time	NN	CW	NOUN	ARGUMENT
+unfold	unfold	VBP	CW	VERB
+proteolysis	proteolysis	NN	CW	NOUN	ARGUMENT
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+interestingly	interestingly	RB	ADV	CW
+trim	trim	JJ	CW	ADJ
+shaving	shave	VBG	CW	VERB
+deubiquitinate	deubiquitinate	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+associate	associate	JJ	CW	ADJ
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+exact	exact	JJ	CW	ADJ
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+various	various	JJ	CW	ADJ
+proteasome-associated	proteasome-associated	JJ	CW	ADJ
+deubiquitinate	deubiquitinate	JJ	CW	ADJ
+enzyme	enzyme	NN	CW	NOUN	ARGUMENT
+distinct	distinct	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+yet	yet	RB	ADV	CW
+be	be	VB	CW	VERB
+elucidated	elucidate	VBN	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+expect	expect	VBP	CW	VERB
+order	order	NN	CW	NOUN	ARGUMENT
+obtain	obtain	VB	CW	VERB
+efficient	efficient	JJ	CW	ADJ
+proteolysis	proteolysis	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+shaving	shave	VBG	CW	VERB
+chain	chain	NN	CW	NOUN	ARGUMENT
+proximal	proximal	JJ	CW	ADJ
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+slower	slower	JJR	CW	ADJ
+rate	rate	NN	CW	NOUN	ARGUMENT
+trim	trim	JJ	CW	ADJ
+distal	distal	JJ	CW	ADJ
+moiety	moiety	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+requirement	requirement	NN	CW	NOUN	ARGUMENT
+longer	longer	RBR	ADV	CW
+polyubiquitin	polyubiquitin	JJ	CW	ADJ
+tag	tag	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+preferential	preferential	JJ	CW	ADJ
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+degradation	degradation	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+uniqueness	uniqueness	JJ	CW	ADJ
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+label	label	NN	CW	NOUN	ARGUMENT
+degradation	degradation	NN	CW	NOUN	ARGUMENT
+lie	lie	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+reversible	reversible	JJ	CW	ADJ
+tag	tag	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+deubiquitinase	deubiquitinase	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+rpn	rpn	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+serve	serve	VBP	CW	VERB
+proofread	proofread	NN	CW	NOUN	ARGUMENT
+device	device	NN	CW	NOUN	ARGUMENT
+reversal	reversal	NN	CW	NOUN	ARGUMENT
+fortune	fortune	NN	CW	NOUN	ARGUMENT
+various	various	JJ	CW	ADJ
+stage	stage	NN	CW	NOUN	ARGUMENT
+process	process	NN	CW	NOUN	ARGUMENT
+right	right	NN	CW	NOUN	ARGUMENT
+final	final	JJ	CW	ADJ
+step	step	NN	CW	NOUN	ARGUMENT
+irreversible	irreversible	JJ	CW	ADJ
+degradation	degradation	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+identifying	identify	VBG	CW	VERB
+rpn	rpn	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+csn	csn	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+member	member	NN	CW	NOUN	ARGUMENT
+novel	novel	JJ	CW	ADJ
+class	class	NN	CW	NOUN	ARGUMENT
+metallohydrolase	metallohydrolase	NN	CW	NOUN	ARGUMENT
+immediately	immediately	RB	ADV	CW
+elevate	elevate	VB	CW	VERB
+promising	promising	JJ	CW	ADJ
+drugable	drugable	JJ	CW	ADJ
+candidate	candidate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+undoubtedly	undoubtedly	RB	ADV	CW
+molecular	molecular	JJ	CW	ADJ
+structure	structure	NN	CW	NOUN	ARGUMENT
+deciphered	decipher	VBN	CW	VERB
+group	group	NN	CW	NOUN	ARGUMENT
+deshai	deshaus	NN	CW	NOUN	ARGUMENT
+ambroggio	ambroggio	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+bycroft	bycroft	NN	CW	NOUN	ARGUMENT
+tran	tran	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+2003	2003	CD	FW
+focus	focus	NN	CW	NOUN	ARGUMENT
+effort	effort	NN	CW	NOUN	ARGUMENT
+design	design	NN	CW	NOUN	ARGUMENT
+novel	novel	JJ	CW	ADJ
+site-specific	site-specific	JJ	CW	ADJ
+inhibitor	inhibitor	NN	CW	NOUN	ARGUMENT
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+proteasome	proteasome	NN	CW	NOUN	ARGUMENT
+pathway	pathway	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+csn	csn	NN	CW	NOUN	ARGUMENT
+5	5	CD	FW
+be	be	VB	FW	aux_or_cop
+think	think	VB	CW	VERB
+impede	impede	VB	CW	VERB
+action	action	NN	CW	NOUN	ARGUMENT
+ubiquitin	ubiquitin	NN	CW	NOUN	ARGUMENT
+ligase	ligase	NN	CW	NOUN	ARGUMENT
+shaving	shave	VBG	CW	VERB
+cullin	cullin	NN	CW	NOUN	ARGUMENT
+rub	rub	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+nedd	nedd	CD	FW
+8	8	CD	FW
+modification	modification	NN	CW	NOUN	ARGUMENT
+possibly	possibly	RB	ADV	FW
+also	also	RB	ADV	CW
+deubiquitinate	deubiquitinate	JJ	CW	ADJ
+substrate	substrate	NN	CW	NOUN	ARGUMENT
+bind	bind	VBP	CW	VERB
+cullin	cullin	NN	CW	NOUN	ARGUMENT
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+rpn	rpn	NN	CW	NOUN	ARGUMENT
+11	11	CD	FW
+inhibition	inhibition	NN	CW	NOUN	ARGUMENT
+depend	depend	VBP	CW	VERB
+largely	largely	RB	ADV	CW
+rpn	rpn	JJ	CW	ADJ
+11	11	CD	FW
+participate	participate	VBP	CW	VERB
+primarily	primarily	RB	ADV	FW
+shaving	shave	VBG	CW	VERB
+substrate	substrate	JJ	CW	ADJ
+chain	chain	NN	CW	NOUN	ARGUMENT
+promote	promote	VBP	CW	VERB
+release	release	NN	CW	NOUN	ARGUMENT
+rescue	rescue	NN	CW	NOUN	ARGUMENT
+trim	trim	JJ	CW	ADJ
+polyubiquitin	polyubiquitin	NN	CW	NOUN	ARGUMENT
+tag	tag	NN	CW	NOUN	ARGUMENT
+allow	allow	VBP	CW	VERB
+proteolysis	proteolysis	NN	CW	NOUN	ARGUMENT
+quality	quality	NN	CW	NOUN	ARGUMENT
+control	control	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

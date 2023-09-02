@@ -1,0 +1,1883 @@
+word	lemma	POS	CW\FW	other categories
+kofus	kofus	NN	CW	NOUN	ARGUMENT
+annan	annan	NN	CW	NOUN	ARGUMENT
+secretary	secretary	NN	CW	NOUN	ARGUMENT
+general	general	JJ	CW	ADJ
+united	united	JJ	CW	ADJ
+nation	nation	NN	CW	NOUN	ARGUMENT
+recently	recently	RB	ADV	CW
+call	call	JJ	CW	ADJ
+attention	attention	NN	CW	NOUN	ARGUMENT
+clear	clear	JJ	CW	ADJ
+inequality	inequality	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+develop	develop	VB	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+challenge	challenge	NN	CW	NOUN	ARGUMENT
+building	building	NN	CW	NOUN	ARGUMENT
+bridge	bridge	NN	CW	NOUN	ARGUMENT
+gap	gap	NN	CW	NOUN	ARGUMENT
+bring	bring	VBP	CW	VERB
+united	united	JJ	CW	ADJ
+nation	nation	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+closer	closer	RBR	ADV	CW
+other	other	JJ	CW	ADJ
+annan	annan	JJ	CW	ADJ
+2003	2003	CD	FW
+
+sentence break
+
+mr	mr	NN	CW	NOUN	ARGUMENT
+annan	annan	NN	CW	NOUN	ARGUMENT
+stress	stress	NN	CW	NOUN	ARGUMENT
+importance	importance	NN	CW	NOUN	ARGUMENT
+reduce	reduce	VB	CW	VERB
+inequality	inequality	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+develop	develop	VB	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+assert	assert	VBP	CW	VERB
+unbalanced	unbalanced	JJ	CW	ADJ
+distribution	distribution	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+generate	generate	VBP	CW	VERB
+serious	serious	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+scientific	scientific	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indeed	indeed	RB	ADV	CW
+mr	mr	NN	CW	NOUN	ARGUMENT
+annan	annan	NN	CW	NOUN	ARGUMENT
+sentiment	sentiment	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+also	also	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+echo	echo	VB	CW	VERB
+recently	recently	RB	ADV	CW
+several	several	JJ	CW	ADJ
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+overwhelming	overwhelming	JJ	CW	ADJ
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+disparity	disparity	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+output	output	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+already	already	RB	ADV	CW
+develop	develop	VB	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+gibb	gibb	JJ	CW	ADJ
+1995	1995	CD	FW
+
+sentence break
+
+may	may	MD	CW	VERB
+1997	1997	CD	FW
+
+sentence break
+
+goldemberg	goldemberg	NN	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+
+sentence break
+
+riddoch	riddoch	NN	CW	NOUN	ARGUMENT
+2000	2000	CD	FW
+
+sentence break
+
+example	example	NN	CW	NOUN	ARGUMENT
+recent	recent	JJ	CW	ADJ
+united	united	JJ	CW	ADJ
+nation	nation	NN	CW	NOUN	ARGUMENT
+educational	educational	JJ	CW	ADJ
+scientific	scientific	JJ	CW	ADJ
+cultural	cultural	JJ	CW	ADJ
+organization	organization	NN	CW	NOUN	ARGUMENT
+unesco	unesco	JJ	CW	ADJ
+estimate	estimate	NN	CW	NOUN	ARGUMENT
+unesco	unesco	JJ	CW	ADJ
+2001	2001	CD	FW
+indicate	indicate	VBP	CW	VERB
+1997	1997	CD	FW
+develop	develop	VBP	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+account	account	NN	CW	NOUN	ARGUMENT
+84	84	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+global	global	JJ	CW	ADJ
+investment	investment	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+research	research	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+approximately	approximately	RB	ADV	CW
+72	72	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	CW	VERB
+approximately	approximately	RB	ADV	CW
+88	88	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+technical	technical	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+register	register	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+citation	citation	NN	CW	NOUN	ARGUMENT
+index	index	NN	CW	NOUN	ARGUMENT
+scus	scus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+north	north	RB	ADV	CW
+america	america	JJ	CW	ADJ
+europe	europe	NN	CW	NOUN	ARGUMENT
+clearly	clearly	RB	ADV	CW
+dominate	dominate	VB	CW	VERB
+number	number	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+produce	produce	VB	CW	VERB
+annually	annually	RB	ADV	CW
+36	36	CD	FW
+6	6	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+37	37	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+respectively	respectively	RB	ADV	CW
+worldwide	worldwide	JJ	CW	ADJ
+unesco	unesco	JJ	CW	ADJ
+2001	2001	CD	FW
+
+sentence break
+
+north	north	RB	ADV	CW
+america	america	JJ	CW	ADJ
+europe	europe	NN	CW	NOUN	ARGUMENT
+clearly	clearly	RB	ADV	CW
+dominate	dominate	VB	CW	VERB
+number	number	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+produce	produce	VB	CW	VERB
+annually	annually	RB	ADV	CW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+rather	rather	RB	ADV	FW
+obvious	obvious	JJ	CW	ADJ
+richer	richer	JJR	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+invest	invest	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+resource	resource	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+therefore	therefore	RB	ADV	FW
+account	account	VBP	CW	VERB
+largest	largest	JJS	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+likely	likely	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+statistical	statistical	JJ	CW	ADJ
+bias	bias	NN	CW	NOUN	ARGUMENT
+part	part	NN	CW	NOUN	ARGUMENT
+scus	scus	NN	CW	NOUN	ARGUMENT
+bibliometric	bibliometric	NN	CW	NOUN	ARGUMENT
+database	database	NN	CW	NOUN	ARGUMENT
+represent	represent	VBP	CW	VERB
+north	north	RB	ADV	CW
+american	american	JJ	CW	ADJ
+european	european	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+far	far	RB	ADV	CW
+better	better	JJR	CW	ADJ
+rest	rest	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+gibb	gibb	NN	CW	NOUN	ARGUMENT
+1995	1995	CD	FW
+
+sentence break
+
+may	may	MD	CW	VERB
+1997	1997	CD	FW
+
+sentence break
+
+alonso	alonso	NN	CW	NOUN	ARGUMENT
+juricic	juricic	JJ	CW	ADJ
+2001	2001	CD	FW
+
+sentence break
+
+vohora	vohora	NN	CW	NOUN	ARGUMENT
+vohora	vohora	NN	CW	NOUN	ARGUMENT
+2001	2001	CD	FW
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+disparity	disparity	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+develop	develop	VB	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+remain	remain	VBP	CW	VERB
+unchanged	unchanged	JJ	CW	ADJ
+even	even	RB	ADV	CW
+increase	increase	VB	CW	VERB
+mr	mr	NN	CW	NOUN	ARGUMENT
+annan	annan	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+imply	imply	VBP	CW	VERB
+
+sentence break
+
+closer	closer	RBR	ADV	CW
+look	look	VB	CW	VERB
+trend	trend	NN	CW	NOUN	ARGUMENT
+last	last	JJ	CW	ADJ
+decade	decade	NN	CW	NOUN	ARGUMENT
+reveal	reveal	VBP	CW	VERB
+important	important	JJ	CW	ADJ
+advance	advance	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+example	example	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+china	china	NN	CW	NOUN	ARGUMENT
+represent	represent	VBP	CW	VERB
+respectively	respectively	RB	ADV	CW
+only	only	RB	ADV	CW
+1	1	CD	FW
+8	8	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+worldwide	worldwide	RB	ADV	CW
+have	have	VBP	CW	VERB
+increase	increase	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+1990	1990	CD	FW
+1997	1997	CD	FW
+36	36	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+70	70	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+respectively	respectively	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+much	much	RB	ADV	CW
+higher	higher	JJR	CW	ADJ
+percentage	percentage	NN	CW	NOUN	ARGUMENT
+increment	increment	NN	CW	NOUN	ARGUMENT
+reach	reach	VBP	CW	VERB
+europe	europe	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+industrial	industrial	JJ	CW	ADJ
+asium	asium	NN	CW	NOUN	ARGUMENT
+26	26	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+percentage	percentage	NN	CW	NOUN	ARGUMENT
+global	global	JJ	CW	ADJ
+scientific	scientific	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+north	north	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+decrease	decrease	VB	CW	VERB
+8	8	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+same	same	JJ	CW	ADJ
+period	period	NN	CW	NOUN	ARGUMENT
+unesco	unesco	JJ	CW	ADJ
+2001	2001	CD	FW
+
+sentence break
+
+use	use	NN	CW	NOUN	ARGUMENT
+scus	scus	NN	CW	NOUN	ARGUMENT
+database	database	NN	CW	NOUN	ARGUMENT
+produce	produce	VBP	CW	VERB
+institute	institute	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+information	information	NN	CW	NOUN	ARGUMENT
+isus	isus	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+datum	datum	JJ	CW	ADJ
+compile	compile	VBP	CW	VERB
+red	red	JJ	CW	ADJ
+iberoamericana	iberoamericana	NN	CW	NOUN	ARGUMENT
+indicadore	indicadore	NN	CW	NOUN	ARGUMENT
+ciencium	ciencium	NN	CW	NOUN	ARGUMENT
+y	y	NN	CW	NOUN	ARGUMENT
+encoding error!
+ricyt	ricyt	NN	CW	NOUN	ARGUMENT
+examine	examine	VBP	CW	VERB
+difference	difference	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+proportion	proportion	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+1990	1990	CD	FW
+2000	2000	CD	FW
+focus	focus	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+surprisingly	surprisingly	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+huge	huge	JJ	CW	ADJ
+disparity	disparity	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+1990	1990	CD	FW
+2000	2000	CD	FW
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+lion	lion	NN	CW	NOUN	ARGUMENT
+share	share	NN	CW	NOUN	ARGUMENT
+84	84	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+follow	follow	VBP	CW	VERB
+canada	canada	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+35	35	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NNS	CW	NOUN	ARGUMENT
+whole	whole	JJ	CW	ADJ
+contribute	contribute	VBP	CW	VERB
+only	only	RB	ADV	CW
+5	5	CD	FW
+45	45	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+total	total	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+ten	ten	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+ricyt	ricyt	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+total	total	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+necessarily	necessarily	RB	ADV	FW
+best	best	JJS	CW	ADJ
+measure	measure	NN	CW	NOUN	ARGUMENT
+assess	assess	VB	CW	VERB
+scientific	scientific	JJ	CW	ADJ
+productivity	productivity	NN	CW	NOUN	ARGUMENT
+technical	technical	JJ	CW	ADJ
+advance	advance	NN	CW	NOUN	ARGUMENT
+may	may	MD	FW	aux_or_cop
+1997	1997	CD	FW
+
+sentence break
+
+more	more	RBR	ADV	CW
+relevant	relevant	JJ	CW	ADJ
+measurement	measurement	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+proportional	proportional	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+total	total	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+correct	correct	JJ	CW	ADJ
+investment	investment	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+may	may	MD	CW	VERB
+1997	1997	CD	FW
+
+sentence break
+
+proportional	proportional	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+use	use	NN	CW	NOUN	ARGUMENT
+1990	1990	CD	FW
+comparison	comparison	NN	CW	NOUN	ARGUMENT
+reveal	reveal	VBP	CW	VERB
+scientific	scientific	JJ	CW	ADJ
+publishing	publishing	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	JJ	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+rapidly	rapidly	RB	ADV	CW
+america	america	IN	FW
+far	far	RB	ADV	CW
+outpace	outpace	VB	CW	VERB
+united	united	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+canada	canada	NN	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+further	further	JJ	CW	ADJ
+analysis	analysis	NN	CW	NOUN	ARGUMENT
+correct	correct	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+overall	overall	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+amount	amount	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+invest	invest	VBP	CW	VERB
+research	research	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+show	show	VBP	CW	VERB
+contrast	contrast	NN	CW	NOUN	ARGUMENT
+canada	canada	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+trend	trend	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+increase	increase	NN	CW	NOUN	ARGUMENT
+relative	relative	JJ	CW	ADJ
+output	output	NN	CW	NOUN	ARGUMENT
+1990	1990	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+moreover	moreover	RB	ADV	FW
+take	take	VB	CW	VERB
+account	account	NN	CW	NOUN	ARGUMENT
+amount	amount	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+available	available	JJ	CW	ADJ
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+out-published	out-published	JJ	CW	ADJ
+united	united	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+canada	canada	NN	CW	NOUN	ARGUMENT
+year	year	NN	CW	NOUN	ARGUMENT
+2000	2000	CD	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+cost	cost	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+undoubtedly	undoubtedly	RB	ADV	CW
+cheaper	cheaper	JJR	CW	ADJ
+develop	develop	VB	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+due	due	JJ	CW	ADJ
+relatively	relatively	RB	ADV	CW
+low	low	JJ	CW	ADJ
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+salary	salary	NN	CW	NOUN	ARGUMENT
+overhead	overhead	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+standard	standard	JJ	CW	ADJ
+factor	factor	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+not	not	RB	ADV	CW
+explain	explain	VB	CW	VERB
+substantial	substantial	JJ	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+amount	amount	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+allocate	allocate	VBP	CW	VERB
+research	research	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+particularly	particularly	RB	ADV	CW
+1995	1995	CD	FW
+2000	2000	CD	FW
+figure	figure	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+relative	relative	JJ	CW	ADJ
+indicator	indicator	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+productivity	productivity	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+pick	pick	VB	CW	VERB
+up	up	RP	FW
+scus	scus	NN	CW	NOUN	ARGUMENT
+relation	relation	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+particular	particular	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+demonstrate	demonstrate	VBP	CW	VERB
+such	such	JJ	CW	ADJ
+developing	develop	VBG	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+substantial	substantial	JJ	CW	ADJ
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+fact	fact	NN	CW	NOUN	ARGUMENT
+average	average	JJ	CW	ADJ
+proportion	proportion	NN	CW	NOUN	ARGUMENT
+gross	gross	JJ	CW	ADJ
+domestic	domestic	JJ	CW	ADJ
+product	product	NN	CW	NOUN	ARGUMENT
+gdp	gdp	NN	CW	NOUN	ARGUMENT
+invest	invest	VBP	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	IN	FW
+10	10	CD	FW
+
+sentence break
+
+year	year	NN	CW	NOUN	ARGUMENT
+period	period	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+only	only	RB	ADV	CW
+21	21	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+amount	amount	NN	CW	NOUN	ARGUMENT
+invest	invest	VBP	CW	VERB
+united	united	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+ricyt	ricyt	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+indeed	indeed	RB	ADV	CW
+scientific	scientific	JJ	CW	ADJ
+productivity	productivity	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+remarkable	remarkable	JJ	CW	ADJ
+compare	compare	VB	CW	VERB
+relatively	relatively	RB	ADV	CW
+low	low	JJ	CW	ADJ
+investment	investment	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+compare	compare	VBP	CW	VERB
+gdp	gdp	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+whole	whole	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+fact	fact	NN	CW	NOUN	ARGUMENT
+albornoz	albornoz	NN	CW	NOUN	ARGUMENT
+2001	2001	CD	FW
+conclude	conclude	VBP	CW	VERB
+group	group	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+afford	afford	VB	CW	VERB
+invest	invest	VB	CW	VERB
+much	much	RB	ADV	CW
+higher	higher	JJR	CW	ADJ
+proportion	proportion	NN	CW	NOUN	ARGUMENT
+resource	resource	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+research	research	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+latin	latin	NN	CW	NOUN	ARGUMENT
+american	american	JJ	CW	ADJ
+investment	investment	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+represent	represent	VBP	CW	VERB
+only	only	RB	ADV	CW
+0	0	CD	FW
+59	59	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+regional	regional	JJ	CW	ADJ
+gdp	gdp	NN	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+very	very	RB	ADV	CW
+weak	weak	JJ	CW	ADJ
+effort	effort	NN	CW	NOUN	ARGUMENT
+compare	compare	VB	CW	VERB
+united	united	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+2	2	CD	FW
+84	84	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+canada	canada	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+latin	latin	NN	CW	NOUN	ARGUMENT
+american	american	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+high	high	JJ	CW	ADJ
+degree	degree	NN	CW	NOUN	ARGUMENT
+variability	variability	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+rate	rate	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+financial	financial	JJ	CW	ADJ
+investment	investment	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+technology	technology	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+country	country	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+perform	perform	VB	CW	VERB
+particularly	particularly	RB	ADV	CW
+well	well	RB	ADV	CW
+
+sentence break
+
+example	example	NN	CW	NOUN	ARGUMENT
+uruguay	uruguay	NN	CW	NOUN	ARGUMENT
+chile	chile	NN	CW	NOUN	ARGUMENT
+panama	panama	NN	CW	NOUN	ARGUMENT
+cuba	cuba	NN	CW	NOUN	ARGUMENT
+average	average	JJ	CW	ADJ
+respectively	respectively	RB	ADV	CW
+6	6	CD	FW
+8	8	CD	FW
+5	5	CD	FW
+3	3	CD	FW
+5	5	CD	FW
+2	2	CD	FW
+3	3	CD	FW
+4	4	CD	FW
+publication	publication	NN	CW	NOUN	ARGUMENT
+million	million	CD	FW
+dollar	dollar	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+investment	investment	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+notoriously	notoriously	RB	ADV	CW
+high	high	JJ	CW	ADJ
+compare	compare	VBP	CW	VERB
+united	united	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+1	1	CD	FW
+even	even	RB	ADV	CW
+canada	canada	VBP	CW	VERB
+3	3	CD	FW
+ricyt	ricyt	JJ	CW	ADJ
+2002	2002	CD	FW
+
+sentence break
+
+other	other	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+costa	costa	NN	CW	NOUN	ARGUMENT
+rica	rica	NN	CW	NOUN	ARGUMENT
+cuba	cuba	NN	CW	NOUN	ARGUMENT
+brazil	brazil	NN	CW	NOUN	ARGUMENT
+chile	chile	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+invest	invest	VB	CW	VERB
+much	much	RB	ADV	CW
+greater	greater	JJR	CW	ADJ
+proportion	proportion	NN	CW	NOUN	ARGUMENT
+gdp	gdp	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+albornoz	albornoz	JJ	CW	ADJ
+2001	2001	CD	FW
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+dollar	dollar	NN	CW	NOUN	ARGUMENT
+invest	invest	VBP	CW	VERB
+research	research	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+increase	increase	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+decrease	decrease	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+canada	canada	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+potential	potential	JJ	CW	ADJ
+explanation	explanation	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+productivity	productivity	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+scientific	scientific	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+1990	1990	CD	FW
+s	s	NNS	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+particularly	particularly	RB	ADV	CW
+strong	strong	JJ	CW	ADJ
+many	many	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+indeed	indeed	RB	ADV	CW
+explain	explain	VB	CW	VERB
+rapid	rapid	JJ	CW	ADJ
+rise	rise	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+compare	compare	VBP	CW	VERB
+relatively	relatively	RB	ADV	CW
+flat	flat	JJ	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+canada	canada	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+publish	publish	VB	CW	VERB
+just	just	RB	ADV	CW
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+beginning	begin	VBG	CW	VERB
+decade	decade	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+potentially	potentially	RB	ADV	CW
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+question	question	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+dollar	dollar	NN	CW	NOUN	ARGUMENT
+invest	invest	VBP	CW	VERB
+research	research	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+increase	increase	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+decrease	decrease	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+canada	canada	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pattern	pattern	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+result	result	VBP	CW	VERB
+variety	variety	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+none	none	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+mutually	mutually	RB	ADV	CW
+exclusive	exclusive	JJ	CW	ADJ
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+possible	possible	JJ	CW	ADJ
+publishing	publishing	NN	CW	NOUN	ARGUMENT
+international	international	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+measure	measure	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+productivity	productivity	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+become	become	VBN	CW	VERB
+more	more	RBR	ADV	CW
+important	important	JJ	CW	ADJ
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+increase	increase	NN	CW	NOUN	ARGUMENT
+funding	funding	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+productive	productive	JJ	CW	ADJ
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+national	national	JJ	CW	ADJ
+science	science	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+stimulus	stimulus	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+international	international	JJ	CW	ADJ
+cooperation	cooperation	NN	CW	NOUN	ARGUMENT
+result	result	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+scientific	scientific	JJ	CW	ADJ
+collaboration	collaboration	NN	CW	NOUN	ARGUMENT
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+europe	europe	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+have	have	VBP	CW	VERB
+increase	increase	NN	CW	NOUN	ARGUMENT
+relative	relative	JJ	CW	ADJ
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+contrast	contrast	NN	CW	NOUN	ARGUMENT
+decrease	decrease	NN	CW	NOUN	ARGUMENT
+trend	trend	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+investment	investment	NN	CW	NOUN	ARGUMENT
+dollar	dollar	NN	CW	NOUN	ARGUMENT
+canada	canada	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+reflect	reflect	VBP	CW	VERB
+trend	trend	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+costly	costly	JJ	CW	ADJ
+research	research	NN	CW	NOUN	ARGUMENT
+larger	larger	JJR	CW	ADJ
+scientific	scientific	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+exactly	exactly	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+relative	relative	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+developing	develop	VBG	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+latin	latin	JJ	CW	ADJ
+america	america	NNS	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+use	use	NN	CW	NOUN	ARGUMENT
+scus	scus	NN	CW	NOUN	ARGUMENT
+2001	2001	CD	FW
+datum	datum	NNP	CW	NOUN	ARGUMENT
+examine	examine	VB	CW	VERB
+proportion	proportion	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+area	area	NN	CW	NOUN	ARGUMENT
+ecology	ecology	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+field	field	NN	CW	NOUN	ARGUMENT
+evolutionary	evolutionary	JJ	CW	ADJ
+biology	biology	NN	CW	NOUN	ARGUMENT
+conservation	conservation	NN	CW	NOUN	ARGUMENT
+biology	biology	NN	CW	NOUN	ARGUMENT
+global	global	JJ	CW	ADJ
+change	change	NN	CW	NOUN	ARGUMENT
+biology	biology	NN	CW	NOUN	ARGUMENT
+1990	1990	CD	FW
+2002	2002	CD	FW
+two	two	CD	FW
+top	top	JJ	CW	ADJ
+general	general	JJ	CW	ADJ
+science	science	NN	CW	NOUN	ARGUMENT
+journal	journal	NN	CW	NOUN	ARGUMENT
+nature	nature	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+impact	impact	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+27	27	CD	FW
+96	96	CD	FW
+23	23	CD	FW
+33	33	CD	FW
+respectively	respectively	RB	ADV	CW
+20	20	CD	FW
+top	top	JJ	CW	ADJ
+ecological	ecological	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+impact	impact	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+51	51	CD	FW
+2	2	CD	FW
+47	47	CD	FW
+isus	isus	NN	CW	NOUN	ARGUMENT
+2001	2001	CD	FW
+
+sentence break
+
+credit	credit	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+author	author	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+affiliate	affiliate	NN	CW	NOUN	ARGUMENT
+institution	institution	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+thus	thus	RB	ADV	FW
+more	more	RBR	ADV	CW
+one	one	CD	FW
+region	region	NN	CW	NOUN	ARGUMENT
+receive	receive	VBP	CW	VERB
+credit	credit	NN	CW	NOUN	ARGUMENT
+single	single	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+write	write	VB	CW	VERB
+multiple	multiple	JJ	CW	ADJ
+author	author	NN	CW	NOUN	ARGUMENT
+institution	institution	NN	CW	NOUN	ARGUMENT
+different	different	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+top	top	JJ	CW	ADJ
+20	20	CD	FW
+ecological	ecological	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+american	american	NN	CW	NOUN	ARGUMENT
+subcontinent	subcontinent	NN	CW	NOUN	ARGUMENT
+south	south	RB	ADV	CW
+central	central	JJ	CW	ADJ
+north	north	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+account	account	NN	CW	NOUN	ARGUMENT
+62	62	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+worldwide	worldwide	RB	ADV	CW
+
+sentence break
+
+america	america	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+latin	latin	JJ	CW	ADJ
+america	america	NNS	CW	NOUN	ARGUMENT
+represent	represent	VBP	CW	VERB
+only	only	RB	ADV	CW
+6	6	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+canada	canada	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+account	account	NN	CW	NOUN	ARGUMENT
+respectively	respectively	RB	ADV	CW
+13	13	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+82	82	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+top	top	JJ	CW	ADJ
+20	20	CD	FW
+ecological	ecological	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+examine	examine	VB	CW	VERB
+datum	datum	NN	CW	NOUN	ARGUMENT
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+top	top	JJ	CW	ADJ
+10	10	CD	FW
+ecological	ecological	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+impact	impact	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+10	10	CD	FW
+51	51	CD	FW
+3	3	CD	FW
+31	31	CD	FW
+top	top	JJ	CW	ADJ
+11	11	CD	FW
+20	20	CD	FW
+impact	impact	NN	CW	NOUN	ARGUMENT
+factor	factor	NN	CW	NOUN	ARGUMENT
+3	3	CD	FW
+28	28	CD	FW
+2	2	CD	FW
+47	47	CD	FW
+latin	latin	NN	CW	NOUN	ARGUMENT
+american	american	JJ	CW	ADJ
+country	country	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+nearly	nearly	RB	ADV	CW
+twice	twice	RB	ADV	CW
+many	many	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+journal	journal	NN	CW	NOUN	ARGUMENT
+second	second	JJ	CW	ADJ
+category	category	NN	CW	NOUN	ARGUMENT
+8	8	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+top	top	JJ	CW	ADJ
+11	11	CD	FW
+20	20	CD	FW
+compare	compare	VB	CW	VERB
+4	4	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+top	top	JJ	CW	ADJ
+10	10	CD	FW
+
+sentence break
+
+finding	find	VBG	CW	VERB
+suggest	suggest	VBP	CW	VERB
+publication	publication	NN	CW	NOUN	ARGUMENT
+such	such	JJ	CW	ADJ
+developing	develop	VBG	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fall	fall	VB	CW	VERB
+short	short	JJ	CW	ADJ
+reach	reach	NN	CW	NOUN	ARGUMENT
+top	top	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+contrast	contrast	NN	CW	NOUN	ARGUMENT
+united	united	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+somewhat	somewhat	RB	ADV	FW
+more	more	JJR	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+top	top	JJ	CW	ADJ
+10	10	CD	FW
+journal	journal	NN	CW	NOUN	ARGUMENT
+84	84	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+top	top	JJ	CW	ADJ
+11	11	CD	FW
+20	20	CD	FW
+journal	journal	NN	CW	NOUN	ARGUMENT
+79	79	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+difference	difference	NN	CW	NOUN	ARGUMENT
+proportion	proportion	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+united	united	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+top	top	JJ	CW	ADJ
+10	10	CD	FW
+top	top	JJ	CW	ADJ
+20	20	CD	FW
+journal	journal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+even	even	RB	ADV	CW
+more	more	RBR	ADV	CW
+pronounced	pronounced	JJ	CW	ADJ
+examine	examine	VBP	CW	VERB
+respect	respect	NN	CW	NOUN	ARGUMENT
+worldwide	worldwide	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+case	case	NN	CW	NOUN	ARGUMENT
+united	united	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+60	60	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+top	top	JJ	CW	ADJ
+10	10	CD	FW
+journal	journal	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+40	40	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+top	top	JJ	CW	ADJ
+11	11	CD	FW
+20	20	CD	FW
+journal	journal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+interestingly	interestingly	RB	ADV	CW
+proportion	proportion	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+canada	canada	NN	CW	NOUN	ARGUMENT
+subject	subject	JJ	CW	ADJ
+area	area	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+nature	nature	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+nearly	nearly	RB	ADV	CW
+identical	identical	JJ	CW	ADJ
+top	top	JJ	CW	ADJ
+20	20	CD	FW
+ecological	ecological	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+science	science	NN	CW	NOUN	ARGUMENT
+nature	nature	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NNS	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+7	7	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+6	6	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+top	top	JJ	CW	ADJ
+20	20	CD	FW
+ecological	ecological	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+united	unite	VBN	CW	VERB
+state	state	NN	CW	NOUN	ARGUMENT
+canada	canada	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+81	81	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+82	82	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+12	12	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+13	13	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+respectively	respectively	RB	ADV	CW
+
+sentence break
+
+similarity	similarity	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+latin	latin	NN	CW	NOUN	ARGUMENT
+american	american	JJ	CW	ADJ
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+shy	shy	VB	CW	VERB
+away	away	RB	ADV	CW
+two	two	CD	FW
+top-ranked	top-ranked	JJ	CW	ADJ
+general	general	JJ	CW	ADJ
+science	science	NN	CW	NOUN	ARGUMENT
+journal	journal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+however	however	RB	ADV	FW
+publishing	publish	VBG	CW	VERB
+science	science	NN	CW	NOUN	ARGUMENT
+nature	nature	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+enough	enough	JJ	CW	ADJ
+gain	gain	NN	CW	NOUN	ARGUMENT
+prominence	prominence	NN	CW	NOUN	ARGUMENT
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+citation	citation	NN	CW	NOUN	ARGUMENT
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+latest	latest	JJS	CW	ADJ
+list	list	NN	CW	NOUN	ARGUMENT
+247	247	CD	FW
+most-cited	most-cited	JJS	CW	ADJ
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+ecology	ecology	NN	CW	NOUN	ARGUMENT
+environmental	environmental	JJ	CW	ADJ
+science	science	NN	CW	NOUN	ARGUMENT
+emphasize	emphasize	VBP	CW	VERB
+overwhelming	overwhelming	JJ	CW	ADJ
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+author	author	NN	CW	NOUN	ARGUMENT
+north	north	RB	ADV	CW
+america	america	IN	FW
+73	73	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+europe	europe	NN	CW	NOUN	ARGUMENT
+21	21	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+isus	isus	NN	CW	NOUN	ARGUMENT
+2001	2001	CD	FW
+
+sentence break
+
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+american	american	JJ	CW	ADJ
+institution	institution	NN	CW	NOUN	ARGUMENT
+be	be	VB	CW	VERB
+include	include	VBP	CW	VERB
+remain	remain	VBP	CW	VERB
+6	6	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+overall	overall	JJ	CW	ADJ
+datum	datum	NN	CW	NOUN	ARGUMENT
+indicate	indicate	VBP	CW	VERB
+scientific	scientific	JJ	CW	ADJ
+output	output	NN	CW	NOUN	ARGUMENT
+field	field	NN	CW	NOUN	ARGUMENT
+ecology	ecology	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+have	have	VBP	FW	aux_or_cop
+relatively	relatively	RB	ADV	CW
+low	low	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+international	international	JJ	CW	ADJ
+scientific	scientific	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+underrepresented	underrepresented	JJ	CW	ADJ
+top	top	JJ	CW	ADJ
+international	international	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+robust	robust	JJ	CW	ADJ
+productivity	productivity	NN	CW	NOUN	ARGUMENT
+measure	measure	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+funding	funding	NN	CW	NOUN	ARGUMENT
+amount	amount	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+similar	similar	JJ	CW	ADJ
+finding	finding	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+report	report	VBP	CW	VERB
+asium	asium	NN	CW	NOUN	ARGUMENT
+swinbank	swinbank	NN	CW	NOUN	ARGUMENT
+al	al	NNP	CW	NOUN	ARGUMENT
+1997	1997	CD	FW
+thus	thus	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+general	general	JJ	CW	ADJ
+phenomenon	phenomenon	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+outstanding	outstanding	JJ	CW	ADJ
+scientific	scientific	JJ	CW	ADJ
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+independently	independently	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+make	make	VB	CW	VERB
+important	important	JJ	CW	ADJ
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+international	international	JJ	CW	ADJ
+scientific	scientific	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+exception	exception	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+general	general	JJ	CW	ADJ
+do	do	VBP	FW	aux_or_cop
+latin	latin	NN	CW	NOUN	ARGUMENT
+american	american	JJ	CW	ADJ
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+often	often	RB	ADV	FW
+fail	fail	VBP	CW	VERB
+reach	reach	NN	CW	NOUN	ARGUMENT
+top	top	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+become	become	VBN	CW	VERB
+most	most	RBS	ADV	CW
+cite	cite	VBP	CW	VERB
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+field	field	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+one	one	CD	FW
+possibility	possibility	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+main	main	JJ	CW	ADJ
+research	research	NN	CW	NOUN	ARGUMENT
+agenda	agenda	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+somewhat	somewhat	RB	ADV	FW
+different	different	JJ	CW	ADJ
+top	top	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+publish	publish	VB	CW	VERB
+develop	develop	VB	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+respond	respond	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+scientific	scientific	JJ	CW	ADJ
+mainstream	mainstream	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+suggest	suggest	VB	CW	VERB
+sort	sort	NN	CW	NOUN	ARGUMENT
+conspiracy	conspiracy	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+imply	imply	VBP	CW	VERB
+perception	perception	NN	CW	NOUN	ARGUMENT
+most	most	RBS	ADV	CW
+important	important	JJ	CW	ADJ
+science	science	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+link	link	NN	CW	NOUN	ARGUMENT
+region	region	NN	CW	NOUN	ARGUMENT
+major	major	JJ	CW	ADJ
+funding	funding	NN	CW	NOUN	ARGUMENT
+agency	agency	NN	CW	NOUN	ARGUMENT
+as	as	RB	ADV	CW
+well	well	RB	ADV	CW
+most	most	RBS	ADV	CW
+prominent	prominent	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+share	share	NN	CW	NOUN	ARGUMENT
+similar	similar	JJ	CW	ADJ
+economic	economic	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+also	also	RB	ADV	CW
+share	share	VBP	CW	VERB
+same	same	JJ	CW	ADJ
+perception	perception	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+most	most	RBS	ADV	CW
+interesting	interesting	JJ	CW	ADJ
+
+sentence break
+
+consideration	consideration	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+local	local	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+list	list	NN	CW	NOUN	ARGUMENT
+scus	scus	NN	CW	NOUN	ARGUMENT
+similar	similar	JJ	CW	ADJ
+journal	journal	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+gibb	gibb	JJ	CW	ADJ
+1995	1995	CD	FW
+
+sentence break
+
+consequently	consequently	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+high-profile	high-profile	JJ	CW	ADJ
+regional	regional	JJ	CW	ADJ
+publication	publication	NN	CW	NOUN	ARGUMENT
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+available	available	JJ	CW	ADJ
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+much	much	JJ	CW	ADJ
+research	research	NN	CW	NOUN	ARGUMENT
+publish	publish	VB	FW	aux_or_cop
+locally	locally	RB	ADV	CW
+develop	develop	VB	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+overlook	overlook	VB	CW	VERB
+
+sentence break
+
+take	take	VB	CW	VERB
+more	more	RBR	ADV	CW
+publish	publish	VB	CW	VERB
+good	good	JJ	CW	ADJ
+papers	papers	NNS	CW	NOUN	ARGUMENT
+become	become	VBP	CW	VERB
+highly	highly	RB	ADV	CW
+cite	cite	VB	CW	VERB
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+require	require	VB	CW	VERB
+attend	attend	VB	CW	VERB
+international	international	JJ	CW	ADJ
+meeting	meeting	NN	CW	NOUN	ARGUMENT
+introduce	introduce	VB	CW	VERB
+novel	novel	JJ	CW	ADJ
+research	research	NN	CW	NOUN	ARGUMENT
+finding	finding	NN	CW	NOUN	ARGUMENT
+multiple	multiple	JJ	CW	ADJ
+scientific	scientific	JJ	CW	ADJ
+forum	forum	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+funding	funding	NN	CW	NOUN	ARGUMENT
+activity	activity	NN	CW	NOUN	ARGUMENT
+however	however	RB	ADV	FW
+require	require	VBP	CW	VERB
+greater	greater	JJR	CW	ADJ
+proportion	proportion	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+spend	spend	VB	CW	VERB
+meeting	meeting	NN	CW	NOUN	ARGUMENT
+researcher	researcher	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+compare	compare	VB	CW	VERB
+develop	develop	VB	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+positive	positive	JJ	CW	ADJ
+trend	trend	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+productivity	productivity	NN	CW	NOUN	ARGUMENT
+latin	latin	NN	CW	NOUN	ARGUMENT
+america	america	NN	CW	NOUN	ARGUMENT
+not	not	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+misinterpret	misinterpret	VB	CW	VERB
+reason	reason	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+unconcerned	unconcerned	JJ	CW	ADJ
+exist	exist	VBP	CW	VERB
+gap	gap	NN	CW	NOUN	ARGUMENT
+highlight	highlight	NN	CW	NOUN	ARGUMENT
+mr	mr	NN	CW	NOUN	ARGUMENT
+annan	annan	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	CW	VERB
+many	many	JJ	CW	ADJ
+compelling	compelling	JJ	CW	ADJ
+reason	reason	NN	CW	NOUN	ARGUMENT
+push	push	NN	CW	NOUN	ARGUMENT
+increase	increase	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+input	input	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+goldemberg	goldemberg	NN	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+
+sentence break
+
+annan	annan	JJ	CW	ADJ
+2003	2003	CD	FW
+
+sentence break
+
+one	one	CD	FW
+be	be	VB	FW	aux_or_cop
+science	science	NN	CW	NOUN	ARGUMENT
+discipline	discipline	NN	CW	NOUN	ARGUMENT
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+disparate	disparate	JJ	CW	ADJ
+group	group	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+rather	rather	RB	ADV	FW
+be	be	VB	FW	aux_or_cop
+dominate	dominate	VB	CW	VERB
+two	two	CD	FW
+geographic	geographic	JJ	CW	ADJ
+region	region	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+many	many	JJ	CW	ADJ
+scientific	scientific	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+solve	solve	VB	CW	VERB
+much	much	RB	ADV	CW
+more	more	RBR	ADV	CW
+readily	readily	RB	ADV	FW
+cooperation	cooperation	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+insight	insight	NN	CW	NOUN	ARGUMENT
+scientist	scientist	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+climate	climate	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+biodiversity	biodiversity	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+example	example	NN	CW	NOUN	ARGUMENT
+urgently	urgently	RB	ADV	CW
+need	need	VBP	CW	VERB
+scientific	scientific	JJ	CW	ADJ
+input	input	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+important	important	JJ	CW	ADJ
+global	global	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+critical	critical	JJ	CW	ADJ
+develop	develop	VBP	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+promote	promote	VBP	FW	aux_or_cop
+research	research	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+area	area	NN	CW	NOUN	ARGUMENT
+concern	concern	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+have	have	VBP	FW	aux_or_cop
+proportionally	proportionally	RB	ADV	CW
+greater	greater	JJR	CW	ADJ
+scientific	scientific	JJ	CW	ADJ
+social	social	JJ	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+now	now	RB	ADV	CW
+example	example	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+priority	priority	NN	CW	NOUN	ARGUMENT
+area	area	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+nation	nation	NN	CW	NOUN	ARGUMENT
+actually	actually	RB	ADV	CW
+become	become	VBP	CW	VERB
+pioneering	pioneering	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+area	area	NN	CW	NOUN	ARGUMENT
+neglect	neglect	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+agenda	agenda	NN	CW	NOUN	ARGUMENT
+industrialize	industrialize	VB	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+case	case	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+renewable	renewable	JJ	CW	ADJ
+energy	energy	NN	CW	NOUN	ARGUMENT
+source	source	NN	CW	NOUN	ARGUMENT
+brazil	brazil	NN	CW	NOUN	ARGUMENT
+goldemberg	goldemberg	NN	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+biomedical	biomedical	JJ	CW	ADJ
+science	science	NN	CW	NOUN	ARGUMENT
+cuba	cuba	NN	CW	NOUN	ARGUMENT
+castro	castro	NN	CW	NOUN	ARGUMENT
+encoding error!
+balart	balart	NN	CW	NOUN	ARGUMENT
+2002	2002	CD	FW
+
+sentence break
+
+example	example	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+important	important	JJ	CW	ADJ
+not	not	RB	ADV	CW
+only	only	RB	ADV	CW
+region	region	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+world	world	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+scientific	scientific	JJ	CW	ADJ
+innovation	innovation	NN	CW	NOUN	ARGUMENT
+greatly	greatly	RB	ADV	CW
+advance	advance	JJ	CW	ADJ
+knowledge	knowledge	NN	CW	NOUN	ARGUMENT
+rest	rest	NN	CW	NOUN	ARGUMENT
+world	world	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+climate	climate	NN	CW	NOUN	ARGUMENT
+change	change	NN	CW	NOUN	ARGUMENT
+biodiversity	biodiversity	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+urgently	urgently	RB	ADV	CW
+need	need	VBP	CW	VERB
+scientific	scientific	JJ	CW	ADJ
+input	input	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+region	region	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+so	so	RB	ADV	CW
+important	important	JJ	CW	ADJ
+global	global	JJ	CW	ADJ
+process	process	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+evidence	evidence	NN	CW	NOUN	ARGUMENT
+present	present	JJ	CW	ADJ
+here	here	RB	ADV	CW
+demonstrate	demonstrate	VBP	CW	VERB
+be	be	VB	FW	aux_or_cop
+long	long	JJ	CW	ADJ
+way	way	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+develop	develop	VB	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+contribute	contribute	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+equitable	equitable	JJ	CW	ADJ
+share	share	NN	CW	NOUN	ARGUMENT
+international	international	JJ	CW	ADJ
+scientific	scientific	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+reason	reason	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+optimistic	optimistic	JJ	CW	ADJ
+
+sentence break
+
+relative	relative	JJ	CW	ADJ
+increase	increase	NN	CW	NOUN	ARGUMENT
+number	number	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+especially	especially	RB	ADV	FW
+correct	correct	JJ	CW	ADJ
+amount	amount	NN	CW	NOUN	ARGUMENT
+money	money	NN	CW	NOUN	ARGUMENT
+available	available	JJ	CW	ADJ
+research	research	NN	CW	NOUN	ARGUMENT
+development	development	NN	CW	NOUN	ARGUMENT
+demonstrate	demonstrate	VBP	CW	VERB
+many	many	JJ	CW	ADJ
+developing	develop	VBG	CW	VERB
+country	country	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+head	head	JJ	CW	ADJ
+right	right	JJ	CW	ADJ
+direction	direction	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+extremely	extremely	RB	ADV	CW
+high	high	JJ	CW	ADJ
+scientific	scientific	JJ	CW	ADJ
+productivity	productivity	NN	CW	NOUN	ARGUMENT
+many	many	JJ	CW	ADJ
+developing	develop	VBG	CW	VERB
+nation	nation	NN	CW	NOUN	ARGUMENT
+correct	correct	JJ	CW	ADJ
+rather	rather	RB	ADV	FW
+limited	limited	JJ	CW	ADJ
+availability	availability	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+suggest	suggest	VBP	CW	VERB
+increase	increase	NN	CW	NOUN	ARGUMENT
+funding	funding	NN	CW	NOUN	ARGUMENT
+science	science	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+excellent	excellent	JJ	CW	ADJ
+investment	investment	NN	CW	NOUN	ARGUMENT
+develop	develop	VB	CW	VERB
+nation	nation	NN	CW	NOUN	ARGUMENT
+term	term	NN	CW	NOUN	ARGUMENT
+publication	publication	NN	CW	NOUN	ARGUMENT
+measure	measure	NN	CW	NOUN	ARGUMENT
+scientific	scientific	JJ	CW	ADJ
+output	output	NN	CW	NOUN	ARGUMENT
+particularly	particularly	RB	ADV	CW
+publication	publication	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+journal	journal	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+greatest	greatest	JJS	CW	ADJ
+impact	impact	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+still	still	RB	ADV	CW
+be	be	VB	FW	aux_or_cop
+long	long	JJ	CW	ADJ
+road	road	NN	CW	NOUN	ARGUMENT
+travel	travel	NN	CW	NOUN	ARGUMENT
+feel	feel	VBP	CW	VERB
+optimistic	optimistic	JJ	CW	ADJ
+bridge	bridge	NN	CW	NOUN	ARGUMENT
+mention	mention	NN	CW	NOUN	ARGUMENT
+mr	mr	NN	CW	NOUN	ARGUMENT
+annan	annan	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+slowly	slowly	RB	ADV	CW
+be	be	VB	CW	VERB
+build	build	VB	CW	VERB
+
+sentence break
+
+
+paragraph break
+

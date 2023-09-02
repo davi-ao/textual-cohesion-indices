@@ -1,0 +1,210 @@
+word	lemma	POS	CW\FW	other categories
+summer	summer	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+300	300	CD	FW
+child	child	NN	CW	NOUN	ARGUMENT
+age	age	NN	CW	NOUN	ARGUMENT
+4	4	CD	FW
+14	14	CD	FW
+attend	attend	VB	CW	VERB
+ywca	ywca	NN	CW	NOUN	ARGUMENT
+indianapoli	indianapolus	NNS	CW	NOUN	ARGUMENT
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+belong	belong	VBP	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+day	day	NN	CW	NOUN	ARGUMENT
+camp	camp	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+go	go	VB	CW	VERB
+have	have	VBP	CW	VERB
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+camp	camp	NN	CW	NOUN	ARGUMENT
+staff	staff	NN	CW	NOUN	ARGUMENT
+work	work	NN	CW	NOUN	ARGUMENT
+winter	winter	NN	CW	NOUN	ARGUMENT
+long	long	JJ	CW	ADJ
+plan	plan	NN	CW	NOUN	ARGUMENT
+great	great	JJ	CW	ADJ
+activity	activity	NN	CW	NOUN	ARGUMENT
+keep	keep	VB	CW	VERB
+everyone	everyone	NN	CW	NOUN	ARGUMENT
+safe	safe	JJ	CW	ADJ
+active	active	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+swim	swim	VBP	CW	VERB
+planning	plan	VBG	CW	VERB
+sport	sport	NN	CW	NOUN	ARGUMENT
+go	go	VB	CW	VERB
+exciting	exciting	JJ	CW	ADJ
+field	field	NN	CW	NOUN	ARGUMENT
+trip	trip	NN	CW	NOUN	ARGUMENT
+help	help	VBP	CW	VERB
+other	other	JJ	CW	ADJ
+community	community	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+project	project	NN	CW	NOUN	ARGUMENT
+plan	plan	NN	CW	NOUN	ARGUMENT
+own	own	JJ	CW	ADJ
+camp	camp	NN	CW	NOUN	ARGUMENT
+carnival	carnival	NN	CW	NOUN	ARGUMENT
+join	join	VB	CW	VERB
+great	great	JJ	CW	ADJ
+club	club	NN	CW	NOUN	ARGUMENT
+jewelry	jewelry	NN	CW	NOUN	ARGUMENT
+making	make	VBG	CW	VERB
+juggling	juggling	NN	CW	NOUN	ARGUMENT
+snack	snack	NN	CW	NOUN	ARGUMENT
+cooking	cooking	NN	CW	NOUN	ARGUMENT
+nature	nature	NN	CW	NOUN	ARGUMENT
+craft	craft	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+imagine	imagine	VB	CW	VERB
+summer	summer	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+expensive	expensive	JJ	CW	ADJ
+provide	provide	VBP	CW	VERB
+
+sentence break
+
+more	more	RBR	ADV	CW
+30	30	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+kid	kid	NN	CW	NOUN	ARGUMENT
+serve	serve	VBP	CW	VERB
+can	can	MD	FW	aux_or_cop
+not	not	RB	ADV	CW
+afford	afford	VB	CW	VERB
+camp	camp	NN	CW	NOUN	ARGUMENT
+fee	fee	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+wo	will	MD	FW	aux_or_cop
+n't	not	RB	ADV	CW
+help	help	VB	CW	VERB
+wyca	wyca	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+great	great	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+kid	kid	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+please	please	VB	CW	VERB
+contribute	contribute	VBP	CW	VERB
+campership	campership	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+provide	provide	VB	CW	VERB
+indianapoli	indianapoli	JJ	CW	ADJ
+child	child	NN	CW	NOUN	ARGUMENT
+summer	summer	NN	CW	NOUN	ARGUMENT
+full	full	JJ	CW	ADJ
+fun	fun	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+100	100	CD	FW
+%	%	NN	CW	NOUN	ARGUMENT
+campership	campership	NN	CW	NOUN	ARGUMENT
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+directly	directly	RB	ADV	CW
+support	support	VBP	CW	VERB
+camp	camp	NN	CW	NOUN	ARGUMENT
+scholarship	scholarship	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+give	give	VB	CW	VERB
+level	level	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+50	50	CD	FW
+club	club	NN	CW	NOUN	ARGUMENT
+sponsor	sponsor	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+supplies	supplies	NNS	CW	NOUN	ARGUMENT
+need	need	VB	CW	VERB
+one	one	CD	FW
+club	club	NN	CW	NOUN	ARGUMENT
+100	100	CD	FW
+camper	camper	NN	CW	NOUN	ARGUMENT
+sponsor	sponsor	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+one	one	CD	FW
+child	child	NN	CW	NOUN	ARGUMENT
+whole	whole	JJ	CW	ADJ
+week	week	NN	CW	NOUN	ARGUMENT
+fun	fun	NN	CW	NOUN	ARGUMENT
+camp	camp	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+500	500	CD	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+sponsor	sponsor	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+visit	visit	NN	CW	NOUN	ARGUMENT
+professional	professional	JJ	CW	ADJ
+artist	artist	NN	CW	NOUN	ARGUMENT
+magician	magician	NN	CW	NOUN	ARGUMENT
+zookeeper	zookeeper	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+1000	1000	CD	FW
+summer	summer	NN	CW	NOUN	ARGUMENT
+sponsor	sponsor	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+one	one	CD	FW
+child	child	NN	CW	NOUN	ARGUMENT
+whole	whole	JJ	CW	ADJ
+summer	summer	NN	CW	NOUN	ARGUMENT
+camp	camp	NN	CW	NOUN	ARGUMENT
+2500	2500	CD	FW
+field	field	NN	CW	NOUN	ARGUMENT
+trip	trip	NN	CW	NOUN	ARGUMENT
+sponsor	sponsor	NN	CW	NOUN	ARGUMENT
+send	send	VBP	CW	VERB
+whole	whole	JJ	CW	ADJ
+crew	crew	NN	CW	NOUN	ARGUMENT
+educational	educational	JJ	CW	ADJ
+field	field	NN	CW	NOUN	ARGUMENT
+trip	trip	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+response	response	NN	CW	NOUN	ARGUMENT
+card	card	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+enclose	enclose	VB	CW	VERB
+convenience	convenience	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+tax	tax	NN	CW	NOUN	ARGUMENT
+deductible	deductible	JJ	CW	ADJ
+
+sentence break
+
+
+paragraph break
+

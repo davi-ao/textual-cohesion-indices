@@ -1,0 +1,209 @@
+word	lemma	POS	CW\FW	other categories
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+opportunity	opportunity	NN	CW	NOUN	ARGUMENT
+hoosier	hoosier	JJ	CW	ADJ
+capital	capital	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+like	like	IN	FW
+invite	invite	VB	CW	VERB
+join	join	VB	CW	VERB
+investment	investment	NN	CW	NOUN	ARGUMENT
+future	future	JJ	CW	ADJ
+business	business	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+leader	leader	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+past	past	JJ	CW	ADJ
+support	support	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+be	be	VB	FW	aux_or_cop
+able	able	JJ	CW	ADJ
+reach	reach	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+future	future	JJ	CW	ADJ
+leaders-our	leaders-our	JJ	CW	ADJ
+girl	girl	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+hoosier	hoosier	JJ	CW	ADJ
+capital	capital	NN	CW	NOUN	ARGUMENT
+council	council	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+strong	strong	JJ	CW	ADJ
+grow	grow	VB	CW	VERB
+membership	membership	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+request	request	NN	CW	NOUN	ARGUMENT
+continued	continue	VBD	CW	VERB
+support	support	NN	CW	NOUN	ARGUMENT
+annual	annual	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+meet	meet	VBP	CW	VERB
+need	need	NN	CW	NOUN	ARGUMENT
+grow	grow	VB	CW	VERB
+membership	membership	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+last	last	JJ	CW	ADJ
+gift	gift	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+~	~	CD	FW
+~	~	CD	FW
+~	~	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+please	please	VB	FW	aux_or_cop
+consider	consider	VB	CW	VERB
+increase	increase	NN	CW	NOUN	ARGUMENT
+contribution	contribution	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+annual	annual	JJ	CW	ADJ
+campaign	campaign	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+offer	offer	NN	CW	NOUN	ARGUMENT
+array	array	NN	CW	NOUN	ARGUMENT
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+adult	adult	JJ	CW	ADJ
+leader	leader	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+usa	usa	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+commission	commission	NN	CW	NOUN	ARGUMENT
+spec	spec	NN	CW	NOUN	ARGUMENT
+associate	associate	NN	CW	NOUN	ARGUMENT
+social	social	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+evaluator	evaluator	NN	CW	NOUN	ARGUMENT
+consultant	consultant	NN	CW	NOUN	ARGUMENT
+inc.	inc.	NNP	CW	NOUN	ARGUMENT
+conduct	conduct	VB	CW	VERB
+national	national	JJ	CW	ADJ
+outcome	outcome	NN	CW	NOUN	ARGUMENT
+study	study	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+result	result	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+overwhelmingly	overwhelmingly	RB	ADV	CW
+positive	positive	JJ	CW	ADJ
+
+sentence break
+
+finding	find	VBG	CW	VERB
+include	include	VBP	CW	VERB
+
+sentence break
+
+girl	girl	NN	CW	NOUN	ARGUMENT
+scouting	scout	VBG	CW	VERB
+help	help	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+nine	nine	CD	FW
+personal	personal	JJ	CW	ADJ
+asset	asset	NN	CW	NOUN	ARGUMENT
+research	research	NN	CW	NOUN	ARGUMENT
+have	have	VBP	CW	VERB
+show	show	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+essential	essential	JJ	CW	ADJ
+child	child	NN	CW	NOUN	ARGUMENT
+healthy	healthy	JJ	CW	ADJ
+development	development	NN	CW	NOUN	ARGUMENT
+well	well	RB	ADV	CW
+be	be	VB	CW	VERB
+
+sentence break
+
+girl	girl	NN	CW	NOUN	ARGUMENT
+scouting	scout	VBG	CW	VERB
+unite	unite	VB	CW	VERB
+girl	girl	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+girl	girl	NN	CW	NOUN	ARGUMENT
+scouting	scout	VBG	CW	VERB
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+parent	parent	NN	CW	NOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+relationship	relationship	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+girl	girl	NN	CW	NOUN	ARGUMENT
+scouting	scout	VBG	CW	VERB
+benefit	benefit	NN	CW	NOUN	ARGUMENT
+volunteer	volunteer	NN	CW	NOUN	ARGUMENT
+develop	develop	VBP	CW	VERB
+leadership	leadership	NN	CW	NOUN	ARGUMENT
+skill	skill	NN	CW	NOUN	ARGUMENT
+self-confidence	self-confidence	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+ability	ability	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+girl	girl	NN	CW	NOUN	ARGUMENT
+scout	scout	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+membership	membership	NN	CW	NOUN	ARGUMENT
+reach	reach	VBP	CW	VERB
+more	more	JJR	CW	ADJ
+girl	girl	NN	CW	NOUN	ARGUMENT
+depend	depend	VBP	CW	VERB
+generosity	generosity	NN	CW	NOUN	ARGUMENT
+care	care	NN	CW	NOUN	ARGUMENT
+community	community	NN	CW	NOUN	ARGUMENT
+company	company	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+investment	investment	NN	CW	NOUN	ARGUMENT
+girl	girl	NN	CW	NOUN	ARGUMENT
+scouting	scout	VBG	CW	VERB
+be	be	VB	FW	aux_or_cop
+sure	sure	JJ	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+build	build	VB	CW	VERB
+tomorrow	tomorrow	NN	CW	NOUN	ARGUMENT
+leader	leader	NN	CW	NOUN	ARGUMENT
+today	today	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+

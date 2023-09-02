@@ -1,0 +1,803 @@
+word	lemma	POS	CW\FW	other categories
+beat	beat	VB	CW	VERB
+dog	dog	NN	CW	NOUN	ARGUMENT
+schuylkill	schuylkill	NN	CW	NOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+get	get	VB	CW	VERB
+100	100	CD	FW
+fine	fine	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+repeatedly	repeatedly	RB	ADV	CW
+beat	beat	VB	CW	VERB
+woman	woman	NN	CW	NOUN	ARGUMENT
+probably	probably	RB	ADV	CW
+get	get	VB	CW	VERB
+same	same	JJ	CW	ADJ
+fine	fine	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+2001	2001	CD	FW
+county	county	NN	CW	NOUN	ARGUMENT
+judge	judge	NN	CW	NOUN	ARGUMENT
+hear	hear	VBP	CW	VERB
+98	98	CD	FW
+protection	protection	NN	CW	NOUN	ARGUMENT
+abuse	abuse	NN	CW	NOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+defendant	defendant	NN	CW	NOUN	ARGUMENT
+guilty	guilty	JJ	CW	ADJ
+48	48	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+hearing	hearing	NN	CW	NOUN	ARGUMENT
+technical	technical	JJ	CW	ADJ
+violation	violation	NN	CW	NOUN	ARGUMENT
+plea	plea	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+find	find	VB	FW	aux_or_cop
+guilty	guilty	JJ	CW	ADJ
+majority	majority	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+order	order	NN	CW	NOUN	ARGUMENT
+pay	pay	NN	CW	NOUN	ARGUMENT
+court	court	NN	CW	NOUN	ARGUMENT
+cost	cost	NN	CW	NOUN	ARGUMENT
+100	100	CD	FW
+fine	fine	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+defendant	defendant	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+order	order	NN	CW	NOUN	ARGUMENT
+pay	pay	VB	CW	VERB
+more	more	JJR	CW	ADJ
+250	250	CD	FW
+fine	fine	NN	CW	NOUN	ARGUMENT
+violate	violate	VBP	CW	VERB
+court	court	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+27	27	CD	FW
+percent	percent	NN	CW	NOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+charge	charge	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+dismiss	dismiss	VB	CW	VERB
+defendant	defendant	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+find	find	VB	CW	VERB
+not	not	RB	ADV	CW
+guilty	guilty	JJ	CW	ADJ
+
+sentence break
+
+rest	rest	NN	CW	NOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+charge	charge	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+withdraw	withdraw	VB	CW	VERB
+matter	matter	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+not	not	RB	ADV	CW
+yet	yet	RB	ADV	CW
+resolve	resolve	VB	CW	VERB
+
+sentence break
+
+sarah	sarah	NN	CW	NOUN	ARGUMENT
+t	t	NN	CW	NOUN	ARGUMENT
+casey	casey	NN	CW	NOUN	ARGUMENT
+executive	executive	NN	CW	NOUN	ARGUMENT
+director	director	NN	CW	NOUN	ARGUMENT
+schuylkill	schuylkill	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+crisis	crisis	NN	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+disturbing	disturbing	JJ	CW	ADJ
+most	most	RBS	ADV	CW
+case	case	NN	CW	NOUN	ARGUMENT
+fine	fine	NN	CW	NOUN	ARGUMENT
+violate	violate	VBP	CW	VERB
+pfa	pfa	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+little	little	RB	ADV	CW
+more	more	RBR	ADV	CW
+fine	fine	JJ	CW	ADJ
+someone	someone	NN	CW	NOUN	ARGUMENT
+get	get	VB	CW	VERB
+cruelty	cruelty	NN	CW	NOUN	ARGUMENT
+abuse	abuse	NN	CW	NOUN	ARGUMENT
+animal	animal	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+most	most	JJS	CW	ADJ
+county	county	NN	CW	NOUN	ARGUMENT
+surround	surround	VBP	CW	VERB
+schuylkill	schuylkill	NN	CW	NOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+penalty	penalty	NN	CW	NOUN	ARGUMENT
+give	give	VBP	CW	VERB
+indirect	indirect	JJ	CW	ADJ
+criminal	criminal	JJ	CW	ADJ
+contempt	contempt	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+much	much	JJ	CW	ADJ
+stiffer	stiffer	JJR	CW	ADJ
+schuylkill	schuylkill	NN	CW	NOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+casey	casey	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+kind	kind	RB	ADV	CW
+message	message	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+send	send	VB	CW	VERB
+repeatedly	repeatedly	RB	ADV	CW
+violate	violate	VBP	CW	VERB
+protection	protection	NN	CW	NOUN	ARGUMENT
+abuse	abuse	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+ok	ok	JJ	CW	ADJ
+abuse	abuse	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+schuylkill	schuylkill	NN	CW	NOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+only	only	RB	ADV	CW
+get	get	VB	CW	VERB
+slap	slap	NN	CW	NOUN	ARGUMENT
+wrist	wrist	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+state	state	NN	CW	NOUN	ARGUMENT
+law	law	NN	CW	NOUN	ARGUMENT
+minimum	minimum	NN	CW	NOUN	ARGUMENT
+fine	fine	JJ	CW	ADJ
+contempt	contempt	NN	CW	NOUN	ARGUMENT
+pfa	pfa	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+100	100	CD	FW
+
+sentence break
+
+maximum	maximum	NN	CW	NOUN	ARGUMENT
+fine	fine	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+1	1	CD	FW
+000	000	CD	FW
+six	six	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+jail	jail	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+other	other	JJ	CW	ADJ
+be	be	VB	FW	aux_or_cop
+familiar	familiar	JJ	CW	ADJ
+county	county	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+system	system	NN	CW	NOUN	ARGUMENT
+do	do	VBP	FW	aux_or_cop
+do	do	VB	FW	aux_or_cop
+n't	not	RB	ADV	CW
+work	work	VB	CW	VERB
+victim	victim	NN	CW	NOUN	ARGUMENT
+domestic	domestic	JJ	CW	ADJ
+violence	violence	NN	CW	NOUN	ARGUMENT
+casey	casey	NN	CW	NOUN	ARGUMENT
+believe	believe	VBP	CW	VERB
+change	change	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+order	order	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+valerie	valerie	NN	CW	NOUN	ARGUMENT
+west	west	NN	CW	NOUN	ARGUMENT
+manager	manager	NN	CW	NOUN	ARGUMENT
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+mid	mid	JJ	CW	ADJ
+penn	penn	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+office	office	NN	CW	NOUN	ARGUMENT
+pottsville	pottsville	NN	CW	NOUN	ARGUMENT
+read	read	VBD	CW	VERB
+regularly	regularly	RB	ADV	CW
+handle	handle	VB	CW	VERB
+domestic	domestic	JJ	CW	ADJ
+violence	violence	NN	CW	NOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+find	find	VB	FW	aux_or_cop
+fault	fault	NN	CW	NOUN	ARGUMENT
+local	local	JJ	CW	ADJ
+requirement	requirement	NN	CW	NOUN	ARGUMENT
+custody	custody	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+establish	establish	VB	CW	VERB
+30	30	CD	FW
+day	day	NN	CW	NOUN	ARGUMENT
+pfa	pfa	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+file	file	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+west	west	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+feel	feel	VBP	CW	VERB
+custody	custody	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+allow	allow	VB	CW	VERB
+stand	stand	VB	CW	VERB
+full	full	JJ	CW	ADJ
+term	term	NN	CW	NOUN	ARGUMENT
+pfa	pfa	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+18	18	CD	FW
+month	month	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+do	do	VB	CW	VERB
+many	many	JJ	CW	ADJ
+other	other	JJ	CW	ADJ
+county	county	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+place	place	NN	CW	NOUN	ARGUMENT
+undue	undue	JJ	CW	ADJ
+burden	burden	NN	CW	NOUN	ARGUMENT
+plaintiff	plaintiff	NN	CW	NOUN	ARGUMENT
+term	term	NN	CW	NOUN	ARGUMENT
+cost	cost	NN	CW	NOUN	ARGUMENT
+find	find	VBP	CW	VERB
+legal	legal	JJ	CW	ADJ
+representation	representation	NN	CW	NOUN	ARGUMENT
+face	face	NN	CW	NOUN	ARGUMENT
+abuser	abuser	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+not	not	RB	ADV	CW
+mention	mention	VB	CW	VERB
+further	further	JJ	CW	ADJ
+burden	burden	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+service	service	NN	CW	NOUN	ARGUMENT
+west	west	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+difficult	difficult	JJ	CW	ADJ
+party	party	NN	CW	NOUN	ARGUMENT
+reach	reach	NN	CW	NOUN	ARGUMENT
+agreement	agreement	NN	CW	NOUN	ARGUMENT
+so	so	RB	ADV	CW
+soon	soon	RB	ADV	CW
+violence	violence	NN	CW	NOUN	ARGUMENT
+have	have	VBP	FW	aux_or_cop
+occur	occur	VBP	CW	VERB
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+counter-productive	counter-productive	JJ	CW	ADJ
+
+sentence break
+
+lack	lack	NN	CW	NOUN	ARGUMENT
+supervised	supervise	VBD	CW	VERB
+custody	custody	NN	CW	NOUN	ARGUMENT
+visitation	visitation	NN	CW	NOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+neutral	neutral	JJ	CW	ADJ
+safe	safe	JJ	CW	ADJ
+supervised	supervised	JJ	CW	ADJ
+place	place	NN	CW	NOUN	ARGUMENT
+child	child	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+exchange	exchange	NN	CW	NOUN	ARGUMENT
+one	one	CD	FW
+parent	parent	NN	CW	NOUN	ARGUMENT
+purpose	purpose	NN	CW	NOUN	ARGUMENT
+visitation	visitation	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+concern	concern	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+right	right	RB	ADV	CW
+now	now	RB	ADV	CW
+do	do	VBP	FW	aux_or_cop
+n't	not	RB	ADV	CW
+have	have	VB	CW	VERB
+agency	agency	NN	CW	NOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+willing	willing	JJ	CW	ADJ
+handle	handle	VB	CW	VERB
+supervised	supervise	VBN	CW	VERB
+custody	custody	NN	CW	NOUN	ARGUMENT
+visit	visit	NN	CW	NOUN	ARGUMENT
+west	west	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+obviously	obviously	RB	ADV	CW
+domestic	domestic	JJ	CW	ADJ
+violence	violence	NN	CW	NOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+major	major	JJ	CW	ADJ
+concern	concern	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+be	be	VB	FW	aux_or_cop
+potential	potential	JJ	CW	ADJ
+further	further	JJ	CW	ADJ
+incident	incident	NN	CW	NOUN	ARGUMENT
+abuse	abuse	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+meeting	meeting	NN	CW	NOUN	ARGUMENT
+sort	sort	NN	CW	NOUN	ARGUMENT
+outside	outside	IN	FW
+supervision	supervision	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+marsha	marsha	NN	CW	NOUN	ARGUMENT
+chwastiak	chwastiak	NN	CW	NOUN	ARGUMENT
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+pottsville	pottsville	NN	CW	NOUN	ARGUMENT
+office	office	NN	CW	NOUN	ARGUMENT
+mid	mid	JJ	CW	ADJ
+penn	penn	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+like	like	IN	FW
+see	see	VB	CW	VERB
+more	more	JJR	CW	ADJ
+fund	fund	NN	CW	NOUN	ARGUMENT
+make	make	VBP	CW	VERB
+available	available	JJ	CW	ADJ
+provide	provide	VBP	CW	VERB
+social	social	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+troubled	trouble	VBD	CW	VERB
+family	family	NN	CW	NOUN	ARGUMENT
+grapple	grapple	VBP	CW	VERB
+domestic	domestic	JJ	CW	ADJ
+violence	violence	NN	CW	NOUN	ARGUMENT
+issue	issue	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+have	have	VB	FW	aux_or_cop
+one	one	CD	FW
+wish	wish	NN	CW	NOUN	ARGUMENT
+christma	christma	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+have	have	VB	CW	VERB
+more	more	RBR	ADV	CW
+resource	resource	NN	CW	NOUN	ARGUMENT
+available	available	JJ	CW	ADJ
+help	help	NN	CW	NOUN	ARGUMENT
+family	family	NN	CW	NOUN	ARGUMENT
+try	try	VBP	CW	VERB
+sort	sort	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+chwastiak	chwastiak	NNS	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+majority	majority	NN	CW	NOUN	ARGUMENT
+domestic	domestic	JJ	CW	ADJ
+violence	violence	NN	CW	NOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+see	see	VBP	CW	VERB
+alcohol	alcohol	NN	CW	NOUN	ARGUMENT
+drug	drug	NN	CW	NOUN	ARGUMENT
+mental	mental	JJ	CW	ADJ
+health	health	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+heart	heart	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+feel	feel	VB	CW	VERB
+be	be	VB	FW	aux_or_cop
+more	more	RBR	ADV	CW
+social	social	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+legal	legal	JJ	CW	ADJ
+case	case	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+other	other	JJ	CW	ADJ
+problem	problem	NN	CW	NOUN	ARGUMENT
+target	target	NN	CW	NOUN	ARGUMENT
+swic	swic	JJ	CW	ADJ
+include	include	VBP	CW	VERB
+need	need	MD	CW	VERB
+more	more	RBR	ADV	CW
+expedient	expedient	JJ	CW	ADJ
+service	service	NN	CW	NOUN	ARGUMENT
+pfa	pfa	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+need	need	VB	CW	VERB
+free	free	JJ	CW	ADJ
+affordable	affordable	JJ	CW	ADJ
+legal	legal	JJ	CW	ADJ
+representation	representation	NN	CW	NOUN	ARGUMENT
+assistance	assistance	NN	CW	NOUN	ARGUMENT
+pfa	pfa	NN	CW	NOUN	ARGUMENT
+contempt	contempt	NN	CW	NOUN	ARGUMENT
+hearing	hearing	NN	CW	NOUN	ARGUMENT
+other	other	JJ	CW	ADJ
+civil	civil	JJ	CW	ADJ
+matter	matter	NN	CW	NOUN	ARGUMENT
+relate	relate	VBP	CW	VERB
+abuse	abuse	NN	CW	NOUN	ARGUMENT
+include	include	VBP	CW	VERB
+custody	custody	NN	CW	NOUN	ARGUMENT
+support	support	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+lack	lack	NN	CW	NOUN	ARGUMENT
+proper	proper	JJ	CW	ADJ
+training	training	NN	CW	NOUN	ARGUMENT
+law	law	NN	CW	NOUN	ARGUMENT
+enforcement	enforcement	NN	CW	NOUN	ARGUMENT
+official	official	NN	CW	NOUN	ARGUMENT
+handle	handle	VBP	CW	VERB
+domestic	domestic	JJ	CW	ADJ
+violence	violence	NN	CW	NOUN	ARGUMENT
+case	case	NN	CW	NOUN	ARGUMENT
+casey	casey	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+recent	recent	JJ	CW	ADJ
+202	202	CD	FW
+297	297	CD	FW
+federal	federal	JJ	CW	ADJ
+grant	grant	NN	CW	NOUN	ARGUMENT
+u	u	NN	CW	NOUN	ARGUMENT
+s	s	VBZ	CW	VERB
+department	department	NN	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+violence	violence	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+office	office	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+answer	answer	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+collaborative	collaborative	JJ	CW	ADJ
+effort	effort	NN	CW	NOUN	ARGUMENT
+schuylkill	schuylkill	NN	CW	NOUN	ARGUMENT
+woman	woman	NN	CW	NOUN	ARGUMENT
+crisis	crisis	NN	CW	NOUN	ARGUMENT
+schuylkill	schuylkill	NN	CW	NOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+sheriff	sheriff	NN	CW	NOUN	ARGUMENT
+department	department	NN	CW	NOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+grant	grant	NN	CW	NOUN	ARGUMENT
+writer	writer	NN	CW	NOUN	ARGUMENT
+lorraine	lorraine	NN	CW	NOUN	ARGUMENT
+bennick	bennick	NN	CW	NOUN	ARGUMENT
+pathway	pathway	NN	CW	NOUN	ARGUMENT
+safety	safety	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+initiate	initiate	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+two-year	two-year	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+fully	fully	RB	ADV	CW
+fund	fund	NN	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+department	department	NN	CW	NOUN	ARGUMENT
+grant	grant	NN	CW	NOUN	ARGUMENT
+encourage	encourage	VBP	CW	VERB
+arrest	arrest	NN	CW	NOUN	ARGUMENT
+policy	policy	NN	CW	NOUN	ARGUMENT
+enforcement	enforcement	NN	CW	NOUN	ARGUMENT
+protection	protection	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+initiative	initiative	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+way	way	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+spend	spend	VB	CW	VERB
+include	include	VBP	CW	VERB
+
+sentence break
+
+90	90	CD	FW
+000	000	CD	FW
+hire	hire	NN	CW	NOUN	ARGUMENT
+civil	civil	JJ	CW	ADJ
+justice	justice	NN	CW	NOUN	ARGUMENT
+attorney	attorney	NN	CW	NOUN	ARGUMENT
+45	45	CD	FW
+000	000	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+year	year	NN	CW	NOUN	ARGUMENT
+ensure	ensure	VB	FW	aux_or_cop
+victim	victim	NN	CW	NOUN	ARGUMENT
+domestic	domestic	JJ	CW	ADJ
+violence	violence	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+represent	represent	VB	CW	VERB
+second	second	JJ	CW	ADJ
+hearing	hearing	NN	CW	NOUN	ARGUMENT
+pfa	pfa	NN	CW	NOUN	ARGUMENT
+assist	assist	VB	CW	VERB
+other	other	JJ	CW	ADJ
+civil	civil	JJ	CW	ADJ
+matter	matter	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+20	20	CD	FW
+171	171	CD	FW
+support	support	NN	CW	NOUN	ARGUMENT
+overtime	overtime	NN	CW	NOUN	ARGUMENT
+cost	cost	NN	CW	NOUN	ARGUMENT
+two	two	CD	FW
+additional	additional	JJ	CW	ADJ
+officer	officer	NN	CW	NOUN	ARGUMENT
+serve	serve	VBP	CW	VERB
+pfa	pfa	NN	CW	NOUN	ARGUMENT
+nonscheduled	nonscheduled	JJ	CW	ADJ
+work	work	NN	CW	NOUN	ARGUMENT
+hour	hour	NN	CW	NOUN	ARGUMENT
+ensure	ensure	VB	CW	VERB
+more	more	JJR	CW	ADJ
+expedient	expedient	JJ	CW	ADJ
+immediate	immediate	JJ	CW	ADJ
+delivery	delivery	NN	CW	NOUN	ARGUMENT
+service	service	NN	CW	NOUN	ARGUMENT
+pfa	pfa	NN	CW	NOUN	ARGUMENT
+order	order	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+3	3	CD	FW
+645	645	CD	FW
+develop	develop	VBP	CW	VERB
+domestic	domestic	JJ	CW	ADJ
+violence	violence	NN	CW	NOUN	ARGUMENT
+training	training	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+local	local	JJ	CW	ADJ
+police	police	NN	CW	NOUN	ARGUMENT
+department	department	NN	CW	NOUN	ARGUMENT
+lead	lead	NN	CW	NOUN	ARGUMENT
+victim	victim	NN	CW	NOUN	ARGUMENT
+advocacy	advocacy	NN	CW	NOUN	ARGUMENT
+trainer	trainer	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+goal	goal	NN	CW	NOUN	ARGUMENT
+mini-workshop	mini-works	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+ensure	ensure	VB	CW	VERB
+local	local	JJ	CW	ADJ
+police	police	NN	CW	NOUN	ARGUMENT
+department	department	NN	CW	NOUN	ARGUMENT
+consistently	consistently	RB	ADV	CW
+adhere	adhere	VBP	CW	VERB
+proper	proper	JJ	CW	ADJ
+pfa	pfa	NN	CW	NOUN	ARGUMENT
+protocol	protocol	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+15	15	CD	FW
+000	000	CD	FW
+hire	hire	NN	CW	NOUN	ARGUMENT
+consultant	consultant	NN	CW	NOUN	ARGUMENT
+provide	provide	VBP	CW	VERB
+complete	complete	JJ	CW	ADJ
+detailed	detailed	JJ	CW	ADJ
+study	study	NN	CW	NOUN	ARGUMENT
+establish	establish	VB	CW	VERB
+most	most	RBS	ADV	CW
+cost	cost	VB	CW	VERB
+effective	effective	JJ	CW	ADJ
+link	link	NN	CW	NOUN	ARGUMENT
+county	county	NN	CW	NOUN	ARGUMENT
+facility	facility	NN	CW	NOUN	ARGUMENT
+municipal	municipal	JJ	CW	ADJ
+police	police	NN	CW	NOUN	ARGUMENT
+department	department	NN	CW	NOUN	ARGUMENT
+establish	establish	VB	CW	VERB
+jnet	jnet	NN	CW	NOUN	ARGUMENT
+information	information	NN	CW	NOUN	ARGUMENT
+management	management	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+fund	fund	NN	CW	NOUN	ARGUMENT
+state	state	NN	CW	NOUN	ARGUMENT
+pa	pa	NN	CW	NOUN	ARGUMENT
+operate	operate	VBP	CW	VERB
+pennsylvanium	pennsylvanium	NN	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+network	network	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+jnet	jnet	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+launch	launch	NN	CW	NOUN	ARGUMENT
+1998	1998	CD	FW
+ridge	ridge	NN	CW	NOUN	ARGUMENT
+schweiker	schweiker	NN	CW	NOUN	ARGUMENT
+administration	administration	NN	CW	NOUN	ARGUMENT
+help	help	NN	CW	NOUN	ARGUMENT
+local	local	JJ	CW	ADJ
+state	state	NN	CW	NOUN	ARGUMENT
+police	police	NN	CW	NOUN	ARGUMENT
+court	court	NN	CW	NOUN	ARGUMENT
+prison	prison	NN	CW	NOUN	ARGUMENT
+probation	probation	NN	CW	NOUN	ARGUMENT
+parole	parole	NN	CW	NOUN	ARGUMENT
+officer	officer	NN	CW	NOUN	ARGUMENT
+exchange	exchange	NN	CW	NOUN	ARGUMENT
+instantly	instantly	RB	ADV	CW
+update	update	VBP	CW	VERB
+information	information	NN	CW	NOUN	ARGUMENT
+individual	individual	JJ	CW	ADJ
+move	move	NN	CW	NOUN	ARGUMENT
+criminal	criminal	JJ	CW	ADJ
+justice	justice	NN	CW	NOUN	ARGUMENT
+system	system	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+make	make	VB	CW	VERB
+possible	possible	JJ	CW	ADJ
+better	better	JJR	CW	ADJ
+track	track	NN	CW	NOUN	ARGUMENT
+potentially	potentially	RB	ADV	CW
+dangerous	dangerous	JJ	CW	ADJ
+individual	individual	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+help	help	NN	CW	NOUN	ARGUMENT
+justice	justice	NN	CW	NOUN	ARGUMENT
+agency	agency	NN	CW	NOUN	ARGUMENT
+share	share	NN	CW	NOUN	ARGUMENT
+criminal	criminal	JJ	CW	ADJ
+file	file	NN	CW	NOUN	ARGUMENT
+more	more	RBR	ADV	CW
+easily	easily	RB	ADV	FW
+jnet	jnet	NN	CW	NOUN	ARGUMENT
+improve	improve	VB	CW	VERB
+efficiency	efficiency	NN	CW	NOUN	ARGUMENT
+reduce	reduce	VB	CW	VERB
+potential	potential	JJ	CW	ADJ
+error	error	NN	CW	NOUN	ARGUMENT
+occur	occur	VBP	CW	VERB
+agency	agency	NN	CW	NOUN	ARGUMENT
+maintain	maintain	VBP	CW	VERB
+disparate	disparate	JJ	CW	ADJ
+datum	datum	NN	CW	NOUN	ARGUMENT
+file	file	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+jnet	jnet	NN	CW	NOUN	ARGUMENT
+be	be	VB	FW	aux_or_cop
+also	also	RB	ADV	CW
+use	use	VB	CW	VERB
+prevent	prevent	VB	CW	VERB
+detention	detention	NN	CW	NOUN	ARGUMENT
+individual	individual	JJ	CW	ADJ
+wrongly	wrongly	RB	ADV	CW
+identify	identify	VBP	CW	VERB
+criminal	criminal	JJ	CW	ADJ
+suspect	suspect	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+pathway	pathway	NN	CW	NOUN	ARGUMENT
+safety	safety	NN	CW	NOUN	ARGUMENT
+program	program	NN	CW	NOUN	ARGUMENT
+compliment	compliment	NN	CW	NOUN	ARGUMENT
+exist	exist	VBP	CW	VERB
+swic	swic	JJ	CW	ADJ
+program	program	NN	CW	NOUN	ARGUMENT
+address	address	NN	CW	NOUN	ARGUMENT
+problem	problem	NN	CW	NOUN	ARGUMENT
+experience	experience	NN	CW	NOUN	ARGUMENT
+victim	victim	NN	CW	NOUN	ARGUMENT
+domestic	domestic	JJ	CW	ADJ
+violence	violence	NN	CW	NOUN	ARGUMENT
+casey	casey	NN	CW	NOUN	ARGUMENT
+say	say	VBP	CW	VERB
+
+sentence break
+
+believe	believe	VB	CW	VERB
+victim	victim	NN	CW	NOUN	ARGUMENT
+domestic	domestic	JJ	CW	ADJ
+violence	violence	NN	CW	NOUN	ARGUMENT
+deserve	deserve	VBP	CW	VERB
+immediate	immediate	JJ	CW	ADJ
+consistent	consistent	JJ	CW	ADJ
+respectful	respectful	JJ	CW	ADJ
+treatment	treatment	NN	CW	NOUN	ARGUMENT
+offender	offender	NN	CW	NOUN	ARGUMENT
+receive	receive	VBP	CW	VERB
+swift	swift	NN	CW	NOUN	ARGUMENT
+efficient	efficient	JJ	CW	ADJ
+just	just	JJ	CW	ADJ
+punishment	punishment	NN	CW	NOUN	ARGUMENT
+
+sentence break
+
+
+paragraph break
+
